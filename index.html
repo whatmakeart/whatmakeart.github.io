@@ -14,13 +14,13 @@
         body {
             margin: 0 auto;
             padding: 0 1rem;
-            ;
+
         }
 
         .video-grid {
             display: grid;
             align-items: end;
-            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             grid-gap: 10px;
         }
 
@@ -63,13 +63,89 @@
             padding-bottom: 2rem;
             border-radius: 1rem;
         }
+
+        /* Begin Header Navbar Styles */
+        .nav-bar {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            align-items: center;
+            line-height: 1rem;
+            overflow: hidden;
+            background-color: #fff;
+        }
+
+
+        .nav-menu {
+            text-transform: uppercase;
+        }
+
+        .nav-menu {
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            padding: 0;
+            margin: 0;
+        }
+
+        .nav-item {
+            flex: 1;
+            text-align: center;
+            white-space: nowrap;
+            padding: .5rem;
+
+
+        }
+
+
+        .nav-menu a {
+            display: block;
+            text-decoration: none;
+            letter-spacing: 0.2rem;
+            padding: 1rem;
+            color: white;
+            background-color: black;
+            font-weight: 400;
+            letter-spacing: 0.1rem;
+            border-radius: .5rem;
+
+
+        }
+
+        .nav-menu a:hover {
+            color: black;
+            background-color: white;
+        }
     </style>
 </head>
 
 <body>
-    <h1 class="banner">Asynchronous Video Content 1</h1>
+    <nav class="nav-bar">
+        <ul class="nav-menu">
+            <li class="nav-item"><a href="#week1">Week 1</a></li>
+            <li class="nav-item"><a href="#week2">Week 2</a></li>
+            <li class="nav-item"><a href="#week3">Week 3</a></li>
+            <li class="nav-item"><a href="#week4">Week 4</a></li>
+            <!--
+            <li class="nav-item"><a href="#week5">Week 5</a></li>
+            <li class="nav-item"><a href="#week6">Week 6</a></li>
+            <li class="nav-item"><a href="#week7">Week 7</a></li>
+            <li class="nav-item"><a href="#week8">Week 8</a></li>
+            <li class="nav-item"><a href="#week9">Week 9</a></li>
+            <li class="nav-item"><a href="#week10">Week 10</a></li>
+            <li class="nav-item"><a href="#week11">Week 11</a></li>
+            <li class="nav-item"><a href="#week12">Week 12</a></li>
+            <li class="nav-item"><a href="#week13">Week 13</a></li>
+            <li class="nav-item"><a href="#week14">Week 14</a></li>
+            -->
+
+        </ul>
+    </nav>
+    <h1 class="banner" id="week1">Asynchronous Video Content 1</h1>
     <div class="video-grid">
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>1. Supplies Needed for Technical Drawing</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -78,7 +154,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>2. How to Draw Straight Lines</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -87,7 +163,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>3. Draw Isometric Cube Freehand</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -96,7 +172,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>4. Draw Isometric Circle Freehand</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -105,7 +181,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>5. Draw Isometric Cube with a T-Square</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -114,7 +190,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>6. Draw Isometric Circle with a Compass</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -123,7 +199,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>7. How to Use Digital Calipers</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -132,7 +208,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>8. Third Angle Projection Freehand</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -141,7 +217,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>9. More Complex Third Angle Projection</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -150,7 +226,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>10. Third Angle Projection with a T-Square</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -159,7 +235,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>11. Third Angle Projection USB Plug</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -168,7 +244,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>12. Fusion 360 User Interface</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -177,7 +253,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>13. Fusion 360 3D Modeling Exercise</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -188,7 +264,7 @@
 
         <h1 class="web">Portfolio Website Weekly Review / Intro</h1>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>Setup Free Domain Name</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -197,7 +273,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>Enforce HTTPS</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -207,9 +283,9 @@
         </div>
     </div>
 
-    <h1 class="banner">Asynchronous Video Content 2</h1>
+    <h1 class="banner" id="week2">Asynchronous Video Content 2</h1>
     <div class="video-grid">
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>1. Fusion 360 Rule #1</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -218,7 +294,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>2. Fusion 360 Sketch Constraints</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -227,7 +303,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>3. Fusion 360 Fully Defined Sketch</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -236,7 +312,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>4. Fusion 360 Model USB Plug from Third Angle Projection</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -249,7 +325,7 @@
         <h1 class="web">Portfolio Website Weekly Review / Intro # 2</h1>
 
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>Setup Visual Studio Code</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -258,9 +334,9 @@
             </div>
         </div>
     </div>
-    <h1 class="banner">Asynchronous Video Content 3</h1>
+    <h1 class="banner" id="week3">Asynchronous Video Content 3</h1>
     <div class="video-grid">
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>1. Export STL File from Fusion 360</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -269,7 +345,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>2. Add Custom HDRI Background to Fusion 360 Render</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -278,7 +354,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>3. Add Sketch Reference to Fusion 360</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -291,7 +367,7 @@
         <h1 class="web">Portfolio Website Weekly Review / Intro # 3</h1>
 
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>HTML Crash Course</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -300,9 +376,9 @@
             </div>
         </div>
     </div>
-    <h1 class="banner">Asynchronous Video Content 4</h1>
+    <h1 class="banner" id="week4">Asynchronous Video Content 4</h1>
     <div class="video-grid">
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>1. Model Laser Cut Cell Phone Stand</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -311,7 +387,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>2. Import SVG or DXF File from Illustrator into Fusion 360</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -320,7 +396,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>3. Create Laser Cutter Tool with Specific Kerf</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -329,7 +405,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>4. Download and Install DXF Post Process for Fusion 360</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -338,7 +414,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>5. Fully Define Splines in Fusion 360 Sketch</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -347,7 +423,7 @@
             </div>
         </div>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>6. Pattern Along Path or Spline</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
@@ -359,7 +435,7 @@
 
         <h1 class="web">Portfolio Website Weekly Review / Intro # 4</h1>
 
-        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+        <div style="width: 100%;  max-height: auto; margin: 0 auto">
             <h2>HTML Crash Course</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
                 <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
