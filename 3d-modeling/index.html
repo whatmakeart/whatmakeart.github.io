@@ -6,11 +6,57 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>3D Modeling and Fabrication Tutorial Videos</title>
+    <style>
+        html {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        .video-grid {
+            display: grid;
+            align-items: end;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            grid-gap: 10px;
+        }
+
+        .video-grid div {
+            border: 1px solid grey;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            justify-content: space-between;
+        }
+
+        .video-grid div h2 {
+            padding: 1rem .5rem 1rem 1rem;
+            margin: 0;
+            font-size: 1rem;
+            font-weight: normal;
+        }
+
+        .web {
+            background-color: yellow;
+            color: magenta;
+            height: 100%;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        .banner {
+            width: 100%;
+            background-color: black;
+            color: white;
+            font-size: 3rem;
+            padding-top: 2rem;
+            padding-left: 1rem;
+            padding-bottom: 2rem;
+        }
+    </style>
 </head>
 
 <body>
-    <h1>Asynchronous Video Content 1</h1>
-    <div style="display: flex; flex-wrap: wrap; align-items: flex-end">
+    <h1 class="banner">Asynchronous Video Content 1</h1>
+    <div class="video-grid">
         <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
             <h2>1. Supplies Needed for Technical Drawing</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
@@ -127,26 +173,9 @@
                     allowfullscreen="allowfullscreen"></iframe>
             </div>
         </div>
-    </div>
 
-    <h1>Portfolio Website Weekly Review / Intro</h1>
-    <p>
-        Each week there will be video(s) that go over everything you need to know to set up your portfolio websites by
-        the end of the
-        semester. If you do the exercises each week, by the end of the semester you will have a portfolio website on a
-        custom domain
-        name. You can then add documentation of the projects that you make this semester to your portfolio. These videos
-        are designed to
-        start from zero knowledge but can be used as reviews / refreshers also.
-    </p>
-    <p>
-        If you did not make a website with a custom domain last semester, it is especially important that you do the two
-        videos below.
-        This creates a GitHub account and gets you a free domain name. Sometimes it takes a bit to process the domain
-        name so best to do
-        it earlier than later
-    </p>
-    <div style="display: flex; flex-wrap: wrap; align-items: flex-end">
+        <h1 class="web">Portfolio Website Weekly Review / Intro</h1>
+
         <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
             <h2>Setup Free Domain Name</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
@@ -155,8 +184,7 @@
                     allowfullscreen="allowfullscreen"></iframe>
             </div>
         </div>
-    </div>
-    <div style="display: flex; flex-wrap: wrap; align-items: flex-end">
+
         <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
             <h2>Enforce HTTPS</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
@@ -166,8 +194,9 @@
             </div>
         </div>
     </div>
-    <h1>Asynchronous Video Content 2</h1>
-    <div style="display: flex; flex-wrap: wrap; align-items: flex-end">
+
+    <h1 class="banner">Asynchronous Video Content 2</h1>
+    <div class="video-grid">
         <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
             <h2>1. Fusion 360 Rule #1</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
@@ -203,21 +232,11 @@
                     allowfullscreen="allowfullscreen"></iframe>
             </div>
         </div>
-    </div>
 
-    <h1>Portfolio Website Weekly Review / Intro # 2</h1>
-    <p>
-        If you do the website exercises each week, by the end of the semester you will have a portfolio website on a
-        custom domain name.
-    </p>
-    <p>
-        Last week you set up a GitHub account. This week you will download Visual Studio Code. This is the software that
-        you will use to
-        code your website. This video shows how to connect visual studio code to GitHub. This is an important step to be
-        able to upload
-        your website.
-    </p>
-    <div style="display: flex; flex-wrap: wrap; align-items: flex-end">
+
+        <h1 class="web">Portfolio Website Weekly Review / Intro # 2</h1>
+
+
         <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
             <h2>Setup Visual Studio Code</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
@@ -227,8 +246,8 @@
             </div>
         </div>
     </div>
-    <h1>Asynchronous Video Content</h1>
-    <div style="display: flex; flex-wrap: wrap; align-items: flex-end">
+    <h1 class="banner">Asynchronous Video Content 3</h1>
+    <div class="video-grid">
         <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
             <h2>1. Export STL File from Fusion 360</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
@@ -255,22 +274,11 @@
                     allowfullscreen="allowfullscreen"></iframe>
             </div>
         </div>
-    </div>
 
-    <h1>Portfolio Website Weekly Review / Intro # 3</h1>
-    <p>
-        If you do the website exercises each week, by the end of the semester you will have a portfolio website on a
-        custom domain name.
-    </p>
-    <hr />
-    <p>
-        Last week you set up Visual Studio Code to be able to write the HTML for your website. This week it is a crash
-        course in HTML.
-        This assumes that you have zero knowledge of HTML and starts with the basics. If you follow along and do the
-        excercises in the
-        video, by the end you will have a functional understanding of HTML and the structure of a webpage.
-    </p>
-    <div style="display: flex; flex-wrap: wrap; align-items: flex-end">
+
+        <h1 class="web">Portfolio Website Weekly Review / Intro # 3</h1>
+
+
         <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
             <h2>HTML Crash Course</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
@@ -280,8 +288,8 @@
             </div>
         </div>
     </div>
-    <h1>Asynchronous Video Content 4</h1>
-    <div style="display: flex; flex-wrap: wrap; align-items: flex-end">
+    <h1 class="banner">Asynchronous Video Content 4</h1>
+    <div class="video-grid">
         <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
             <h2>1. Model Laser Cut Cell Phone Stand</h2>
             <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
@@ -291,67 +299,63 @@
             </div>
         </div>
 
-        <div style="display: flex; flex-wrap: wrap; align-items: flex-end">
-            <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
-                <h2>2. Import SVG or DXF File from Illustrator into Fusion 360</h2>
-                <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
-                    <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
-                        src="https://www.youtube.com/embed/aMBnke14Wgg" width="300" height="150" frameborder="0"
-                        allowfullscreen="allowfullscreen"></iframe>
-                </div>
-            </div>
-
-            <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
-                <h2>3. Create Laser Cutter Tool with Specific Kerf</h2>
-                <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
-                    <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
-                        src="https://www.youtube.com/embed/-B6DXF9aE5s" width="300" height="150" frameborder="0"
-                        allowfullscreen="allowfullscreen"></iframe>
-                </div>
-            </div>
-
-            <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
-                <h2>4. Download and Install DXF Post Process for Fusion 360</h2>
-                <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
-                    <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
-                        src="https://www.youtube.com/embed/CBu6vl6Bqos" width="300" height="150" frameborder="0"
-                        allowfullscreen="allowfullscreen"></iframe>
-                </div>
-            </div>
-
-            <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
-                <h2>5. Fully Define Splines in Fusion 360 Sketch</h2>
-                <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
-                    <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
-                        src="https://www.youtube.com/embed/ynBl9XJesDs" width="300" height="150" frameborder="0"
-                        allowfullscreen="allowfullscreen"></iframe>
-                </div>
-            </div>
-
-            <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
-                <h2>6. Pattern Along Path or Spline</h2>
-                <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
-                    <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
-                        src="https://www.youtube.com/embed/9xit7JRPQ0A" width="300" height="150" frameborder="0"
-                        allowfullscreen="allowfullscreen"></iframe>
-                </div>
-            </div>
-
-
-        </div>
-        <hr />
-        <h1>Portfolio Website Weekly Review / Intro # 4</h1>
-
-        <div style="display: flex; flex-wrap: wrap; align-items: flex-end">
-            <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
-                <h2>HTML Crash Course</h2>
-                <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
-                    <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
-                        src="https://www.youtube.com/embed/KW25-M00YTw" width="300" height="150" frameborder="0"
-                        allowfullscreen="allowfullscreen"></iframe>
-                </div>
+        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+            <h2>2. Import SVG or DXF File from Illustrator into Fusion 360</h2>
+            <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
+                <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
+                    src="https://www.youtube.com/embed/aMBnke14Wgg" width="300" height="150" frameborder="0"
+                    allowfullscreen="allowfullscreen"></iframe>
             </div>
         </div>
+
+        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+            <h2>3. Create Laser Cutter Tool with Specific Kerf</h2>
+            <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
+                <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
+                    src="https://www.youtube.com/embed/-B6DXF9aE5s" width="300" height="150" frameborder="0"
+                    allowfullscreen="allowfullscreen"></iframe>
+            </div>
+        </div>
+
+        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+            <h2>4. Download and Install DXF Post Process for Fusion 360</h2>
+            <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
+                <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
+                    src="https://www.youtube.com/embed/CBu6vl6Bqos" width="300" height="150" frameborder="0"
+                    allowfullscreen="allowfullscreen"></iframe>
+            </div>
+        </div>
+
+        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+            <h2>5. Fully Define Splines in Fusion 360 Sketch</h2>
+            <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
+                <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
+                    src="https://www.youtube.com/embed/ynBl9XJesDs" width="300" height="150" frameborder="0"
+                    allowfullscreen="allowfullscreen"></iframe>
+            </div>
+        </div>
+
+        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+            <h2>6. Pattern Along Path or Spline</h2>
+            <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
+                <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
+                    src="https://www.youtube.com/embed/9xit7JRPQ0A" width="300" height="150" frameborder="0"
+                    allowfullscreen="allowfullscreen"></iframe>
+            </div>
+        </div>
+
+
+        <h1 class="web">Portfolio Website Weekly Review / Intro # 4</h1>
+
+        <div style="width: 100%; max-width: 400px; max-height: auto; margin: 0 auto">
+            <h2>HTML Crash Course</h2>
+            <div style="position: relative; width: 100%; height: 0px; padding-top: 56.25%">
+                <iframe style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border: 0"
+                    src="https://www.youtube.com/embed/KW25-M00YTw" width="300" height="150" frameborder="0"
+                    allowfullscreen="allowfullscreen"></iframe>
+            </div>
+        </div>
+    </div>
 
 </body>
 
