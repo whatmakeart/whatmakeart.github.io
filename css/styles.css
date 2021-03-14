@@ -1,0 +1,118 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0 1rem 6rem;
+}
+
+.video-grid {
+    display: grid;
+    align-items: end;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 10px;
+}
+
+.video-grid div {
+    border: 1px solid grey;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+    border-radius: 1rem;
+}
+
+.video-grid div h2 {
+    padding: 1rem .5rem .3rem 1rem;
+    margin: 0;
+    font-size: 1rem;
+}
+
+.web {
+    background-color: yellow;
+    color: magenta;
+    height: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0 .3rem 0 .3rem;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    font-size: 1.7rem;
+}
+
+.banner {
+
+    background-color: black;
+    color: white;
+    font-size: 3rem;
+    padding-top: 2rem;
+    padding-left: 1rem;
+    padding-bottom: 2rem;
+    border-radius: 1rem;
+}
+
+/* Begin Header Navbar Styles */
+.nav-bar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    line-height: 1rem;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+
+.nav-menu {
+    text-transform: uppercase;
+}
+
+.nav-menu {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-item {
+    flex: 1;
+    text-align: center;
+    white-space: nowrap;
+    padding: .5rem;
+
+
+}
+
+
+.nav-menu a {
+    display: block;
+    text-decoration: none;
+    letter-spacing: 0.2rem;
+    padding: 1rem;
+    color: white;
+    background-color: black;
+    font-weight: 400;
+    letter-spacing: 0.1rem;
+    border-radius: .5rem;
+
+
+}
+
+.nav-menu a:hover {
+    color: black;
+    background-color: white;
+}
+
+iframe {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
