@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>What Make Art</title>
-    <link>http://whatmakeart.com/</link>
-    <description>Recent content on What Make Art</description>
+    <title>Laser Cutting on What Make Art</title>
+    <link>http://whatmakeart.com/tags/laser-cutting/</link>
+    <description>Recent content in Laser Cutting on What Make Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Mar 2021 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Mar 2021 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/tags/laser-cutting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Living Hinges Minimum Bend Radius for Laser Cutting</title>
       <link>http://whatmakeart.com/posts/living-hinges-minimum-bend-radius-for-laser-cutting/</link>
@@ -17,15 +17,6 @@
 For example this 1.5 mm cut is is very bendy and flexible and can fit around tight radiuses.
 But if I move up to 4 mm, I still bend but it is not as flexible as other cut patterns.
 That&amp;rsquo;s why you need to make swatches so you can test out different cut distances on your material.</description>
-    </item>
-    
-    <item>
-      <title>Maya User Interface for Beginners</title>
-      <link>http://whatmakeart.com/posts/maya-user-interface/</link>
-      <pubDate>Sat, 20 Mar 2021 08:30:00 -0400</pubDate>
-      
-      <guid>http://whatmakeart.com/posts/maya-user-interface/</guid>
-      <description>Maya user interface tutorial for beginners   Maya user interface tutorial for beginners</description>
     </item>
     
   </channel>
