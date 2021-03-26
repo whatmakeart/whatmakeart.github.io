@@ -2,16 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://whatmakeart.com/tags/laser-cutting/</loc>
-    <lastmod>2021-03-20T08:30:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://whatmakeart.com/posts/living-hinges-minimum-bend-radius-for-laser-cutting/</loc>
-    <lastmod>2021-03-20T08:30:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://whatmakeart.com/tags/maya/</loc>
     <lastmod>2021-03-20T08:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -34,6 +24,16 @@
   </url><url>
     <loc>http://whatmakeart.com/</loc>
     <lastmod>2021-03-20T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/tags/laser-cutting/</loc>
+    <lastmod>2021-02-16T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/posts/living-hinges-minimum-bend-radius-for-laser-cutting/</loc>
+    <lastmod>2021-02-16T08:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
