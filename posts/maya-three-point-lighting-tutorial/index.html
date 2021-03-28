@@ -1,19 +1,21 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
-    <title>Maya Three Point Lighting Tutorial | What Make Art</title>
-    <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="Use the principles of three point lighting to make more realistic renders in Maya">
-    <meta name="generator" content="Hugo 0.82.0" />
-    
-    
-      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
-    
 
-    
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <title>Maya Three Point Lighting Tutorial | What Make Art</title>
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <meta name="description"
+    content="Use the principles of three point lighting to make more realistic renders in Maya">
+  <meta name="generator" content="Hugo 0.82.0" />
+  
+  
+  <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+  
+
+  
 
   
   
@@ -23,8 +25,8 @@
 
 
 
-    
-      
+  
+  
 <link rel="shortcut icon" href="/img/favicon/favicon.ico" type="image/x-icon" />
 <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
@@ -34,11 +36,11 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
-    
+  
 
-    
-    
-    <meta property="og:title" content="Maya Three Point Lighting Tutorial" />
+  
+
+  <meta property="og:title" content="Maya Three Point Lighting Tutorial" />
 <meta property="og:description" content="Use the principles of three point lighting to make more realistic renders in Maya" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://whatmakeart.com/posts/maya-three-point-lighting-tutorial/" /><meta property="article:section" content="posts" />
@@ -53,25 +55,25 @@
 <meta name="twitter:title" content="Maya Three Point Lighting Tutorial"/>
 <meta name="twitter:description" content="Use the principles of three point lighting to make more realistic renders in Maya"/>
 
-      
-<script type="application/javascript">
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S4CF1KSMYD"></script>
+<script>
 var doNotTrack = false;
 if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'G-S4CF1KSMYD', 'auto');
-	
-	ga('send', 'pageview');
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-S4CF1KSMYD', { 'anonymize_ip': false });
 }
 </script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
 
-    
-	
-  </head>
+  
+  
+</head>
 
-  <body class="ma0 avenir bg-near-white production">
+<body class="ma0 avenir bg-near-white production">
 
-    
+  
    
   
 
@@ -165,8 +167,8 @@ if (!doNotTrack) {
 
 
 
-    <main class="pb7" role="main">
-      
+  <main class="pb7" role="main">
+    
   
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
     <header class="mt4 w-100">
@@ -217,7 +219,7 @@ if (!doNotTrack) {
   <iframe src="https://www.youtube.com/embed/1nYSVw6-GxA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Maya Three Point Lighting Tutorial"></iframe>
 </div>
 
-<p>Here in Maya i have a small object that i&rsquo;ve modeled but i want to now light it and render it. I&rsquo;m going to show you how to light this with three-point lighting and add a backdrop so it looks nice with shadows. If you want to know how to model this object there&rsquo;s a link to the video in the description. The first thing we need to do is create a backdrop. To do that click on the curves surfaces shelf. We&rsquo;re going to use the bezier curve and then press the space bar so we can see all of our views. We&rsquo;re going to work on the side view here. If you hold the x button on the keyboard and click you&rsquo;ll lock to these vertices on the grid. So i&rsquo;ll click once. Then I&rsquo;ll click behind and this time I&rsquo;m going to click and drag to the left. Drag two squares over. Then go two more squares over, four squares up, hold x and click and drag up two squares. Then pan up and click one more time at the top holding the x button. Then press spacebar, q to get back to the move tool and press space bar to return to the perspective view. We can zoom out. With this curve selected, I&rsquo;m going to go to the attribute editor and i want to click on bezier 1. I&rsquo;m going to translate this over 25 , then press enter. I&rsquo;m going to press ctrl d or command d to duplicate and then type negative 25. Now I have two curves. I want to off click then I&rsquo;ll click one of them, then hold shift and click the next one. I can double click on the loft command here or I can go to surfaces loft and click on this box. This gives me options for the loft. I want to make sure that polygons instead of nurbs is selected and I want to select control points. Then click loft, this gives me a surface going across but it&rsquo;s still kind of chunky so I want to click on the poly modeling shelf and I can click here for smooth. I can also go to the modeling toolkit and click smooth here. Click smooth twice and then we have a nice smooth polygon surface. Click on the outliner on the left hand side of the screen. We can delete both of these beziers, we don&rsquo;t need them anymore. We can also click here to turn off the grid since we have a floor for our rendering. Click on q to select the object. I&rsquo;m also going to close the outliner. I can now press r to scale this object, I can scale it like this and I can also scale it in the vertical direction as well as side to side to have a nice big object to render on. Right click on the object and we&rsquo;re going to assign a new material, we&rsquo;ll assign a blin. Then over in the materials we want to turn off any reflectivity and any specular color. This way we won&rsquo;t have any reflections on it. Now we need to add some lights to do that we&rsquo;ll click on the rendering shelf and we&rsquo;ll add a spotlight. The spotlight shows up right in the middle we can press r to scale it, grab it from the center and scale it up. Since this is a Maya light scaling it does not change the intensity of the light if you are using lights from the Arnold shelf and you make the light bigger it will change the intensity so make sure you pay attention to that. I&rsquo;m going to go back to the rendering shelf. Then I&rsquo;ll press w to move the light I&rsquo;ll move it up, back away. I could press e to rotate the light and aim it but there&rsquo;s an easier way, when you have w or the move tool selected you can tap t. It brings you up another control so I can bring this control out and notice how the light points at that control I can bring it down towards the object. I could try to guess where the object is or I could press v. So let go then press and hold the v key you&rsquo;ll see this little circle and then it&rsquo;ll snap right to the object. Then I can drag this over and notice how the light continually points at the object and then I can raise it up. If we press 7 on our keyboard or click this little light bulb it&rsquo;ll show the default lighting setup so then we can move our light around to see where we want it to be.</p>
+<p>Here in Maya I have a small object that I&rsquo;ve modeled but I want to now light it and render it. I&rsquo;m going to show you how to light this with three-point lighting and add a backdrop so it looks nice with shadows. If you want to know how to model this object there&rsquo;s a link to the video in the description. The first thing we need to do is create a backdrop. To do that click on the curves surfaces shelf. We&rsquo;re going to use the bezier curve and then press the space bar so we can see all of our views. We&rsquo;re going to work on the side view here. If you hold the x button on the keyboard and click you&rsquo;ll lock to these vertices on the grid. So i&rsquo;ll click once. Then I&rsquo;ll click behind and this time I&rsquo;m going to click and drag to the left. Drag two squares over. Then go two more squares over, four squares up, hold x and click and drag up two squares. Then pan up and click one more time at the top holding the x button. Then press spacebar, q to get back to the move tool and press space bar to return to the perspective view. We can zoom out. With this curve selected, I&rsquo;m going to go to the attribute editor and i want to click on bezier 1. I&rsquo;m going to translate this over 25 , then press enter. I&rsquo;m going to press ctrl d or command d to duplicate and then type negative 25. Now I have two curves. I want to off click then I&rsquo;ll click one of them, then hold shift and click the next one. I can double click on the loft command here or I can go to surfaces loft and click on this box. This gives me options for the loft. I want to make sure that polygons instead of nurbs is selected and I want to select control points. Then click loft, this gives me a surface going across but it&rsquo;s still kind of chunky so I want to click on the poly modeling shelf and I can click here for smooth. I can also go to the modeling toolkit and click smooth here. Click smooth twice and then we have a nice smooth polygon surface. Click on the outliner on the left hand side of the screen. We can delete both of these beziers, we don&rsquo;t need them anymore. We can also click here to turn off the grid since we have a floor for our rendering. Click on q to select the object. I&rsquo;m also going to close the outliner. I can now press r to scale this object, I can scale it like this and I can also scale it in the vertical direction as well as side to side to have a nice big object to render on. Right click on the object and we&rsquo;re going to assign a new material, we&rsquo;ll assign a blin. Then over in the materials we want to turn off any reflectivity and any specular color. This way we won&rsquo;t have any reflections on it. Now we need to add some lights to do that we&rsquo;ll click on the rendering shelf and we&rsquo;ll add a spotlight. The spotlight shows up right in the middle we can press r to scale it, grab it from the center and scale it up. Since this is a Maya light scaling it does not change the intensity of the light if you are using lights from the Arnold shelf and you make the light bigger it will change the intensity so make sure you pay attention to that. I&rsquo;m going to go back to the rendering shelf. Then I&rsquo;ll press w to move the light I&rsquo;ll move it up, back away. I could press e to rotate the light and aim it but there&rsquo;s an easier way, when you have w or the move tool selected you can tap t. It brings you up another control so I can bring this control out and notice how the light points at that control I can bring it down towards the object. I could try to guess where the object is or I could press v. So let go then press and hold the v key you&rsquo;ll see this little circle and then it&rsquo;ll snap right to the object. Then I can drag this over and notice how the light continually points at the object and then I can raise it up. If we press 7 on our keyboard or click this little light bulb it&rsquo;ll show the default lighting setup so then we can move our light around to see where we want it to be.</p>
 <p>Press spacebar so we can see the top view, move out a bit. We want to create a 45 degree angle of the light pointing at the object. What we have here is pretty good. Now we need to change some of the settings on the light itself. In the spotlight shape we can change the intensity of the light. If we change this much it&rsquo;s going to get very bright very quickly that&rsquo;s because the decay rate is set at no decay. This is not very realistic but is useful for simple lighting and seeing what your light is doing. We want to change this to quadratic, notice that now the light is completely gone. It&rsquo;s still there but quadratic is a more realistic light setting so that means the light will decrease with the distance away from the object, so that means we really have to crank up the intensity. So I&rsquo;m going to put in 3000 for the intensity, now I can see my object. Another thing we want to click is this SRGB gamma. We can click this off, this is going to be more realistic of what&rsquo;s actually going to render out with a png or a jpeg. So that means i&rsquo;m going to increase this intensity up to 4000, maybe even up to 8000. Let&rsquo;s see what that looks like. So 8000 gives me pretty good lighting here, I can always crank this down so let&rsquo;s maybe, yeah ,we&rsquo;ll leave it at 8000. Then I want to adjust the penumbra angle. Look at the edge of the lighting here, if I adjust this everything becomes more fuzzy. You see that, so we want to make this fuzzy and then we&rsquo;re going to increase the cone angle. So now we have the light going all the way across the scene. We can then make more adjustments to the light moving it where we think and notice it&rsquo;s always pointing right there. Increase the cone angle even more. Then we want to scroll down and we want to select use ray trace shadows. We&rsquo;re going to add some more light radius and then we&rsquo;re going to add more rays to our shadow. So let&rsquo;s type in 20 for now and then we can adjust that to make our shadows as smooth as we want once we have everything set up. Let&rsquo;s click on the outliner and make some names. So here we have block which is our block and then lofted surface let&rsquo;s rename this to background and then let&rsquo;s rename this spotlight to key light. First I&rsquo;ll close the outliner, then I&rsquo;ll press ctrl d or command d to duplicate move this light over and notice it stays pointing at the second light. I can press space bar to see the top view, we want these lights to be kind of at an angle to each other so this looks pretty good here. Press spacebar again to go back to perspective view. Notice that now it kind of seems over lit that&rsquo;s because this is the fill light and we want that to be at a lower intensity. So if this was at eight thousand let&rsquo;s bring it down to at least four thousand. Now this is just filling in this side. We can even lower it lower if we want depending on how we want that to look but I&rsquo;m going to leave it at 4000 which is half the intensity of the key light. I&rsquo;ll click on the outliner again and I&rsquo;m going to rename this one to fill light. Then I&rsquo;m going to duplicate it one more time by pressing ctrl d or command d. I&rsquo;m going to bring the light down press the space bar so we can see everything that&rsquo;s going on and then this one I want to bring very far down. So I want it to be kind of level with the object and then I want to move it over, so we&rsquo;ll move it over. Then in the top view I can bring it kind of to the back of the object. I will likely need to adjust my backdrop but I&rsquo;ll do that in a second. So here I can continue to bring it down so it&rsquo;s kind of even with the object and then I can drastically reduce the cone angle, you can see it in the perspective view that we&rsquo;re changing that cone angle and then I want to move it back behind the object. This is adding, this is really good for having reflected light and separating your object from the background. I&rsquo;m going to press spacebar on the perspective view, scroll out a bit and i&rsquo;m going to scale up our background. So I&rsquo;ll press q, select the background then press r and scale it in this direction. Now press spacebar again select the light down here and then we can maneuver it how we wish. Make sure you press t so you don&rsquo;t lose your focus.</p>
 <p>And then you can see how this will adjust if I move it to the front you&rsquo;ll see how that reflection, then as it goes to the back we can have a little bit of reflection in the back there. And we&rsquo;re going to lower this intensity of this light a bit too. So now we have our lighting setup we need to add a material to our block so I&rsquo;ll right click on it, assign new material. I&rsquo;ll select Blinn, then I&rsquo;ll double click on the color, increase the saturation, then click done and now i have a color on my block.</p>
 <p>if I position the camera like this, to be able to see it more I&rsquo;m going to select the block press e to rotate and then I&rsquo;m going to move it to the side like this for a more dramatic angle. Now I can click the render view it will default to the Arnold renderer and we&rsquo;ll get something here. In fact, the Arnold renderer is great but we need to increase the light intensity because it has even more realistic quadratic renderings. So instead of the Arnold renderer let&rsquo;s start with the Maya Hardware Renderer 2.0 and then we click render. And here we can see that it&rsquo;s very bright what we need to do is turn off the SRGB gamma and then we can see that we have a nice render of our piece. If we want to save this file, we can go to file save image but we may want to change the options. Select options then go to render settings we&rsquo;re going to use the perspective camera, we can also set up a renderable camera. So now we&rsquo;re getting our block lit with our lights and we&rsquo;re getting render previews but if I want to change the angle of my render I have to move this window out of the way and then rotate, click render again and then c. This can be very cumbersome especially if I want to zoom out and edit the lights. There&rsquo;s a better way, we can add a camera to the scene by clicking this camera icon. This will bring a camera in, into the center here. We can move the camera back and here you can see the camera. Just like the lights if we press t we get a camera aimer so we can aim this camera and then lock it onto here. Remember that you have to let go then press v, you get the little circle and then it&rsquo;ll snap to this object. Then I can zoom out and move the camera to where I want it. Then I can click on the render view and in the render view I&rsquo;m still seeing the perspective camera. I need to click on render then render then camera 1.</p>
@@ -255,8 +257,8 @@ if (!doNotTrack) {
 
   </article>
 
-    </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  </main>
+  <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
     <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://whatmakeart.com/">
       &copy;  What Make Art 2021 
@@ -303,5 +305,6 @@ if (!doNotTrack) {
 </div>
   </div>
 </footer>
-  </body>
+</body>
+
 </html>
