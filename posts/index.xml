@@ -6,7 +6,25 @@
     <description>Recent content in Posts on What Make Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Apr 2021 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Importing Maya Scene Files vs Referencing Maya Scene Files</title>
+      <link>http://whatmakeart.com/posts/importing-scenes-vs-referencing-scenes-maya-tutorial/</link>
+      <pubDate>Fri, 02 Apr 2021 08:30:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/importing-scenes-vs-referencing-scenes-maya-tutorial/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Maya Animation Time Slider Tutorial</title>
+      <link>http://whatmakeart.com/posts/maya-animation-time-slider-settings/</link>
+      <pubDate>Fri, 02 Apr 2021 08:30:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/maya-animation-time-slider-settings/</guid>
+      <description>   </description>
+    </item>
+    
     <item>
       <title>UV Unrap a Tennis Ball with 3D Cut and Sew Tool in Maya Tutorial</title>
       <link>http://whatmakeart.com/posts/uv-unrap-tennis-ball-3d-cut-and-sew-uv-tool-maya/</link>
