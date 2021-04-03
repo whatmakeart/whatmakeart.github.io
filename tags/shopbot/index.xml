@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shopbot on What Make Art</title>
+    <link>http://whatmakeart.com/tags/shopbot/</link>
+    <description>Recent content in Shopbot on What Make Art</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Mar 2021 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/tags/shopbot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create ShopBot Toolpath in Fusion 360</title>
+      <link>http://whatmakeart.com/posts/create-shopbot-toolpath-in-fusion-360/</link>
+      <pubDate>Thu, 11 Mar 2021 08:30:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/create-shopbot-toolpath-in-fusion-360/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Quarter Inch Flat End Mill Tool in Fusion 360 for Shopbot</title>
+      <link>http://whatmakeart.com/posts/quarter-inch-flat-end-mill-tool-in-fusion-360-for-shopbot/</link>
+      <pubDate>Wed, 10 Mar 2021 08:30:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/quarter-inch-flat-end-mill-tool-in-fusion-360-for-shopbot/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,11 +6,11 @@
     <description>Recent content in Tags on What Make Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Apr 2021 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maya</title>
       <link>http://whatmakeart.com/tags/maya/</link>
-      <pubDate>Fri, 02 Apr 2021 08:30:00 -0400</pubDate>
+      <pubDate>Sat, 03 Apr 2021 08:30:00 -0400</pubDate>
       
       <guid>http://whatmakeart.com/tags/maya/</guid>
       <description></description>
@@ -31,6 +31,15 @@
       <pubDate>Thu, 11 Mar 2021 08:30:00 -0400</pubDate>
       
       <guid>http://whatmakeart.com/tags/fusion-360/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shopbot</title>
+      <link>http://whatmakeart.com/tags/shopbot/</link>
+      <pubDate>Thu, 11 Mar 2021 08:30:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/tags/shopbot/</guid>
       <description></description>
     </item>
     
