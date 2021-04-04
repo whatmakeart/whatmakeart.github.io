@@ -5,10 +5,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   
-  <title>What Make Art</title>
+  <title>Ball Bounce Animation in Maya Tutorial | What Make Art</title>
   <meta name="viewport" content="width=device-width,minimum-scale=1">
   <meta name="description"
-    content="Whatmakeart how to make art tutorials">
+    content="Use simple physics to calculate the bounce height in a ball animaiton">
   <meta name="generator" content="Hugo 0.82.0" />
   
   
@@ -39,21 +39,21 @@
   
 
   
-  
-  <link href="/index.xml" rel="alternate" type="application/rss+xml" title="What Make Art" />
-  <link href="/index.xml" rel="feed" type="application/rss+xml" title="What Make Art" />
-  
-  
 
-  <meta property="og:title" content="What Make Art" />
-<meta property="og:description" content="Whatmakeart how to make art tutorials" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://whatmakeart.com/" />
+  <meta property="og:title" content="Ball Bounce Animation in Maya Tutorial" />
+<meta property="og:description" content="Use simple physics to calculate the bounce height in a ball animaiton" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://whatmakeart.com/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-04-04T08:30:00-04:00" />
+<meta property="article:modified_time" content="2021-04-04T08:30:00-04:00" />
 
-<meta itemprop="name" content="What Make Art">
-<meta itemprop="description" content="Whatmakeart how to make art tutorials"><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="What Make Art"/>
-<meta name="twitter:description" content="Whatmakeart how to make art tutorials"/>
+<meta itemprop="name" content="Ball Bounce Animation in Maya Tutorial">
+<meta itemprop="description" content="Use simple physics to calculate the bounce height in a ball animaiton"><meta itemprop="datePublished" content="2021-04-04T08:30:00-04:00" />
+<meta itemprop="dateModified" content="2021-04-04T08:30:00-04:00" />
+<meta itemprop="wordCount" content="0">
+<meta itemprop="keywords" content="Maya," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Ball Bounce Animation in Maya Tutorial"/>
+<meta name="twitter:description" content="Use simple physics to calculate the bounce height in a ball animaiton"/>
 
   
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S4CF1KSMYD"></script>
@@ -74,11 +74,13 @@ if (!doNotTrack) {
 <body class="ma0 avenir bg-near-white production">
 
   
+   
+  
 
   
   
-  <header class="cover bg-top" style="background-image: url('http://whatmakeart.com/img/whatmakeart-logo.png');">
-    <div class="bg-black-60">
+  <header class="cover bg-top" style="background-image: url('http://whatmakeart.com/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/maya-ball-bounce-physics-tutorial.jpg');">
+    <div class="pb3-m pb6-l bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
     <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
@@ -150,342 +152,161 @@ if (!doNotTrack) {
   </div>
 </nav>
 
-      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
-          What Make Art
-        </h1>
+      <div class="tc-l pv6 ph3 ph4-ns">
+        
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Ball Bounce Animation in Maya Tutorial</h1>
+          
+            <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+              Use simple physics to calculate the bounce height in a ball animaiton
+            </h2>
+          
         
       </div>
     </div>
   </header>
 
 
+
   <main class="pb7" role="main">
     
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
 
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
+
+
+
+  <div id="sharing" class="mt3">
+
     
+    <a href="https://www.facebook.com/sharer.php?u=http://whatmakeart.com/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/" class="facebook no-underline" aria-label="share on Facebook">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+
+    </a>
+
+    
+    
+    <a href="https://twitter.com/share?url=http://whatmakeart.com/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/&amp;text=Ball%20Bounce%20Animation%20in%20Maya%20Tutorial" class="twitter no-underline" aria-label="share on Twitter">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://whatmakeart.com/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/&amp;title=Ball%20Bounce%20Animation%20in%20Maya%20Tutorial" class="linkedin no-underline" aria-label="share on LinkedIn">
+      <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+
+    </a>
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Ball Bounce Animation in Maya Tutorial</h1>
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2021-04-04T08:30:00-04:00">April 4, 2021</time>
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/v7qQTfDQ3Ac" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Ball Bounce Animation in Maya Tutorial"></iframe>
+</div>
+
+<ul class="pa0">
+  
+   <li class="list">
+     <a href="/tags/maya" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Maya</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/posts/model-coffee-cup-in-maya-3d-modeling-tutorial/">Model a Coffee Cup in Maya Tutorial</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/simple-ball-bounce-animation-with-squash-and-stretch-maya-tutorial/">Ball Bounce with Squash and Stretch Tutorial</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/importing-scenes-vs-referencing-scenes-maya-tutorial/">Importing Maya Scene Files vs Referencing Maya Scene Files</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/maya-animation-time-slider-settings/">Maya Animation Time Slider Tutorial</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/uv-unrap-tennis-ball-3d-cut-and-sew-uv-tool-maya/">UV Unrap a Tennis Ball with 3D Cut and Sew Tool in Maya Tutorial</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/ball-rig-with-squash-and-stretch-maya-tutorial/">Ball Rig with Squash and Stretch Maya Tutorial</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/model-tennis-ball-maya-tutorial/">Model Tennis Ball in Maya Tutorial</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/quadball-rig-with-squash-and-stretch-maya-tutorial/">Scalabe QuadBall Rig with Squash and Stretch Maya Tutorial</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/basic-uv-mapping-maya-tutorial/">Basic UV Mapping Maya Tutorial</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/uv-map-cube-maya-tutorial/">UV Map a Cube in Maya Tutorial</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/3d-modeling-beginner-modeling-maya-tutorial/">Beginner 3D Modeling in Maya Tutorial</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/make-hole-in-maya-with-clean-geometry-and-edge-flow-without-ooleans-using-circularize-omponents/">Make Hole in Maya with Clean Geometry and Edge Flow without Booleans using Circularize Components</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/maya-three-point-lighting-tutorial/">Maya Three Point Lighting Tutorial</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/maya-polygon-modeling-tools-for-beginners-tutorial/">Maya Polygon Modeling Tools for Beginners</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/maya-user-interface-for-beginners/">Maya User Interface for Beginners</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
   </article>
-  
-  
-  
-  
-  
-  
-  
-    
-    
-
-    <div class="pa3 pa4-ns w-100 w-70-ns center">
-      
-       
-          <h1 class="flex-none">
-            Recent Posts
-          </h1>
-        
-
-      
-
-      <section class="w-100 mw8">
-        
-        
-          <div class="relative w-100 mb4">
-            
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="http://whatmakeart.com/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/" class="db grow">
-            <img src="http://whatmakeart.com/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/maya-ball-bounce-physics-tutorial.jpg" class="img" alt="image from Ball Bounce Animation in Maya Tutorial">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="http://whatmakeart.com/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/" class="color-inherit dim link">
-            Ball Bounce Animation in Maya Tutorial
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-             
-        </div>
-          <a href="http://whatmakeart.com/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-          </div>
-        
-          <div class="relative w-100 mb4">
-            
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="http://whatmakeart.com/posts/model-coffee-cup-in-maya-3d-modeling-tutorial/" class="db grow">
-            <img src="http://whatmakeart.com/posts/model-coffee-cup-in-maya-3d-modeling-tutorial/maya-coffee-cup-3d-modeling-tutorial.jpg" class="img" alt="image from Model a Coffee Cup in Maya Tutorial">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="http://whatmakeart.com/posts/model-coffee-cup-in-maya-3d-modeling-tutorial/" class="color-inherit dim link">
-            Model a Coffee Cup in Maya Tutorial
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-             
-        </div>
-          <a href="http://whatmakeart.com/posts/model-coffee-cup-in-maya-3d-modeling-tutorial/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-          </div>
-        
-          <div class="relative w-100 mb4">
-            
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="http://whatmakeart.com/posts/simple-ball-bounce-animation-with-squash-and-stretch-maya-tutorial/" class="db grow">
-            <img src="http://whatmakeart.com/posts/simple-ball-bounce-animation-with-squash-and-stretch-maya-tutorial/maya-ball-bounce-animation-with-squash-and-stretch-tutorial.jpg" class="img" alt="image from Ball Bounce with Squash and Stretch Tutorial">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="http://whatmakeart.com/posts/simple-ball-bounce-animation-with-squash-and-stretch-maya-tutorial/" class="color-inherit dim link">
-            Ball Bounce with Squash and Stretch Tutorial
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-             
-        </div>
-          <a href="http://whatmakeart.com/posts/simple-ball-bounce-animation-with-squash-and-stretch-maya-tutorial/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-          </div>
-        
-          <div class="relative w-100 mb4">
-            
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="http://whatmakeart.com/posts/importing-scenes-vs-referencing-scenes-maya-tutorial/" class="db grow">
-            <img src="http://whatmakeart.com/posts/importing-scenes-vs-referencing-scenes-maya-tutorial/maya-import-vs-reference-scene-files.jpg" class="img" alt="image from Importing Maya Scene Files vs Referencing Maya Scene Files">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="http://whatmakeart.com/posts/importing-scenes-vs-referencing-scenes-maya-tutorial/" class="color-inherit dim link">
-            Importing Maya Scene Files vs Referencing Maya Scene Files
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-             
-        </div>
-          <a href="http://whatmakeart.com/posts/importing-scenes-vs-referencing-scenes-maya-tutorial/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-          </div>
-        
-          <div class="relative w-100 mb4">
-            
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="http://whatmakeart.com/posts/maya-animation-time-slider-settings/" class="db grow">
-            <img src="http://whatmakeart.com/posts/maya-animation-time-slider-settings/maya-animation-time-slider-settings.jpg" class="img" alt="image from Maya Animation Time Slider Tutorial">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="http://whatmakeart.com/posts/maya-animation-time-slider-settings/" class="color-inherit dim link">
-            Maya Animation Time Slider Tutorial
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-             
-        </div>
-          <a href="http://whatmakeart.com/posts/maya-animation-time-slider-settings/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-          </div>
-        
-          <div class="relative w-100 mb4">
-            
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="http://whatmakeart.com/posts/uv-unrap-tennis-ball-3d-cut-and-sew-uv-tool-maya/" class="db grow">
-            <img src="http://whatmakeart.com/posts/uv-unrap-tennis-ball-3d-cut-and-sew-uv-tool-maya/maya-3d-cut-and-sew-uv-tool-tutorial.jpg" class="img" alt="image from UV Unrap a Tennis Ball with 3D Cut and Sew Tool in Maya Tutorial">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="http://whatmakeart.com/posts/uv-unrap-tennis-ball-3d-cut-and-sew-uv-tool-maya/" class="color-inherit dim link">
-            UV Unrap a Tennis Ball with 3D Cut and Sew Tool in Maya Tutorial
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-             
-        </div>
-          <a href="http://whatmakeart.com/posts/uv-unrap-tennis-ball-3d-cut-and-sew-uv-tool-maya/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-          </div>
-        
-          <div class="relative w-100 mb4">
-            
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="http://whatmakeart.com/posts/ball-rig-with-squash-and-stretch-maya-tutorial/" class="db grow">
-            <img src="http://whatmakeart.com/posts/ball-rig-with-squash-and-stretch-maya-tutorial/maya-ball-rig-tutorial.jpg" class="img" alt="image from Ball Rig with Squash and Stretch Maya Tutorial">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="http://whatmakeart.com/posts/ball-rig-with-squash-and-stretch-maya-tutorial/" class="color-inherit dim link">
-            Ball Rig with Squash and Stretch Maya Tutorial
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-             
-        </div>
-          <a href="http://whatmakeart.com/posts/ball-rig-with-squash-and-stretch-maya-tutorial/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-          </div>
-        
-          <div class="relative w-100 mb4">
-            
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-          
-        
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="http://whatmakeart.com/posts/model-tennis-ball-maya-tutorial/" class="db grow">
-            <img src="http://whatmakeart.com/posts/model-tennis-ball-maya-tutorial/maya-model-tennis-ball-tutorial.jpg" class="img" alt="image from Model Tennis Ball in Maya Tutorial">
-          </a>
-        </div>
-      
-      <div class="blah w-100 w-60-ns pl3-ns">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="http://whatmakeart.com/posts/model-tennis-ball-maya-tutorial/" class="color-inherit dim link">
-            Model Tennis Ball in Maya Tutorial
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-             
-        </div>
-          <a href="http://whatmakeart.com/posts/model-tennis-ball-maya-tutorial/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-          </div>
-        
-      </section>
-
-      
-      <section class="w-100">
-        <h1 class="f3">More</h1>
-        
-        
-          <h2 class="f5 fw4 mb4 dib mr3">
-            <a href="http://whatmakeart.com/posts/quadball-rig-with-squash-and-stretch-maya-tutorial/" class="link black dim">
-              Scalabe QuadBall Rig with Squash and Stretch Maya Tutorial
-            </a>
-          </h2>
-        
-          <h2 class="f5 fw4 mb4 dib mr3">
-            <a href="http://whatmakeart.com/posts/basic-uv-mapping-maya-tutorial/" class="link black dim">
-              Basic UV Mapping Maya Tutorial
-            </a>
-          </h2>
-        
-          <h2 class="f5 fw4 mb4 dib mr3">
-            <a href="http://whatmakeart.com/posts/create-seamless-textures-in-photoshop-tutorial/" class="link black dim">
-              Seamless Textures in Photoshop Tutorial
-            </a>
-          </h2>
-        
-          <h2 class="f5 fw4 mb4 dib mr3">
-            <a href="http://whatmakeart.com/posts/uv-map-cube-maya-tutorial/" class="link black dim">
-              UV Map a Cube in Maya Tutorial
-            </a>
-          </h2>
-        
-
-        
-        
-          <a href="http://whatmakeart.com/posts/" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">All Posts</a>
-        
-        </section>
-      
-
-      </div>
-  
 
   </main>
   <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
