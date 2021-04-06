@@ -2,32 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://whatmakeart.com/posts/how-to-add-camera-to-maya-scene-tutorial/</loc>
+    <lastmod>2021-04-05T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/tags/adobe-premier/</loc>
+    <lastmod>2021-04-05T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/posts/render-and-image-sequence-from-maya/</loc>
+    <lastmod>2021-04-05T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/posts/import-sequence-of-images-into-adobe-premiere/</loc>
+    <lastmod>2021-04-05T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/tags/maya/</loc>
+    <lastmod>2021-04-05T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/posts/</loc>
+    <lastmod>2021-04-05T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/tags/</loc>
+    <lastmod>2021-04-05T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/</loc>
+    <lastmod>2021-04-05T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://whatmakeart.com/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/</loc>
     <lastmod>2021-04-04T08:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://whatmakeart.com/tags/maya/</loc>
-    <lastmod>2021-04-04T08:30:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://whatmakeart.com/posts/model-coffee-cup-in-maya-3d-modeling-tutorial/</loc>
-    <lastmod>2021-04-04T08:30:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://whatmakeart.com/posts/</loc>
-    <lastmod>2021-04-04T08:30:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://whatmakeart.com/tags/</loc>
-    <lastmod>2021-04-04T08:30:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://whatmakeart.com/</loc>
     <lastmod>2021-04-04T08:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -151,7 +171,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://whatmakeart.com/art-faq/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/art-faq/art-school-critique-no-nos/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://whatmakeart.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/art-faq/how-to-critique-art/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/art-faq/how-to-make-inflatables/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
