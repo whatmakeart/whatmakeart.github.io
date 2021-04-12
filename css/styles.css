@@ -20,8 +20,8 @@ body {
     flex-direction: column;
     height: 100%;
     justify-content: space-between;
-    border-radius: 1rem;
 }
+
 
 .video-grid div h2 {
     padding: 1rem .5rem .3rem 1rem;
@@ -43,7 +43,6 @@ body {
 }
 
 .banner {
-
     background-color: black;
     color: white;
     font-size: 3rem;
@@ -64,7 +63,6 @@ body {
     background-color: #fff;
 }
 
-
 .nav-menu {
     text-transform: uppercase;
 }
@@ -84,10 +82,7 @@ body {
     text-align: center;
     white-space: nowrap;
     padding: .5rem;
-
-
 }
-
 
 .nav-menu a {
     display: block;
@@ -99,20 +94,9 @@ body {
     font-weight: 400;
     letter-spacing: 0.1rem;
     border-radius: .5rem;
-
-
 }
 
 .nav-menu a:hover {
     color: black;
     background-color: white;
-}
-
-iframe {
-    position: absolute;
-    left: 0px;
-    top: 0px;
-    width: 100%;
-    height: 100%;
-    border: 0;
 }
