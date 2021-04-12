@@ -42,6 +42,11 @@ body {
     font-size: 1.7rem;
 }
 
+.bonus {
+    background-color: Black;
+    color: white;
+}
+
 .banner {
     background-color: black;
     color: white;
