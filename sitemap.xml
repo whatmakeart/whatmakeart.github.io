@@ -224,5 +224,9 @@
     <loc>http://whatmakeart.com/art-faq/how-to-make-inflatables/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/posts/run-fast-effect-using-only-adobe-premiere/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
