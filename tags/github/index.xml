@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub on What Make Art</title>
+    <link>http://whatmakeart.com/tags/github/</link>
+    <description>Recent content in GitHub on What Make Art</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Aug 2021 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setup Free Domain with GitHub Student Developer Pack</title>
+      <link>http://whatmakeart.com/posts/set-up-free-domain-github-sudent-developer-pack/</link>
+      <pubDate>Thu, 26 Aug 2021 08:30:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/set-up-free-domain-github-sudent-developer-pack/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
