@@ -6,7 +6,16 @@
     <description>Recent content in Posts on What Make Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Oct 2021 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why is my Photoshop brush a crosshair?</title>
+      <link>http://whatmakeart.com/posts/photoshop-brush-crosshairs-not-a-circle/</link>
+      <pubDate>Sun, 20 Feb 2022 08:30:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/photoshop-brush-crosshairs-not-a-circle/</guid>
+      <description>Transcript Why can&amp;rsquo;t I see the edges of my Photoshop brush? Why is my Photoshop brush a crosshair? This can be very annoying when you&amp;rsquo;re trying to draw in Photoshop with a brush but you only see a crosshair instead of the full outline of your brush size. How can I fix this? The simple fix is to press caps lock and then this toggles your Photoshop brush between an outline and the crosshairs.</description>
+    </item>
+    
     <item>
       <title>Creat the Google Chrome Logo in Adobe Illustrator</title>
       <link>http://whatmakeart.com/posts/how-to-creat-google-chrome-logo-adobe-illustrator/</link>
@@ -266,15 +275,6 @@ Then you will see your swatches panel. You can dock this panel to the side if yo
       <pubDate>Sun, 28 Mar 2021 08:30:00 -0400</pubDate>
       
       <guid>http://whatmakeart.com/posts/uv-map-cube-maya-tutorial/</guid>
-      <description>   </description>
-    </item>
-    
-    <item>
-      <title>Beginner 3D Modeling in Maya Tutorial</title>
-      <link>http://whatmakeart.com/posts/3d-modeling-beginner-modeling-maya-tutorial/</link>
-      <pubDate>Sun, 21 Mar 2021 08:30:00 -0400</pubDate>
-      
-      <guid>http://whatmakeart.com/posts/3d-modeling-beginner-modeling-maya-tutorial/</guid>
       <description>   </description>
     </item>
     
