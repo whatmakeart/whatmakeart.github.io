@@ -2,22 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://whatmakeart.com/tags/photoshop/</loc>
-    <lastmod>2022-02-20T08:30:00-04:00</lastmod>
+    <loc>http://whatmakeart.com/tags/3d-printing/</loc>
+    <lastmod>2022-02-22T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/posts/how-to-orbit-in-ultimaker-cura/</loc>
+    <lastmod>2022-02-22T08:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://whatmakeart.com/posts/</loc>
-    <lastmod>2022-02-20T08:30:00-04:00</lastmod>
+    <lastmod>2022-02-22T08:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://whatmakeart.com/tags/</loc>
-    <lastmod>2022-02-20T08:30:00-04:00</lastmod>
+    <lastmod>2022-02-22T08:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://whatmakeart.com/</loc>
+    <lastmod>2022-02-22T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/tags/photoshop/</loc>
     <lastmod>2022-02-20T08:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

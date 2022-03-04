@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Printing on What Make Art</title>
+    <link>http://whatmakeart.com/tags/3d-printing/</link>
+    <description>Recent content in 3D Printing on What Make Art</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Feb 2022 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Orbit in Ultimaker Cura</title>
+      <link>http://whatmakeart.com/posts/how-to-orbit-in-ultimaker-cura/</link>
+      <pubDate>Tue, 22 Feb 2022 08:30:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/how-to-orbit-in-ultimaker-cura/</guid>
+      <description>Transcript In this 3D printing tutorial i&amp;rsquo;m going to show you just the basics of how to orbit and pan around Ultimaker Cura software. When you&amp;rsquo;re coming from other 3D modeling software packages sometimes it can be confusing because all you want to do is orbit and you may be used to middle mouse button or holding shift and middle mouse button if you use Fusion 360 and then you get into Ultimaker Cura and it&amp;rsquo;s like how do I orbit?</description>
+    </item>
+    
+  </channel>
+</rss>
