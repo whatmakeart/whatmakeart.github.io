@@ -32,7 +32,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://whatmakeart.com/tags/3d-printing-fusion-360/</loc>
+    <loc>http://whatmakeart.com/tags/fusion-360/</loc>
     <lastmod>2022-02-22T08:29:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -172,6 +172,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://whatmakeart.com/tags/3d-modeling/</loc>
+    <lastmod>2021-04-04T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://whatmakeart.com/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/</loc>
     <lastmod>2021-04-04T08:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -267,11 +272,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://whatmakeart.com/tags/fusion-360/</loc>
-    <lastmod>2021-03-11T08:30:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://whatmakeart.com/tags/shopbot/</loc>
     <lastmod>2021-03-11T08:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -317,6 +317,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://whatmakeart.com/art-faq/how-to-critique-art/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/art-faq/how-to-draw-technical-drawings-for-design-ideation/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

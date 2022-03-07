@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Modeling on What Make Art</title>
+    <link>http://whatmakeart.com/tags/3d-modeling/</link>
+    <description>Recent content in 3D Modeling on What Make Art</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Apr 2021 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/tags/3d-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ball Bounce Animation in Maya Tutorial</title>
+      <link>http://whatmakeart.com/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/</link>
+      <pubDate>Sun, 04 Apr 2021 08:30:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
