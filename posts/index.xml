@@ -6,7 +6,27 @@
     <description>Recent content in Posts on What Make Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Feb 2022 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Mar 2022 08:32:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Model a 3D Character Bear Maya Tutorial</title>
+      <link>http://whatmakeart.com/posts/how-to-model-3d-character-bear-maya-tutorial/</link>
+      <pubDate>Thu, 10 Mar 2022 08:32:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/how-to-model-3d-character-bear-maya-tutorial/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>How to Change the Cursor size of Move Tool in Maya</title>
+      <link>http://whatmakeart.com/posts/change-size-of-transform-controls-maya-tutorial/</link>
+      <pubDate>Thu, 10 Mar 2022 08:31:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/change-size-of-transform-controls-maya-tutorial/</guid>
+      <description>Sometimes working in Autodesk Maya the Move tool cursor is super huge. Why does this happen? How can you make the move tool cursor smaller on the screen so you can grab the handles and move your 3D model? This tutorial shows you how.
+  👍 Support on Patreon https://www.patreon.com/WhatMakeArt
+🟥 Subscribe https://www.youtube.com/</description>
+    </item>
+    
     <item>
       <title>How to Orbit in Ultimaker Cura</title>
       <link>http://whatmakeart.com/posts/how-to-orbit-in-ultimaker-cura/</link>
@@ -32,6 +52,42 @@
       
       <guid>http://whatmakeart.com/posts/adjustable-parametric-3d-printedangle-bracket-in-fusion-360/</guid>
       <description>Transcript In this Autodesk Fusion 360 tutorial, I’m going to show you how to make a 3D printed bracket that you can use with laser cut projects. It will have slots in it that you can put panels and then either put bolts or screws to them so then you can make boxes or furniture or shelves that are connected in the corners in a way that may not be able to be done with laser cutting alone.</description>
+    </item>
+    
+    <item>
+      <title>3D Printed Earrings in a Large Star Shape in Fusion 360 Tutorial</title>
+      <link>http://whatmakeart.com/posts/3d-print-start-earrings-fusion-360-tutorial/</link>
+      <pubDate>Mon, 21 Feb 2022 08:32:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/3d-print-start-earrings-fusion-360-tutorial/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>3D Printin in Place Hinge - Ball and Socket Style - Fution 360</title>
+      <link>http://whatmakeart.com/posts/3d-print-in-place-ball-and-socket-hinge-fusion-360/</link>
+      <pubDate>Mon, 21 Feb 2022 08:31:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/3d-print-in-place-ball-and-socket-hinge-fusion-360/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Model a Parametric 3D Print in Place Hinge in Fusion 360 Tutorial</title>
+      <link>http://whatmakeart.com/posts/3d-print-in-place-hinge-fusion-360/</link>
+      <pubDate>Mon, 21 Feb 2022 08:30:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/3d-print-in-place-hinge-fusion-360/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>3D Model a Penguin in Form Workspace in Fusion 360</title>
+      <link>http://whatmakeart.com/posts/3d-model-a-penguin-character-for-3d-printing-fusion-360/</link>
+      <pubDate>Sun, 20 Feb 2022 08:38:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/3d-model-a-penguin-character-for-3d-printing-fusion-360/</guid>
+      <description>   </description>
     </item>
     
     <item>
@@ -390,6 +446,16 @@ That&amp;rsquo;s why you need to make swatches so you can test out different cut
     </item>
     
     <item>
+      <title>How to Insert a Reference Image into Maya</title>
+      <link>http://whatmakeart.com/posts/how-to-insert-reference-image-maya-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/how-to-insert-reference-image-maya-tutorial/</guid>
+      <description>When 3D modeling in Maya it is convenient and helpful to have a reference image in your scene to make sure your 3D model proportions are correct. How do you insert a reference image in Maya? This Maya video tutorial shows you how to use a Free Image Plane to insert a reference image for 3D modeling in Maya.
+  </description>
+    </item>
+    
+    <item>
       <title>Simple Run Fast Special Effect in Adobe Premiere</title>
       <link>http://whatmakeart.com/posts/run-fast-effect-using-only-adobe-premiere/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -404,6 +470,15 @@ That&amp;rsquo;s why you need to make swatches so you can test out different cut
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://whatmakeart.com/posts/teleport-burst-free-stock-footage/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Turn Off Zebra Strip Analysis Fusion 360</title>
+      <link>http://whatmakeart.com/posts/turn-off-zebra-stripe-analysis-fusion-360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/turn-off-zebra-stripe-analysis-fusion-360/</guid>
       <description>   </description>
     </item>
     

@@ -6,7 +6,27 @@
     <description>Recent content in Maya on What Make Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Apr 2021 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/tags/maya/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Mar 2022 08:32:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/tags/maya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Model a 3D Character Bear Maya Tutorial</title>
+      <link>http://whatmakeart.com/posts/how-to-model-3d-character-bear-maya-tutorial/</link>
+      <pubDate>Thu, 10 Mar 2022 08:32:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/how-to-model-3d-character-bear-maya-tutorial/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>How to Change the Cursor size of Move Tool in Maya</title>
+      <link>http://whatmakeart.com/posts/change-size-of-transform-controls-maya-tutorial/</link>
+      <pubDate>Thu, 10 Mar 2022 08:31:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/change-size-of-transform-controls-maya-tutorial/</guid>
+      <description>Sometimes working in Autodesk Maya the Move tool cursor is super huge. Why does this happen? How can you make the move tool cursor smaller on the screen so you can grab the handles and move your 3D model? This tutorial shows you how.
+  👍 Support on Patreon https://www.patreon.com/WhatMakeArt
+🟥 Subscribe https://www.youtube.com/</description>
+    </item>
+    
     <item>
       <title>Maya 3D Paint Complex Objects</title>
       <link>http://whatmakeart.com/posts/maya-3d-paint-tool-complex-object/</link>
@@ -194,6 +214,16 @@
       
       <guid>http://whatmakeart.com/posts/maya-user-interface/</guid>
       <description>Maya user interface tutorial for beginners</description>
+    </item>
+    
+    <item>
+      <title>How to Insert a Reference Image into Maya</title>
+      <link>http://whatmakeart.com/posts/how-to-insert-reference-image-maya-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/how-to-insert-reference-image-maya-tutorial/</guid>
+      <description>When 3D modeling in Maya it is convenient and helpful to have a reference image in your scene to make sure your 3D model proportions are correct. How do you insert a reference image in Maya? This Maya video tutorial shows you how to use a Free Image Plane to insert a reference image for 3D modeling in Maya.
+  </description>
     </item>
     
   </channel>
