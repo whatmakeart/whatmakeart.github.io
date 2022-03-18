@@ -62,6 +62,24 @@
     </item>
     
     <item>
+      <title>Insert an edge loop into a t-spline in Fusion 360</title>
+      <link>http://whatmakeart.com/posts/insert-edge-loop-tspline-fusion-360-tutorial/</link>
+      <pubDate>Sun, 20 Feb 2022 08:32:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/insert-edge-loop-tspline-fusion-360-tutorial/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Extrude T-Spline Face Fusion 360</title>
+      <link>http://whatmakeart.com/posts/extrude-tspline-face-fusion-360-tutorial/</link>
+      <pubDate>Sun, 20 Feb 2022 08:31:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/extrude-tspline-face-fusion-360-tutorial/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>Create ShopBot Toolpath in Fusion 360</title>
       <link>http://whatmakeart.com/posts/create-shopbot-toolpath-in-fusion-360/</link>
       <pubDate>Thu, 11 Mar 2021 08:30:00 -0400</pubDate>
@@ -77,6 +95,16 @@
       
       <guid>http://whatmakeart.com/posts/quarter-inch-flat-end-mill-tool-in-fusion-360-for-shopbot/</guid>
       <description>   </description>
+    </item>
+    
+    <item>
+      <title>Model Perfect polygons in Fusion 360</title>
+      <link>http://whatmakeart.com/posts/model-perfect-polygons-fusion-360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/model-perfect-polygons-fusion-360/</guid>
+      <description>Use sketch constraints in Fusion 360 to create perfect regular polygons.
+  Transcript Autodesk Fusion 360 tutorial I’m going to show you how to use constraints to make a perfect hexagon. We can easily do that by creating a sketch on the ground plane. Let&amp;rsquo;s draw a circle from the origin then we&amp;rsquo;ll draw sides. One make sure they attach, then we&amp;rsquo;ll click again at this point, then click again at this point, then click again at this point, then click again at this point.</description>
     </item>
     
   </channel>

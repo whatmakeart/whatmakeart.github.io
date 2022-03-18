@@ -23,8 +23,18 @@
       
       <guid>http://whatmakeart.com/posts/change-size-of-transform-controls-maya-tutorial/</guid>
       <description>Sometimes working in Autodesk Maya the Move tool cursor is super huge. Why does this happen? How can you make the move tool cursor smaller on the screen so you can grab the handles and move your 3D model? This tutorial shows you how.
-  👍 Support on Patreon https://www.patreon.com/WhatMakeArt
-🟥 Subscribe https://www.youtube.com/</description>
+  Transcript Maya tutorial I’m going to show you how to fix your cursor when it&amp;rsquo;s super long and you can&amp;rsquo;t see the edges.
+If you look at this model right here if I orbit around look how long these pieces are I can still use them if I click way on the edges or I get lucky and click these lines but it can be really annoying especially if I’m trying to move and I want to use the planar moves which I can&amp;rsquo;t see because they&amp;rsquo;re way far away so it can be very difficult to use.</description>
+    </item>
+    
+    <item>
+      <title>How to Insert a Reference Image into Maya</title>
+      <link>http://whatmakeart.com/posts/how-to-insert-reference-image-maya-tutorial/</link>
+      <pubDate>Thu, 10 Mar 2022 08:30:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/how-to-insert-reference-image-maya-tutorial/</guid>
+      <description>When 3D modeling in Maya it is convenient and helpful to have a reference image in your scene to make sure your 3D model proportions are correct. How do you insert a reference image in Maya? This Maya video tutorial shows you how to use a Free Image Plane to insert a reference image for 3D modeling in Maya.
+  Transcript In this Autodesk Maya tutorial I’m going to show you how you can insert a reference image so you can model your characters or any other 3d model that you want to create in Maya using a reference image.</description>
     </item>
     
     <item>
@@ -33,6 +43,24 @@
       <pubDate>Sun, 20 Feb 2022 08:38:00 -0400</pubDate>
       
       <guid>http://whatmakeart.com/posts/3d-model-a-penguin-character-for-3d-printing-fusion-360/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Insert an edge loop into a t-spline in Fusion 360</title>
+      <link>http://whatmakeart.com/posts/insert-edge-loop-tspline-fusion-360-tutorial/</link>
+      <pubDate>Sun, 20 Feb 2022 08:32:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/insert-edge-loop-tspline-fusion-360-tutorial/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Extrude T-Spline Face Fusion 360</title>
+      <link>http://whatmakeart.com/posts/extrude-tspline-face-fusion-360-tutorial/</link>
+      <pubDate>Sun, 20 Feb 2022 08:31:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/extrude-tspline-face-fusion-360-tutorial/</guid>
       <description>   </description>
     </item>
     
@@ -46,13 +74,13 @@
     </item>
     
     <item>
-      <title>How to Insert a Reference Image into Maya</title>
-      <link>http://whatmakeart.com/posts/how-to-insert-reference-image-maya-tutorial/</link>
+      <title>Model Perfect polygons in Fusion 360</title>
+      <link>http://whatmakeart.com/posts/model-perfect-polygons-fusion-360/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://whatmakeart.com/posts/how-to-insert-reference-image-maya-tutorial/</guid>
-      <description>When 3D modeling in Maya it is convenient and helpful to have a reference image in your scene to make sure your 3D model proportions are correct. How do you insert a reference image in Maya? This Maya video tutorial shows you how to use a Free Image Plane to insert a reference image for 3D modeling in Maya.
-  </description>
+      <guid>http://whatmakeart.com/posts/model-perfect-polygons-fusion-360/</guid>
+      <description>Use sketch constraints in Fusion 360 to create perfect regular polygons.
+  Transcript Autodesk Fusion 360 tutorial I’m going to show you how to use constraints to make a perfect hexagon. We can easily do that by creating a sketch on the ground plane. Let&amp;rsquo;s draw a circle from the origin then we&amp;rsquo;ll draw sides. One make sure they attach, then we&amp;rsquo;ll click again at this point, then click again at this point, then click again at this point, then click again at this point.</description>
     </item>
     
   </channel>

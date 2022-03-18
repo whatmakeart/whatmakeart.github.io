@@ -42,6 +42,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://whatmakeart.com/posts/how-to-insert-reference-image-maya-tutorial/</loc>
+    <lastmod>2022-03-10T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/posts/turn-off-zebra-stripe-analysis-fusion-360/</loc>
+    <lastmod>2022-02-27T08:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://whatmakeart.com/tags/3d-printing/</loc>
     <lastmod>2022-02-22T08:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -87,6 +97,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://whatmakeart.com/posts/insert-edge-loop-tspline-fusion-360-tutorial/</loc>
+    <lastmod>2022-02-20T08:32:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://whatmakeart.com/posts/extrude-tspline-face-fusion-360-tutorial/</loc>
+    <lastmod>2022-02-20T08:31:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://whatmakeart.com/tags/photoshop/</loc>
     <lastmod>2022-02-20T08:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -97,7 +117,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://whatmakeart.com/posts/how-to-creat-google-chrome-logo-adobe-illustrator/</loc>
+    <loc>http://whatmakeart.com/posts/how-to-create-google-chrome-logo-adobe-illustrator/</loc>
     <lastmod>2021-10-04T08:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -359,11 +379,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://whatmakeart.com/posts/how-to-insert-reference-image-maya-tutorial/</loc>
+    <loc>http://whatmakeart.com/art-faq/how-to-make-inflatables/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://whatmakeart.com/art-faq/how-to-make-inflatables/</loc>
+    <loc>http://whatmakeart.com/posts/model-perfect-polygons-fusion-360/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -372,10 +392,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://whatmakeart.com/posts/teleport-burst-free-stock-footage/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://whatmakeart.com/posts/turn-off-zebra-stripe-analysis-fusion-360/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
