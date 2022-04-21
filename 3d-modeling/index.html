@@ -119,12 +119,132 @@
         }
     </script>
 
-</head>
+    <script type="text/javascript">
+        // allows the anchor links to work while <base> tag is in use in the <head>
+        $(document).ready(function () {
+            var pathname = window.location.href.split("#")[0];
+            $('a[href^="#"]').each(function () {
+                var $this = $(this),
+                    link = $this.attr("href");
+                $this.attr("href", pathname + link);
+            });
+        });
+    </script>
 
-<head>
 
 
+    <script type="text/javascript">
 
+        var style = document.createElement("style");
+        function addPrintStyles() {
+
+            const styleSheet = document.createElement("style");
+            styleSheet.innerText = `
+            @media print {
+                h1,
+                h2,
+                h3,
+                h4 {
+                    break-after: avoid;
+                }
+                img {
+                    page-break-inside: avoid;
+                    break-inside: avoid
+                }
+                .video-grid,
+                .video-wrapper,
+                .banner {
+                    display: block;
+                    height: initial;
+                    page-break-inside: avoid;
+                    break-inside: avoid
+                }
+                .video-grid {
+                    columns: 200px 3;
+                }
+                .youtube-thumbnail {
+                    display: block !important;
+                    position: absolute;
+                    top: 0;
+                    z-index: 10;
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+                #jimmyAdmin {
+                    display: none;
+                }
+            }
+            `;
+            document.head.appendChild(styleSheet); // must append before you can access sheet property
+            var sheet = style.styleSheet;
+
+            console.log(sheet instanceof CSSStyleSheet);
+        }
+
+        function YouTubeGetID(url) {
+            url = url.split(/(vi\/|v%3D|v=|\/v\/|youtu\.be\/|\/embed\/)/);
+            return undefined !== url[2] ? url[2].split(/[^0-9a-z_\-]/i)[0] : url[0];
+        }
+
+        document.addEventListener("DOMContentLoaded", () => {
+            addPrintStyles();
+            // addJimmyStyles();
+
+            let selection = document.getElementsByTagName('iframe');
+            let iframes = Array.prototype.slice.call(selection);
+
+            iframes.forEach(function (iframe) {
+                if (iframe.src.includes("youtube")) {
+
+                    const idYoutube = YouTubeGetID(iframe.getAttribute('src'));
+                    //console.log(idYoutube);
+                    const imgElement = document.createElement('img');
+                    imgElement.src = `https://i1.ytimg.com/vi/${idYoutube}/0.jpg`;
+                    imgElement.className = 'youtube-thumbnail';
+                    imgElement.style = "display:none;"
+                    iframe.insertAdjacentElement('afterend', imgElement);
+                    iframe.srcdoc = `
+            <style>
+* {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+html,
+body {
+    height: 100%;
+}
+img {
+    position: absolute;
+        width: 100%;
+        top: 0;
+        bottom: 0;
+        margin: auto
+}
+.playbutton {
+        height: 80px;
+        text-align: center;
+        font:30px/90px sans-serif;
+        color: white;
+        text-shadow: 0 0 0.7em black;
+        position: absolute;
+        width: 100%;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+    }
+</style>
+<a href=https://www.youtube.com/embed/${idYoutube}?rel=0&autoplay=1>
+<img src=https://img.youtube.com/vi/${idYoutube}/hqdefault.jpg alt="YouTube thumbnail">
+    <span class="playbutton">&#x25BA;</span></a>
+           
+            `;
+                }
+            });
+        });
+    </script>
+    </body>
 
 </head>
 
@@ -1934,81 +2054,6 @@
 
     </div><!-- end .video-grid -->
 
-    <script type="text/javascript">
-        // allows the anchor links to work while <base> tag is in use in the <head>
-        $(document).ready(function () {
-            var pathname = window.location.href.split("#")[0];
-            $('a[href^="#"]').each(function () {
-                var $this = $(this),
-                    link = $this.attr("href");
-                $this.attr("href", pathname + link);
-            });
-        });
-    </script>
 
-    <script type="text/javascript">
-        function YouTubeGetID(url) {
-            url = url.split(/(vi\/|v%3D|v=|\/v\/|youtu\.be\/|\/embed\/)/);
-            return undefined !== url[2] ? url[2].split(/[^0-9a-z_\-]/i)[0] : url[0];
-        }
-
-        document.addEventListener("DOMContentLoaded", () => {
-            addPrintStyles();
-            // addJimmyStyles();
-
-            let selection = document.getElementsByTagName('iframe');
-            let iframes = Array.prototype.slice.call(selection);
-
-            iframes.forEach(function (iframe) {
-                if (iframe.src.includes("youtube")) {
-
-                    const idYoutube = YouTubeGetID(iframe.getAttribute('src'));
-                    //console.log(idYoutube);
-                    const imgElement = document.createElement('img');
-                    imgElement.src = `https://i1.ytimg.com/vi/${idYoutube}/0.jpg`;
-                    imgElement.className = 'youtube-thumbnail';
-                    imgElement.style = "display:none;"
-                    iframe.insertAdjacentElement('afterend', imgElement);
-                    iframe.srcdoc = `
-                <style>
-    * {
-        padding: 0;
-        margin: 0;
-        overflow: hidden;
-    }
-    html,
-    body {
-        height: 100%;
-    }
-    img {
-        position: absolute;
-            width: 100%;
-            top: 0;
-            bottom: 0;
-            margin: auto
-    }
-    .playbutton {
-            height: 80px;
-            text-align: center;
-            font:30px/90px sans-serif;
-            color: white;
-            text-shadow: 0 0 0.7em black;
-            position: absolute;
-            width: 100%;
-            top: 0;
-            bottom: 0;
-            margin: auto;
-        }
-</style>
-<a href=https://www.youtube.com/embed/${idYoutube}?rel=0&autoplay=1>
-    <img src=https://img.youtube.com/vi/${idYoutube}/hqdefault.jpg alt="YouTube thumbnail">
-        <span class="playbutton">&#x25BA;</span></a>
-               
-                `;
-                }
-            });
-        });
-    </script>
-</body>
 
 </html>
