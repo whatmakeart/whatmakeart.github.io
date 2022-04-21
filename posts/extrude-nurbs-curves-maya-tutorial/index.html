@@ -5,10 +5,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   
-  <title>Basic UV Mapping Maya Tutorial | What Make Art</title>
+  <title>How to Extrude a Nurbs Curve in Maya Tutorial | What Make Art</title>
   <meta name="viewport" content="width=device-width,minimum-scale=1">
   <meta name="description"
-    content="Learn how to UV map a non symmetrical object in Maya">
+    content="Extrude a nurbs curve in Maya">
   <meta name="generator" content="Hugo 0.92.2" />
   
   
@@ -40,20 +40,20 @@
 
   
 
-  <meta property="og:title" content="Basic UV Mapping Maya Tutorial" />
-<meta property="og:description" content="Learn how to UV map a non symmetrical object in Maya" />
+  <meta property="og:title" content="How to Extrude a Nurbs Curve in Maya Tutorial" />
+<meta property="og:description" content="Extrude a nurbs curve in Maya" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://whatmakeart.com/posts/basic-uv-mapping-maya-tutorial/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2021-03-28T08:30:00-04:00" />
-<meta property="article:modified_time" content="2021-03-28T08:30:00-04:00" />
+<meta property="og:url" content="http://whatmakeart.com/posts/extrude-nurbs-curves-maya-tutorial/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-03-31T08:30:00-04:00" />
+<meta property="article:modified_time" content="2022-03-31T08:30:00-04:00" />
 
-<meta itemprop="name" content="Basic UV Mapping Maya Tutorial">
-<meta itemprop="description" content="Learn how to UV map a non symmetrical object in Maya"><meta itemprop="datePublished" content="2021-03-28T08:30:00-04:00" />
-<meta itemprop="dateModified" content="2021-03-28T08:30:00-04:00" />
-<meta itemprop="wordCount" content="0">
-<meta itemprop="keywords" content="Maya," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Basic UV Mapping Maya Tutorial"/>
-<meta name="twitter:description" content="Learn how to UV map a non symmetrical object in Maya"/>
+<meta itemprop="name" content="How to Extrude a Nurbs Curve in Maya Tutorial">
+<meta itemprop="description" content="Extrude a nurbs curve in Maya"><meta itemprop="datePublished" content="2022-03-31T08:30:00-04:00" />
+<meta itemprop="dateModified" content="2022-03-31T08:30:00-04:00" />
+<meta itemprop="wordCount" content="463">
+<meta itemprop="keywords" content="Maya,3D Modeling," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="How to Extrude a Nurbs Curve in Maya Tutorial"/>
+<meta name="twitter:description" content="Extrude a nurbs curve in Maya"/>
 
   
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S4CF1KSMYD"></script>
@@ -83,7 +83,7 @@ if (!doNotTrack) {
 
   
   
-  <header class="cover bg-top" style="background-image: url('http://whatmakeart.com/posts/basic-uv-mapping-maya-tutorial/basic-uv-mapping-maya-tutorial.jpg');">
+  <header class="cover bg-top" style="background-image: url('http://whatmakeart.com/posts/extrude-nurbs-curves-maya-tutorial/extrude%20nurbs%20curves%20title%20.jpg');">
     <div class="bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
@@ -158,10 +158,10 @@ if (!doNotTrack) {
 
       <div class="tc-l pv6 ph3 ph4-ns">
         
-          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Basic UV Mapping Maya Tutorial</h1>
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">How to Extrude a Nurbs Curve in Maya Tutorial</h1>
           
             <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-              Learn how to UV map a non symmetrical object in Maya
+              Extrude a nurbs curve in Maya
             </h2>
           
         
@@ -194,7 +194,7 @@ if (!doNotTrack) {
   <div id="sharing" class="mt3 ananke-socials">
     
       
-      <a href="https://twitter.com/share?url=http://whatmakeart.com/posts/basic-uv-mapping-maya-tutorial/&amp;text=Basic%20UV%20Mapping%20Maya%20Tutorial" class="ananke-social-link twitter no-underline" aria-label="share on Twitter">
+      <a href="https://twitter.com/share?url=http://whatmakeart.com/posts/extrude-nurbs-curves-maya-tutorial/&amp;text=How%20to%20Extrude%20a%20Nurbs%20Curve%20in%20Maya%20Tutorial" class="ananke-social-link twitter no-underline" aria-label="share on Twitter">
         
         <span class="icon"> <svg style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
 </span>
@@ -204,11 +204,11 @@ if (!doNotTrack) {
   </div>
 
 
-      <h1 class="f1 athelas mt3 mb1">Basic UV Mapping Maya Tutorial</h1>
+      <h1 class="f1 athelas mt3 mb1">How to Extrude a Nurbs Curve in Maya Tutorial</h1>
       
       
       
-      <time class="f6 mv4 dib tracked" datetime="2021-03-28T08:30:00-04:00">March 28, 2021</time>
+      <time class="f6 mv4 dib tracked" datetime="2022-03-31T08:30:00-04:00">March 31, 2022</time>
       
 
       
@@ -216,13 +216,23 @@ if (!doNotTrack) {
     </header>
     <div class="nested-copy-line-height lh-copy sans-serif f4 nested-links mid-gray pr4-l w-two-thirds-l">
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/X0KGwPadukE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Basic UV mapping in Maya"></iframe>
+  <iframe src="https://www.youtube.com/embed/j7bCUkwxRTw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="How to Extrude a Nurbs Curve in Maya Tutorial"></iframe>
 </div>
 
+<h2 id="transcript">Transcript</h2>
+<p>In this Autodesk Maya tutorial I&rsquo;m going to show you how to extrude a nurbs shape along a nurbs curve. This can be very confusing in Maya because sometimes when you click extrude on the nurbs it doesn&rsquo;t look like you expect. For example a lot of times when you click extrude it will look something like this, not along the path that you chose. So how can we fix this?</p>
+<p>Let&rsquo;s start at the beginning. We can go to create curves CV curve tool and then we can draw a curve here. We have a curve in space press enter to accept the curve. I can right click and go to control vertex. I’ll orbit a bit I’ll select these press W move them up just to have some three-dimensional space. So now our curve is existing in three-dimensional space then I’m going to go ahead and make a circle. My circle is at the origin, I’m going to go ahead and move the circle, rotate the circle in two different directions, so now it is definitely not oriented like the curve.</p>
+<p>So the extrude tool for nurbs is up here. So then I click here then I hold shift, click here then I click extrude and it&rsquo;s all crazy. It&rsquo;s not really following the curve so we can do two things if you go to your attribute editor of the extrude command you can click fixed path that helps a lot but then you can change use component pivot to component pivot so that way it&rsquo;ll follow the curve centered on the circle.</p>
+<p>And you don&rsquo;t even have to move the circle. Look my circle is still right here this is very convenient because maybe you drew a complex shape and you want to extrude it on many different curves but look the normals are the wrong way so how do we fix that if you select the curve and then you go to surfaces reverse direction. And then you can change this into a polygon if you want. The nice thing is if I select the curve one and then I right click control vertex I can select these vertices and then I can move them and it&rsquo;s in the design history so I can move these around and I can update my curve however I want. And then if I go back and I press 6 to go to shaded mode you can see that my curve has updated.</p>
+<p>So hopefully this allows you to use the strange and sometimes confusing nurbs extrude tool. Just remember to click center on component pivot in fixed path and your nurbs curve extrudes will work great in Maya. Hopefully you have fun 3d modeling in Maya with nurbs curves and extrudes.</p>
 <ul class="pa0">
   
    <li class="list di">
      <a href="/tags/maya" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Maya</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/3d-modeling" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">3D Modeling</a>
    </li>
   
 </ul>
@@ -242,27 +252,63 @@ if (!doNotTrack) {
     <ul class="pa0 list">
 	   
 	     <li  class="mb2">
-          <a href="/posts/uv-map-cube-maya-tutorial/">UV Map a Cube in Maya Tutorial</a>
+          <a href="/posts/change-size-of-transform-controls-maya-tutorial/">How to Change the Cursor size of Move Tool in Maya</a>
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/posts/make-hole-in-maya-with-clean-geometry-and-edge-flow-without-ooleans-using-circularize-omponents/">Make Hole in Maya with Clean Geometry and Edge Flow without Booleans using Circularize Components</a>
+          <a href="/posts/how-to-insert-reference-image-maya-tutorial/">How to Insert a Reference Image into Maya</a>
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/posts/maya-three-point-lighting-tutorial/">Maya Three Point Lighting Tutorial</a>
+          <a href="/posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/">Ball Bounce Animation in Maya Tutorial</a>
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/posts/maya-polygon-modeling-tools-for-beginners-tutorial/">Maya Polygon Modeling Tools for Beginners</a>
+          <a href="/posts/3d-modeling-beginner-modeling-maya-tutorial/">Beginner 3D Modeling in Maya Tutorial</a>
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/posts/maya-user-interface-for-beginners/">Maya User Interface for Beginners</a>
+          <a href="/posts/how-to-model-3d-character-bear-maya-tutorial/">How to Model a 3D Character Bear Maya Tutorial</a>
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/posts/maya-user-interface/">Maya User Interface for Beginners</a>
+          <a href="/posts/3d-model-a-penguin-character-for-3d-printing-fusion-360/">3D Model a Penguin in Form Workspace in Fusion 360</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/insert-edge-loop-tspline-fusion-360-tutorial/">Insert an edge loop into a t-spline in Fusion 360</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/extrude-tspline-face-fusion-360-tutorial/">Extrude T-Spline Face Fusion 360</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/maya-3d-paint-tool-complex-object/">Maya 3D Paint Complex Objects</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/maya-3d-paint-tool-tutorial/">Maya 3D Paint Tool Tutorial</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/multiple-renderable-cameras-maya-tutorial/">Multiple Renderable Cameras in Maya</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/how-to-add-camera-to-maya-scene-tutorial/">Add a Camera to a Scene in Maya</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/render-and-image-sequence-from-maya/">Export a Rendered Image Sequence from Maya</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/model-coffee-cup-in-maya-3d-modeling-tutorial/">Model a Coffee Cup in Maya Tutorial</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/simple-ball-bounce-animation-with-squash-and-stretch-maya-tutorial/">Ball Bounce with Squash and Stretch Tutorial</a>
         </li>
 	    
     </ul>

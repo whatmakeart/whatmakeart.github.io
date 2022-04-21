@@ -6,7 +6,25 @@
     <description>Recent content in Posts on What Make Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Mar 2022 08:32:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 08:30:00 -0400</lastBuildDate><atom:link href="http://whatmakeart.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Extrude a Nurbs Curve in Maya Tutorial</title>
+      <link>http://whatmakeart.com/posts/extrude-nurbs-curves-maya-tutorial/</link>
+      <pubDate>Thu, 31 Mar 2022 08:30:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/extrude-nurbs-curves-maya-tutorial/</guid>
+      <description>Transcript In this Autodesk Maya tutorial I&amp;rsquo;m going to show you how to extrude a nurbs shape along a nurbs curve. This can be very confusing in Maya because sometimes when you click extrude on the nurbs it doesn&amp;rsquo;t look like you expect. For example a lot of times when you click extrude it will look something like this, not along the path that you chose. So how can we fix this?</description>
+    </item>
+    
+    <item>
+      <title>Beginner 3D Modeling in Maya Tutorial</title>
+      <link>http://whatmakeart.com/posts/3d-modeling-beginner-modeling-maya-tutorial/</link>
+      <pubDate>Mon, 21 Mar 2022 08:30:00 -0400</pubDate>
+      
+      <guid>http://whatmakeart.com/posts/3d-modeling-beginner-modeling-maya-tutorial/</guid>
+      <description>   Transcript </description>
+    </item>
+    
     <item>
       <title>How to Model a 3D Character Bear Maya Tutorial</title>
       <link>http://whatmakeart.com/posts/how-to-model-3d-character-bear-maya-tutorial/</link>
