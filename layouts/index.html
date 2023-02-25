@@ -1,9 +1,11 @@
 {{ define "main" }}
-<article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param " text_color" | default "mid-gray"
-    }}">
+<article
+    class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "
+    text_color" | default "mid-gray" }}">
     {{ .Content }}
 </article>
-{{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of
+{{/* Define a section to pull recent posts from. For Hugo 0.20 this will default
+to the section with the most number of
 pages. */}}
 {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
 {{/* Create a variable with that section to use in multiple places. */}}
@@ -15,20 +17,28 @@ pages. */}}
 {{ $section_name := index (.Site.Params.mainSections) 0 }}
 
 <div class="pa3 pa4-ns w-100 w-70-ns center">
-    <p>What? Make Art is a repository of art making videos, tutorials and art making faq's. Tutorials cover a wide range
-        of topics including making digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe
-        Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.</p>
-    <p>Art making tutorial videos start from a beginner level an progress to more advanced topics. What art do you want
+    <p>What? Make Art is a repository of art making videos, tutorials and art
+        making faq's. Tutorials cover a wide range
+        of topics including making electronic art, digital art, Photoshop,
+        Technical Drawing, Illustrator, After Effects, Adobe
+        Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and
+        more.</p>
+    <p>Art making tutorial videos start from a beginner level an progress to
+        more advanced topics. What art do you want
         to make?</p>
 
-    <p> What? Make Art aims to share knowledge about the creative process and how to go about making art to the world.
-        The project was created by <a href="https://www.jimmykuehnle.com">Jimmy Kuehnle</a>, an artist and educator.
+    <p> What? Make Art aims to share knowledge about the creative process and
+        how to go about making art to the world.
+        The project was created by <a href="https://www.jimmykuehnle.com">Jimmy
+            Kuehnle</a>, an artist and educator.
     </p>
-    <p>Just the tutorials about making art. Vist on <a
-            href="https://www.youtube.com/channel/UCmGXH-jy0o2CuhqtpxbaQgA">YouTube.</a>.</p>
+    <p>Just the tutorials about making art. Visit on <a
+            href="https://www.youtube.com/channel/UCmGXH-jy0o2CuhqtpxbaQgA">YouTube.</a>.
+    </p>
 
 
-    {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
+    {{/* Use $section_name to get the section title. Use "with" to only show it
+    if it exists */}}
     {{ with .Site.GetPage "section" $section_name }}
     <h1 class="flex-none">
         {{ $.Param "recent_copy" | default (i18n "recentTitle" .) }}
@@ -49,7 +59,8 @@ pages. */}}
     {{ if ge $section_count (add $n_posts 1) }}
     <section class="w-100">
         <h1 class="f3">{{ i18n "more" }}</h1>
-        {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then
+        {{/* Now, range through the next four after the initial $n_posts items.
+        Nest the requirements, "after" then
         "first" on the outside */}}
         {{ range (first 4 (after $n_posts $section)) }}
         <h2 class="f5 fw4 mb4 dib mr3">
@@ -59,9 +70,12 @@ pages. */}}
         </h2>
         {{ end }}
 
-        {{/* As above, Use $section_name to get the section title, and URL. Use "with" to only show it if it exists */}}
+        {{/* As above, Use $section_name to get the section title, and URL. Use
+        "with" to only show it if it exists */}}
         {{ with .Site.GetPage "section" $section_name }}
-        <a href="{{ .RelPermalink }}" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">{{ i18n "allTitle" . }}</a>
+        <a href="{{ .RelPermalink }}"
+            class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">{{ i18n
+            "allTitle" . }}</a>
         {{ end }}
     </section>
     {{ end }}
