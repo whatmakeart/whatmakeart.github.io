@@ -1,0 +1,23 @@
+---
+date: 2022-02-27T8:30:00-04:00
+description: "Turn Off Zebra Strip Analysis Fusion 360"
+featured_image: "/posts/turn-off-zebra-stripe-analysis-fusion-360/Turn off Zebra Analysis Fusion 360 Title.jpg"
+tags: [""]
+title: "Turn Off Zebra Strip Analysis Fusion 360"
+draft: false
+spellcheck: off
+---
+
+Can't turn off zebra analysis in Fusion 360? How to remove zebra stripes in Fusion 360 Tutorial? Click the eyeball in the browser in the analysis folder to turn off the zebra analysis in Fusion 360 and make your model have regular appearance again.
+
+{{< youtube id="xGk4xBtBt2g" title="Turn Off Zebra Strip Analysis Fusion 360" >}}
+
+## Transcript
+
+In this Autodesk Fusion 360 tutorial I’m going to show you how you can turn on and off zebra stripe curvature analysis.
+
+Fusion 360 has all kinds of great inspection tools including zebra analysis. If I click on this body I can then see how this curvature is working, either working really well or not working well and it's great way to see the different forms that you've made. Here I can see how the curvature is going from one form to the next. If I press ok suddenly you're wondering how can I not see this? So I’m seeing this and I like being able to see how the forms interact and move across the surface but now I want to see the form normally. If I go back to inspect there's no check mark to see how it works so what I can do is press cancel. And then notice over in the browser I have analysis, so I can either turn the entire analysis folder off in Fusion 360 or I can leave the folder on and then just turn off zebra. That way I can inspect a curvature map analysis, click this body and I can see where I’m having strong curvature issues. And if I press ok notice that this also has an eyeball so then I can toggle back and forth between the different analysis of my form.
+
+So hopefully this will help you not get stuck with leaving your zebra analysis on in Fusion 360.
+
+Happy 3D modeling.
