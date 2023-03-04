@@ -4,7 +4,7 @@ title = "What Make Art"
 theme = "ananke"
 
 SectionPagesMenu = "main"
-Paginate = 18 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 18
 googleAnalytics = "G-S4CF1KSMYD"
 enableRobotsTXT = true
 
@@ -36,3 +36,7 @@ enableRobotsTXT = true
   post_content_classes = "sans-serif"
   custom_css = ["css/custom.css"]
   custom_js = ["js/custom.js"]
+
+  
+[markup.goldmark.renderer]
+  unsafe = true

@@ -1,3 +1,5 @@
+<!-- prettier-ignore-start -->
+
 {{ define "main" }}
 
 <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy">
@@ -10,6 +12,8 @@ to the section with the most number of pages. */}}
 {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
 {{/* Check to see if the section is defined for ranging through it */}}
 {{ $section_count := len $section }}
+
+
 {{ if ge $section_count 1 }}
 {{/* Derive the section name */}}
 {{ $section_name := index (.Site.Params.mainSections) 0 }}
@@ -81,3 +85,5 @@ to the section with the most number of pages. */}}
 </div>
 {{ end }}
 {{ end }}
+
+<!-- prettier-ignore-end -->
