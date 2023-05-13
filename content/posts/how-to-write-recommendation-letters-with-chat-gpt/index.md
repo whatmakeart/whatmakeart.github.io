@@ -1,7 +1,7 @@
 ---
-date: 2022-00-00T8:30:00-04:00
+date: 2023-00-00T8:30:00-04:00
 description: How to write recommendation letters with chatGPT
-featured_image: /posts/how-to-write-recommendation-letters-with-chat-gpt/chatgpt-recomendationletter.jpg
+featured_image: /posts/how-to-write-recommendation-letters-with-chat-gpt/chatgpt-recomendation-letter.jpg
 tags:
   - ChatGPT
   - Artificial Intelligence
