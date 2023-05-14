@@ -6,7 +6,7 @@ tags:
   - Blender
   - 3D Modeling
   - Texture Paint
-title:
+title: How to Use Texture Paint in Blender
 draft: false
 spellcheck: off
 ---
