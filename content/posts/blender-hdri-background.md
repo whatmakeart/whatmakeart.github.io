@@ -5,7 +5,7 @@ featured_image:
 tags:
   - tag1
   - tag2
-title:
+title: Blender HDRI Background
 draft: true
 spellcheck: off
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2023-05-08T8:30:00-04:00
 description: xcrun error invalid active developer path How can you fix your git installation when it is installed on a mac but Visual Studio Code does not find the installation.
-featured_image: "/posts/git-not-found-xcrun-error/git-not-found-title.jpg"
+featured_image: "/posts/images/git-not-found-title.jpg"
 tags:
   - Visual Studio Code
   - git
@@ -12,6 +12,43 @@ spellcheck: off
 ---
 
 {{< youtube id="aV6Kb-2eAL0" title="git not found xcrun error" >}}
+
+**How to Fix Git on Mac OS after Installing a New Update**
+
+In this tutorial, you will learn how to fix Git on Mac OS after installing a new update. You will learn how to reinstall the command line developer tools and how to update your path in Visual Studio Code.
+
+**What You Will Need**
+
+- A Mac computer
+- A terminal
+- Visual Studio Code
+
+**Instructions**
+
+1. Open a terminal and type the following command:
+
+```
+xcode-select --install
+```
+
+2. Click "Install" and agree to the software license agreement.
+
+3. Once the installation is complete, restart your Mac.
+
+4. Open Visual Studio Code and type the following command in the terminal:
+
+```
+git --version
+```
+
+5. If you see a version number, then Git is installed and working properly.
+
+6. You should now be able to use Git in Visual Studio Code.
+
+**Tips**
+
+- You can also reinstall the command line developer tools by opening Xcode and going to the "Preferences" menu. Select the "Downloads" tab and click on the "Install Command Line Developer Tools" button.
+- If you are still having problems with Git, you can try searching for help online or contacting the Git support team.
 
 ## Video Transcript
 
