@@ -1,7 +1,7 @@
 ---
 date: 2023-05-08T8:30:00-04:00
 description: In this tutorial, you will learn how to create 3D text in Blender. You will learn how to add text, extrude it, and convert it to a mesh. You will also learn how to add materials to the text and render it.
-featured_image: /images/3d-text-in-blender.jpg
+featured_image: /posts/images/3d-text-in-blender.jpg
 tags:
   - Blender
   - 3D Modeling
@@ -16,12 +16,12 @@ spellcheck: off
 
 In this tutorial, you will learn how to create 3D text in Blender. You will learn how to add text, extrude it, and convert it to a mesh. You will also learn how to add materials to the text and render it.
 
-## **What You Will Need**
+## What You Will Need
 
 - Blender
 - A computer with a good graphics card
 
-## **Instructions**
+## Instructions
 
 1. Create a new scene in Blender.
 2. Add text to the scene.
@@ -31,14 +31,14 @@ In this tutorial, you will learn how to create 3D text in Blender. You will lear
 6. Add a material to the text.
 7. Render the text.
 
-## **Tips**
+## Tips
 
 - You can adjust the size, font, and color of the text.
 - You can adjust the depth and bevel of the text.
 - You can add a material to the text to change its appearance.
 - You can render the text to create an image or animation.
 
-## **Conclusion**
+## Conclusion
 
 In this tutorial, you learned how to create 3D text in Blender. You can use this technique to create a variety of text-based objects, such as logos, signs, and labels.
 
