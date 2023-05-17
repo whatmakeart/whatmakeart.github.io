@@ -1,5 +1,5 @@
 ---
-date: 2023-05-17T8:30:00-04:00
+date: 2023-05-17T8:10:00-04:00
 description: Run Bard Code on Google Collab
 featured_image: /posts/images/bard-code-on-google-collab.jpg
 tags:
