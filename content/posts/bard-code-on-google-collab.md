@@ -1,7 +1,7 @@
 ---
 date: 2023-05-17T8:10:00-04:00
 description: Run Bard Code on Google Collab
-featured_image: /posts/images/bard-code-on-google-collab.jpg
+featured_image: /posts/images/can-bard-code.jpg
 tags:
   - Bard
   - Artificial Intelligence

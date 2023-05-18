@@ -1,7 +1,7 @@
 ---
 date: 2023-05-16T8:30:00-04:00
 description: Artificial text generators are becoming increasingly popular, with Bard and ChatGPT being two of the most well-known options. But which one is better?
-featured_image: /posts/images/bard-vs-chat-gpt.jpg
+featured_image: /posts/images/google-bard-vs-openai-chatgpt.jpg
 tags:
   - Bard
   - ChatGPT
