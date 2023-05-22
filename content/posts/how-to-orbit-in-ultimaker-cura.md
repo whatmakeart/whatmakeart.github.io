@@ -1,14 +1,25 @@
 ---
 date: 2022-02-22T8:30:00-04:00
-description: "How to Orbit in Ultimaker Cura"
-featured_image: "/posts/how-to-orbit-in-ultimaker-cura/How to orbit in ultimaker cura title.jpg"
-tags: ["3D Printing"]
-title: "How to Orbit in Ultimaker Cura"
+description: How to Orbit in Ultimaker Cura
+featured_image: /posts/images/how-to-orbit-in-ultimaker-cura.jpg
+tags:
+  - 3D Printing
+title: How to Orbit in Ultimaker Cura
 draft: false
 spellcheck: off
 ---
 
 {{< youtube id="LCW-KWKs2Gs" title="How to Orbit in Ultimaker Cura" >}}
+
+## How to Orbit and Pan in Ultimaker Cura
+
+In this 3D printing tutorial, I will show you how to orbit and pan around your 3D models in Ultimaker Cura. This can be helpful for getting a better view of your models and for making sure that they are properly aligned before printing.
+
+To orbit your model, hold down the right mouse button and drag your mouse. To pan your model, hold down the middle mouse button and drag your mouse. To zoom in or out, scroll up or down with your mouse wheel.
+
+If you are using a laptop, you can also use the keyboard to orbit and pan your model. To orbit, press the arrow keys.
+
+I hope this tutorial helps you get the most out of Ultimaker Cura!
 
 ## Transcript
 
