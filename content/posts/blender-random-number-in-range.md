@@ -11,8 +11,6 @@ draft: false
 spellcheck: off
 ---
 
-[Test][/testing.md]
-
 {{< youtube id="i9JTQ8S63x0" title="Blender Random Number in Range" >}}
 
 ## How to Get Random Numbers Within a Specific Range in Blender
