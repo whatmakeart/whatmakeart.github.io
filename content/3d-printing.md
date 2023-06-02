@@ -2,8 +2,6 @@
 title: 3D Printing
 ---
 
-![test](/sewing/sewing.md)
-
 3D Printing is an [additive-processes](additive-processes.md) of [Fabrication](Sculpture-and-Expanded-Media/Fabrication.md).
 
 ## Types of 3D Printers
