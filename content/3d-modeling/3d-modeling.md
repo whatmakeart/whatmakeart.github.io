@@ -1,5 +1,6 @@
 ---
 title: 3D Modeling
+draft: true
 ---
 
 What is a model? What is a 3D model? What is the difference between an analog and a digital 3D model? How does 2D sketching relate to 3D modeling?
