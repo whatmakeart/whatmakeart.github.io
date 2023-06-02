@@ -1,0 +1,49 @@
+{{ define "main" }}
+<article class="container-xxl my-md-4 bd-layout">
+    <main class="bd-main order-1">
+        <div class="bd-intro ps-lg-4">
+            {{ partial "breadcrumbs.html" . }}
+            <div class="d-md-flex flex-md-row align-items-center justify-content-between">
+
+                {{ partial "edit-page" . }}
+
+                <h1 class="bd-title" id="pageTitleH1">{{ .Title }}</h1>
+
+            </div>
+        </div>
+
+        <aside class="bd-toc mt-4 mb-5 my-md-0 px-xl-3 mb-lg-5 text-muted" id="topTOC">
+            {{ partial "toc.html" . }}
+        </aside>
+
+        <div class="bd-content ps-lg-4">
+            {{ .Content }}
+
+            <ul class="list-unstyled mb-0 py-3 pt-md-1" style="display:grid; grid-template-columns: 1fr 1fr 1fr ; grid-gap: 1rem;">
+                {{ $paginator := .Paginate (where .Pages "Type" "posts") }}
+
+                {{ range $paginator.Pages }}
+                <li class="card">
+
+                    <div class="card-body">
+
+                        {{ if .Params.featured_image }}<a href="{{ .Permalink }}"><img class="card-img-top" src="{{ .Params.featured_image }}"></a>{{ end }}
+
+                        <a class="card-text" href="{{ .RelPermalink}}">{{ .Title }}</a>
+                    </div>
+                </li>
+                {{ end }}
+            </ul>
+            <div class="d-flex">
+                {{partial "pagination.html" .}}
+            </div>
+
+
+
+
+        </div>
+    </main>
+
+
+</article>
+{{ end }}

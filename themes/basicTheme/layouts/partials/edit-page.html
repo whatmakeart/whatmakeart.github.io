@@ -1,0 +1,19 @@
+{{ if .IsPage}}
+{{ if .File.Path}}
+{{ $.Scratch.Set "FilePath" .File.Path }}
+{{ end }}
+{{ with .Site.Params.GithubEdit}}
+<a class="btn btn-outline-dark" href='{{ . }}{{ $.Scratch.Get "FilePath" }}'>Edit this page</a>
+{{ end }}
+{{ end }}
+
+
+<!-- need to fix  .File.Path on zero object. Wrap it in if or with: {{ with .File }}{{ .Path }}{{ end }} -->
+{{ if .IsNode}}
+{{ if .File.Path}}
+{{ $.Scratch.Set "FilePath" .File.Path }}
+{{ end }}
+{{ with .Site.Params.GithubEdit}}
+<a class="btn btn-outline-dark" href='{{ . }}{{ $.Scratch.Get "FilePath" }}'>Edit this page</a>
+{{ end }}
+{{ end }}

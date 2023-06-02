@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+{{- $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
+{{- $pages := .Pages.ByTitle -}}
+{{- $pages_by_letters := dict -}}
+{{ range $pages }}
+{{- $page := . -}}
+{{- $first_letter := upper ( substr $page.Name 0 1 ) -}}
+{{- if not (in $letters $first_letter) }}
+{{ $first_letter = "#" }}
+{{ end }}
+{{- $new_list := slice -}}
+{{ with index $pages_by_letters $first_letter }}
+{{- $new_list = . | append $page -}}
+{{ else }}
+{{- $new_list = slice $page -}}
+{{ end }}
+{{- $pages_by_letters = merge $pages_by_letters (dict $first_letter $new_list) -}}
+{{ end }}
+
+<!-- Source https://dongheenam.info/posts/grouping-a-list-by-first-letter-in-hugo/ -->
+
+<article class="container-xxl my-md-4 bd-layout">
+    <main class="bd-main order-1">
+        <div class="bd-intro ps-lg-4">
+            {{ partial "breadcrumbs.html" . }}
+            <div class="d-md-flex flex-md-row align-items-center justify-content-between">
+
+                {{ partial "edit-page" . }}
+
+                <h1 class="bd-title" id="pageTitleH1">{{ .Title }}</h1>
+
+            </div>
+        </div>
+
+        <aside class="bd-toc mt-4 mb-5 my-md-0 px-xl-3 mb-lg-5 text-muted" id="topTOC">
+            {{ partial "toc.html" . }}
+        </aside>
+
+        <div class="bd-content ps-lg-4">
+            {{ .Content }}
+
+            <section class="section-pages-tag">
+                {{ range $key, $items := $pages_by_letters }}
+                <span class="key">{{ $key }}</span>
+                <ul>
+                    {{- range $items -}}
+                    <li>
+                        <a href="{{ .RelPermalink }}">{{ .Name }}</a><sup>{{ len .Pages }}</sup>
+                    </li>
+                    {{- end -}}
+                </ul>
+                {{ end }}
+            </section>
+        </div>
+    </main>
+</article>
+{{ end }}

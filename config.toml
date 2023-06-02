@@ -1,12 +1,13 @@
 baseURL = "https://whatmakeart.com/"
 languageCode = "en-us"
 title = "What Make Art"
-theme = "ananke"
+theme = "basicTheme"
 
-SectionPagesMenu = "main"
+# SectionPagesMenu = "main" #only for default menu when not specified in config
 Paginate = 18
 googleAnalytics = "G-S4CF1KSMYD"
 enableRobotsTXT = true
+pluralizelisttitles = false
 
 
 [sitemap]
@@ -29,6 +30,7 @@ enableRobotsTXT = true
   slack = ""
   stackoverflow = ""
   rss = ""
+  GithubEdit = "https://github.com/whatmakeart/whatmakeart.github.io/edit/main/content/"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/img/whatmakeart-logo.png"
@@ -40,3 +42,21 @@ enableRobotsTXT = true
   
 [markup.goldmark.renderer]
   unsafe = true
+
+ [menu]
+[[menu.main]]
+  name = 'Courses'
+  url = '/courses'
+  weight = 10
+[[menu.main]]
+  name = 'Tutorials'
+  url = '/tutorials'
+  weight = 20
+[[menu.main]]
+  name = 'Art FAQ'
+  url = '/art-faq'
+  weight = 25
+[[menu.main]]
+  name = 'About'
+  url = '/about'
+  weight = 30
