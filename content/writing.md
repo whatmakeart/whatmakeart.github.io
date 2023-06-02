@@ -7,5 +7,3 @@ Artists, makers, and designers need to be proficient in many types of writing ra
 ## Smart People Write Things Down
 
 Use a pencil, a pen, a laptop, a phone, an audio recorder ... anything. Write things down. Successful and smart people have written notes, journals, lists and other memory offloading systems.
-
-{{% include "Story-Spine.md" %}}
