@@ -19,32 +19,34 @@
 
         <div class="bd-content ps-lg-4">
             {{ .Content }}
-            <nav class="collapse bd-links" id="making-wiki-nav" aria-label="Making Wiki Navigation">
-                <ul class="list-unstyled mb-0 py-3 pt-md-1">
+            <section class="bd-sidebar">
+                <nav class="collapse bd-links" id="making-wiki-nav" aria-label="Making Wiki Navigation">
+                    <ul class="list-unstyled mb-0 py-3 pt-md-1">
 
-                    {{ range .Pages.ByTitle }}
-                    {{ if .IsNode }}
-                    <li class="mb-1">
-                        <button class="btn d-inline-flex align-items-center rounded collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{ .Title | urlize  }}" aria-expanded="false" aria-controls="{{ .Title | urlize  }}">
-                            {{ .Title }}
-                        </button>
+                        {{ range .Pages.ByTitle }}
+                        {{ if .IsNode }}
+                        <li class="mb-1">
+                            <button class="btn d-inline-flex align-items-center rounded collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{ .Title | urlize  }}" aria-expanded="false" aria-controls="{{ .Title | urlize  }}">
+                                {{ .Title }}
+                            </button>
 
-                        <div class="collapse" id="{{ .Title | urlize  }}">
-                            {{ partial "walk.html" . }}
-                        </div>
-                    </li>
-                    {{end }}
+                            <div class="collapse" id="{{ .Title | urlize  }}">
+                                {{ partial "walk.html" . }}
+                            </div>
+                        </li>
+                        {{end }}
 
-                    {{ if .IsPage }}
-                    <li class="fw-normal">
-                        <a class="d-inline-flex align-items-center rounded" href="{{ .RelPermalink }}">{{ .Title }}</a>
-                    </li>
-                    {{end }}
+                        {{ if .IsPage }}
+                        <li class="fw-normal">
+                            <a class="d-inline-flex align-items-center rounded" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        </li>
+                        {{end }}
 
-                    {{ end }}
+                        {{ end }}
 
-                </ul>
-            </nav>
+                    </ul>
+                </nav>
+            </section>
         </div>
     </main>
 </article>
