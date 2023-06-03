@@ -1,19 +1,10 @@
-<nav aria-label="breadcrumb" id="breadcrumbs">
-    <ol class="breadcrumb">
-        {{- range .Ancestors.Reverse }}
-        <li class="breadcrumb-item"><a class="link-secondary" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-        {{- end }}
-        <li class="breadcrumb-item active" aria-current="page"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-    </ol>
-</nav><nav aria-label="breadcrumb">
-  <ol>
-    {{ range .Ancestors.Reverse }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-      </li>
+ <ol class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  {{ $rellink := "" }}
+  {{ range (split .RelPermalink "/") }}
+    {{ if gt (len . ) 0 -}}
+      {{ $rellink = printf "%s/%s" $rellink . }}
+      <li><a href="{{ $rellink }}">{{ humanize . }}</a></li>
     {{ end }}
-    <li class="active">
-      <a aria-current="page" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-    </li>
-  </ol>
-</nav>
+  {{ end }}
+</ol>
