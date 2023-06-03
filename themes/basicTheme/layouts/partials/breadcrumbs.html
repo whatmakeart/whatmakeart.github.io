@@ -5,8 +5,9 @@
   {{ range (split .RelPermalink "/") }}
     {{ if gt (len . ) 0 -}}
       {{ $rellink = printf "%s/%s" $rellink . }}
-      <li class="breadcrumb-item active" aria-current="page"><
-a href="{{ $rellink }}">{{ humanize . }}</a></li>
+      <li class="breadcrumb-item active" aria-current="page">
+     
+<a href="{{ $rellink }}">{{ humanize . }}</a></li>
     {{ end }}
   {{ end }}
 </ol>
