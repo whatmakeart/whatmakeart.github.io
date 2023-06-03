@@ -1,5 +1,6 @@
- <ol class="breadcrumb">
-  <li><a href="/">Home</a></li>
+ <nav aria-label="breadcrumb" id="breadcrumbs">
+  <ol class="breadcrumb">
+  <li class="breadcrumb-item"><a class="link-secondary" href="/">Home</a></li>
   {{ $rellink := "" }}
   {{ range (split .RelPermalink "/") }}
     {{ if gt (len . ) 0 -}}
@@ -8,3 +9,4 @@
     {{ end }}
   {{ end }}
 </ol>
+  </nav>
