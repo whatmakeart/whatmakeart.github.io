@@ -82,15 +82,16 @@
                 {{ end }}
 
 
+                {{ if .NextInSection }}
+                <li class="btn btn-lg btn-outline-dark align-items-center">
+                    <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">&larr; {{ .NextInSection.Title}} </a>
+                </li> {{ end }}
 
+                {{ if .PrevInSection }}
+                <li class="btn btn-lg btn-outline-dark align-items-center">
+                    <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title}}"> {{ .PrevInSection.Title}} &rarr;</a>
+                </li> {{ end }}
 
-                {{ with .Parent.Pages.Prev . }}
-                <a style="color:red;" class="btn btn-lg btn-outline-dark" href="{{ .NextInSection.Permalink }}">« {{ .NextInSection.Title | truncate 50 "..." }}</a>
-                {{ end }}
-
-                {{ with .Parent.Pages.Next . }}
-                <a style="color:green;" class="btn btn-lg btn-outline-dark" href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title | truncate 50 "..."}} »</a>
-                {{ end }}
 
             </div>
         </div>
