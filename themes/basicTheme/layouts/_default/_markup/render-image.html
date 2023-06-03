@@ -1,8 +1,8 @@
-{{ $includePath := path.Join .Page.File.Dir .Destination }}
 {{- $includeUrl := urls.Parse .Destination -}}
 {{- if strings.HasSuffix $includeUrl.Path ".md" -}}
-{{ $includePath | readFile | replaceRE "^---[\\s\\S]+?---" "" | markdownify }}
+{{ .Destination | readFile | replaceRE "^---[\\s\\S]+?---" "" | markdownify }}
 {{- end -}}
+
 
 {{- if not (strings.HasSuffix $includeUrl.Path ".md") -}}
 {{- $img := .Page.Resources.GetMatch .Destination -}}
@@ -14,7 +14,6 @@
 {{- $large := $img.Resize "1200x" -}}
 {{ $medium := $large.Fill "726x402" -}}
 {{ $small := $medium.Fill "458x254" -}}
-
 
 
 <figure class="image-caption">

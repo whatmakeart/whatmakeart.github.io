@@ -237,8 +237,7 @@ a.title-link {
 /* site title on pages below nav menu */
 
 #top-prev-next,
-#bottom-prev-next,
-.footer-links {
+#bottom-prev-next {
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 1rem;
