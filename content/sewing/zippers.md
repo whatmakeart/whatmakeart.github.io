@@ -20,4 +20,6 @@ Plastic coil zippers are very strong and resilient to minor damage and are usual
 
 ## Additional Reading
 
-[How to Sew a Zipper](how-to-sew-a-zipper.md) [How to sew a Zipper Pocket](how-to-sew-a-zipper-pocket.md) [Sewing](sewing.md)
+- [How to Sew a Zipper](../how-to-sew-a-zipper.md) 
+- [How to sew a Zipper Pocket](../how-to-sew-a-zipper-pocket.md) 
+- [Sewing](sewing.md)
