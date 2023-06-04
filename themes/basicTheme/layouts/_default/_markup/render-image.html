@@ -1,27 +1,18 @@
 {{- $includeUrl := urls.Parse .Destination -}}
-{{- if strings.HasSuffix $includeUrl.Path ".md" -}}
+{{- if strings.HasSuffix $includeUrl.Path ".md" -}} <!-- Check if a markdown file extension -->
 {{ .Destination | readFile | replaceRE "^---[\\s\\S]+?---" "" | markdownify }}
 {{- end -}}
 
 
-{{- if not (strings.HasSuffix $includeUrl.Path ".md") -}}
-{{- $img := .Page.Resources.GetMatch .Destination -}}
-{{- if and (not $img) .Page.File -}}
-{{ $path := path.Join .Page.File.Dir .Destination }}
-{{- $img = resources.Get $path -}}
-{{- end -}}
-{{- with $img -}}
-{{- $large := $img.Resize "1200x" -}}
-{{ $medium := $large.Fill "726x402" -}}
-{{ $small := $medium.Fill "458x254" -}}
+{{- if not (strings.HasSuffix $includeUrl.Path ".md") -}} <!-- if not a .md file -->
+{{- $pageFolder := path.Dir .Page.RelPermalink }} <!-- Get the Relative URL of the Page -->
+{{- $pageFolderUp := path.Dir $pageFolder -}} <!-- Remove the Hugo Created folder from URL-->
+{{- $imgPath := path.Join $pageFolderUp .Destination -}}<!-- Join one folder up with the image .Destination -->
 
+{{- if os.FileExists $imgPath -}} <!-- check if image is one directory up after Hugo Render -->
 
-<figure class="image-caption">
-  <img alt="{{ $.Text }}" srcset="
-        {{ $small.RelPermalink }} 458w,
-        {{ $medium.RelPermalink }} 726w,
-        {{ $large.RelPermalink }} 1200w" sizes="50vw" src="{{ $small.RelPermalink }}" />
-  <figcaption>{{ with $.Title | safeHTML }}{{ . }}{{ end }}</figcaption>
-</figure>
+<img src="{{ $imgPath | safeURL }}" alt="{{ $.Text }}" />
+
 {{- else -}}
+
 <img src="{{ .Destination | safeURL }}" alt="{{ $.Text }}" />{{- end -}}{{- end -}}
