@@ -39,9 +39,9 @@ pluralizelisttitles = false
   custom_css = ["css/custom.css"]
   custom_js = ["js/custom.js"]
 
-  startLevel = 2      # default is 2
-  endLevel = 3        # default is 3
-  minNumHeadings = 2  # default is 2
+  startLevel = 1      # default is 2
+  endLevel = 4       # default is 3
+  minNumHeadings = 1  # default is 2
 
   
 [markup.goldmark.renderer]

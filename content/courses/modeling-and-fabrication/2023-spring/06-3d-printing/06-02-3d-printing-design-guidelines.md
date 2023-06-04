@@ -14,7 +14,7 @@ draft: false
 
 <figure>
 
-![3D Print Angles](2022-3D-Print-Angles.png)
+![3D Print Angles](/courses/modeling-and-fabrication/2023-spring/06-3d-printing/2022-3D-Print-Angles-at-Angle.png)
 
 <figcaption>
 
@@ -24,7 +24,7 @@ Red models will not print without supports but green models will because they ri
 </figure>
 <figure>
 
-![3D Print Angles Square](2022-3D-Print-Angles-Square.png)
+![3D Print Angles Square](/courses/modeling-and-fabrication/2023-spring/06-3d-printing/2022-3D-Print-Angles-Square.png)
 
 Red models will not print without supports but green models will because they rise up at 45 degrees
 
@@ -32,7 +32,7 @@ Red models will not print without supports but green models will because they ri
 </figure>
 <figure>
 
-![3D Print Angles Round](2022-3D-Print-Angles-Round.png)
+![3D Print Angles Round](/courses/modeling-and-fabrication/2023-spring/06-3d-printing/2022-3D-Print-Angles-Round.png)
 
 Red models will not print without supports but green models will because they rise up at 45 degrees
 
@@ -47,7 +47,7 @@ The following guidelines help achieve successful 3d Prints especially when desig
 <div class="gallery-grid">
 <figure>
 
-![3D Print Guidelines](2022-3D-Print-Guidelines.png)
+![3D Print Guidelines](/courses/modeling-and-fabrication/2023-spring/06-3d-printing/2022-3D-Print-Guidelines.png)
 
 <figcaption>
 
@@ -57,7 +57,7 @@ Example of model showing Mechanical 3D Print Guidelines
 </figure>
 <figure>
 
-![3D Print Gussets](2022-3D-Print-Gussets.png)
+![3D Print Gussets](courses/modeling-and-fabrication/2023-spring/06-3d-printing/2022-3D-Print-Gussets.png)
 
 <figcaption>
 
