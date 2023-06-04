@@ -1,18 +1,44 @@
+<!-- Begin Include Markdown Files with ![Image](markdown.md) -->
 {{- $includeUrl := urls.Parse .Destination -}}
 {{- if strings.HasSuffix $includeUrl.Path ".md" -}} <!-- Check if a markdown file extension -->
 {{ .Destination | readFile | replaceRE "^---[\\s\\S]+?---" "" | markdownify }}
-{{- end -}}
-
+{{- end -}} <!-- End Include Markdown Files with ![Image](markdown.md) -->
 
 {{- if not (strings.HasSuffix $includeUrl.Path ".md") -}} <!-- if not a .md file -->
+
+<!-- Begin Example Code from Hugo Portable Links https://github.com/bep/portable-hugo-links -->
+{{- $img := .Page.Resources.GetMatch .Destination -}}
+{{- if and (not $img) .Page.File -}}
+{{ $path := path.Join .Page.File.Dir .Destination }}
+{{- $img = resources.Get $path -}}
+{{- end -}}
+{{- with $img -}}
+{{- $xlarge := $img.Resize "3840x" -}}
+{{- $large := $img.Resize "2048x" -}}
+{{- $medium := $img.Resize "1080x" -}}
+{{- $small := $img.Resize "828x" -}}
+{{- $xsmall := $img.Resize "640x" -}}
+
+<figure class="image-caption">
+  <img alt="{{ $.Text }}" srcset="
+        {{ $xsmall.RelPermalink }} 640w, 
+        {{ $small.RelPermalink }} 828w,
+        {{ $medium.RelPermalink }} 1080w,
+        {{ $large.RelPermalink }} 2840w,
+        {{ $xlarge.RelPermalink }} 3840w" width="{{ $img.Width }}" sizes="50vw" src="{{ $xsmall.RelPermalink}}" />
+  <figcaption>{{ with $.Title | safeHTML }}{{ . }}{{ end }}</figcaption>
+</figure>
+{{- else -}} <!-- End Example Code from Hugo Portable Links https://github.com/bep/portable-hugo-links -->
+
+<!-- Begin check for images living in same folder as markdown-file.md for GitHub viewing -->
 {{- $pageFolder := path.Dir .Page.RelPermalink }} <!-- Get the Relative URL of the Page -->
 {{- $pageFolderUp := path.Dir $pageFolder -}} <!-- Remove the Hugo Created folder from URL-->
 {{- $imgPath := path.Join $pageFolderUp .Destination -}}<!-- Join one folder up with the image .Destination -->
 
 {{- if os.FileExists $imgPath -}} <!-- check if image is one directory up after Hugo Render -->
 
-<img src="{{ $imgPath | safeURL }}" alt="{{ $.Text }}" />
+<img src="{{ $imgPath | safeURL }}" alt="{{ $.Text }}" /> <!-- Display image-->
+{{- else -}} <!-- End check for images living in same folder as markdown-file.md for GitHub viewing -->
 
-{{- else -}}
-
-<img src="{{ .Destination | safeURL }}" alt="{{ $.Text }}" />{{- end -}}{{- end -}}
+<!-- Display images that might have a full root path in their src -->
+<img src="{{ .Destination | safeURL }}" alt="{{ $.Text }}" />{{- end -}}{{- end -}}{{- end -}}
