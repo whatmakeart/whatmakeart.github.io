@@ -11,7 +11,7 @@ This tutorial will show how to make drawings to scale. Make scale drawings, or d
 To complete this tutorial you should be familiar with:
 
 - [How to Use Measuring Tools Accurately](../tutorials/How-to-Use-Measuring-Tools-Accurately.md)
-- Basic [Drawing-Tools](../drawing-tools.md)
+- Basic [Drawing-Tools](../making/drawing-tools.md)
 - [Technical Drawing Tools](../Technical-Drawing-Tools.md)
 
 ## Instructions

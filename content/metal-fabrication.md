@@ -4,7 +4,7 @@ title: Metal Fabrication
 
 # Metal Fabrication
 
-There are multiple ways to [Fabrication](fabrication.md) metal including [Cutting](cutting.md),[bending](bending.md), [Welding](welding.md), [Bolting](bolting.md), [forging](forging.md), [Casting](casting.md) and more. Working with mental can be hazardous so it it essential to follow basic [Safety](safety.md) best practices as well as additional safety precautions depending on the equipment, materials, or techniques being used to fabricate metal.
+There are multiple ways to [Fabrication](fabrication/fabrication.md) metal including [Cutting](making/cutting.md),[bending](metalworking/bending.md), [Welding](metalworking/welding.md), [Bolting](making/bolting.md), [forging](metalworking/forging.md), [Casting](metalworking/casting.md) and more. Working with mental can be hazardous so it it essential to follow basic [Safety](making/safety.md) best practices as well as additional safety precautions depending on the equipment, materials, or techniques being used to fabricate metal.
 
 ## Bending and Cutting Metal
 
@@ -21,7 +21,7 @@ Use cutting oil when necessary.
 
 ### Ways to Cut Steel
 
-- [How to Use a Hacksaw](how-to-use-a-hacksaw.md)hacksaw
+- [How to Use a Hacksaw](woodworking/how-to-use-a-hacksaw.md)hacksaw
 - angle grinder
 - Cut Off Saw
 - Metal Bandsaw

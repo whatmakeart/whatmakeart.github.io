@@ -8,7 +8,7 @@ https://www.nytimes.com/2022/07/06/t-magazine/artist-residencies-art-school.html
 
 ## Budgets
 
-Whether running your studio, completing a public art commission, bidding for a freelance contract, or ordering supplies, budgeting is an essential skill for all artists. A simple budget written out on a piece of paper is better than nothing and is often the way to start rough project planning. Spreadsheet software such as [Excel](../Excel.md), [Google Sheets](https://docs.google.com/spreadsheets/u/0/), or [Open Office](https://www.openoffice.org/) allow even more control for artists to create budgets and work on different contingencies and plans. As your creative career progresses it is even more important to learn [how to create an artist budget](../how-to-create-an-artist-budget.md).
+Whether running your studio, completing a public art commission, bidding for a freelance contract, or ordering supplies, budgeting is an essential skill for all artists. A simple budget written out on a piece of paper is better than nothing and is often the way to start rough project planning. Spreadsheet software such as [Excel](../Excel.md), [Google Sheets](https://docs.google.com/spreadsheets/u/0/), or [Open Office](https://www.openoffice.org/) allow even more control for artists to create budgets and work on different contingencies and plans. As your creative career progresses it is even more important to learn [how to create an artist budget](./how-to-create-an-artist-budget.md).
 
 ## Contracts
 

@@ -22,7 +22,7 @@ To complete this tutorial you should be familiar with basic [Sewing](../Sewing/S
 
 ## Further Reading
 
-[How to Select Needle and Thread Size](../tutorials/how-to-select-needle-and-thread-size.md) [How-to-Thread-a-Home-Sewing-Machine](../tutorials/How-to-Thread-a-Home-Sewing-Machine.md) [How to thread a Serger](../tutorials/how-to-thread-a-serger.md)
+[How to Select Needle and Thread Size](../tutorials/how-to-select-needle-and-thread-size.md) [How-to-Thread-a-Home-Sewing-Machine](../tutorials/How-to-Thread-a-Home-Sewing-Machine.md) [How to thread a Serger](../sewing/how-to-thread-a-serger.md)
 
 ### External Links
 

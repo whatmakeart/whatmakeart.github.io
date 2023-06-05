@@ -2,4 +2,4 @@
 title: Blender
 ---
 
-Blender can make [animations](../animation.md)
+Blender can make [animations](../video/animation.md)

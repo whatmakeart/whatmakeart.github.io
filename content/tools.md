@@ -10,7 +10,7 @@ When acquiring tools there is a balance between buying the best quality tools th
 
 ## Starter Tool Kit
 
-To get started with making you need some tools. At a minimum you need a pencil and some paper to begin [Writing](writing.md) down and [Sketching](sketching.md) your ideas.
+To get started with making you need some tools. At a minimum you need a pencil and some paper to begin [Writing](art-faq/writing.md) down and [Sketching](drawing/sketching.md) your ideas.
 
 ### Recomended Starter Tools
 

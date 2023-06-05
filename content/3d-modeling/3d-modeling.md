@@ -7,7 +7,7 @@ What is a model? What is a 3D model? What is the difference between an analog an
 
 ## AI and the Metaverse
 
-This article, _[The Pathway to the Metaverse Begins With 3D Modeling](https://www.entrepreneur.com/article/425643)_, in _The Entrepreneur_ examines the upcoming metaverse and how 3D modeled assets will be essential for the metaverse to work. 3D modelers will need to create the 3D digital objects for now, but soon [AI-Artificial-Intelligence](../ai-artificial-intelligence.md) will likely play a bigger role in the automatic creation of 3D digital objects. Currently AI is able to produce realistic 2D images and make crude 3D models from photographs. This capability will exponentially grow in the future.
+This article, _[The Pathway to the Metaverse Begins With 3D Modeling](https://www.entrepreneur.com/article/425643)_, in _The Entrepreneur_ examines the upcoming metaverse and how 3D modeled assets will be essential for the metaverse to work. 3D modelers will need to create the 3D digital objects for now, but soon [AI-Artificial-Intelligence](../coding/ai-artificial-intelligence.md) will likely play a bigger role in the automatic creation of 3D digital objects. Currently AI is able to produce realistic 2D images and make crude 3D models from photographs. This capability will exponentially grow in the future.
 
 ## 3D Modeling Software
 
@@ -41,7 +41,7 @@ We will do tests and then evaluate and then do again.
 
 ### Physical Output from Digital 3D Models
 
-Digital 3D models are great for visualization, simulation, VR, video games, and for archiving but are still not physical objects. [Laser Cutting](../laser-cutting.md), [CNC](../cnc.md) machining, [3D Printing](../3D-Printing.md), vinyl cutting, and [Water Jet Cutting](../Water-Jet-Cutting.md) are fabrication processes that create physical outputs and objects from digital 3D models.
+Digital 3D models are great for visualization, simulation, VR, video games, and for archiving but are still not physical objects. [Laser Cutting](../digital-fabrication/laser-cutting.md), [CNC](../digital-fabrication/cnc.md) machining, [3D Printing](../digital-fabrication/3d-printing.md), vinyl cutting, and [Water Jet Cutting](../digital-fabrication/water-jet-cutting.md) are fabrication processes that create physical outputs and objects from digital 3D models.
 
 <script type="text/javascript">
     // allows the anchor links to work while <base> tag is in use in the <head>

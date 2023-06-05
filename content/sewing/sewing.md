@@ -150,7 +150,7 @@ The online retailers below also have a wide selection of fabric but you must pla
 
 # Sewing Fabricators
 
-List of [Inflatable Companies](../inflatable-companies.md) that fabricate sewn inflatables.
+List of [Inflatable Companies](../making/inflatable-companies.md) that fabricate sewn inflatables.
 
 ## Sewing Tutorials
 
@@ -161,13 +161,13 @@ List of [Inflatable Companies](../inflatable-companies.md) that fabricate sewn i
 - [How to Sew Sleeve Plackets](../tutorials/how-to-sew-sleeve-plackets.md)
 - [How to Sew a Zipper Fly and Waistband](../tutorials/how-to-sew-a-zipper-fly-and-waistband.md)
 - [How-to-Sew-Six-Basic-Seams](../tutorials/How-to-Sew-Six-Basic-Seams.md)
-- [How-to-Copy-a-Pants-Pattern](../tutorials/how-to-copy-a-pants-pattern.md)
+- [How-to-Copy-a-Pants-Pattern](./how-to-copy-a-pants-pattern.md)
 - [How to Sew a Button](../tutorials/how-to-sew-a-button.md)
 - [How to Sew a Collar](../tutorials/how-to-sew-a-collar.md)
 - [How to Sew a Rolled Hem](../tutorials/how-to-sew-a-rolled-hem.md)
 - [How to Sew a Blind Hem](../tutorials/How-to-Sew-a-Blind-Hem.md)
 - [How to Sew a Dart](../tutorials/how-to-sew-a-dart.md)
-- [how-to-adjust-sewing-machine tension](../tutorials/how-to-adjust-sewing-machine-tension.md)
+- [how-to-adjust-sewing-machine tension](./how-to-adjust-sewing-machine-tension.md)
 - [How to Wind a Bobbin](../tutorials/how-to-wind-a-bobbin.md)
 - [How to Sew a Double Welt Pocket](../tutorials/how-to-sew-a-double-welt-pocket.md)
 - [Sew-Inseam-Pockets-with-French-Seams](../tutorials/sew-inseam-pockets-with-french-seams.md)

@@ -2,7 +2,7 @@
 title: Raspberry Pi
 ---
 
-A Raspberry Pi is a single board computer that is often used for low power on-site computing applications. It is also used for [Physical-Computing](../physical-computing.md) and art installations as well as industrial applications.
+A Raspberry Pi is a single board computer that is often used for low power on-site computing applications. It is also used for [Physical-Computing](../coding/physical-computing.md) and art installations as well as industrial applications.
 
 ## Raspberry Pi Tutorials
 
@@ -10,7 +10,7 @@ A Raspberry Pi is a single board computer that is often used for low power on-si
 
 [Raspberry-Pi-Auto-Start-Scripts](raspberry-pi-auto-start-scripts.md)
 
-[Outputting-Sound-with-Raspberry-Pi](../outputting-sound-with-raspberry-pi.md)
+[Outputting-Sound-with-Raspberry-Pi](./outputting-sound-with-raspberry-pi.md)
 
 [Asynchronous video capture with OpenCV and Python – Blitzblit](http://blog.blitzblit.com/2017/12/24/asynchronous-video-capture-in-python-with-opencv/)
 

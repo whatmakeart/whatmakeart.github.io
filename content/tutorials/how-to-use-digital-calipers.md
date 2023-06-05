@@ -4,7 +4,7 @@ title: How to Use Digital Calipers
 
 # How to Use Digital Calipers
 
-Digital calipers are amazing [Tools](../tools.md) for measuring objects in the real world. They can measure depth, outside dimensions, interior dimensions and step dimensions. They are an indispensable tool for [3D-Modeling](../3d-modeling-/index.html), design, engineering, machining and any other related field.
+Digital calipers are amazing [Tools](../making/tools.md) for measuring objects in the real world. They can measure depth, outside dimensions, interior dimensions and step dimensions. They are an indispensable tool for [3D-Modeling](../3d-modeling-/index.html), design, engineering, machining and any other related field.
 
 ## Prerequisites
 
