@@ -57,8 +57,8 @@
 
 
                 <h1 class="bd-title" id="pageTitleH1">{{ .Title }}</h1>
-
             </div>
+            {{ partial "head/reading-time.html" . }}
         </div>
 
 
@@ -74,6 +74,19 @@
             {{ .Content }}
 
             {{ partial "backlinks" . }}
+
+            <!-- Last Updated Date -->
+            {{- if .Lastmod }}
+
+            {{- $lastmod := .Lastmod.Format "02.01.2006" }}
+
+            <div class="post-info-last-mod">
+                (Updated:
+                <time datetime="{{ .Lastmod }}" title="{{ .Lastmod }}">
+                    {{ $lastmod }}
+                </time>)
+            </div>
+            {{- end }}
 
 
         </div>

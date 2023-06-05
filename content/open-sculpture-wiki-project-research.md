@@ -59,7 +59,11 @@ These "open" course pages have been available for years and are a model of what 
 
 ### Public?
 
-Ideally the wiki will be 100% publicly accessible. The goal is to build knowledge that is usefull for students and artists and then to share that information with the world. By sharing the information more eyes will see it increasing the change of interaction, collaboration and critique, which will improve the collection of knowledge.
+Ideally the wiki will be 100% publicly accessible. The goal is to build knowledge that is useful for students and artists and then to share that information with the world. By sharing the information more eyes will see it increasing the change of interaction, collaboration and critique, which will improve the collection of knowledge.
+
+### The Indie Web
+
+[Indie Web](https://indieweb.org/POSSE) has a list of websites using opens standards and posting open information on their sites first.
 
 ### Private?
 
@@ -133,6 +137,6 @@ https://github.com/jobindjohn/obsidian-publish-mkdocs
 
 [TEACH Act Checklist from University of Texas](https://guides.lib.utexas.edu/copyright/teachactchecklist)
 
-#### Intelectual Property
+#### Intellectual Property
 
 [Online Course Ownership - Article in Time](https://nation.time.com/2014/03/01/online-courses-moocs-ownership/)

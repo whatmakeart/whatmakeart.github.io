@@ -38,11 +38,14 @@ pluralizelisttitles = false
   post_content_classes = "sans-serif"
   custom_css = ["css/custom.css"]
   custom_js = ["js/custom.js"]
+  enableGitInfo = "true" # allows to get information such as dates from git
 
   startLevel = 1      # default is 2
   endLevel = 4       # default is 3
   minNumHeadings = 1  # default is 2
 
+[frontmatter]
+  lastmod = [ "lastmod", ":git", "date", "publishDate" ]
   
 [markup.goldmark.renderer]
   unsafe = true
