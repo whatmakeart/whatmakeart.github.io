@@ -22,9 +22,9 @@ Triangles are strong, L's are lame and squares are okay, and circles are amazing
 
 From design to final output, fabrication processes have numerous steps, many that must be completed in sequence. In complex projects multiple fabricators working in different locations will make specific pieces of a design that will be assembled at yet another location. All fabrication projects from the most simple to the most complex benefit from proper planning.
 
-The planning process begins with the initial concept and [Sketching](../drawing/sketching.md). Before any idea or design is committed to, iterative sketching can find potential problems and suggest solutions before any fabrication occurs. As sketches become more refined a 3D Model can be made to test assumptions and to see if pieces will fit together. A list of materials can be estimated from the 3d models and sketches.
+The planning process begins with the initial concept and [Sketching](/drawing/sketching.md). Before any idea or design is committed to, iterative sketching can find potential problems and suggest solutions before any fabrication occurs. As sketches become more refined a 3D Model can be made to test assumptions and to see if pieces will fit together. A list of materials can be estimated from the 3d models and sketches.
 
-It is important to start to think about not only the form of the object but how it will be made. What [order of operations](../order-of-operations.md) is required to make the pieces accurately and efficiently? For example in [Woodworking](../woodworking.md) it is usually a good idea to run a board through the [jointer](../jointer.md) before sending it through the thickness [planer](../woodworking/planer.md) or to sand a wood surface before applying finisher. Each project will be unique and have different constraints on the fabrication process. Sometimes the [budget](../budget.md) Will not allow a material or tool to be used, sometimes the time available is not enough to get desired parts or equipment, sometimes a structural limitation of a site will dictate the use of lightweight materials.
+It is important to start to think about not only the form of the object but how it will be made. What [order of operations](/sculpture/order-of-operations.md) is required to make the pieces accurately and efficiently? For example in [Woodworking](/woodworking/woodworking.md) it is usually a good idea to run a board through the [jointer](/woodworking/jointer.md) before sending it through the thickness [planer](/woodworking/planer.md) or to sand a wood surface before applying finisher. Each project will be unique and have different constraints on the fabrication process. Sometimes the [budget](/art-faq/how-to-create-an-artist-budget.md) Will not allow a material or tool to be used, sometimes the time available is not enough to get desired parts or equipment, sometimes a structural limitation of a site will dictate the use of lightweight materials.
 
 ## Planning
 
@@ -44,13 +44,13 @@ Guesses represent things that you have not previously done and are not knowledge
 
 ## Metal Fabrication
 
-[Welding](../metalworking/welding.md) used in [metal fabrication](../metalworking/metal-fabrication.md) is a special case of fabrication since it usually uses the same material as the pieces being joined together.
+[Welding](/metalworking/welding.md) used in [metal fabrication](/metalworking/metal-fabrication.md) is a special case of fabrication since it usually uses the same material as the pieces being joined together.
 
-[Steel-Fence-Joints](../metalworking/steel-fence-joints.md)
+[Steel-Fence-Joints](/metalworking/steel-fence-joints.md)
 
 ## Wood Fabrication
 
-[Wood-Fasteners](../wood-fasteners.md) [Woodworking](../woodworking.md)
+[Wood-Fasteners](/woodworking/wood-fasteners.md) [Woodworking](/woodworking/woodworking.md)
 
 ## Digital Fabrication
 

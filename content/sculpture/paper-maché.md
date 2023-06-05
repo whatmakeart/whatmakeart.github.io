@@ -2,9 +2,9 @@
 title: Paper Maché
 ---
 
-Paper Maché uses strips and / or wads of paper coated in a sticky glue paste. It is a fast and cheap way to build up solid or hollow forms. The coated paper is draped over shaped forms or bunched up into dense solid shapes. The paper becomes hard and stiff as it dries. Once dry multiple layers of paper are applied to create a thick enough shell that it can support its own weight or other objects used in the design. Use an [armature](sculpture/armature.md)to quickly build larger forms. Once dry, the forms can be painted.
+Paper Maché uses strips and / or wads of paper coated in a sticky glue paste. It is a fast and cheap way to build up solid or hollow forms. The coated paper is draped over shaped forms or bunched up into dense solid shapes. The paper becomes hard and stiff as it dries. Once dry multiple layers of paper are applied to create a thick enough shell that it can support its own weight or other objects used in the design. Use an [armature](/sculpture/armature.md)to quickly build larger forms. Once dry, the forms can be painted.
 
-Paper maché paste has many different recipes and formulations. The fastest way to make a paste is to mix some flour and water together. A bit more involved method is to combine flour and boiling water and cook it a bit while stirring. This makes the paste a bit stronger and cooked paste will dry smooth and clear on the surface while uncooked paste will leave a flour residue. Salt can be added to the flour mixtures to help prevent mold and pests. Giving the paper maché layers ample time to dry in between coats will also help prevent mold by not trapping moisture inside the form. Some people add a bit of white [pva-glue](pva-glue.md) to the paste mixture to add strength.
+Paper maché paste has many different recipes and formulations. The fastest way to make a paste is to mix some flour and water together. A bit more involved method is to combine flour and boiling water and cook it a bit while stirring. This makes the paste a bit stronger and cooked paste will dry smooth and clear on the surface while uncooked paste will leave a flour residue. Salt can be added to the flour mixtures to help prevent mold and pests. Giving the paper maché layers ample time to dry in between coats will also help prevent mold by not trapping moisture inside the form. Some people add a bit of white [pva-glue](/woodworking/pva-glue.md) to the paste mixture to add strength.
 
 An alternative to using flour to make the paste is to use a paste made with Methyl Cellulose found in most wall paper glues and many Methyl Cellulose based art pastes. This has the advantage of not attracting pests and mold like flour mixtures.
 
@@ -40,5 +40,5 @@ Making paper maché is fast, easy, and does not require specialized equipment or
 2. Dip the strips of paper into the paste coating both sides fully
 3. Lift up the paper strip from one end and hold above the paste
 4. Squeeze the paper between your fingers and thumb and "squeegee" off the excess paste back into the container
-5. Drape the paper strip over the [armature](Armatures.md)
+5. Drape the paper strip over the [armature](armature.md)
 6. Repeat with new strips

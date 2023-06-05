@@ -15,4 +15,3 @@ The following tools and equipment will help make good drawings whether simple sk
 - Pencils
 - Pens
 - Markers
--

@@ -2,7 +2,7 @@
 title: Sculpture
 ---
 
-In the past sculpture was limited to using a few materials such as stone, clay, metal and focused on representational depiction. Now sculpture has expanded to encompass all forms of making ranging from previously used stone and clay to electronics, welding, organic foods, fur, glass, performance, [Video](video.md), computers, and Virtual Reality. Other than focusing on 3D dimensional space versus the 2D concerns of drawing, painting, and [Photography](photography.md) there are no real limits or boundaries for sculpture. This was famously described by Rosalind Krauss in the 1979 _October_ article "Sculpture in the Expanded Field". [^1] The wide array of materials and processes available to a sculptor is great because it allows any concept and idea to be realized. This wide field of possibilities is also a burden because so many techniques and ways of making must be learned in order to successfully realize different ideas.
+In the past sculpture was limited to using a few materials such as stone, clay, metal and focused on representational depiction. Now sculpture has expanded to encompass all forms of making ranging from previously used stone and clay to electronics, welding, organic foods, fur, glass, performance, [Video](video.md), computers, and Virtual Reality. Other than focusing on 3D dimensional space versus the 2D concerns of drawing, painting, and [Photography](/photography/photography.md) there are no real limits or boundaries for sculpture. This was famously described by Rosalind Krauss in the 1979 _October_ article "Sculpture in the Expanded Field". [^1] The wide array of materials and processes available to a sculptor is great because it allows any concept and idea to be realized. This wide field of possibilities is also a burden because so many techniques and ways of making must be learned in order to successfully realize different ideas.
 
 ## What is a Sculpture?
 
@@ -22,7 +22,7 @@ There are many types of sculpture but the unifying attribute of all of them as t
 
 ### Installation
 
-Sculptural [art installations](sculpture/art-installations.md) can be site-specific or non site-specific.
+Sculptural [art installations](art-installations.md) can be site-specific or non site-specific.
 
 ### Time Based Work
 
@@ -30,7 +30,7 @@ Sculptural [art installations](sculpture/art-installations.md) can be site-speci
 
 ### Interactive Sculpture
 
-Some sculptures or art installations become more alive or complete once an audience engages withe the art. This audience interaction can be as simple as being in the same spaces, the artwork can be as complex as a computer vision driven people tracking device using [Physical-Computing](coding/physical-computing.md).
+Some sculptures or art installations become more alive or complete once an audience engages withe the art. This audience interaction can be as simple as being in the same spaces, the artwork can be as complex as a computer vision driven people tracking device using [Physical-Computing](/coding/physical-computing.md).
 
 ### Representational Sculpture
 
@@ -54,22 +54,22 @@ Earthworks are a special type of site specific sculpture that use the landscape 
 
 ### Kinetic Sculpture
 
-[Kinetic Sculpture](sculpture/kinetic-sculpture.md) is not static but moves in space. The source of the movement could be a motor, or a natural cause such as flowing water, or the wind. Whirlygigs and mobiles are examples of kinetic sculpture.
+[Kinetic Sculpture](kinetic-sculpture.md) is not static but moves in space. The source of the movement could be a motor, or a natural cause such as flowing water, or the wind. Whirlygigs and mobiles are examples of kinetic sculpture.
 
 ## How to make a Sculpture?
 
-What is your idea? What do you want to communicate? Are you making a unique object or a series. Setting up an [Artist-Studio](art-faq/artist-studio.md) will give you a place to make sculpture.
+What is your idea? What do you want to communicate? Are you making a unique object or a series. Setting up an [Artist-Studio](/art-faq/artist-studio.md) will give you a place to make sculpture.
 
-Generally it is a good idea to start with [Sketching](sketching.md) out different ideas and variations of those ideas. Think about all sides and points of view of the form. Sketches can be used to make maquettes, smaller scale test versions of final artworks. Working with models and maquettes is an efficient way to explore ideas and possibilities without waiting a lot of time and materials. Then a final form can be made out of the desired materials.
+Generally it is a good idea to start with [Sketching](/drawing/sketching.md) out different ideas and variations of those ideas. Think about all sides and points of view of the form. Sketches can be used to make maquettes, smaller scale test versions of final artworks. Working with models and maquettes is an efficient way to explore ideas and possibilities without waiting a lot of time and materials. Then a final form can be made out of the desired materials.
 
 ### Sculpture Processes and Methods
 
-- [mold making](mold.md)
-- [Welding](welding.md)
+- [mold making](/mold.md)
+- [Welding](/metalworking/welding.md)
 - brazing
 - [Sewing](/sewing/sewing.md)
-- [Felting](sculpture/felting.md)
-- [Casting](metalworking/casting.md)
+- [Felting](/sculpture/felting.md)
+- [Casting](/metalworking/casting.md)
 - [Paper-Maché](paper-mach%C3%A9.md)
 - concrete
 - metal structures
@@ -81,32 +81,32 @@ Generally it is a good idea to start with [Sketching](sketching.md) out differen
 - Patinas
 - Hole Punching
 - Rope Lashing
-- [Woodworking](woodworking.md)
+- [Woodworking](/woodworking/woodworking.md)
 - Soldering
 - Tapping and Dieing
 - Riveting
 - Crochet
-- [Armatures](sculpture/armature.md)
+- [Armatures](/sculpture/armature.md)
 - Skinning
-- [Physical-Computing](coding/physical-computing.md)
+- [Physical-Computing](/coding/physical-computing.md)
 
 #### Ways of Making Objects
 
-There are only five main ways to make any physical object. The ways of making any three-dimensional object are [additive](sculpture/additive-processes.md), [Subtractive-Processes](subtractive-processes.md), [Fabrication](fabrication/fabrication.md), deformation and [Casting](metalworking/casting.md). These ways of making do not exist in isolation and often will be combined to make a final sculptural object or installation.
+There are only five main ways to make any physical object. The ways of making any three-dimensional object are [additive](/sculpture/additive-processes.md), [Subtractive-Processes](subtractive-processes.md), [Fabrication](/making/fabrication.md), deformation and [Casting](/metalworking/casting.md). These ways of making do not exist in isolation and often will be combined to make a final sculptural object or installation.
 
 ##### Sewing
 
-[Sewing](/sewing/sewing.md) is a [Fabrication](fabrication/fabrication.md) process using fabric and thread. The types of fabric and thread vary widely depending on the desired outcome. Sewing relies on assembling flat planar pieces of fabric in ways that make a three-dimensional form.
+[Sewing](/sewing/sewing.md) is a [Fabrication](/making/fabrication.md) process using fabric and thread. The types of fabric and thread vary widely depending on the desired outcome. Sewing relies on assembling flat planar pieces of fabric in ways that make a three-dimensional form.
 
 ##### Welding
 
-[Welding](welding.md) joins different pieces of metal together to make a new piece of metal that is actually a single piece. The metal is melted and fused together usually using a filler rod of metal. Common types of welding can be include oxyacetylene welding, [TIG-Welding](tig-welding.md), [MIG welding](mig-welding.md), and stick [Arc Welding](metalworking/arc-welding.md).
+[Welding](/metalworking/welding.md) joins different pieces of metal together to make a new piece of metal that is actually a single piece. The metal is melted and fused together usually using a filler rod of metal. Common types of welding can be include oxyacetylene welding, [TIG-Welding](/metalworking/tig-welding.md), [MIG welding](/metalworking/mig-welding.md), and stick [Arc Welding](/metalworking/arc-welding.md).
 
-[Brazing](metalworking/brazing.md) is a sculptural process related to welding since it joins multiple pieces of metal together but instead of melting the joined pieces, brazing merely heats them to a red hot temperature. This expands the grain structure of the metals so there is physical space between the grain structure. A filler metal that melts at a cooler temperature that the metals being joined is used to mechanically attach the metals. The melted joining metal flows into the gaps of the red hot expanded metal pieces. Flux is used to promote the capillary flow of the filler metal into these spaces. After everything cools the pieces are now mechanically joined.
+[Brazing](/metalworking/brazing.md) is a sculptural process related to welding since it joins multiple pieces of metal together but instead of melting the joined pieces, brazing merely heats them to a red hot temperature. This expands the grain structure of the metals so there is physical space between the grain structure. A filler metal that melts at a cooler temperature that the metals being joined is used to mechanically attach the metals. The melted joining metal flows into the gaps of the red hot expanded metal pieces. Flux is used to promote the capillary flow of the filler metal into these spaces. After everything cools the pieces are now mechanically joined.
 
 ##### Clay Sculpting
 
-Clay sculpture is an [additive](sculpture/additive-processes.md) and [Subtractive-Processes](subtractive-processes.md), sculpture process. Pieces of clay are joined together or cut away to make the desired form. Clay is malleable and can be easily deformed to achieve a desired shape. Two common types of clay used in sculpture are water based ceramic clay and oil based [Oil-Clay](oil-clay.md).
+Clay sculpture is an [additive](/sculpture/additive-processes.md) and [Subtractive-Processes](subtractive-processes.md), sculpture process. Pieces of clay are joined together or cut away to make the desired form. Clay is malleable and can be easily deformed to achieve a desired shape. Two common types of clay used in sculpture are water based ceramic clay and oil based [Oil-Clay](oil-clay.md).
 
 ## Essential Sculpting Skills
 
@@ -114,17 +114,17 @@ The following basic sculptural skills are necessary to have a fundamental unders
 
 - [how-to-draw-to-scale](/tutorials/how-to-draw-to-scale.md)
 - [How to Use Measuring Tools Accurately](/tutorials/how-to-use-measuring-tools-accurately.md)
-- Understand basic [Geometry](geometry.md)
-- [How to Draw Ideation Sketches](art-faq/how-to-draw-ideation-sketches.md)
+- Understand basic [Geometry](/making/geometry.md)
+- [How to Draw Ideation Sketches](/art-faq/how-to-draw-ideation-sketches.md)
 
 ## How to Improve Your Work
 
-[Critique](./Critique-Methods.md) is the method used to assess artwork while it is being made and after it is finished.
+[Critique](/art-faq/critique-methods.md) is the method used to assess artwork while it is being made and after it is finished.
 
 ## Sculptors Past and Present
 
-- [Artists](artists.md)
-- [Historical Sculptors](sculpture/historical-sculptors.md)
+- [Artists](/art-faq/artists.md)
+- [Historical Sculptors](/sculpture/historical-sculptors.md)
 
 ### Sculpture and Expanded Media Reading List
 
