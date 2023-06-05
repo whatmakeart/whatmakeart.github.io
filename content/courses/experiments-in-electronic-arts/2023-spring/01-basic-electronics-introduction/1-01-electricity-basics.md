@@ -5,4 +5,4 @@ draft: false
 toc: true
 ---
 
-![Link to Included Page](1-01-electricity-basics/electricity-basics.md)
+![Link to Included Page](/electronics/electricity-basics.md)

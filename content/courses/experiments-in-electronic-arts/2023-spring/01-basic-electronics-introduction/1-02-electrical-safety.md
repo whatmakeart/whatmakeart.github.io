@@ -4,4 +4,4 @@ date: 2020-01-26T23:11:13Z
 draft: false
 ---
 
-![Link to Included Page](1-02-electrical-safety/electricity-safety.md)
+![Link to Included Page](/electronics/electricity-safety.md)
