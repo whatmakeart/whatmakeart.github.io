@@ -2,7 +2,7 @@
 title: About
 ---
 
-What? Make Art is a repository of art making videos, tutorials and art making faq's. Tutorials cover a wide range of topics including making electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
+What? Make Art is a repository of art making videos, tutorials and art making faq's. Tutorials cover a wide range of topics including [making](/making/), electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
 
 Art making tutorial videos start from a beginner level an progress to more advanced topics. What art do you want to make?
 
@@ -12,7 +12,7 @@ Just the tutorials about making art. Visit on [Youtube](https://www.youtube.com/
 
 ## Open Making Wiki Project Introduction
 
-This is a conceptual work in progress exploring better ways to exchange information, concepts and skills about artistic making with students, artists and the public. The primary audience are enrolled students in Sculpture courses but limiting the resource to this audience would stifle growth, creativity and innovation. Therefore the goal is the engage and collaborate with the world.
+This is a conceptual work in progress exploring better ways to exchange information, concepts and skills about artistic making with students, artists and the public. The primary audience are enrolled students in [college art courses](/courses/) but limiting the resource to this audience would stifle growth, creativity and innovation. Therefore the goal is the engage and collaborate with the world.
 
 ### Goals
 
@@ -27,31 +27,22 @@ Tech Wikis https://github.com/MicrosoftDocs/azure-docs https://docs.github.com/e
 
 ### Examples of Coursework and Research Publicly Accessible
 
-https://stanford-cs161.github.io/
-
-https://ratfactor.com/hugo-adoc-html5s - personal wiki
-
-Interaction Station Wiki on Wikimedia https://interactionstation.wdka.hro.nl/wiki/Main_Page
-
-https://utilitarianism.net/ - Made by Professor at University of Oxford as an online textbook
-
-http://dfabclass.com/20/
+- [Stanford CS 161](https://stanford-cs161.github.io/) - Stanford Computer Science Course
+- [Rat Factor Personal Wiki](https://ratfactor.com/hugo-adoc-html5s)
+- [Interaction Station Wiki on Wikimedia](https://interactionstation.wdka.hro.nl/wiki/Main_Page)
+- [Utilitarianism Online Textbook](https://utilitarianism.net/) - Made by Professor at University of Oxford as an online textbook
+- [u.osu.edu](https://u.osu.edu/) - Ohio State uses a multi site Wordpress installation to have quite flexible, public, online course materials
+- [Kevin Karplus - University of California Santa Cruz - School Site](https://users.soe.ucsc.edu/~karplus/bme88a/) - Basic but richly informative UCSC hosted website with all his course materials and archives of since delete University Department resources
+- [Kevin Karplus - Wordpress Site - Freshman Design](https://gasstationwithoutpumps.wordpress.com/freshman-design-table-of-contents/) - In addition to the resources hosted on the university servers, Kevin also has a Wordpress site with lots of course content
+- [Kevin Karplus Youtube Page](https://www.youtube.com/c/gasstationwithoutpumps/videos) - support videos for his courses
+- [Lansing Community College Teacher, Chad Bennett - Obsidian Site and Course Resources](https://mister-chad.com/welcome) - Has public personal notes as well as public resources for courses he teaches
+  http://dfabclass.com/20/
 
 https://wiki.mcneel.com/people/rhino5cir
-
-[u.osu.edu](https://u.osu.edu/) - Ohio State uses a multi site Wordpress installation to have quite flexible, public, online course materials
-
-[Kevin Karplus - University of California Santa Cruz - School Site](https://users.soe.ucsc.edu/~karplus/bme88a/) - Basic but richly informative UCSC hosted website with all his course materials and archives of since delete University Department resources
-
-[Kevin Karplus - Wordpress Site - Freshman Design](https://gasstationwithoutpumps.wordpress.com/freshman-design-table-of-contents/) - In addition to the resources hosted on the university servers, Kevin also has a Wordpress site with lots of course content
-
-[Kevin Karplus Youtube Page](https://www.youtube.com/c/gasstationwithoutpumps/videos) - support videos for his courses
 
 #### University of Washington Computer Science Courses
 
 These "open" course pages have been available for years and are a model of what I think should be done at a minimum. An LMS such as Canvas or Blackboard could be used to make course content public but then why not just publish the material on the web so it is more likely to be longer lasting [University of Washington Computer Science Course CSE 458](https://courses.cs.washington.edu/courses/cse458/) [University of Washington Computer Science Course CSE 490](https://courses.cs.washington.edu/courses/cse490t/15sp/)
-
-[Lansing Community College Teacher, Chad Bennett - Obsidian Site and Course Resources](https://mister-chad.com/welcome) - Has public personal notes as well as public resources for courses he teaches
 
 [Data Engineering Community Wiki](https://github.com/data-engineering-community/data-engineering-wiki)
 
