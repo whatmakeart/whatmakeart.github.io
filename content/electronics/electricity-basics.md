@@ -1,5 +1,6 @@
 ---
 title: Electricity Basics
+toc: true
 ---
 
 ## What is Electricity?
