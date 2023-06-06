@@ -6,7 +6,7 @@ draft: false
 
 ## Single LED Shape
 
-[![Yellow LED](1-04-leds/LED-yellow.jpg)](1-04-leds/LED-yellow.jpg)
+[![Yellow LED](../../../../copyright/LED-yellow.jpg)](../../../../copyright/LED-yellow.jpg)
 
 Single LEDs or light emitting diodes have a long end the "anode" or positive + end and a short end the "cathode" or negative - end. Sometime the negative side of the LED is flattened to help identify it.
 
@@ -54,5 +54,5 @@ What would the resistor value be if you had a 9V battery power supply and a Blue
 - https://forum.allaboutcircuits.com/threads/leds-555s-flashers-and-light-chasers.19075/
 
 [^1]: https://www.kingbrightusa.com/images/catalog/SPEC/WP7113LSRD.pdf
-[^2]: https://en.wikipedia.org/wiki/AA_battery]
+[^2]: https://en.wikipedia.org/wiki/AA_battery
 [^3]: https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-led-series-resistor

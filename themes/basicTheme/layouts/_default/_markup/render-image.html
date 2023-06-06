@@ -1,8 +1,33 @@
 <!-- Begin Include Markdown Files with ![Image](markdown.md) -->
 {{- $includeUrl := urls.Parse .Destination -}}
+{{- $r := "" }} <!-- initialize empty resource variable -->
+<p>.Destination = {{.Destination }}</p>
+<p>$includeUrl = {{ $includeUrl }}</p>
 {{- if strings.HasSuffix $includeUrl.Path ".md" -}} <!-- Check if a markdown file extension -->
+
+{{- with .Page.Resources.Get (strings.TrimPrefix "./" $includeUrl.Path) }}
+{{- /* Destination is a page resource. */}}
+<p>page resource</p>
+{{- $r = . }}
+{{- else }}
+{{- with .Page.CurrentSection.Resources.Get (strings.TrimPrefix "./" $includeUrl.Path) }}
+{{- /* Destination is a section resource. */}}
+<p>section resource</p>
+{{- $r = . }}
+
+{{- else }}
+{{- with resources.Get $includeUrl.Path }}
+{{- /* Destination is a global resource. */}}
+{{- $r = . }}
+<p>$r</p>
+{{- if os.FileExists $r -}} <!-- check if markdown file to include exists -->
+<p>exists</p>
 {{ .Destination | readFile | replaceRE "^---[\\s\\S]+?---" "" | markdownify }}
+{{- else -}}
+<p>does not exist</p>
+{{- end -}}
 {{- end -}} <!-- End Include Markdown Files with ![Image](markdown.md) -->
+{{ end }}{{ end }}{{ end }}
 
 {{- if not (strings.HasSuffix $includeUrl.Path ".md") -}} <!-- if not a .md file -->
 
@@ -11,6 +36,14 @@
 {{- if and (not $img) .Page.File -}}
 {{ $path := path.Join .Page.File.Dir .Destination }}
 {{- $img = resources.Get $path -}}
+{{- end -}}
+{{- if and (not $img) .Page.File -}}
+{{ $path := path.Join .Page.File.Dir .Destination }}
+{{- $img = .Page.Resources.Get $path -}}
+{{- end -}}
+{{- if and (not $img) .Page.File -}}
+{{ $path := path.Join .Page.File.Dir .Destination }}
+{{- $img = .Page.CurrentSection.Resources.Get $path -}}
 {{- end -}}
 {{- with $img -}}
 {{- $xlarge := $img.Resize "3840x" -}}

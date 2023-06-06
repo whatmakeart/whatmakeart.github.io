@@ -2,7 +2,7 @@
 title: About
 ---
 
-What? Make Art is a repository of art making videos, tutorials and art making faq's. Tutorials cover a wide range of topics including [making](/making/), electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
+What? Make Art is a repository of art making videos, tutorials and art making faq's. Tutorials cover a wide range of topics including making, electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
 
 Art making tutorial videos start from a beginner level an progress to more advanced topics. What art do you want to make?
 
@@ -12,7 +12,7 @@ Just the tutorials about making art. Visit on [Youtube](https://www.youtube.com/
 
 ## Open Making Wiki Project Introduction
 
-This is a conceptual work in progress exploring better ways to exchange information, concepts and skills about artistic making with students, artists and the public. The primary audience are enrolled students in [college art courses](/courses/) but limiting the resource to this audience would stifle growth, creativity and innovation. Therefore the goal is the engage and collaborate with the world.
+This is a conceptual work in progress exploring better ways to exchange information, concepts and skills about artistic making with students, artists and the public. The primary audience are enrolled students in college art courses but limiting the resource to this audience would stifle growth, creativity and innovation. Therefore the goal is the engage and collaborate with the world.
 
 ### Goals
 
