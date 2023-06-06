@@ -3,7 +3,7 @@ title: "01.02 - Electricity Safety"
 date: 2020-01-26T23:11:13Z
 draft: false
 toc: true
-toc-parse: true
+tocparse: true
 ---
 
 # With Document Relative Link
