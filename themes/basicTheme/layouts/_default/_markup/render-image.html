@@ -1,10 +1,7 @@
 <!-- Begin Include Markdown Files with ![Image](markdown.md) -->
 {{- $includeUrl := urls.Parse .Destination -}}
-<p>.Destination = {{.Destination }}</p>
-<p>$includeUrl = {{ $includeUrl }}</p>
 {{- if strings.HasSuffix $includeUrl.Path ".md" -}} <!-- Check if a markdown file extension -->
 {{- if os.FileExists $includeUrl -}} <!-- check if markdown file to include exists -->
-<p>exists</p>
 {{ .Destination | readFile | replaceRE "^---[\\s\\S]+?---" "" | markdownify }}
 {{- else -}}
 <p>does not exist</p>
