@@ -2,7 +2,7 @@
 title: Electricity Safety
 ---
 
-[Electricity](electricity-basics.md) can be dangerous and deadly, even at low voltages. It is important to follow safety practices.
+[Electricity](./electronics/electricity-basics.md) can be dangerous and deadly, even at low voltages. It is important to follow safety practices.
 
 ## Basic Electrical Safety Checklist
 
