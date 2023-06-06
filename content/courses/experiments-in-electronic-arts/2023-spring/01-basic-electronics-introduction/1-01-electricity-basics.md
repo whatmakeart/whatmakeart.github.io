@@ -6,4 +6,4 @@ toc: true
 tocparse: true
 ---
 
-![Link to Included Page](../../../../electronics/electricity-basics.md)
+![Link to Included Page](/electronics/electricity-basics.md)
