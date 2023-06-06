@@ -64,7 +64,7 @@
 
         <aside class="bd-toc mt-4 mb-5 my-md-0 px-xl-3 mb-lg-5 text-muted" id="topTOC">
 
-            {{- if eq .Params.toc-parse "true" -}}
+            {{- if eq .Params.tocparse "true" -}}
             {{- partial "toc-parse-content" . -}}
             {{- else -}}
             {{- partial "toc" . -}}
