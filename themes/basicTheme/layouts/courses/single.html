@@ -66,7 +66,7 @@
 
             {{- if eq .Params.toc-parse "true" -}}
             {{- partial "toc-parse-content" . -}}
-            {{- else }}
+            {{- else -}}
             {{- partial "toc" . -}}
             {{- end -}}
         </aside>
