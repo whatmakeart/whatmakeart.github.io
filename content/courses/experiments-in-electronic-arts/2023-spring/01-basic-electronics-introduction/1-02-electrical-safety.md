@@ -8,8 +8,17 @@ tocparse: true
 
 # Include ![]() With Document Relative Link
 
-Works on GitHub
+Works on GitHub but no include
 
 `![Link to Included Page](../../../../electronics/electricity-safety.md)`
 
 ![Link to Included Page](../../../../electronics/electricity-safety.md)
+
+Doesn't work on GitHub but includes the file
+
+`![Link to Included Page](electronics/electricity-safety.md)`
+
+![Link to Included Page](/electronics/electricity-safety.md)
+
+
+
