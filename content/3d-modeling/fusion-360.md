@@ -2,7 +2,7 @@
 title: Fusion 360
 ---
 
-Fusion 360 is a [Parametric-Modeling](./parametric-modeling.md) program combined with CAM output that simplifies going from digital ideas inside the computer to physical output.
+Fusion 360 is a [Parametric-Modeling](parametric-modeling.md) program combined with CAM output that simplifies going from digital ideas inside the computer to physical output.
 
 [Fusion-360-Sculpting-Tips](fusion-360-sculpting-tips.md)
 

@@ -25,8 +25,8 @@ The two most important principles of design are variety and unity. These exist o
 
 ## Design Process
 
-The design process is a fundamental way to approach making. Instead of trying to make a final version of an object from the beginning, an approach that is bound to fail, one can take an incremental and iterative approach to making. The design process usually begins with thinking and [Sketching](../sketching.md).
+The design process is a fundamental way to approach making. Instead of trying to make a final version of an object from the beginning, an approach that is bound to fail, one can take an incremental and iterative approach to making. The design process usually begins with thinking and [Sketching](../drawing/sketching.md).
 
 ### Design Techniques
 
-A [Charrette](../charrette.md) is a collaborative design process often used in urban planning.
+A [Charrette](charrette.md) is a collaborative design process often used in urban planning.

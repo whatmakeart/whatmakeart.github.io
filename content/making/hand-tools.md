@@ -13,7 +13,7 @@ title: Hand Tools
 
 ## Powered Hand Tools
 
-Powered hand tools can either be powered from Maine's electricity via Accord or with a battery pack, making them portable.
+Powered hand tools can either be powered from mains electricity via a cord or with a battery pack, making them portable.
 
 - Jigsaw
 - Drill

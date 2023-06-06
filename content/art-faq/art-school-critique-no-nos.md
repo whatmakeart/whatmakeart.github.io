@@ -2,10 +2,11 @@
 title: Art School Critique No Nos
 ---
 
-# Critique No, No’s *
+# Critique No, No’s
+
 (Not allowed without an explanation, give a reason why you think what you do)
 
-Analyze the good and the bad.  Keep personal feelings out of the way.  Look at the work, what do you see?  What do you think about the content as it relates to the assignment objectives?  Tell us why. (an evolving and changing student driven collection)
+Analyze the good and the bad. Keep personal feelings out of the way. Look at the work, what do you see? What do you think about the content as it relates to the assignment objectives? Tell us why. (an evolving and changing student driven collection)
 
 ## No, No’s
 
@@ -18,7 +19,7 @@ Analyze the good and the bad.  Keep personal feelings out of the way.  Look at t
 - It needs to pop more.
 - Love it.
 - It’s cute.
-- It does / does not work.  (Where is it employed?)
+- It does / does not work. (Where is it employed?)
 - It’s weird / awkward.
 - Make it pop.
 - Push it.
@@ -40,5 +41,4 @@ Analyze the good and the bad.  Keep personal feelings out of the way.  Look at t
 - Look at artwork while speaking not at the artist.
 - No touching art without permission.
 - Don’t talk to friends or other classmates during crit.
-- Don’t talk over people.  Let them finish what they are saying. Do not interrupt.
-
+- Don’t talk over people. Let them finish what they are saying. Do not interrupt.

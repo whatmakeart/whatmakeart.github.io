@@ -4,13 +4,13 @@ title: Metal Fabrication
 
 # Metal Fabrication
 
-There are multiple ways to [Fabrication](../fabrication/fabrication.md) metal including [Cutting](../making/cutting.md),[bending](bending.md), [Welding](../welding.md), [Bolting](../making/bolting.md), [forging](forging.md), [Casting](casting.md) and more. Working with mental can be hazardous so it it essential to follow basic [Safety](../safety.md) best practices as well as additional safety precautions depending on the equipment, materials, or techniques being used to fabricate metal.
+There are multiple ways to [Fabrication](../making/fabrication.md) metal including [Cutting](../making/cutting.md),[bending](bending.md), [Welding](welding.md), [Bolting](../making/bolting.md), [forging](forging.md), [Casting](casting.md) and more. Working with mental can be hazardous so it it essential to follow basic [Safety](../making/safety.md) best practices as well as additional safety precautions depending on the equipment, materials, or techniques being used to fabricate metal.
 
 ## Bending and Cutting Metal
 
 ### How to Bend Steel
 
-- [How-to-Bend-Flat-Stock-in-a-Vise](/tutorials/how-to-bend-flat-stock-in-a-vise.md)
+- [How-to-Bend-Flat-Stock-in-a-Vise](../tutorials/how-to-bend-flat-stock-in-a-vise.md)
 - Flat Stock with a Metal Break
 - Solid Round Bar
 - Hollow Tubing
@@ -62,5 +62,3 @@ M5 bolt Head 8.5mm Dia x 5mm H M5 bolt lengths 10mm 12mm 14mm M5 nut 8mm W x 4mm
 You need to remove all oil and rust, then quickly add a metal primer. Metal primer can have multiple coats and be sanded smooth in between coats. Primer should be applied as soon as new clean metal is exposed. Clean metal should be allowed to touch the atmosphere for as short of time as possible.
 
 ### How to Patina Steel
-
-## Bicycle Fabrication

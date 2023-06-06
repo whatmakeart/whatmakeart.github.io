@@ -4,11 +4,9 @@ title: Professional Practices for Artists
 
 There might be stereotypes of artists being "flaky" or "disorganized" but every successful artist has methods for maintaining professional practices during their careers.
 
-https://www.nytimes.com/2022/07/06/t-magazine/artist-residencies-art-school.html
-
 ## Budgets
 
-Whether running your studio, completing a public art commission, bidding for a freelance contract, or ordering supplies, budgeting is an essential skill for all artists. A simple budget written out on a piece of paper is better than nothing and is often the way to start rough project planning. Spreadsheet software such as [Excel](../Excel.md), [Google Sheets](https://docs.google.com/spreadsheets/u/0/), or [Open Office](https://www.openoffice.org/) allow even more control for artists to create budgets and work on different contingencies and plans. As your creative career progresses it is even more important to learn [how to create an artist budget](./how-to-create-an-artist-budget.md).
+Whether running your studio, completing a public art commission, bidding for a freelance contract, or ordering supplies, budgeting is an essential skill for all artists. A simple budget written out on a piece of paper is better than nothing and is often the way to start rough project planning. Spreadsheet software such as [Excel](../software/excel.md), [Google Sheets](https://docs.google.com/spreadsheets/u/0/), or [Open Office](https://www.openoffice.org/) allow even more control for artists to create budgets and work on different contingencies and plans. As your creative career progresses it is even more important to learn [how to create an artist budget](how-to-create-an-artist-budget.md).
 
 ## Contracts
 
@@ -20,7 +18,7 @@ Your portfolio is how people will discover your work and how you will get more o
 
 ## Resume / CV
 
-Most [Artist-Opportunities](../Artist-Opportunities.md) will require a resume or CV. Even when not applying for a commission or opportunity it is a good idea to have your resume published on your website so people can get an overview of your career and experience. Learn [How-to-Write-an-Artist-Resume](./how-to-write-an-artist-resume.md).
+Most [Artist-Opportunities](artist-opportunities.md) will require a resume or CV. Even when not applying for a commission or opportunity it is a good idea to have your resume published on your website so people can get an overview of your career and experience. Learn [How-to-Write-an-Artist-Resume](how-to-write-an-artist-resume.md).
 
 ## Portfolio Website
 

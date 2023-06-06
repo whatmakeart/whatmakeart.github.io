@@ -10,7 +10,7 @@ A Raspberry Pi is a single board computer that is often used for low power on-si
 
 [Raspberry-Pi-Auto-Start-Scripts](raspberry-pi-auto-start-scripts.md)
 
-[Outputting-Sound-with-Raspberry-Pi](./outputting-sound-with-raspberry-pi.md)
+[Outputting-Sound-with-Raspberry-Pi](outputting-sound-with-raspberry-pi.md)
 
 [Asynchronous video capture with OpenCV and Python – Blitzblit](http://blog.blitzblit.com/2017/12/24/asynchronous-video-capture-in-python-with-opencv/)
 

@@ -2,9 +2,11 @@
 title: GitHub Pages
 ---
 
+```
 git config --global user.name "username"
 
 git config --global user.email "email@gmail.com"
+```
 
 ### GitHub Username and Email Video Tutorial
 
@@ -24,7 +26,7 @@ https://youtu.be/ZeWx0XNUZWE?t=85
 
 ## Setup Multiple GitHub Accounts
 
-Sometimes you want to use different GitHub accounts for different repositories on the same computer. This could be to seperate personal projects with school projects or work projects. Type the following commands into terminal.
+Sometimes you want to use different GitHub accounts for different repositories on the same computer. This could be to separate personal projects with school projects or work projects. Type the following commands into terminal.
 
 ~$ git config --global user.name "username" ~$ git config --global user.email "name@email.com"
 

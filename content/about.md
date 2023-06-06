@@ -90,21 +90,21 @@ There could be a handful of approved editors that are able to make changes. Ifth
 
 https://www.11ty.dev/
 
-## Future Proofing and Avoiding Sofware Lock-In
+## Future Proofing and Avoiding Software Lock-In
 
 ### Flat Files vs Database
 
-So far everything in this project is written in simple markdown files. These are realatively human deciferable text files that can easily be converted into static HTML documents and viewed on the web.
+So far everything in this project is written in simple markdown files. These are relatively human deciferable text files that can easily be converted into static HTML documents and viewed on the web.
 
 The benefit of using multiple markdown files is that computers should be able to read them forever and it is possible to switch to other platforms. The downside of using markdown is it is not WYSIWYG so if there are multiple editors then the editors must learn markdown. [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)and [Wiki.js](https://js.wiki/) solve this problem by having visual editors for users that do not know markdown.
 
-Both of these use a database to keep track of the content and the media. That is not a problem but it does add complexity to the project and requires a server to host the files. [Docuwiki](https://www.dokuwiki.org/dokuwiki)is an option that uses flat files but it also requries a hosting server because it is put together with PHP.
+Both of these use a database to keep track of the content and the media. That is not a problem but it does add complexity to the project and requires a server to host the files. [Docuwiki](https://www.dokuwiki.org/dokuwiki)is an option that uses flat files but it also requires a hosting server because it is put together with PHP.
 
 ## Choosing a Platform
 
 The main choice is between a Static Site Generator like [Jekyll](https://jekyllrb.com/) or [Hugo](https://gohugo.io/) and an actual [wiki software](https://www.wikimatrix.org/).
 
-The platform should be easy to edit on mobile and desktop. It should be designed mobile first and accessible. Needs to be able to support lots of embeded images, videos and sounds. Needs wikilinks and backlinks. Needs to be easily skinnable and customizalbe. It must use open formats for all data storage so mirgration to different hosting and or platforms in the future is possible.
+The platform should be easy to edit on mobile and desktop. It should be designed mobile first and accessible. Needs to be able to support lots of embeded images, videos and sounds. Needs wikilinks and backlinks. Needs to be easily skinnable and customizalbe. It must use open formats for all data storage so migration to different hosting and or platforms in the future is possible.
 
 ### Potential Platforms
 

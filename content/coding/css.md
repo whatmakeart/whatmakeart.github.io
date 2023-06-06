@@ -4,9 +4,7 @@ title: CSS
 
 CSS stands for Cascading Style Sheets and is the language used for the visual styling of most websites.
 
-CSS Auditing Tools — Smashing Magazine
-
-https://www.smashingmagazine.com/2021/03/css-auditing-tools/
+[CSS Auditing Tools — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-auditing-tools/)
 
 https://www.chenhuijing.com/blog/how-i-design-with-css-grid/
 

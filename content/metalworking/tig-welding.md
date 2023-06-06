@@ -31,9 +31,9 @@ Points
 
 Never allow the tungsten to touch the base metal. If it dips into the weld puddle then stop welding. Let the electrode cool, the regrind it before continuing welding. It will not work correctly if it has base metal contaminating the tip.
 
-Don't have inconsistant travel speed. This will make beads that have different widths and will not make good welds.
+Don't have inconsistent travel speed. This will make beads that have different widths and will not make good welds.
 
-Keep the arc distance close to the material and consistant
+Keep the arc distance close to the material and consistent
 
 Don't melt the filler wire with the arc, it should melt when it is introduced to the molten weld pool
 

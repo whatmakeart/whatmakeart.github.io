@@ -6,4 +6,74 @@ A charrette is an temporary but intensive design collaboration session.
 
 ## Charette Links
 
-https://www.google.com/search?q=charette&oq=charette&aqs=chrome..69i57j0l5.1230j0j8&sourceid=chrome&ie=UTF-8#q=charette+design&start=310 https://en.wikipedia.org/wiki/Charrette http://www.state.sc.us/djj/pdfs/charette.pdf http://schoolreforminitiative.org/doc/charrette.pdf https://www.mindtools.com/pages/article/newCT_90.htm http://www.designorate.com/brainstorming-using-charette-procedure/ http://www.iida.org/content.cfm/student-design-charette https://www.tools4management.com/article/the-charette-procedure-for-brainstorming-great-content/ https://www.heftfaculty.co.uk/sites/default/files/BrainstormingToolkit.pdf https://johnbidder.wordpress.com/2010/12/21/the-charette-procedure-or-mini-brainstorms-working-as-one/ http://planning.usace.army.mil/toolbox/library/smart/Charette%20Handbook.pdf http://www.dailymirror.lk/64409/tech http://www.tndtownpaper.com/what_is_charrette.htm https://www.nngroup.com/articles/design-charrettes/ http://www.dse.vic.gov.au/effective-engagement/toolkit/tool-design-charrettes http://www.oaa.on.ca/public%20resources/organizing%20a%20design%20charrette http://www.idec.org/i4a/pages/index.cfm?pageID=3856 https://www.bie.org/object/video/design_project_how_to_charrette http://www.route30plan.com/design_charette.asp http://www.nearwestsidemke.org/design-charette/ https://www.terrapass.com/partner/charette-design https://sustainability.temple.edu/design http://www.interiordesignpro.org/interior-designer/charette-design/ https://travois.com/design-charette/ http://www.harvarddesignmagazine.org/issues/33/are-charrettes-old-school https://beta.gov.scot/publications/charrette-programme-activating-ideas-fund/ https://formlabs.com/blog/interior-design-3d-printing/ http://scenichudson.org/event/community-design-charette-2016-09-20-213000-2016-09-20-233000 https://vimeo.com/156453379 http://www.otis.edu/news/students-place-1st-2nd-international-interior-design-association-charette http://uwm.edu/community-design-solutions/lindsay-heights-charette/ http://www.somervillebydesign.com/union-square-design-charette-day-2/ http://www.active18.net/wp-content/uploads/2010/12/Charrette-report-080707.pdf http://abexpo.com/exhibit-hall/fit-city-charrette/ https://cias.rit.edu/faculty-staff/261/student/1427 http://execed.gsd.harvard.edu/nci-charrettes-design-thinking-2016 https://blogs.adobe.com/conversations/2016/01/improve-collaboration-and-design-thinking-with-charrette.html http://www.cdesignc.org/infill/playspace/charrette http://www.aptarchitecture.com/At-Uncovering-Synergies-A-Design-Charette http://www.sacredgroundproject.net/2016/05/an-intense-period-of-design-or-planning_5.html http://www.questionablemethods.com/2011/11/design-charrette.html http://www.ifla2016.com/it/p-138/students-charette/charette-topics https://www.sandiego.gov/sites/default/files/gvchardesc081110.pdf http://www.landskapsarkitektur.no/konkurranser/internasjonalt/student-charette-design-workshop http://documents.mx/design/seattle-design-charette.html https://vo-general.s3.amazonaws.com/23d5c348-9a7d-4dc0-8c7a-903d41a20ae3/aOIRdVeYSQW8pqq0By4H_SU1-2_Facade%20Study-Design%20Charette.pdf?AWSAccessKeyId=AKIAJ3YBR5GY2XF7YLGQ&Expires=1500318664&Signature=DLlxQVOWGeWo1FLVhY1SH%2FS%2FQBg%3D https://www.safaribooksonline.com/library/view/universal-methods-of/9781592537563/xhtml/ch26.html http://www.eventbrite.com/e/iida-cleveland-akron-student-design-charette-2016-tickets-27078043156 http://www.threeriversmi.org/2009/11/2006-charette-results-documents/ http://ontarioplanners.ca/Special-Pages/Symposium-2016/Program/Day-1/201-Wind-and-Microclimate-Issues-A-Design-Chare http://www.golittleton.com/riverdistrict/plan_nh_riverdistrict_report.pdf http://www.planetizen.com/node/68464 http://oah.dc.gov/sites/default/files/dc/sites/dhcd/release_content/attachments/22106/5%20-%20NSP%20RFP%20Reference%20Guidebook%20-%202011%20Enterprise%20Green%20Communities%20Charrette%20Facilitators%20Guide.pdf https://comealiveoutside.com/wp-content/uploads/2014/08/Checklist-for-Design-Charrette.pdf http://highwaysandhailstones.com/kansas-project-blog/the-kansas-project-design-charette-week-8/ http://articles.extension.org/pages/27933/charrette-use-in-the-planning-process http://www.cudc.kent.edu/blog/group-plan-charrette-invitation/ http://www.greeninfrastructurefoundation.org/programs/green-infrastructure-charrette http://www.chronicle.com/blognetwork/theubiquitouslibrarian/2011/05/24/organizing-a-design-charrette-gathering-a-visual-response-for-learning-spaces-a-packet/ http://www.tcrpc.org/departments/studio/about_the_charrette_process.htm http://www.aiaohio.org/592-aia-ohio-schools-of-architecture-competition-charrette http://www1.eere.energy.gov/buildings/publications/pdfs/commercial_initiative/33425rep.pdf https://www.fm.colostate.edu/construction/charrette.cfm http://www.aca.org.au/article/how-to-improve-productivity-with-design-thinking http://www.auburnvillager.com/news/design-charrette-for-performing-arts-center-open-to-public-wednesday/article_1c2832f2-f6c2-11e5-aad0-6fd4a3ad25d7.html https://www.menlopark.org/DocumentCenter/View/2615 http://plannersweb.com/2008/07/an-introduction-to-charrettes/ http://www.arrowstreet.com/2014/10/living-with-water-design-charrette-at-abx-2/ http://blogs.edweek.org/edweek/edtechresearcher/2012/08/teaching_and_learning_through_design_thinking.html http://www.pgplanning.org/Projects/Completed_Projects/Completed_Plans/Marlboro_Pike/Community_Involvement/Community_Charrette.htm http://www.sustainableproduction.org/downloads/MobilePhoneDesignCharretteSummaryOct2012.pdf http://the-witness.net/news/2010/08/design-charrette/ http://hamptonnh.gov/wp-content/uploads/Planning/public/hampton_charrette_booklet.pdf https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=291&cad=rja&uact=8&ved=0ahUKEwjn0L74puTPAhWG8CYKHSSMAUM4ogIQFggeMAA&url=http%3A%2F%2Fwww.mdpi.com%2F2071-1050%2F7%2F6%2F6593%2Fpdf&usg=AFQjCNH-joxHb8VRdZTXXQeFyf5Q9MS9eQ&bvm=bv.135974163,d.eWE
+- https://www.google.com/search?q=charette&oq=charette&aqs=chrome..69i57j0l5.1230j0j8&sourceid=chrome&ie=UTF-8#q=charette+design&start=310
+- https://en.wikipedia.org/wiki/Charrette
+- http://www.state.sc.us/djj/pdfs/charette.pdf
+- http://schoolreforminitiative.org/doc/charrette.pdf
+- https://www.mindtools.com/pages/article/newCT_90.htm
+- http://www.designorate.com/brainstorming-using-charette-procedure/
+- http://www.iida.org/content.cfm/student-design-charette
+- https://www.tools4management.com/article/the-charette-procedure-for-brainstorming-great-content/
+- https://www.heftfaculty.co.uk/sites/default/files/BrainstormingToolkit.pdf
+- https://johnbidder.wordpress.com/2010/12/21/the-charette-procedure-or-mini-brainstorms-working-as-one/
+- http://planning.usace.army.mil/toolbox/library/smart/Charette%20Handbook.pdf
+- http://www.dailymirror.lk/64409/tech
+- http://www.tndtownpaper.com/what_is_charrette.htm
+- https://www.nngroup.com/articles/design-charrettes/
+- http://www.dse.vic.gov.au/effective-engagement/toolkit/tool-design-charrettes
+- http://www.oaa.on.ca/public%20resources/organizing%20a%20design%20charrette
+- http://www.idec.org/i4a/pages/index.cfm?pageID=3856
+- https://www.bie.org/object/video/design_project_how_to_charrette
+- http://www.route30plan.com/design_charette.asp http://www.nearwestsidemke.org/design-charette/
+- https://www.terrapass.com/partner/charette-design https://sustainability.temple.edu/design
+- http://www.interiordesignpro.org/interior-designer/charette-design/
+- https://travois.com/design-charette/
+- http://www.harvarddesignmagazine.org/issues/33/are-charrettes-old-school
+- https://beta.gov.scot/publications/charrette-programme-activating-ideas-fund/
+- https://formlabs.com/blog/interior-design-3d-printing/
+- http://scenichudson.org/event/community-design-charette-2016-09-20-213000-2016-09-20-233000
+- https://vimeo.com/156453379 http://www.otis.edu/news/students-place-1st-2nd-international-interior-design-association-charette
+- http://uwm.edu/community-design-solutions/lindsay-heights-charette/
+- http://www.somervillebydesign.com/union-square-design-charette-day-2/
+- http://www.active18.net/wp-content/uploads/2010/12/Charrette-report-080707.pdf
+- http://abexpo.com/exhibit-hall/fit-city-charrette/
+- https://cias.rit.edu/faculty-staff/261/student/1427
+- http://execed.gsd.harvard.edu/nci-charrettes-design-thinking-2016
+- https://blogs.adobe.com/conversations/2016/01/improve-collaboration-and-design-thinking-with-charrette.html
+- http://www.cdesignc.org/infill/playspace/charrette
+- http://www.aptarchitecture.com/At-Uncovering-Synergies-A-Design-Charette
+- http://www.sacredgroundproject.net/2016/05/an-intense-period-of-design-or-planning_5.html
+- http://www.questionablemethods.com/2011/11/design-charrette.html
+- http://www.ifla2016.com/it/p-138/students-charette/charette-topics
+- https://www.sandiego.gov/sites/default/files/gvchardesc081110.pdf
+- http://www.landskapsarkitektur.no/konkurranser/internasjonalt/student-charette-design-workshop
+- http://documents.mx/design/seattle-design-charette.html
+- https://vo-general.s3.amazonaws.com/23d5c348-9a7d-4dc0-8c7a-903d41a20ae3/aOIRdVeYSQW8pqq0By4H_SU1-2_Facade%20Study-Design%20Charette.pdf?AWSAccessKeyId=AKIAJ3YBR5GY2XF7YLGQ&Expires=1500318664&Signature=DLlxQVOWGeWo1FLVhY1SH%2FS%2FQBg%3D
+- https://www.safaribooksonline.com/library/view/universal-methods-of/9781592537563/xhtml/ch26.html
+- http://www.eventbrite.com/e/iida-cleveland-akron-student-design-charette-2016-tickets-27078043156
+- http://www.threeriversmi.org/2009/11/2006-charette-results-documents/
+- http://ontarioplanners.ca/Special-Pages/Symposium-2016/Program/Day-1/201-Wind-and-Microclimate-Issues-A-Design-Chare
+- http://www.golittleton.com/riverdistrict/plan_nh_riverdistrict_report.pdf
+- http://www.planetizen.com/node/68464
+- http://oah.dc.gov/sites/default/files/dc/sites/dhcd/release_content/attachments/22106/5%20-%20NSP%20RFP%20Reference%20Guidebook%20-%202011%20Enterprise%20Green%20Communities%20Charrette%20Facilitators%20Guide.pdf
+- https://comealiveoutside.com/wp-content/uploads/2014/08/Checklist-for-Design-Charrette.pdf
+- http://highwaysandhailstones.com/kansas-project-blog/the-kansas-project-design-charette-week-8/
+- http://articles.extension.org/pages/27933/charrette-use-in-the-planning-process
+- http://www.cudc.kent.edu/blog/group-plan-charrette-invitation/
+- http://www.greeninfrastructurefoundation.org/programs/green-infrastructure-charrette
+- http://www.chronicle.com/blognetwork/theubiquitouslibrarian/2011/05/24/organizing-a-design-charrette-gathering-a-visual-response-for-learning-spaces-a-packet/
+- http://www.tcrpc.org/departments/studio/about_the_charrette_process.htm
+- http://www.aiaohio.org/592-aia-ohio-schools-of-architecture-competition-charrette
+- http://www1.eere.energy.gov/buildings/publications/pdfs/commercial_initiative/33425rep.pdf
+- https://www.fm.colostate.edu/construction/charrette.cfm
+- http://www.aca.org.au/article/how-to-improve-productivity-with-design-thinking
+- http://www.auburnvillager.com/news/design-charrette-for-performing-arts-center-open-to-public-wednesday/article_1c2832f2-f6c2-11e5-aad0-6fd4a3ad25d7.html
+- https://www.menlopark.org/DocumentCenter/View/2615
+- http://plannersweb.com/2008/07/an-introduction-to-charrettes/
+- http://www.arrowstreet.com/2014/10/living-with-water-design-charrette-at-abx-2/
+- http://blogs.edweek.org/edweek/edtechresearcher/2012/08/teaching_and_learning_through_design_thinking.html
+- http://www.pgplanning.org/Projects/Completed_Projects/Completed_Plans/Marlboro_Pike/Community_Involvement/Community_Charrette.htm
+- http://www.sustainableproduction.org/downloads/MobilePhoneDesignCharretteSummaryOct2012.pdf
+- http://the-witness.net/news/2010/08/design-charrette/
+- http://hamptonnh.gov/wp-content/uploads/Planning/public/hampton_charrette_booklet.pdf
+- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=291&cad=rja&uact=8&ved=0ahUKEwjn0L74puTPAhWG8CYKHSSMAUM4ogIQFggeMAA&url=http%3A%2F%2Fwww.mdpi.com%2F2071-1050%2F7%2F6%2F6593%2Fpdf&usg=AFQjCNH-joxHb8VRdZTXXQeFyf5Q9MS9eQ&bvm=bv.135974163,d.eWE

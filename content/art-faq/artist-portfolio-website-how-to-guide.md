@@ -60,7 +60,8 @@ Take notes of our observations. Your mind is fleeting and you won't remember eve
 
 # Example Artist Websites
 
-{{< rawhtml >}}<div style="display:grid;grid-template-columns: repeat( auto-fit, minmax(220px, 1fr) );">{{< /rawhtml >}}
+<div style="display:grid;grid-template-columns: repeat( auto-fit, minmax(220px, 1fr) );">
+
 {{< linkcard >}}[Adrian Piper](http://www.adrianpiper.com/){{< /linkcard >}}
 {{< linkcard >}}[Alex Da Corte](http://alexdacorte.com/){{< /linkcard >}}
 {{< linkcard >}}[Aloky Menon](https://www.alokvmenon.com/){{< /linkcard >}}
@@ -104,7 +105,8 @@ Take notes of our observations. Your mind is fleeting and you won't remember eve
 {{< linkcard >}}[Yunhee Min](http://www.yunheemin.com/) {{< /linkcard >}}
 {{< linkcard >}}[Yuri Ancarani](https://www.yuriancarani.com/){{< /linkcard >}}
 {{< linkcard >}}[Zarina](https://www.zarina.work/){{< /linkcard >}}
-{{< rawhtml >}}</div>{{< /rawhtml >}}
+
+</div>
 
 # Do you need an artist website?
 
@@ -114,7 +116,8 @@ The artists below seem to be doing quite well and they do not have readily disco
 
 ## Prominent Artists Without Apparent Websites When Searched April 2021
 
-{{< rawhtml >}}<div style="display:grid;grid-template-columns: repeat( auto-fit, minmax(220px, 1fr) );">{{< /rawhtml >}}
+<div style="display:grid;grid-template-columns: repeat( auto-fit, minmax(220px, 1fr) );">
+
 {{< linkcard >}}[Alex Hubbard](https://www.google.com/search?q=Alex+Hubbard){{< /linkcard >}}
 {{< linkcard >}}[Allen Ruppersberg](https://www.google.com/search?q=Allen+Ruppersberg){{< /linkcard >}}
 {{< linkcard >}}[Andra Ursuta](https://www.google.com/search?q=Andra+Ursuta){{< /linkcard >}}
@@ -161,13 +164,15 @@ The artists below seem to be doing quite well and they do not have readily disco
 {{< linkcard >}}[Simone Leigh](https://www.google.com/search?q=Simone+Leigh){{< /linkcard >}}
 {{< linkcard >}}[Tabiamo](https://www.google.com/search?q=Tabaimo){{< /linkcard >}}
 {{< linkcard >}}[Wael Shawky](https://www.google.com/search?q=Wael+Shawky){{< /linkcard >}}
-{{< rawhtml >}}</div>{{< /rawhtml >}}
+
+</div>
 
 # Art Gallery Websites
 
 This is not an exhaustive list but will get you started on your exploration of art gallery website styling. New galleries pop up and others close. Take not of what seems to be dominant visual themes in these gallery websites. Just because everyone does it, does not mean it is necessarily a good idea. Starting with established conventions can be a great way to learn but starting with bad conventions is only a hinderance. Keep your mind open and explore these art gallery websites below.
 
-{{< rawhtml >}}<div style="display:grid;grid-template-columns: repeat( auto-fit, minmax(220px, 1fr) );">{{< /rawhtml >}}
+<div style="display:grid;grid-template-columns: repeat( auto-fit, minmax(220px, 1fr) );">
+
 {{< linkcard >}}[303 Gallery](https://www.303gallery.com/){{< /linkcard >}}
 {{< linkcard >}}[Adams and Ollman](https://adamsandollman.com/){{< /linkcard >}}
 {{< linkcard >}}[Alito Art](http://azito-art.com/){{< /linkcard >}}
@@ -246,7 +251,8 @@ This is not an exhaustive list but will get you started on your exploration of a
 {{< linkcard >}}[kurimanzutto](https://www.kurimanzutto.com/){{< /linkcard >}}
 {{< linkcard >}}[mor charpentier](https://www.mor-charpentier.com/){{< /linkcard >}}
 {{< linkcard >}}[t twoninethree](http://www.t293.it/){{< /linkcard >}}
-{{< rawhtml >}}</div>{{< /rawhtml >}}
+
+</div>
 
 # What do you put on an artist website?
 
@@ -268,7 +274,7 @@ Don't forget about posting links to other online profiles that you have. Just be
 
 ## Your Resume
 
-Where have you exhibited your work? Have your received recognition for your work? Are there articles written about your work? Did you go to school? Did you write something about art? Where have you spoken about your work? All of these items and more go on your artist resume.
+Where have you exhibited your work? Have your received recognition for your work? Are there articles written about your work? Did you go to school? Did you write something about art? Where have you spoken about your work? All of these items and more go on your [artist resume](how-to-write-an-artist-resume.md).
 
 There is no rule but again there are general conventions. The best way to learn these conventions is to look at other artists' resumes and see what is common practice. When you are starting your career you will not have much to put on your resume. That is ok. You still need a resume and if you make one it will be easier to add your creative accomplishments in the future.
 
@@ -284,7 +290,7 @@ Do it anyway. Most venues and publications that ask for your bio expect it to be
 
 Get to the point.
 
-I love art but do not like reading artist statements. Well, I don't like reading bad artist statements. I want to know about your art. I want to know all the W's and the H. The Who, What, When, Where, How? Tell me and your audience.
+I love art but do not like reading [artist statements](how-to-write-an-artist-statement.md). Well, I don't like reading bad artist statements. I want to know about your art. I want to know all the W's and the H. The Who, What, When, Where, How? Tell me and your audience.
 
 Don't waste time with extra language. Tell me.
 
@@ -304,7 +310,7 @@ In web design as well as most publishing it is best to keep the content separate
 
 ## What is HTML and CSS?
 
-HTML stands for Hyper Text Markup Language and CSS stands for Cascading Style Sheet. All you need to know is that the HTML tells the web browser what the content is. It tells the browser if the text is a heading, a paragraph, a link, an image or any other content on the webpage. Although most web browser have default display styles for HTML content, the HTML should not determine how your site looks.
+[HTML](../coding/html.md) stands for Hyper Text Markup Language and [CSS](../coding/css.md) stands for Cascading Style Sheet. All you need to know is that the HTML tells the web browser what the content is. It tells the browser if the text is a heading, a paragraph, a link, an image or any other content on the webpage. Although most web browser have default display styles for HTML content, the HTML should not determine how your site looks.
 
 The CSS tells the web browser how to display your content. It determines typefaces, text size, colors, borders, column layouts, how the page looks on mobile, animations, transitions and just about any type of visual styling you can imagine.
 
@@ -384,7 +390,7 @@ Look at many of the example artist and gallery websites listed on this page. Man
 
 The internet is full of information about how to make websites. That is part of the greatness of the internet, the sharing of information. Some of the information is good while other information is less good. For good information the Mozilla Foundation is a good place to start [https://foundation.mozilla.org/en/](https://foundation.mozilla.org/en/) reading about website best practices.
 
-In addition, there is more information about coding and design websites than you could consume in a lifetime. Here is a [link](https://www.google.com/search?q=web+design+tutorials) to [Search Results](https://www.google.com/search?q=web+design+tutorials) to get you started.
+In addition, there is more information about coding and design websites than you could consume in a lifetime. Here is a [tutorial video showing how to make an online portfolio website](https://youtu.be/MpEIUE9O73k) as well as a link to [Search Results of web design tutorials](https://www.google.com/search?q=web+design+tutorials) to get you started.
 
 ### Pros
 

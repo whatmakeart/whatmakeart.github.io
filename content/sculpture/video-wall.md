@@ -2,7 +2,7 @@
 title: Video Wall
 ---
 
-Video walls and synced video to multiple monitors or projectors is a common task for video and multimedia [art-installations](sculpture/art-installations.md). More powerful computers and single board computers like the [Raspberry-Pi](/raspberry-pi/raspberry-pi.md) make this process much easier but it is still complex.
+Video walls and synced video to multiple monitors or projectors is a common task for video and multimedia [art-installations](../sculpture/art-installations.md). More powerful computers and single board computers like the [Raspberry-Pi](../raspberry-pi/raspberry-pi.md) make this process much easier but it is still complex.
 
 ## Video Wall Options
 

@@ -4,7 +4,7 @@ title: How to Write an Artist Resume
 
 # How to Write an Artist Resume
 
-This shows best practices and common standards to use when writing an artist resume. You will learn how to write a resume for a potential job versus writing a resume for an exhibition opportunity. You should always keep your resume up to date in different versions so you are prepared to apply for new opportunities without delay.
+This shows best practices and common standards to use when writing an artist resume. You will learn how to write a resume for a potential job versus writing a resume for an exhibition opportunity. You should always keep your resume up to date in different versions so you are prepared to [apply for new opportunities](artist-opportunities.md) without delay.
 
 ## Prerequisites
 
@@ -18,4 +18,4 @@ To complete this tutorial you should be familiar with word processing and have a
 
 After following these instructions you should
 
-## Futher Reading
+## Further Reading

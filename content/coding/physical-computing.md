@@ -8,7 +8,7 @@ Wire crimping connections Heat shrink tape Fuses Wire gauge Stranded vs solid So
 
 ## Raspberry Pi
 
-Single board computer
+The [Raspberry Pi](../raspberry-pi/raspberry-pi.md) is an example of a single board computer.
 
 ## Arduino
 
@@ -16,23 +16,14 @@ The arduino is a cheap, simple single board multiprocessor with digital and anal
 
 ## Arduino Tutorials
 
-[Drum Robot Machine](https://llllllll.co/t/solenoid-drum-strikers/7955/6)
-
-[Letter of Recommendation: Piezo Mics](https://www.nytimes.com/2019/07/16/magazine/letter-of-recommendation-piezo-mics.html)
-
-[Arduino Subwoofer Code Low Hz Sinewave on GitHub](https://github.com/cmasenas/SineWave)
-
-[Arduino Subwoofer Code on Arduino Forums](https://forum.arduino.cc/index.php/topic,26983.0.html)
-
-[Arduino People Detection](../Arduino%20People%20Detection)
-
-[Spherical LED Matrix - Sphere Shaped LED Screen From LED Pixel Strip: 11 Steps](https://www.instructables.com/id/Spherical-LED-Matrix-Sphere-Shaped-LED-Screen-From/)
-
-[nRF24L01 and 4 Relay](https://forum.arduino.cc/index.php?topic=506265.0)
-
-Trouble getting two SPI devices working at the same time (nRF24L01 and SD card)
-
-https://forum.arduino.cc/index.php?topic=435717.0
+- [Drum Robot Machine](https://llllllll.co/t/solenoid-drum-strikers/7955/6)
+- [Letter of Recommendation: Piezo Mics](https://www.nytimes.com/2019/07/16/magazine/letter-of-recommendation-piezo-mics.html)
+- [Arduino Subwoofer Code Low Hz Sinewave on GitHub](https://github.com/cmasenas/SineWave)
+- Arduino Subwoofer Code on Arduino Forums](https://forum.arduino.cc/index.php/topic,26983.0.html)
+- [Arduino People Detection](../Arduino%20People%20Detection)
+- [Spherical LED Matrix - Sphere Shaped LED Screen From LED Pixel Strip: 11 Steps](https://www.instructables.com/id/Spherical-LED-Matrix-Sphere-Shaped-LED-Screen-From/)
+- [nRF24L01 and 4 Relay](https://forum.arduino.cc/index.php?topic=506265.0)
+- [Trouble getting two SPI devices working at the same time (nRF24L01 and SD card)](https://forum.arduino.cc/index.php?topic=435717.0)
 
 ### Count 2 Dimensional Array
 

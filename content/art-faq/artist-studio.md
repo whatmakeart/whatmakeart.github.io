@@ -2,18 +2,18 @@
 title: Artist Studio
 ---
 
-Artists need a place to make their work. An artist's workspace is called their studio. It is important to have good studio practices, good [Professional-Practices-for-Artists](professional-practices-for-artists.md), and good [Safety](/making/safety.md) practices. Good [time management](time-management.md) is needed to successfully run an artist studio.
+Artists need a place to make their work. An artist's workspace is called their studio. It is important to have good studio practices, good [Professional-Practices-for-Artists](professional-practices-for-artists.md), and good [Safety](../making/safety.md) practices. Good [time management](time-management.md) is needed to successfully run an artist studio.
 
 ## Setting up a Studio
 
-An artist may use a studio temporarily or over many years. In its simplest form an artists stuio is a place to make work and to store completed work. A basic studio should have:
+An artist may use a studio temporarily or over many years. In its simplest form an artists studio is a place to make work and to store completed work. A basic studio should have:
 
 - good lighting
 - adequate ventilation
 - sturdy work surfaces
 - chairs
 - storage space
-- [tools for making](../tools.md)
+- [tools for making](../making/tools.md)
 - raw materials
 
 Nothing else is needed to get started making in the studio. As you begin working you will develop custom methods that will require rearranging the layout of your studio. A process may require a single long table or many separate small tables. Your skills will develop and dictate what equipment is needed in your studio. A studio is a constant work in progress and is always in flux, following the creativity of the artist.
@@ -35,7 +35,3 @@ When should you clean up your studio?
 3. After finishing a project presents an opportunity for reconsidering and organizing your studio.
 4. Before starting a new project lots of open lateral surface space can help reduce friction in tackling new ideas.
 5. When you have a creative block, spending a bit of time on relatively mindless cleaning and straightening of your studio can often free your cognitive loads so you make a creative breakthrough.
-
-## Media Competency vs Literacy
-
-The difference between media competency and media literacy media literacy is just being a consumer of the content media competency is being able to make a podcast or produce something.

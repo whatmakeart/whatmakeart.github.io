@@ -8,12 +8,12 @@ This tutorial will show you different ways to approaching writing an artist stat
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with [Writing](../Writing.md) and it is helpful to be able to use a word processor.
+To complete this tutorial you should be familiar with [Writing](writing.md) and it is helpful to be able to use a word processor.
 
 ## Instructions
 
 The first step
 
-## Futher Reading
+## Further Reading
 
 ### External Links

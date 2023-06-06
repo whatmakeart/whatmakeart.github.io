@@ -4,7 +4,7 @@ title: Copyright for Artists
 
 ## Public Domain Cases
 
-The [Public-Domain](./public-domain.md) is a great resource for content creation but artists need to be careful that images are actually in the public domain. If you get an image from a reputable source such as the New York Public Library or the [Public-Domain](./public-domain.md) or the prelinger archive, you can be reasonably assured that the content is really in the public domain. Domain. But if you use less reputable sources such as a search engine, you may find things that people have uploaded and claim to be in the public domain, but that are not really.
+The [Public-Domain](public-domain.md) is a great resource for content creation but artists need to be careful that images are actually in the public domain. If you get an image from a reputable source such as the New York Public Library or the [Public-Domain](public-domain.md) or the prelinger archive, you can be reasonably assured that the content is really in the public domain. Domain. But if you use less reputable sources such as a search engine, you may find things that people have uploaded and claim to be in the public domain, but that are not really.
 
 An example of this is when an actor from the sitcom the office had their face added to a public domain repository and it was incorrectly tagged as public domain. Then many advertising agencies started to use their image without permission on products.
 

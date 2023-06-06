@@ -4,11 +4,11 @@ title: Responsive iframe Embed
 
 ## Tutorial Description
 
-iframes are not responsive by default. This code snippet shows how to add a bit of [CSS](css.md) and [HTMLS](html.md) to a webpage to make iframes responsive.
+iframes are not responsive by default. This code snippet shows how to add a bit of [CSS](css.md) and [HTML](html.md) to a webpage to make iframes responsive.
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with [How-to-add-CSS-to-a-Webpage](../tutorials/how-to-add-css-to-a-webpage.md) and basic [HTMLS](html.md).
+To complete this tutorial you should be familiar with [How-to-add-CSS-to-a-Webpage](../tutorials/how-to-add-css-to-a-webpage.md) and basic [HTML](html.md).
 
 ## Instructions
 
@@ -35,7 +35,7 @@ The first step is to add the following CSS to your stylesheet. The padding botto
   height: 100%;}
 ```
 
-Then you add the following HTML `<div>` wrapper with the classname `.responsive-iframe-container` around the iframe that you want to make responsive.
+Then you add the following HTML `<div>` wrapper with the class name `.responsive-iframe-container` around the iframe that you want to make responsive.
 
 ### HTML
 
@@ -51,4 +51,4 @@ After following these instructions you should have an iframe that is responsive,
 
 ## Further Reading
 
-[Web-Design](web-design.md) [How to Make an Artist Portfolio Website](/tutorials/how-to-make-an-artist-portfolio-website.md)
+[Web-Design](web-design.md) [How to Make an Artist Portfolio Website](../tutorials/how-to-make-an-artist-portfolio-website.md)

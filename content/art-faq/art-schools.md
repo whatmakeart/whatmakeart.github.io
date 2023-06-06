@@ -10,4 +10,7 @@ No.
 
 Many factors will determine the answer to this question.
 
-[NYU Tisch School of the Arts](https://tisch.nyu.edu/)
+### Art School Websites
+
+- [Cleveland Institute of Art](https://cia.edu)
+- [NYU Tisch School of the Arts](https://tisch.nyu.edu/)

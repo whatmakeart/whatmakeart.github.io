@@ -12,4 +12,4 @@ A traditional story arc contains an introduction of the story, plot, characters 
 
 ## How to Make a Narrative Arc?
 
-A [Story Spine](../Story-Spine.md) is simple method to break a story down into 9 parts that then are split into three groups to make a 3 part narrative arc.
+A [Story Spine](story-spine.md) is simple method to break a story down into 9 parts that then are split into three groups to make a 3 part narrative arc.

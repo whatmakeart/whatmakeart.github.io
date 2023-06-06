@@ -2,4 +2,4 @@
 title: Blender
 ---
 
-Blender can make [animations](../video/animation.md)
+Blender is a 3D Modeling program that can also make [animations](../video/animation.md)

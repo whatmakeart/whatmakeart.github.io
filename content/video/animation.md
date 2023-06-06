@@ -21,5 +21,3 @@ this.gotoAndPlay(0); // This loops the whole time line but can just click loop i
 ```
 
 ## 3D Animation
-
-[fusion](../fusion)

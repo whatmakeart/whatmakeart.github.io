@@ -29,7 +29,6 @@ Capable Parties
 Introduction
 
 - States general facts, has a lot of “WHEREAS…” clauses and paragraphs.
-
 - Will likely change Your Name to “Artist” and Main Street Gallery to “Venue” or Super Awesome Production Studios to “Client”
 
 Purpose of the Agreement
@@ -43,7 +42,6 @@ Responsibilities of both Parties
 Representations and Warranties
 
 - Artist usually represent that a work is theirs and original
-
 - One might represent that the work is of sound construction, no wet paint dripping on the floor
 
 Boilerplate Clauses
@@ -136,7 +134,7 @@ Attachments
 - You may not own the physical work but you may still own the copyright
 - Maintenance agreement for commissioned pieces
 
-> **If you do not write any of the words of a contract it is likely not written in your best interest.**
+**If you do not write any of the words of a contract it is likely not written in your best interest.**
 
 ## Contract Changes
 
@@ -184,11 +182,8 @@ Can seem like a lot but matter when needed. Make sure to read and understand all
 #### Indemnification
 
 - A ”hold harmless” provision. It is a transfer of risk. It shifts potential costs from one party to another.
-
 - Can be one way or two way. Always try to get a mutual indemnification.
-
 - Protects the party from losses from third party claims. Copyright is a good example.
-
 - You will also likely “warranty” that you own the copyright of your work but an indemnification clause add additional protection.
 
 #### Choice of law
@@ -222,7 +217,6 @@ Can seem like a lot but matter when needed. Make sure to read and understand all
 #### Severability
 
 - Allows the contract to stand and be enforced if one part is invalid.  You contract with a gallery and it says artist responsible for robbing a bank.  The rest of the contract is still valid, including you getting paid, even if the invalid bank clause is taken out, if you have a severability clause.
-
 - This is in the current news with the potential invalidation of the Affordable Care Act by the Supreme Court.
 
 ## Do I need a lawyer?
@@ -230,11 +224,7 @@ Can seem like a lot but matter when needed. Make sure to read and understand all
 Yes, you do.
 
 - It may not be necessary as you sign some basic agreements in the beginning of your career but there is a threshold where it is a good idea to hire an attorney.
-
 - Is your threshold $100? $1,000? $10,000? $100,000?
-
 - In your career you will handle many similar contracts.  After you use an attorney on a certain type, you are likely able to handle that type of contract on your own in the future.
-
 - It is a good idea to hire an attorney again if you need a new type of contract or if the stakes significantly increase.
-
 - Remember, there are free resources available.

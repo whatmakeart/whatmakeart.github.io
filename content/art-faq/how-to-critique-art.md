@@ -6,7 +6,7 @@ title: How to Critique Art
 
 ## What is a Critique?
 
-Many forms of critique exist but for now we will discuss the formal group critique found in many art schools around the world. It is essential to your training as creative professionals and will take time to master.
+Many [forms of critique](critique-methods.md) exist but for now we will discuss the formal group critique found in many art schools around the world. It is essential to your training as creative professionals and will take time to master.
 
 "A critique happens when a group of people convenes in an art studio or critique room to discuss and evaluate works of art. Depending on the class level, the school's resources, and the area of study, the group is comprised of a combination of students, one or several instructors, and sometimes other invited participants, usually thought of as experts." [^1]
 
