@@ -8,4 +8,4 @@ draft: false
 
 This course is intended for first year college students studying art and design.
 
-The course introduces basic technical sketching, third angle projections, 3D modeling in Fusion 360, laser cutting, 3D printing, CNC fabrication, mesh modeling in Blender and Maya, and basic 3D animation and rendering.
+The course introduces basic technical sketching, third angle projections, [3D modeling](3d-modeling/3d-modeling.md) in Fusion 360, laser cutting, 3D printing, CNC fabrication, mesh modeling in Blender and Maya, and basic 3D animation and rendering.
