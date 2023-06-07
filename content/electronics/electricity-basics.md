@@ -1,6 +1,5 @@
 ---
 title: Electricity Basics
-toc: true
 ---
 
 ## What is Electricity?
@@ -9,7 +8,7 @@ Charged elections flow from one state to another usually from a negative charge 
 
 Two common types of electrical circuits are AC, alternating current, and DC, direct current. The mains voltage in the wall is alternating current. The electricity in cars and electronics is usually direct current.
 
-# Measuring Electricity
+## Measuring Electricity
 
 Voltage can be thought of as the potential for electrical flow. The higher the voltage, the higher the energy in the electrons. In order for electricity to flow there needs to be a voltage difference, often referred to as a gradient. The same is true for water. If water is spread out on a flat surface it has no gradient or difference so it stays put. If you collect the same water in a cup and then tip the cup there is a difference in water pressure and the water flows out of the cup until all the differences in water pressure even out and a flat puddle is left on the floor.
 
@@ -21,7 +20,7 @@ Current can flow through solids or liquids. Liquids need something to transfer t
 
 Electricity doesn't just flow freely, it is slowed down by resistance. Your hand and the door knob has resistance. Metal wires generally have low resistance so current flows well through wires. As a general rule, a thinner wire has more resistance than a thick wire, and a longer wire has more resistance than a shorter wire
 
-## Ohm's Law
+### Ohm's Law
 
 The following famous equation known as Ohm's Law calculates electricity current flow. The Current is the voltage, potential for flow, divided by the resistance in the circuit. The resistance measures how well or not well the current flows through the object. For example copper has low resistance while rubber has a high resistance.
 

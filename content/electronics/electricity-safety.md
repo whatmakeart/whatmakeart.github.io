@@ -1,6 +1,5 @@
 ---
 title: Electricity Safety
-toc: true
 ---
 
 ## Link Type Test

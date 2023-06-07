@@ -42,9 +42,9 @@ pluralizelisttitles = false
  
 
 [params.toc]
-  startLevel = 2      # default is 2
-  endLevel = 3        # default is 3
-  minNumHeadings = 2  # default is 2
+  startLevel = 1      # default is 2
+  endLevel = 6       # default is 3
+  minNumHeadings = 1  # default is 2
 
 [frontmatter]
   lastmod = [ "lastmod", ":git", "date", "publishDate" ]

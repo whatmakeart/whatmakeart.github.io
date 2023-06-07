@@ -136,25 +136,31 @@ Start with these basic CSS rules to style the table of contents:
   {{- errorf "The %q partial detected duplicate heading IDs (%s) in %s" $partialName (delimit . ", ") $contentPath }}
 {{- end }}
 
+<!-- Below modified from original to match CSS classes -->
+<!-- also added a | safeHTML after .text to allow for appostrophe --> 
+
 {{- /* Render */}}
 {{- if .Params.toc }}
   {{- with $headings }}
     {{- if ge (len .) $minNumHeadings }}
-      <nav class="toc">
-        <div class="toc-title">
-          {{ or (T "toc_title") "Table of contents" | safeHTML }}
-        </div>
-        {{- range . }}
-          {{- $attrs := dict "class" (printf "toc-item toc-level-%d" (add 1 (sub .level $startLevel))) }}
-          {{- with .id }}
-            {{- $attrs = merge $attrs (dict "href" (printf "%s#%s" $.RelPermalink .)) }}
-          {{- end }}
-          <a
-          {{- range $k, $v := $attrs }}
-            {{- printf " %s=%q" $k $v | safeHTMLAttr }}
-          {{- end -}}
-          >{{ .text }}</a>
-        {{- end }}
+     <strong class="d-block h6 my-2 pb-2 border-bottom">
+          {{ or (T "toc_title") "On this Page" | safeHTML }}
+    </strong>
+      <nav id="TableOfContents">
+       <ul>
+       
+            {{- range . }}
+            {{- $attrs := dict "class" (printf "toc-item toc-level-%d" (add 1 (sub .level $startLevel))) }}
+            {{- with .id }}
+                {{- $attrs = merge $attrs (dict "href" (printf "%s#%s" $.RelPermalink .)) }}
+            {{- end }}
+            <li><a
+            {{- range $k, $v := $attrs }}
+                {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+            {{- end -}}
+            >{{ .text | safeHTML }}</a></li>
+            {{- end }}
+        </ul>
       </nav>
     {{- end }}
   {{- end }}
