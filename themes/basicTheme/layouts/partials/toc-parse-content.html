@@ -22,54 +22,54 @@ Renders a table of contents by parsing rendered content.
 In site configuration, set the default start level, end level, and the minimum
 number of headings required to show the table of contents:
 
-[params.toc]
-startLevel = 2 # default is 2
-endLevel = 3 # default is 3
-minNumHeadings = 2 # default is 2
+    [params.toc]
+    startLevel = 2      # default is 2
+    endLevel = 3        # default is 3
+    minNumHeadings = 2  # default is 2
 
 To display the table of contents on a page:
 
-+++
-title = 'Post 1'
-toc = true
-+++
+    +++
+    title = 'Post 1'
+    toc = true
+    +++
 
 To display the table of contents on a page, and override one or more of the
 default settings:
 
-+++
-title = 'Post 1'
-[toc]
-startLevel = 2 # default is 2
-endLevel = 3 # default is 3
-minNumHeadings = 2 # default is 2
-+++
+    +++
+    title = 'Post 1'
+    [toc]
+    startLevel = 2      # default is 2
+    endLevel = 3        # default is 3
+    minNumHeadings = 2  # default is 2
+    +++
 
 Change or localize the title with a "toc_title" key in your i18n file(s).
 
 Start with these basic CSS rules to style the table of contents:
 
-a.toc-item {
-display: block;
-}
-a.toc-level-1 {
-margin-left: 0em;
-}
-a.toc-level-2 {
-margin-left: 1em;
-}
-a.toc-level-3 {
-margin-left: 2em;
-}
-a.toc-level-4 {
-margin-left: 3em;
-}
-a.toc-level-5 {
-margin-left: 4em;
-}
-a.toc-level-6 {
-margin-left: 5em;
-}
+    a.toc-item {
+      display: block;
+    }
+    a.toc-level-1 {
+      margin-left: 0em;
+    }
+    a.toc-level-2 {
+      margin-left: 1em;
+    }
+    a.toc-level-3 {
+      margin-left: 2em;
+    }
+    a.toc-level-4 {
+      margin-left: 3em;
+    }
+    a.toc-level-5 {
+      margin-left: 4em;
+    }
+    a.toc-level-6 {
+      margin-left: 5em;
+    }
 
 @context {page} .
 
@@ -84,15 +84,15 @@ margin-left: 5em;
 {{- /* Verify minimum required version. */}}
 {{- $minHugoVersion := "0.111.3" }}
 {{- if lt hugo.Version $minHugoVersion }}
-{{- errorf "The %q partial requires Hugo v%s or later." $partialName $minHugoVersion }}
+  {{- errorf "The %q partial requires Hugo v%s or later." $partialName $minHugoVersion }}
 {{- end }}
 
 {{- /* Determine content path for warning and error messages. */}}
 {{- $contentPath := "" }}
 {{- with .File }}
-{{- $contentPath = .Path }}
+  {{- $contentPath = .Path }}
 {{- else }}
-{{- $contentPath = .Path }}
+  {{- $contentPath = .Path }}
 {{- end }}
 
 {{- /* Get configuration. */}}
@@ -103,55 +103,59 @@ margin-left: 5em;
 {{- /* Get headings. */}}
 {{- $headings := slice }}
 {{- $ids := slice }}
-{{- range findRE `(?is)<h\d.*?< /h\d>` .Content }}
-    {{- $level := substr . 2 1 | int }}
-    {{- if and (ge $level $startLevel) (le $level $endLevel) }}
+{{- range findRE `(?is)<h\d.*?</h\d>` .Content }}
+  {{- $level := substr . 2 1 | int }}
+  {{- if and (ge $level $startLevel) (le $level $endLevel) }}
     {{- $text := replaceRE `(?is)<h\d.*?>(.+?)</h\d>` "$1" . }}
-        {{- $text = trim $text " " | plainify }}
-        {{- $id := "" }}
-        {{- if findRE `\s+id=` . }}
-        {{- $id = replaceRE `(?is).+?\s+id=(?:\x22|\x27)?(.*?)(?:\x22|\x27)?[\s>].+` "$1" . }}
-        {{- $ids = $ids | append $id }}
-        {{- if not $id }}
+    {{- $text = trim $text " " | plainify }}
+    {{- $id := "" }}
+    {{- if findRE `\s+id=` . }}
+      {{- $id = replaceRE `(?is).+?\s+id=(?:\x22|\x27)?(.*?)(?:\x22|\x27)?[\s>].+` "$1" . }}
+      {{- $ids = $ids | append $id }}
+      {{- if not $id }}
         {{- errorf "The %q partial detected that the %q heading has an empty ID attribute. See %s" $partialName $text $contentPath }}
-        {{- end }}
-        {{- else }}
-        {{- errorf "The %q partial detected that the %q heading does not have an ID attribute. See %s" $partialName $text $contentPath }}
-        {{- end }}
-        {{- $headings = $headings | append (dict "id" $id "level" $level "text" $text) }}
-        {{- end }}
-        {{- end }}
+      {{- end }}
+    {{- else }}
+      {{- errorf "The %q partial detected that the %q heading does not have an ID attribute. See %s" $partialName $text $contentPath }}
+    {{- end }}
+    {{- $headings = $headings | append (dict "id" $id "level" $level "text" $text) }}
+  {{- end }}
+{{- end }}
 
-        {{- /* Check for duplicate heading IDs. */}}
-        {{- $unique := slice }}
-        {{- $duplicates := slice }}
-        {{- range $ids }}
-        {{- if in $unique . }}
-        {{- $duplicates = $duplicates | append . }}
-        {{- else }}
-        {{- $unique = $unique | append . }}
-        {{- end }}
-        {{- end }}
-        {{- with $duplicates }}
-        {{- errorf "The %q partial detected duplicate heading IDs (%s) in %s" $partialName (delimit . ", ") $contentPath }}
-        {{- end }}
+{{- /* Check for duplicate heading IDs. */}}
+{{- $unique := slice }}
+{{- $duplicates := slice }}
+{{- range $ids }}
+  {{- if in $unique . }}
+    {{- $duplicates = $duplicates | append . }}
+  {{- else }}
+    {{- $unique = $unique | append . }}
+  {{- end }}
+{{- end }}
+{{- with $duplicates }}
+  {{- errorf "The %q partial detected duplicate heading IDs (%s) in %s" $partialName (delimit . ", ") $contentPath }}
+{{- end }}
 
-        {{- /* Render */}}
-        {{- if .Params.toc }}
-        {{- with $headings }}
-        {{- if ge (len .) $minNumHeadings }}
-        <nav class="toc">
-            <div class="toc-title">
-                {{ or (T "toc_title") "Table of contents" | safeHTML }}
-            </div>
-            {{- range . }}
-            {{- $attrs := dict "class" (printf "toc-item toc-level-%d" (add 1 (sub .level $startLevel))) }}
-            {{- with .id }}
+{{- /* Render */}}
+{{- if .Params.toc }}
+  {{- with $headings }}
+    {{- if ge (len .) $minNumHeadings }}
+      <nav class="toc">
+        <div class="toc-title">
+          {{ or (T "toc_title") "Table of contents" | safeHTML }}
+        </div>
+        {{- range . }}
+          {{- $attrs := dict "class" (printf "toc-item toc-level-%d" (add 1 (sub .level $startLevel))) }}
+          {{- with .id }}
             {{- $attrs = merge $attrs (dict "href" (printf "%s#%s" $.RelPermalink .)) }}
-            {{- end }}
-            <a {{- range $k, $v :=$attrs }} {{- printf " %s=%q" $k $v | safeHTMLAttr }} {{- end -}}>{{ .text }}</a>
-            {{- end }}
-        </nav>
+          {{- end }}
+          <a
+          {{- range $k, $v := $attrs }}
+            {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+          {{- end -}}
+          >{{ .text }}</a>
         {{- end }}
-        {{- end }}
-        {{- end }}
+      </nav>
+    {{- end }}
+  {{- end }}
+{{- end }}

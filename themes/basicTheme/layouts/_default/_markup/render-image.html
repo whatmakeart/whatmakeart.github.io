@@ -1,11 +1,28 @@
 <!-- Begin Include Markdown Files with ![Image](markdown.md) -->
 {{- $includeUrl := urls.Parse .Destination -}}
 {{- if strings.HasSuffix $includeUrl.Path ".md" -}} <!-- Check if a markdown file extension -->
-{{- if os.FileExists $includeUrl -}} <!-- check if markdown file to include exists -->
-{{ .Destination | readFile | replaceRE "^---[\\s\\S]+?---" "" | markdownify }}
-{{- else -}}
-<p>does not exist</p>
-{{- end -}}
+  <p>original .Destination = {{ .Destination }}</p>
+  <p>urls.Parse .Destination = {{ $includeUrl }}</p>
+  {{ $includePath := "" }}
+    {{- if os.FileExists $includeUrl -}} <!-- check if markdown file to include exists -->
+      {{ $includePath = $includeUrl }}
+      {{ $includeUrl | readFile | replaceRE "^---[\\s\\S]+?---" "" | markdownify }}
+    {{- else -}} 
+      {{- $extraPrefix := "../" -}}
+      {{ $path := path.Join $extraPrefix .Destination }}
+        <p>$path = {{ $path }}</p>
+      {{- $includeUrl = urls.Parse $path -}}
+        <p>$includeUrl = {{ $includeUrl }}</p>
+    {{- if os.FileExists $path -}} <!-- check if markdown file to include exists -->
+        {{ $path | readFile | replaceRE "^---[\\s\\S]+?---" "" | markdownify }}
+    {{- else -}}
+        {{ $newPath := replaceRE $extraPrefix "" $includeUrl }}
+        <p>$newPath = {{ $newPath }}</p>
+      {{- if os.FileExists $includeUrl -}} <!-- check if markdown file to include exists -->
+        <p>exists</p>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}} <!-- End Include Markdown Files with ![Image](markdown.md) -->
 
 {{- if not (strings.HasSuffix $includeUrl.Path ".md") -}} <!-- if not a .md file -->
