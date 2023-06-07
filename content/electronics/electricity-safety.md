@@ -4,22 +4,76 @@ title: Electricity Safety
 
 ## Link Type Test
 
-Checking which styles of links work on a page that includes this markdown file.
+Checking which styles of links work on a page that includes this markdown file and whether it can work on GitHub, Visual Studio Code, the Include Page and the Original Page at the same time.
 
-Link below with leading `./` for file relative link `./electronics/electricity-basics.md`
+- Include Page = [/courses/experiments-in-electronic-arts/2023-spring/01-basic-electronics-introduction/1-02-electrical-safety.md](/courses/experiments-in-electronic-arts/2023-spring/01-basic-electronics-introduction/1-02-electrical-safety.md)
+- Original Page = [/electronics/electricity-safety.md](/electronics/electricity-safety.md)
+
+### Link below with leading `./` for file relative link `./electronics/electricity-basics.md`
+
 [Electricity](./electronics/electricity-basics.md) can be dangerous and deadly, even at low voltages. It is important to follow safety practices.
 
-Link below with leading `/` for root relative link `/electronics/electricity-basics.md`
+| Context            | Works |
+| ------------------ | ----- |
+| Include Page       | Yes   |
+| Original page      | No    |
+| Visual Studio Code | No    |
+| GitHub             |       |
+
+### Link below with leading `/` for root relative link `/electronics/electricity-basics.md`
+
 [Electricity](/electronics/electricity-basics.md) can be dangerous and deadly, even at low voltages. It is important to follow safety practices.
 
-Link below with no prefix `electronics/electricity-basics.md`
+| Context            | Works |
+| ------------------ | ----- |
+| Include Page       | Yes   |
+| Original page      | Yes   |
+| Visual Studio Code | No    |
+| GitHub             |       |
+
+### Link below with no prefix `electronics/electricity-basics.md`
+
 [Electricity](electronics/electricity-basics.md) can be dangerous and deadly, even at low voltages. It is important to follow safety practices.
 
-Link below with no folder `electricity-basics.md`
+| Context            | Works |
+| ------------------ | ----- |
+| Include Page       | Yes   |
+| Original page      | Yes   |
+| Visual Studio Code | No    |
+| GitHub             |       |
+
+### Link below with no folder `electricity-basics.md`
+
 [Electricity](electricity-basics.md) can be dangerous and deadly, even at low voltages. It is important to follow safety practices.
 
-Link below with no folder but `./` `electricity-basics.md`
+| Context            | Works |
+| ------------------ | ----- |
+| Include Page       | No    |
+| Original page      | Yes   |
+| Visual Studio Code | Yes   |
+| GitHub             |       |
+
+### Link below with no folder but `./` `./electricity-basics.md`
+
 [Electricity](./electricity-basics.md) can be dangerous and deadly, even at low voltages. It is important to follow safety practices.
+
+| Context            | Works |
+| ------------------ | ----- |
+| Include Page       | No    |
+| Original page      | Yes   |
+| Visual Studio Code | Yes   |
+| GitHub             |       |
+
+### Link below with no folder but `../` `../electricity-basics.md`
+
+[Electricity](../electricity-basics.md) can be dangerous and deadly, even at low voltages. It is important to follow safety practices.
+
+| Context            | Works |
+| ------------------ | ----- |
+| Include Page       | No    |
+| Original page      | Yes   |
+| Visual Studio Code | Yes   |
+| GitHub             |       |
 
 ## Basic Electrical Safety Checklist
 
