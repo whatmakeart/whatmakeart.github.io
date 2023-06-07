@@ -2,7 +2,7 @@
 title: Electricity Safety
 ---
 
-## Link Type Test
+# On Page Link Type Test
 
 Checking which styles of links work on a page that includes this markdown file and whether it can work on GitHub, Visual Studio Code, the Include Page and the Original Page at the same time.
 
