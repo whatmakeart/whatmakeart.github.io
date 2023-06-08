@@ -5,4 +5,6 @@ draft: false
 toc: true
 ---
 
-![Link to Included Page](/electronics/electricity-basics.md)
+# Include ![]() With Document Relative Link Test
+
+![Ld](../../../../electronics/electricity-basics.md)

@@ -7,14 +7,4 @@ toc: true
 
 # Include ![]() With Document Relative Link Test
 
-Link Works on GitHub to at least go to file but does not include file on page
-
-`![Link to Included Page](../../../../electronics/electricity-safety.md)`
-
-![Link to Included Page](../../../../electronics/electricity-safety.md)
-
-Link Doesn't work on GitHub but includes the file on page
-
-`![Link to Included Page](/electronics/electricity-safety.md)`
-
-![Link to Included Page](/electronics/electricity-safety.md)
+![Link to Included Page Up all Directories to Root](../../../../electronics/electricity-safety.md)

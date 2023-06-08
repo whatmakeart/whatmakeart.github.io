@@ -1,27 +1,64 @@
 <!-- Begin Include Markdown Files with ![Image](markdown.md) -->
 {{- $includeUrl := urls.Parse .Destination -}}
-{{- if strings.HasSuffix $includeUrl.Path ".md" -}} <!-- Check if a markdown file extension -->
- 
-  {{ $includePath := "" }}
-    {{- if os.FileExists $includeUrl -}} <!-- check if markdown file to include exists -->
-      {{ $includePath = $includeUrl }}
-      {{ $includeUrl | readFile | replaceRE "^---[\\s\\S]+?---" "" | markdownify }}
-    {{- else -}} 
-      {{- $extraPrefix := "../" -}}
-      {{ $path := path.Join $extraPrefix .Destination }}
-      
-      {{- $includeUrl = urls.Parse $path -}}
 
-    {{- if os.FileExists $path -}} <!-- check if markdown file to include exists -->
-        {{ $path | readFile | replaceRE "^---[\\s\\S]+?---" "" | markdownify }}
-    {{- else -}}
-        {{ $newPath := replaceRE $extraPrefix "" $includeUrl }}
-   
-      {{- if os.FileExists $includeUrl -}} <!-- check if markdown file to include exists -->
-      
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
+{{- if strings.HasSuffix $includeUrl.Path ".md" -}} <!-- Check if a markdown file extension -->
+  {{- $includePrefix := "../" -}}
+  {{- $includePath := $includeUrl -}} <!-- fill with default path on initialization -->
+  {{- $searchedFile := $includeUrl -}} <!-- fill with default path on initialization -->
+  {{- $includeFileBase := $includeUrl -}} <!-- fill with default path on initialization -->
+  {{ $includeFileDir := $includeUrl -}}
+
+    {{- if os.FileExists $includeUrl -}} <!-- check if markdown file to include exists with original .Destination-->
+      {{- $includePath = $includeUrl -}} <!-- set include path if File exists -->
+    {{- else -}} 
+      {{- $withoutPrefix := replace .Destination $includePrefix "" -}}
+      {{- if os.FileExists $withoutPrefix -}} <!-- check if markdown file to include exists without prefixed ../ -->
+        {{- $includePath = $withoutPrefix -}} <!-- set include path if File exists -->
+      {{- else -}}
+        {{- $pathPrefix := path.Join $includePrefix .Destination -}}
+        {{- if os.FileExists $pathPrefix -}} <!-- check if markdown file to include exists with an extra move up folder prefix -->
+          {{ $includePath = $pathPrefix }} <!-- set include path if File exists -->
+        {{- else -}}  
+          {{ $includeFileBase = path.Base $includeUrl }} <!-- get last part of $includeUrl likely the filename -->
+          {{ $includeFileDir = path.Dir $includeUrl }}
+          {{ range .Page.Site.Pages }} <!-- set range of all pages need to use .Page in front since in render hook -->
+            {{ $searchedFile =  (path.Join (path.Dir .Page.File.Path) $includeFileBase) }}
+            {{ $searchedFile = path.Join "/" $searchedFile }} <!-- add front slash to make a root relative link -->
+            {{ if os.FileExists $searchedFile }} <!-- check if any combination of root relative paths has a matching file -->
+              {{ $includePath = $searchedFile }} <!-- set include path if File exists -->
+            {{end}}
+          {{end}}
+          {{ if os.FileExists $includePath }}
+            {{- $includePath | readFile | replaceRE "^---[\\s\\S]+?---" "" | markdownify -}}
+            <p>poop = {{$includePath}}</p>
+                  <!-- log for testing -->
+              <p>Link Not Found: {{ $includeUrl}}</p> 
+                <ul>
+                <li>.Destination = {{ $includeUrl}}</li>
+                <li>$includeUrl = {{ $includeUrl }}</li>
+                <li>$withoutPrefix = {{$withoutPrefix}}</li>
+                <li>$pathPrefix = {{$pathPrefix}}</li>
+                <li>$searchedFile = {{ $searchedFile}}</li>
+                <li>$includeFileBase = {{ $includeFileBase }}
+                <li>$includeFileDir = {{ $includeFileDir }}</li>
+              </ul>
+          {{else}}
+              <!-- log for testing -->
+              <p>Link Not Found: {{ $includeUrl}}</p> 
+                <ul>
+                <li>.Destination = {{ $includeUrl}}</li>
+                <li>$includeUrl = {{ $includeUrl }}</li>
+                <li>$withoutPrefix = {{$withoutPrefix}}</li>
+                <li>$pathPrefix = {{$pathPrefix}}</li>
+                <li>$searchedFile = {{ $searchedFile}}</li>
+                <li>$includeFileBase = {{ $includeFileBase }}
+                <li>$includeFileDir = {{ $includeFileDir }}</li>
+              </ul>
+          {{- end -}}
+        {{- end -}}
+     {{- end -}}
+ {{ end }}
+ 
 {{- end -}} <!-- End Include Markdown Files with ![Image](markdown.md) -->
 
 {{- if not (strings.HasSuffix $includeUrl.Path ".md") -}} <!-- if not a .md file -->
