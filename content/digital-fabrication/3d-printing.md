@@ -2,7 +2,7 @@
 title: 3D Printing
 ---
 
-3D Printing is an [additive-processes](../additive-processes.md) of [Fabrication](../Sculpture-and-Expanded-Media/Fabrication.md).
+3D Printing is an [additive-processes](../sculpture/additive-processes.md) of [Fabrication](../making/fabrication.md).
 
 ## Types of 3D Printers
 
@@ -20,17 +20,17 @@ title: 3D Printing
 - Keep overhanging parts extending out less than 45 degrees. This allows layers to overlap a bit and slowly extend out wider. 45 degrees is the max otherwise the printer tries to print in mid air and all the filament falls to the ground.
 - Objects must be fully connected and "manifold" or "watertight" You can't have pieces floating in the air or close but not touching. Don't have small voids. Make the pieces solid and uniform. You can have a hollow vase or container but all its parts and walls should be connected and solid.
 
-![2022-3D-Print-Angles](/attachments/2022-3D-Print-Angles.png) Red models will not print without supports but green models will because they rise up at 45 degrees
+![2022-3D-Print-Angles](../attachments/2022-3D-Print-Angles.png) Red models will not print without supports but green models will because they rise up at 45 degrees
 
-![2022-3D-Print-Angles-at-Angle](/attachments/2022-3D-Print-Angles-at-Angle.png) Red models will not print without supports but green models will because they rise up at 45 degrees
+![2022-3D-Print-Angles-at-Angle](../attachments/2022-3D-Print-Angles-at-Angle.png) Red models will not print without supports but green models will because they rise up at 45 degrees
 
 ### General Structural 3D Printing Guidelines
 
 The following guidelines help achieve successful 3d Prints especially when designing containers, structural parts and pieces that need to be the correct size to match real world objects. These concepts still hold true for more organic creative work but may not be as necessary.
 
-![2022-3D-Print-Guidelines](/attachments/2022-3D-Print-Guidlines.png) Example of model showing Mechanical 3D Print Guidelines
+![2022-3D-Print-Guidelines](../attachments/2022-3D-Print-Guidelines.png) Example of model showing Mechanical 3D Print Guidelines
 
-![2022-3D-Print-Gussets](/attachments/2022-3D-Print-Gussets.png)
+![2022-3D-Print-Gussets](../attachments/2022-3D-Print-Gussets.png)
 
 Gussets or supporting pieces like wings give more structure to elements.|# 3D Printing This tutorial will
 
@@ -42,11 +42,11 @@ To complete this tutorial you should be familiar with
 
 The first step
 
-![2022-3D-Print-Uniform-Wall-Thickness](/attachments/2022-3D-Print-Uniform-Wall-Thickness.png) Uniform Walls help with deformation and warping.
+![2022-3D-Print-Uniform-Wall-Thickness](../attachments/2022-3D-Print-Uniform-Wall-Thickness.png) Uniform Walls help with deformation and warping.
 
-![2022-3D-Print-Fillets](/attachments/2022-3D-Print-Fillets.png) Fillets or rounded interior corners add strength and help with warping. Ribs also shown, connect vertical pieces to other vertical pieces or walls. ![2022-3D-Print-Ribs](/attachments/2022-3D-Print-Ribs.png)
+![2022-3D-Print-Fillets](../attachments/2022-3D-Print-Fillets.png) Fillets or rounded interior corners add strength and help with warping. Ribs also shown, connect vertical pieces to other vertical pieces or walls. ![2022-3D-Print-Ribs](../attachments/2022-3D-Print-Ribs.png)
 
-![2022-3D-Print-Round-Corners](/attachments/2022-3D-Print-Round-Corners.png) Chamfers or angled interior corners add strength and help with warping like fillets do.
+![2022-3D-Print-Round-Corners](../attachments/2022-3D-Print-Round-Corners.png) Chamfers or angled interior corners add strength and help with warping like fillets do.
 
 Rounded Corners put less stress on the corners and are smoother to print.
 

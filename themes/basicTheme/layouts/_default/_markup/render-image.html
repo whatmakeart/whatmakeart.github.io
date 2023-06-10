@@ -1,6 +1,6 @@
 <!-- Begin Include Markdown Files with ![Image](markdown.md) -->
 {{- $includeUrl := urls.Parse .Destination -}}
-  {{- $includePrefix := "../" -}}
+ 
   {{- $includePath := $includeUrl -}} <!-- fill with default path on initialization -->
   {{- $searchedFile := $includeUrl -}} <!-- fill with default path on initialization -->
   {{- $includeFileBase := $includeUrl -}} <!-- fill with default path on initialization -->
@@ -11,12 +11,16 @@
 
     {{- if os.FileExists $includeUrl -}} <!-- check if markdown file to include exists with original .Destination-->
       {{- $includePath = $includeUrl -}} <!-- set include path if File exists -->
+
     {{- else -}} 
-      {{- $withoutPrefix := replace .Destination $includePrefix "" -}}
+      {{- $withoutPrefix := replace .Destination "../" "" -}}
+   
+      {{- $withoutPrefix := replace $withoutPrefix "./" "" -}}
+     
       {{- if os.FileExists $withoutPrefix -}} <!-- check if markdown file to include exists without prefixed ../ -->
         {{- $includePath = $withoutPrefix -}} <!-- set include path if File exists -->
       {{- else -}}
-        {{- $pathPrefix = path.Join $includePrefix .Destination -}}
+        {{- $pathPrefix = path.Join "../" .Destination -}}
         {{- if os.FileExists $pathPrefix -}} <!-- check if markdown file to include exists with an extra move up folder prefix -->
           {{- $includePath = $pathPrefix -}} <!-- set include path if File exists -->
         {{- else -}} 
@@ -27,12 +31,14 @@
             {{ $searchedFile = path.Join "/" $searchedFile }} <!-- add front slash to make a root relative link -->
             {{ if os.FileExists $searchedFile }} <!-- check if any combination of root relative paths has a matching file -->
               {{ $includePath = $searchedFile }} <!-- set include path if File exists -->
+          
             {{- end -}}
           {{- end -}}
         {{- end -}}
       {{- end -}}
         {{ if os.FileExists $includePath }}
-          {{- $includePath | readFile | replaceRE "^---[\\s\\S]+?---" "" | markdownify -}}
+      
+          {{- $includePath | readFile | replaceRE "^---[\\s\\S]+?---" "" | .Page.RenderString -}}
         {{- else -}}
            <!-- log for testing -->
               <p>Possible Link = {{$includePath}}</p>
