@@ -28,7 +28,7 @@ title: 3D Printing
 
 The following guidelines help achieve successful 3d Prints especially when designing containers, structural parts and pieces that need to be the correct size to match real world objects. These concepts still hold true for more organic creative work but may not be as necessary.
 
-![2022-3D-Print-Guidelines](../attachments/2022-3D-Print-Guidelines.png) Example of model showing Mechanical 3D Print Guidelines
+![2022-3D-Print-Guidelines](../attachments/2022-3D-Print-Guidlines.png) Example of model showing Mechanical 3D Print Guidelines
 
 ![2022-3D-Print-Gussets](../attachments/2022-3D-Print-Gussets.png)
 

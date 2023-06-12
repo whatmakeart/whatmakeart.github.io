@@ -148,6 +148,6 @@ void loop() {
 }
 ```
 
-[^1]: https://docs.arduino.cc/built-in-examples/digital/Buttons
-[^2]: https://www.tinkercad.com/circuits
-[^3]: https://www.e-switch.com/wp-content/uploads/2022/06/TL1105.pdf [(Archive)](TL1105.pdf)
+[^1]: [Arduino Docs - Buttons](https://docs.arduino.cc/built-in-examples/digital/Buttons)
+[^2]: [TinkerCad Circuits](https://www.tinkercad.com/circuits)
+[^3]: [TL1105 Datasheet](https://www.e-switch.com/wp-content/uploads/2022/06/TL1105.pdf) [(Archive)](TL1105.pdf)
