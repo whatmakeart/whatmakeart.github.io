@@ -21,14 +21,7 @@
 
             {{- if os.FileExists $link -}}
                <!-- Original Link Exists -->
-               {{ $link = $link }}
-
-
-                    {{- if strings.HasSuffix $linkExt.Path ".md" -}} <!-- Check if a markdown file extension -->
-
-                        {{ $link = replace $link ".md" "/"}}
-
-                    {{ end }}
+                    {{ $link = $link }}
             {{ else }}
 
             {{- range .Page.Site.Pages -}} <!-- set range of all pages need to use .Page in front since in render hook -->
@@ -46,14 +39,17 @@
                 {{ end }} 
 
                 {{ if os.FileExists $searchedFile  }}
+                    {{ $link = $searchedFile }}
                     {{- if strings.HasSuffix $linkExt.Path ".md" -}} <!-- Check if a markdown file extension -->
                         {{ $link = replace $link ".md" "/"}}
                     {{ end }}
-                    {{ $link = $searchedFile }}
+                    
                     {{ $link = path.Join "/" $link }} <!-- add front slash to make a root relative link -->
                     {{ $link = path.Clean $link }}
                 {{- end -}} 
             {{ end }}
+
+        
        
         {{ end }}
     {{ end }}
