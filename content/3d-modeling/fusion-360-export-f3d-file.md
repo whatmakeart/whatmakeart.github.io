@@ -1,7 +1,5 @@
 ---
-title: "02.06 Export .f3d file from Fusion 360"
-date: 2020-01-26T23:11:13Z
-draft: false
+title: Fusion 360 Export .f3d File
 ---
 
 Since Fusion 360 data is stored in the cloud it is good practice to make local copies as well. Fusion 360 supports the export of many 3D Modeling file types but for now we will focus on the .f3d Fusion 360 native file format. This allows you to save a copy that can be opened on a computer without the internet and can be shared with another Fusion 360 user without sharing any cloud information. The .f3d file can be uploaded to Fusion 360 and then it will appear in the file browser with all the other models and designs.

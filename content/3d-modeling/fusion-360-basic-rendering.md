@@ -1,7 +1,5 @@
 ---
-title: "02.05 Basic Rendering in Fusion 360"
-date: 2020-01-26T23:11:13Z
-draft: false
+title: Fusion 360 Basic Rendering
 ---
 
 ## Rendering Aspect Ratio

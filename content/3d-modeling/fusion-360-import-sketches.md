@@ -1,7 +1,5 @@
 ---
-title: "04.03 Import Sketches or Designs Fusion 360"
-date: 2020-01-26T23:11:13Z
-draft: false
+title: Fusion 360 Import Sketches
 ---
 
 Starting with a blank screen in a design can be challenging. Even if a rectangle is drawn as the first step in a sketch, there is no sense of scale. Adding dimensions to a sketch helps show scale.
