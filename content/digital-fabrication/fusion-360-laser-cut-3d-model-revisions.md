@@ -1,7 +1,5 @@
 ---
-title: "05.01 Laser Cut 3D Model Revisions"
-date: 2020-01-26T23:11:13Z
-draft: false
+title: Fusion 360 Laser Cut 3D Model Revisions
 ---
 
 ## Assess your Digital Model

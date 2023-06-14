@@ -6,7 +6,7 @@ draft: false
 
 ## Assignment Deliverables
 
-Upload 2 separate, labeled JPEGs of 2 different objects drawn in third angle projection on paper. One is drawn freehand and one is drawn with technical drawing tools.
+Upload 2 separate, labeled JPEGs of 2 different objects drawn in [third angle projection](../../../../drawing/third-angle-projection.md) on paper. One is drawn freehand and one is drawn with technical drawing tools.
 
 Label the files:
 

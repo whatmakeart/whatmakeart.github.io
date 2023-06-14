@@ -6,7 +6,7 @@ draft: false
 
 ## Assignment Deliverables
 
-You will upload three separate, scanned, and labeled JPEGs of the following technical sketching practice exercises:
+You will upload three separate, scanned, and labeled JPEGs of the following [technical sketching](../../../../drawing/technical-sketching.md) practice exercises:
 
 1.  Page of straight lines
 2.  Isometric Cube with three isometric circles drawn freehand
@@ -36,7 +36,7 @@ After you have a page of good straight lines, then follow the video to draw an i
 
 </div>
 
-![Freehand Isometric Cube with Circles Example](20220118-Isometric-Cube-with-Circles-Freehand-Example.jpg)
+![Freehand Isometric Cube with Circles Example](../../../../drawing/20220118-Isometric-Cube-with-Circles-Freehand-Example.jpg)
 
 </div>
 
@@ -48,7 +48,7 @@ Once you finish the freehand isometric cube, draw the same cube on a new sheet o
 
 </div>
 
-![T-Square Isometric Cube with Circles Example](20220118-Isometric-Cube-with-Circles-T-Square-Example.jpg)
+![T-Square Isometric Cube with Circles Example](../../../../drawing/20220118-Isometric-Cube-with-Circles-T-Square-Example.jpg)
 
 </div>
 

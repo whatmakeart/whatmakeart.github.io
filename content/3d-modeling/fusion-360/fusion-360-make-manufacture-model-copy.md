@@ -1,7 +1,5 @@
 ---
-title: "05.04 Make Manufacture Model Copy"
-date: 2020-01-26T23:11:13Z
-draft: false
+title: Fusion 360 Make Manufacture Model Copy
 ---
 
 [![Manufacture Model in Fusion 360](2023-fusion-360-create-manufacture-model.png)](2023-fusion-360-create-manufacture-model.png)

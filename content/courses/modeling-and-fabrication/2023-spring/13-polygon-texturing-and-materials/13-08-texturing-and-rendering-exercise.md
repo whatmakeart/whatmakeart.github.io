@@ -6,7 +6,7 @@ draft: false
 
 ## Assignment Deliverables
 
-1. Minimum of 2 render images of a created environment in Blender or Maya
+1. Minimum of 2 render images of a created environment in [Blender](../../../../3d-modeling/blender/blender.md) or [Maya](../../../../3d-modeling/maya/maya.md)
    - Minimum of 5 object meshes in scene
    - Minimum of 1 use of each of the following (Base Color, Metallic, Bump, Roughness)
    - Minimum of 3 light sources

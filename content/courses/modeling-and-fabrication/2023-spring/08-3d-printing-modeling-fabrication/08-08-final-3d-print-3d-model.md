@@ -13,7 +13,7 @@ draft: false
 
 ## Assignment Overview
 
-Using your ideation sketches, make a 3D digital model of your final 3d print. You are not limited to using Fusion 360. You can use polygon mesh modeling programs such as Blender or Maya. If you use Blender or Maya, you can use Fusion 360 to render your model since we have not covered rendering in Blender or Maya. Export your object as an .obj file and then import to Fusion 360 for rendering.
+Using your ideation sketches, make a 3D digital model of your final 3d print. You are not limited to using Fusion 360. You can use polygon mesh modeling programs such as [Blender](../../../../3d-modeling/blender/blender.md) or Maya. If you use Blender or Maya, you can use Fusion 360 to render your model since we have not covered rendering in Blender or Maya. Export your object as an .obj file and then import to Fusion 360 for rendering.
 
 ## Grading Rubric
 

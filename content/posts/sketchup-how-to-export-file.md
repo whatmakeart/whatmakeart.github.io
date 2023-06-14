@@ -14,7 +14,7 @@ spellcheck: off
 
 ## How to Export SketchUp Models for Rendering
 
-In this tutorial, I will show you how to export your SketchUp models for rendering in other applications. You can export your SketchUp models to Blender, a free and open source 3D modeling program, and to Maya, a professional 3D animation software.
+In this tutorial, I will show you how to export your SketchUp models for rendering in other applications. You can export your SketchUp models to [Blender](../3d-modeling/blender/blender.md), a free and open source 3D modeling program, and to Maya, a professional 3D animation software.
 
 To export your SketchUp model, follow these steps:
 

@@ -6,7 +6,7 @@ Numerous materials exist for making your ideas. Each material will have advantag
 
 ## Common Materials for Making
 
-- Cardboard
+- [Cardboard](../making/cardboard-construction.md)
 - Plastic
 - Tape
 - Glue

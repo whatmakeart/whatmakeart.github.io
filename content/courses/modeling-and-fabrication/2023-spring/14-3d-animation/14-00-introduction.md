@@ -19,8 +19,8 @@ draft: false
 ## Key Terms
 
 - animation
-- key frames
+- [keyframes](../../../../video/keyframes.md)
 - interpolation
 - graph editor
-- sound effect
-- shot types
+- [sound effect](../../../../video/adobe-premiere-add-music-and-sound.md)
+- [shot types](../../../../video/shot-types.md)

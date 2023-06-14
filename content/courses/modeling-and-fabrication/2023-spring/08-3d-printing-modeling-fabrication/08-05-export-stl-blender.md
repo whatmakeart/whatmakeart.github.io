@@ -4,7 +4,7 @@ date: 2020-01-26T23:11:13Z
 draft: false
 ---
 
-Blender's default unit scale is 1:1 meter. The default cube in a new Blender file is 2 units large, so it is a 2 x 2 x 2 meter cube. Scale is important for 3D prints. You can either model in meters, then scale the object to the correct size before export, or you can change the unit scale in Blender and work in millimeters. Sometimes it is easier to work larger and scale down but you may prefer to work at the exact size of the final object.
+[Blender](../../../../3d-modeling/blender/blender.md)'s default unit scale is 1:1 meter. The default cube in a new Blender file is 2 units large, so it is a 2 x 2 x 2 meter cube. Scale is important for 3D prints. You can either model in meters, then scale the object to the correct size before export, or you can change the unit scale in Blender and work in millimeters. Sometimes it is easier to work larger and scale down but you may prefer to work at the exact size of the final object.
 
 Exporting an STL from Blender is straightforward. Make sure you combine any objects made of multiple meshes with a boolean modifier set to exact. This way the part will be a solid, instead of being made up of different overlapping meshes.
 
@@ -16,7 +16,7 @@ Smooth preview can trick you in to thinking that you have a smoother model than 
 
 ## Blender STL Add-ons
 
-Blender has numerous add ons that ship with Blender as well as many add-ons available from the community. Some add-ons are enable by default, while others need to be enabled by the user. To see the addons for your Blender installation, go to Edit > Preferences > Add-ons. The Import-Export STL files add-on should be enabled by default. This is needed to have the STL export option available in the file menu.
+[Blender](../../../../3d-modeling/blender/blender.md) has numerous add ons that ship with Blender as well as many add-ons available from the community. Some add-ons are enable by default, while others need to be enabled by the user. To see the addons for your Blender installation, go to Edit > Preferences > Add-ons. The Import-Export STL files add-on should be enabled by default. This is needed to have the STL export option available in the file menu.
 
 [![Blender Import-Export STL Add-on](2023-blender-import-export-stl-add-on.png)](2023-blender-import-export-stl-add-on.png)
 

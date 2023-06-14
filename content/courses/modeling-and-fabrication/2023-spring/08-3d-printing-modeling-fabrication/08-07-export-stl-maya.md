@@ -8,7 +8,7 @@ Before exporting a mesh as an STL for 3D printing, it is important to make sure 
 
 ## Enable STL Translator Bundle Plugin
 
-By default Maya does not have an STL export option. The STL plugin needs to be enabled.
+By default [Maya](../../../../3d-modeling/maya/maya.md) does not have an STL export option. The STL plugin needs to be enabled.
 
 Go to Windows > Settings / Preferences > Plug In Manager ...
 

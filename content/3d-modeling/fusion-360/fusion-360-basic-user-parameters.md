@@ -1,7 +1,5 @@
 ---
-title: "04.02 Fusion 360 User Parameter Basics"
-date: 2020-01-26T23:11:13Z
-draft: false
+title: Fusion 360 Basic User Parameters
 ---
 
 In Fusion 360 you can create user parameters. These are values that you can use to change your model and update it completely through your design history. When you start a new design there are no user parameters. You can make as many user parameters as you want and also you can use equations to make user parameters.

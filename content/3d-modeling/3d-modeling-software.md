@@ -10,12 +10,12 @@ title: 3D Modeling Software
 
 ### Machinist and Maker 3D Modeling Software
 
-- [Fusion-360](fusion-360.md)
+- [Fusion-360](./fusion-360/fusion-360.md)
 - [Rhino](rhino.md)
-- [Blender](blender.md)
+- [Blender](blender/blender.md)
 
 ### Animation 3 Modeling Software
 
-- [Maya](maya.md)
-- [Blender](blender.md)
+- [Maya](maya/maya.md)
+- [Blender](blender/blender.md)
 - [3D Max](3d-max.md)

@@ -8,7 +8,7 @@ We covered the basics of 3D modeling in Maya earlier in the course. Maya is a ro
 
 ## Maya Basic Modeling Review
 
-The videos below go over the Maya user interface and the basic polygon modeling tools. If you have not used Maya, this is a good place to start. For more introductory modeling techniques, refer to the earlier course module.
+The videos below go over the [Maya](../../../../3d-modeling/maya/maya.md) user interface and the basic polygon modeling tools. If you have not used Maya, this is a good place to start. For more introductory modeling techniques, refer to the earlier course module.
 
 - [Maya User Interface](https://youtu.be/-SpVNiRqeKY)
 - [Maya Polygon Modeling Tools](https://youtu.be/eBEitxaRYQs)

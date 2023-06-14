@@ -6,7 +6,7 @@ draft: false
 
 ## Assignment Deliverables
 
-1. Render image of an object modeled in Blender or Maya (png, jpg)
+1. Render image of an object modeled in [Blender](../../../../3d-modeling/blender/blender.md) or [Maya](../../../../3d-modeling/maya/maya.md) (png, jpg)
    - Minimum 1920 x 1080 pixel render image
    - Minimum of 2 lights (can have more lights)
    - Minimum of 2 objects, model and background (can have many more objects)

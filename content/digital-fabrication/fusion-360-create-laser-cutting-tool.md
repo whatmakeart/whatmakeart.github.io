@@ -1,7 +1,5 @@
 ---
-title: "05.02 Create Laser Cutting Tool in Fusion 360"
-date: 2020-01-26T23:11:13Z
-draft: false
+title: Fusion 360 Create Laser Cutting Tool
 ---
 
 In order to create toolpaths in Fusion 360 we need to tell Fusion what tool we will use to cut out our pieces so the computer can do the proper calculations. The main dimension needed for a laser cutting tool is the width of the laser so Fusion can calculate the kerf offset. All cutting tools leave a gap where they pass through the material. If this gap is not accounted for then pieces will not be the expected size.

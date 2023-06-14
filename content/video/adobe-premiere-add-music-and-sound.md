@@ -1,7 +1,5 @@
 ---
-title: "14.07 Add Music and Sound"
-date: 2020-01-26T23:11:13Z
-draft: false
+title: Adobe Premiere Add Music and Sound
 ---
 
 In addition to rich visuals, adding music and sound to an animation will make it come alive. This video shows [how to add sound effects](https://youtu.be/Ds2QJryBf84) to a video project in Adobe Premiere. We will your Creative Commons Licensed music and sound effects to make the objects in our animation seem more real. We will also create our own sound effects. All CC licensed music and sounds must have proper written attribution in the credits at the end.

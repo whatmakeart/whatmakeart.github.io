@@ -28,8 +28,7 @@ draft: false
 
 ## Resources
 
-- [How to take a screenshot in Windows](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b)
-- [How to take a screenshot on OS X](https://support.apple.com/guide/mac-help/take-a-screenshot-mh26782/mac)
+- [How to take a screenshot](../../../../tutorials/how-to-take-a-screenshot.md)
 
 ### User Parameter Resources
 

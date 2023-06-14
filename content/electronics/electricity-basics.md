@@ -2,10 +2,6 @@
 title: Electricity Basics
 ---
 
-[Link to Nested](../sculpture/double-nest/link-testing.md)
-
-[Link to same level](electricity-safety.md)
-
 ## What is Electricity?
 
 Charged elections flow from one state to another usually from a negative charge to a positive charge while the current flows from the positive side to the negative side. Lighting and static electricity are examples of electricity in the natural environment. While light is cool to look at and it is fun to make your hair stand up with static electricity, neither are very useful in everyday scenarios. If this electron flow is directed through a conductor or wire in an electrical circuit it becomes much more practical. This current flow in a circuit can be used to do work such as turn on lights, make sounds, move motors, or run a heater.
