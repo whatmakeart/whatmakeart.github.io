@@ -6,19 +6,19 @@
 
 {{ $pages := .Site.RegularPages}}
 {{ range $pages }}
-{{ $currPagelink := substr .RelPermalink 0 }} <!-- Get link of page -->
-{{ $found := findRE $currRellink .Content 1 }}
-{{ $foundCourses := findRE `courses` $currPagelink }}<!-- Check if link of page has "courses "-->
-{{ if and (not $foundCourses) $found}} <!-- only append if backlink doesn't come from courses -->
-{{ $backlinks = $backlinks | append . }}
-{{ else }}
-{{ $rellink := substr .RelPermalink 0 }}
-{{ $rellink := printf `"%s"` $rellink }} <!-- adds quotes around outside to prevent finding common links like about -->
-{{ $found = findRE $rellink $currContent 1 }}
-{{ if $found }}
-{{ $forwardlinks = $forwardlinks | append . }}
-{{ end }}
-{{ end }}
+    {{ $currPagelink := substr .RelPermalink 0 }} <!-- Get link of page -->
+    {{ $found := findRE $currRellink .Content 1 }}
+    {{ $foundCourses := findRE `courses` $currPagelink }}<!-- Check if link of page has "courses "-->
+    {{ if and (not $foundCourses) $found}} <!-- only append if backlink doesn't come from courses -->
+        {{ $backlinks = $backlinks | append . }}
+    {{ else }}
+        {{ $rellink := substr .RelPermalink 0 }}
+        {{ $rellink := printf `"%s"` $rellink }} <!-- adds quotes around outside to prevent finding common links like about -->
+        {{ $found = findRE $rellink $currContent 1 }}
+        {{ if $found }}
+            {{ $forwardlinks = $forwardlinks | append . }}
+        {{ end }}
+    {{ end }}
 {{ end }}
 
 {{ $related := append $backlinks $forwardlinks }}
