@@ -65,7 +65,7 @@
         <aside class="bd-toc mt-4 mb-5 my-md-0 px-xl-3 mb-lg-5 text-muted" id="topTOC">
             {{ partial "toc.html" . }}
 
-            {{ partial "backlinks" . }}
+            {{ partial "backlinks.html" . }}
 
 
         </aside>
@@ -73,12 +73,12 @@
         <div class="bd-content ps-lg-4">
             {{ .Content }}
 
-            {{ partial "backlinks" . }}
+            {{ partial "backlinks.html" . }}
 
             <!-- Last Updated Date -->
             {{- if .Lastmod }}
 
-            {{- $lastmod := .Lastmod.Format "02.01.2006" }}
+            {{- $lastmod := .Lastmod.Format "January 2, 2006" }}
 
             <div class="post-info-last-mod">
                 (Updated:
