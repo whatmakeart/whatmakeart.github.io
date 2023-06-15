@@ -10,8 +10,8 @@ This tutorial will show how to build a wall for displaying or installing artwork
 
 To complete this tutorial you should be familiar with:
 
-- basic [Hand-Tools](../making/hand-tools.md)
-- [Wood-Fasteners](../wood-fasteners.md)
+- basic [Hand-Tools](./hand-tools.md)
+- [Wood-Fasteners](../woodworking/wood-fasteners.md)
 
 ## Instructions
 
@@ -19,6 +19,6 @@ The first step
 
 ## Further Reading
 
-[How to Finish Drywall](../tutorials/how-to-finish-drywall.md) [How to Hang Artwork](../tutorials/how-to-hang-artwork.md)
+[How to Finish Drywall](./how-to-finish-drywall.md) [How to Hang Artwork](../art-faq/how-to-hang-artwork.md)
 
 ### External Links

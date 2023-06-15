@@ -10,7 +10,7 @@ There are multiple ways to [Fabrication](../making/fabrication.md) metal includi
 
 ### How to Bend Steel
 
-- [How-to-Bend-Flat-Stock-in-a-Vise](../tutorials/how-to-bend-flat-stock-in-a-vise.md)
+- [How-to-Bend-Flat-Stock-in-a-Vise](./how-to-bend-flat-stock-in-a-vise.md)
 - Flat Stock with a Metal Break
 - Solid Round Bar
 - Hollow Tubing

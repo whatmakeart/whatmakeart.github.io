@@ -10,8 +10,8 @@ This tutorial will show you how to diagnose sewing machine thread tension issues
 
 To complete this tutorial you should be familiar with:
 
-- [How to Thread an Juki DDL 870 Industrial Sewing Machine](../tutorials/how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md) and / or [How-to-Thread-a-Home-Sewing-Machine](../tutorials/how-to-thread-a-home-sewing-machine.md)
-- [How to Wind a Bobbin](../tutorials/how-to-wind-a-bobbin.md)
+- [How to Thread an Juki DDL 870 Industrial Sewing Machine](../sewing/how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md) and / or [How-to-Thread-a-Home-Sewing-Machine](../sewing/how-to-thread-a-home-sewing-machine.md)
+- [How to Wind a Bobbin](./how-to-wind-a-bobbin.md)
 
 ## Instructions
 

@@ -8,7 +8,7 @@ iframes are not responsive by default. This code snippet shows how to add a bit 
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with [How-to-add-CSS-to-a-Webpage](../tutorials/how-to-add-css-to-a-webpage.md) and basic [HTML](html.md).
+To complete this tutorial you should be familiar with [How-to-add-CSS-to-a-Webpage](./how-to-add-css-to-a-webpage.md) and basic [HTML](html.md).
 
 ## Instructions
 
@@ -51,4 +51,4 @@ After following these instructions you should have an iframe that is responsive,
 
 ## Further Reading
 
-[Web-Design](web-design.md) [How to Make an Artist Portfolio Website](../tutorials/how-to-make-an-artist-portfolio-website.md)
+[Web-Design](web-design.md) [How to Make an Artist Portfolio Website](../art-faq/artist-portfolio-website-how-to-guide.md)

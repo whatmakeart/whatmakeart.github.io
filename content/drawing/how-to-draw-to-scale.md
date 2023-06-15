@@ -12,7 +12,7 @@ To complete this tutorial you should be familiar with:
 
 - [How to Use Measuring Tools Accurately](../tutorials/How-to-Use-Measuring-Tools-Accurately.md)
 - Basic [Drawing-Tools](../making/drawing-tools.md)
-- [Technical Drawing Tools](../Technical-Drawing-Tools.md)
+- [Technical Drawing Tools](./technical-drawing-tools.md)
 
 ## Instructions
 
@@ -20,6 +20,6 @@ The first step is to decide if you are scaling up the drawing or scaling down th
 
 ## Further Reading
 
-[How to Enlarge a Drawing with a Grid](../tutorials/how-to-enlarge-a-drawing-with-a-grid.md)
+[How to Enlarge a Drawing with a Grid](./how-to-enlarge-a-drawing-with-a-grid.md)
 
 ### External Links

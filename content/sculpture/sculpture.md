@@ -112,7 +112,7 @@ Clay sculpture is an [additive](../sculpture/additive-processes.md) and [Subtrac
 
 The following basic sculptural skills are necessary to have a fundamental understanding of how to make sculptural works.
 
-- [how-to-draw-to-scale](../tutorials/how-to-draw-to-scale.md)
+- [how-to-draw-to-scale](../drawing/how-to-draw-to-scale.md)
 - [How to Use Measuring Tools Accurately](../tutorials/how-to-use-measuring-tools-accurately.md)
 - Understand basic [Geometry](../making/geometry.md)
 - [How to Draw Ideation Sketches]..(/art-faq/how-to-draw-ideation-sketches.md)

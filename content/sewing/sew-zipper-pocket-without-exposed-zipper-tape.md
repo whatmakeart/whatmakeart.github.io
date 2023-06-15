@@ -8,7 +8,7 @@ This tutorial will
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with [How to Attach Fusible Interfacing](../tutorials/How-to-Attach-Fusible-Interfacing)
+To complete this tutorial you should be familiar with [How to Attach Fusible Interfacing](./how-to-attach-fusible-interfacing.md)
 
 ## Instructions
 

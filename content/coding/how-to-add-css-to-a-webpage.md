@@ -22,4 +22,4 @@ After following these instructions you should
 
 ## Further Reading
 
-[HTML](../coding/html.md) [CSS](../coding/css.md) [JavaScript](../coding/javascript.md) [Web Design](../coding/web-design.md)
+[HTML](./html.md) [CSS](./css.md) [JavaScript](./javascript.md) [Web Design](./web-design.md)

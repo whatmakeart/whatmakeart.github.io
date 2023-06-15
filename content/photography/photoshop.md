@@ -24,4 +24,4 @@ So much I spent sand filters can be made into smart filters that are non-destruc
 
 ## Photoshop Tutorials
 
-[fix-photoshop-masks-with-dodge-and-burn](../tutorials/fix-photoshop-masks-with-dodge-and-burn.md)
+[fix-photoshop-masks-with-dodge-and-burn](../software/fix-photoshop-masks-with-dodge-and-burn.md)

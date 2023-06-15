@@ -10,7 +10,7 @@ Woodworking is the manipulation of wood material into new forms and designs. Woo
 
 - [How to Use a Panel Saw](how-to-use-a-panel-saw.md)
 - [How to Use a Table Saw](how-to-use-a-table-saw.md)
-- [How to Use a Compound Miter Saw](../tutorials/how-to-use-a-compound-miter-saw.md)
+- [How to Use a Compound Miter Saw](./how-to-use-a-compound-miter-saw.md)
 - [How to Use a Bandsaw](how-to-use-a-bandsaw.md)
 - [How to use a Scrollsaw](how-to-use-a-scroll-saw.md)
 - [How to Use a Crosscut Sled](how-to-use-a-crosscut-sled.md)
@@ -53,10 +53,10 @@ Woodworking is the manipulation of wood material into new forms and designs. Woo
 - [How to Use Driver Drills](how-to-use-a-driver-drill.md)
 - [Countersinking](../making/countersinking.md)
 - [How to Use. Wood Clamps](how-to-use-Wood-clamps.md)
-- [How to Use Wood Glue](../tutorials/how-to-use-wood-glue.md)
+- [How to Use Wood Glue](./how-to-use-wood-glue.md)
 - [How to Use Wood Dowels](how-to-use-wood-dowels.md)
 - [How to Use Wood Biscuits](how-to-use-wood-biscuits.md)
-- [how-to-build-a-wall](../tutorials/how-to-build-a-wall.md)
+- [how-to-build-a-wall](../making/how-to-build-a-wall.md)
 - [How to Use Lag Screws](how-to-use-lag-screws.md)
 
 ### Bending Wood
