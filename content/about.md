@@ -27,6 +27,7 @@ Tech Wikis https://github.com/MicrosoftDocs/azure-docs https://docs.github.com/e
 
 ### Examples of Coursework and Research Publicly Accessible
 
+- [MIT Rapid Prototyping Course](http://fab.cba.mit.edu/classes/865.18/index.html)
 - [Stanford CS 161](https://stanford-cs161.github.io/) - Stanford Computer Science Course
 - [Rat Factor Personal Wiki](https://ratfactor.com/hugo-adoc-html5s)
 - [Interaction Station Wiki on Wikimedia](https://interactionstation.wdka.hro.nl/wiki/Main_Page)

@@ -5,7 +5,7 @@ title: Blender 3D Modeling
 - [Blender User Interface](https://docs.blender.org/manual/en/dev/interface/index.html)
 - [Blender Move Objects](https://youtu.be/t4MtOUyOkPM)
 
-[![Blender default scene](./2023-blender-default-scene.png)](./2023-blender-default-scene.png)
+[![Blender default scene](./attachments/2023-blender-default-scene.png)](./attachments/2023-blender-default-scene.png)
 
 <div class="video-grid">
 

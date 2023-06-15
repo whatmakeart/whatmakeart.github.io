@@ -10,7 +10,7 @@ Whether running your studio, completing a public art commission, bidding for a f
 
 ## Contracts
 
-Contracts are essential to not being taken advantage of in business transactions. Contracts don't guarantee that you won't be taken advantage of but good contracts written with both parties interests facilitate smooth transactions and provide a way to handle disputes. Never enter into a monetary agreement without a signed contract. Many artists make a mistake and work on good faith conversations, but this is a risky way to run a business. Ask for advice along the way to learn more about [Contracts-for-Artists](contracts-for-artists.md).
+Contracts are essential to not being taken advantage of in business transactions. Contracts don't guarantee that you won't be taken advantage of but good contracts written with both parties interests facilitate smooth transactions and provide a way to handle disputes. Never enter into a monetary agreement without a signed contract. Many artists make a mistake and work on good faith conversations, but this is a risky way to run a business. Ask for advice along the way to learn more about [Contracts for Artists](contracts-for-artists.md).
 
 ## Portfolio
 
@@ -26,6 +26,6 @@ Having an online presence allows your work to showcase your talents even while y
 
 ## Art School?
 
-Do you need to go to art school to be a professional artist? The short answer is "No." but you can learn lots of necessary skills and techniques in an efficient way by going to art school rather than attempting to learn everything on your own.
+Do you need to go to [art school](art-schools.md) to be a professional artist? The short answer is "No." but you can learn lots of necessary skills and techniques in an efficient way by going to art school rather than attempting to learn everything on your own.
 
 What about going to grad school for art? This is a more complicated question. The simple answer is to make sure that the school is covering your grad school tuition and hopefully giving you a stipend for living expenses. If you are interesting in grad school then I recommend reading this list of articles about whether or not you should [Go to Grad School](grad-school.md).

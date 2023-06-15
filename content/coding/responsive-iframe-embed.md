@@ -12,7 +12,7 @@ To complete this tutorial you should be familiar with [How-to-add-CSS-to-a-Webpa
 
 ## Instructions
 
-The first step is to add the following CSS to your stylesheet. The padding bottom and height 0 are for 16:9 aspect ratio video embeds. If you want to make the iframe expand to the full frame of the page, remove the bottom padding and make the height 100%.
+The first step is to add the following [CSS](css.md) to your stylesheet. The padding bottom and height 0 are for 16:9 aspect ratio video embeds. If you want to make the iframe expand to the full frame of the page, remove the bottom padding and make the height 100%.
 
 ### CSS
 

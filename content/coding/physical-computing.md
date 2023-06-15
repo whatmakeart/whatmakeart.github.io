@@ -12,7 +12,7 @@ The [Raspberry Pi](../raspberry-pi/raspberry-pi.md) is an example of a single bo
 
 ## Arduino
 
-The arduino is a cheap, simple single board multiprocessor with digital and analog input and output pins.
+The Arduino is a cheap, simple single board multiprocessor with digital and analog input and output pins.
 
 ## Arduino Tutorials
 

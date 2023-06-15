@@ -19,8 +19,6 @@ Have good lighting and a good composition for both the photos with a neutral bac
 
 There is a photo stand at the think[box]that is perfect for documenting small objects. You can take your laser cut project to the think[box] and use the soft boxes and flashes already set up. Follow the [instructions](https://case.edu/thinkbox/equipment/other-equipment/photography-studio) provided by the think[box]. Do not use your cell phone with this setup.
 
-![think[box] photo stand](2021-thinkbox-photo-stand.jpg)
-
 ## Document Your Project in the Environment
 
 In addition to the photos with a photo backdrop or at the think[box] take a minimum of 2 photos of the laser cut in use in the environment. This will tell a story about the object and offer the viewer different insights into the design over the more sterile neutral background.

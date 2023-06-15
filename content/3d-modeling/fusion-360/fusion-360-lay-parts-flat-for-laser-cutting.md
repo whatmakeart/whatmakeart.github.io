@@ -12,7 +12,7 @@ Once your model is complete and each piece is a separate and labeled component, 
 
 <figure>
 
-[![Laser Cut Stand CAM Layout](2021-Laser-Cut-Stand-CAM-Layout-Top.png)](2021-Laser-Cut-Stand-CAM-Layout-Top.png)
+[![Laser Cut Stand CAM Layout](attachments/2021-Laser-Cut-Stand-CAM-Layout-Top.png)](attachments/2021-Laser-Cut-Stand-CAM-Layout-Top.png)
 
 <figcaption>
 

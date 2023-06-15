@@ -10,11 +10,11 @@ Fusion 360 is a parametric modeling program. Specific dimensions, sketches, and 
 
 Fusion has a version of mesh modeling called the Form workspace. In this workspace t-spline forms can be manipulated into complex organic shapes. Then once the form is complete, it is converted to a solid body and then all of the powerful parametric design features of Fusion can be used. By combining organic forms from the form workspace with precise parametric parts in the Design workspace unique and useful designs can be made.
 
-[![Form Workspace](2023-form-workspace-fusion-360.png)](2023-form-workspace-fusion-360.png)
+[![Form Workspace](attachments/2023-form-workspace-fusion-360.png)](attachments/2023-form-workspace-fusion-360.png)
 
 To get to the Form workspace, click on the purple cube at the top of the solid menu in the Design workspace. This add new options for create and modify to the menu. Instead of seeing blue icons for the form primitives and modify commands, icons are purple, indicating that t-splines will be created. T-Splines are forms with vertices or points, edges or lines, and faces. The edges connect two points. and the faces are formed by 3 or more edges.
 
-[![Create a T-Spline Box](2023-create-t-spline-box.png)](2023-create-t-spline-box.png)
+[![Create a T-Spline Box](attachments/2023-create-t-spline-box.png)](attachments/2023-create-t-spline-box.png)
 
 In the form workspace you can create a sketch, box, plane, cylinder, sphere, torus, quadball, pipe, or a face. Forms can also be created from operations including extrude, revolve, sweep, and loft. Notice that there are new items such as quadball and face and some items are missing like hole, coil, rib, emboss, and screw.
 

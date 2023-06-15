@@ -10,11 +10,11 @@ This [video](https://youtu.be/9utpuieg5lI) shows the process of creating a simpl
 
 <div class="gallery-grid">
 
-![CNC Hex Stool Rendering](2021-hex-stool-rendering.jpg)
+![CNC Hex Stool Rendering](attachments/2021-hex-stool-rendering.jpg)
 
-![CNC Hex Stool Parts Layed Flat](2021-hex-stool-rendering-parts-flat.jpg)
+![CNC Hex Stool Parts Layed Flat](attachments/2021-hex-stool-rendering-parts-flat.jpg)
 
-![CNC Hex Stool Parts Layed Flat Screenshot](2021-hex-stool-screenshot-parts-flat.png)
+![CNC Hex Stool Parts Layed Flat Screenshot](attachments/2021-hex-stool-screenshot-parts-flat.png)
 
 </div>
 
@@ -24,11 +24,11 @@ This [video](https://youtu.be/GzknioA34F8) shows the process of creating a simpl
 
 <div class="gallery-grid">
 
-![End Table Rendering](2021-end-table-rendering.jpg)
+![End Table Rendering](attachments/2021-end-table-rendering.jpg)
 
-![End Table Parts Flat](2021-end-table-rendering-parts-flat.jpg)
+![End Table Parts Flat](attachments/2021-end-table-rendering-parts-flat.jpg)
 
-![End Table Parts Flat Screenshot](2021-end-table-screenshot-parts-flat.png)
+![End Table Parts Flat Screenshot](attachments/2021-end-table-screenshot-parts-flat.png)
 
 </div>
 
@@ -38,11 +38,11 @@ This [video](https://youtu.be/I6FEMdtcrpI) shows the process of creating a simpl
 
 <div class="gallery-grid">
 
-![CNC Circle Stool Rendering](2021-circle-stool-rendering.jpg)
+![CNC Circle Stool Rendering](attachments/2021-circle-stool-rendering.jpg)
 
-![CNC Circle Stool Parts Layed Flat](2021-circle-stool-rendering-parts-flat.jpg)
+![CNC Circle Stool Parts Layed Flat](attachments/2021-circle-stool-rendering-parts-flat.jpg)
 
-![CNC Circle Stool Parts Layed Flat Screenshot](2021-circle-stool-screenshot-of-parts-flat.png)
+![CNC Circle Stool Parts Layed Flat Screenshot](attachments/2021-circle-stool-screenshot-of-parts-flat.png)
 
 </div>
 
@@ -52,11 +52,11 @@ This [video](https://youtu.be/GqXQ8TdzYRE) shows the process of creating a simpl
 
 <div class="gallery-grid">
 
-![CNC Plywood Chair](2021-cnc-chair-rendering.png)
+![CNC Plywood Chair](attachments/2021-cnc-chair-rendering.png)
 
-![CNC Plywood Chair Parts Layed Flat](2021-cnc-chair-rendering-parts-flat.jpg)
+![CNC Plywood Chair Parts Layed Flat](attachments/2021-cnc-chair-rendering-parts-flat.jpg)
 
-![CNC Plywood Chair Parts Layed Flat Screenshot](2021-cnc-chair-screenshot-parts-flat.png)
+![CNC Plywood Chair Parts Layed Flat Screenshot](attachments/2021-cnc-chair-screenshot-parts-flat.png)
 
 </div>
 

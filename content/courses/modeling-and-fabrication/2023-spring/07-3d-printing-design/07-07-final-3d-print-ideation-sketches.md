@@ -49,7 +49,7 @@ Lego is fun but Lego is still an extant company with trademarks, patents and cop
 
 ### Sculpt in a 3D Sculpting Program
 
-Use [Blender](../../../../3d-modeling/blender/blender.md), Mudbox, or other 3D sculpting program to make a detailed 3D sculpture that would not be possible with polygon modeling. Export the sculpture as an .obj file for further import and parametric modeling in Fusion 360 or export as an STL file for direct printing. If you use this technique of digital sculpting, you should intentionally make something that could not be make with polygon modeling or solid parametric modeling alone. Consider combining sculpting techniques with a parametrically modeled base or support.
+Use [Blender](../../../../3d-modeling/blender/blender.md), Mudbox, or other 3D sculpting program to make a detailed 3D sculpture that would not be possible with polygon modeling. Export the sculpture as an .obj file for further import and [parametric modeling](../../../../3d-modeling/parametric-modeling.md) in Fusion 360 or export as an STL file for direct printing. If you use this technique of digital sculpting, you should intentionally make something that could not be make with polygon modeling or solid parametric modeling alone. Consider combining sculpting techniques with a parametrically modeled base or support.
 
 ## Grading Rubric
 

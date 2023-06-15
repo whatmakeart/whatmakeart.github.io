@@ -20,6 +20,12 @@ This software and digital tool list focuses on tools that have many uses outside
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 - [Blender](../3d-modeling/blender/blender.md)
 
+## 3D Modeling Software
+
+- [Blender](../3d-modeling/blender/blender.md)
+- [Maya](../3d-modeling/maya/maya.md)
+- [SketchUp](../3d-modeling/sketchup/sketchup.md)
+
 ## Basic Software Tutorials
 
 [how-to-take-a-screenshot](../tutorials/how-to-take-a-screenshot.md)

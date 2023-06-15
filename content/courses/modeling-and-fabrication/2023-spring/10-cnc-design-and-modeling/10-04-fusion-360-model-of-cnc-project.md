@@ -6,7 +6,7 @@ draft: false
 
 ## Assignment Deliverables
 
-1. Exported Fusion 360 File (.f3d file)
+1. Exported Fusion 360 File (.f3d file) [How to Export Fusion 360 .f3d File](../../../../3d-modeling/fusion-360/fusion-360-export-f3d-file.md)
    - Label file YYYYMMDD Lastname Firstname CNC Project Model.f3d
 2. One Rendering of CNC Project with appearances applied. Should be in a 4:3 1:1 or 16:9 aspect ration with one side at least 4000px (.png or .jpg)
    - Label file YYYYMMDD Lastname Firstname CNC Project Rendering.f3d
@@ -20,11 +20,11 @@ draft: false
 3. Make sure that no parts overlap each other, especially where the joints are. Under the Inspect tab in Fusion 360, use the "interference" tool to check for overlapping parts.
 4. Apply materials and make a rendering of the project.
 5. Switch to the Manufacture Workspace.
-6. Create a manufacture model.
+6. [Create a manufacture model](../../../../3d-modeling/fusion-360/fusion-360-make-manufacture-model-copy.md).
 7. Right click on the manufacture model to edit.
 8. Draw a sketch on the ground plane to represent the 24" x 60" piece of plywood.
-9. Use arrange toll to place all the parts flat on the sketch. If all of the parts do not fit, then you will need to use a bigger piece of plywood. Edit the size of the plywood sketch until the parts fit or change the size of the model until the parts fit.
-10. Take a screenshot or make a rendering of your parts laid flat. To make the screenshot or rendering more interesting, unhide the assembled model so you can see the flat parts and the assembled model at the same time.
+9. Use arrange tool to place all the parts flat on the sketch.  If all of the parts do not fit, then you will need to use a bigger piece of plywood. Edit the size of the plywood sketch until the parts fit or change the size of the model until the parts fit.
+10. Take a screenshot or make a rendering of your parts laid flat. To make the screenshot or rendering more interesting, unhide the assembled model so you can see the flat parts and the assembled model at the same time. 
 
 ## Resources
 

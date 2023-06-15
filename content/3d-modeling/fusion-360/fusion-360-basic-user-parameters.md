@@ -22,7 +22,7 @@ Sometimes when user parameters are changed, parts of the model might "break." If
 
 <figure>
 
-[![Laser Cut User Parameters](2021-Laser-Cut-User-Parameters.png)](2021-Laser-Cut-User-Parameters.png)
+[![Laser Cut User Parameters](attachments/2021-Laser-Cut-User-Parameters.png)](attachments/2021-Laser-Cut-User-Parameters.png)
 
 <figcaption>
 

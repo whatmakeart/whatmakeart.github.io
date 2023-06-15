@@ -2,7 +2,7 @@
 title: Writing
 ---
 
-Artists, makers, and designers need to be proficient in many types of writing ranging for jotting down quick ideas, writing [artist statements](how-to-write-an-artist-statement.md), drafting proposals, or completing reports for clients.
+[Artists](artists.md), makers, and designers need to be proficient in many types of writing ranging for jotting down quick ideas, writing [artist statements](how-to-write-an-artist-statement.md), drafting proposals, or completing reports for clients.
 
 ## Smart People Write Things Down
 

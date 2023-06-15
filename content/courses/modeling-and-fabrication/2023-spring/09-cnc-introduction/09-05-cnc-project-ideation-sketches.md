@@ -15,7 +15,7 @@ draft: false
 
 In this project we will design a stool, chair, end table or another large supportive device with an intended purpose such as perfectly holding a PS5. If your desired design is not listed, such as a piggy bank holder, that is ok. Your designs and concepts must result in semi complex supportive devices made of interlocking pieces of CNC cut plywood. After that the content or design is up to you.
 
-![[CNC Stool Example](../2021-cnc-stool-example.jpg)](../2021-cnc-stool-example.jpg)
+![[CNC Stool Example](./2021-cnc-stool-example.jpg)](./2021-cnc-stool-example.jpg)
 
 ### Design Requirements
 
