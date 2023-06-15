@@ -1,22 +1,20 @@
-{{ $currRellink := substr .RelPermalink 0 }}
+{{ $currRellink := substr .RelPermalink 0 -1 }}<!-- needed for removing the trailing slash for search unless it can be added back in with path.Join -->
 {{ $currRellink := printf `"%s"` $currRellink }} <!-- adds quotes around outside to prevent finding common words as links like about -->
 {{ $currContent := .Content }}
 {{ $backlinks := slice }}
 {{ $forwardlinks := slice }}
 
+{{ $pages := where .Site.RegularPages ".Section" "not in" (slice  "courses" ) }}<!-- regular non list pages not in section courses -->
 
-{{ $pages := .Site.RegularPages}}
 {{ range $pages }}
-    {{ $currPagelink := substr .RelPermalink 0 }} <!-- Get link of page -->
     {{ $found := findRE $currRellink .Content 1 }}
-    {{ $foundCourses := findRE `courses` $currPagelink }}<!-- Check if link of page has "courses "-->
-    {{ if and (not $foundCourses) $found}} <!-- only append if backlink doesn't come from courses -->
-        {{ $backlinks = $backlinks | append . }}
+        {{ if $found}} <!-- only append if backlink doesn't come from courses -->
+            {{ $backlinks = $backlinks | append . }}
         {{ else }}
-            {{ $rellink := substr .RelPermalink 0 }}
+            {{ $rellink := substr .RelPermalink 0 -1}}<!-- needed for removing the trailing slash for search unless it can be added back in with path.Join -->
             {{ $rellink := printf `"%s"` $rellink }} <!-- adds quotes around outside to prevent finding common links like about -->
             {{ $found = findRE $rellink $currContent 1 }}
-        {{ if and (not $foundCourses) $found}} <!-- only append if backlink doesn't come from courses -->
+        {{ if $found }}
             {{ $forwardlinks = $forwardlinks | append . }}
         {{ end }}
     {{ end }}
