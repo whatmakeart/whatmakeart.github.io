@@ -9,4 +9,4 @@ toc: true
 
 ![Ld](../../../../electronics/electricity-basics.md)
 
-![dd](../../../../digital-fabrication/3d-printing.md)
+![dd](../../../../digital-fabrication/3d-printing/3d-printing.md)

@@ -58,8 +58,8 @@ Digital fabrication uses [3D-Modeling](../3d-modeling/3d-modeling.md) to create 
 
 ### Types of Digital Fabrication
 
-[Laser-Cutting](../digital-fabrication/laser-cutting.md) uses a high powered laser to cut through wood, metal and plastic. A laser cutter can also etch designs and images. [CNC](../digital-fabrication/cnc.md) Machining uses spinning cutters that move along a precise coordinate system.  
-[3D-Printing](../digital-fabrication/3d-printing.md) builds up an object layer by layer. [Vinyl Cutting](../digital-fabrication/vinyl-cutting.md) cuts rolls of vinyl based on vector graphic input. [Water Jet Cutting](../digital-fabrication/water-jet-cutting.md) uses high powered streams of water carrying abrasive particles to cut through a wide variety of materials.
+[Laser-Cutting](../digital-fabrication/laser-cutting/laser-cutting.md) uses a high powered laser to cut through wood, metal and plastic. A laser cutter can also etch designs and images. [CNC](../digital-fabrication/cnc/cnc.md) Machining uses spinning cutters that move along a precise coordinate system.  
+[3D-Printing](../digital-fabrication/3d-printing/3d-printing.md) builds up an object layer by layer. Vinyl Cutting cuts rolls of vinyl based on vector graphic input. [Water Jet Cutting](../digital-fabrication/water-jet-cutting.md) uses high powered streams of water carrying abrasive particles to cut through a wide variety of materials.
 
 ### Fabrication Tools
 

@@ -5,4 +5,4 @@ toc: true
 draft: false
 ---
 
-![Link to included file content](../../../../digital-fabrication/fusion-360-create-laser-cutting-tool.md)
+![Link to included file content](../../../../digital-fabrication/laser-cutting/fusion-360-create-laser-cutting-tool.md)

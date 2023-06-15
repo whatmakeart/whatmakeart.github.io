@@ -15,7 +15,7 @@ draft: false
 3. Sand down rough edges.
 4. Assemble and glue your project. You can use fasteners as well as any other tool in the shop.
 
-![Link to included file contents](../../../../digital-fabrication/shopbot-securing-the-workpiece.md)
+![Link to included file contents](../../../../digital-fabrication/cnc/shopbot-securing-the-workpiece.md)
 
 ## Project Resources
 

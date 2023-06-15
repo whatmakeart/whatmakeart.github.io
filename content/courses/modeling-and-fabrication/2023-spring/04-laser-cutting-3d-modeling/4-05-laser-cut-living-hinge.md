@@ -5,4 +5,4 @@ toc: true
 draft: false
 ---
 
-![Link to included file content](../../../../digital-fabrication/laser-cut-living-hinge.md)
+![Link to included file content](../../../../digital-fabrication/laser-cutting/laser-cut-living-hinge.md)

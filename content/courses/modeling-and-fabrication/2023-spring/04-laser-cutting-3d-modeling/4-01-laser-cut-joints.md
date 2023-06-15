@@ -5,4 +5,4 @@ toc: true
 draft: false
 ---
 
-![Link to included file content](../../../../digital-fabrication/laser-cut-joints.md)
+![Link to included file content](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md)

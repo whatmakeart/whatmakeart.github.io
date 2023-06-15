@@ -5,4 +5,4 @@ toc: true
 draft: false
 ---
 
-![Link to included file content](../../../../digital-fabrication/cnc-tolerance-and-fit.md)
+![Link to included file content](../../../../digital-fabrication/cnc/cnc-tolerance-and-fit.md)

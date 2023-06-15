@@ -1,7 +1,5 @@
 ---
-title: "06.03 Organic Forms with T-Splines"
-date: 2020-01-26T23:11:13Z
-draft: false
+title: Fusion 360 Organic Forms with T-Splines
 ---
 
 ## Direct Modeling

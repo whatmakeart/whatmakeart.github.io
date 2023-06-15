@@ -5,4 +5,4 @@ toc: true
 draft: false
 ---
 
-![Link to included file contents](../../../../digital-fabrication/fusion-360-laser-cut-3d-model-revisions.md)
+![Link to included file contents](../../../../digital-fabrication/laser-cutting/fusion-360-laser-cut-3d-model-revisions.md)

@@ -2,7 +2,7 @@
 title: ShopBot Toolpaths Fusion 360
 ---
 
-Since the height of [materials](../sculpture/materials-for-making.md) can vary, we will create toolpaths reference to the bottom of the stock or the cutting bed. This avoids cutting deep into the flat cutting surface, thereby prolonging its useful life, and cuts all the way through the material. For highly accurate engraving or non-through cuts, tool paths can be created that reference the top of the material.
+Since the height of [materials](../../sculpture/materials-for-making.md) can vary, we will create toolpaths reference to the bottom of the stock or the cutting bed. This avoids cutting deep into the flat cutting surface, thereby prolonging its useful life, and cuts all the way through the material. For highly accurate engraving or non-through cuts, tool paths can be created that reference the top of the material.
 
 ## Vertical Offset
 

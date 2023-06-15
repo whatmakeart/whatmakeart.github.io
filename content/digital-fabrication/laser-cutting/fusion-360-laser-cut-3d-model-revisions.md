@@ -38,4 +38,4 @@ Showing the components as different colors can help make sense of a complicated 
 
 Note: Sometimes Fusion 360 picks colors that look similar.
 
-[![Display Component Colors Fusion 360](2023-fusion-360-display-component-colors.jpg)](2023-fusion-360-display-component-colors.png)
+[![Display Component Colors Fusion 360](./2023-fusion-360-display-component-colors.jpg)](./2023-fusion-360-display-component-colors.png)

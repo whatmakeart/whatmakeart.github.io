@@ -5,4 +5,4 @@ toc: true
 draft: false
 ---
 
-![Link to included file content](../../../../digital-fabrication/prepare-dxf-file-for-laser-cutting.md)
+![Link to included file content](../../../../digital-fabrication/laser-cutting/prepare-dxf-file-for-laser-cutting.md)

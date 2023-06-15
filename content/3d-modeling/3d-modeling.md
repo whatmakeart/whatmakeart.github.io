@@ -17,7 +17,7 @@ Software used for [3D-Modeling](3d-modeling-software.md) has multiple different 
 
 The whole point of 3D modeling is the design process how do we go from something that's in our head to actually make it into our model. We're less interested in mastering all the intricacies of a particular piece of software then we are about having good ideas and sound processes We want to have good concepts and things that are thought out in ideated upon and iterated on
 
-We will start with analog tools and use those processes to refine our sketches before spending time in 3D models We want to quickly be able to output something and then test it
+We will start with analog tools and use those processes to refine our [sketches](../drawing/technical-sketching.md) before spending time in 3D models We want to quickly be able to output something and then test it
 
 The testing of our ideas and concepts whether aesthetic or physical is important. We want to not have precious ideas and thoughts that good great if not let's do something else.
 
@@ -25,4 +25,4 @@ We will do tests and then evaluate and then do again.
 
 ### Physical Output from Digital 3D Models
 
-Digital 3D models are great for visualization, simulation, VR, video games, and for archiving but are still not physical objects. [Laser Cutting](../digital-fabrication/laser-cutting.md), [CNC](../digital-fabrication/cnc.md) machining, [3D Printing](../digital-fabrication/3d-printing.md), vinyl cutting, and [Water Jet Cutting](../digital-fabrication/water-jet-cutting.md) are fabrication processes that create physical outputs and objects from digital 3D models.
+Digital 3D models are great for visualization, simulation, VR, video games, and for archiving but are still not physical objects. [Laser Cutting](../digital-fabrication/laser-cutting/laser-cutting.md), [CNC](../digital-fabrication/cnc/cnc.md) machining, [3D Printing](../digital-fabrication/3d-printing/3d-printing.md), vinyl cutting, and [Water Jet Cutting](../digital-fabrication/water-jet-cutting.md) are fabrication processes that create physical outputs and objects from digital 3D models.

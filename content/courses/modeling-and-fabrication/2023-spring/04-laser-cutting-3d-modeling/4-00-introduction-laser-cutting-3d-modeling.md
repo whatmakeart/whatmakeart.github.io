@@ -20,4 +20,4 @@ This module continues the design and fabrication process based on the ideation a
 - dxf
 - finger joint
 - tool path
-- user parameters
+- [user parameters](../../../../3d-modeling/fusion-360/fusion-360-basic-user-parameters.md)

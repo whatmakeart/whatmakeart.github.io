@@ -5,4 +5,4 @@ toc: true
 draft: false
 ---
 
-![Link to included file content](../../../../digital-fabrication/create-shopbot-tool-fusion-360.md)
+![Link to included file content](../../../../digital-fabrication/cnc/create-shopbot-tool-fusion-360.md)

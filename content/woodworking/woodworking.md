@@ -44,7 +44,7 @@ Woodworking is the manipulation of wood material into new forms and designs. Woo
 - [How to Use a Drill Press](how-to-use-a-drill-press.md)
 - [How to Use a Hand Drill](how-to-use-a-hand-drill.md)
 - [How to Use a Jig Saw](how-to-use-a-jig-saw.md)
-- [CNC](../digital-fabrication/cnc.md) cutting wood
+- [CNC](../digital-fabrication/cnc/cnc.md) cutting wood
 
 ### Assembling Wood
 

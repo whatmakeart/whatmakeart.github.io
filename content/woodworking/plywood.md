@@ -28,4 +28,4 @@ One of the disadvantages of plywood is that it is difficult to nail or screw int
 
 One way to make strong joints into the edge of plywood is to use a particular type of wood fastener called a cam lock. You probably have seen these in flat pack furniture products. And one piece of plywood there is a hole with another whole perpendicular to it that a cam is inserted into. In the joining piece of plywood, a rod is inserted that has a specific shape on the end that locks into the cam. Then the cam is twisted and the pieces cannot pull apart.
 
-Using this type of joining technique requires proper planning and precise measuring. It is a good use case for [CNC](../digital-fabrication/cnc.md) machining of plywood after a 3D model is created.
+Using this type of joining technique requires proper planning and precise measuring. It is a good use case for [CNC](../digital-fabrication/cnc/cnc.md) machining of plywood after a 3D model is created.
