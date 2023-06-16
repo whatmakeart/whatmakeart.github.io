@@ -7,3 +7,19 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# data
+.vscode
+.npmrc
+.netlify
+.firebase
+.nova
+.unlighthouse
+
+# editors
+.obsidian
+
+# hugo
+.hugo_build.lock
+static/_pagefind
+node_modules
