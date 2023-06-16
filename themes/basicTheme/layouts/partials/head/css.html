@@ -6,13 +6,11 @@
 
  -->
 
-
-
 {{ $bootstrapCSS := resources.Get "css/bootstrap.min.css" }}
 {{ $bootstrapDocsCSS := resources.Get "css/bootstrap-docs.css" }}
 {{ $stylesCSS := resources.Get "css/styles.css" }}
 {{ $css := slice $bootstrapCSS $bootstrapDocsCSS $stylesCSS | resources.Concat "css/main.css" }}
 
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" media="screen">
-<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/gutenberg.css" media="print">
-<link href="{{ .Site.BaseURL }}artsearch/pagefind-ui.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/gutenberg.css" media="print">
+<link href="artsearch/pagefind-ui.css" rel="stylesheet">
