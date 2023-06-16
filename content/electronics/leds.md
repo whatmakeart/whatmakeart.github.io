@@ -4,7 +4,7 @@ title: LEDs
 
 ## Single LED Shape
 
-[![Yellow LED](../../../../copyright/LED-yellow.jpg)](../../../../copyright/LED-yellow.jpg)
+[![Yellow LED](./LED-yellow.jpg)](./LED-yellow.jpg)
 
 Single LEDs or light emitting diodes have a long end the "anode" or positive + end and a short end the "cathode" or negative - end. Sometime the negative side of the LED is flattened to help identify it.
 

@@ -8,7 +8,7 @@
 {{ $bootstrapCSS := resources.Get "css/bootstrap.min.css" }}
 {{ $bootstrapDocsCSS := resources.Get "css/bootstrap-docs.css" }}
 {{ $stylesCSS := resources.Get "css/styles.css" }}
-{{ gutenbergCSS := resources.Get "css/gutenberg.css" | minify }}
+{{ $gutenbergCSS := resources.Get "css/gutenberg.css" | minify }}
 {{ $css := slice $bootstrapCSS $bootstrapDocsCSS $stylesCSS | resources.Concat "css/main.css" }}
 
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" media="screen">
