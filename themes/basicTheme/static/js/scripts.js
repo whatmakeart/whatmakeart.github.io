@@ -124,7 +124,9 @@ function removeNavigationEmbed() {
 
 let resizeObserver = new ResizeObserver(() => {
   console.log("The element was resized");
-  sendIframeHeight();
+  if (self != top) {
+    sendIframeHeight();
+  }
 });
 
 resizeObserver.observe(document.querySelector(".container-fluid"));

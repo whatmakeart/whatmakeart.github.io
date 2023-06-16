@@ -60,6 +60,25 @@
                 <h1 class="bd-title" id="pageTitleH1">{{ .Title }} Art Making Wiki and Course Materials</h1>
 
             </div>
+
+            <div class="d-md-flex flex-md-row align-items-center justify-content-between" style="border: 1px solid #ccc;">
+                <h2>Search Whatmakeart</h2>
+                <script src="/artsearch/pagefind-ui.js" type="text/javascript"></script>
+                <script src="artsearch/pagefind-ui.js" type="text/javascript"></script>
+
+                <div id="search"></div>
+                <script>
+                    window.addEventListener('DOMContentLoaded', (event) => {
+                        new PagefindUI({
+                            element: "#search",
+                            showImages: false
+                        });
+                    });
+                </script>
+
+            </div>
+
+
         </div>
 
 
@@ -82,22 +101,7 @@
                 {{ end }}
                 {{ end }}
             </ul>
-            <div style="border: 1px solid #ccc;">
-                <p> Pagefind</p>
-                <script src="/artsearch/pagefind-ui.js" type="text/javascript"></script>
-                <script src="artsearch/pagefind-ui.js" type="text/javascript"></script>
 
-                <div id="search"></div>
-                <script>
-                    window.addEventListener('DOMContentLoaded', (event) => {
-                        new PagefindUI({
-                            element: "#search",
-                            showImages: false
-                        });
-                    });
-                </script>
-
-            </div>
 
         </div>
     </main>
