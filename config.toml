@@ -10,9 +10,7 @@ enableRobotsTXT = true
 pluralizelisttitles = false
 
 
-[outputs]
-  home = [ "HTML", "JSON", "RSS"]
-  page = ["HTML"]
+
 
 [sitemap]
   changefreq = "daily"
