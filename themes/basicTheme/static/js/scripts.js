@@ -2,32 +2,37 @@ if (document.readyState === "loading") {
   // Loading hasn't finished yet
   document.addEventListener("DOMContentLoaded", function () {
     console.log("DOMContentLoaded after checking readyState");
-    removeNavigationEmbed();
-    sendIframeHeight();
-    var referrer = document.referrer;
-    console.log(referrer);
+    if (self != top) {
+      removeNavigationEmbed();
+      sendIframeHeight();
+      var referrer = document.referrer;
+      console.log(referrer);
+    }
   });
 } else {
   // `DOMContentLoaded` has already fired which sometimes happens so run the functions
   console.log("DOMContentLoaded has already fired before addEventListener");
-  removeNavigationEmbed();
-  sendIframeHeight();
+  if (self != top) {
+    removeNavigationEmbed();
+    sendIframeHeight();
+  }
 }
 
 window.addEventListener("load", function (event) {
   console.log("Page content is fully loaded");
   checkIfMobile();
-
-  // This will be repeated 9 times with .01 second intervals:
-  // delay is first param and number of times is secton
-  setIntervalX(
-    function () {
-      // Your logic here
-      sendIframeHeight();
-    },
-    10,
-    9
-  );
+  if (self != top) {
+    // This will be repeated 9 times with .01 second intervals:
+    // delay is first param and number of times is secton
+    setIntervalX(
+      function () {
+        // Your logic here
+        sendIframeHeight();
+      },
+      10,
+      9
+    );
+  }
 
   //monitorMutations();
 });

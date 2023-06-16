@@ -61,7 +61,7 @@ jobs:
         with:
           path: ./public
       - name: Run Pagefind
-        run: npx pagefind@latest --source "public"
+        run: npx pagefind@latest --source "public" --bundle_dir artsearch
 
   # Deployment job
   deploy:
