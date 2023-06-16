@@ -9,9 +9,6 @@ googleAnalytics = "G-S4CF1KSMYD"
 enableRobotsTXT = true
 pluralizelisttitles = false
 
-
-
-
 [sitemap]
   changefreq = "daily"
   priority = 0.5
