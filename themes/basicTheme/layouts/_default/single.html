@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<nav class="bd-subnavbar py-2">
+<nav data-pagefind-ignore class="bd-subnavbar py-2">
     <div class="container-xxl d-flex align-items-md-center">
         <button class="btn bd-sidebar-toggle d-md-none py-0 px-1 ms-3 order-3 collaped" type="button" data-bs-toggle="collapse" data-bs-target="#making-wiki-nav" aria-controls="making-wiki-nav" aria-expanded="false" aria-label="Toggle Making Wiki Navigation">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="bi bi-expand" fill="currentColor" viewBox="0 0 16 16">
@@ -62,7 +62,7 @@
         </div>
 
 
-        <aside class="bd-toc mt-4 mb-5 my-md-0 px-xl-3 mb-lg-5 text-muted" id="topTOC">
+        <aside data-pagefind-ignore class="bd-toc mt-4 mb-5 my-md-0 px-xl-3 mb-lg-5 text-muted" id="topTOC">
             {{ partial "toc.html" . }}
 
             {{ partial "backlinks.html" . }}
@@ -70,7 +70,7 @@
 
         </aside>
 
-        <div class="bd-content ps-lg-4">
+        <div data-pagefind-ignore class="bd-content ps-lg-4">
             {{ .Content }}
 
             {{ partial "backlinks.html" . }}
