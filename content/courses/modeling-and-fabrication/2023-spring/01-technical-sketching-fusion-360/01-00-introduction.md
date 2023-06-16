@@ -6,7 +6,7 @@ draft: false
 
 ## Overview
 
-This module covers technical sketching and an introduction to 3D modeling in Fusion 360. 3D modeling software used for fabrication and manufacturing feature tools based on technical sketching. In order to understand digital 3D modeling tools it is important to have a basic foundational understanding and proficiency in technical sketching.
+This module covers [technical sketching](../../../../drawing/technical-sketching.md) and an introduction to 3D modeling in Fusion 360. 3D modeling software used for fabrication and manufacturing feature tools based on technical sketching. In order to understand digital 3D modeling tools it is important to have a basic foundational understanding and proficiency in technical sketching.
 
 ## Learning Outcomes
 

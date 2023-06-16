@@ -6,7 +6,7 @@ draft: false
 
 <figure>
 
-[![Laser Cut Stand Assembled](2021-Laser-Cut-Stand-Assembled.jpg)](2021-Laser-Cut-Stand-Assembled.jpg)
+[![Laser Cut Stand Assembled](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Assembled.jpg)](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Assembled.jpg)
 
 <figcaption>
 

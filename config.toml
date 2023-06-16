@@ -4,6 +4,10 @@ title = "What Make Art"
 theme = "basicTheme"
 enableGitInfo = "true" # allows to get information such as dates from git
 timout = "10m"
+Paginate = 18
+googleAnalytics = "G-S4CF1KSMYD"
+enableRobotsTXT = true
+pluralizelisttitles = false
 
 [outputs]
 home = ["HTML","RSS","Lunr"]
@@ -17,13 +21,6 @@ notAlternative = true
 [params.lunr]
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
 params = ["categories", "tags"]
-
-# SectionPagesMenu = "main" #only for default menu when not specified in config
-Paginate = 18
-googleAnalytics = "G-S4CF1KSMYD"
-enableRobotsTXT = true
-pluralizelisttitles = false
-
 
 [sitemap]
   changefreq = "daily"

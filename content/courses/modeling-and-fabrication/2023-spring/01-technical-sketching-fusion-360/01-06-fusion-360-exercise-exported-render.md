@@ -28,9 +28,9 @@ Once you finish this exercise, try to model a creation of your own. Don't worry 
 
 ## Link to Reference Sketch used in Tutorial Video
 
-You can use [this sketch](2022-Sketch-of-Sample-Part-for-Fusion-360-Modeling-Exercise.jpeg) to model the part in Fusion 360.
+You can use [this sketch](../../../../drawing/attachments/2022-Sketch-of-Sample-Part-for-Fusion-360-Modeling-Exercise.jpeg) to model the part in Fusion 360.
 
-[![this sketch](2022-Sketch-of-Sample-Part-for-Fusion-360-Modeling-Exercise.jpeg)](2022-Sketch-of-Sample-Part-for-Fusion-360-Modeling-Exercise.jpeg)
+[![this sketch](../../../../drawing/attachments/2022-Sketch-of-Sample-Part-for-Fusion-360-Modeling-Exercise.jpeg)](../../../../drawing/attachments/2022-Sketch-of-Sample-Part-for-Fusion-360-Modeling-Exercise.jpeg)
 
 <div class="tutorial-video-gallery">
 <div class="video-card">

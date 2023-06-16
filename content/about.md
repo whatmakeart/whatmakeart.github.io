@@ -2,7 +2,7 @@
 title: About
 ---
 
-What? Make Art is a repository of art making videos, tutorials and art making faq's. Tutorials cover a wide range of topics including making, electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
+What? Make Art is a repository of college art course materials, art making videos, tutorials and art making faq's. Tutorials cover a wide range of topics including making, electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
 
 Art making tutorial videos start from a beginner level an progress to more advanced topics. What art do you want to make?
 
@@ -28,18 +28,17 @@ Tech Wikis https://github.com/MicrosoftDocs/azure-docs https://docs.github.com/e
 ### Examples of Coursework and Research Publicly Accessible
 
 - [MIT Rapid Prototyping Course](http://fab.cba.mit.edu/classes/865.18/index.html)
-- [Stanford CS 161](https://stanford-cs161.github.io/) - Stanford Computer Science Course
+- [Stanford CS 161](https://stanford-cs161.github.io/) Stanford Computer Science Course
 - [Rat Factor Personal Wiki](https://ratfactor.com/hugo-adoc-html5s)
 - [Interaction Station Wiki on Wikimedia](https://interactionstation.wdka.hro.nl/wiki/Main_Page)
-- [Utilitarianism Online Textbook](https://utilitarianism.net/) - Made by Professor at University of Oxford as an online textbook
-- [u.osu.edu](https://u.osu.edu/) - Ohio State uses a multi site Wordpress installation to have quite flexible, public, online course materials
-- [Kevin Karplus - University of California Santa Cruz - School Site](https://users.soe.ucsc.edu/~karplus/bme88a/) - Basic but richly informative UCSC hosted website with all his course materials and archives of since delete University Department resources
-- [Kevin Karplus - Wordpress Site - Freshman Design](https://gasstationwithoutpumps.wordpress.com/freshman-design-table-of-contents/) - In addition to the resources hosted on the university servers, Kevin also has a Wordpress site with lots of course content
-- [Kevin Karplus Youtube Page](https://www.youtube.com/c/gasstationwithoutpumps/videos) - support videos for his courses
-- [Lansing Community College Teacher, Chad Bennett - Obsidian Site and Course Resources](https://mister-chad.com/welcome) - Has public personal notes as well as public resources for courses he teaches
-  http://dfabclass.com/20/
-
-https://wiki.mcneel.com/people/rhino5cir
+- [Utilitarianism Online Textbook](https://utilitarianism.net/) Made by Professor at University of Oxford as an online textbook
+- [u.osu.edu](https://u.osu.edu/) Ohio State uses a multi site Wordpress installation to have quite flexible, public, online course materials
+- [Kevin Karplus - University of California Santa Cruz - School Site](https://users.soe.ucsc.edu/~karplus/bme88a/) Basic but richly informative UCSC hosted website with all his course materials and archives of since delete University Department resources
+- [Kevin Karplus - Wordpress Site - Freshman Design](https://gasstationwithoutpumps.wordpress.com/freshman-design-table-of-contents/) In addition to the resources hosted on the university servers, Kevin also has a Wordpress site with lots of course content
+- [Kevin Karplus Youtube Page](https://www.youtube.com/c/gasstationwithoutpumps/videos) support videos for his courses
+- [Lansing Community College Teacher, Chad Bennett - Obsidian Site and Course Resources](https://mister-chad.com/welcome) Has public personal notes as well as public resources for courses he teaches
+- [Dfab Class](http://dfabclass.com/20/)
+- [https://wiki.mcneel.com/people/rhino5cir](https://wiki.mcneel.com/people/rhino5cir)
 
 #### University of Washington Computer Science Courses
 

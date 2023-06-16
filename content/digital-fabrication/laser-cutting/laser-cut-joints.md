@@ -10,7 +10,7 @@ Finger joints are a common way to join laser cut projects together. They have an
 
 <div class="two-column-grid">
 
-[![Laser Cut Finger Joints](2022-Finger-Joints-Laser-Cut.jpg)](2022-Finger-Joints-Laser-Cut.png)
+[![Laser Cut Finger Joints](attachments/2022-Finger-Joints-Laser-Cut.jpg)](attachments/2022-Finger-Joints-Laser-Cut.png)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ZrcqauNvt0M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -24,9 +24,9 @@ The slots for the hooks must be large enough for the entire hook to pass through
 
 <div class="two-column-grid">
 
-[![Laser Cut Slot Hook Joint Painted](2023-laser-cut-slot-hook-joint-paint.jpg)](2023-laser-cut-slot-hook-joint-paint.png)
+[![Laser Cut Slot Hook Joint Painted](attachments/2023-laser-cut-slot-hook-joint-paint.jpg)](attachments/2023-laser-cut-slot-hook-joint-paint.png)
 
-[![Laser Cut Slot Hook Joint Wood Render](2023-laser-cut-slot-hook-joint-wood.jpg)](2023-laser-cut-slot-hook-joint-wood.png)
+[![Laser Cut Slot Hook Joint Wood Render](attachments/2023-laser-cut-slot-hook-joint-wood.jpg)](attachments/2023-laser-cut-slot-hook-joint-wood.png)
 
 </div>
 
@@ -36,7 +36,7 @@ Pinned finger joints send a tab all the way through a hole in a panel. The tab e
 
 <div class="two-column-grid">
 
-[![Laser Cut Pinned Finger Joints](2022-Pinned-Finger-Joints-Laser-Cut-Colors.jpg)](2022-Pinned-Finger-Joints-Laser-Cut-Colors.png)
+[![Laser Cut Pinned Finger Joints](attachments/2022-Pinned-Finger-Joints-Laser-Cut-Colors.jpg)](attachments/2022-Pinned-Finger-Joints-Laser-Cut-Colors.png)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/2r7NKS-3Wao?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -51,7 +51,7 @@ Pinned finger joints send a tab all the way through a hole in a panel. The tab e
 <div class="two-column-grid">
 <figure>
 
-[![Laser Cut Dovetails by Mark Wilson](laser-cut-dovetail-joint-by-mark-wilson.jpg)](laser-cut-dovetail-joint-by-mark-wilson.jpg)
+[![Laser Cut Dovetails by Mark Wilson](attachments/laser-cut-dovetail-joint-by-mark-wilson.jpg)](attachments/laser-cut-dovetail-joint-by-mark-wilson.jpg)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ Pinned finger joints send a tab all the way through a hole in a panel. The tab e
 
 <figure>
 
-[![Laser Cut Dovetails by Mark Wilson](dovetail-laser-cut-joint-box-by-mark-wilson.jpg)](dovetail-laser-cut-joint-box-by-mark-wilson.jpg)
+[![Laser Cut Dovetails by Mark Wilson](attachments/dovetail-laser-cut-joint-box-by-mark-wilson.jpg)](attachments/dovetail-laser-cut-joint-box-by-mark-wilson.jpg)
 
 <figcaption>
 
@@ -79,7 +79,7 @@ With properly sized slots and holes, bolts and nuts can be used to securely atta
 
 <div class="two-column-grid">
 
-[![Laser Cut Captive Nut Joints](2022-Captive-Nut-Joints-Laser-Cut.jpg)](2022-Captive-Nut-Joints-Laser-Cut.png)
+[![Laser Cut Captive Nut Joints](attachments/2022-Captive-Nut-Joints-Laser-Cut.jpg)](attachments/2022-Captive-Nut-Joints-Laser-Cut.png)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/57OT_SIW96U?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -97,9 +97,9 @@ Key joints are basically pinned joints. A tap with a hole passes through another
 
 <div class="two-column-grid">
 
-[![Laser Cut Snap Joints](2023-spring-clip-key-pin-joint-plastic.jpg)](2023-spring-clip-key-pin-joint-plastic.png)
+[![Laser Cut Snap Joints](attachments/2023-spring-clip-key-pin-joint-plastic.jpg)](attachments/2023-spring-clip-key-pin-joint-plastic.png)
 
-[![Laser Cut Snap Joints](2023-spring-clip-key-pin-joint-wood.jpg)](2023-spring-clip-key-pin-joint-wood.png)
+[![Laser Cut Snap Joints](attachments/2023-spring-clip-key-pin-joint-wood.jpg)](attachments/2023-spring-clip-key-pin-joint-wood.png)
 
 </div>
 
@@ -109,9 +109,9 @@ Snap joints positively lock into place when assembled. They are much more comple
 
 <div class="two-column-grid">
 
-[![Laser Cut Snap Joints](2022-Snap-Joints-Laser-Cut-1.jpg)](2022-Snap-Joints-Laser-Cut-1.png)
+[![Laser Cut Snap Joints](attachments/2022-Snap-Joints-Laser-Cut-1.jpg)](attachments/2022-Snap-Joints-Laser-Cut-1.png)
 
-[![Laser Cut Snap Joints](2022-Snap-Joints-Laser-Cut-2.jpg)](2022-Snap-Joints-Laser-Cut-2.png)
+[![Laser Cut Snap Joints](attachments/2022-Snap-Joints-Laser-Cut-2.jpg)](attachments/2022-Snap-Joints-Laser-Cut-2.png)
 
 </div>
 

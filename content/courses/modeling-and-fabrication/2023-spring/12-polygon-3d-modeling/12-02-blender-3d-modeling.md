@@ -5,4 +5,4 @@ toc: true
 draft: false
 ---
 
-![Link to included file content](../../../../3d-modeling/blender/blender-3d-modeling.md)
+![Link to included file content](../../../../3d-modeling/blender/blender-3d-modeling-basics.md)

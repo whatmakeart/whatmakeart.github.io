@@ -10,6 +10,22 @@ Cardboard can be made into gusset supports to strengthen corners where two plane
 
 With a small amount of practice you can make detailed an intricate test pieces with cardboard. There is a balance between spending too much time on a cardboard prototype and spending too little time. We want to work quickly and efficiently, but if everything in the cardboard model is sloppy and not held together well, it will not give you any insight into your concept or ideas.
 
+## Cutting Techniques
+
+- Laser Cutter - cuts cardboard very well, can make shapes in graphics program like Adobe Illustrator and send to cutter. Fusion 360 can also be used. We will learn how to make panel constructed objects next week.
+- Box Cutter - Always use a new blade and a cutting mat
+- Metal Straight Edge - useful for cutting clean edges
+- Remember that often you need to run the box cutter multiple times to cut all of the cardboard
+- serrated cutters - good for cutting curves
+
+## Assembly Techniques
+
+- hot glue - strong, fast, but hot and messy
+- PVA glue (white paper glue or yellow wood glue) - strong and clean but slow
+- tape (packing, duck, paper) - fast, clean but ofter weak, especially if only on one side of a joint
+- bolts - strong but can pull through cardboard if a washer is not used.
+- cardboard - slots, tabs, grooves, folds
+
 <div class="video-grid">
 
 <div class="video-card">

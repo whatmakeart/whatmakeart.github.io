@@ -18,21 +18,21 @@ Technical sketching uses a variety of visual projections and perspective techniq
 
 <div class="image-card">
 
-![Isometric Perspective Example](2022-10-08-isometric-perspective.png)
+![Isometric Perspective Example](attachments/2022-10-08-isometric-perspective.png)
 
 Isometric Perspective shows the sides of the object angled ad 30 degrees. The measurements on the vertical, horizontal, and 30 degree angles are to scale and real measurements.
 
 </div>
 <div class="image-card">
 
-![Oblique Projection Example](2022-10-08-oblique-projection.png)
+![Oblique Projection Example](attachments/2022-10-08-oblique-projection.png)
 
 Oblique Projection shows the front of the object like a parallel projection and then the sides of the object are drawn at a 45 degree angle. This adds distortion but gives a good view of the front.
 
 </div>
 <div class="image-card">
 
-[![Third Angle Projection Example](20220111-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)](20220111-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)
+[![Third Angle Projection Example](attachments/20220111-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)](attachments/20220111-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)
 
 ## Third Angle Projection
 

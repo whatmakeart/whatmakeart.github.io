@@ -8,13 +8,13 @@ draft: false
 
 <div class="two-column-grid">
 
-[![Laser Cut Parts Layed Out](2021-Laser-Cut-Stand-Parts-Layed-Out.jpg)](2021-Laser-Cut-Stand-Parts-Layed-Out.jpg)
+[![Laser Cut Parts Layed Out](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Parts-Layed-Out.jpg)](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Parts-Layed-Out.jpg)
 
-[![Laser Cut Stand Assembled](2021-Laser-Cut-Stand-Assembeled.jpg)](2021-Laser-Cut-Stand-Assembeled.jpg)
+[![Laser Cut Stand Assembled](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Assembeled.jpg)](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Assembeled.jpg)
 
 </div>
 
-We will use the power of parametric modeling in Fusion 360 to design a phone, tablet or laptop stand that will be laser cut out of plywood or acrylic. The laser cutters can cut plywood and acrylic from 1/8" to 1/4" thick.
+We will use the power of [parametric modeling](../../../../3d-modeling/parametric-modeling.md) in Fusion 360 to design a phone, tablet or laptop stand that will be laser cut out of plywood or acrylic. The laser cutters can cut plywood and acrylic from 1/8" to 1/4" thick.
 
 This project will use the entire design process.
 
