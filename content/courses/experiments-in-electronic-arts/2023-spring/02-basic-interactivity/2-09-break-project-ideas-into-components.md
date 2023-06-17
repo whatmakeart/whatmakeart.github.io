@@ -29,6 +29,8 @@ Then each part can be investigated and experimented with individually.
 
 There will be many parts of your project you might have no idea how to do. No problem. Do your best to **describe** each thing that must happen for your project to work.
 
+## Requirements
+
 The final projects must at a minimum:
 
 - Have user input

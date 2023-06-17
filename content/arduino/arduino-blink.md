@@ -8,7 +8,7 @@ The example circuit and sketch below is one of the most basic programs for the A
 
 <figure>
 
-[![Arduino Blink Example Circuit](2023-arduino-blink-example-circuit-from-arduino-docs.png)](2023-arduino-blink-example-circuit-from-arduino-docs.png)
+[![Arduino Blink Example Circuit](attachments/2023-arduino-blink-example-circuit-from-arduino-docs.png)](attachments/2023-arduino-blink-example-circuit-from-arduino-docs.png)
 
 <figcaption>
 

@@ -6,7 +6,7 @@ title: Arduino Servo Example
 
 <figure>
 
-[![Servo Motor Wiring](./2023-servo-sweep-circuit.png)](./2023-servo-sweep-circuit.png)
+[![Servo Motor Wiring](./attachments/2023-servo-sweep-circuit.png)](./attachments/2023-servo-sweep-circuit.png)
 
 <figcaption>
 

@@ -16,4 +16,4 @@ Wire strippers come in different sizes for different ranges of wire. Make sure y
 
 It's generally easier to trim the wire to the proper length before stripping, especially with stranded wire. It can take some practice to make sure that you remove the proper amount of insulation.
 
-[![Wire Strippers](2023-wire-strippers.jpg)](2023-wire-strippers.jpg)
+[![Wire Strippers](attachments/2023-wire-strippers.jpg)](attachments/2023-wire-strippers.jpg)

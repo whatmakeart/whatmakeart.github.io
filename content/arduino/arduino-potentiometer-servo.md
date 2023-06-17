@@ -1,7 +1,5 @@
 ---
-title: "02.04 Arduino Potentiometer Servo LED"
-date: 2020-01-26T23:11:13Z
-draft: false
+title: Arduino Potentiometer Servo
 ---
 
 ## Do Something with the Input
@@ -14,7 +12,7 @@ This circuit is similar to the sweep servo example but adds a potentiometer to c
 
 <figure>
 
-[![Servo Knob Circuit Example](./servo-knob-circuit-from-arduino-docs.png)](./servo-knob-circuit-from-arduino-docs.png)
+[![Servo Knob Circuit Example](./attachments/2023-servo-knob-circuit-from-arduino-docs.png)](./attachments/2023-servo-knob-circuit-from-arduino-docs.png)
 
 <figcaption>
 
@@ -72,4 +70,4 @@ void loop() {
 Soft potentiometer datasheet. [^2]
 
 [^1]: https://docs.arduino.cc/learn/electronics/servo-motors
-[^2]: https://www.spectrasymbol.com/wp-content/uploads/2016/12/SOFTPOT-DATA-SHEET-Rev-F3.pdf [(Archive)](2-04-ardunio-potentiometer-servo-led/SOFTPOT-DATA-SHEET-Rev-F3.pdf)
+[^2]: https://www.spectrasymbol.com/wp-content/uploads/2016/12/SOFTPOT-DATA-SHEET-Rev-F3.pdf [(Archive)](./attachments/SOFTPOT-DATA-SHEET-Rev-F3.pdf)
