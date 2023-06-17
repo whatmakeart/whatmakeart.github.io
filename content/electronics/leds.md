@@ -49,8 +49,8 @@ What would the resistor value be if you had a 9V battery power supply and a Blue
 
 ## LEDs With Circuits
 
-- https://forum.allaboutcircuits.com/threads/leds-555s-flashers-and-light-chasers.19075/
+- [All About Circuits 555 Flashers](https://forum.allaboutcircuits.com/threads/leds-555s-flashers-and-light-chasers.19075/)
 
-[^1]: https://www.kingbrightusa.com/images/catalog/SPEC/WP7113LSRD.pdf
-[^2]: https://en.wikipedia.org/wiki/AA_battery
-[^3]: https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-led-series-resistor
+[^1]: [Kingbright USA WP7133LSRD.pdf](https://www.kingbrightusa.com/images/catalog/SPEC/WP7113LSRD.pdf)
+[^2]: [Wikipedia - AA Battery](https://en.wikipedia.org/wiki/AA_battery)
+[^3]: [Digikey LED Resistor Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-led-series-resistor)

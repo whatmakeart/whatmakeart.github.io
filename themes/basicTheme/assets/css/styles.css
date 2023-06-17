@@ -234,6 +234,18 @@ a.title-link {
   height: 300px;
 }
 
+/* Begin for footnote backlinks on hugo */
+.footnote-backref {
+  visibility: hidden;
+
+  &::before {
+    content: "↑ return";
+    visibility: visible;
+    font-size: 12px;
+  }
+}
+/* Endfor footnote backlinks on hugo */
+
 /* site title on pages below nav menu */
 
 #top-prev-next,

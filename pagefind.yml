@@ -7,3 +7,4 @@ exclude_selectors:
   - "[id^='fnref']"
   - "[class='highlight']"
   - "[class='footnote-backref']"
+  - "[id='breadcrumbs']"
