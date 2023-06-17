@@ -63,6 +63,10 @@ pluralizelisttitles = false
   url = '/art-faq'
   weight = 25
 [[menu.main]]
+  name = 'Posts'
+  url = '/posts'
+  weight = 30
+[[menu.main]]
   name = 'About'
   url = '/about'
-  weight = 30
+  weight = 35

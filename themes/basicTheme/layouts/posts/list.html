@@ -5,7 +5,6 @@
             {{ partial "breadcrumbs.html" . }}
             <div class="d-md-flex flex-md-row align-items-center justify-content-between">
 
-                {{ partial "edit-page" . }}
 
                 <h1 class="bd-title" id="pageTitleH1">{{ .Title }}</h1>
 
@@ -27,7 +26,14 @@
 
                     <div class="card-body">
 
-                        {{ if .Params.featured_image }}<a href="{{ .Permalink }}"><img class="card-img-top" src="{{ .Params.featured_image }}"></a>{{ end }}
+                        {{ $img := "" }}
+                        {{ if .Params.featured_image }}
+                            {{ $img =  .Params.featured_image }}
+                        {{ else }}
+                            {{ $img = printf "/img/whatmakeart-logo.png" }}
+                        {{ end}}
+
+                        <a href="{{ .Permalink }}"><img class="card-img-top" src="{{ $img }}"></a>
 
                         <a class="card-text" href="{{ .RelPermalink}}">{{ .Title }}</a>
                     </div>
