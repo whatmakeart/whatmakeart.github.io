@@ -43,7 +43,8 @@ pluralizelisttitles = false
   minNumHeadings = 1  # default is 2
 
 [frontmatter]
-  lastmod = [ "lastmod", ":git", "date", "publishDate" ]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
   
 [markup.goldmark.renderer]
   unsafe = true

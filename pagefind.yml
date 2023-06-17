@@ -10,3 +10,6 @@ exclude_selectors:
   - "[id='breadcrumbs']"
   - "[id='post-list-page']" # List pages for posts
   - "[id='topTOC']"
+  - "[id='bottom-prev-next']" # prev next buttons on course pages
+  - "[class='bl-section']" # class of div wrapping backlinks
+
