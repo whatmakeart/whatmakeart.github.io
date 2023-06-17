@@ -1,3 +1,5 @@
 ---
 title: Jointer
+tags:
+  - stub
 ---

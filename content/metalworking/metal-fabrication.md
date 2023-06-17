@@ -1,5 +1,7 @@
 ---
 title: Metal Fabrication
+tags:
+  - stub
 ---
 
 # Metal Fabrication

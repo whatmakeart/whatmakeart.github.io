@@ -1,5 +1,7 @@
 ---
 title: How to Safety Inspect Welding Equipment Before Use
+tags:
+  - stub
 ---
 
 # How to Safety Inspect Welding Equipment Before Use

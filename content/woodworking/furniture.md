@@ -1,3 +1,5 @@
 ---
 title: Furniture
+tags:
+  - stub
 ---

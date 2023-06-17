@@ -1,5 +1,7 @@
 ---
 title: How to Bend Flat Stock in a Vise
+tags:
+  - stub
 ---
 
 # How to Bend Flat Stock in a Vise

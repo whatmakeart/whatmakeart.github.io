@@ -1,5 +1,7 @@
 ---
 title: Animation
+tags:
+  - stub
 ---
 
 Animation can be broadly separated into to categories: 2D Animation andf 3D Animation.

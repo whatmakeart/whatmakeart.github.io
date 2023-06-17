@@ -1,5 +1,7 @@
 ---
 title: How to Pull Up Emoji Bar
+tags:
+  - stub
 ---
 
 This tutorial will

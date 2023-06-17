@@ -1,5 +1,7 @@
 ---
 title: Wood Joints
+tags:
+  - stub
 ---
 
 ## Laminated Joints

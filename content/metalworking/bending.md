@@ -1,3 +1,5 @@
 ---
 title: Bending
+tags:
+  - stub
 ---

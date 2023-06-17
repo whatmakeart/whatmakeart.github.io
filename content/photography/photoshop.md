@@ -1,5 +1,7 @@
 ---
 title: Photoshop
+tags:
+  - stub
 ---
 
 Photoshop is a software tool for editing pixel based images. It can use vectors and some 3D information bit it is primarily aimed at manipulating 2D raster images.

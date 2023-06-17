@@ -1,5 +1,7 @@
 ---
 title: Bicycle Tubing
+tags:
+  - stub
 ---
 
 Chromoly Normalized CD 1.000" OD X 0.035" Wall ALLOY STEEL 4130 ROUND TUBE

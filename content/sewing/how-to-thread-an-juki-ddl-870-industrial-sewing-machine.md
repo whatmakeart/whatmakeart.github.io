@@ -1,5 +1,7 @@
 ---
 title: How to Thread a Juki DDL 8700
+tags:
+  - stub
 ---
 
 # How to Thread a Juki DDL 8700

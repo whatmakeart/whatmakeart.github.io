@@ -1,3 +1,5 @@
 ---
 title: Illustrator
+tags:
+  - stub
 ---

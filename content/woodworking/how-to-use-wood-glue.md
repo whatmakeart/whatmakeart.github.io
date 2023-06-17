@@ -1,5 +1,7 @@
 ---
 title: How to Use Wood Glue
+tags:
+  - stub
 ---
 
 # How to Use Wood Glue

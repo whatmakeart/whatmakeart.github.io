@@ -1,5 +1,7 @@
 ---
 title: Sew Inseam Pockets with French Seams
+tags:
+  - stub
 ---
 
 # Sew Inseam Pockets with French Seams

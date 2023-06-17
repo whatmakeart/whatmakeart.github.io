@@ -1,5 +1,7 @@
 ---
 title: Types of Wood Finishes
+tags:
+  - stub
 ---
 
 ## Evaporative Finishes

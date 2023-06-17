@@ -1,3 +1,5 @@
 ---
 title: Planer
+tags:
+  - stub
 ---

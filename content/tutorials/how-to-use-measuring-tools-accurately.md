@@ -1,5 +1,7 @@
 ---
 title: How to Use Measuring Tools Accurately
+tags:
+  - stub
 ---
 
 # How to Use Measuring Tools Accurately

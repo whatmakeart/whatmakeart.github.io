@@ -1,5 +1,7 @@
 ---
 title: Excel
+tags:
+  - stub
 ---
 
 Excel is a spreadsheet program that is very useful in an artist's studio. Spreadsheets can simulate possible outcomes, project costs into the future, and plan budgets. Much of the capability in Excel can be found in Google Sheets and Open Office.

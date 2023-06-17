@@ -1,3 +1,5 @@
 ---
 title: Forging
+tags:
+  - stub
 ---

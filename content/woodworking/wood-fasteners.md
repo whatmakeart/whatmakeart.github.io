@@ -1,5 +1,7 @@
 ---
 title: Wood Fasteners
+tags:
+  - stub
 ---
 
 # Screws
@@ -54,7 +56,7 @@ Remember to have consistent and quality results you should use purpose designed 
 
 ### Pocket Hole Screws
 
-Special type of screw that needs a jig to predrill the hole in order to insert the screw. The advantage of pocket hole screws is they can be used in [butt joints](butt%20joints) and are hidden.
+Special type of screw that needs a jig to predrill the hole in order to insert the screw. The advantage of pocket hole screws is they can be used in butt joints and are hidden.
 
 ### Lag Screws
 

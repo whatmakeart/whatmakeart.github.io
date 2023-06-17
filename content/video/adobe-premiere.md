@@ -1,5 +1,7 @@
 ---
 title: Adobe Premiere
+tags:
+  - stub
 ---
 
 - [Adobe Premiere Add Music and Sound](./adobe-premiere-add-music-and-sound.md)
