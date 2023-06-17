@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<nav data-pagefind-ignore class="bd-subnavbar py-2">
+<nav data-pagefind-ignore="all" class="bd-subnavbar py-2">
     <div class="container-xxl d-flex align-items-md-center">
         <button class="btn bd-sidebar-toggle d-md-none py-0 px-1 ms-3 order-3 collaped" type="button" data-bs-toggle="collapse" data-bs-target="#making-wiki-nav" aria-controls="making-wiki-nav" aria-expanded="false" aria-label="Toggle Making Wiki Navigation">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="bi bi-expand" fill="currentColor" viewBox="0 0 16 16">
@@ -16,7 +16,8 @@
 </nav>
 
 <article class="container-xxl my-md-4 bd-layout">
-    <aside class="bd-sidebar">
+
+    <aside data-pagefind-ignore="all" class="bd-sidebar">
         <nav class="collapse bd-links" id="making-wiki-nav" aria-label="Making Wiki Navigation">
             <ul class="list-unstyled mb-0 py-3 pt-md-1">
                 {{ $p1 := where .Site.Home.Sections.ByTitle "Section" "not in" (slice "posts" "courses" ) }}
@@ -49,7 +50,7 @@
         </nav>
 
     </aside>
-    <main class="bd-main order-1">
+    <main data-pagefind-body class="bd-main order-1">
 
         <div class="bd-intro ps-lg-4">
             {{ partial "breadcrumbs.html" . }}
