@@ -1,3 +1,5 @@
 ---
 title: Jigs
+tags:
+  - stub
 ---

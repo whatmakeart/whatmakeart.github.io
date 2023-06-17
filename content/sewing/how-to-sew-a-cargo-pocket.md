@@ -1,10 +1,12 @@
 ---
 title: How to Sew a Cargo Pocket
+tags:
+  - stub
 ---
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with [How to Thread an Juki DDL 870 Industrial Sewing Machine](tutorials/how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md) [How to Sew a Patch Pocket](how-to-sew-a-patch-pocket.md)
+To complete this tutorial you should be familiar with [How to Thread an Juki DDL 870 Industrial Sewing Machine](./how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md) [How to Sew a Patch Pocket](./how-to-sew-a-patch-pocket.md)
 
 ## Instructions
 

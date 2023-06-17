@@ -1,5 +1,7 @@
 ---
 title: How to Sew a Tote Bag
+tags:
+  - stub
 ---
 
 # How to Sew a Tote Bag
@@ -10,7 +12,7 @@ This tutorial shows how to cut the pattern pieces for a tote bag with a lining a
 
 ## Prerequisites
 
-To complete this tutorial you should know [ How to Thread an Juki DDL 870 Industrial Sewing Machine](./how-to-thread-a-home-sewing-machine.md), [how-to-cut-fabric](../how-to-cut-fabric.md), and [How-to-Sew-Six-Basic-Seams](../tutorials/how-to-sew-six-basic-seams.md).how-to-sew-six-basic-seams.md
+To complete this tutorial you should know [ How to Thread an Juki DDL 870 Industrial Sewing Machine](./how-to-thread-a-home-sewing-machine.md), [how-to-cut-fabric](./how-to-cut-fabric.md), and [How-to-Sew-Six-Basic-Seams](./how-to-sew-six-basic-seams.md).how-to-sew-six-basic-seams.md
 
 ## Instructions
 

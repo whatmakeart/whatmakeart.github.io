@@ -1,5 +1,7 @@
 ---
 title: How to add CSS to a Webpage
+tags:
+  - stub
 ---
 
 # How to add CSS to a Webpage

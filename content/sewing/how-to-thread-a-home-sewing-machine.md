@@ -1,5 +1,7 @@
 ---
 title: How to Thread a Home Sewing Machine
+tags:
+  - stub
 ---
 
 # How to Thread a Home Sewing Machine

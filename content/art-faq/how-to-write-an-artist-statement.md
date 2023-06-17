@@ -1,5 +1,7 @@
 ---
 title: How to Write an Artist Statement
+tags:
+  - stub
 ---
 
 # How to Write an Artist Statement

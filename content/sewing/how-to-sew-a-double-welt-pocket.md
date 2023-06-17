@@ -1,5 +1,7 @@
 ---
 title: How to Sew a Double Welt Pocket
+tags:
+  - stub
 ---
 
 # How to Sew a Double Welt Pocket
@@ -8,7 +10,7 @@ This tutorial will show you how to sew a Double Welt Pocket.
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with: [how-to-cut-fabric](../how-to-cut-fabric.md) [How to Thread an Juki DDL 870 Industrial Sewing Machine](./how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)
+To complete this tutorial you should be familiar with: [how-to-cut-fabric](./how-to-cut-fabric.md) [How to Thread an Juki DDL 870 Industrial Sewing Machine](./how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)
 
 ## Instructions
 

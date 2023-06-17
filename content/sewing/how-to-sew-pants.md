@@ -1,5 +1,7 @@
 ---
 title: How to Sew Pants
+tags:
+  - stub
 ---
 
 # How to Sew Pants

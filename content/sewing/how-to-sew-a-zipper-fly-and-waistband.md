@@ -1,5 +1,7 @@
 ---
 title: How to Sew a Zipper Fly and Waistband
+tags:
+  - stub
 ---
 
 # How to Sew a Zipper Fly and Waistband

@@ -1,3 +1,5 @@
 ---
 title: Soldering
+tags:
+  - stub
 ---

@@ -1,5 +1,7 @@
 ---
 title: How to Sew Sleeve Plackets
+tags:
+  - stub
 ---
 
 # How to Sew Sleeve Plackets
@@ -11,7 +13,7 @@ This tutorial will show you how to sew sleeve plackets on a dress shirt or jacke
 To complete this tutorial you should be familiar with:
 
 - [How to Thread an Juki DDL 870 Industrial Sewing Machine](./how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)
-- [how-to-cut-fabric](../how-to-cut-fabric.md)
+- [how-to-cut-fabric](./how-to-cut-fabric.md)
 
 ## Instructions
 
@@ -20,6 +22,6 @@ The first step
 
 ## Further Reading
 
-[How to sew a Button](../tutorials/how-to-sew-a-button.md) [How to Sew a Shirt Cuff](../tutorials/how-to-sew-a-shirt-cuff.md) [How to Sew a Zipper](../tutorials/how-to-sew-a-zipper.md)
+[How to sew a Button](./how-to-sew-a-button.md) [How to Sew a Shirt Cuff](./how-to-sew-a-shirt-cuff.md) [How to Sew a Zipper](./how-to-sew-a-zipper.md)
 
 ### External Links

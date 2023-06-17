@@ -1,5 +1,7 @@
 ---
 title: How to Draw to Scale
+tags:
+  - stub
 ---
 
 # How to Draw to Scale

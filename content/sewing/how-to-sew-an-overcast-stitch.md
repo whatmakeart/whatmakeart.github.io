@@ -1,5 +1,7 @@
 ---
 title: How to Sew a Whipstitch
+tags:
+  - stub
 ---
 
 # How to Sew an Overcast Stitch (Whipstitch)

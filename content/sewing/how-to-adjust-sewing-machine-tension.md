@@ -1,5 +1,7 @@
 ---
 title: How to Adjust Sewing Machine Tension
+tags:
+  - stub
 ---
 
 # How to Adjust Sewing Machine Tension

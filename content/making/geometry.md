@@ -1,5 +1,7 @@
 ---
 title: Geometry
+tags:
+  - stub
 ---
 
 Area of Circle

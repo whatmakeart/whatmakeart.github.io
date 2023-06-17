@@ -1,5 +1,7 @@
 ---
 title: How to Enlarge a Drawing with a Grid
+tags:
+  - stub
 ---
 
 # How to Enlarge a Drawing with a Grid

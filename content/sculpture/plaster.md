@@ -1,3 +1,5 @@
 ---
 title: Plaster
+tags:
+  - stub
 ---

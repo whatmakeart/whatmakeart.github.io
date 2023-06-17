@@ -1,3 +1,5 @@
 ---
 title: Javascript
+tags:
+  - stub
 ---

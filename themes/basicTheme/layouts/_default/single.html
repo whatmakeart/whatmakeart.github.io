@@ -2,7 +2,6 @@
 
 <nav class="bd-subnavbar py-2">
     <div class="container-xxl d-flex align-items-md-center">
-     {{ partialCached "pagefind.html" . }}
         <button class="btn bd-sidebar-toggle d-md-none py-0 px-1 ms-3 order-3 collaped" type="button" data-bs-toggle="collapse" data-bs-target="#making-wiki-nav" aria-controls="making-wiki-nav" aria-expanded="false" aria-label="Toggle Making Wiki Navigation">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="bi bi-expand" fill="currentColor" viewBox="0 0 16 16">
                 <title>Expand</title>
@@ -55,7 +54,7 @@
     <main data-pagefind-body class="bd-main order-1">
 
         <div class="bd-intro ps-lg-4">
-           
+            {{ partialCached "pagefind.html" . }}
             {{ partial "breadcrumbs.html" . }}
             <div class="d-md-flex flex-md-row align-items-center justify-content-between">
 
