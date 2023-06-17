@@ -53,7 +53,7 @@
 {{end}} <!-- end if not $isRemote -->
 
 <a href="{{ $link | safeURL  }}" {{ with .Title}} title="{{ . }}" {{ end }}>{{ .Text | safeHTML }}{{ if $isRemote }}<span style="white-space: nowrap;">&thinsp;
-        <svg style="height: 1rem; width: 1rem; vertical-align: baseline;" focusable="false" data-icon="external-link-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 792">
+        <svg style="height: auto; width: 1rem; margin-left: .25rem; vertical-align: text-top;" focusable="false" data-icon="external-link-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 792">
             <title>external link</title>
             <path fill="none" stroke="currentColor" d="M678.08 396v315.12c0 31.4-25.43 56.85-56.79 56.85H81.49c-31.36 0-56.79-25.45-56.79-56.85V170.77c0-31.4 25.43-56.85 56.79-56.85h269.9" style="stroke-width:62;stroke-linecap:round;stroke-miterlimit:10" />
             <path stroke="currentColor" d="m165.25 626.76 489.74-489.75" style="stroke-width:54;stroke-linecap:round;stroke-miterlimit:10" />

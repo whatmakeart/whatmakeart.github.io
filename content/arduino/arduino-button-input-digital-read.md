@@ -12,7 +12,7 @@ The Arduino documentation explains how the pins on the Arduino can randomly "flo
 
 <figure>
 
-[![Arduino Button Circuit](./arduino-button-digital-read-serial-example-circuit-from-arduino-docs.png)](./arduino-button-digital-read-serial-example-circuit-from-arduino-docs.png)
+[![Arduino Button Circuit](./2023-arduino-button-digital-read-serial-example-circuit-from-arduino-docs.png)](./2023-arduino-button-digital-read-serial-example-circuit-from-arduino-docs.png)
 
 <figcaption>
 

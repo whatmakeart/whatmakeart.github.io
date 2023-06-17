@@ -5,8 +5,4 @@ draft: false
 toc: true
 ---
 
-# Include ![]() With Document Relative Link Test
-
 ![Ld](../../../../electronics/electricity-basics.md)
-
-![dd](../../../../digital-fabrication/3d-printing/3d-printing.md)

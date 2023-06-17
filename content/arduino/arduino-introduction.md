@@ -8,9 +8,9 @@ This [online guide](https://docs.arduino.cc/software/ide-v2/tutorials/getting-st
 
 ## Arduino References
 
-(Arduino UNO Data sheet)[https://docs.arduino.cc/static/6c94080aaecc364dd9013ce042a27790/A000066-datasheet.pdf]
+[Arduino UNO Data sheet](https://docs.arduino.cc/static/6c94080aaecc364dd9013ce042a27790/A000066-datasheet.pdf)
 
-(Arduino Pinout PDF Download from Arduino)[https://content.arduino.cc/assets/A000066-full-pinout.pdf]
+[Arduino Pinout PDF Download from Arduino](https://content.arduino.cc/assets/A000066-full-pinout.pdf)
 
 ## What is a Breadboard?
 

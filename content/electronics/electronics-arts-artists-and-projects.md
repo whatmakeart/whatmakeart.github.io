@@ -1,7 +1,5 @@
 ---
-title: "01.07 - Electronic Arts Reference Artists and Projects"
-date: 2020-01-26T23:11:13Z
-draft: false
+title: Electronic Arts Artists and Projects
 ---
 
 There is an embedded video of an example of each artist's work. Each artist makes so much more work than one example so their name links to their website. Make sure to watch the videos and then click on the name of the artist to see more of their work.
