@@ -1,6 +1,5 @@
 {{ define "main" }}
 
-    {{ .Content }}
-    {{ partial "pagefind.html" . }}
+    {{ partialCached "pagefind.html" . }}
 
 {{ end }}
