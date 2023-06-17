@@ -1,9 +1,4 @@
-<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" media="screen">
-<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/bootstrap.min.css" media="screen">
-<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/bootstrap-docs.css" media="screen">
-<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/styles.css" media="screen">
-
- -->
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" media="screen"> -->
 
 {{ $bootstrapCSS := resources.Get "css/bootstrap.min.css" }}
 {{ $bootstrapDocsCSS := resources.Get "css/bootstrap-docs.css" }}
@@ -14,5 +9,3 @@
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" media="screen">
 <link rel="stylesheet" type="text/css" href="{{ $gutenbergCSS.RelPermalink }}" media="print">
 <link href="/artsearch/pagefind-ui.css" rel="stylesheet">
-<link href="artsearch/pagefind-ui.css" rel="stylesheet">
-<link href="{{ .Site.BaseURL }}artsearch/pagefind-ui.css" rel="stylesheet">

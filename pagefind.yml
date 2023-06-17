@@ -8,3 +8,5 @@ exclude_selectors:
   - "[class='highlight']"
   - "[class='footnote-backref']"
   - "[id='breadcrumbs']"
+  - "[id='post-list-page']" # List pages for posts
+  - "[id='topTOC']"
