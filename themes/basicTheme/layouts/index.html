@@ -17,10 +17,10 @@
 </nav>
 
 <article class="container-xxl my-md-4 bd-layout">
+
     <aside class="bd-sidebar">
         <nav class="collapse bd-links" id="making-wiki-nav" aria-label="Making Wiki Navigation">
             <ul class="list-unstyled mb-0 py-3 pt-md-1">
-
 
                 {{ $p1 := where .Sections.ByTitle "Section" "not in" (slice "posts" "courses" ) }}
                 {{ $p2 := where .Site.RegularPages "Type" "page"}}
@@ -50,8 +50,8 @@
 
             </ul>
         </nav>
-
     </aside>
+
     <main class="bd-main order-1">
 
         <div class="bd-intro ps-lg-4">
@@ -81,25 +81,22 @@
         </div>
 
 
-        <aside class="bd-toc mt-4 mb-5 my-md-0 px-xl-3 mb-lg-5 text-muted" id="topTOC">
-            {{ partial "toc.html" . }}
-        </aside>
-
-        <div class="bd-content ps-lg-4">
+        <div class="bd-content ">
             {{ .Content }}
 
             <h1>Courses</h1>
-            <ul style="display:grid; grid-template-columns: 1fr 1fr; grid-gap: 1rem;">
-
+            <div style="display:grid; grid-template-columns: 1fr 1fr; grid-gap: 1rem;">
                 {{ with site.GetPage "courses"}}
                 {{ range .Pages }}
-                <li class="list-group-item">
-                    <h2><a href="{{ .RelPermalink}}">{{ .Title }}</a></h2>
-
-                </li>
+                <div class="card">
+                    <div class="card-body">
+                        <h2><a class="stretched-link" href="{{ .RelPermalink}}">{{ .Title }}</a></h2>
+                        <p class="card-text">{{ .Summary }}</p>
+                    </div>
+                </div>
                 {{ end }}
                 {{ end }}
-            </ul>
+            </div>
 
 
         </div>

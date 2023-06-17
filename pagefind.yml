@@ -1,3 +1,9 @@
 # pagefind.yml
 source: public
 bundle_dir: artsearch
+
+exclude_selectors:
+  # hugo created footnote ids and class to exclude from search
+  - "[id^='fnref']"
+  - "[class='highlight']"
+  - "[class='footnote-backref']"
