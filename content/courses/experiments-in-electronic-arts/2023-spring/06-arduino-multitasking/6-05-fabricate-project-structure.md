@@ -12,7 +12,7 @@ draft: false
 
 ## Assignment Overview
 
-You now have a prototype triangle written for your project as well as a pseudo-code sketch with various needed functions. You also have some working hardware and code. To prepare for the presentation of working prototypes in two weeks, progress must be made on the structure components of the project. Having dedicated structure to hold (a speaker, potentiometer, stepper motor, servo motor, LEDs, wireless transmitters, buttons, perfume, relays, the arduino) is essential to move the project from a jumble of wires on a table to a real electronic art experience.
+You now have a [prototype triangle](../../../../electronics/prototyping-triangle.md) written for your project as well as a pseudo-code sketch with various needed functions. You also have some working hardware and code. To prepare for the presentation of working prototypes in two weeks, progress must be made on the structure components of the project. Having dedicated structure to hold (a speaker, potentiometer, stepper motor, servo motor, LEDs, wireless transmitters, buttons, perfume, relays, the arduino) is essential to move the project from a jumble of wires on a table to a real electronic art experience.
 
 Now that some decisions have been made on hardware, decisions need to be made about the structure. As pieces of the structure are completed and assembled, they will guide how the code and hardware will interact. There will be limitations to the structure and we want to know these so the project can accommodate them as much as possible.
 

@@ -6,11 +6,25 @@
                 <a class="d-inline-flex align-items-center mb-2 link-dark text-decoration-none" href="/" aria-label="What Make Art"><img src="{{ $footerLogo.RelPermalink }}" alt="Whatmakeart website logo" style="height:32px; width:32px;" class="d-block me-2" class="fs-5">What Make Art</span></a>
                 <ul class="list-unstyled small text-muted">
                     <li class="mb-2">Wiki, Tutorials and Course Materials for making art.</li>
-                    <li class="mb-2">Copyright (c) Jimmy Kuehnle</li>
+                    <li class="mb-2" style="display:inline"><a class="icon" rel="me" title="GitHub" href="https://github.com/whatmakeart" rel="noopener" aria-label="GitHub">
+						{{- partialCached "svg/svgGitHubIcon.html" . -}}
+					</a></li>
+                    <li class="mb-2" style="display:inline"><a class="icon" rel="me" title="Mastodon" href="https://mstdn.social/@whatmakeart" rel="noopener" aria-label="Mastodon">
+						{{- partialCached "svg/svgMastodonIcon.html" . -}}
+					</a></li>
+                     <li class="mb-2" style="display:inline"><a class="icon" rel="me" title="Twitter" href="https://twitter.com/whatmakeart" rel="noopener" aria-label="Twitter">
+						{{- partialCached "svg/svgTwitterIcon.html" . -}}
+					</a></li>
+                    <li><a href="/sitemap.xml">XML Sitemap</a></li>
+                    <li><a href="/sitemap/">HTML Sitemap</a></li>
+
+
+                    <li class="mb-2">Copyright (c) <a href="https://jimmykuehnle.com/" rel="me">Jimmy Kuehnle</a></li>
                     <li class="mb-2">
                         {{ partial "edit-page" . }}
                     </li>
                 </ul>
+
             </div>
             <div class="col-6 col-lg-2 offset-lg-1 mb-3">
                 <h5 style="font-size:1.25rem; font-weight:600;">Links</h5>
