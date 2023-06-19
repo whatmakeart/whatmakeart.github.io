@@ -1,109 +1,72 @@
+{{ define "body_override" }}<body{{ if (eq .Page.Params.toc true) }} data-bs-spy="scroll" data-bs-target="#TableOfContents"{{ end }}>{{ end }}
 {{ define "main" }}
-
-<nav class="bd-subnavbar py-2">
-    <div class="container-xxl d-flex align-items-md-center">
-        <button class="btn bd-sidebar-toggle d-md-none py-0 px-1 ms-3 order-3 collaped" type="button" data-bs-toggle="collapse" data-bs-target="#making-wiki-nav" aria-controls="making-wiki-nav" aria-expanded="false" aria-label="Toggle Making Wiki Navigation">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="bi bi-expand" fill="currentColor" viewBox="0 0 16 16">
-                <title>Expand</title>
-                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13A.5.5 0 0 1 1 8zM7.646.146a.5.5 0 0 1 .708 0l2 2a.5.5 0 0 1-.708.708L8.5 1.707V5.5a.5.5 0 0 1-1 0V1.707L6.354 2.854a.5.5 0 1 1-.708-.708l2-2zM8 10a.5.5 0 0 1 .5.5v3.793l1.146-1.147a.5.5 0 0 1 .708.708l-2 2a.5.5 0 0 1-.708 0l-2-2a.5.5 0 0 1 .708-.708L7.5 14.293V10.5A.5.5 0 0 1 8 10z"></path>
-            </svg>
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="bi bi-collapse" fill="currentColor" viewBox="0 0 16 16">
-                <title>Collapse</title>
-                <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13A.5.5 0 0 1 1 8zm7-8a.5.5 0 0 1 .5.5v3.793l1.146-1.147a.5.5 0 0 1 .708.708l-2 2a.5.5 0 0 1-.708 0l-2-2a.5.5 0 1 1 .708-.708L7.5 4.293V.5A.5.5 0 0 1 8 0zm-.5 11.707l-1.146 1.147a.5.5 0 0 1-.708-.708l2-2a.5.5 0 0 1 .708 0l2 2a.5.5 0 0 1-.708.708L8.5 11.707V15.5a.5.5 0 0 1-1 0v-3.793z"></path>
-            </svg>
-            Expand Art Wiki Topics
-        </button>
-    </div>
-</nav>
-
-<article class="container-xxl my-md-4 bd-layout">
-
+  <div class="container-xxl bd-gutter mt-3 my-md-4 bd-layout">
     <aside class="bd-sidebar">
-        <nav class="collapse bd-links" id="making-wiki-nav" aria-label="Making Wiki Navigation">
-            <ul class="list-unstyled mb-0 py-3 pt-md-1">
-                {{ $p1 := where .Site.Home.Sections.ByTitle "Section" "not in" (slice "posts" "courses" ) }}
-                {{ $p2 := where .Site.RegularPages "Type" "page"}}
-                {{ $pages := union $p1 $p2 }}
-
-                {{ range ($pages) }} <!-- add ($pages.ByTitle) to sort all together in order-->
-
-                {{ if .IsNode }}
-                <li class="mb-1">
-                    <button class="btn d-inline-flex align-items-center rounded collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{ .Title | urlize  }}" aria-expanded="false" aria-controls="{{ .Title | urlize  }}">
-                        {{ .Title }}
-                    </button>
-
-                    <div class="collapse" id="{{ .Title | urlize  }}">
-                        {{ partial "walk.html" . }}
-                    </div>
-                </li>
-                {{end }}
-
-                {{ if .IsPage }}
-                <li class="fw-normal">
-                    <a class="d-inline-flex align-items-center rounded" href="{{ .RelPermalink }}">{{ .Title }}</a>
-                </li>
-                {{end }}
-
-                {{ end }}
-
-            </ul>
-        </nav>
-
-    </aside>
-    <main data-pagefind-body class="bd-main order-1">
-
-        <div class="bd-intro ps-lg-4">
-            {{ partialCached "pagefind.html" . }}
-            {{ partial "breadcrumbs.html" . }}
-            <div class="d-md-flex flex-md-row align-items-center justify-content-between">
-
-
-                <h1 class="bd-title" id="pageTitleH1">{{ .Title }}</h1>
-            </div>
-            {{ partial "head/reading-time.html" . }}
+      <div class="offcanvas-lg offcanvas-start" tabindex="-1" id="bdSidebar" aria-labelledby="bdSidebarOffcanvasLabel">
+        <div class="offcanvas-header border-bottom">
+          <h5 class="offcanvas-title" id="bdSidebarOffcanvasLabel">Browse docs</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#bdSidebar"></button>
         </div>
 
+        <div class="offcanvas-body">
+          {{ partial "docs-sidebar" . }}
+        </div>
+      </div>
+    </aside>
 
-        <aside class="bd-toc mt-4 mb-5 my-md-0 px-xl-3 mb-lg-5 text-muted" id="topTOC">
-                
+    <main class="bd-main order-1">
+      <div class="bd-intro pt-2 ps-lg-2">
+        <div class="d-md-flex flex-md-row-reverse align-items-center justify-content-between">
+          <div class="mb-3 mb-md-0 d-flex text-nowrap">
+            {{- if .Page.Params.added -}}
+              <small class="d-inline-flex px-2 py-1 fw-semibold text-success-emphasis bg-success-subtle border border-success-subtle rounded-2 me-2">Added in v{{ .Page.Params.added }}</small>
+            {{- end -}}
+            <a class="btn btn-sm btn-bd-light rounded-2" href="{{ .Site.Params.repo }}/blob/v{{ .Site.Params.current_version }}/site/content/{{ .Page.File.Path | replaceRE `\\` "/" }}" title="View and edit this file on GitHub" target="_blank" rel="noopener">
+              View on GitHub
+            </a>
+          </div>
+          <h1 class="bd-title mb-0" id="content">{{ .Title | markdownify }}</h1>
+        </div>
+        <p class="bd-lead">{{ .Page.Params.Description | markdownify }}</p>
+        <!-- ads -->
+      </div>
 
-            {{ partial "toc.html" . }}
+      {{ if (eq .Page.Params.toc true) }}
+        <div class="bd-toc mt-3 mb-5 my-lg-0 mb-lg-5 px-sm-1 text-body-secondary">
+          <button class="btn btn-link p-md-0 mb-2 mb-md-0 text-decoration-none bd-toc-toggle d-md-none" type="button" data-bs-toggle="collapse" data-bs-target="#tocContents" aria-expanded="false" aria-controls="tocContents">
+            On this page
+            <svg class="bi d-md-none ms-2" aria-hidden="true"><use xlink:href="#chevron-expand"></use></svg>
+          </button>
+          <strong class="d-none d-md-block h6 my-2 ms-3">On this page</strong>
+          <hr class="d-none d-md-block my-2 ms-3">
+          <div class="collapse bd-toc-collapse" id="tocContents">
+            {{ .TableOfContents }}
+          </div>
+        </div>
+      {{ end }}
 
-            {{ partial "backlinks.html" . }}
-
-
-        </aside>
-
-        <div class="bd-content ps-lg-4">
-
-        {{ if in .Params.tags "stub" }}
-            <div class="bd-callout bd-callout-info"><strong>This page is an incomplete stub.</strong> It serves as a placeholder for inbound links from other pages. Check back for updated content. </p>
+      <div class="bd-content ps-lg-2">
+        {{ if .Page.Params.sections }}
+          <div class="row g-3">
+            {{ range .Page.Params.sections }}
+            <div class="col-md-6">
+              <a class="d-block text-decoration-none" href="../{{ urlize .title }}/">
+                <strong class="d-block h5 mb-0">{{ .title }}</strong>
+                <span class="text-secondary">{{ .description }}</span>
+              </a>
             </div>
+            {{ end }}
+          </div>
         {{ end }}
 
-
-            {{ .Content }}
-
-            {{ partial "backlinks.html" . }}
-
-            <!-- Last Updated Date -->
-       
-            {{- if $.GitInfo -}}
-                <div class="post-info-last-mod">
-                    (Last Modified:
-                    <time datetime="{{ .Lastmod }}" title="{{ .Lastmod }}">
-                        {{ .Lastmod.Format "January 2, 2006" }}
-                    </time>)
-                </div>
-            {{- end -}}
-
-
-
-        </div>
-
+        {{ .Content }}
+      </div>
     </main>
-</article>
-
-
+  </div>
+{{ end }}
+{{ define "footer" }}
+  {{ range .Page.Params.extra_js -}}
+    <script{{ with .async }} async{{ end }} src="{{ .src }}"></script>
+  {{- end -}}
+  <div class="position-fixed" aria-hidden="true"><input type="text" tabindex="-1"></div>
 {{ end }}

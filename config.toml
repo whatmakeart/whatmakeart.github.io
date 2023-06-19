@@ -15,28 +15,20 @@ pluralizelisttitles = false
   filename = "sitemap.xml"
 
 [params]
-  favicon = "/img/favicon/favicon.ico"
-  site_logo = "/img/whatmakeart-logo.png"
   description = "Whatmakeart how to make art tutorials"
   facebook = ""
   twitter = "https://twitter.com/whatmakeart"
   instagram = "https://www.instagram.com/whatmakeart/"
   youtube = "https://www.youtube.com/channel/UCmGXH-jy0o2CuhqtpxbaQgA"
-  github = ""
-  gitlab = ""
+  github = "https://github.com/whatmakeart/"
   linkedin = ""
-  mastodon = ""
+  mastodon = "https://mstdn.social/@whatmakeart"
   slack = ""
   stackoverflow = ""
   rss = ""
   GithubEdit = "https://github.com/whatmakeart/whatmakeart.github.io/edit/main/content/"
   featured_image = "/img/whatmakeart-logo.png"
-  recent_posts_number = 8
-  post_content_classes = "sans-serif"
-  custom_css = ["css/custom.css"]
-  custom_js = ["js/custom.js"]
  
-
 [params.toc]
   startLevel = 1      # default is 2
   endLevel = 6       # default is 3

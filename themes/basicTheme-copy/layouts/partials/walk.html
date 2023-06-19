@@ -1,0 +1,26 @@
+<ul class="list-unstyled fw-normal pb-1">
+    {{ range .Pages.ByTitle }}
+
+    {{ if .IsNode }}
+    <li class="mb-1">
+        <button class="btn d-inline-flex align-items-center rounded collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{ .Title | urlize  }}" aria-expanded="false" aria-controls="{{ .Title | urlize  }}">
+            {{ .Title }}
+        </button>
+
+        <div class="collapse" id="{{ .Title | urlize  }}">
+            {{ if .Pages }}
+            {{ partial "walk.html" . }}
+            {{ end }}
+        </div>
+    </li>
+    {{ end }}
+
+    {{ if .IsPage }}
+    <li>
+        <a class="d-inline-flex align-items-center rounded" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+
+    {{ end }}
+
+</ul>

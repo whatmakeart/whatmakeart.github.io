@@ -1,5 +1,6 @@
 ---
 title: Outputting Sound with Raspberry Pi
+description: How to output sound with a Raspberry Pi single board computer.
 tags:
   - stub
 ---

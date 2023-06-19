@@ -1,6 +1,6 @@
 ---
 title: "02.03 Arduino Potentiometer Input Analog Read Serial"
-date: 2020-01-26T23:11:13Z
+date: 2023-01-27T09:30:00Z
 toc: true
 draft: false
 ---

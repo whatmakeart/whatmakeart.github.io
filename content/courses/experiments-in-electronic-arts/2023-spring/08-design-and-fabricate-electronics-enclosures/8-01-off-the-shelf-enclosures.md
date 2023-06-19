@@ -1,6 +1,6 @@
 ---
 title: "08.01 - Off the Shelf Enclosures"
-date: 2020-01-26T23:11:13Z
+date: 2023-03-10T09:30:00Z
 toc: true
 draft: false
 ---

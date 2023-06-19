@@ -1,5 +1,5 @@
 ---
 title: "12 Wiring Mains Power"
-date: 2020-01-26T23:11:13Z
+date: 2023-04-14T09:30:00Z
 draft: false
 ---

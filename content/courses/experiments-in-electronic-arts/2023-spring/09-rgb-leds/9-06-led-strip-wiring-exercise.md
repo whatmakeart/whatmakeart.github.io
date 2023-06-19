@@ -1,6 +1,6 @@
 ---
 title: "09.06 LED Strip Wiring Exercise"
-date: 2020-01-26T23:11:13Z
+date: 2023-03-24T09:30:00Z
 draft: false
 ---
 

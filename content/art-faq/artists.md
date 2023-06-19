@@ -7,6 +7,7 @@ It is important to look at the work of other artists to learn and be inspired.
 - Sarah Zapata - textile Artist
 - Abigail DeVille
 - Julie Schenkelberg
+- https://sunnyasmith.com/
 - [Violet Maimbourg](http://www.violetmaimbourg.com/) - Violet graduated from CIA’s Sculpture + Expanded Media program in 2021. Violet's interdisciplinary practice includes installation, video, and object-based work, which has been exhibited nationally and internationally.
 - [Zeera Kahmed](https://zeerakahmed.squarespace.com/)
 - [Valeria Tizol Vivas](https://www.valeriatizolvivas.com/)

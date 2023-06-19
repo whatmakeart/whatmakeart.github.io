@@ -1,21 +1,20 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-{{ hugo.Generator }}
+  <head>
+    {{ partial "head/head" . }}
+  </head>
+  {{ block "body_override" . }}<body>{{ end }}
+    {{ partial "skippy" . }}
 
-<head>
-    {{ partial "head/head.html" . }}
-</head>
+    {{ partial "docs-navbar" . }}
 
-<body itemscope itemtype="https://schema.org/WebPage" class="d-flex flex-column min-vh-100"> <!-- for a flush to bottom footer -->
+    {{ block "main" . }}
+    {{ end }}
 
-    {{ partial "header.html" . }}
+    {{ partial "footer" . }}
+    {{ partial "scripts" . }}
 
-    {{ block "main" . }}{{ end }}
-
-
-    {{ partial "footer.html" . }}
-
-    {{ partial "script.html" . }}
-</body>
-
+    {{ block "footer" . }}
+    {{ end }}
+  </body>
 </html>

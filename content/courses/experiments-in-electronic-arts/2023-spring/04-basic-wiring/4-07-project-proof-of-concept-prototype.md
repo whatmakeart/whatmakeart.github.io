@@ -1,6 +1,6 @@
 ---
 title: "04.07 Project Component Proof of Concept Prototype"
-date: 2020-01-26T23:11:13Z
+date: 2023-02-10T09:30:00Z
 draft: false
 ---
 

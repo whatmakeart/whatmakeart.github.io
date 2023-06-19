@@ -1,6 +1,6 @@
 ---
 itle: "07.02 - Making Perfboard Connections"
-date: 2020-01-26T23:11:13Z
+date: 2023-03-03T09:30:00Z
 toc: true
 draft: false
 ---

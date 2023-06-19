@@ -1,6 +1,6 @@
 ---
 title: "02.00 - Introduction to Interactivity"
-date: 2020-01-26T23:11:13Z
+date: 2023-01-27T09:30:00Z
 draft: false
 ---
 

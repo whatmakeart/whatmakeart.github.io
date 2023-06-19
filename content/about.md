@@ -23,7 +23,12 @@ This is a conceptual work in progress exploring better ways to exchange informat
 
 ## Public vs Private vs Hybrid?
 
-Tech Wikis https://github.com/MicrosoftDocs/azure-docs https://docs.github.com/en/communities/documenting-your-project-with-wikis https://docs.gitlab.com/ee/user/project/pages/
+### Tech Company Wikis
+
+- [Microsoft Azure Docs](https://github.com/MicrosoftDocs/azure-docs)
+- [GitHub Wiki Guide](https://docs.github.com/en/communities/documenting-your-project-with-wikis)
+- [GitLab Docs](https://docs.gitlab.com/ee/user/project/pages/)
+- Cloudflare Docs
 
 ### Examples of Coursework and Research Publicly Accessible
 
@@ -42,7 +47,10 @@ Tech Wikis https://github.com/MicrosoftDocs/azure-docs https://docs.github.com/e
 
 #### University of Washington Computer Science Courses
 
-These "open" course pages have been available for years and are a model of what I think should be done at a minimum. An LMS such as Canvas or Blackboard could be used to make course content public but then why not just publish the material on the web so it is more likely to be longer lasting [University of Washington Computer Science Course CSE 458](https://courses.cs.washington.edu/courses/cse458/) [University of Washington Computer Science Course CSE 490](https://courses.cs.washington.edu/courses/cse490t/15sp/)
+These "open" course pages have been available for years and are a model of what I think should be done at a minimum. An LMS such as Canvas or Blackboard could be used to make course content public but then why not just publish the material on the web so it is more likely to be longer lasting
+
+- [University of Washington Computer Science Course CSE 458](https://courses.cs.washington.edu/courses/cse458/)
+- [University of Washington Computer Science Course CSE 490](https://courses.cs.washington.edu/courses/cse490t/15sp/)
 
 [Data Engineering Community Wiki](https://github.com/data-engineering-community/data-engineering-wiki)
 
@@ -88,7 +96,7 @@ There could be a handful of approved editors that are able to make changes. Ifth
 
 [Markdown Editors](https://www.oberlo.com/blog/markdown-editors)
 
-https://www.11ty.dev/
+- [11ty](https://www.11ty.dev/)
 
 ## Future Proofing and Avoiding Software Lock-In
 
@@ -108,23 +116,19 @@ The platform should be easy to edit on mobile and desktop. It should be designed
 
 ### Potential Platforms
 
-[Wiki.js](https://js.wiki/) [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) [Docuwiki](https://www.dokuwiki.org/dokuwiki)
-
-[Wiki Matrix](https://www.wikimatrix.org/) This site compares the features of different wiki software
-
-https://github.com/jobindjohn/obsidian-publish-mkdocs
+- [Wiki.js](https://js.wiki/)
+- [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
+- [Docuwiki](https://www.dokuwiki.org/dokuwiki)
+- [Wiki Matrix](https://www.wikimatrix.org/) This site compares the features of different wiki software
 
 ## Additional Resources
 
 ### Wiki Organization Tips
 
-[Strategies for Wiki Organization](https://tychoish.com/post/strategies-for-organizing-wiki-content/)
-
-[My workflow in writing and maintaining this wiki | Everything I know](https://wiki.nikiv.dev/other/wiki-workflow)
-
-[Personal Knowledge Management (PKM) | Organize Your Work and Life - Taskade Blog](https://www.taskade.com/blog/personal-knowledge-management-pkm-guide/)
-
-[Jason Heppler's Notebook](http://notebook.jasonheppler.org/)
+- [Strategies for Wiki Organization](https://tychoish.com/post/strategies-for-organizing-wiki-content/)
+- [My workflow in writing and maintaining this wiki | Everything I know](https://wiki.nikiv.dev/other/wiki-workflow)
+- [Personal Knowledge Management (PKM) | Organize Your Work and Life - Taskade Blog](https://www.taskade.com/blog/personal-knowledge-management-pkm-guide/)
+- [Jason Heppler's Notebook](http://notebook.jasonheppler.org/)
 
 ### Public Zettelkastens
 
@@ -132,9 +136,8 @@ https://github.com/jobindjohn/obsidian-publish-mkdocs
 
 ### Copyright in Online Teaching
 
-[Penn State Online Copyright Guide](https://guides.library.upenn.edu/copyright/onlinecourses)
-
-[TEACH Act Checklist from University of Texas](https://guides.lib.utexas.edu/copyright/teachactchecklist)
+- [Penn State Online Copyright Guide](https://guides.library.upenn.edu/copyright/onlinecourses)
+- [TEACH Act Checklist from University of Texas](https://guides.lib.utexas.edu/copyright/teachactchecklist)
 
 #### Intellectual Property
 

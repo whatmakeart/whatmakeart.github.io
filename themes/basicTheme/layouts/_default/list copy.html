@@ -1,0 +1,38 @@
+{{ define "main" }}
+<article data-pagefind-ignore="all" class="container-xxl my-md-4 bd-layout">
+    <main class="bd-main order-1">
+        <div class="bd-intro ps-lg-4">
+            {{ partial "breadcrumbs.html" . }}
+            <div class="d-md-flex flex-md-row-reverse align-items-center justify-content-between">
+
+                {{ partial "edit-page" . }}
+
+                <h1 class="bd-title" id="pageTitleH1">{{ .Title }}</h1>
+
+            </div>
+        </div>
+
+        <aside class="bd-toc mt-4 mb-5 my-md-0 px-xl-3 mb-lg-5 text-muted" id="topTOC">
+            {{ partial "toc.html" . }}
+        </aside>
+
+        <div class="bd-content ps-lg-4">
+            {{ .Content }}
+
+            <!-- Groups content according to content section. The ".Key" in this instance will be the section's title. -->
+            {{ range .Pages.GroupBy "Section" }}
+            <br>
+            <h3>{{ .Key }}</h3>
+            <ul class="list-group"></ul>
+            {{ range .Pages.ByTitle }}
+            <li class="list-group-item">
+                <a class="title-link stretched-link" href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+            </ul>
+        </div>
+    </main>
+
+    {{ end }}
+</article>
+{{ end }}

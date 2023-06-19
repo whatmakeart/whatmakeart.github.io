@@ -18,7 +18,7 @@ Think about movies, cartoons or video games that you have experienced? Is everyt
 
 <figure>
 
-![Lego Establishing Shot](2021-Establishing-Shot.jpg)
+![Lego Establishing Shot](attachments/2021-Establishing-Shot.jpg)
 
 <figcaption>
 
@@ -29,7 +29,7 @@ Establishing Shot
 
 <figure>
 
-![Lego Full Shot](2021-full-shot.jpg)
+![Lego Full Shot](attachments/2021-full-shot.jpg)
 
 <figcaption>
 
@@ -40,7 +40,7 @@ Full Shot
 
 <figure>
 
-![Lego Medium Shot](2021-medium-shot.jpg)
+![Lego Medium Shot](attachments/2021-medium-shot.jpg)
 
 <figcaption>
 
@@ -51,7 +51,7 @@ Medium Shot
 
 <figure>
 
-![Lego Close Up Shot](2021-close-up.jpg)
+![Lego Close Up Shot](attachments/2021-close-up.jpg)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ Close Up
 
 <figure>
 
-![Lego Extreme Close Up](2021-extreme-closeup.jpg)
+![Lego Extreme Close Up](attachments/2021-extreme-closeup.jpg)
 
 <figcaption>
 
@@ -81,7 +81,7 @@ Using a simple shape like a ball as the subject of a composition does not change
 
 <figure>
 
-![Ball Establishing Shot](2021-ball-establishing.jpg)
+![Ball Establishing Shot](attachments/2021-ball-establishing.jpg)
 
 <figcaption>
 
@@ -92,7 +92,7 @@ Establishing Shot
 
 <figure>
 
-![Ball Full Shot](2021-ball-full-shot.jpg)
+![Ball Full Shot](attachments/2021-ball-full-shot.jpg)
 
 <figcaption>
 
@@ -103,7 +103,7 @@ Full Shot
 
 <figure>
 
-![Ball Medium Shot](2021-ball-medium-shot.jpg)
+![Ball Medium Shot](attachments/2021-ball-medium-shot.jpg)
 
 <figcaption>
 
@@ -114,7 +114,7 @@ Medium Shot
 
 <figure>
 
-![Ball Close Up](2021-ball-close-up.jpg)
+![Ball Close Up](attachments/2021-ball-close-up.jpg)
 
 <figcaption>
 
@@ -125,7 +125,7 @@ Close Up
 
 <figure>
 
-![Ball Extreme Close Up](2021-ball-extreme-close-up.jpg)
+![Ball Extreme Close Up](attachments/2021-ball-extreme-close-up.jpg)
 
 <figcaption>
 
@@ -152,7 +152,7 @@ Use the rule of thirds when composing your shots and sequences.
 
 <figure>
 
-![Rule of Thirds](RuleOfThirds-SideBySide.gif)
+![Rule of Thirds](attachments/RuleOfThirds-SideBySide.gif)
 
 <figcaption>
 

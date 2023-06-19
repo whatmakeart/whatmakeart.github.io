@@ -1,5 +1,5 @@
 ---
 title: "10 Relays and Power"
-date: 2020-01-26T23:11:13Z
+date: 2023-03-31T09:30:00Z
 draft: false
 ---

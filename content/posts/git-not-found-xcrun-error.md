@@ -1,14 +1,16 @@
 ---
 date: 2023-05-08T8:30:00-04:00
-description: xcrun error invalid active developer path How can you fix your git installation when it is installed on a mac but Visual Studio Code does not find the installation.
-featured_image: "/posts/images/git-not-found-title.jpg"
+description: xcrun error invalid active developer path How can you fix your git installation when installed on a mac but Visual Studio Code does not find the installation.
+featured_image: /posts/images/git-not-found-title.jpg
 tags:
+  - Coding
   - Visual Studio Code
   - git
-  - coding
 title: git Not Found xcrun error
 draft: false
-spellcheck: off
+keywords:
+  - git
+  - visual studio code
 ---
 
 {{< youtube id="aV6Kb-2eAL0" title="git not found xcrun error" >}}

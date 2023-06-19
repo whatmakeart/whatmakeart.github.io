@@ -1,6 +1,6 @@
 ---
 title: 11.03 Long Signal Wires
-date: 2020-01-26T23:11:13Z
+date: 2023-04-07T09:30:00Z
 toc: true
 draft: false
 ---

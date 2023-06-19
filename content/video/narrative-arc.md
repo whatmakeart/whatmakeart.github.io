@@ -34,7 +34,7 @@ A [Story Spine](story-spine.md) is simple method to break a story down into 9 pa
 
 Writing a Story Spine and Storyboards will give you an outline and direction to work from. Rather than working with everything possible in the universe, a Story Spine and Story Boards will narrow the scope and set limitations that you can work creatively within.
 
-[Link to Blank Fillable Story Spine Sheet](story-spine-sheet.docx)
+[Link to Blank Fillable Story Spine Sheet](attachments/story-spine-sheet.docx)
 
 ### Story Spine Structure
 
