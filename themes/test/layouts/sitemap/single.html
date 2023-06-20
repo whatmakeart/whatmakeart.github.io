@@ -1,0 +1,45 @@
+{{ define "main" }}
+	<div data-pagefind-ignore class="container-xxl bd-gutter mt-3 my-md-4 bd-layout">
+		 <main class="bd-main order-1">
+		    <div class="bd-intro pt-2 ps-lg-2">
+       			{{ partial "breadcrumbs" . }}
+        		 <div class="d-md-flex flex-md-row-reverse align-items-center justify-content-between">
+          
+          			<div class="mb-3 mb-md-0 d-flex text-nowrap">
+          				<!-- placeholder to keep title to the left, used to hold the view on GitHub Button -->
+          			</div>
+          			<h1 class="bd-title mb-0" id="content">{{ .Title | markdownify }}</h1>
+       			 </div>
+       			 <p class="bd-lead">{{ .Page.Params.Description | markdownify }}</p>
+       				 <!-- ads -->
+    		</div>
+
+        	<div class="bd-content ps-lg-2">
+
+				<div class="sitemap-Div">
+					<h2>Main pages</h2>
+					<ul>
+						<li><a href="/">Home page</a></li>
+						<li><a href="/about/">About</li>
+						<li><a href="/courses/">Courses</li>
+						<li><a href="/search/">Search page</a></li>
+					</ul>
+					<h2>Pages</h2>
+					<ul>
+						{{ $p1 := where .Site.Home.Sections.ByTitle "Section" "not in" (slice "sitemap" ) }}
+						{{ $p2 :=  .Site.RegularPages}}
+						{{ $pages := union $p1 $p2 }}
+						{{ range ($pages) }} <!-- add ($pages.ByTitle) to sort all together in order-->
+							{{- if (ne .Title "Posts") -}}
+								<li><strong><a href="{{ .RelPermalink }}">{{ .Title | .Page.RenderString }}</a></strong>{{- if ne (substr .Title 0 22) "The site this week: 20" -}}&nbsp;&nbsp;<span class="legal nobrk pub-date">{{ .PublishDate.Format "2006-01-02" }}</span>{{- end -}}<br />
+								<span class="description">{{ .Description | .Page.RenderString }}</span></li>
+							{{- end -}}
+						{{- end -}}
+					</ul>
+				</div>
+			</div>	
+		</main>
+	</div>
+{{ end }}
+
+   

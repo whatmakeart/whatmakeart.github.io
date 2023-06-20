@@ -1,5 +1,0 @@
-{{ $child_pages := union .Sections .RegularPages }}
-{{ range $child_pages }}
-<li class="list-group-item"><a class="link-dark stretched-link" href="{{.Permalink}}">{{.Title}}</a></li>
-{{ partial "recursive.html" . }}
-{{ end }}

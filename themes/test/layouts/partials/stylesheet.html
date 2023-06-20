@@ -1,0 +1,21 @@
+ {{/* Load Bootstrap SCSS. */}}
+  {{ $options := dict "enableSourceMap" true }}
+  {{ if hugo.IsProduction}}
+    {{ $options := dict "enableSourceMap" false "outputStyle" "compressed" }}
+  {{ end }}
+
+  {{ $bootstrapCSS := resources.Get "scss/styles.scss" }}
+  {{ $bootstrapCSS = $bootstrapCSS | resources.ToCSS $options }}
+  {{ $bootstrapDocsCSS := resources.Get "css/bootstrap-docs.css" }}
+  {{ $stylesCSS := resources.Get "css/styles.css" }}
+  {{ $gutenbergCSS := resources.Get "css/gutenberg.css" | minify }}
+  {{ $styles := slice $bootstrapCSS $stylesCSS | resources.Concat "css/main.css" }}
+
+  {{ $styles = $styles | resources.ToCSS $options }}
+  {{ if hugo.IsProduction }}
+    {{ $styles = $styles | fingerprint }}
+  {{ end }}
+
+  <link href="{{ $styles.RelPermalink }}" rel="stylesheet" media="screen">
+  <link rel="stylesheet" type="text/css" href="{{ $gutenbergCSS.RelPermalink }}" media="print">
+  <link href="/artsearch/pagefind-ui.css" rel="stylesheet">

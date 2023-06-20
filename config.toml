@@ -1,13 +1,14 @@
 baseURL = "https://whatmakeart.com/"
 languageCode = "en-us"
 title = "What Make Art"
-theme = "basicTheme"
+theme = "test"
 enableGitInfo = "true" # allows to get information such as dates from git
 timout = "10m"
 Paginate = 18
 googleAnalytics = "G-S4CF1KSMYD"
 enableRobotsTXT = true
 pluralizelisttitles = false
+
 
 [sitemap]
   changefreq = "daily"
@@ -62,3 +63,5 @@ pluralizelisttitles = false
   name = 'About'
   url = '/about'
   weight = 35
+
+  

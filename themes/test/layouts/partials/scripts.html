@@ -1,0 +1,17 @@
+   {{/* Load Bootstrap JS. */}}
+
+   {{ $bootstrap := resources.Get "js/bootstrap/bootstrap.bundle.min.js" }}
+   {{ $scripts := resources.Get "js/scripts.js" }}
+   {{ $copyCodeButton:= resources.Get "js/copy-code-button.js" }}
+   {{ $js := slice $bootstrap $scripts $copyCodeButton | resources.Concat "js/bundle.js" }}
+
+   {{ $params := dict }}
+   {{ $sourceMap := cond hugo.IsProduction "" "inline" }}
+   {{ $opts := dict "sourceMap" $sourceMap "minify" hugo.IsProduction "target" "es2018" "params" $params }}
+   {{ $js = $js | js.Build $opts }}
+   {{ if hugo.IsProduction }}
+   {{ $js = $js | fingerprint }}
+   {{ end }}  
+    <script src="{{ $js.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $js.Data.Integrity }}"{{ end }} defer></script>
+
+    <!-- need to check the docs scripts partial -->

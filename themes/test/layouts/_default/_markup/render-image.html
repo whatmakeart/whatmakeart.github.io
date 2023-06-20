@@ -1,0 +1,108 @@
+<!-- Begin Include Markdown Files with ![Image](markdown.md) -->
+{{- $includeUrl := urls.Parse .Destination -}}
+ 
+  {{- $includePath := $includeUrl -}} <!-- fill with default path on initialization -->
+  {{- $searchedFile := $includeUrl -}} <!-- fill with default path on initialization -->
+  {{- $includeFileBase := $includeUrl -}} <!-- fill with default path on initialization -->
+  {{- $includeFileDir := $includeUrl -}}
+  {{- $pathPrefix := "default" -}}
+
+{{- if strings.HasSuffix $includeUrl.Path ".md" -}} <!-- Check if a markdown file extension -->
+
+    {{- if os.FileExists $includeUrl -}} <!-- check if markdown file to include exists with original .Destination-->
+      {{- $includePath = $includeUrl -}} <!-- set include path if File exists -->
+
+    {{- else -}} 
+      {{- $withoutPrefix := replace .Destination "../" "" -}}
+   
+      {{- $withoutPrefix := replace $withoutPrefix "./" "" -}}
+     
+      {{- if os.FileExists $withoutPrefix -}} <!-- check if markdown file to include exists without prefixed ../ -->
+        {{- $includePath = $withoutPrefix -}} <!-- set include path if File exists -->
+      {{- else -}}
+        {{- $pathPrefix = path.Join "../" .Destination -}}
+        {{- if os.FileExists $pathPrefix -}} <!-- check if markdown file to include exists with an extra move up folder prefix -->
+          {{- $includePath = $pathPrefix -}} <!-- set include path if File exists -->
+        {{- else -}} 
+          {{- range .Page.Site.Pages -}} <!-- set range of all pages need to use .Page in front since in render hook -->
+            {{ $includeFileBase = path.Base $includeUrl }} <!-- get last part of $includeUrl likely the filename -->
+            {{ $includeFileDir = path.Dir $includeUrl }}
+            {{ $searchedFile =  (path.Join (path.Dir .Page.File.Path) $includeFileBase) }}
+            {{ $searchedFile = path.Join "/" $searchedFile }} <!-- add front slash to make a root relative link -->
+            {{ if os.FileExists $searchedFile }} <!-- check if any combination of root relative paths has a matching file -->
+              {{ $includePath = $searchedFile }} <!-- set include path if File exists -->
+          
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+        {{ if os.FileExists $includePath }}
+      
+          {{- $includePath | readFile | replaceRE "^---[\\s\\S]+?---" "" | .Page.RenderString -}}
+        {{- else -}}
+           <!-- log for testing -->
+              <p>Possible Link = {{$includePath}}</p>
+              <p>Link Not Found: {{ $includeUrl}}</p> 
+              <ul>
+                <li>.Destination = {{ $includeUrl}}</li>
+                <li>$includeUrl = {{ $includeUrl }}</li>
+                <li>$withoutPrefix = {{$withoutPrefix}}</li>
+                <li>$pathPrefix = {{$pathPrefix}}</li>
+                <li>$searchedFile = {{ $searchedFile}}</li>
+                <li>$includeFileBase = {{ $includeFileBase }}
+                <li>$includeFileDir = {{ $includeFileDir }}</li>
+              </ul>
+         {{- end -}}
+      {{- end -}}
+{{- end -}} <!-- End Include Markdown Files with ![Image](markdown.md) -->
+
+{{- if not (strings.HasSuffix $includeUrl.Path ".md") -}} <!-- if not a .md file -->
+  <!-- Begin Example Code from Hugo Portable Links https://github.com/bep/portable-hugo-links -->
+  {{- $img := .Page.Resources.GetMatch .Destination -}}
+  {{- if and (not $img) .Page.File -}}
+    {{ $path := path.Join .Page.File.Dir .Destination }}
+    {{- $img = resources.Get $path -}}
+  {{- end -}}
+  {{- with $img -}}
+  {{- $xlarge := $img.Resize "3840x" -}}
+  {{- $large := $img.Resize "2048x" -}}
+  {{- $medium := $img.Resize "1080x" -}}
+  {{- $small := $img.Resize "828x" -}}
+  {{- $xsmall := $img.Resize "640x" -}}
+
+  <figure class="image-caption">
+    <img alt="{{ $.Text }}" srcset="
+          {{ $xsmall.RelPermalink }} 640w, 
+          {{ $small.RelPermalink }} 828w,
+          {{ $medium.RelPermalink }} 1080w,
+          {{ $large.RelPermalink }} 2840w,
+          {{ $xlarge.RelPermalink }} 3840w" width="{{ $img.Width }}" sizes="50vw" src="{{ $xsmall.RelPermalink}}" />
+    <figcaption>{{ with $.Title | safeHTML }}{{ . }}{{ end }}</figcaption>
+  </figure>
+{{- else -}} 
+  <!-- End Example Code from Hugo Portable Links https://github.com/bep/portable-hugo-links -->
+
+  <!-- Begin check for images living in same folder as markdown-file.md for GitHub viewing -->
+  {{- $pageFolder := path.Dir .Page.RelPermalink }} <!-- Get the Relative URL of the Page -->
+  {{- $pageFolderUp := path.Dir $pageFolder -}} <!-- Remove the Hugo Created folder from URL-->
+  {{- $imgPath := path.Join $pageFolderUp .Destination -}}<!-- Join one folder up with the image .Destination -->
+
+  {{- if os.FileExists $imgPath -}} <!-- check if image is one directory up after Hugo Render -->
+    <img class="img-fluid dd" src="{{ $imgPath | safeURL }}" alt="{{ $.Text }}" /> <!-- Display image-->
+    {{- else -}} 
+      <!-- End check for images living in same folder as markdown-file.md for GitHub viewing -->
+
+      {{- range .Page.Site.Pages -}} <!-- set range of all pages need to use .Page in front since in render hook -->
+        {{ $includeFileBase = path.Base $includeUrl }} <!-- get last part of $includeUrl likely the filename -->
+        {{ $includeFileDir = path.Dir $includeUrl }}
+        {{ with .File}}
+          {{ $searchedFile =  (path.Join (path.Dir .Path) $includeFileDir $includeFileBase) }}
+        {{ end }}
+        {{ $searchedFile = path.Join "/" $searchedFile }} <!-- add front slash to make a root relative link -->
+        {{ if os.FileExists $searchedFile }} <!-- check if any combination of root relative paths has a matching file -->
+          {{ $includePath = $searchedFile }} <!-- set include path if File exists -->
+        {{- end -}}
+      {{- end -}}
+    <!-- Display images that might have a full root path in their src -->
+    <img class="img-fluid"  src="{{ $includePath | safeURL }}" alt="{{ $.Text }}" />{{- end -}}{{- end -}}{{- end -}}
+    <!-- class="img-fluid" added for bootstrap responsive images rather than putting in main css -->
