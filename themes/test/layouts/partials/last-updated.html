@@ -1,0 +1,10 @@
+            <!-- Last Updated Date -->
+       
+            {{- if $.GitInfo -}}
+                <div class="post-info-last-mod">
+                    (Last Modified:
+                    <time datetime="{{ .Lastmod }}" title="{{ .Lastmod }}">
+                        {{ .Lastmod.Format "January 2, 2006" }}
+                    </time>)
+                </div>
+            {{- end -}}
