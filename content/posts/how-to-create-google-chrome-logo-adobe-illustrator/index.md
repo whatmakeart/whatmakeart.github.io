@@ -13,7 +13,7 @@ spellcheck: off
 
 {{< youtube id="l2z390sqhO8" title="Google Chrome Logo in Adobe Illustrator" >}}
 
-## Transscript
+## Transcript
 
 How to create the Google Chrome Logo in Adobe Illustrator. First, open up a new blank artboard, and select the Ellipse tool from the tool palette or by pressing L. Then hover your mouse in the center until the pink smart guide pops up. Then hold shift and option on a Mac or shift and alt on a PC and drag out a perfect circle from the center.
 
