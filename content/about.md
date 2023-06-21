@@ -2,9 +2,9 @@
 title: About
 ---
 
-What? Make Art is a repository of college art course materials, art making videos, tutorials and art making faq's. Tutorials cover a wide range of topics including making, electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
+What? Make Art is a repository of open access college art course materials, art making videos, tutorials and art making faq's. Tutorials cover a wide range of topics including making, electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
 
-Art making tutorial videos start from a beginner level an progress to more advanced topics. What art do you want to make?
+Art making tutorial videos start from a beginner level an progress to more advanced topics.
 
 What? Make Art aims to share knowledge about the creative process and how to go about making art to the world. The project was created by [Jimmy Kuehnle](https://www.jimmykuehnle.com), an artist and educator.
 
@@ -28,11 +28,13 @@ This is a conceptual work in progress exploring better ways to exchange informat
 - [Microsoft Azure Docs](https://github.com/MicrosoftDocs/azure-docs)
 - [GitHub Wiki Guide](https://docs.github.com/en/communities/documenting-your-project-with-wikis)
 - [GitLab Docs](https://docs.gitlab.com/ee/user/project/pages/)
-- Cloudflare Docs
+- [Cloudflare Docs](https://developers.cloudflare.com/)
+- [Google Developer Docs](https://developers.google.com/workspace)
 
 ### Examples of Coursework and Research Publicly Accessible
 
 - [MIT Rapid Prototyping Course](http://fab.cba.mit.edu/classes/865.18/index.html)
+- [MIT Center for Bits and Atoms](http://cba.mit.edu/)
 - [Stanford CS 161](https://stanford-cs161.github.io/) Stanford Computer Science Course
 - [Rat Factor Personal Wiki](https://ratfactor.com/hugo-adoc-html5s)
 - [Interaction Station Wiki on Wikimedia](https://interactionstation.wdka.hro.nl/wiki/Main_Page)

@@ -4,4 +4,4 @@ date: 2023-04-28T09:30:00Z
 draft: false
 ---
 
-![Link to included file content](../../../../electronics/troubleshooting-electronics-projects)
+![Link to included file content](../../../../electronics/troubleshooting-electronics-projects.md)

@@ -44,6 +44,31 @@ h6 {
   font-size: 12px;
 }
 
+/* Parsed TOC Test Indent*/
+
+a.toc-item {
+  display: block;
+}
+a.toc-level-1 {
+  margin-left: 0em;
+}
+a.toc-level-2 {
+  margin-left: 1em;
+}
+a.toc-level-3 {
+  margin-left: 2em;
+}
+a.toc-level-4 {
+  margin-left: 3em;
+}
+a.toc-level-5 {
+  margin-left: 4em;
+}
+a.toc-level-6 {
+  margin-left: 5em;
+}
+
+/* End Parsed TOC Test Indent */
 /* for resistor LED constant current calculator results */
 .resultBox {
   border: lightgray solid 1px;

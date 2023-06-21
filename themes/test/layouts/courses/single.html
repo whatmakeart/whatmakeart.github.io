@@ -38,7 +38,13 @@
           <strong class="d-none d-md-block h6 my-2 ms-3">On this page</strong>
           <hr class="d-none d-md-block my-2 ms-3">
           <div class="collapse bd-toc-collapse" id="tocContents">
-            {{ .TableOfContents }}
+                  
+            {{- if .Params.toc -}}
+              {{- partial "toc-parse-content" . -}}
+            {{- else -}}
+              {{- partial "toc" . -}}
+            {{- end -}}
+   
           </div>
         </div>
 
@@ -57,6 +63,28 @@
         {{ end }}
 
         {{ .Content }}
+
+        <div class="container-fluid">
+            <div id="bottom-prev-next">
+                {{ $subject := site.GetPage "courses/experiments-in-electronic-arts/sprint-2023/" }}
+                {{ range $subject.RegularPagesRecursive }}
+                <a class="prev" href="{{ if .PrevPage }}{{ .PrevPage.Permalink }}{{ else }}#{{ end }}">« {{ .PrevPage.Title }}</a>
+                <a class="next" href="{{ if .NextPage }}{{ .NextPage.Permalink }}{{ else }}#{{ end }}">{{ .NextPage.Title }} »</a>
+                {{ end }}
+
+
+                {{ if .NextInSection }}
+                <li class="btn btn-lg btn-outline-dark align-items-center">
+                    <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">&larr; {{ .NextInSection.Title}} </a>
+                </li> {{ end }}
+
+                {{ if .PrevInSection }}
+                <li class="btn btn-lg btn-outline-dark align-items-center">
+                    <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title}}"> {{ .PrevInSection.Title}} &rarr;</a>
+                </li> {{ end }}
+
+
+            </div>
         {{ partial "backlinks" . }}
       </div>
     </main>

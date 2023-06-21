@@ -143,9 +143,6 @@ Start with these basic CSS rules to style the table of contents:
 {{- if .Params.toc }}
   {{- with $headings }}
     {{- if ge (len .) $minNumHeadings }}
-     <strong class="d-block h6 my-2 pb-2 border-bottom">
-          {{ or (T "toc_title") "On this Page" | safeHTML }}
-    </strong>
       <nav id="TableOfContents">
        <ul>
        
