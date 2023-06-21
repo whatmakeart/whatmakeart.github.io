@@ -20,4 +20,4 @@ Your hands are your default making devices. A lot can be made by digging in the 
 
 ## Assembly Techniques
 
-[Rope Lashing](../sculpture/rope-lashing.md) [Rigging](../sculpture/rigging.md)
+[Rope Lashing](./rope-lashing.md) [Rigging](../sculpture/rigging.md)

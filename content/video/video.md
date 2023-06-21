@@ -4,11 +4,11 @@ title: Video
 
 ## Narative Video Structure
 
-A [Story Spine](../video/story-spine.md) can be used to develop a 3 part [Narrative-Arc](../video/narrative-arc.md) to structure a video.
+A [Story Spine](./story-spine.md) can be used to develop a 3 part [Narrative-Arc](./narrative-arc.md) to structure a video.
 
 ## Video Installation Techniques
 
-[Video Wall](video-wall.md) consists of multiple video screens and / or projectors playing linked contend in a multi-channel video installation.
+[Video Wall](../sculpture/video-wall.md) consists of multiple video screens and / or projectors playing linked contend in a multi-channel video installation.
 
 ## External Links
 
