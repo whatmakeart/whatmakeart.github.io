@@ -20,22 +20,6 @@ With these three settings, you can understand how to use most still cameras. Eac
 
 ## Documenting Artwork
 
-[How to Document 2D Artwork](../art-faq/how-to-document-2d-artwork.md) [How to Document 3D Artwork](../art-faq/how-to-document-3d-artwork.md) [How to Edit Photos in Adobe Camera Raw](../photography/how-to-edit-photos-in-adobe-camera-raw.md)
-
-## Two Light Portraits
-
-### Clamshell
-
-Top light on top facing person pointed at nose Bottom light pointed up with less power
-
-### Flat lighting
-
-First light to side and above subject
-
-### Butterfly lighting
-
-Above and in front of subject, butterfly shadow under nose
-
-### Loop cheek lighting
-
-45deg off to side above eye level Ring highlight on cheek
+- [How to Document 2D Artwork](../art-faq/how-to-document-2d-artwork.md)
+- [How to Document 3D Artwork](../art-faq/how-to-document-3d-artwork.md)
+- [How to Edit Photos in Adobe Camera Raw](../photography/how-to-edit-photos-in-adobe-camera-raw.md)
