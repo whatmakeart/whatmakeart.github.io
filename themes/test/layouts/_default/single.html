@@ -42,6 +42,23 @@
       </div>
 
       <div class="bd-content ps-lg-2">
+
+        {{ if in .Params.tags "stub" }}
+         <div class="bd-callout bd-callout-info">
+          <h2><strong>This page is an incomplete stub.</strong></h2> 
+          <p>It serves as a placeholder for inbound links from other pages while this <a href="/">art making wiki</a> is built. Check back for updated content at a later date. </p>
+          <p>In the meantime, use the <a href="/search/">Search Feature</a> to find articles and guides.</p>
+                <script src="/artsearch/pagefind-ui.js" type="text/javascript"></script>
+      <div class="bd-search" id="docsearch" ></div>
+      <script>
+          window.addEventListener('DOMContentLoaded', (event) => {
+              new PagefindUI({
+                  element: "#docsearch",
+              });
+          });
+      </script>
+        </div>
+        {{ end }}
         {{ .Content }}
         {{ partial "backlinks" . }}
         {{ partial "last-updated" . }}

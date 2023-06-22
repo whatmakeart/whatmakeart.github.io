@@ -33,28 +33,27 @@
             {{ $searchedFile = path.Join "/" $searchedFile }} <!-- add front slash to make a root relative link -->
             {{ if os.FileExists $searchedFile }} <!-- check if any combination of root relative paths has a matching file -->
               {{ $includePath = $searchedFile }} <!-- set include path if File exists -->
-          
             {{- end -}}
           {{- end -}}
         {{- end -}}
       {{- end -}}
-        {{ if os.FileExists $includePath }}
-      
-          {{- $includePath | readFile | replaceRE "^---[\\s\\S]+?---" "" | .Page.RenderString -}}
-        {{- else -}}
-           <!-- log for testing -->
-              <p>Possible Link = {{$includePath}}</p>
-              <p>Link Not Found: {{ $includeUrl}}</p> 
-              <ul>
-                <li>.Destination = {{ $includeUrl}}</li>
-                <li>$includeUrl = {{ $includeUrl }}</li>
-                <li>$withoutPrefix = {{$withoutPrefix}}</li>
-                <li>$pathPrefix = {{$pathPrefix}}</li>
-                <li>$searchedFile = {{ $searchedFile}}</li>
-                <li>$includeFileBase = {{ $includeFileBase }}
-                <li>$includeFileDir = {{ $includeFileDir }}</li>
-              </ul>
-         {{- end -}}
+      {{ if os.FileExists $includePath }}
+    
+        {{- $includePath | readFile | replaceRE "^---[\\s\\S]+?---" "" | .Page.RenderString -}}
+      {{- else -}}
+          <!-- log for testing -->
+            <p>Possible Link = {{$includePath}}</p>
+            <p>Link Not Found: {{ $includeUrl}}</p> 
+            <ul>
+              <li>.Destination = {{ $includeUrl}}</li>
+              <li>$includeUrl = {{ $includeUrl }}</li>
+              <li>$withoutPrefix = {{$withoutPrefix}}</li>
+              <li>$pathPrefix = {{$pathPrefix}}</li>
+              <li>$searchedFile = {{ $searchedFile}}</li>
+              <li>$includeFileBase = {{ $includeFileBase }}
+              <li>$includeFileDir = {{ $includeFileDir }}</li>
+            </ul>
+        {{- end -}}
       {{- end -}}
 {{- end -}} <!-- End Include Markdown Files with ![Image](markdown.md) -->
 
