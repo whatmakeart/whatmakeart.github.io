@@ -23,11 +23,13 @@
         {{- $pathPrefix = path.Join "../" .Destination -}}
         {{- if os.FileExists $pathPrefix -}} <!-- check if markdown file to include exists with an extra move up folder prefix -->
           {{- $includePath = $pathPrefix -}} <!-- set include path if File exists -->
-        {{- else -}} 
+        {{- else -}}
           {{- range .Page.Site.Pages -}} <!-- set range of all pages need to use .Page in front since in render hook -->
             {{ $includeFileBase = path.Base $includeUrl }} <!-- get last part of $includeUrl likely the filename -->
             {{ $includeFileDir = path.Dir $includeUrl }}
-            {{ $searchedFile =  (path.Join (path.Dir .Page.File.Path) $includeFileBase) }}
+            {{ with .File }}
+              {{ $searchedFile =  (path.Join (path.Dir .Path) $includeFileDir $includeFileBase) }}
+            {{ end }}
             {{ $searchedFile = path.Join "/" $searchedFile }} <!-- add front slash to make a root relative link -->
             {{ if os.FileExists $searchedFile }} <!-- check if any combination of root relative paths has a matching file -->
               {{ $includePath = $searchedFile }} <!-- set include path if File exists -->
