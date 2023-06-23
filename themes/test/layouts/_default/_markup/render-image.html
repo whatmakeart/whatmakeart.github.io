@@ -14,7 +14,6 @@
 
     {{- else -}} 
       {{- $withoutPrefix := replace .Destination "../" "" -}}
-   
       {{- $withoutPrefix := replace $withoutPrefix "./" "" -}}
      
       {{- if os.FileExists $withoutPrefix -}} <!-- check if markdown file to include exists without prefixed ../ -->
@@ -38,8 +37,9 @@
         {{- end -}}
       {{- end -}}
       {{ if os.FileExists $includePath }}
-    
+        <div data-pagefind-ignore>
         {{- $includePath | readFile | replaceRE "^---[\\s\\S]+?---" "" | .Page.RenderString -}}
+        </div>
       {{- else -}}
           <!-- log for testing -->
             <p>Possible Link = {{$includePath}}</p>
@@ -55,6 +55,7 @@
             </ul>
         {{- end -}}
       {{- end -}}
+
 {{- end -}} <!-- End Include Markdown Files with ![Image](markdown.md) -->
 
 {{- if not (strings.HasSuffix $includeUrl.Path ".md") -}} <!-- if not a .md file -->
@@ -105,5 +106,9 @@
         {{- end -}}
       {{- end -}}
     <!-- Display images that might have a full root path in their src -->
-    <img class="img-fluid"  src="{{ $includePath | safeURL }}" alt="{{ $.Text }}" />{{- end -}}{{- end -}}{{- end -}}
+    <img class="img-fluid"  src="{{ $includePath | safeURL }}" alt="{{ $.Text }}" />
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
     <!-- class="img-fluid" added for bootstrap responsive images rather than putting in main css -->
+
