@@ -12,6 +12,27 @@ An example of this is when an actor from the sitcom the office had their face ad
 
 [Fair-Use](fair-use.md) is a special part of the United States Copyright Act that allows the use of copyrighted works under certain circumstances.
 
+[Documentary Filmmakers Statement of Best Practices in Fair Use](https://cmsimpact.org/code/documentary-filmmakers-statement-of-best-practices-in-fair-use/)
+
+[CAA Fair Use](https://www.collegeart.org/programs/caa-fair-use)
+
+[CAA Interview with Suzanne Preston Blier on Fair Use](http://www.collegeart.org/news/2020/05/19/suzanne-preston-blier-on-code-of-best-practices-and-fair-use/) - Used images of Picasso's Demoiselles in a book and relied on fair use rather than image rights permissions.
+
+Frye, Brian L., Image Reproduction Rights in a Nutshell for Art Historians (December 27, 2020). IDEA: The IP Law Review, Vol. 62, No. 175, 2022, Available at SSRN: [Abstract](https://ssrn.com/abstract=3755966) or [Paper](http://dx.doi.org/10.2139/ssrn.3755966) - Basically says to stop asking for permission when it is not needed such as public domain artworks or when working on scholarship.
+
+[Picasso images French vs US Court rulings](https://www.courthousenews.com/wp-content/uploads/2019/09/Picasso-ruling.pdf) French courts found that the use of the photographs of Picasso's work was infringing but US courts said that it was fair use.
+
+https://shows.acast.com/ipse-dixit
+
+### Photos of Artwork Cases
+
+- [Bill Graham Archives v. Dorling Kindersley Ltd (Greatful Dead Posters)](https://www.copyright.gov/fair-use/summaries/billgraham-dorling-2dcir2006.pdf)
+
+- https://law.justia.com/cases/federal/appellate-courts/ca9/11-56573/11-56573-2013-08-07.html
+- https://scholar.google.com/scholar_case?q=Blanch+v.+Koons,+467+F.3d+244+(2d+Cir.+2006)&hl=en&as_sdt=40006&case=3752630071472494999&scilh=0
+- https://scholar.google.com/scholar_case?case=5845890683658306826&hl=en&as_sdt=6&as_vis=1&oi=scholarr
+- https://scholar.google.com/scholar_case?q=595+F.3d+1364&hl=en&as_sdt=40003&case=1101790394228662801&scilh=0
+
 ## Plagiarism Examples
 
 Plagiarism is not just something that you learn not to do in school, it really happens and can ruin your career and reputation. Below are examples of plagiarism in the professional world with real consequences.

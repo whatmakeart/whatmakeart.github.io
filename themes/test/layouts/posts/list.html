@@ -19,23 +19,21 @@
             {{ .Content }}
 
             <ul class="list-unstyled mb-0 py-3 pt-md-1" style="display:grid; grid-template-columns: 1fr 1fr 1fr ; grid-gap: 1rem;">
-                {{ $paginator := .Paginate (where .Pages "Type" "posts") }}
+                {{ $paginator := .Paginate (where .Pages "Type" .Section) }}
 
                 {{ range $paginator.Pages }}
                 <li class="card">
-
-                    <div class="card-body">
-
-                        {{ $img := "" }}
+                    {{ $img := "" }}
                         {{ if .Params.featured_image }}
                             {{ $img =  .Params.featured_image }}
                         {{ else }}
                             {{ $img = printf "/img/whatmakeart-logo.png" }}
                         {{ end}}
 
-                        <a href="{{ .Permalink }}"><img class="card-img-top" src="{{ $img }}"></a>
+                    <a href="{{ .RelPermalink }}"><img class="card-img-top" src="{{ $img }}"></a>
 
-                        <a class="card-text" href="{{ .RelPermalink}}">{{ .Title }}</a>
+                    <div class="card-body"> 
+                        <p class="card-title"><a href="{{ .RelPermalink}}">{{ .Title }}</a></p>
                     </div>
                 </li>
                 {{ end }}

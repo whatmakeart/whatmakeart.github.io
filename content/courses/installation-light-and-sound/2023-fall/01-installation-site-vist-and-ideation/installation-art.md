@@ -4,22 +4,35 @@ title: Installation Art
 
 ## What is Installation Art?
 
-## Installation Artists
+## Types of Installation Art
 
-- Judy Pfaff
-- John Ahearn
-- Mark Dion
-- Andrea Fraser
-- Donald Judd
-- Renee Green
-- Suzanne Lacy
-- Inigo Manglano-Ovalle
-- Richard Serra
-- Mierle Laderman Ukeles
-- Fred Wilson
-- James Turrel
-- Andy Goldsworthy
-- Martin Creed
+### Large Thing in a Space
+
+- Ai Weiwei - _Law of the Journey_ - large inflatable raft [Link](https://artpil.com/news/law-of-the-journey-ai-weiwei/)
+- Abbas Akhavan - _Currtain Call_ Pillars and green screen [Link](https://chisenhale.org.uk/audio-video/abbas-akhavan/)
+- William Pope.L _Trinket_ Large flag and fan [Link](https://www.moca.org/exhibition/william-popel-trinket)
+- Jennifer Wen Ma _Hanging Garden in Ink_ pile of plants [Link](https://fpa319w.wordpress.com/2014/12/02/critical-review-unscrolled-2/)
+
+### Lots of Small Things in a Space
+
+- Do Ho Suh - small figures under glass
+- Rachel Whiteread - _Embankment_ at Tate Modern in London
+- Allan Kaprow - _Yard_ lots of tires in a room
+- Ibrahim Mahana - _Lazarus_ - many sewing machines in a room [Installed at Whitecube](https://www.whitecube.com/gallery-exhibitions/lazarus)
+- Tara Donovan - Cups, Pencils, other [Pace Gallery Link](https://www.pacegallery.com/artists/tara-donovan/)
+
+### Removal of Context
+
+- Yoyoi Kusama - mirror rooms
+- James Turrel - light installations
+
+### Hanging Structures from Architecture
+
+- Jean Claude and Cristo - wrappings
+- Chiharu Shota- Thread Installations
+- Ernesto Neto - Net hangings
+- Jacob Hashimoto _Gas Giant_ [Link](https://www.latimes.com/entertainment/arts/culture/la-et-cm-art-review-jacob-hashimoto-moca-pacific-design-center-20140311-story.html)
+
 
 ## Installation Art Texts
 
@@ -43,3 +56,23 @@ title: Installation Art
 - Unexpected Art: Serendipitous Installations, Site-Specific Works, and Surprising Interventions
 - Installation Art: a Critical History by Claire Bishop
 - Installation art as experience of self, in space and time (Curating and Interpreting Culture) by Christine Vial Kayser
+
+## Installation Artists
+
+- Judy Pfaff
+- John Ahearn
+- Mark Dion
+- Andrea Fraser
+- Donald Judd
+- Renee Green
+- Suzanne Lacy
+- Inigo Manglano-Ovalle
+- Richard Serra
+- Mierle Laderman Ukeles
+- Fred Wilson
+- James Turrel
+- Andy Goldsworthy
+- Martin Creed
+- Allan Kaprow
+- Yoyoi Kusama
+- Tara Donovan
