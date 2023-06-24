@@ -2,6 +2,8 @@
 title: Blender 3D Animation
 ---
 
+Blender can be used to create 3D animations.
+
 - [Blender Ball Rigging Tutorial](https://youtu.be/VsBTUaRESr0)
 - [Add HDRI Background Blender](https://youtu.be/k-moDmBUrrI)
 - [Blender Cloth Simulation](https://youtu.be/IYdfMqRIfMA)

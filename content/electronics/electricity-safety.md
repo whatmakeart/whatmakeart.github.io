@@ -11,4 +11,4 @@ title: Electricity Safety
 - Use tools with nonconductive handles and or coatings to reduce shock risk
 - Don't touch electrical devices with wet hands or with wet clothes
 - Keep workspace clear of debris and hazards
-- inspect cords and equipment before use, never use frayed cords, cords with damaged insulation, or damaged plugs
+- Inspect cords and equipment before use, never use frayed cords, cords with damaged insulation, or damaged plugs

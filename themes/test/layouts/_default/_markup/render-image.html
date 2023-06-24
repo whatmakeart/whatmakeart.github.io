@@ -1,5 +1,6 @@
 <!-- Begin Include Markdown Files with ![Image](markdown.md) -->
 {{- $includeUrl := urls.Parse .Destination -}}
+
  
   {{- $includePath := $includeUrl -}} <!-- fill with default path on initialization -->
   {{- $searchedFile := $includeUrl -}} <!-- fill with default path on initialization -->
@@ -37,7 +38,7 @@
         {{- end -}}
       {{- end -}}
       {{ if os.FileExists $includePath }}
-        <div data-pagefind-ignore>
+        <div data-pagefind-ignore><!--exclude from pagefind search -->
         {{- $includePath | readFile | replaceRE "^---[\\s\\S]+?---" "" | .Page.RenderString -}}
         </div>
       {{- else -}}
@@ -90,7 +91,7 @@
   {{- $imgPath := path.Join $pageFolderUp .Destination -}}<!-- Join one folder up with the image .Destination -->
 
   {{- if os.FileExists $imgPath -}} <!-- check if image is one directory up after Hugo Render -->
-    <img class="img-fluid dd" src="{{ $imgPath | safeURL }}" alt="{{ $.Text }}" /> <!-- Display image-->
+    <img class="img-fluid"  src="{{ $imgPath | safeURL }}" alt="{{ $.Text }}" /> <!-- Display image-->
     {{- else -}} 
       <!-- End check for images living in same folder as markdown-file.md for GitHub viewing -->
 
@@ -102,9 +103,11 @@
         {{ end }}
         {{ $searchedFile = path.Join "/" $searchedFile }} <!-- add front slash to make a root relative link -->
         {{ if os.FileExists $searchedFile }} <!-- check if any combination of root relative paths has a matching file -->
+        
           {{ $includePath = $searchedFile }} <!-- set include path if File exists -->
         {{- end -}}
       {{- end -}}
+     
     <!-- Display images that might have a full root path in their src -->
     <img class="img-fluid"  src="{{ $includePath | safeURL }}" alt="{{ $.Text }}" />
     {{- end -}}
