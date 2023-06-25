@@ -69,7 +69,7 @@ a.toc-level-6 {
 }
 
 /* PageFind UI Variables */
-
+:root {
 --pagefind-ui-scale: 1;
 --pagefind-ui-primary: #034ad8;
 --pagefind-ui-text: #393939;
@@ -81,6 +81,7 @@ a.toc-level-6 {
 --pagefind-ui-image-border-radius: 8px;
 --pagefind-ui-image-box-ratio: 3 / 2;
 --pagefind-ui-font: sans-serif;
+}
 
 body.dark {
   --pagefind-ui-primary: #eeeeee;
