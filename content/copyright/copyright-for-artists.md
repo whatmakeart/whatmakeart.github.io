@@ -43,9 +43,15 @@ Plagiarism is not just something that you learn not to do in school, it really h
 
 #### Pages
 
-[Sacha-Baron-Cohen-Copyright-Law-Suit](sacha-baron-cohen-copyright-law-suit.md) [Bansky-Copyright-Ruling-in-EU](bansky-copyright-ruling-in-eu.md) [Elon-Musk-on-Disney-Copyright](elon-musk-on-disney-copyright.md)
+- [Sacha-Baron-Cohen-Copyright-Law-Suit](sacha-baron-cohen-copyright-law-suit.md)
+- [Bansky-Copyright-Ruling-in-EU](bansky-copyright-ruling-in-eu.md)
+- [Elon-Musk-on-Disney-Copyright](elon-musk-on-disney-copyright.md)
 
 #### External Links
+
+[Maurizio Cattelan’s banana art not copyright infringement, judge rules - The Washington Post](https://www.washingtonpost.com/nation/2023/06/14/banana-duct-tape-copyright-lawsuit/)
+
+[Meow Wolf Wins a Partial Victory in a Copyright Lawsuit Brought by an Artist Who Made Work for Its Santa Fe Flagship](https://news.artnet.com/art-world/judge-grants-partial-summary-judgment-meow-wolf-2324239/amp-page)
 
 [A Florida Man Is Threatening to Sue an Artist Whose Invisible Sculpture Sold for $18,000, Saying He Came Up With the Idea First](https://news.artnet.com/art-world/florida-man-lawsuit-invisible-sculpture-1984780/amp-page)
 
