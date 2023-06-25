@@ -1,24 +1,34 @@
 <nav class="bd-links w-100" id="bd-docs-nav" aria-label="Wiki navigation">
-    <ul class="bd-links-nav list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
+  <ul class="bd-links-nav list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
+    {{ range .Pages.ByTitle }}
+      {{ if .IsNode }}
+        <li class="mb-1">
+          <button
+            class="btn d-inline-flex align-items-center rounded collapsed"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#{{ .Title | urlize }}"
+            aria-expanded="false"
+            aria-controls="{{ .Title | urlize }}"
+          >
+            {{ .Title }}
+          </button>
 
-       {{ range .Pages.ByTitle }}
-            {{ if .IsNode }}
-            <li class="mb-1">
-                <button class="btn d-inline-flex align-items-center rounded collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{ .Title | urlize  }}" aria-expanded="false" aria-controls="{{ .Title | urlize  }}">
-                    {{ .Title }}
-                </button>
+          <div class="collapse" id="{{ .Title | urlize }}">
+            {{ partial "sidebar-walk.html" . }}
+          </div>
+        </li>
+      {{ end }}
 
-                <div class="collapse" id="{{ .Title | urlize  }}">
-                    {{ partial "sidebar-walk.html" . }}
-                </div>
-            </li>
-            {{end }}
-
-            {{ if .IsPage }}
-                <li class="fw-normal">
-                    <a class="d-inline-flex align-items-center rounded" href="{{ .RelPermalink }}">{{ .Title }}</a>
-                </li>
-            {{ end }}
-        {{ end }}
-    </ul>
+      {{ if .IsPage }}
+        <li class="fw-normal">
+          <a
+            class="d-inline-flex align-items-center rounded"
+            href="{{ .RelPermalink }}"
+            >{{ .Title }}</a
+          >
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
 </nav>
