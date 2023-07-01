@@ -24,3 +24,5 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Marin Abel](http://www.marinabell.org/marinabell/lines_of_flight.html)
 - [Bouke De Vries](https://boukedevries.com/) - Dutch artist that makes intricate ceramic assemblages often displayed on large dining tables in extravagantly ornate museum and institutional settings
 - Rudi van de Wint - Dutch painter and sculptor
+
+- [Art 2 Code Exhibition](http://www.christophermanzione.com/art2code/)

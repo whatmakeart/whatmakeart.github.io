@@ -7,3 +7,9 @@ title: Writing
 ## Smart People Write Things Down
 
 Use a pencil, a pen, a laptop, a phone, an audio recorder ... anything. Write things down. Successful and smart people have written notes, journals, lists and other memory offloading systems.
+
+## Research Tips
+
+"As you read, you should follow this three-part process: jot own specific phrases, sentences, an paragraphs as you come across them; when you’ve finished your reading, go back and write a brief summary of what you’ve learned; an then write your own reflections, questions, and thoughts.” [^1]
+
+[^1]: The Well-Educated Mind: A Guide to the Classical Education You Never Had, Susan Wise Bauer

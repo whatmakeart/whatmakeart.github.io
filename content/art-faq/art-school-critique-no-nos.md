@@ -30,6 +30,12 @@ Analyze the good and the bad. Keep personal feelings out of the way. Look at the
 - It reminds me of …
 - It is missing something …
 
+## Overused Terms
+
+- Campy
+- Kitsch
+- Index
+
 ## Etiquette
 
 - Give all a chance to talk. No stage hogging.

@@ -30,3 +30,17 @@ The design process is a fundamental way to approach making. Instead of trying to
 ### Design Techniques
 
 A [Charrette](charrette.md) is a collaborative design process often used in urban planning.
+
+### Combine Image and Text
+
+- Pay attention to the composition. Images and text are just forms to use within your format. Move and scale them as needed.
+- You can crop the image into a recognizable shape. Just like interpenetration.
+- The image and the letter shapes can interpenetrate leaving the image only visible in the text forms.
+- Make sure you have a focal point.
+- Sky or "less busy" sections of an image are good places for text.
+- The text can relate to the shape of the image.
+- You can blur the image to highlight the text.
+- Transparent shapes or overlays can change your image to highlight text.
+- Text can be transparent as well.
+- High contrast, high detail images can make text hard to read.
+- Don't forget about color so there is enough contrast to make the text readable

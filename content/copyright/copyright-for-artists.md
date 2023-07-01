@@ -49,6 +49,10 @@ Plagiarism is not just something that you learn not to do in school, it really h
 
 #### External Links
 
+[Jury finds Ed Sheeran did not infringe on the copyright of 'Let's Get It On' - CNN](https://www.cnn.com/2023/05/04/media/ed-sheeran-verdict/index.html)
+
+[A U.S. Judge Permanently Banned Digital Artist Mason Rothschild From Selling His ‘MetaBirkin’ NFTs, Handing a Win to Hermès](https://news.artnet.com/art-world/mason-rothschild-hermes-metabirkin-banned-in-us-2328232)
+
 [Maurizio Cattelan’s banana art not copyright infringement, judge rules - The Washington Post](https://www.washingtonpost.com/nation/2023/06/14/banana-duct-tape-copyright-lawsuit/)
 
 [Meow Wolf Wins a Partial Victory in a Copyright Lawsuit Brought by an Artist Who Made Work for Its Santa Fe Flagship](https://news.artnet.com/art-world/judge-grants-partial-summary-judgment-meow-wolf-2324239/amp-page)

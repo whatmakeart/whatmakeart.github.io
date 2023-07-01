@@ -19,3 +19,5 @@ HUGO_ENV=production hugo
 - Remove unused css from Hugo https://ricard.dev/how-to-add-purgecss-to-hugo/
 - https://dongheenam.info/posts/generating-a-recursive-menu-in-hugo/
 - Highilght active menu items hugo - https://harrycresswell.com/writing/menus-in-hugo/
+
+[Goodbye Gatsby, Hello Hugo - Made Mistakes](https://mademistakes.com/notes/goodbye-gatsby-hello-hugo/)
