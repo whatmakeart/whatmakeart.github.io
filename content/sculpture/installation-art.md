@@ -1,8 +1,12 @@
 ---
 title: Installation Art
+tags:
+  - stub
 ---
 
 ## What is Installation Art?
+
+Installation art often takes a three-dimensional form.
 
 ## Types of Installation Art
 
@@ -25,6 +29,11 @@ title: Installation Art
 
 - Yoyoi Kusama - mirror rooms
 - James Turrel - light installations
+- Rachel Whiteread - concrete building castings
+
+### Interactive
+
+- Eva Fabregas - Living and breathing installation at Hamburger Bahnhof Museum of Contemporary Art [Exhibition Link](https://www.smb.museum/en/museums-institutions/hamburger-bahnhof/exhibitions/detail/eva-fabregas/)
 
 ### Hanging Structures from Architecture
 
@@ -33,6 +42,46 @@ title: Installation Art
 - Ernesto Neto - Net hangings
 - Jacob Hashimoto _Gas Giant_ [Link](https://www.latimes.com/entertainment/arts/culture/la-et-cm-art-review-jacob-hashimoto-moca-pacific-design-center-20140311-story.html)
 
+## Installation Artists
+
+<div class="gallery-grid">
+
+- Judy Pfaff
+- Rachel Whiteread
+- John Ahearn
+- Mark Dion
+- Andrea Fraser
+- Donald Judd
+- Renee Green
+- Suzanne Lacy
+- Inigo Manglano-Ovalle
+- Richard Serra
+- Mierle Laderman Ukeles
+- Fred Wilson
+- James Turrel
+- Andy Goldsworthy
+- Martin Creed
+- Allan Kaprow
+- Yoyoi Kusama
+- Tara Donovan
+
+</div>
+
+## Images of Installations
+
+<div class="gallery-grid">
+<figure>
+
+[![ACHAEOLOGY by Judy Pfaff](./attachments/2021A53_ARCHAEOLOGY-by-Judy-Pfaff-photo-by-Peter-Aaron.jpeg)](./attachments/2021A53_ARCHAEOLOGY-by-Judy-Pfaff-photo-by-Peter-Aaron.jpeg)
+
+<figcaption>
+
+AR.CHAE.OL.O.GY by [Judy Pfaff](https://www.judypfaffstudio.com/) from 2021. Photo by [Peter Aaron/OTTO](https://www.peteraaron.net/) © Judy Pfaff; Courtesy of the artist.
+
+</figcaption>
+
+</figure>
+</div>
 
 ## Installation Art Texts
 
@@ -56,23 +105,3 @@ title: Installation Art
 - Unexpected Art: Serendipitous Installations, Site-Specific Works, and Surprising Interventions
 - Installation Art: a Critical History by Claire Bishop
 - Installation art as experience of self, in space and time (Curating and Interpreting Culture) by Christine Vial Kayser
-
-## Installation Artists
-
-- Judy Pfaff
-- John Ahearn
-- Mark Dion
-- Andrea Fraser
-- Donald Judd
-- Renee Green
-- Suzanne Lacy
-- Inigo Manglano-Ovalle
-- Richard Serra
-- Mierle Laderman Ukeles
-- Fred Wilson
-- James Turrel
-- Andy Goldsworthy
-- Martin Creed
-- Allan Kaprow
-- Yoyoi Kusama
-- Tara Donovan
