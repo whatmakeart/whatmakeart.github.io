@@ -1,5 +1,7 @@
 ---
 title: Installation Art
+tags:
+  - stub
 ---
 
 ## What is Installation Art?
@@ -33,7 +35,6 @@ title: Installation Art
 - Ernesto Neto - Net hangings
 - Jacob Hashimoto _Gas Giant_ [Link](https://www.latimes.com/entertainment/arts/culture/la-et-cm-art-review-jacob-hashimoto-moca-pacific-design-center-20140311-story.html)
 
-
 ## Installation Art Texts
 
 - Installation Art in Close Up by William Malpas
@@ -60,6 +61,7 @@ title: Installation Art
 ## Installation Artists
 
 - Judy Pfaff
+- Rachel Whiteread
 - John Ahearn
 - Mark Dion
 - Andrea Fraser
