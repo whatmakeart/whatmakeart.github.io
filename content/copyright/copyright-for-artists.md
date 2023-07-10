@@ -49,6 +49,8 @@ Plagiarism is not just something that you learn not to do in school, it really h
 
 #### External Links
 
+[Getty sues Stability AI for copying 12M photos and imitating famous watermark | Ars Technica](https://arstechnica.com/tech-policy/2023/02/getty-sues-stability-ai-for-copying-12m-photos-and-imitating-famous-watermark/)
+
 [Jury finds Ed Sheeran did not infringe on the copyright of 'Let's Get It On' - CNN](https://www.cnn.com/2023/05/04/media/ed-sheeran-verdict/index.html)
 
 [A U.S. Judge Permanently Banned Digital Artist Mason Rothschild From Selling His ‘MetaBirkin’ NFTs, Handing a Win to Hermès](https://news.artnet.com/art-world/mason-rothschild-hermes-metabirkin-banned-in-us-2328232)

@@ -134,6 +134,8 @@ The platform should be easy to edit on mobile and desktop. It should be designed
 
 ### Public Zettelkastens
 
+[Don't Make a Blog - Make a Brain Dump](https://bt.ht/dump/)
+
 [Reddit Thread about Public Zettelkastens](https://www.reddit.com/r/Zettelkasten/comments/um9w9e/public_zettelkastens/?utm_medium=android_app&utm_source=share)
 
 ### Copyright in Online Teaching
