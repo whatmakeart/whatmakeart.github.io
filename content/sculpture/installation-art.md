@@ -6,7 +6,7 @@ tags:
 
 ## What is Installation Art?
 
-Installation art often takes a three-dimensional form.
+Installation art often takes a three-dimensional form. The work is more intentionally "installed" than an object on a pedestal or a painting on a wall. The space around any objects in the works is considered part of the artwork.
 
 ## Types of Installation Art
 
@@ -31,8 +31,9 @@ Installation art often takes a three-dimensional form.
 - James Turrel - light installations
 - Rachel Whiteread - concrete building castings
 
-### Interactive
+### Interactive Installations
 
+- Meow Wolf
 - Eva Fabregas - Living and breathing installation at Hamburger Bahnhof Museum of Contemporary Art [Exhibition Link](https://www.smb.museum/en/museums-institutions/hamburger-bahnhof/exhibitions/detail/eva-fabregas/)
 
 ### Hanging Structures from Architecture
@@ -46,7 +47,7 @@ Installation art often takes a three-dimensional form.
 
 <div class="gallery-grid">
 
-- Judy Pfaff
+- [Judy Pfaff](https://www.judypfaffstudio.com/)
 - Rachel Whiteread
 - John Ahearn
 - Mark Dion
