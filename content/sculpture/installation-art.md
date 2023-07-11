@@ -6,7 +6,7 @@ tags:
 
 ## What is Installation Art?
 
-Installation art often takes a three-dimensional form. The work is more intentionally "installed" than an object on a pedestal or a painting on a wall. The space around any objects in the works is considered part of the artwork.
+Installation art often takes a three-dimensional form. The work is more intentionally "installed" than an object on a pedestal or a painting on a wall. While often large in scale, installation art can be very small. The space around any objects in the works is considered part of the artwork. The experience of the view observing or moving through space can be part of the work. [Site-specific](../sculpture/site-specific.md) installation art takes the consideration of the environment further by making art that can only be displayed or made complete at a specific location or under specific conditions. If the site specific work is removed from that context, then it would cease to be that work of art.
 
 ## Types of Installation Art
 
@@ -33,15 +33,19 @@ Installation art often takes a three-dimensional form. The work is more intentio
 
 ### Interactive Installations
 
-- Meow Wolf
+- [Meow Wolf](https://meowwolf.com/)
 - Eva Fabregas - Living and breathing installation at Hamburger Bahnhof Museum of Contemporary Art [Exhibition Link](https://www.smb.museum/en/museums-institutions/hamburger-bahnhof/exhibitions/detail/eva-fabregas/)
 
 ### Hanging Structures from Architecture
 
-- Jean Claude and Cristo - wrappings
-- Chiharu Shota- Thread Installations
-- Ernesto Neto - Net hangings
+- Chiharu Shota - Thread Installations - [Artist Website](https://www.chiharu-shiota.com/)
+- Ernesto Neto - Net hangings - [Tanya Bonakdar Gallery Link](https://www.tanyabonakdargallery.com/artists/49-ernesto-neto/)
 - Jacob Hashimoto _Gas Giant_ [Link](https://www.latimes.com/entertainment/arts/culture/la-et-cm-art-review-jacob-hashimoto-moca-pacific-design-center-20140311-story.html)
+- Jean Claude and Cristo - wrappings
+
+### Earthworks
+
+### Site Specific
 
 ## Installation Artists
 
