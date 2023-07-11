@@ -1,5 +1,7 @@
 ---
 title: How to Use Digital Calipers
+tags:
+  - stub
 ---
 
 # How to Use Digital Calipers

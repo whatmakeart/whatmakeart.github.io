@@ -1,5 +1,7 @@
 ---
 title: Material Sources
+tags:
+  - stub
 ---
 
 ## Metal

@@ -1,5 +1,7 @@
 ---
 title: Hand Needles
+tags:
+  - stub
 ---
 
 Hand needles are the bare minimum tool needed for [Sewing](sewing.md). There are many types of hand needles depending on the sewing task. It is a good idea to have an assortment of hand needles in your sewing supply kit. There are also many types of [Sewing-Machine-Needles](sewing-machine-needles.md).

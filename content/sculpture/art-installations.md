@@ -1,5 +1,7 @@
 ---
 title: Art Installations
+tags:
+  - stub
 ---
 
 An installation considers the context of the display of the artwork. Instead of being an object or image that mainly stands on its own an installation involves the site as well as the object(s). Good art installations transform the perception of the space and the included objects. If an art installation can only function in a single location is is a [site-specific](site-specific.md) installation.

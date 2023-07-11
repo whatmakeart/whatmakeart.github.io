@@ -4,7 +4,7 @@ title: Sew Zipper Pocket without Exposed Zipper Tape
 
 # Sew Zipper Pocket without Exposed Zipper Tape
 
-This tutorial will
+This tutorial will show you how to attach a zipper without showing the zipper tape. This requires a lining on the inside of the pocket.
 
 ## Prerequisites
 
@@ -48,5 +48,7 @@ Zippers are a great way to finish off a pocket but often instructions to add a z
 20. Finish the raw edges of the fabric with a serger
 
 ## Further Reading
+
+[History of Pockets](./history-of-pockets-&-missing-pockets.md)
 
 ### External Links

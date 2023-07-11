@@ -1,5 +1,7 @@
 ---
 title: Low Relief Sculpture
+tags:
+  - stub
 ---
 
 Low Relief Sculpture is a term used mostly to describe historical artworks typically found on architecture facades. Although less relevant in contemporary contexts some [Sculpture](sculpture.md) and [public art](public-art.md) installations make still be described as low relief.

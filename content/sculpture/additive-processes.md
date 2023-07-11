@@ -1,5 +1,7 @@
 ---
 title: Additive Processes
+tags:
+  - stub
 ---
 
 Additive processes rely on adding more of the same material to the object until the desired form is achieved. These range from sculpting with clay to [3D-Printing](../digital-fabrication/3d-printing/3d-printing.md).
