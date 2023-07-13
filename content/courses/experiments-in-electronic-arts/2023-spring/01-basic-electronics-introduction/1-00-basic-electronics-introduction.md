@@ -1,7 +1,6 @@
 ---
 title: "01.00 - Introduction"
 date: 2023-01-20T09:30:00Z
-draft: false
 ---
 
 ## Overview

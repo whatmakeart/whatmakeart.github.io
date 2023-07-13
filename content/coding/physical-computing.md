@@ -12,7 +12,7 @@ The [Raspberry Pi](../raspberry-pi/raspberry-pi.md) is an example of a single bo
 
 ## Arduino
 
-The Arduino is a cheap, simple single board multiprocessor with digital and analog input and output pins.
+The [Arduino](../arduino/arduino-introduction.md) is a cheap, simple single board multiprocessor with digital and analog input and output pins.
 
 ## Arduino Tutorials
 
@@ -105,7 +105,7 @@ void loop() {
 
 [Led text scroll with Arduino and Raspberry Pi](http://victorsand.com/ledmatrix/)
 
-Flip LED strands Python
+### Flip LED strands Python
 
 ```
 if y % 2 == 0: # if column even

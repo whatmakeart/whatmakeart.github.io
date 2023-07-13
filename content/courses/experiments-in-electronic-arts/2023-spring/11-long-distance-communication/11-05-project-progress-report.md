@@ -1,7 +1,6 @@
 ---
 title: 11.05 Project Progress Report
 date: 2023-04-07T09:30:00Z
-draft: false
 ---
 
 ## Assignment Deliverables

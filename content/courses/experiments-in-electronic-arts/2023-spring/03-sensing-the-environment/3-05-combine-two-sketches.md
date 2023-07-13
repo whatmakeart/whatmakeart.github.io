@@ -1,7 +1,6 @@
 ---
 title: "03.05 Combine Two Sketches"
 date: 2023-02-03T09:30:00Z
-draft: false
 ---
 
 ## Assignment Deliverables

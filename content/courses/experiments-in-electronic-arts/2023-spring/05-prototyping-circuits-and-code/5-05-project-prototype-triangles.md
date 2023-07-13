@@ -1,7 +1,6 @@
 ---
 title: "05.05 Project Prototype Triangles"
 date: 2023-02-17T09:30:00Z
-draft: false
 ---
 
 ## Assignment Deliverables

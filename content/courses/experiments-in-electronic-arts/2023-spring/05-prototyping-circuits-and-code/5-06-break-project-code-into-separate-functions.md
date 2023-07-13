@@ -1,7 +1,6 @@
 ---
 title: "05.06 Break Project Code into Separate Functions"
 date: 2023-02-17T09:30:00Z
-draft: false
 ---
 
 ## Assignment Deliverables

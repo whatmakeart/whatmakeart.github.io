@@ -1,7 +1,6 @@
 ---
 title: "01.08 Artist Research"
 date: 2023-01-20T09:30:00Z
-draft: false
 ---
 
 ## Assignment Deliverables

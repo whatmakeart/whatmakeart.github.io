@@ -1,7 +1,6 @@
 ---
 title: "09.06 LED Strip Wiring Exercise"
 date: 2023-03-24T09:30:00Z
-draft: false
 ---
 
 ## Assignment Deliverables

@@ -1,7 +1,6 @@
 ---
 title: "03.00 - Introduction"
 date: 2023-02-03T09:30:00Z
-draft: false
 ---
 
 ## Overview

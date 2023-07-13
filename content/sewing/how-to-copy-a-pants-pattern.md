@@ -58,6 +58,6 @@ To complete this tutorial you should be familiar with [How to Duplicate a T-Shir
 
 ## Further Reading
 
-[How to Duplicate a T-Shirt Pattern](../tutorials/How-to-Duplicate-a-T-Shirt-Pattern.md)
+[How to Duplicate a T-Shirt Pattern](./how-to-duplicate-a-t-shirt-pattern.md)
 
 ### External Links

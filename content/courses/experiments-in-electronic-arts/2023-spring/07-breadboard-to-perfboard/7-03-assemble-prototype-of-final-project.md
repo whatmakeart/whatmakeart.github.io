@@ -1,7 +1,6 @@
 ---
 title: "07.05 Assemble Prototype of Final Project"
 date: 2023-03-03T09:30:00Z
-draft: false
 ---
 
 ## Assignment Deliverables

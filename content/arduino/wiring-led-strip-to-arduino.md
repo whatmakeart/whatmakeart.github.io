@@ -4,7 +4,7 @@ title: Wiring LED Strip to Arduino
 
 ## External Power Supply
 
-The GPIO pins on an Arduino are not powerful enough to power more than a couple LEDs without overloading. To safely and properly power long strips of LEDs, an external power source is needed. This power source should match the DC voltage of the LED strip. For example, a 5V LED strip needs a 5V power source. LED strips commonly come in 5V, 12V and 24V versions. The input voltage should be clearly written on the strip.
+The GPIO pins on an [Arduino](arduino-introduction.md) are not powerful enough to power more than a couple [LEDs](../electronics/leds.md)without overloading. To safely and properly power long strips of LEDs, an external power source is needed. This power source should match the DC voltage of the LED strip. For example, a 5V LED strip needs a 5V power source. LED strips commonly come in 5V, 12V and 24V versions. The input voltage should be clearly written on the strip.
 
 Enough current needs to be supplied for the entire run of LEDs otherwise they will either not reach their full brightness level or not light up at all.
 

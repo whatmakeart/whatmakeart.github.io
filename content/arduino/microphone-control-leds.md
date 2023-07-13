@@ -2,7 +2,7 @@
 title: Microphone Control LEDs
 ---
 
-This example uses an electret condenser microphone module to control the blinking of a LED. With the addition of an external power supply, this code could control a strip of LEDs for a large display.
+This example uses an electret condenser microphone module to control the blinking of a [LED](../electronics/leds.md). With the addition of an external power supply, this code could control a strip of LEDs for a large display.
 
 ## Basic Mic Module Circuit Hook Up
 

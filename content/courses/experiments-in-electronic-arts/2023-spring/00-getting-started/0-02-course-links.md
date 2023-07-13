@@ -1,7 +1,6 @@
 ---
 title: "00.02 Course Links"
 date: 2023-01-20T09:30:00Z
-draft: false
 ---
 
 ## Stuff to Read
@@ -29,4 +28,5 @@ draft: false
 
 ## Programming References
 
--[CPPReference](https://en.cppreference.com/w/) - C and C++ reference wiki
+- [CPPReference](https://en.cppreference.com/w/) - C and C++ reference wiki
+- [Official Arduino Code Reference](https://www.arduino.cc/reference/en/)

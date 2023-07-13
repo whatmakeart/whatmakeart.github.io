@@ -13,7 +13,9 @@ spellcheck: off
 
 ## How to Sew a Pair of Pants
 
-In this video, I will show you how to sew a pair of pants from start to finish. This is a beginner-friendly tutorial, so no prior sewing experience is required.
+In this video, I will show you how to sew a pair of pants from start to finish. This is a beginner-friendly tutorial, so no prior sewing experience is required. 
+- [how-to-cut-fabric](../sewing/how-to-cut-fabric.md)
+- [how-to-thread-an-juki-ddl-870-industrial-sewing-machine](../sewing/how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)
 
 ## Materials Needed
 

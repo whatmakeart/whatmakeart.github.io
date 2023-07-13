@@ -1,7 +1,6 @@
 ---
 title: "10.02 - Solid State Relays"
 date: 2023-03-31T09:30:00Z
-draft: false
 ---
 
 ## Assignment Deliverables

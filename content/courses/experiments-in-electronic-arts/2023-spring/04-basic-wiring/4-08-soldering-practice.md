@@ -1,7 +1,6 @@
 ---
 title: "04.08 Soldering Practice"
 date: 2023-02-10T09:30:00Z
-draft: false
 ---
 
 ## Assignment Deliverables
@@ -10,7 +9,7 @@ draft: false
 
 ## Assignment Overview
 
-The only way to improve on a new skill is to practice. This exercise provides soldering practice for wires, through hole components, and screw terminals. We will use inexpensive low quality perfboard for these exercises. Mistakes are likely and it is best to practice with low cost materials before working on projects that are more critical.
+The only way to improve on a new skill is to practice. This exercise provides [soldering](../../../../electronics/soldering.md) practice for wires, through hole components, and screw terminals. We will use inexpensive low quality perfboard for these exercises. Mistakes are likely and it is best to practice with low cost materials before working on projects that are more critical.
 
 ### 1. Solder Wire to Perfboard Solder Pads
 

@@ -8,7 +8,7 @@ tags:
 
 ## Tutorial Description
 
-This tutorial will
+This tutorial will show you how to add CSS to a webpage. It can be added via an external stylesheet, in `<style></style>` tags in the `<head>` of the HTML document, inline on an element or inserted into the DOM with [javascript](javascript.md).
 
 ## Prerequisites
 
@@ -24,4 +24,4 @@ After following these instructions you should
 
 ## Further Reading
 
-[HTML](./html.md) [CSS](./css.md) [JavaScript](./javascript.md) [Web Design](./web-design.md)
+- [HTML](./html.md) [CSS](./css.md) [JavaScript](./javascript.md) [Web Design](./web-design.md)
