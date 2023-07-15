@@ -7,7 +7,7 @@ draft: false
 ## Assignment Deliverables
 
 1. Fusion 360 file with toolpaths created in the manufacture workspace (.f3d) - [How to Export Fusion 360 .f3d File](../../../../3d-modeling/fusion-360/fusion-360-export-f3d-file.md)
-2. Screen shot of toolpath from manufacture workspace (.png or .jpg) - [How to take a screenshot](../../../../tutorials/how-to-take-a-screenshot.md)
+2. Screen shot of toolpath from manufacture workspace (.png or .jpg) - [How to take a screenshot](../../../../software/how-to-take-a-screenshot.md)
 3. Exported ShopBot file for CNC (.sbp) - [ShopBot Toolpaths](../../../../digital-fabrication/cnc/shopbot-toolpaths-fusion-360.md)
 
 ## Assignment Overview

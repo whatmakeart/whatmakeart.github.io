@@ -28,4 +28,4 @@ This software and digital tool list focuses on tools that have many uses outside
 
 ## Basic Software Tutorials
 
-[how-to-take-a-screenshot](../tutorials/how-to-take-a-screenshot.md)
+[how-to-take-a-screenshot](../software/how-to-take-a-screenshot.md)

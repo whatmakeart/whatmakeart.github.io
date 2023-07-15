@@ -6,8 +6,8 @@ tags:
   - 3D Modeling
   - Maya
   - UV Unrwapping
+  - tutorial
 title: UV Unrap a Tennis Ball with 3D Cut and Sew Tool in Maya Tutorial
-draft: false
 ---
 
 {{< youtube id="-KhoMBOqx0g" title="UV unwrap a Tennis Ball in Maya" >}}

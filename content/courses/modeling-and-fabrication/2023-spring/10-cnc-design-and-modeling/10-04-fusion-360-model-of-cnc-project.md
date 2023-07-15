@@ -23,12 +23,12 @@ draft: false
 6. [Create a manufacture model](../../../../3d-modeling/fusion-360/fusion-360-make-manufacture-model-copy.md).
 7. Right click on the manufacture model to edit.
 8. Draw a sketch on the ground plane to represent the 24" x 60" piece of plywood.
-9. Use arrange tool to place all the parts flat on the sketch.  If all of the parts do not fit, then you will need to use a bigger piece of plywood. Edit the size of the plywood sketch until the parts fit or change the size of the model until the parts fit.
-10. Take a screenshot or make a rendering of your parts laid flat. To make the screenshot or rendering more interesting, unhide the assembled model so you can see the flat parts and the assembled model at the same time. 
+9. Use arrange tool to place all the parts flat on the sketch. If all of the parts do not fit, then you will need to use a bigger piece of plywood. Edit the size of the plywood sketch until the parts fit or change the size of the model until the parts fit.
+10. Take a screenshot or make a rendering of your parts laid flat. To make the screenshot or rendering more interesting, unhide the assembled model so you can see the flat parts and the assembled model at the same time.
 
 ## Resources
 
-- [How to take a screenshot](../../../../tutorials/how-to-take-a-screenshot.md)
+- [How to take a screenshot](../../../../software/how-to-take-a-screenshot.md)
 
 ### User Parameter Resources
 

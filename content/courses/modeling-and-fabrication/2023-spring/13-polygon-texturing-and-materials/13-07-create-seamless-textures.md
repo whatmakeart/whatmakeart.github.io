@@ -5,4 +5,4 @@ toc: true
 draft: false
 ---
 
-![Link to included file content](../../../../tutorials/how-to-create-seamless-textures.md)
+![Link to included file content](../../../../software/how-to-create-seamless-textures.md)

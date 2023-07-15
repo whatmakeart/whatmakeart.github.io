@@ -2,6 +2,7 @@
 title: Fix Photoshop Masks with Dodge and Burn
 tags:
   - stub
+  - tutorial
 ---
 
 # Fix masks photoshop burn and dodge

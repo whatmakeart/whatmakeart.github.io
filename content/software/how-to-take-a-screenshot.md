@@ -1,5 +1,7 @@
 ---
 title: How to Take a Screenshot
+tags:
+  - tutorial
 ---
 
 # How to Take a Screenshot

@@ -49,7 +49,7 @@ pluralizelisttitles = false
   weight = 10
 [[menu.main]]
   name = 'Tutorials'
-  url = '/tutorials'
+  url = '/tags/tutorial/'
   weight = 20
 [[menu.main]]
   name = 'Art FAQ'

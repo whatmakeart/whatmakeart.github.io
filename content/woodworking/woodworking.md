@@ -15,7 +15,7 @@ Woodworking is the manipulation of wood material into new forms and designs. Woo
 - [How to use a Scrollsaw](how-to-use-a-scroll-saw.md)
 - [How to Use a Crosscut Sled](how-to-use-a-crosscut-sled.md)
 - [How to Rip a Board](how-to-rip-a-board.md)
-- [How to Identify the Crown of a Board](how-to-identify-the-crown-of-a-board.md)
+- [How to Identify the Crown of a Board](../software/how-to-identify-the-crown-of-a-board.md)
 - [How to Support Long Boards for Cutting](how-to-support-long-boards-for-cutting.md)
 - [How to Use a Stopblock to Make Repeatable Cuts](how-to-use-a-stopblock-to-make-repeatable-cuts.md)
 - [How To Use a Feather Board](how-to-use-a-feather-board.md)
