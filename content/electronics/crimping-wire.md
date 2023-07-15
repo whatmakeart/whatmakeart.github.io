@@ -35,13 +35,10 @@ Commonly but usually incorrectly referred to as Dupont connectors, these small c
 
 ### JST Connector Resources
 
-[JST Connectors Wikipedia](https://en.wikipedia.org/wiki/JST_connector)
-
-[JST's Precautions for Crimping Process Instructions](https://www.jst-mfg.com/precaution/eP-Crimp.pdf) [(Archive)](./attachments/eP-Crimp.pdf)
-
-[JST Good Crimping Guide](https://www.jst-services.co.uk/docs/good%20crimping.pdf) [(Archive)](./attachments/JST-good-crimping.pdf)
-
-[JST Connector Types Mat Millman](https://www.mattmillman.com/info/crimpconnectors/common-jst-connector-types/)
+- [JST Connectors Wikipedia](https://en.wikipedia.org/wiki/JST_connector)
+- [JST's Precautions for Crimping Process Instructions](https://www.jst-mfg.com/precaution/eP-Crimp.pdf) [(Archive)](./attachments/eP-Crimp.pdf)
+- [JST Good Crimping Guide](https://www.jst-services.co.uk/docs/good%20crimping.pdf) [(Archive)](./attachments/JST-good-crimping.pdf)
+- [JST Connector Types Mat Millman](https://www.mattmillman.com/info/crimpconnectors/common-jst-connector-types/)
 
 ## Crimping Resources
 
@@ -55,4 +52,4 @@ Commonly but usually incorrectly referred to as Dupont connectors, these small c
 [^3]: [JST RCY Connector](https://www.jst-mfg.com/product/index.php?series=521)
 [^4]: [Spark Fun QUIIC System](https://www.sparkfun.com/qwiic?)
 [^5]: [JST SH Connector](https://www.jst-mfg.com/product/index.php?series=231)
-[^6]: [https://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/](https://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)
+[^6]: [Matt Millman Dupont and Dupont Connectors](https://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)

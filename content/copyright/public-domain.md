@@ -23,4 +23,4 @@ The Smithsonian Open Access archives has high resolution photographs of artifact
 
 [Smithsonian Open Access](https://www.si.edu/openaccess)
 
-[^1]: A Photo Of BJ Novak Was Accidentally Deemed Public Domain, And Now His Face Is Printed On Personal Care Items And Household Products Across The World https://www.buzzfeed.com/emilymaeczachor/bj-novak-pic-public-domain-face-of-products-worldwide
+[^1]: [A Photo Of BJ Novak Was Accidentally Deemed Public Domain, And Now His Face Is Printed On Personal Care Items And Household Products Across The World](https://www.buzzfeed.com/emilymaeczachor/bj-novak-pic-public-domain-face-of-products-worldwide)

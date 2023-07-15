@@ -1,0 +1,5 @@
+---
+title: Perspective
+tags:
+  - stub
+---

@@ -1,5 +1,7 @@
 ---
 title: Protect Raspberry Pi From Power Failure
+tags:
+  - stub
 ---
 
 Protecting your Raspberry Pi from power failure - Raspberry Pi UPS
