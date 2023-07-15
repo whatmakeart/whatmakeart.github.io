@@ -5,6 +5,7 @@ featured_image: /posts/fusion-360-rectangular-pattern-tutorial/fusion-360-rectan
 tags:
   - Fusion 360
   - 3D Modeling
+  - tutorial
 title: "Fusion 360 Rectangular Pattern Tutorial"
 draft: false
 spellcheck: off
