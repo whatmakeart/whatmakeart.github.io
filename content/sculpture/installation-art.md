@@ -84,8 +84,57 @@ Installation art often takes a three-dimensional form. The work is more intentio
 AR.CHAE.OL.O.GY by [Judy Pfaff](https://www.judypfaffstudio.com/) from 2021. Photo by [Peter Aaron/OTTO](https://www.peteraaron.net/) © Judy Pfaff; Courtesy of the artist.
 
 </figcaption>
-
 </figure>
+
+<figure>
+
+[![Flow of Life by Chiharu Shiota](./attachments/2017_Flow-of-Life_by-Chiharu-Shiota_Shanghai_Photo-Jiang-Wenyi-web.jpg)](./attachments/2017_Flow-of-Life_by-Chiharu-Shiota_Shanghai_Photo-Jiang-Wenyi-web.jpg)
+
+<figcaption>
+
+- Chiharu Shiota
+- _Flow of Life_, 2017
+- Installation: metal beds, red liquid, tubes, pump
+- Power Station of Art, Shanghai, China
+- Photo by Jiang Wenyi; courtesy of Power Station of Art.
+- © VG Bild-Kunst, Bonn, 2023 and the artist
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Beyond Memory by Chiharu Shiota](./attachments/2019_Beyond-Memory_by-Chiharu-Shiota_Gropius-Bau_photo-Sunhi-Mang-web.jpg)](./attachments/2019_Beyond-Memory_by-Chiharu-Shiota_Gropius-Bau_photo-Sunhi-Mang-web.jpg)
+
+<figcaption>
+
+- Chiharu Shiota
+- _Beyond Memory_, 2019
+- Installation: wool, paper
+- Gropius Bau, Berlin, Germany
+- Photo by Sunhi Mang
+- © VG Bild-Kunst, Bonn, 2023 and the artist
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Conversations Between Others by Chiharu Shiota](./attachments/2023_Conversations-Between-Others_by-Chiharu-Shiota_Yuelai-Musuem_photo-Zhao-Mingxu_9-web.jpg)](./attachments/2023_Conversations-Between-Others_by-Chiharu-Shiota_Yuelai-Musuem_photo-Zhao-Mingxu_9-web.jpg)
+
+<figcaption>
+
+- Chiharu Shiota
+- Conversations Between Others, 2023
+- Installation: wool, desk, chair
+- Yuelai Art Museum, Chongqing, China
+- Photos by Zhao Mingxu
+- Courtesy the artist and YUELAI Art Museum
+- © VG Bild-Kunst, Bonn, 2023 and the artist
+
+</figcaption>
+</figure>
+
 </div>
 
 ## Installation Art Texts

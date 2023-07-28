@@ -11678,6 +11678,18 @@ a.title-link {
   width: 300px;
   height: 300px; }
 
+/* for image gallery captions as lists */
+.gallery-grid > figure > figcaption > ul {
+  list-style: none;
+  padding-left: 0; }
+
+/* gallery-grid caption font size */
+.gallery-grid > figure > figcaption {
+  font-size: 12px; }
+
+.gallery-grid > figure > figcaption > a > svg {
+  color: red; }
+
 /* Begin for footnote backlinks on hugo */
 .footnote-backref {
   visibility: hidden; }
