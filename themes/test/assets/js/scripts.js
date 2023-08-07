@@ -118,15 +118,19 @@ function removeNavigationEmbed() {
         DOMElement.remove();
       }
     }
+
+    // Remove and replace main content classes so content is full width in iframe
+    // To do: Make into a function with a list or array
+
     var elem = document.getElementById("wiki-content");
-    if (elem.className.match(/(^|\s+)extraClass($|\s+)/g)) {
+    if (elem.className.match(/(^|\s+)containerfluid($|\s+)/g)) {
       elem.className += " containerfluid";
     }
     elem.className = elem.className.replace(/(^|\s+)bd-content($|\s+)/g, "");
     elem.className = elem.className.replace(/(^|\s+)ps-lg-2($|\s+)/g, "");
 
     var elem = document.getElementById("course-content");
-    if (elem.className.match(/(^|\s+)extraClass($|\s+)/g)) {
+    if (elem.className.match(/(^|\s+)containerfluid($|\s+)/g)) {
       elem.className += " containerfluid";
     }
 
