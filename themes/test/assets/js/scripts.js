@@ -118,6 +118,20 @@ function removeNavigationEmbed() {
         DOMElement.remove();
       }
     }
+    var elem = document.getElementById("wiki-content");
+    if (elem.className.match(/(^|\s+)extraClass($|\s+)/g)) {
+      elem.className += " containerfluid";
+    }
+    elem.className = elem.className.replace(/(^|\s+)bd-content($|\s+)/g, "");
+    elem.className = elem.className.replace(/(^|\s+)ps-lg-2($|\s+)/g, "");
+
+    var elem = document.getElementById("course-content");
+    if (elem.className.match(/(^|\s+)extraClass($|\s+)/g)) {
+      elem.className += " containerfluid";
+    }
+
+    elem.className = elem.className.replace(/(^|\s+)bd-content($|\s+)/g, "");
+    elem.className = elem.className.replace(/(^|\s+)ps-lg-2($|\s+)/g, "");
 
     console.log("Removed iframe #header and #footer");
     changeStyle(); // remove Bootstrap Styles
