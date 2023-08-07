@@ -15,7 +15,7 @@ The purpose of this course is to introduce students to the sculptural form of sp
 
 ### Specific to Fall 2023 Iteration
 
-Using the gallery as an experimental installation site, this course’s capstone project will culminate in a thematic exhibition project organized with support from the Reinberger Gallery team at the Cleveland Institute of Art.
+Using the gallery as an experimental installation site, this course’s capstone project will culminate in a thematic exhibition project organized with support from the Reinberger Gallery team at the Cleveland Institute of Art. Hepp Maccoy of AudioPixel will collaborate with the students in the course to make an immersive light installation. Visiting artists specializing in sound, will assist with the sound components of the installation.
 
 ## Description from Course Catalog
 
