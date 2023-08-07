@@ -95,6 +95,14 @@ function removeNavigationEmbed() {
     document.head.appendChild(baseToAdd);
 
     const elements = [
+      "wiki-navbar",
+      "course-sidebar",
+      "wiki-sidebar",
+      "course-page-intro",
+      "wiki-page-intro",
+      "course-toc",
+      "wiki-toc",
+      "backlinks-container",
       "header",
       "footer",
       "pageTitleH1",
