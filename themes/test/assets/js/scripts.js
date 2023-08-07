@@ -121,6 +121,7 @@ function removeNavigationEmbed() {
 
     // Remove and replace main content classes so content is full width in iframe
     // To do: Make into a function with a list or array
+    // make more streamlined
 
     var elem = document.getElementById("wiki-content");
     if (elem.className.match(/(^|\s+)containerfluid($|\s+)/g)) {
