@@ -126,30 +126,38 @@ function removeNavigationEmbed() {
     console.log("replace wiki-content");
 
     var elem = document.getElementById("wiki-content");
-    elem.classList.add("containerfluid");
-    elem.classList.remove("bd-content");
-    elem.classList.remove("ps-lg-2");
+    if (elem !== null) {
+      elem.classList.add("containerfluid");
+      elem.classList.remove("bd-content");
+      elem.classList.remove("ps-lg-2");
+    }
 
     console.log("replace course-content");
 
     var elem = document.getElementById("course-content");
-    elem.classList.add("containerfluid");
-    elem.classList.remove("bd-content");
-    elem.classList.remove("ps-lg-2");
+    if (elem !== null) {
+      elem.classList.add("containerfluid");
+      elem.classList.remove("bd-content");
+      elem.classList.remove("ps-lg-2");
+    }
 
     // for bd-main - make into list
 
     console.log("replace courses-main");
 
-    var elem = document.getElementById("course-main");
-    elem.classList.add("containerfluid");
-    elem.classList.remove("bd-main");
+    if (elem !== null) {
+      var elem = document.getElementById("course-main");
+      elem.classList.add("containerfluid");
+      elem.classList.remove("bd-main");
+    }
 
     console.log("replace wiki-main");
 
-    var elem = document.getElementById("wiki-main");
-    elem.classList.add("containerfluid");
-    elem.classList.remove("bd-main");
+    if (elem !== null) {
+      var elem = document.getElementById("wiki-main");
+      elem.classList.add("containerfluid");
+      elem.classList.remove("bd-main");
+    }
 
     console.log("Removed iframe #header and #footer");
     changeStyle(); // remove Bootstrap Styles
