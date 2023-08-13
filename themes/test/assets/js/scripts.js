@@ -123,12 +123,16 @@ function removeNavigationEmbed() {
     // To do: Make into a function with a list or array
     // make more streamlined
 
+    console.log("replace wiki-content");
+
     var elem = document.getElementById("wiki-content");
     if (elem.className.match(/(^|\s+)containerfluid($|\s+)/g)) {
       elem.className += " containerfluid";
     }
     elem.className = elem.className.replace(/(^|\s+)bd-content($|\s+)/g, "");
     elem.className = elem.className.replace(/(^|\s+)ps-lg-2($|\s+)/g, "");
+
+    console.log("replace course-content");
 
     var elem = document.getElementById("course-content");
     if (elem.className.match(/(^|\s+)containerfluid($|\s+)/g)) {
@@ -140,11 +144,15 @@ function removeNavigationEmbed() {
 
     // for bd-main - make into list
 
+    console.log("replace courses-main");
+
     var elem = document.getElementById("courses-main");
     if (elem.className.match(/(^|\s+)containerfluid($|\s+)/g)) {
       elem.className += " containerfluid";
     }
     elem.className = elem.className.replace(/(^|\s+)bd-main($|\s+)/g, "");
+
+    console.log("replace wiki-main");
 
     var elem = document.getElementById("wiki-main");
     if (elem.className.match(/(^|\s+)containerfluid($|\s+)/g)) {
