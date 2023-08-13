@@ -138,6 +138,20 @@ function removeNavigationEmbed() {
     elem.className = elem.className.replace(/(^|\s+)bd-content($|\s+)/g, "");
     elem.className = elem.className.replace(/(^|\s+)ps-lg-2($|\s+)/g, "");
 
+    // for bd-main - make into list
+
+    var elem = document.getElementById("courses-main");
+    if (elem.className.match(/(^|\s+)containerfluid($|\s+)/g)) {
+      elem.className += " containerfluid";
+    }
+    elem.className = elem.className.replace(/(^|\s+)bd-main($|\s+)/g, "");
+
+    var elem = document.getElementById("wiki-main");
+    if (elem.className.match(/(^|\s+)containerfluid($|\s+)/g)) {
+      elem.className += " containerfluid";
+    }
+    elem.className = elem.className.replace(/(^|\s+)bd-main($|\s+)/g, "");
+
     console.log("Removed iframe #header and #footer");
     changeStyle(); // remove Bootstrap Styles
     document.body.style.overflowX = "hidden"; // to remove iframe scrollbars when scrolling
