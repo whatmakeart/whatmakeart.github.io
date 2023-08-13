@@ -390,7 +390,7 @@ path.MastodonM {
     min-width: 927px;
   }
 }
-@media only screen and (min-width: 1320px) {
+@media only screen and (min-width: 1300px) {
   /* Test for keeping wide main content from collapsing with container fluid on wide browsers */
   #course-content,
   #course-main,
