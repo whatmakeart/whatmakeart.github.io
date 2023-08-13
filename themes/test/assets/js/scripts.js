@@ -126,45 +126,35 @@ function removeNavigationEmbed() {
     console.log("replace wiki-content");
 
     var elem = document.getElementById("wiki-content");
-    if (elem.className.match(/(^|\s+)containerfluid($|\s+)/g)) {
-      elem.className += " containerfluid";
-    }
-    elem.className = elem.className.replace(/(^|\s+)bd-content($|\s+)/g, "");
-    elem.className = elem.className.replace(/(^|\s+)ps-lg-2($|\s+)/g, "");
+    elem.classList.add("containerfluid");
+    elem.classList.remove("bd-content");
+    elem.classList.remove("ps-lg-2");
 
     console.log("replace course-content");
 
     var elem = document.getElementById("course-content");
-    if (elem.className.match(/(^|\s+)containerfluid($|\s+)/g)) {
-      elem.className += " containerfluid";
-    }
-
-    elem.className = elem.className.replace(/(^|\s+)bd-content($|\s+)/g, "");
-    elem.className = elem.className.replace(/(^|\s+)ps-lg-2($|\s+)/g, "");
+    elem.classList.add("containerfluid");
+    elem.classList.remove("bd-content");
+    elem.classList.remove("ps-lg-2");
 
     // for bd-main - make into list
 
     console.log("replace courses-main");
 
-    var elem = document.getElementById("courses-main");
-    if (elem.className.match(/(^|\s+)containerfluid($|\s+)/g)) {
-      elem.className += " containerfluid";
-    }
-    elem.className = elem.className.replace(/(^|\s+)bd-main($|\s+)/g, "");
+    var elem = document.getElementById("course-main");
+    elem.classList.add("containerfluid");
+    elem.classList.remove("bd-main");
 
     console.log("replace wiki-main");
 
     var elem = document.getElementById("wiki-main");
-    if (elem.className.match(/(^|\s+)containerfluid($|\s+)/g)) {
-      elem.className += " containerfluid";
-    }
-    elem.className = elem.className.replace(/(^|\s+)bd-main($|\s+)/g, "");
+    elem.classList.add("containerfluid");
+    elem.classList.remove("bd-main");
 
     console.log("Removed iframe #header and #footer");
     changeStyle(); // remove Bootstrap Styles
     document.body.style.overflowX = "hidden"; // to remove iframe scrollbars when scrolling
-    document.body.style.overflowY = "scroll"; // to remove iframe scrollbars when scrolling
-    document.body.style.overflowY = "scroll"; // to remove iframe scrollbars when scrolling
+    document.body.style.overflowY = "hidden"; // to remove iframe scrollbars when scrolling
   }
   if (self === top) {
     console.log("Top level website so keep native navigation");
