@@ -44,14 +44,6 @@ h6 {
   font-size: 12px;
 }
 
-/* Test for keeping wide main content from collapsing with container fluid on wide browsers */
-#course-content,
-#course-main,
-#wiki-content,
-#wiki-main {
-  min-width: 576px;
-}
-
 /* Parsed TOC Test Indent*/
 
 a.toc-item {
@@ -388,6 +380,23 @@ path.MastodonM {
     grid-template-columns: 1fr 1fr;
     grid-gap: 6rem;
     padding: 2rem 0 2rem 0;
+  }
+
+  /* Test for keeping wide main content from collapsing with container fluid on wide browsers */
+  #course-content,
+  #course-main,
+  #wiki-content,
+  #wiki-main {
+    min-width: 927px;
+  }
+}
+@media only screen and (min-width: 1320px) {
+  /* Test for keeping wide main content from collapsing with container fluid on wide browsers */
+  #course-content,
+  #course-main,
+  #wiki-content,
+  #wiki-main {
+    min-width: 927px;
   }
 }
 
