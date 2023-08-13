@@ -44,6 +44,14 @@ h6 {
   font-size: 12px;
 }
 
+/* Test for keeping wide main content from collapsing with container fluid on wide browsers */
+#course-content,
+#course-main,
+#wiki-content,
+#wiki-main {
+  min-width: 576px;
+}
+
 /* Parsed TOC Test Indent*/
 
 a.toc-item {
