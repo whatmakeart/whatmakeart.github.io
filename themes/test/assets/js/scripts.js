@@ -128,6 +128,7 @@ function removeNavigationEmbed() {
     var elem = document.getElementById("wiki-content");
     if (elem !== null) {
       elem.classList.add("containerfluid");
+      elem.classList.add("keep-wide-canvas-lms ");
       elem.classList.remove("bd-content");
       elem.classList.remove("ps-lg-2");
     }
@@ -137,6 +138,7 @@ function removeNavigationEmbed() {
     var elem = document.getElementById("course-content");
     if (elem !== null) {
       elem.classList.add("containerfluid");
+      elem.classList.add("keep-wide-canvas-lms");
       elem.classList.remove("bd-content");
       elem.classList.remove("ps-lg-2");
     }
@@ -148,6 +150,7 @@ function removeNavigationEmbed() {
     if (elem !== null) {
       var elem = document.getElementById("course-main");
       elem.classList.add("containerfluid");
+      elem.classList.add("keep-wide-canvas-lms");
       elem.classList.remove("bd-main");
     }
 
@@ -156,6 +159,7 @@ function removeNavigationEmbed() {
     if (elem !== null) {
       var elem = document.getElementById("wiki-main");
       elem.classList.add("containerfluid");
+      elem.classList.add("keep-wide-canvas-lms");
       elem.classList.remove("bd-main");
     }
 

@@ -382,21 +382,10 @@ path.MastodonM {
     grid-gap: 6rem;
     padding: 2rem 0 2rem 0;
   }
-
-  /* Test for keeping wide main content from collapsing with container fluid on wide browsers */
-  #course-content,
-  #course-main,
-  #wiki-content,
-  #wiki-main {
-    min-width: 927px;
-  }
 }
 @media only screen and (min-width: 1300px) {
   /* Test for keeping wide main content from collapsing with container fluid on wide browsers */
-  #course-content,
-  #course-main,
-  #wiki-content,
-  #wiki-main {
+  .keep-wide-canvas-lms {
     min-width: 927px;
   }
 }

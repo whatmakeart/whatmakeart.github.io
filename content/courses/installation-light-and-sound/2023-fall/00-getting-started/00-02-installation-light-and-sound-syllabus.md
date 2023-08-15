@@ -19,7 +19,7 @@ The purpose of this course is to introduce students to the sculptural form of sp
 
 ### Specific to Fall 2023 Iteration
 
-Using the gallery as an experimental installation site, this course’s capstone project will culminate in a thematic exhibition project organized with support from the Reinberger Gallery team at the Cleveland Institute of Art. [Hepp Maccoy](https://heppmaccoy.com/) of AudioPixel will collaborate with the students in the course to make an immersive light installation. Visiting artists specializing in sound, will assist with the sound components of the installation.
+Using the gallery as an experimental installation site, this course’s capstone project will culminate in a thematic exhibition project organized with support from the Reinberger Gallery team at the Cleveland Institute of Art. [Hepp Maccoy](https://heppmaccoy.com/) of AudioPixel will collaborate with the students in the course to make an immersive light installation. Visiting artists specializing in sound, [Raul Romero](https://raulromero.com/) and [Bob Drake](https://www.fluxmonkey.com/) will assist with the sound components of the installation.
 
 ## Description from Course Catalog
 
@@ -41,11 +41,44 @@ An introduction into the sculptural form known as installation, within the organ
 - Reception / Transmission
 - Broadcast / Projection
 
-## Required Textbooks and Readings
+## Class Format & Policies
 
-## Required Supplies
+- 4.5 hours of regularly scheduled instructional time. In addition to the regularly scheduled instructional time, you’ll need to plan on 4.5 hours of homework time for each of your classes.
+- combination of studio work as well as lecture, group dialogue, critiques etc.
+- Projects will sometimes have in-progress reviews in addition to critiques when the projects are finished. The Instructor as well as students participate in the critiques. This takes time and is part of the studio learning experience and a big part of the course.
+- Students must avoid behavior that disrupts the learning process, or that otherwise may be offensive to classmates, or that is disrespectful to the instructor.
 
-## Reference Texts
+### Critiques
+
+You’re required to contribute to all critiques, even if your own project is not complete. Successful crits depend on each student’s generosity in sharing their honest thoughts, opinions and suggestions!
+
+### Late Work
+
+Projects must be turned in on time. On time is before the beginning of class on the day that they are due or other time as specified by the instructor. Late projects will automatically drop 2% per day late.
+
+### Documentation
+
+- Students should maintain regular, on-going and timely documentation of work in progress.
+- Images should be high resolution, well exposed, in focus, and well composed.
+
+### File Management
+
+- We will use Canvas to turn in assignments. If issues arise with Canvas’ file submission process then we will use Google Drive to turn in assignments.
+- The class will have a Google Drive folder specific to this course.
+- Use this format for naming all your class files:
+  - YYYYMMDD Smith Lane Project 1
+  - 20230801 Smith Lane First Day Project 1
+
+### Required Textbooks and Readings
+
+There are no required textbooks for this course.
+
+### Required Supplies
+
+- Basic drawing and sketching supplies
+- Note taking supplies
+
+### Reference Texts
 
 - One Place after Another: Site-Specific Art and Locational Identity by Miwon Kwon
 - Installation Art: Space as Medium in Contemporary Art edited by Sandu Cultural Media
