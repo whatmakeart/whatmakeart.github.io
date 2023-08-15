@@ -5,6 +5,33 @@ description: Syllabus for a special topics art and design course exploring insta
 
 ## Installation: Light + Sound
 
+<div class="bd-toc mt-3 mb-5 my-lg-0 mb-lg-5 px-sm-1 text-body-secondary">
+          <button class="btn btn-link p-md-0 mb-2 mb-md-0 text-decoration-none bd-toc-toggle d-md-none" type="button" data-bs-toggle="collapse" data-bs-target="#tocContents" aria-expanded="false" aria-controls="tocContents">
+            On this page
+            <svg class="bi d-md-none ms-2" aria-hidden="true"><use xlink:href="#chevron-expand"></use></svg>
+          </button>
+          <strong class="d-none d-md-block h6 my-2 ms-3">On this page</strong>
+          <hr class="d-none d-md-block my-2 ms-3">
+          <div class="collapse bd-toc-collapse" id="tocContents">
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#quick-start" class="">Quick start</a></li>
+    <li><a href="#cdn-links">CDN links</a></li>
+    <li><a href="#next-steps">Next steps</a></li>
+    <li><a href="#js-components">JS components</a></li>
+    <li><a href="#important-globals">Important globals</a>
+      <ul>
+        <li><a href="#html5-doctype">HTML5 doctype</a></li>
+        <li><a href="#viewport-meta">Viewport meta</a></li>
+        <li><a href="#box-sizing">Box-sizing</a></li>
+        <li><a href="#reboot">Reboot</a></li>
+      </ul>
+    </li>
+    <li><a href="#community">Community</a></li>
+  </ul>
+</nav>
+          </div>
+        </div>
 Course Number: SEM 230A-330A-430Aa
 
 Department: Sculpture + Expanded Media (SEM)
