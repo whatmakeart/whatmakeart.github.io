@@ -56,25 +56,25 @@ An introduction into the sculptural form known as installation, within the organ
 
 <div class="responsive-table-markdown">
 
-| Week | Date         | Topic                              |
-| ---- | ------------ | ---------------------------------- |
-| 1    | August 25    | Installation Site Visit + Ideation |
-| 2    | September 1  | Installation Ideation and Light    |
-| 3    | September 8  | Installation Ideation and Sound    |
-| 4    | September 15 | Model of Installation              |
-| 5    | September 22 | Budget                             |
-| 6    | September 29 | Prototype Testing                  |
-| 7    | October 6    | Fabrication                        |
-| 8    | October 13   | Fabrication                        |
-| 9    | October 20   | Fabrication                        |
-| 10   | October 27   | Install                            |
-| 11   | November 3   | Install                            |
-| 12   | November 10  | Opening                            |
-| 13   | November 17  | Documentation                      |
-|      | November 24  | Thanksgiving - No Class            |
-| 14   | December 1   | Portfolio                          |
-| 15   | December 8   | Review                             |
-| 16   | December 15  | Final Critique                     |
+| **Week** | **Date**     | **Topic**                          |
+| -------- | ------------ | ---------------------------------- |
+| 1        | August 25    | Installation Site Visit + Ideation |
+| 2        | September 1  | Installation Ideation and Light    |
+| 3        | September 8  | Installation Ideation and Sound    |
+| 4        | September 15 | Model of Installation              |
+| 5        | September 22 | Budget                             |
+| 6        | September 29 | Prototype Testing                  |
+| 7        | October 6    | Fabrication                        |
+| 8        | October 13   | Fabrication                        |
+| 9        | October 20   | Fabrication                        |
+| 10       | October 27   | Install                            |
+| 11       | November 3   | Install                            |
+| 12       | November 10  | Opening                            |
+| 13       | November 17  | Documentation                      |
+|          | November 24  | Thanksgiving - No Class            |
+| 14       | December 1   | Portfolio                          |
+| 15       | December 8   | Review                             |
+| 16       | December 15  | Final Critique                     |
 
 </div>
 
@@ -102,7 +102,7 @@ The Cleveland Institute of Art recognizes and embraces diversity and believes th
 
 Students are expected to attend all sessions of the classes in which they are registered and to attend all associated lecture programs and meetings. Progress as an artist depends not only on completion of assignments but also on full participation in dialogue with studio and academic classes. All absences will count towards a student’s absence total for the semester. Students are responsible for all missed class material, including assignments and tests, when absent from class. Each faculty member is required to take, and to maintain records of, class attendance. CIA’s absence limits are as follows:
 
-<div class="markdown-table-responsive">
+<div class="responsive-table-markdown">
 
 | **Course Type**             | **Absence Limit**                                                                      |
 | --------------------------- | -------------------------------------------------------------------------------------- |
