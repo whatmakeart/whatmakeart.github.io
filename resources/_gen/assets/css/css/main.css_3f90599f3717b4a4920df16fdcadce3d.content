@@ -11788,9 +11788,13 @@ path.MastodonM {
 .keep-wide-canvas-lms {
   width: 100%; }
 
+@media (min-width: 1000px) {
+  .keep-wide-canvas-lms {
+    min-width: 627px !important; } }
+
 @media only screen and (min-width: 1200px) {
   .keep-wide-canvas-lms {
-    min-width: 927px; } }
+    min-width: 927px !important; } }
 
 /* Code Blocks */
 /* used in code blocks to indent and have space at bottom for readability */
