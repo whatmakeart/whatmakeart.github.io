@@ -1,83 +1,83 @@
 {{- /* Last modified: 2023-03-27T11:06:45-07:00 */}}
 
 {{- /*
-Copyright 2023 Veriphor LLC
+  Copyright 2023 Veriphor LLC
 
-Licensed under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License. You may obtain a copy of
-the License at
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not
+  use this file except in compliance with the License. You may obtain a copy of
+  the License at
 
-https://www.apache.org/licenses/LICENSE-2.0
+  https://www.apache.org/licenses/LICENSE-2.0
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations under
-the License.
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+  WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+  License for the specific language governing permissions and limitations under
+  the License.
 */}}
 
 {{- /*
-Renders a table of contents by parsing rendered content.
+  Renders a table of contents by parsing rendered content.
 
-In site configuration, set the default start level, end level, and the minimum
-number of headings required to show the table of contents:
+  In site configuration, set the default start level, end level, and the minimum
+  number of headings required to show the table of contents:
 
-    [params.toc]
-    startLevel = 2      # default is 2
-    endLevel = 3        # default is 3
-    minNumHeadings = 2  # default is 2
+  [params.toc]
+  startLevel = 2      # default is 2
+  endLevel = 3        # default is 3
+  minNumHeadings = 2  # default is 2
 
-To display the table of contents on a page:
+  To display the table of contents on a page:
 
-    +++
-    title = 'Post 1'
-    toc = true
-    +++
+  +++
+  title = 'Post 1'
+  toc = true
+  +++
 
-To display the table of contents on a page, and override one or more of the
-default settings:
+  To display the table of contents on a page, and override one or more of the
+  default settings:
 
-    +++
-    title = 'Post 1'
-    [toc]
-    startLevel = 2      # default is 2
-    endLevel = 3        # default is 3
-    minNumHeadings = 2  # default is 2
-    +++
+  +++
+  title = 'Post 1'
+  [toc]
+  startLevel = 2      # default is 2
+  endLevel = 3        # default is 3
+  minNumHeadings = 2  # default is 2
+  +++
 
-Change or localize the title with a "toc_title" key in your i18n file(s).
+  Change or localize the title with a "toc_title" key in your i18n file(s).
 
-Start with these basic CSS rules to style the table of contents:
+  Start with these basic CSS rules to style the table of contents:
 
-    a.toc-item {
-      display: block;
-    }
-    a.toc-level-1 {
-      margin-left: 0em;
-    }
-    a.toc-level-2 {
-      margin-left: 1em;
-    }
-    a.toc-level-3 {
-      margin-left: 2em;
-    }
-    a.toc-level-4 {
-      margin-left: 3em;
-    }
-    a.toc-level-5 {
-      margin-left: 4em;
-    }
-    a.toc-level-6 {
-      margin-left: 5em;
-    }
+  a.toc-item {
+  display: block;
+  }
+  a.toc-level-1 {
+  margin-left: 0em;
+  }
+  a.toc-level-2 {
+  margin-left: 1em;
+  }
+  a.toc-level-3 {
+  margin-left: 2em;
+  }
+  a.toc-level-4 {
+  margin-left: 3em;
+  }
+  a.toc-level-5 {
+  margin-left: 4em;
+  }
+  a.toc-level-6 {
+  margin-left: 5em;
+  }
 
-@context {page} .
+  @context {page} .
 
-@returns {template.HTML}
+  @returns {template.HTML}
 
-@example {{ partial "toc-parse-content.html" . }}
+  @example {{ partial "toc-parse-content.html" .
+}}
 */}}
-
 {{- /* Initialize. */}}
 {{- $partialName := "toc-parse-content" }}
 
@@ -136,27 +136,30 @@ Start with these basic CSS rules to style the table of contents:
   {{- errorf "The %q partial detected duplicate heading IDs (%s) in %s" $partialName (delimit . ", ") $contentPath }}
 {{- end }}
 
+
 <!-- Below modified from original to match CSS classes -->
-<!-- also added a | safeHTML after .text to allow for appostrophe --> 
+<!-- also added a | safeHTML after .text to allow for appostrophe -->
 
 {{- /* Render */}}
 {{- if .Params.toc }}
   {{- with $headings }}
     {{- if ge (len .) $minNumHeadings }}
       <nav id="TableOfContents">
-       <ul>
-       
-            {{- range . }}
+        <ul>
+          {{- range . }}
             {{- $attrs := dict "class" (printf "toc-item toc-level-%d" (add 1 (sub .level $startLevel))) }}
             {{- with .id }}
-                {{- $attrs = merge $attrs (dict "href" (printf "%s#%s" $.RelPermalink .)) }}
+              {{- $attrs = merge $attrs (dict "href" (printf "%s#%s" $.RelPermalink .)) }}
             {{- end }}
-            <li><a
-            {{- range $k, $v := $attrs }}
-                {{- printf " %s=%q" $k $v | safeHTMLAttr }}
-            {{- end -}}
-            >{{ .text | safeHTML }}</a></li>
-            {{- end }}
+            <li>
+              <a
+                {{- range $k, $v := $attrs }}
+                  {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+                {{- end -}}
+                >{{ .text | safeHTML }}</a
+              >
+            </li>
+          {{- end }}
         </ul>
       </nav>
     {{- end }}

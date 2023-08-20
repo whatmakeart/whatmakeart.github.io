@@ -11788,9 +11788,13 @@ path.MastodonM {
 .keep-wide-canvas-lms {
   width: 100%; }
 
-@media (min-width: 1000px) {
+@media (min-width: 800px) {
   .keep-wide-canvas-lms {
     min-width: 627px !important; } }
+
+@media (min-width: 1000px) {
+  .keep-wide-canvas-lms {
+    min-width: 727px !important; } }
 
 @media only screen and (min-width: 1200px) {
   .keep-wide-canvas-lms {
