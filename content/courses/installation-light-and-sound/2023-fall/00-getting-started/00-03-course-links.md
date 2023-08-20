@@ -2,6 +2,8 @@
 title: Course Links
 ---
 
+## Exhibition Space
+
 - [Cleveland Institute of Art Reinberger Gallery](https://www.cia.edu/exhibitions)
 
 ## Visiting Artists

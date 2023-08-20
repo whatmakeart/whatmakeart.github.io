@@ -2,6 +2,22 @@
 title: 00.02 Time Based Practices Syllabus
 ---
 
+## Time Based Strategies
+
+Course Number: SEM 236
+
+Department: Sculpture + Expanded Media (SEM)
+
+Room: 212
+
+Time: Tuesdays 9:00 am - 11:00 am and 12:00 pm - 2:30 pm
+
+Faculty: Jimmy Kuehnle - jkuehnle@cia.edu
+
+Office Hours: By appointment
+
+Semester: Fall 2023
+
 ## Course description
 
 This course investigates the concepts and practices of various time‐based media arts. This involves an introduction to artmaking as a process involving transactions between people, objects, technologies, and sites. Presentations focus on a range of contemporary artists and consider characteristics of recent production including simultaneity, immersion, duration, a collapsing of the distinction between art and life, and a realignment of the relationship between audience and artwork. A series of workshops explore a fundamental introduction to the processes of video art, sound art, media installation, 3D modeling and visualization, and digital fabrication. Knowledge and skills learned from experiments in workshops serve as the basis to produce several projects. The development of media literacy, media ethics, and dissemination techniques drive and ground the assignments. The course reinforces and emphasizes the production of high-quality documentation of time-based and ephemeral artwork for presentation at venues, portfolios, and proposals.
@@ -24,11 +40,17 @@ Students will have the opportunity to:
 
 ## Course Topics
 
-• Historical Context
-• Contemporary Context
-• Media Study and Film Theory
-• Collaboration
-• Digital File Management and Workflow
+- Historical Context
+- Contemporary Context
+- Media Study and Film Theory
+- Collaboration
+- Digital File Management and Workflow
+- Sound Art
+- Video Art
+- Interdisciplinary Art
+- Installation Art
+- Emerging Media
+- Digital Fabrication Processes
 
 ## Class Format & Policies
 
@@ -71,24 +93,24 @@ There are no required textbooks for this course.
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**     | **Topic**           |
-| -------- | ------------ | ------------------- |
-| 1        | August 29    | Introduction        |
-| 2        | September 5  |                     |
-| 3        | September 12 |                     |
-| 4        | September 19 |                     |
-| 5        | September 26 |                     |
-| 6        | October 3    |                     |
-| 7        | October 10   |                     |
-| 8        | October 17   |                     |
-| 9        | October 24   | No Class Fall Break |
-| 10       | October 31   |                     |
-| 11       | November 7   |                     |
-| 12       | November 14  |                     |
-| 13       | November 21  |                     |
-| 14       | November 28  |                     |
-| 15       | December 5   |                     |
-| 16       | December 12  | Final Crits         |
+| **Week** | **Date**     | **Topic**                        |
+| -------- | ------------ | -------------------------------- |
+| 1        | August 29    | Introduction                     |
+| 2        | September 5  | Lecture / Workshop / Studio Work |
+| 3        | September 12 | Lecture / Workshop / Studio Work |
+| 4        | September 19 | Project 1 Crit                   |
+| 5        | September 26 | Lecture / Workshop / Studio Work |
+| 6        | October 3    | Lecture / Workshop / Studio Work |
+| 7        | October 10   | Project 2 Crit                   |
+| 8        | October 17   | Lecture / Workshop / Studio Work |
+| 9        | October 24   | No Class Fall Break              |
+| 10       | October 31   | Lecture / Workshop / Studio Work |
+| 11       | November 7   | Lecture / Workshop / Studio Work |
+| 12       | November 14  | Project 3 Crit                   |
+| 13       | November 21  | Lecture / Workshop / Studio Work |
+| 14       | November 28  | Lecture / Workshop / Studio Work |
+| 15       | December 5   | Lecture / Workshop / Studio Work |
+| 16       | December 12  | Final Crits                      |
 
 </div>
 

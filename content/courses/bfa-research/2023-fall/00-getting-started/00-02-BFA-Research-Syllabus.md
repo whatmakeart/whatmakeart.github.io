@@ -2,6 +2,22 @@
 title: BFA Research Syllabus
 ---
 
+## BFA Research
+
+Course Number: SEM 429
+
+Department: Sculpture + Expanded Media (SEM)
+
+Room: 212
+
+Time: Mondays 12:00 pm - 5:00 pm
+
+Faculty: Jimmy Kuehnle - jkuehnle@cia.edu
+
+Office Hours: By appointment
+
+Semester: Fall 2023
+
 ## Course Description
 
 As an extension of the Visual Arts and Technology Environment’s goal that students develop the

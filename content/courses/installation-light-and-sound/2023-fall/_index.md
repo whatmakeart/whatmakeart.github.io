@@ -1,3 +1,3 @@
 ---
-title: 2023 Fall
+title: Installation Light and Sound - 2023 Fall
 ---

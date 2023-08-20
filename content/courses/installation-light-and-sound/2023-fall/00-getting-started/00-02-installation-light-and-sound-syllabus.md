@@ -9,7 +9,13 @@ Course Number: SEM 230A-330A-430Aa
 
 Department: Sculpture + Expanded Media (SEM)
 
-Faculty: Jimmy Kuehnle
+Room: 212
+
+Time: Fridays 9:30 am - 11:45 am and 2:00 pm - 4:45 pm
+
+Faculty: Jimmy Kuehnle - jkuehnle@cia.edu
+
+Office Hours: By appointment
 
 Semester: Fall 2023
 
