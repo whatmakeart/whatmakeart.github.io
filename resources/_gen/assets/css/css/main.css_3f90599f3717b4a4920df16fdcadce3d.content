@@ -11784,9 +11784,10 @@ path.MastodonM {
     grid-gap: 6rem;
     padding: 2rem 0 2rem 0; } }
 
-@media only screen and (min-width: 1300px) {
+@media only screen and (min-width: 1200px) {
   /* Test for keeping wide main content from collapsing with container fluid on wide browsers */
   .keep-wide-canvas-lms {
+    width: 100%;
     min-width: 927px; } }
 
 /* Code Blocks */
