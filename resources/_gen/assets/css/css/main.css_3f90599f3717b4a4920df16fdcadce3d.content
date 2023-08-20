@@ -11786,17 +11786,26 @@ path.MastodonM {
 
 /* Test for keeping wide main content from collapsing with container fluid on wide browsers */
 .keep-wide-canvas-lms {
-  width: 100%; }
+  width: 100%;
+  min-width: 300px; }
+
+@media (min-width: 700px) {
+  .keep-wide-canvas-lms {
+    min-width: 600px !important; } }
 
 @media (min-width: 800px) {
   .keep-wide-canvas-lms {
-    min-width: 627px !important; } }
+    min-width: 700px !important; } }
+
+@media (min-width: 900px) {
+  .keep-wide-canvas-lms {
+    min-width: 800px !important; } }
 
 @media (min-width: 1000px) {
   .keep-wide-canvas-lms {
-    min-width: 727px !important; } }
+    min-width: 900px !important; } }
 
-@media only screen and (min-width: 1200px) {
+@media (min-width: 1100px) {
   .keep-wide-canvas-lms {
     min-width: 927px !important; } }
 
