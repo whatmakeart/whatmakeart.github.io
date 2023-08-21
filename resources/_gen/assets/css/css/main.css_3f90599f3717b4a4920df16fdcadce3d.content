@@ -11642,10 +11642,8 @@ body.dark {
   display: flex;
   flex-direction: column;
   height: 100%;
-  /* width: 100%;
-  max-width: 400px;
-  */
-  justify-content: space-between; }
+  justify-content: space-between;
+  padding-bottom: 1rem; }
 
 /* summary on Hugo list pages */
 a.summary-link {
