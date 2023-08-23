@@ -8,7 +8,9 @@ When you look at a floor plan, you may not know the height of the ceilings. Or i
 
 ## Tasks to Complete on a Site Visit
 
-- Take photos of the space from multiple angles. Make sure to get detail shots of important elements. A good technique is to lay a tape measure on the ground when taking photos, so you have a scale reference. Due to perspective and distortions from the camera lens point of view, the tape measure will not be completely accurate, but it can give a close enough approximation for general planning and is much better than forgetting to take measurements at all.
+### Photographs
+
+Take photos of the space from multiple angles. Make sure to get detail shots of important elements. A good technique is to lay a tape measure on the ground when taking photos, so you have a scale reference. Due to perspective and distortions from the camera lens point of view, the tape measure will not be completely accurate, but it can give a close enough approximation for general planning and is much better than forgetting to take measurements at all.
 
 <div class="gallery-grid">
 
@@ -16,8 +18,26 @@ When you look at a floor plan, you may not know the height of the ceilings. Or i
 
 [![Akron Art Museum Site Visit](./2016-tape-measure-on-ground-site-visit-Akron-Art-Museum.jpg)](./2016-tape-measure-on-ground-site-visit-Akron-Art-Museum.jpg)
 
-<figcaption></figcaption>
+<figcaption>
+
+Photograph with tape measure on ground for size reference during site visit at the Akron Art Museum.
+
+</figcaption>
+
+</figure>
+
+<figure>
+
+[![Akron Art Museum Site Visit detail measurement](./2016-tape-measure-with-railing-detail-shot-Akron-Art-Museum.jpg)](./2016-tape-measure-with-railing-detail-shot-Akron-Art-Museum.jpg)
+
+<figcaption>
+
+Photograph of railing detail with tape measure for size reference during site visit at the Akron Art Museum.
+
+</figcaption>
 
 </figure>
 
 </div>
+
+### Measurements
