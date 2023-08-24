@@ -4,6 +4,8 @@ title: Artists
 
 It is important to look at the work of other artists to learn and be inspired.
 
+- [Naomi Schipher](https://noemischipfer.me/)
+- [Susan Philipz](https://en.wikipedia.org/wiki/Susan_Philipsz)
 - Sarah Zapata - textile Artist
 - Abigail DeVille
 - [Julie Schenkelberg](http://www.julieschenkelberg.com/)
