@@ -2,9 +2,10 @@
 title: Light and Sound Reference Artists and Resources
 ---
 
-<div class="two-column-grid">
+<div class="two-column-grid-wrapper">
 
 - [Amigo and Amigo](https://www.amigoandamigo.com/)
+- [Kevin Beasley](https://www.instagram.com/kevinmbeasley/)
 - [Nonotak Studio](https://nonotak.com/)
 - [Anders Lind](http://www.soundslikelind.se/)
 - [Tundra](https://wearetundra.org/)
@@ -23,6 +24,7 @@ title: Light and Sound Reference Artists and Resources
 - [VTProDesign](https://vtprodesign.com/)
 - [Craig Colorusso](http://www.craigcolorusso.com/)
 - [Bernhard Leitner](https://www.bernhardleitner.at/en)
+- [Janet Cardiff & George Bures Miller](https://cardiffmiller.com/)
 
 </div>
 
@@ -58,6 +60,10 @@ title: Light and Sound Reference Artists and Resources
 
 <div class="iframe-16-9-container">
 <iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/7235817?h=3e23495df6" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fcOZAQxkDiI?si=Bw3b6dr98b1wi-3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -114,6 +120,10 @@ title: Light and Sound Reference Artists and Resources
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/uPbq9aixozo?si=2rcmQHaD4a55Dqqb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/n86pF-wQKrw?si=YQnnSV2EfOcYTMUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 </div>

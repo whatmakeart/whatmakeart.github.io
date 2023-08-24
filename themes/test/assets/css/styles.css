@@ -154,7 +154,8 @@ body.dark {
   padding-left: 2rem;
 }
 
-.two-column-grid {
+.two-column-grid,
+.two-column-grid-wrapper > ul {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
