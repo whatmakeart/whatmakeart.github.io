@@ -159,7 +159,7 @@ body.dark {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
-  grid-gap: 0px;
+  grid-gap: 1rem;
   padding-bottom: 1rem;
 }
 

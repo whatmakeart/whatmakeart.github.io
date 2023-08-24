@@ -25,6 +25,7 @@ title: Light and Sound Reference Artists and Resources
 - [Craig Colorusso](http://www.craigcolorusso.com/)
 - [Bernhard Leitner](https://www.bernhardleitner.at/en)
 - [Janet Cardiff & George Bures Miller](https://cardiffmiller.com/)
+- [Robin Minard](https://robinminard.com/)
 
 </div>
 
@@ -32,6 +33,10 @@ title: Light and Sound Reference Artists and Resources
 
 <div class="iframe-16-9-container">
 <iframe class="vimeoIframe" title="Chronoharp Performance" src="https://player.vimeo.com/video/831103980?h=498c4b2ff1" width="640" height="360" frameborder="0"  allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/SN5aT-e0Imk?si=wQJEeyUT21ndGANB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -64,6 +69,10 @@ title: Light and Sound Reference Artists and Resources
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fcOZAQxkDiI?si=Bw3b6dr98b1wi-3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/30184260?h=06fbe6ba4c&color=ffffff&title=0&byline=0&portrait=0" width="640" height="512" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -108,6 +117,10 @@ title: Light and Sound Reference Artists and Resources
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/zmOa30GpvUc?si=zw2A8ygB0zvpSN3K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/wcoyAgqErD4?si=Ki_ynwF6OGFIe3d6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
