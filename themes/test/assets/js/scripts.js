@@ -146,18 +146,16 @@ function removeNavigationEmbed() {
     // for bd-main - make into list
 
     console.log("replace courses-main");
-
+    var elem = document.getElementById("course-main");
     if (elem !== null) {
-      var elem = document.getElementById("course-main");
       elem.classList.add("containerfluid");
       elem.classList.add("keep-wide-canvas-lms");
       elem.classList.remove("bd-main");
     }
 
     console.log("replace wiki-main");
-
+    var elem = document.getElementById("wiki-main");
     if (elem !== null) {
-      var elem = document.getElementById("wiki-main");
       elem.classList.add("containerfluid");
       elem.classList.add("keep-wide-canvas-lms");
       elem.classList.remove("bd-main");
