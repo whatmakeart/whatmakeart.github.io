@@ -1,5 +1,5 @@
 ---
-title: Installation Ideation Assignment
+title: 01.1 Installation Ideation Assignment
 ---
 
 ## Grading Rubric

@@ -1,5 +1,5 @@
 ---
-title: Scale a Floor Plan in Blender
+title: 01.06 Scale a Floor Plan in Blender
 toc: true
 ---
 

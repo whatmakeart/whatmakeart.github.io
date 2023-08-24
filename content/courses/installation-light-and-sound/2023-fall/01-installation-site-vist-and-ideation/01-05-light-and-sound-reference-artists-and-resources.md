@@ -1,5 +1,5 @@
 ---
-title: Light and Sound Reference Artists and Resources
+title: 01.05 Light and Sound Reference Artists and Resources
 ---
 
 <div class="two-column-grid-wrapper">
