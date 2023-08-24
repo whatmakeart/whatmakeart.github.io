@@ -2,6 +2,8 @@
 title: Light and Sound Reference Artists and Resources
 ---
 
+<div class="two-column-grid">
+
 - [Amigo and Amigo](https://www.amigoandamigo.com/)
 - [Nonotak Studio](https://nonotak.com/)
 - [Anders Lind](http://www.soundslikelind.se/)
@@ -18,6 +20,11 @@ title: Light and Sound Reference Artists and Resources
 - [trafik](https://trafik.fr/)
 - [SpY](https://spy-urbanart.com/work/)
 - [Antti Puumalainen](https://www.anttipuumalainen.com/)
+- [VTProDesign](https://vtprodesign.com/)
+- [Craig Colorusso](http://www.craigcolorusso.com/)
+- [Bernhard Leitner](https://www.bernhardleitner.at/en)
+
+</div>
 
 <div class="video-grid">
 
@@ -25,7 +32,6 @@ title: Light and Sound Reference Artists and Resources
 <iframe class="vimeoIframe" title="Chronoharp Performance" src="https://player.vimeo.com/video/831103980?h=498c4b2ff1" width="640" height="360" frameborder="0"  allowfullscreen></iframe>
 </div>
 
-<div class="video-grid">
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7RsZL-6UCgM?si=7jSQHSA7_GrihJSt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -63,6 +69,10 @@ title: Light and Sound Reference Artists and Resources
 </div>
 
 <div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/tW-aOlb2Xjw?si=6dburnZEJNc7m_N4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/1IG8RwxKt1M?si=0BCUityzB8CXq--U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
@@ -71,11 +81,11 @@ title: Light and Sound Reference Artists and Resources
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/h1i7l1wnNCE?si=vi5N30BPBBy51bOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/169960197?h=3c0b7c47a9" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/1QtJKHC9Jr4?si=LVJKFrQmCqfE44ma" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/h1i7l1wnNCE?si=vi5N30BPBBy51bOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -92,6 +102,18 @@ title: Light and Sound Reference Artists and Resources
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/zmOa30GpvUc?si=zw2A8ygB0zvpSN3K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/d9-104HXrpQ?si=mc_HUgKzS79At3eb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/ldLaH1770Hk?si=CdXFHRIeQjgjd1GH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/uPbq9aixozo?si=2rcmQHaD4a55Dqqb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 </div>

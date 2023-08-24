@@ -156,7 +156,7 @@ body.dark {
 
 .two-column-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(2, 1fr);
   align-items: center;
   grid-gap: 0px;
   padding-bottom: 1rem;

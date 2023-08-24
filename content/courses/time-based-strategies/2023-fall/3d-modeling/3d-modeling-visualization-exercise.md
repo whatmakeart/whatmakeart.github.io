@@ -18,11 +18,11 @@ There are numerous choices for 3D modeling software ranging from the simple to t
 
 ### SketchUp
 
-For this exercise, we will start by using SketchUp because it is a relatively simple and straightforward 3D modeling software package. You could do many things and it has a short learning curve. It is mainly geared towards architectural and design models that are more geometric than organic, but organic forms can be made as well. Eventually, if there are limitations in SketchUp that are better solved by other programs. For example, SketchUp does not have a native rendering program, but there are many third-party renders that work well with SketchUp.
+For this exercise, we will start by using [SketchUp](../../../../3d-modeling/sketchup/sketchup.md) because it is a relatively simple and straightforward 3D modeling software package. You could do many things and it has a short learning curve. It is mainly geared towards architectural and design models that are more geometric than organic, but organic forms can be made as well. Eventually, if there are limitations in SketchUp that are better solved by other programs. For example, SketchUp does not have a native rendering program, but there are many third-party renders that work well with SketchUp.
 
 ### Blender
 
-Another good software package to use is Blender. It is free and open source and comes with a built-in rendering package. In fact, you can model objects in SketchUp, export them and then import them into Blender to use Blender as a rendering engine for SketchUp models. Many 3D modeling file formats are interchangeable between different cases of software. Ideally, artists are flexible and completely move between a multitude of tools to accomplish their creative tasks.
+Another good software package to use is [Blender](../../../../3d-modeling/blender/blender.md). It is free and open source and comes with a built-in rendering package. In fact, you can model objects in SketchUp, export them and then import them into Blender to use Blender as a rendering engine for SketchUp models. Many 3D modeling file formats are interchangeable between different cases of software. Ideally, artists are flexible and completely move between a multitude of tools to accomplish their creative tasks.
 
 ## Process
 
