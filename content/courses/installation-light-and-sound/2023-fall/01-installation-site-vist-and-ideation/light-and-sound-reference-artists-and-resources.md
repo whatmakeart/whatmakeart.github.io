@@ -15,13 +15,18 @@ title: Light and Sound Reference Artists and Resources
 - [Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/)
 - [Akiko Yamashita](https://akikoyamashita.com/)
 - [Scale](https://www.collectifscale.com/)
+- [trafik](https://trafik.fr/)
+- [SpY](https://spy-urbanart.com/work/)
 
 <div class="video-grid">
 
+<div class="video-card">
 <div class="container-16-9-iframe">
 <iframe class="vimeoIframe" title="Chronoharp Performance" src="https://player.vimeo.com/video/831103980?h=498c4b2ff1" width="640" height="360" frameborder="0"  allowfullscreen></iframe>
 </div>
+</div>
 
+<div class="video-grid">
 <div class="container-16-9-iframe">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7RsZL-6UCgM?si=7jSQHSA7_GrihJSt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -76,6 +81,14 @@ title: Light and Sound Reference Artists and Resources
 
 <div class="container-16-9-iframe">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/8HoYsFNhvc8?si=B90HqHIK16ppdnu9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="container-16-9-iframe">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/xEEKBbKvuMQ?si=9ukJd0u156w5yQYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="container-16-9-iframe">
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/749252346?h=81932f13f5" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 </div>
 
 </div>
