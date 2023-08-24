@@ -4,7 +4,7 @@ tags:
   - stub
 ---
 
-<div class="container-16-9-iframe">
+<div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/78KAipp2Z2o?si=9dKBAH-hrjueiSfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
