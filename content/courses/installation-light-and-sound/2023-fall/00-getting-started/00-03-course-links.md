@@ -9,5 +9,5 @@ title: Course Links
 ## Visiting Artists
 
 - [Hepp Maccoy](https://heppmaccoy.com/)
-- [Raul Romero](https://raulromero.com/)
+- [Raúl Romero](https://raulromero.com/)
 - [Bob Drake](https://www.fluxmonkey.com/)

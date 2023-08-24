@@ -9,24 +9,45 @@ title: Light and Sound Reference Artists and Resources
 - [Nonotak Studio](https://nonotak.com/)
 - [Anders Lind](http://www.soundslikelind.se/)
 - [Tundra](https://wearetundra.org/)
+- [Camille Norment](https://www.norment.net/)
 - [Susan Philipz](https://en.wikipedia.org/wiki/Susan_Philipsz)
-- [Mark Cosgrave]()
+- [Mike Rijnierse](https://mikerijnierse.nl/)
+- [Jem Finer](http://jemfiner.net/)
 - [Nick Verstand](http://www.nickverstand.com/)
+- [Raúl Romero](https://raulromero.com/)
 - [Zimoun](https://www.zimoun.net/)
+- [Maggi Payne](https://en.wikipedia.org/wiki/Maggi_Payne)
+- [Tarek Atoui](https://www.kurimanzutto.com/artists/tarek-atoui/)
 - [Ryoji Ikeda](https://www.ryojiikeda.com/)
 - [Alessandro Perini](https://alessandroperini.com/portfolio/polifonia-liquida/)
 - [Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/)
 - [Akiko Yamashita](https://akikoyamashita.com/)
+- [Thessia Machado](https://thessiamachado.com/)
 - [Scale](https://www.collectifscale.com/)
+- [Samson Young](https://www.thismusicisfalse.com/)
 - [trafik](https://trafik.fr/)
+- [Connie Beckley](https://www.moma.org/artists/65927)
 - [SpY](https://spy-urbanart.com/work/)
+- [Mendi + Keith Obadike](http://blacksoundart.com/)
 - [Antti Puumalainen](https://www.anttipuumalainen.com/)
 - [VTProDesign](https://vtprodesign.com/)
+- [Christine Sun Kim](https://christinesunkim.com/)
+- [Bob Drake](https://www.fluxmonkey.com/)
 - [Craig Colorusso](http://www.craigcolorusso.com/)
+- [Julia Heyward](https://www.juliaheyward.com/)
 - [Bernhard Leitner](https://www.bernhardleitner.at/en)
 - [Janet Cardiff & George Bures Miller](https://cardiffmiller.com/)
 - [Robin Minard](https://robinminard.com/)
-
+- [Bill Fontana](https://www.resoundings.org/)
+- [Hepp Maccoy](https://heppmaccoy.com/)
+- [Lawrence Abu Hamdan](http://lawrenceabuhamdan.com/)
+- [Don Ritter](http://aesthetic-machinery.com/index.html)
+- [Kichul Kim](http://www.kimkichul.com/)
+- [Christian Marclay](https://en.wikipedia.org/wiki/Christian_Marclay)
+- [Florian Hecker](https://www.moma.org/interactives/exhibitions/2013/soundings/artists/4/works/)
+- [Yoko Sen](http://www.sensound.space/)
+- [Tim Murray-Browne](https://timmb.com/)
+- [Haroon Mirza](https://www.lissongallery.com/artists/haroon-mirza)
 </div>
 
 <div class="video-grid">
@@ -37,6 +58,10 @@ title: Light and Sound Reference Artists and Resources
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/SN5aT-e0Imk?si=wQJEeyUT21ndGANB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/76453883?h=7cd8a65c44" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -53,6 +78,10 @@ title: Light and Sound Reference Artists and Resources
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/2seKIksUt6A?si=hu-Cglp9w5uQwn1-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/1kczbmYVG_E?si=NSsARHT0T0c4q61Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -76,6 +105,10 @@ title: Light and Sound Reference Artists and Resources
 </div>
 
 <div class="iframe-16-9-container">
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/153045838?h=6ae5174c06" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Q6JgF55waDM?si=eIoJ0BS5pwRpgD9D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
@@ -85,6 +118,10 @@ title: Light and Sound Reference Artists and Resources
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/tW-aOlb2Xjw?si=6dburnZEJNc7m_N4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Jst6NcMsZEA?si=ksAuKqUH81HCHN7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -105,6 +142,18 @@ title: Light and Sound Reference Artists and Resources
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/SFF0P0nuzeY?si=WDwr6ZZ9geyWWFbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/140277104?h=caac0d16fd" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/327520527?h=267fe3cc91" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/18626611?h=a8e143c832" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -132,11 +181,47 @@ title: Light and Sound Reference Artists and Resources
 </div>
 
 <div class="iframe-16-9-container">
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/201858523?h=86e7dc934b" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/uPbq9aixozo?si=2rcmQHaD4a55Dqqb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/n86pF-wQKrw?si=YQnnSV2EfOcYTMUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9OIwCwhtzsc?si=HIFOozzz_CNpxqSP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframeclass="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/cfsixC28BlI?si=rCtuvjjbFXk8nTmH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/XBP0jmpjzBw?si=NVdEHix88Wl4yv6m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/203430701?h=0526a150a3" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/146790656?h=7f4dc020a5" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7bpyVVTUBAw?si=SrYjfIzcOz9KpEIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7kyPULtsC6c?si=qpzNWJ3emFLUm9mD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/71bp0x8Ly-Y?si=qXn6NN2QZgG9-ZZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 </div>
