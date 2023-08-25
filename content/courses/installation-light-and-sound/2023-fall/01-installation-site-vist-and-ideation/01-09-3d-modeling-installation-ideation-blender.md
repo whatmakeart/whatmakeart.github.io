@@ -11,6 +11,18 @@ An efficient way to iterate on a specific concept is to duplicate the exhibition
 
 Blender allows the creation of cameras. It is useful to create a few cameras of the main views of the space as a person would see it if they where really there. Then renderings of the different ideation concepts can be exported and presented to clients, curators, studio members, and fabricators.
 
+<figure>
+
+[![Example of duplicating Model in Blender](./2023-3D-Modeling-interation-Blender-Example.png)](./2023-3D-Modeling-interation-Blender-Example.png)
+
+<figcaption>
+
+Example of duplicating the exhibition space in Blender for iterative ideation.
+
+</figcaption>
+
+</figure>
+
 ## Blender Resources
 
 - [Blender Rendering Basics](../../../../3d-modeling/blender/blender-rendering-basics.md)

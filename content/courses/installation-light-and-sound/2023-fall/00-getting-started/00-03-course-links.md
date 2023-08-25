@@ -16,3 +16,4 @@ date: 2023-08-23T09:30:00Z
 ## Universal Design Principles
 
 - [University of Buffalo](https://www.buffalo.edu/access/help-and-support/topic3/universaldesignprinciples.html)
+- [Penn State Health](https://sites.psu.edu/centerstage/art/)
