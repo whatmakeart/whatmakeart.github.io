@@ -38,3 +38,21 @@ You are expected to work on your ideation sketches for ~4.5 hours. This included
 | Use of Sound                      | 20     |
 | Evidence of 4.5 Hours of Work     | 10     |
 | Quality of Scans / Digital Images | 10     |
+
+## 3D Modeling Resources
+
+- [Blender Modeling Basics](../../../../3d-modeling/blender/blender-3d-modeling-basics.md)
+- [Blender Rendering Basics](../../../../3d-modeling/blender/blender-rendering-basics.md)
+
+## Photoshop Generative Fill
+
+<div class="gallery-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/yJ5e8qasoMs?si=hoJ8XP2ozppxdmdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe"width="560" height="315" src="https://www.youtube.com/embed/xPy_YId1lx0?si=fh5paoA8zV6FpIhi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+</div>
