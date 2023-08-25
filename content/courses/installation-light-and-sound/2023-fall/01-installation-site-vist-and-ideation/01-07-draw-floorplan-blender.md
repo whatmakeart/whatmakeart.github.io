@@ -15,6 +15,20 @@ After an image of a floor plan is imported into Blender and then adjusted for th
 8. Repeat this process until you have gone all the way around the perimeter of the floor plan.
 9. This created polygon floor can be extruded up
 
+[Link to basic 3D Model of Gallery](./2023-Gallery-Model.blend)
+
+<figure>
+
+[![Basic Gallery Model for use in Blender](./2023-basic-blender-gallery-model-image.png)](./2023-Gallery-Model.blend)
+
+<figcaption>
+
+You can use this basic prebuilt model of the gallery for your ideation. [Link to Blender file](./2023-Gallery-Model.blend)
+
+</figcaption>
+
+</figure>
+
 ## Blender Modeling Resources
 
 - [Blender 3D Modeling Basics](../../../../3d-modeling/blender/blender-3d-modeling-basics.md)
