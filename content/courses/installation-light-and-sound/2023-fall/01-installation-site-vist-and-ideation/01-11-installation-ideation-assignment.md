@@ -18,7 +18,14 @@ You are expected to work on your ideation sketches for ~4.5 hours. This included
 
 ## Instructions
 
-- Review all of the artists on the [artist reference page](./01-05-light-and-sound-reference-artists-and-resources.md). Click on the links that go to the different artist webpages and gallery websites.
+- Review all of the artists on the [artist reference page](./01-05-light-and-sound-reference-artists-and-resources.md). Click on the links that go to the different artist webpages and gallery websites. Watch a portion of all of the videos.
+- Look up additional installation, sound, and light artists and artworks.
+- Write down what you find interesting about various works. You can use this for inspiration for your ideas.
+- Draw numerous different ideas. This is important. You should have a collection of ideas that are not the same.
+- Then iterate on those ideas to refine them.
+- You can draw on the printed floor plans or draw on photos taken in the gallery.
+- You can use the provide [3D model of the gallery](./2023-Gallery-Model.blend) to make sketches of ideas.
+- Explore generative AI tools such as generative fill in Photoshop (Beta)
 - Each scan should represent one page of sketches. Each digital file should represent the equivalent of one sketchbook pages. This allows for the files to be "flipped through" for easy viewing and review of ideas.
 
 ## Grading Rubric
