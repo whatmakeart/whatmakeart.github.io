@@ -1,5 +1,6 @@
 ---
 title: 01.03 Site Visit
+date: 2023-08-25T09:30:00Z
 ---
 
 A site visit is an important step in a custom or site specific installation project. Before a site visit one will likely have floorplans and / or site plans for the space or location. Plans accompanied by photographs, video, and potentially 3D models can give a good sense of the space but there is no substitute to physically visiting a location.
@@ -41,3 +42,5 @@ Photograph of railing detail with tape measure for size reference during site vi
 </div>
 
 ### Measurements
+
+Double check measurements from any floor plans or drawings of the space. Check the longest dimension available on the floor plan since this will be less error prone. Look for pillars and other features that may not have measurements or might not even be on a floor plan. Make your own drawing to note the dimensions of these features. Look for locations of power recepticals and take measurements so you can plan for extension cord length.

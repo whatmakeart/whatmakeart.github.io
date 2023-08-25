@@ -1,5 +1,6 @@
 ---
 title: 01.05 Light and Sound Reference Artists and Resources
+date: 2023-08-25T09:30:00Z
 ---
 
 <div class="two-column-grid-wrapper">
@@ -48,6 +49,7 @@ title: 01.05 Light and Sound Reference Artists and Resources
 - [Yoko Sen](http://www.sensound.space/)
 - [Tim Murray-Browne](https://timmb.com/)
 - [Haroon Mirza](https://www.lissongallery.com/artists/haroon-mirza)
+
 </div>
 
 <div class="video-grid">

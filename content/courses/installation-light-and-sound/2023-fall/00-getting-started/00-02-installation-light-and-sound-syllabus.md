@@ -1,5 +1,6 @@
 ---
 title: Installation Light and Sound Syllabus
+date: 2023-08-23T09:30:00Z
 description: Syllabus for a special topics art and design course exploring installation art through the lenses of light and sound
 ---
 

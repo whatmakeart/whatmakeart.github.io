@@ -119,6 +119,23 @@ function removeNavigationEmbed() {
       }
     }
 
+    const bdClasses = [
+      ".container",
+      ".container-fluid",
+      ".container-xxl",
+      ".container-xl",
+      ".container-lg",
+      ".container-md",
+      ".container-sm",
+    ];
+
+    for (bdClass of bdClasses) {
+      const elements = document.querySelectorAll(bdClass);
+      elements.forEach(function (element) {
+        element.style.padding = 0; // Bootstrap has left and right padding that doesn't let the iframe content expand fully
+      });
+    }
+
     // Remove and replace main content classes so content is full width in iframe
     // To do: Make into a function with a list or array
     // make more streamlined
@@ -210,7 +227,7 @@ function monitorMutations() {
 function changeStyle() {
   const elements = document.querySelectorAll(".container-fluid");
   elements.forEach(function (element) {
-    element.style.padding = 0; // Bootstrap has left and right padding that doesnt let the iframe content expand fully
+    element.style.padding = 0; // Bootstrap has left and right padding that doesn't let the iframe content expand fully
   });
 }
 
