@@ -12,3 +12,7 @@ date: 2023-08-23T09:30:00Z
 - [Hepp Maccoy](https://heppmaccoy.com/)
 - [Raúl Romero](https://raulromero.com/)
 - [Bob Drake](https://www.fluxmonkey.com/)
+
+## Universal Design Principles
+
+- [University of Buffalo](https://www.buffalo.edu/access/help-and-support/topic3/universaldesignprinciples.html)
