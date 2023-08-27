@@ -43,4 +43,22 @@ Photograph of railing detail with tape measure for size reference during site vi
 
 ### Measurements
 
-Double check measurements from any floor plans or drawings of the space. Check the longest dimension available on the floor plan since this will be less error prone. Look for pillars and other features that may not have measurements or might not even be on a floor plan. Make your own drawing to note the dimensions of these features. Look for locations of power recepticals and take measurements so you can plan for extension cord length.
+Double check measurements from any floor plans or drawings of the space. Check the longest dimension available on the floor plan since this will be less error prone. Look for pillars and other features that may not have measurements or might not even be on a floor plan. Make your own drawing to note the dimensions of these features.
+
+### Largest Entrance and Path for Transporting Work into Space
+
+It is important to determine and confirm the largest entrance to the exhibition space, both height and width, so that the completed artwork will fit in the space. Examine the route from any loading docks or street entrances for pinch points, tight corners, or other obstructions that will be difficult to manoeuver around.
+
+### Electrical Requirements
+
+Look for locations of power receptacles and take measurements so you can plan for extension cord length. Ask about which circuits in the space cover which electrical receptacles. Are all the receptacles on one circuit? Are the lights and wall receptacles connected? Large light installations can consume a considerable amount of power. The electric loads need to be calculated in advance and then distributed among the available circuits in the exhibition space to prevent power overloads and circuit breaker trips.
+
+The specific electrical and power needs for the exhibit should be written out in detail in the agreement or [contract](../../../../art-faq/contracts-for-artists.md) for the exhibition.
+
+### Installation Equipment
+
+Does the venue have an electric lift? Are they able to rent one if high ceilings need to be reached?
+
+### Overhead Suspension
+
+If there is a potential need to suspend objects overhead, it is important to confirm to locations of any existing anchor points in the ceiling. Ask where they are and what the weight limit is. Ask about any hanging restrictions an what equipment is available to help support the work while it is suspended.

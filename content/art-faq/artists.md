@@ -1,5 +1,7 @@
 ---
 title: Artists
+tags:
+  - stub
 ---
 
 It is important to look at the work of other artists to learn and be inspired.

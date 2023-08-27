@@ -30,6 +30,8 @@ You are expected to work on your ideation sketches for ~4.5 hours. This included
 
 ## Grading Rubric
 
+<div class="responsive-table-markdown">
+
 | Objective                         | Points |
 | --------------------------------- | ------ |
 | Amount of Sketches                | 20     |
@@ -38,6 +40,8 @@ You are expected to work on your ideation sketches for ~4.5 hours. This included
 | Use of Sound                      | 20     |
 | Evidence of 4.5 Hours of Work     | 10     |
 | Quality of Scans / Digital Images | 10     |
+
+</div>
 
 ## 3D Modeling Resources
 

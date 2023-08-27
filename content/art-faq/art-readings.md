@@ -1,5 +1,7 @@
 ---
 title: Art Readings
+tags:
+  - stub
 ---
 
 https://www.nytimes.com/2017/10/04/style/design-good-taste.html

@@ -44,6 +44,15 @@ Upon completion of the course, a student will be able to:
 - This course is most significantly a time and place to produce work.
 - Creation and continuous maintenance of a Digital Catalog pertaining to all aspects of the student’s work as it progresses as well as final pieces is required.
 
+### Additional Course Goals and Topics
+
+- Clearly articulate you own ideas at a personal and a fine art context
+- See and accept other possible implications or interpretations of a body of work
+- Develop lear representation of aesthetic intent
+- Demonstrate broad knowledge of contemporary art practices
+- Adequately understand and comprehend any technical language or jargon used when explaining work
+- Strong photo / video / sound / digital documentation skills
+
 ## Class Format & Policies
 
 - 4.5 hours of regularly scheduled instructional time. In addition to the regularly scheduled instructional time, you’ll need to plan on 4.5 hours of homework time for each of your classes.

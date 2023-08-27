@@ -1,5 +1,7 @@
 ---
 title: Art Schools
+tags:
+  - stub
 ---
 
 ## Do You Need to go to Art School?

@@ -35,6 +35,6 @@ The success of the critique requires everyone’s participation both verbally an
 
 ## Critique Etiquette
 
-This is a list of [art critique, do's and don'ts](art-school-critique-no-nos.md) assembled by faculty and students from real critique experiences.
+[This](./art-school-critique-no-nos.md) is a list of [art critique, do's and don'ts](./art-school-critique-no-nos.md) assembled by faculty and students from real critique experiences.
 
 [^1]: Kendall Buster and Paula Crawford, The Critique Handbook: A Sourcebook and Survival Guide. Upper Saddle River: Pearson Education, 2007, 93.

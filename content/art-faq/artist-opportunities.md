@@ -1,5 +1,7 @@
 ---
 title: Artist Opportunities
+tags:
+  - stub
 ---
 
 It is important to keep your [portfolio](../art-faq/artist-portfolio-website-how-to-guide.md) and [artist resume](how-to-write-an-artist-resume.md) up to date so you can submit competitive applications for artist opportunities. Applying for opportunities of part of a successful artist's [Professional-Practices-for-Artists](professional-practices-for-artists.md).
