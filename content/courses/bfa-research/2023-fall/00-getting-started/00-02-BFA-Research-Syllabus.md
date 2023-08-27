@@ -1,5 +1,5 @@
 ---
-title: BFA Research Syllabus
+title: 00.02 BFA Research Syllabus
 ---
 
 ## BFA Research

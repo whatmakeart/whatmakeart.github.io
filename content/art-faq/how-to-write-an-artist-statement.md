@@ -46,6 +46,7 @@ Some questions you might have for an artist:
 ### Historical Artist Statements
 
 > I was walking along the road with two friends — the sun was setting The sky suddenly turned bloody red I stopped, leaned against the fence, tired to death. Over the the blue-black fjord and city lay blood in tongues of fire My friends walked on and I stood there quaking with angst. And I felt as though a vast, endless scream passed through nature.
+>
 > Edvard Munch - Written in a diary and on the frame of the 1895 version of the _The Scream_ [^2]
 
 Are there any art historical references in Edvard Munch's statement on _The Scream_? Does the artist use any art speak or strange jargon?
