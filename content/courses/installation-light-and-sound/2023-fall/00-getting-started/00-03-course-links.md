@@ -26,3 +26,8 @@ date: 2023-08-23T09:30:00Z
 ## Artist Portfolio
 
 - [Artist Website Portfolio How to Guide](../../../../art-faq/artist-portfolio-website-how-to-guide.md)
+
+## Critique
+
+- [How to Critique Art](../../../../art-faq/how-to-critique-art.md)
+- [Critique No Nos](../../../../art-faq/art-school-critique-no-nos.md)
