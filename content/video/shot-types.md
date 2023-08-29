@@ -2,7 +2,9 @@
 title: Shot Types
 ---
 
-Think about movies, cartoons or video games that you have experienced? Is everything shown in one static camera shot? Of course not. That would be boring and uninteresting. The same thing holds true for your animation projects. Use multiple cameras and camera angles to break up your story and show different parts with more detail. Use wide establishing shots to set the scene. Your audience will piece all the shots together in their mind and create a convincing 3D world to experience your story in.
+Think about movies, cartoons or video games that you have experienced? Is everything shown in one static camera shot? Of course not. That would be boring and uninteresting. Use multiple cameras and camera angles to break up videos and screen based media to show different parts with more detail.
+
+For example, the use of wide establishing shots sets the scene. Interspersed close-up and full shots fill out the environment. Your audience will piece all the shots together in their mind and create a convincing 3D world to experience your story in.
 
 ## Shot Types / Camera Angles
 
@@ -18,7 +20,7 @@ Think about movies, cartoons or video games that you have experienced? Is everyt
 
 <figure>
 
-![Lego Establishing Shot](attachments/2021-Establishing-Shot.jpg)
+![Lego Establishing Shot](./attachments/2021-Establishing-Shot.jpg)
 
 <figcaption>
 
@@ -29,7 +31,7 @@ Establishing Shot
 
 <figure>
 
-![Lego Full Shot](attachments/2021-full-shot.jpg)
+![Lego Full Shot](./attachments/2021-full-shot.jpg)
 
 <figcaption>
 
@@ -40,7 +42,7 @@ Full Shot
 
 <figure>
 
-![Lego Medium Shot](attachments/2021-medium-shot.jpg)
+![Lego Medium Shot](./attachments/2021-medium-shot.jpg)
 
 <figcaption>
 
@@ -62,7 +64,7 @@ Close Up
 
 <figure>
 
-![Lego Extreme Close Up](attachments/2021-extreme-closeup.jpg)
+![Lego Extreme Close Up](./attachments/2021-extreme-closeup.jpg)
 
 <figcaption>
 
@@ -73,7 +75,7 @@ Extreme Close Up
 
 </div>
 
-## How Does This Work for Something Simple Like a Ball?
+## How Does This Work for Something Simple Like a Ball or other Object?
 
 Using a simple shape like a ball as the subject of a composition does not change the shot types. There are still establishing shots and close ups. By changing the angle and distance of the camera the ball takes on new feelings and meaning.
 
@@ -81,7 +83,7 @@ Using a simple shape like a ball as the subject of a composition does not change
 
 <figure>
 
-![Ball Establishing Shot](attachments/2021-ball-establishing.jpg)
+![Ball Establishing Shot](./attachments/2021-ball-establishing.jpg)
 
 <figcaption>
 
@@ -92,7 +94,7 @@ Establishing Shot
 
 <figure>
 
-![Ball Full Shot](attachments/2021-ball-full-shot.jpg)
+![Ball Full Shot](./attachments/2021-ball-full-shot.jpg)
 
 <figcaption>
 
@@ -103,7 +105,7 @@ Full Shot
 
 <figure>
 
-![Ball Medium Shot](attachments/2021-ball-medium-shot.jpg)
+![Ball Medium Shot](./attachments/2021-ball-medium-shot.jpg)
 
 <figcaption>
 
@@ -114,7 +116,7 @@ Medium Shot
 
 <figure>
 
-![Ball Close Up](attachments/2021-ball-close-up.jpg)
+![Ball Close Up](./attachments/2021-ball-close-up.jpg)
 
 <figcaption>
 
@@ -125,7 +127,7 @@ Close Up
 
 <figure>
 
-![Ball Extreme Close Up](attachments/2021-ball-extreme-close-up.jpg)
+![Ball Extreme Close Up](./attachments/2021-ball-extreme-close-up.jpg)
 
 <figcaption>
 
@@ -142,7 +144,7 @@ Think of the shot types above as changing the size of the frame or changing the 
 
 Common camera angles include aerial shots, bird's eye perspective and low angle shots also know as worm's eye view.
 
-Your animation must use a minimum of 3 different shot types. It is a good rule of thumb to change the shot type and the angle of the camera for each scene, camera cut or panel of your storyboards. This keeps the viewer engaged with your visuals.
+It is a good rule of thumb to change the shot type and the angle of the camera for each scene, camera cut. If you are using [storyboards](./storyboards.md) then a rule of thumb is to create a new shot for each panel of your storyboards. This shot variety is more likely to keep the viewer engaged with your visuals than a single unchanging shot..
 
 ## Rule of Thirds
 
@@ -152,7 +154,7 @@ Use the rule of thirds when composing your shots and sequences.
 
 <figure>
 
-![Rule of Thirds](attachments/RuleOfThirds-SideBySide.gif)
+![Rule of Thirds](./keyframes.mdattachments/RuleOfThirds-SideBySide.gif)
 
 <figcaption>
 
