@@ -1,4 +1,3 @@
 ---
-title: video-art
-draft: true
+title: 01 Video Introduction
 ---

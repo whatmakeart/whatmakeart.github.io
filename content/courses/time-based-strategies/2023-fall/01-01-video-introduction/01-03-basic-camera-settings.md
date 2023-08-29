@@ -1,5 +1,5 @@
 ---
-title: Basic Camera Settings
+title: 01.03 Basic Camera Settings
 toc: true
 ---
 
