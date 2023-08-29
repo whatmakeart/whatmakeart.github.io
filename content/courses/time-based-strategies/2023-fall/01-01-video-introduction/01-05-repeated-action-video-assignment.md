@@ -1,5 +1,5 @@
 ---
-01.05 Repeated Action Video Assignment
+title: 01.05 Repeated Action Video Assignment
 ---
 
 ## Assignment Deliverables
