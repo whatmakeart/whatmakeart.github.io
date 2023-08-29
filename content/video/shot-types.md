@@ -53,7 +53,7 @@ Medium Shot
 
 <figure>
 
-![Lego Close Up Shot](attachments/2021-close-up.jpg)
+![Lego Close Up Shot](./attachments/2021-close-up.jpg)
 
 <figcaption>
 
@@ -154,7 +154,7 @@ Use the rule of thirds when composing your shots and sequences.
 
 <figure>
 
-![Rule of Thirds](./keyframes.mdattachments/RuleOfThirds-SideBySide.gif)
+![Rule of Thirds](./attachments/RuleOfThirds-SideBySide.gif)
 
 <figcaption>
 

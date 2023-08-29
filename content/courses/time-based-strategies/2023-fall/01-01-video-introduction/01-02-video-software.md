@@ -1,5 +1,5 @@
 ---
-title: Video Software
+title: 01.02 Video Software
 ---
 
 To work with video as a creative medium requires some tools and equipment. Unless all the footage used is found footage, then a basic video capture device is needed. A non-linear video editing software program will allow you to change the video through the editing process.
