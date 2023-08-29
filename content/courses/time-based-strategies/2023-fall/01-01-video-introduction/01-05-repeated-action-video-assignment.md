@@ -22,6 +22,7 @@ You are tasked with shooting video this action at 3 different locations. Shootin
 - Use a tripod to have non shaky shots.
 - Shoot each clip for about 5 seconds. That will give you more than enough footage for the action.
 - Be careful with the record button. Make sure you are recording during the action and not accidentally recording in between shots.
+- Make sure you upload an exported .mp4 video and not a Premiere project file .prproj
 
 ## Instructions
 
@@ -43,3 +44,7 @@ You are tasked with shooting video this action at 3 different locations. Shootin
 16. Be adventurous and experimental. Take visual and conceptual risks.
 17. Have fun, you are making art.
 18. Export the video as a H.264 .mp4 file and upload before next class.
+
+## For Class
+
+Bring your laptop or computer with your Premiere project file and video footage to review in class.
