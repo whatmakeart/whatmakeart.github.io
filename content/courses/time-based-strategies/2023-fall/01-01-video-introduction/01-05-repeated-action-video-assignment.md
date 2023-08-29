@@ -47,4 +47,4 @@ You are tasked with shooting video this action at 3 different locations. Shootin
 
 ## For Class
 
-Bring your laptop or computer with your Premiere project file and video footage to review in class.
+Bring your laptop or computer with your Premiere project file and video footage to review in class. This way we can test suggestions from the group discussion.
