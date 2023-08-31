@@ -1,5 +1,5 @@
 ---
-title: How to Create Seamless Textures
+title: How to Create Seamless Textures in Photoshop
 featured-image: /attachments/featured-images/seamless-textures-photoshop-tutorial.jpg
 tags:
   - tutorial

@@ -14,6 +14,7 @@ title: 00.03 Course Links
 - [Tony Oursler](https://tonyoursler.com/)
 - [Coco Fusco](https://www.cocofusco.com/)
 - [Judith Barry](https://www.judithbarrystudio.com/)
+- Nam June Paik
 - [Gary Hill](https://garyhill.com/)
 - [Dee Dee Halleck](https://deedeehalleck.com/)
 - [Dan Graham](https://www.nytimes.com/2022/03/04/arts/dan-graham-dead.html)
@@ -33,9 +34,11 @@ title: 00.03 Course Links
 - [Juan Downey](https://www.moma.org/artists/1606)
 - [Steina and Woody Vasulka](https://www.vasulka.org/)
 - [Vito Acconci](https://acconci.com/)
+- [Charlotte Moorman]()
 - [Dara Birnbaum](https://en.wikipedia.org/wiki/Dara_Birnbaum)
-- Candice Breitz
+- [Candice Breitz](https://www.candicebreitz.net/)
 - [Bruce Nauman](https://en.wikipedia.org/wiki/Bruce_Nauman)
+- [Ant Farm]()
 - [Cory Arcangel](https://coryarcangel.com/)
 - [Chip Lord](http://chiplord.net/)
 - [Howard Fried](https://en.wikipedia.org/wiki/Howard_Fried)
@@ -50,14 +53,13 @@ title: 00.03 Course Links
 - [Tony Labat](https://www.moma.org/artists/34938)
 - [Mary Lucier](https://www.marylucier.net/biography)
 - [The Yes Men](https://theyesmen.org/)
-- Alex Da Corte
-- Cheryl Donegan
-- Bas Jan Ader
-- Kate Gilmore
-- Heather Philipson
-- Marina Abramovic
-- Roman Signer
-- Andy Warhol
-- Ivan Argote
+- [Alex Da Corte](http://alexdacorte.com/)
+- [Cheryl Donegan](https://cheryldonegan.com/)
+- [Bas Jan Ader](https://hyperallergic.com/336146/in-search-of-bas-jan-ader-the-artist-who-disappeared-at-sea/)
+- [Heather Philipson](https://www.heatherphillipson.co.uk/)
+- [Marina Abramovic](https://www.moma.org/artists/26439)
+- [Roman Signer](https://www.hauserwirth.com/artists/2805-roman-signer/)
+- [Andy Warhol](https://www.warhol.org/)
+- [Ivan Argote](https://www.perrotin.com/artists/Ivan_Argote/84#news)
 
 </div>
