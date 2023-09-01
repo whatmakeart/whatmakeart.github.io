@@ -23,3 +23,13 @@ Benefits of using a charette process:
 There is not a singular way to conduct a charette but ofter a charette will have an established list of problems or tasks. Participants will break into small groups with each group tackling a different problem. Each group has a scribe or recorder that takes notes and documents the group's discussion. These notes should be detailed enough to present the group's ideas clearly to a different group. Then the scribes switch groups, taking their notes with them. In the new group the scribe presents the original problem, the previous group's ideas, and then the new group continues the work. This process repeats until all groups have a chance to work on each problem.
 
 Then the collaboratively built solutions can be discussed as a group and further refined.
+
+## Process
+
+1. Participants agree on what problems and issues will be tackled as well as a time limit.
+2. The full group divides into smaller groups, ideally with enough groups for all problems.
+3. Each group begins work on an assigned problem.
+4. A scribe from each groups documents the discussion and keeps a record of the group's ideas.
+5. The scribe moves to the next group, who then continues work on the problem and builds on the suggestions and solutions of the previous group.
+6. This group switching repeats until all problems are addressed.
+7. In the end the group gathers as a whole and discusses the solutions to arrive at a final plan.
