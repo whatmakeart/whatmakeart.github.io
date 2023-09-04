@@ -44,6 +44,8 @@ The official [Blender Online Documentation](https://docs.blender.org/manual/en/d
 - [Blender Extrude](https://docs.blender.org/manual/en/dev/modeling/meshes/editing/mesh/extrude.html)
 - [Blender Export STL](https://docs.blender.org/manual/en/dev/addons/import_export/mesh_stl.html)
 - [Blender Apply All Transforms](https://docs.blender.org/manual/en/dev/scene_layout/object/editing/apply.html)
+- [Blender Change Modeling Units](https://youtu.be/7S1p17VvFiA)
+- [Blender Move Objects](https://youtu.be/t4MtOUyOkPM)
 
 ## Blender Basic Modeling
 
@@ -53,6 +55,17 @@ The official [Blender Online Documentation](https://docs.blender.org/manual/en/d
 - [Blender Low Poly Car Model Tutorial](https://youtu.be/zvAXVnefhy8)
 - [Bevel and Sub D](https://youtu.be/R73wtu1Ixnw)
 - [Hard Surface Plates](https://youtu.be/HGdw5ywWxQI)
+
+<figure>
+
+[![Blender default scene](./attachments/2023-blender-default-scene.png)](./attachments/2023-blender-default-scene.png)
+
+<figcaption>
+
+Blender Default Scene with cube
+
+</figcaption>
+</figure>
 
 <div class="video-grid">
 
@@ -111,11 +124,6 @@ The official [Blender Online Documentation](https://docs.blender.org/manual/en/d
 </div>
 
 </div>
-
-- [Blender User Interface](https://docs.blender.org/manual/en/dev/interface/index.html)
-- [Blender Move Objects](https://youtu.be/t4MtOUyOkPM)
-
-[![Blender default scene](./attachments/2023-blender-default-scene.png)](./attachments/2023-blender-default-scene.png)
 
 <div class="video-grid">
 

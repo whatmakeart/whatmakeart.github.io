@@ -48,3 +48,33 @@ You are tasked with shooting video this action at 3 different locations. Shootin
 ## For Class
 
 Bring your laptop or computer with your Premiere project file and video footage to review in class. This way we can test suggestions from the group discussion.
+
+## Premiere Resources
+
+<div class="video-grid">
+
+<div class="video-card">
+
+### Import Video
+
+<div class="container-16-9-iframe">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/kpsxbwX0Mps?si=LdrkKHze3b6bf5kB?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="video-card">
+
+### Change Workspace Premiere
+
+<div class="container-16-9-iframe">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NL-oEPsBn6E?si=TIZiExoy-WBXB3zv?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="video-card">
+
+### Add Keyframes Premiere
+
+<div class="container-16-9-iframe">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B6MPRzztqjY?si=PILubU2awQSD-76_?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+</div>
