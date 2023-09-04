@@ -15,7 +15,7 @@ This software and digital tool list focuses on tools that have many uses outside
 
 ## Video Editing Software
 
-- [Premiere](../video/adobe-premiere.md)
+- [Premiere](../video/adobe-premiere-pro/adobe-premiere.md)
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/)
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 - [Blender](../3d-modeling/blender/blender.md)

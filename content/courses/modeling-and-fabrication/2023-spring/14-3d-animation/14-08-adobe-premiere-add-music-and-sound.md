@@ -4,4 +4,4 @@ date: 2020-01-26T23:11:13Z
 draft: false
 ---
 
-![Link to included file content](../../../../video/adobe-premiere-add-music-and-sound.md)
+![Link to included file content](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)

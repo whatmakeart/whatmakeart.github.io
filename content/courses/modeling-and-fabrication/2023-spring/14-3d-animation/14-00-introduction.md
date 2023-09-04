@@ -22,5 +22,5 @@ draft: false
 - [keyframes](../../../../video/keyframes.md)
 - interpolation
 - graph editor
-- [sound effect](../../../../video/adobe-premiere-add-music-and-sound.md)
+- [sound effect](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
 - [shot types](../../../../video/shot-types.md)

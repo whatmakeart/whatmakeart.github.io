@@ -217,6 +217,7 @@ body.dark {
 }
 
 /* youtube tutorial video iframes */
+.iframe-16-9-container,
 .iframe-16-9-container {
   position: relative;
   width: 100%;

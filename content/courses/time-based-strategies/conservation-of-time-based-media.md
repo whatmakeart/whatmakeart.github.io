@@ -2,11 +2,11 @@
 title: Conservation of Time Based Media
 ---
 
-<div class="container-16-9-iframe">
+<div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/VPgcekqHSM0?si=6CxM64NV8knvi59x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-<div class="container-16-9-iframe">
+<div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/G9M8MEJIaFI?si=FfNoElmO3Esnn6cT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 

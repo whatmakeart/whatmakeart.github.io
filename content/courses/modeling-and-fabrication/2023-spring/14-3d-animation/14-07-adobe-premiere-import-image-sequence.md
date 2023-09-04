@@ -5,4 +5,4 @@ toc: true
 draft: false
 ---
 
-![Link to included file content](../../../../video/adobe-premiere-import-image-sequence.md)
+![Link to included file content](../../../../video/adobe-premiere-pro/adobe-premiere-import-image-sequence.md)

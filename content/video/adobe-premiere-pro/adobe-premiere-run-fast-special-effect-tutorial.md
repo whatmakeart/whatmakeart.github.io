@@ -1,16 +1,50 @@
 ---
-date: 2021-00-00T8:30:00-04:00
-description: "Make a simple special effect of running fast"
-featured_image: "/posts/run-fast-effect-using-only-adobe-premiere/run-fast-adobe-premiere-special-effect-tutorial.jpg"
-tags: ["Adobe Premiere"]
-title: "Simple Run Fast Special Effect in Adobe Premiere"
-draft: false
-spellcheck: off
+description: In this tutorial, I'll show you how to use Adobe Premiere to create the illusion of running super fast. This is a great trick for creating special effects videos, or for adding a touch of humor to your footage.
+featured_image: /video/adobe-premiere-pro/attachments/run-fast-adobe-premiere-special-effect-tutorial.jpg
+tags:
+  - Adobe Premiere
+  - Tutorial
+title: Simple Run Fast Special Effect in Adobe Premiere
+aliases:
+  - /posts/run-fast-effect-using-only-adobe-premiere/
 ---
 
-{{< youtube id="TDhRkUcCHZc" title="Simple Run Fast Special Effect in Adobe Premiere" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/TDhRkUcCHZc?si=pcBOSFU010v9YVAH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-## Transcript
+## Run Fast Special Effect Instructions
+
+In this tutorial, I'll show you how to use Adobe Premiere to create the illusion of running super fast. This is a great trick for creating special effects videos, or for adding a touch of humor to your footage.
+
+Here's what you'll need:
+
+- A video of someone running
+- Adobe Premiere
+
+## Steps in Adobe Premiere
+
+1. Import your video into Premiere.
+2. Trim the video to the section where you want the person to run super fast.
+3. Create a new layer and add the trimmed video to it.
+4. Right-click the video and select "Nest". Name the nested clip "Warp Run".
+5. Apply the Transform effect to the Warp Run clip.
+6. In the Transform effect controls, set the Position keyframes to move the person across the screen.
+7. Crank up the Shutter Angle to 360 degrees to create motion blur.
+8. To make the run even faster, move the keyframes closer together.
+9. To add an acceleration and deceleration effect, right-click each keyframe and select "Temporal Interpolation". Choose "Ease Out" for the first keyframe and "Ease In" for the last keyframe.
+10. If your video has sound, you can unlink the audio from the Warp Run clip and replace it with a sound effect.
+11. Add a fade effect to the end of the video to make it look more realistic.
+
+That's it! You've now learned how to make yourself run super fast in Adobe Premiere.
+
+### Here are some additional tips:
+
+- Use a high-quality video with good lighting to get the best results.
+- Experiment with different settings to find the look you want.
+- Be creative and have fun!
+
+## Video Transcript
 
 In this Adobe Premiere tutorial we're going to make it look like we can run really fast in a split second and we're going to do this with simple editing tricks in Premiere. The first thing we need to do is drag our clip from the project panel into the timeline. This will create a new timeline with our video sequence.
 

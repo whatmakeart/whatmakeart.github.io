@@ -11,4 +11,4 @@ Additional software tools from Adobe include:
 - Adobe After Effects - animation and motion graphics
 - Adobe Audition - sound editing
 
-Make sure you have [Adobe Premiere](../../../../video/adobe-premiere.md), After Effects an Audition installed on your personal computer.
+Make sure you have [Adobe Premiere](../../../../video/adobe-premiere-pro/adobe-premiere.md), After Effects an Audition installed on your personal computer.
