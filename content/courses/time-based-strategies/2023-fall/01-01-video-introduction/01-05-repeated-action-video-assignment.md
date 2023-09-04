@@ -40,7 +40,7 @@ You are tasked with shooting video this action at 3 different locations. Shootin
 12. Try to have sequences of quick sub-second cuts as well as other clips juxtaposed with different parts of the action or location.
 13. Create new meaning by the recombination of the clips.
 14. Keep the final edit to 30 seconds maximum. This means that you need to be creative with your editing and pacing. If all the clips are the same length the video will seem like a monotonous metronome.
-15. USe the changing of camera angles and visuals to keep the viewer engaged.
+15. Use the changing of camera angles and visuals to keep the viewer engaged.
 16. Be adventurous and experimental. Take visual and conceptual risks.
 17. Have fun, you are making art.
 18. Export the video as a H.264 .mp4 file and upload before next class.
@@ -60,6 +60,7 @@ Bring your laptop or computer with your Premiere project file and video footage 
 <div class="container-16-9-iframe">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/kpsxbwX0Mps?si=LdrkKHze3b6bf5kB?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+</div>
 
 <div class="video-card">
 
@@ -68,6 +69,7 @@ Bring your laptop or computer with your Premiere project file and video footage 
 <div class="container-16-9-iframe">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NL-oEPsBn6E?si=TIZiExoy-WBXB3zv?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+</div>
 
 <div class="video-card">
 
@@ -75,6 +77,7 @@ Bring your laptop or computer with your Premiere project file and video footage 
 
 <div class="container-16-9-iframe">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B6MPRzztqjY?si=PILubU2awQSD-76_?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 </div>
 
 </div>
