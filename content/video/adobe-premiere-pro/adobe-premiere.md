@@ -1,7 +1,5 @@
 ---
 title: Adobe Premiere
-tags:
-  - stub
 ---
 
 ## Adobe Premiere Pro Basics
@@ -18,7 +16,25 @@ tags:
 - Start with a simple project. Don't try to edit a complex video right away. Start with something small and straightforward, and then gradually work your way up to more challenging projects.
 - Use the tutorials. Adobe provides a number of tutorials that can help you learn the basics of Premiere Pro. These tutorials are a great way to get started and learn the essential features of the software.
 
+## Adobe Premiere Pro Getting Started Tutorials
+
+- [Import Video Footage](./how-to-import-video-into-premiere-pro.md)
+
 ## Adobe Premiere Pro Video Tutorials
 
 - [Adobe Premiere Add Music and Sound](./adobe-premiere-add-music-and-sound.md)
 - [Adobe Premiere Import Image Sequence](./adobe-premiere-import-image-sequence.md)
+
+## Adobe Premiere Green Screen Tutorials
+
+- [Key Out Green Screen With Ultra Key](./adobe-premiere-green-screen-ultrakey-tutorial.md)
+- [Better Keying with Stacked Ultra Key Effects](./better-green-screen-adobe-premiere-stacked-ultra-key-effects.md)
+
+## Adobe Premiere Pro VFX Tutorials
+
+- [Video Double Effect](./doppelganger-effect-tutorial-adobe-premiere-pro.md)
+- [Run Fast Effect](./adobe-premiere-run-fast-special-effect-tutorial.md)
+- [Flying Effect](./flying-visual-effect-tutorial-adobe-premiere.md)
+- [Fire Finger Effect](./fire-finger-special-effect-tutorial-adobe-premiere.md)
+- [Teleport Effect](./teleport-special-effect-tutorial-using-adobe-premiere.md)
+- [Magic Wand Effect](./glowing-tip-magic-wand-effect-adobe-premiere.md)

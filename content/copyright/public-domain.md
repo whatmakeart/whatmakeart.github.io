@@ -18,7 +18,7 @@ Even if a copyrighted work is not in the public domain, its use to create new wo
 
 Works that are not in the public domain are often incorrectly labeled as being in the public domain and vise versa. It is important to double check any material when working with content you believe to be in the public domain. It is best to only use content from reputable public domain collections. If you are unsure whether a work is in the public domain, you can consult a copyright lawyer or do a search online. There are many websites that list works that are in the public domain.
 
-A funny example of copyrighted material being mislabeled as public domain happened when a photo of BJ Novak, and actor from the TV show _The Office_, showed up in advertisements and product packaging in multiple countries. After learning about the mistake he did not pursue legal action and laughed off the incident Under different circumstances the companies and designers who did not verify the source of the images they were using could have been required to pay large monetary compensation to the copyright holder as well as suffering damage to their professional reputation. [^3]
+A funny example of copyrighted material being mislabeled as public domain happened when [a photo](https://www.instagram.com/p/lTsF59rC9A/) of BJ Novak, and actor from the TV show _The Office_, showed up in advertisements and product packaging in multiple countries. After learning about the mistake he did not pursue legal action and laughed off the incident Under different circumstances the companies and designers who did not verify the source of the images they were using could have been required to pay large monetary compensation to the copyright holder as well as suffering damage to their professional reputation. [^3] [^4]
 
 ## Public Domain Collections
 
@@ -66,4 +66,5 @@ The [Smithsonian Open Access](https://www.si.edu/openaccess) archives has high r
 
 [^1]: [Section 105 of US Copyright Law](https://www.copyright.gov/title17/92chap1.html#105)
 [^2]: [Global Aspects of Copyright - Creative Commons](https://certificates.creativecommons.org/cccertedu/chapter/2-2-global-aspects-of-copyright/)
-[^3]: [A Photo Of BJ Novak Was Accidentally Deemed Public Domain, And Now His Face Is Printed On Personal Care Items And Household Products Across The World](https://www.buzzfeed.com/emilymaeczachor/bj-novak-pic-public-domain-face-of-products-worldwide)
+[^3]: [B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why - New York Times](https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html)
+[^4]: [A Photo Of BJ Novak Was Accidentally Deemed Public Domain, And Now His Face Is Printed On Personal Care Items And Household Products Across The World - Buzzfeed](https://www.buzzfeed.com/emilymaeczachor/bj-novak-pic-public-domain-face-of-products-worldwide)
