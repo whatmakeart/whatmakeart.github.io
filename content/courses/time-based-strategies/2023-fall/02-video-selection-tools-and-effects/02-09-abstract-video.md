@@ -115,6 +115,8 @@ Mona Hatoum - _Measures of Distance_
 
 <div class="video-grid">
 
+<div class="video-card">
+
 Scott Snibbe - _Gravilux_
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/0p5nvWJ5gOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -182,6 +184,10 @@ Scott Draves - _Electric Sheep_
 Jeremy Blake - _A waking dream_
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/RHzGAF1j1ZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
 
 Petra Cortright - _trolly xplosion_
 

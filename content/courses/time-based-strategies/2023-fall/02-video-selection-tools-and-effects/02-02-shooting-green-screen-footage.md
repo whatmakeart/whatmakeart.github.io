@@ -48,17 +48,11 @@ During shooting, make sure to review the footage to make sure the subject did no
 
 Planning is key. Think about the final shot. If the subject will be in an epic background, then you probably don't want the camera close to the subject with a wide angle. Instead move the camera back away from the subject and zoom in to fill t he frame. The same holds true for camera height. Make sure the camera height and perspective used in the green screen shoot matches that of the planned composite scene.
 
-6. **Use a high-quality camera.** A high-quality camera will produce better results when shooting green screen footage.
+## Green Screen Shutter Speed Shot Test Exercise
 
-Here are some additional tips:
+To see the way different shutter speeds change the amount of motion blur and difficulty of keying the footage, shoot sample footage a different shutter speeds. Then try to key out each piece of footage. Footage with more motion blue may look for natural but could be harder to key. An easily keyable scene with no motion blur may seem unnatural. This way you can balance your needs based on the shutter speed test.
 
--
--
--
-
-Shutter Speed Shot Test
-
-Shutter Speed Tests
+### Shutter Speed Tests
 
 For 30 fps shoot at:
 
