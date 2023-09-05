@@ -14,7 +14,7 @@ title: 00.03 Course Links
 - [Tony Oursler](https://tonyoursler.com/)
 - [Coco Fusco](https://www.cocofusco.com/)
 - [Judith Barry](https://www.judithbarrystudio.com/)
-- Nam June Paik
+- [Nam June Paik](https://www.paikstudios.com/)
 - [Gary Hill](https://garyhill.com/)
 - [Dee Dee Halleck](https://deedeehalleck.com/)
 - [Dan Graham](https://www.nytimes.com/2022/03/04/arts/dan-graham-dead.html)
@@ -63,3 +63,7 @@ title: 00.03 Course Links
 - [Ivan Argote](https://www.perrotin.com/artists/Ivan_Argote/84#news)
 
 </div>
+
+## Resources
+
+- [Public Domain](../../../../copyright/public-domain.md)
