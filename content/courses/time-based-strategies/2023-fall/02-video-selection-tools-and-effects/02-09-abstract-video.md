@@ -143,7 +143,7 @@ Jennifer Steinkamp - _Still-Life 1_
 
 Jennifer West - _Flashlight Filmstrip Projections_
 
-<div class="iframe-16-9-container"><iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/106694784?h=b2b3557ce2" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/106694784?h=b2b3557ce2" width="640" height="360" frameborder="0"  allowfullscreen></iframe>
 </div>
 </div>
 
