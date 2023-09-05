@@ -64,6 +64,6 @@ For 30 fps shoot at:
 For 60 fps shoot at:
 
 - 1/60
-  -1/125
+- 1/125
 - 1/250
 - 1/320
