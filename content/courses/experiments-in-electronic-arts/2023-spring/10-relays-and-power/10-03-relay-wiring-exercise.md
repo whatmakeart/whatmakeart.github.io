@@ -1,5 +1,5 @@
 ---
-title: "10.02 - Solid State Relays"
+title: "10.03 - Relay Wiring Exercise"
 date: 2023-03-31T09:30:00Z
 ---
 
