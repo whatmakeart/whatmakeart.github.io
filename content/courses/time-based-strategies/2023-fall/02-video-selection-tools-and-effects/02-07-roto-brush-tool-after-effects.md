@@ -1,5 +1,5 @@
 ---
-title: 02.06 Roto Brush Tool After Effects
+title: 02.07 Roto Brush Tool After Effects
 toc: true
 ---
 

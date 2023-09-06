@@ -1,5 +1,5 @@
 ---
-title: 02.05 Fix Bad Green Screen Footage After Effects
+title: 02.06 Fix Bad Green Screen Footage After Effects
 toc: true
 ---
 

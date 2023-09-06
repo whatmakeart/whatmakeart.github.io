@@ -1,5 +1,5 @@
 ---
-title: 02.08 Abstract Video
+title: 02.09 Abstract Video
 ---
 
 ## Historical Abstract Video Influences and Artists
@@ -7,16 +7,14 @@ title: 02.08 Abstract Video
 - [Oskar Fischinger](http://www.oskarfischinger.org/)
 - [Walther Ruttmann](https://en.wikipedia.org/wiki/Walter_Ruttmann)
 - [Viking Eggeling](https://en.wikipedia.org/wiki/Viking_Eggeling)
-- [Hans Richter]
+- [Hans Richter](<https://en.wikipedia.org/wiki/Hans_Richter_(artist)>)
 - [Len Lye](https://www.lenlyefoundation.com/)
-- [Susan Hiller]
+- [Susan Hiller](https://www.susanhiller.org/)
 - [Nam June Paik](https://www.paikstudios.com/)
-- Norman McLaren
-- [Joan Jonas]
+- [Norman McLaren](https://en.wikipedia.org/wiki/Norman_McLaren)
+- [Joan Jonas](https://art21.org/artist/joan-jonas/)
 
 ## Historical Abstract Video Examples
-
-Oskar Fischinger - _An Optical Poem_
 
 <div class="video-grid">
 
@@ -107,7 +105,7 @@ Mona Hatoum - _Measures of Distance_
 - [Travess Smalley](https://www.travesssmalley.com/)
 - [Rafaël Rozendaal](https://www.newrafael.com/)
 - [Scott Draves](https://scottdraves.com/)
-- [Jeremy Blake]
+- [Jeremy Blake](https://www.nytimes.com/2007/08/01/arts/design/01blake.html)
 - [Jacques Drouin](https://en.wikipedia.org/wiki/Jacques_Drouin)
 - [Chris Coy](http://seecoy.com/)
 
@@ -135,7 +133,7 @@ Vibeke Sorensen - _Temple_
 
 Jennifer Steinkamp - _Still-Life 1_
 
-<div class="iframe-16-9-container"><iframe src="https://player.vimeo.com/video/241879604" width="640" height="400" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
+<div class="iframe-16-9-container"><iframe class="vimeoIframe" src="https://player.vimeo.com/video/241879604" width="640" height="400" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
 </div>
 </div>
 
