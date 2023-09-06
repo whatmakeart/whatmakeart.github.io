@@ -205,7 +205,7 @@ Chris Coy - _Smoke Alarm_ Projection Visuals
 
 Travess Smalley - _Primordial Trance Puddle_
 
-<div class="iframe-16-9-container"><iframe src="https://player.vimeo.com/video/32313495?h=cec4043d42" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="vimeoIframe" src="https://player.vimeo.com/video/32313495?h=cec4043d42" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
 

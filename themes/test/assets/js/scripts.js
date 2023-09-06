@@ -148,8 +148,8 @@ function removeNavigationEmbed() {
       elem.classList.remove("bd-content");
       elem.classList.remove("ps-lg-2");
       console.log("Remove iframe Scroll");
-      elem.style.overflowX = "auto"; // to remove iframe scrollbars when scrolling
-      elem.style.overflowY = "auto"; // to remove iframe scrollbars when scrolling
+      elem.style.overflowX = "auto"; // to remove iframe scrollbars when scrolling - needs to be done to iframe parent container on embedded page
+      elem.style.overflowY = "auto"; // to remove iframe scrollbars when scrolling - needs to be done to iframe parent container on embedded page
     }
 
     console.log("replace course-content");
@@ -161,8 +161,8 @@ function removeNavigationEmbed() {
       elem.classList.remove("bd-content");
       elem.classList.remove("ps-lg-2");
       console.log("Remove iframe Scroll");
-      elem.style.overflowX = "auto"; // to remove iframe scrollbars when scrolling
-      elem.style.overflowY = "auto"; // to remove iframe scrollbars when scrolling
+      elem.style.overflowX = "auto"; // to remove iframe scrollbars when scrolling - needs to be done to iframe parent container on embedded page
+      elem.style.overflowY = "auto"; // to remove iframe scrollbars when scrolling - needs to be done to iframe parent container on embedded page
     }
 
     // for bd-main - make into list
@@ -174,8 +174,8 @@ function removeNavigationEmbed() {
       elem.classList.add("keep-wide-canvas-lms");
       elem.classList.remove("bd-main");
       console.log("Remove iframe Scroll");
-      elem.style.overflowX = "auto"; // to remove iframe scrollbars when scrolling
-      elem.style.overflowY = "auto"; // to remove iframe scrollbars when scrolling
+      elem.style.overflowX = "auto"; // to remove iframe scrollbars when scrolling - needs to be done to iframe parent container on embedded page
+      elem.style.overflowY = "auto"; // to remove iframe scrollbars when scrolling - needs to be done to iframe parent container on embedded page
     }
 
     console.log("replace wiki-main");
@@ -185,8 +185,8 @@ function removeNavigationEmbed() {
       elem.classList.add("keep-wide-canvas-lms");
       elem.classList.remove("bd-main");
       console.log("Remove iframe Scroll");
-      elem.style.overflowX = "auto"; // to remove iframe scrollbars when scrolling
-      elem.style.overflowY = "auto"; // to remove iframe scrollbars when scrolling
+      elem.style.overflowX = "auto"; // to remove iframe scrollbars when scrolling - needs to be done to iframe parent container on embedded page
+      elem.style.overflowY = "auto"; // to remove iframe scrollbars when scrolling - needs to be done to iframe parent container on embedded page
     }
 
     console.log("Removed iframe #header and #footer");
