@@ -147,6 +147,9 @@ function removeNavigationEmbed() {
       elem.classList.add("keep-wide-canvas-lms ");
       elem.classList.remove("bd-content");
       elem.classList.remove("ps-lg-2");
+      console.log("Remove iframe Scroll");
+      elem.style.overflowX = "hidden"; // to remove iframe scrollbars when scrolling
+      elem.style.overflowY = "hidden"; // to remove iframe scrollbars when scrolling
     }
 
     console.log("replace course-content");
@@ -157,6 +160,9 @@ function removeNavigationEmbed() {
       elem.classList.add("keep-wide-canvas-lms");
       elem.classList.remove("bd-content");
       elem.classList.remove("ps-lg-2");
+      console.log("Remove iframe Scroll");
+      elem.style.overflowX = "hidden"; // to remove iframe scrollbars when scrolling
+      elem.style.overflowY = "hidden"; // to remove iframe scrollbars when scrolling
     }
 
     // for bd-main - make into list
@@ -167,6 +173,9 @@ function removeNavigationEmbed() {
       elem.classList.add("containerfluid");
       elem.classList.add("keep-wide-canvas-lms");
       elem.classList.remove("bd-main");
+      console.log("Remove iframe Scroll");
+      elem.style.overflowX = "hidden"; // to remove iframe scrollbars when scrolling
+      elem.style.overflowY = "hidden"; // to remove iframe scrollbars when scrolling
     }
 
     console.log("replace wiki-main");
@@ -175,12 +184,14 @@ function removeNavigationEmbed() {
       elem.classList.add("containerfluid");
       elem.classList.add("keep-wide-canvas-lms");
       elem.classList.remove("bd-main");
+      console.log("Remove iframe Scroll");
+      elem.style.overflowX = "auto"; // to remove iframe scrollbars when scrolling
+      elem.style.overflowY = "auto"; // to remove iframe scrollbars when scrolling
     }
 
     console.log("Removed iframe #header and #footer");
+
     changeStyle(); // remove Bootstrap Styles
-    document.body.style.overflowX = "hidden"; // to remove iframe scrollbars when scrolling
-    document.body.style.overflowY = "scroll"; // to remove iframe scrollbars when scrolling
   }
   if (self === top) {
     console.log("Top level website so keep native navigation");
