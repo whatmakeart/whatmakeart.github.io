@@ -1,5 +1,7 @@
 ---
 title: Shot Types
+date: 2023-08-30T05:21:35
+lastmod: 2023-09-07T20:57:01
 ---
 
 Think about movies, cartoons or video games that you have experienced? Is everything shown in one static camera shot? Of course not. That would be boring and uninteresting. Use multiple cameras and camera angles to break up videos and screen based media to show different parts with more detail.

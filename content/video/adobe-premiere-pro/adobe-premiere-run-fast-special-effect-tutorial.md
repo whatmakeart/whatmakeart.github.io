@@ -1,5 +1,7 @@
 ---
 description: In this tutorial, I'll show you how to use Adobe Premiere to create the illusion of running super fast. This is a great trick for creating special effects videos, or for adding a touch of humor to your footage.
+date: 2021-04-18T14:46:26
+lastmod: 2023-09-07T20:57:01
 featured_image: /video/adobe-premiere-pro/attachments/run-fast-adobe-premiere-special-effect-tutorial.jpg
 tags:
   - Adobe Premiere

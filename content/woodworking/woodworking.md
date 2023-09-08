@@ -1,5 +1,7 @@
 ---
 title: Woodworking
+date: 2023-05-23T21:59:40
+lastmod: 2023-09-07T20:57:01
 ---
 
 Woodworking is the manipulation of wood material into new forms and designs. Wood can be cut and joined together with [Wood-Joints](wood-joints.md), [Wood-Fasteners](wood-fasteners.md), and [wood glue](wood-glue.md).

@@ -1,5 +1,7 @@
 ---
 description: Create the visual effect of a fire on your finger tip
+date: 2021-04-17T14:40:26
+lastmod: 2023-09-07T20:57:01
 featured_image: /video/adobe-premiere-pro/attachments/fire-finger-special-effect-tutorial-adobe-premiere.jpg
 tags:
   - Adobe Premiere

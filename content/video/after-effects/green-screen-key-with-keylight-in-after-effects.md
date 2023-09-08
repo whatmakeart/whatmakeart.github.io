@@ -1,5 +1,7 @@
 ---
 title: Green Screen Key with Keylight in After Effects
+date: 2023-09-04T20:48:51
+lastmod: 2023-09-07T20:57:01
 ---
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/2b796PpS9y8?si=lZgeTa3hlJITWujF?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

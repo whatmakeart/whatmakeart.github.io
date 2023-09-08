@@ -1,5 +1,7 @@
 ---
 title: How to Key Out Green Screen Footage in Adobe Premiere Pro with Ultra Key
+date: 2023-09-04T15:59:23
+lastmod: 2023-09-07T20:57:01
 tags:
   - Adobe Premiere
   - Tutorial

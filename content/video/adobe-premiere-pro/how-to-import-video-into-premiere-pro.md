@@ -1,5 +1,7 @@
 ---
 title: How to Import Video Footage into Adobe Premiere Pro
+date: 2023-09-04T16:22:04
+lastmod: 2023-09-07T20:57:01
 ---
 
 <div class="iframe-16-9-container">

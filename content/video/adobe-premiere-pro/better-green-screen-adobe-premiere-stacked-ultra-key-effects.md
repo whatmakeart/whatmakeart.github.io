@@ -1,5 +1,7 @@
 ---
 title: How to Use Multiple Instances of Ultra Key in Premiere Pro for Green Screen Keying
+date: 2023-09-04T16:10:36
+lastmod: 2023-09-07T20:57:01
 tags:
   - Adobe Premiere
   - Tutorial

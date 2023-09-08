@@ -1,5 +1,7 @@
 ---
 description: Meet your own doppelganger with simple video editing techniques
+date: 2021-04-19T03:19:56
+lastmod: 2023-09-07T20:57:01
 featured_image: /video/adobe-premiere-pro/attachments/doppelganger-effect-adobe-premiere-tutorial.jpg
 tags:
   - Adobe Premiere

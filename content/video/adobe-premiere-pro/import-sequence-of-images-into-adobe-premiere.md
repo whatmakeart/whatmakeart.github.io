@@ -3,6 +3,8 @@ description: "Make a video clip from a folder of numbered images in Adobe Premie
 featured_image: /video/adobe-premiere-pro/attachments/import-image-sequence-adobe-premiere.jpg
 tags: ["Adobe Premiere"]
 title: "Import a Sequence of Images into Adobe Premiere"
+date:
+lastmod:
 aliases:
   - /posts/import-sequence-of-images-into-adobe-premiere/
 ---

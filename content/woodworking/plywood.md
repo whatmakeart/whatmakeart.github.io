@@ -1,5 +1,7 @@
 ---
 title: Plywood
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-07T20:57:01
 ---
 
 Plywood is a versatile building material for [Sculpture](../sculpture/sculpture.md), [Woodworking](woodworking.md), and [Furniture](furniture.md). It is made from laminated sheets of wood that are glued together. The grain of the wood is placed in different directions to prevent warping.

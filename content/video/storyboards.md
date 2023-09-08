@@ -1,5 +1,7 @@
 ---
 title: Storyboards
+date: 2023-06-14T11:32:34
+lastmod: 2023-09-07T20:57:01
 ---
 
 It is a good idea to make simple storyboards for your animation. Since animation can be time consuming, it is best to know what you plan to animate before you start. For a 30 second animation you need a minimum of 15 storyboard panels if each panel represents 2 seconds of animation. The actual number needed will vary based on the type of narrative and project that is animated. Remember, when drawing a storyboard, change the camera angle and distance from the camera for each shot / scene / animation.

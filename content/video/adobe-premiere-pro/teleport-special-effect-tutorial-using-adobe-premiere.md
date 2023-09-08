@@ -3,6 +3,8 @@ description: "Use Adobe Premiere to create this teleport special effect"
 featured_image: /video/adobe-premiere-pro/attachments/teleport-special-effect-tutorial-in-adobe-premiere.jpg
 tags: ["Adobe Premiere"]
 title: "Teleport Special Effect Tutorial"
+date:
+lastmod:
 aliases:
   - /posts/teleport-special-effect-tutorial-using-adobe-premiere/
 ---

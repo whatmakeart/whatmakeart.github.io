@@ -1,5 +1,7 @@
 ---
 title: Fix Bad Green Screen Footage
+date: 2023-09-04T20:42:37
+lastmod: 2023-09-07T20:57:01
 ---
 
 <div class="iframe-16-9-container">
