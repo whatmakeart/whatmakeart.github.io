@@ -1,5 +1,7 @@
 ---
 title: Blender Texture Paint
+date: 2023-06-14T13:55:55
+lastmod: 2023-09-07T20:44:35
 ---
 
 - [Blender Texture Paint Quick Start Guide](https://youtu.be/A0a-YndPpOM)
@@ -8,7 +10,7 @@ title: Blender Texture Paint
 
 <figure>
 
-[![Blender Texture Paint Workspace](../2023-blender-texture-paint-workspace.png)](../2023-blender-texture-paint-workspace.png)
+[![Blender Texture Paint Workspace](./attachments/2023-blender-texture-paint-workspace.png)](./attachments/2023-blender-texture-paint-workspace.png)
 
 <figcaption>
 

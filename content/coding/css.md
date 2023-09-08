@@ -1,7 +1,9 @@
 ---
 title: CSS
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-07T20:38:42
 tags:
-- stub
+  - stub
 ---
 
 CSS stands for Cascading Style Sheets and is the language used for the visual styling of most websites. CSS can be [added to a website](how-to-add-css-to-a-webpage.md) in multiple ways.

@@ -1,5 +1,7 @@
 ---
 title: Maya Rendering Basics
+date: 2023-06-14T13:49:46
+lastmod: 2023-09-07T20:31:52
 ---
 
 ## Maya Rendering

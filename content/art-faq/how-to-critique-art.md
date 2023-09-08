@@ -1,5 +1,7 @@
 ---
 title: How to Critique Art
+date: 2021-04-05T08:56:42
+lastmod: 2023-09-07T20:37:10
 ---
 
 # Art Critique

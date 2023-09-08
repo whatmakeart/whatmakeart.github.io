@@ -1,5 +1,7 @@
 ---
 title: Separate Code into Functions
+date: 2023-06-17T14:47:43
+lastmod: 2023-09-07T20:34:36
 ---
 
 Breaking large complex projects into smaller manageable components is an efficient way to complete parts of a project along the way to completing the whole. The physical hardware might have obvious places to separate components, an LED could be separate from a motor, or a knob, or a button, or a sensor. Each of these needs to work but some can be built independently, tested, and then assembled into the whole. The same is true for software or code.

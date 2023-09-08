@@ -1,5 +1,7 @@
 ---
 title: How to Document 2D Artwork
+date: 2023-05-30T00:40:04
+lastmod: 2023-09-07T20:37:14
 ---
 
 ### Use a Camera NOT your Cell Phone

@@ -1,5 +1,7 @@
 ---
 title: 00.02 BFA Research Syllabus
+date: 2023-06-22T05:51:14
+lastmod: 2023-09-07T20:40:58
 ---
 
 ## BFA Research

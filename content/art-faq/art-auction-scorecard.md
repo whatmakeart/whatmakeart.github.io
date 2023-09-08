@@ -1,5 +1,7 @@
 ---
 title: Art Auction Scorecard
+date: 2023-05-23T21:59:42
+lastmod: 2023-09-07T20:34:58
 ---
 
 Before donating your artwork to a benefit auction at a gallery or museum ask yourself these questions about the auction to see if you are being taken advantage of.

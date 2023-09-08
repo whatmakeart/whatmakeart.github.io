@@ -1,5 +1,7 @@
 ---
 title: Fusion 360 Introduction
+date: 2023-06-14T12:21:53
+lastmod: 2023-09-07T20:30:48
 ---
 
 We will begin 3D modeling in Fusion 360. Make sure you created an Autodesk account.

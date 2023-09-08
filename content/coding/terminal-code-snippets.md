@@ -1,5 +1,6 @@
 ---
 title: Terminal Code Snippets
+
 ---
 
 ## Change default screen shot location

@@ -1,5 +1,7 @@
 ---
 title: Radio Communication
+date: 2023-06-17T15:30:06
+lastmod: 2023-09-07T20:34:18
 ---
 
 ## nRF24 Modules

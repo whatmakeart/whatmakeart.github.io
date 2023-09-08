@@ -1,5 +1,7 @@
 ---
 title: Student Evaluations
+date: 2023-07-01T19:17:16
+lastmod: 2023-09-07T20:38:33
 tags:
   - stub
 ---

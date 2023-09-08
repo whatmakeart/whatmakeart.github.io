@@ -1,5 +1,7 @@
 ---
 title: Blender 3D Animation
+date: 2023-06-14T11:45:49
+lastmod: 2023-09-07T20:28:24
 ---
 
 Blender can be used to create 3D animations.

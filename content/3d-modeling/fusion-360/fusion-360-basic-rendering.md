@@ -1,5 +1,7 @@
 ---
 title: Fusion 360 Basic Rendering
+date: 2023-06-14T05:57:42
+lastmod: 2023-09-07T20:30:07
 ---
 
 ## Rendering Aspect Ratio

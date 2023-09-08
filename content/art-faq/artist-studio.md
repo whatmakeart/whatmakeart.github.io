@@ -1,5 +1,7 @@
 ---
 title: Artist Studio
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-07T20:35:24
 ---
 
 [Artists](artists.md) need a place to make their work. An artist's workspace is called their studio. It is important to have good studio practices, good [Professional-Practices-for-Artists](professional-practices-for-artists.md), and good [Safety](../making/safety.md) practices. Good [time management](time-management.md) is needed to successfully run an artist studio.

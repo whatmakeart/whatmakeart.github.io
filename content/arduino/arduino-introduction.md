@@ -1,5 +1,7 @@
 ---
 title: Arduino Introduction
+date: 2023-06-17T06:43:14
+lastmod: 2023-09-07T20:33:24
 ---
 
 ## Download and Install the Arduino IDE 2

@@ -1,5 +1,7 @@
 ---
 title: Arduino Relay Wiring
+date: 2023-06-17T15:27:16
+lastmod: 2023-09-07T20:33:36
 ---
 
 ## Parts Needed

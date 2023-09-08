@@ -1,5 +1,7 @@
 ---
 title: Arduino Potentiometer Servo
+date: 2023-06-17T10:27:29
+lastmod: 2023-09-07T20:33:34
 ---
 
 ## Do Something with the Input

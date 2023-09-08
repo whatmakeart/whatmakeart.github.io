@@ -1,5 +1,7 @@
 ---
 title: Grad School
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-07T20:37:00
 ---
 
 ## Articles from the Don't Go to Grad School Camp
@@ -14,4 +16,5 @@ title: Grad School
 - http://www.swarthmore.edu/SocSci/tburke1/gradschool.html
 
 ## Articles from the Go to Grad School Camp
+
 - [Why you should go to graduate school](http://www.psmag.com/education/why-you-should-go-to-graduate-school-in-the-humanities-59821/)

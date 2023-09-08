@@ -1,5 +1,7 @@
 ---
 title: How to Scale a Floor Plan in Blender
+date: 2023-06-22T13:05:49
+lastmod: 2023-09-07T20:28:45
 ---
 
 <div class="video-grid">

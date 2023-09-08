@@ -1,5 +1,7 @@
 ---
 title: Public Domain
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-07T20:39:59
 ---
 
 The public domain is a collection of creative works that are not protected by intellectual property laws, such as [copyright](../copyright/copyright-for-artists.md), trademark, or patent laws. This means that anyone can use, reproduce, distribute, or modify these works without obtaining permission from the original copyright holder.
@@ -28,7 +30,7 @@ The resources below have collections of public domain, images, videos and sounds
 
 - [Library of Congress Moving Image Research Center](https://www.loc.gov/rr/mopic/pubdomain.html)
 - [Library of Congress Pictures](https://www.loc.gov/pictures/)
-- [National Archives](https://www.archives.gov/) The Archives has a searchable [online catalog](https://www.archives.gov/research/catalog)
+- [National Archives](https://www.archives.gov/) The Archives has a **[searchable online catalog](https://www.archives.gov/research/catalog)**
 - [NASA Image and Video Library](https://images.nasa.gov/)
 - [NASA on the Commons - Flickr](https://www.flickr.com/photos/nasacommons/)
 - [Hubble Space Telescope Imagery](https://www.nasa.gov/mission_pages/hubble/multimedia/index.html)

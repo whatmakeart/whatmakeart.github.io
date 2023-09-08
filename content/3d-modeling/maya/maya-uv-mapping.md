@@ -1,5 +1,7 @@
 ---
 title: Maya UV Mapping
+date: 2023-06-15T05:48:39
+lastmod: 2023-09-07T20:31:56
 ---
 
 ### UV Mapping

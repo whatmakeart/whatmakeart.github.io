@@ -1,5 +1,7 @@
 ---
 title: Arduino Button Debounce
+date: 2023-06-17T10:29:39
+lastmod: 2023-09-07T20:33:02
 ---
 
 ## Button Too Fast?

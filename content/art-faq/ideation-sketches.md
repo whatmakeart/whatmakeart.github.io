@@ -1,5 +1,7 @@
 ---
 title: Ideation Sketches
+date: 2023-06-13T16:11:02
+lastmod: 2023-09-07T20:37:43
 ---
 
 ## What is Ideation Sketching?

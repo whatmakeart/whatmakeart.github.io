@@ -1,5 +1,7 @@
 ---
 title: Turn Code into a Function
+date: 2023-06-17T14:48:49
+lastmod: 2023-09-07T20:34:39
 ---
 
 <div class="video-grid">

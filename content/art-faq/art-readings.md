@@ -1,5 +1,7 @@
 ---
 title: Art Readings
+date: 2023-07-01T19:32:12
+lastmod: 2023-09-07T20:35:02
 tags:
   - stub
 ---

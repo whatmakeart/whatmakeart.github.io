@@ -1,5 +1,7 @@
 ---
 title: Blender 3D Modeling
+date: 2023-06-14T13:46:52
+lastmod: 2023-09-07T20:28:29
 ---
 
 ## Blender Quick Start

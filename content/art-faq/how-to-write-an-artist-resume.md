@@ -1,5 +1,7 @@
 ---
 title: How to Write an Artist Resume
+date: 2023-05-23T21:59:40
+lastmod: 2023-09-07T20:37:35
 tags:
   - stub
 ---

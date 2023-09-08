@@ -1,5 +1,7 @@
 ---
 title: Read Microphone Voltage
+date: 2023-06-17T10:42:36
+lastmod: 2023-09-07T20:34:22
 ---
 
 ```C

@@ -1,5 +1,7 @@
 ---
 title: Sense Light and Dark with Photoresistor
+date: 2023-06-17T10:39:27
+lastmod: 2023-09-07T20:34:30
 ---
 
 This example from Arduino uses a photoresistor to sense the ambient light. It also introduces a switch case statement. This will be useful for studying how to schedule tasks in Arduino sketches and how to make a state machine to control complex operations in a predictable sequence rather than with separate timers.

@@ -1,3 +1,9 @@
+---
+title: Fusion 360 Basic Pattern Tools
+date: 2023-06-13T14:39:39
+lastmod: 2023-09-07T20:29:57
+---
+
 ## Examples of Patterns in the Environment
 
 **Examples of Rectangular Patterns:** The windows in a building, legs of a table or chair, drawers in a cabinet, buttons on a game controller, wheels on a car, pixels on a computer monitor, and the aisles in a retail store are all layed out in neat rectangular rectangular patterns.

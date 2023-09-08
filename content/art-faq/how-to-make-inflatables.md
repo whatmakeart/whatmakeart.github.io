@@ -1,5 +1,7 @@
 ---
 title: How to Make Inflatables
+date: 2021-04-05T13:10:48
+lastmod: 2023-09-07T20:37:31
 ---
 
 # How to Make Inflatables

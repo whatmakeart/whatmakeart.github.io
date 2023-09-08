@@ -1,5 +1,7 @@
 ---
 title: Fusion 360 Rule Number One
+date: 2023-06-13T14:42:56
+lastmod: 2023-09-07T20:31:08
 ---
 
 ## Fusion 360 Rule # 1

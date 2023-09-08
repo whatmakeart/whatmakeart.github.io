@@ -1,5 +1,7 @@
 ---
 title: Arduino Servo Example
+date: 2023-06-17T07:03:19
+lastmod: 2023-09-07T20:33:39
 ---
 
 ## Servo Example Circuit

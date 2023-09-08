@@ -1,5 +1,7 @@
 ---
 title: Arduino Servo Knob Without Delay
+date: 2023-06-17T10:30:53
+lastmod: 2023-09-07T20:33:43
 ---
 
 We now have the LED that can blink without a `delay();` function and a button that works to debounce without `delay();` but the servo examples, sweep and knob, both use `delay();`. This section shows how to remove the delay from the knob example but could be applied to sweep as well.

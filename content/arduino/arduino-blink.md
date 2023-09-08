@@ -1,5 +1,7 @@
 ---
 title: Arduino Blink
+date: 2023-06-16T17:31:02
+lastmod: 2023-09-07T20:32:58
 ---
 
 The example circuit and sketch below is one of the most basic programs for the Arduino. It uses the built in LED on the Arduino board so nothing more than an Arduino, USB cable, and computer is needed to run the code. Pin 13 on most Arduino boards is synced to the onboard LED. THis is used to test and debug boards to see if they work.

@@ -1,5 +1,7 @@
 ---
 title: Writing
+date: 2023-05-23T21:59:40
+lastmod: 2023-09-07T20:37:57
 ---
 
 [Artists](artists.md), makers, and designers need to be proficient in many types of writing ranging for jotting down quick ideas, writing [artist statements](how-to-write-an-artist-statement.md), drafting proposals, or completing reports for clients. It is important to review your notes periodically. Collect, edit and filter your thoughts.

@@ -1,5 +1,7 @@
 ---
 title: Arduino Blink Without Delay
+date: 2023-06-17T10:28:31
+lastmod: 2023-09-07T20:32:55
 ---
 
 ## What is Wrong with `delay();`?

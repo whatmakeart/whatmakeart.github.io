@@ -1,5 +1,7 @@
 ---
 title: Art School Critique No Nos
+date: 2021-04-05T08:35:50
+lastmod: 2023-09-07T20:35:06
 ---
 
 # Critique No, No’s

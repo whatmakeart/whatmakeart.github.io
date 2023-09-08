@@ -1,5 +1,7 @@
 ---
 title: Combine Two Arduino Sketches
+date: 2023-06-17T10:40:39
+lastmod: 2023-09-07T20:33:59
 description: How do you take one Arduino sketch and combine it with the code of another Arduino sketch? This tutorial shows how to join two sketches together to make one program.
 featured_image: /attachments/featured-images/combine-arduino-sketches.jpg
 tags:

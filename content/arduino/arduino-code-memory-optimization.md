@@ -1,5 +1,7 @@
 ---
 title: Arduino Code Memory Optimization
+date: 2023-06-17T15:00:45
+lastmod: 2023-09-07T20:33:12
 ---
 
 When you compile a sketch in the Arduino IDE it prints out both the amount of Flash memory and Ram that the program uses as well as the percentage of overall Flash memory and RAM used. To avoid errors or problems, both of these numbers should be kept below their maximum values.

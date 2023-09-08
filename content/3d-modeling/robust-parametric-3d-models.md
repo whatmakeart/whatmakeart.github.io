@@ -1,5 +1,7 @@
 ---
 title: Robust Parametric 3D Models
+date: 2023-06-14T13:23:31
+lastmod: 2023-09-07T20:32:39
 ---
 
 ## Robust Parametric Modeling

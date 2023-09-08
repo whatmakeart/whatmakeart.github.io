@@ -1,5 +1,7 @@
 ---
 title: Bansky Copyright Ruling in EU
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-07T20:40:29
 ---
 
 ## Bansky Loses Greeting Card Lawsuit

@@ -1,5 +1,7 @@
 ---
 title: Maya 3D Animation
+date: 2023-06-14T11:48:36
+lastmod: 2023-09-07T20:31:28
 ---
 
 ## Animation

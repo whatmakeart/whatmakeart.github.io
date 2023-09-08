@@ -1,5 +1,7 @@
 ---
 title: Maya 3D Paint
+date: 2023-06-15T05:46:29
+lastmod: 2023-09-07T20:31:40
 ---
 
 ## Maya 3D Paint Tool

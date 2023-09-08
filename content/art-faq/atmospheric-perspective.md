@@ -1,5 +1,7 @@
 ---
 title: Atmospheric Perspective
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-07T20:35:31
 ---
 
 There are several visual clues we use every day to judge the distance or [depth](depth.md) of an object. The illusion of depth can be created in two-dimensional art by mimicking the way objects appear in real life when they recede into three-dimensional space. You can adjust the color saturation, the contrast in value and the sharpness of individual elements to mimic Atmospheric Perspective in order to create the illusion of depth in your work.

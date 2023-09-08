@@ -1,5 +1,7 @@
 ---
 title: Fusion 360
+date: 2023-05-26T02:50:47
+lastmod: 2023-09-07T20:31:19
 ---
 
 Fusion 360 is a [Parametric-Modeling](../parametric-modeling.md) program combined with CAM output that simplifies going from digital ideas inside the computer to physical output.

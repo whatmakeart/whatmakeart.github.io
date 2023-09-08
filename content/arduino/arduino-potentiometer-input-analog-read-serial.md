@@ -1,5 +1,7 @@
 ---
 title: Arduino Potentiometer Input Analog Read Serial
+date: 2023-06-17T10:24:47
+lastmod: 2023-09-07T20:45:57
 ---
 
 ## Analog Signals

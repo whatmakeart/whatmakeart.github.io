@@ -1,5 +1,7 @@
 ---
 title: Fusion 360 Basic Modeling
+date: 2023-06-13T14:13:56
+lastmod: 2023-09-07T20:29:16
 ---
 
 ## Polygon Primitives and Shapes

@@ -1,5 +1,7 @@
 ---
 title: AI
+date: 2023-05-23T21:59:42
+lastmod: 2023-09-07T20:38:37
 ---
 
 ## AI https://ainowinstitute.org/reports.html Creation

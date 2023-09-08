@@ -1,5 +1,7 @@
 ---
 title: How to Write an Artist Statement
+date: 2023-08-29T05:15:31
+lastmod: 2023-09-07T20:37:39
 description: You do not need an artist statement. You can have a successful career as an artist without every writing an artist statement.
 ---
 

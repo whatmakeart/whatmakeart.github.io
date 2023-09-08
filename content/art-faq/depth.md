@@ -1,5 +1,7 @@
 ---
 title: Depth
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-07T20:36:49
 ---
 
 Visual depth creates the illusion of physical distance perpendicular to the viewer between objects in an image, or moving image. Depth is a fundamental principle of [Design](design.md). Visual depth exists in both representational compositions and non-representational compositions.

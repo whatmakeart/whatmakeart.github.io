@@ -1,5 +1,7 @@
 ---
 title: Art Schools
+date: 2023-05-23T21:59:42
+lastmod: 2023-09-07T20:35:10
 tags:
   - stub
 ---

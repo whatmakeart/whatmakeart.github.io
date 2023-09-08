@@ -1,5 +1,7 @@
 ---
 title: 01.03 Studio Assessment Exercise
+date: 2023-08-29T05:15:31
+lastmod: 2023-09-07T20:41:17
 ---
 
 ## Studio Inventory Questions

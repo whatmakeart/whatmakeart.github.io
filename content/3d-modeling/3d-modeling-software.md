@@ -1,5 +1,7 @@
 ---
 title: 3D Modeling Software
+date: 2023-05-26T02:50:47
+lastmod: 2023-09-07T20:32:16
 ---
 
 ### Architecture 3D Modeling Software

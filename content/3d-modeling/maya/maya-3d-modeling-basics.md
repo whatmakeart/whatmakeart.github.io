@@ -1,5 +1,7 @@
 ---
 title: Maya 3D Modeling Basics
+date: 2023-06-16T05:44:28
+lastmod: 2023-09-07T20:31:32
 ---
 
 ## Maya Quick Start

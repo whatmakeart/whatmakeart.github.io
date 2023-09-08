@@ -1,5 +1,7 @@
 ---
 title: How to Document 3D Artwork
+date: 2023-05-30T00:41:39
+lastmod: 2023-09-07T20:37:17
 ---
 
 ## Can I Use my Cellphone?

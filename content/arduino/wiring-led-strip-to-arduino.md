@@ -1,5 +1,7 @@
 ---
 title: Wiring LED Strip to Arduino
+date: 2023-06-17T15:17:37
+lastmod: 2023-09-07T20:34:47
 ---
 
 ## External Power Supply

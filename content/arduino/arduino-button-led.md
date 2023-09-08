@@ -1,5 +1,7 @@
 ---
 title: Arduino Button Led
+date: 2023-06-17T10:21:31
+lastmod: 2023-09-07T20:33:08
 ---
 
 Buttons are one of the most common ways to capture user input. Buttons are used in video game controllers, microwaves, cars, heated toilet seats, gas station pumps, computer keyboards and so many more devices.

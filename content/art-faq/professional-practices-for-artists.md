@@ -1,5 +1,7 @@
 ---
 title: Professional Practices for Artists
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-07T20:46:16
 ---
 
 There might be stereotypes of artists being "flaky" or "disorganized" but every successful artist has methods for maintaining professional practices during their careers.
@@ -14,7 +16,7 @@ Contracts are essential to not being taken advantage of in business transactions
 
 ## Portfolio
 
-Your portfolio is how people will discover your work and how you will get more opportunities. Of course some people will see your work in person or in a virtual digital world but most will not. It is important to maintain an up to date portfolio of your work. You will likely have different portfolios for different types of work and opportunities. Learn more about [How to Make an Artist Portfolio Website](../tutorials/how-to-make-an-artist-portfolio-website.md).
+Your portfolio is how people will discover your work and how you will get more opportunities. Of course some people will see your work in person or in a virtual digital world but most will not. It is important to maintain an up to date portfolio of your work. You will likely have different portfolios for different types of work and opportunities. Learn more about [How to Make an Artist Portfolio Website](../art-faq/artist-portfolio-website-how-to-guide.md).
 
 ## Resume / CV
 
@@ -22,7 +24,7 @@ Most [Artist-Opportunities](artist-opportunities.md) will require a resume or CV
 
 ## Portfolio Website
 
-Having an online presence allows your work to showcase your talents even while your are on vacation or asleep. Make sure you have a compelling online presence. An easy way to do this and to control your own data to make a portfolio website. Learn [How to Make an Artist Portfolio Website](../tutorials/how-to-make-an-artist-portfolio-website.md)
+Having an online presence allows your work to showcase your talents even while your are on vacation or asleep. Make sure you have a compelling online presence. An easy way to do this and to control your own data to make a portfolio website. Learn [How to Make an Artist Portfolio Website](../art-faq/artist-portfolio-website-how-to-guide.md)
 
 ## Art School?
 

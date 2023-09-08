@@ -1,5 +1,7 @@
 ---
 title: Fusion 360 Check Model Model Bounding Box Size
+date: 2023-06-15T05:27:44
+lastmod: 2023-09-07T20:30:15
 ---
 
 - Make sure your file is set to millimeters.

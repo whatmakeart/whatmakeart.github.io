@@ -1,5 +1,7 @@
 ---
 title: Hugo Static Site Generator
+date: 2023-05-24T00:28:26
+lastmod: 2023-09-07T20:38:56
 ---
 
 ### Hugo Commands

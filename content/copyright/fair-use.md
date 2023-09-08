@@ -1,5 +1,7 @@
 ---
 title: Fair Use
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-07T20:40:03
 ---
 
 In the United States, fair use allows people to use copyright works under certain circumstances. In this course you will only use your own content and public domain content but it is important for you to be familiar with fair use for future creative projects.  The only way to ultimately determine if using a copyrighted work is fair use is to find out in a court of law.  Courts use a four-part test to determine fair use.

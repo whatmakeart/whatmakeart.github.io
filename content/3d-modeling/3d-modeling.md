@@ -1,6 +1,7 @@
 ---
 title: 3D Modeling
-draft: true
+date: 2021-04-23T11:47:42
+lastmod: 2023-09-07T20:32:27
 ---
 
 What is a model? What is a 3D model? What is the difference between an analog and a digital 3D model? How does 2D sketching relate to 3D modeling?

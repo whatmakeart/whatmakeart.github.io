@@ -1,5 +1,7 @@
 ---
 title: How to Draw Technical Drawings
+date: 2022-03-07T05:15:37
+lastmod: 2023-09-07T20:37:24
 ---
 
 When starting a new design project or art project, it is important to go through an ideation sketch process. You need to be able to quickly draw your ideas on paper and cycle through many different iterations of concepts and designs. It can be helpful to make your sketches using technical drawing tools and techniques. You can draw technical sketches freehand and communicate a lot of information by using a third angle projection or isometric crating. This allows you to show others the concepts that are inside your head in a way that they can understand the three-dimensional form of the object or design you want to create. The videos below. Show you how to draw technical drawings both with free hand techniques and using technical drawing tools such as t squares, compasses and triangles.

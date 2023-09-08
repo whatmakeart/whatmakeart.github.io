@@ -1,5 +1,7 @@
 ---
 title: Maya 3D Modeling
+date: 2023-06-15T05:57:34
+lastmod: 2023-09-07T20:31:36
 ---
 
 We covered the basics of 3D modeling in Maya earlier in the course. Maya is a robust programs with many more features than could be covered in a semester course, but enough can be learned in a short time in order to create impressive forms, renders and animations.

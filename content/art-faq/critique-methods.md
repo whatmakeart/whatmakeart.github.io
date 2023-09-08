@@ -1,5 +1,7 @@
 ---
 title: Critique Methods
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-07T20:36:24
 ---
 
 Critique is an important part of the creative process. There is no "right" [way to critique](how-to-critique-art.md). By changing up formats and methods of critique, new insights are often gleaned.
