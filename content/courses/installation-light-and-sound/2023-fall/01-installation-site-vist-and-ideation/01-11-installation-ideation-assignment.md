@@ -1,7 +1,7 @@
 ---
 title: 01.1 Installation Ideation Assignment
 date: 2023-08-25T09:30:00Z
-lastmod: 2023-09-08T05:32:09
+lastmod: 2023-09-08T05:41:32
 ---
 
 ## Assignment Deliverables
@@ -33,14 +33,14 @@ You are expected to work on your ideation sketches for ~4.5 hours. This included
 
 <div class="responsive-table-markdown">
 
-| Objective                         | Points |
-| --------------------------------- | ------ |
-| Amount of Sketches                | 20     |
-| Depth and Variety of Sketches     | 20     |
-| Use of Light                      | 20     |
-| Use of Sound                      | 20     |
-| Written Description               | 10     |
-| Quality of Scans / Digital Images | 10     |
+| Objective                           | Points |
+| ----------------------------------- | ------ |
+| Amount of Sketches (4.5 hours work) | 20     |
+| Depth and Variety of Ideas          | 20     |
+| Use of Light                        | 20     |
+| Use of Sound                        | 20     |
+| Written Description                 | 10     |
+| Quality of Scans / Digital Images   | 10     |
 
 </div>
 
