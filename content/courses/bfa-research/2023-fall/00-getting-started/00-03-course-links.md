@@ -1,7 +1,7 @@
 ---
 title: 00.03 Course Links
-date: 2023-08-27T13:35:48
-lastmod: 2023-09-07T20:41:02
+date: 2023-08-28T12:00:00
+lastmod: 2023-09-10T13:31:26
 ---
 
 ## Documentation

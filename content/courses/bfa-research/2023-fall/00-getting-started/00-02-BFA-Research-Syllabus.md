@@ -1,7 +1,7 @@
 ---
 title: 00.02 BFA Research Syllabus
-date: 2023-06-22T05:51:14
-lastmod: 2023-09-07T20:40:58
+date: 2023-08-28T12:00:00
+lastmod: 2023-09-10T13:32:19
 ---
 
 ## BFA Research
@@ -50,7 +50,7 @@ Upon completion of the course, a student will be able to:
 
 - Clearly articulate you own ideas at a personal and a fine art context
 - See and accept other possible implications or interpretations of a body of work
-- Develop lear representation of aesthetic intent
+- Develop representation of aesthetic intent
 - Demonstrate broad knowledge of contemporary art practices
 - Adequately understand and comprehend any technical language or jargon used when explaining work
 - Strong photo / video / sound / digital documentation skills

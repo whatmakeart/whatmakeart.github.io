@@ -1,7 +1,7 @@
 ---
 title: 01.04 Studio Documentation Assignment
-date: 2023-08-29T05:15:31
-lastmod: 2023-09-07T20:41:20
+date: 2023-08-28T12:00:00
+lastmod: 2023-09-10T13:31:13
 ---
 
 ## Assignment Deliverables
