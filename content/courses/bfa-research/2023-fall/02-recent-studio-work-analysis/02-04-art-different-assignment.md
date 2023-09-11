@@ -1,7 +1,7 @@
 ---
 title: 02.04 Art Different Assignment
 date: 2023-09-11T12:00:00
-lastmod: 2023-09-11T11:46:58
+lastmod: 2023-09-11T14:05:54
 ---
 
 ## Assignment Deliverables
@@ -29,3 +29,7 @@ To avoid this we will begin the semester by questioning our art practice assumpt
    No. You can use any materials. Across the planet you are likely not the only artist working in those materials. It may be a good idea to seek out different materials as a way to distinguish this project from previous work but it is not a requirement.
 2. **Do I need to change the content of the work?**
    No. Many artists can explore form, space, portraiture, climate change, domesticity, and other topics in unique ways. It could be to your benefit to use this project as an opportunity to seek out new subject matter to make work that is more different than your recent work but it is not a requirement.
+3. **I know what I want to do for my BFA. Why do I have to do something different?**
+   It is early in the year. This is not the time to place "restrictions" on your practice based on an eventual exhibition in May. You don't have to change your ideas, concepts or intent. The work should not look like your work but it might have similar content. You can only move your brain so far away from previous thoughts. It is best to push against inertia as much as possible and explore new ideas and methods that will make previous goals better.
+4. **Can I just through a bunch of nails (_or other material_) around on the ground and call it an installation since that would be different from my work?**
+   Sure you can, but the work still needs to be good and well thought out. You can depart heavily from current practice but it should still involve effort and deliberative decision making.
