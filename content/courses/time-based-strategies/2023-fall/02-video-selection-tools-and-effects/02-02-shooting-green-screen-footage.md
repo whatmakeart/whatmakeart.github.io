@@ -1,5 +1,7 @@
 ---
 title: 02.02 Shooting Green Screen Footage
+date: 2023-09-05T11:02:41
+lastmod: 2023-09-11T09:37:26
 ---
 
 A green screen is a useful tool for shooting footage designed for chroma keying.
