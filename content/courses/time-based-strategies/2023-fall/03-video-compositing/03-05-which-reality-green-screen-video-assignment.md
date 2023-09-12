@@ -1,8 +1,15 @@
 ---
-title: Green Screen Video Assignment
+title: 03.05 Which Reality Green Screen Video Assignment
 date: 2023-09-12T09:00:00
-lastmod: 2023-09-12T08:59:02
+lastmod: 2023-09-12T10:58:38
 ---
+
+## Assignment Deliverables
+
+- Exported H.264 .mp4 - maximum 30 - 60 seconds long video file of project (.mp4)
+  - label file YYYYMMDD Lastname Firstname Which Reality Video Project.mp4
+- Brief written description of the project and creative decisions made (.pdf)
+  - label file YYYYMMDD Lastname Firstname Which Reality Video Project Description.pdf
 
 ## Concepts to Consider
 
@@ -10,7 +17,11 @@ Once video is separated from the background with a green screen or other masking
 
 ### Scale
 
+Changing the scale of the character, objects, or environment can have dramatic effects on the viewer's perception of your conent. For dramatic changes in scale, such as shrinking a person down or turn a person into a giant, it is important to use the concepts of perspective. For example, when shooting a "giant" move the camera as low as possible so that the camera is looking up at the person from a "worm's eye view". This will make it more believable since if there was a giant in reality we would have to look up to see it.
+
 ### Changing Place or Environment
+
+Removing the original context by changing the depiticed place or environment can make new associations with your content. An environment can change within the same shot or on transisions. Multiple environments can be combined
 
 ### Subtracted or Negative Space
 
