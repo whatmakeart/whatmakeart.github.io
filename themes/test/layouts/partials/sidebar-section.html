@@ -3,11 +3,10 @@
     {{ range .Pages.ByTitle }}
       {{ if .IsNode }}
         <li class="mb-1">
-          <!-- test if only top shows replaced collapsed with show -->
           <button
-            class="btn d-inline-flex align-items-center rounded show"
+            class="btn d-inline-flex align-items-center rounded collapsed"
             type="button"
-            data-bs-toggle="show"
+            data-bs-toggle="collapse"
             data-bs-target="#{{ .Title | urlize }}"
             aria-expanded="false"
             aria-controls="{{ .Title | urlize }}"

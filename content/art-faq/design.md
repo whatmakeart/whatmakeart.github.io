@@ -1,7 +1,7 @@
 ---
 title: Design
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:36:53
+lastmod: 2023-09-12T06:17:21
 ---
 
 Design is an important process in making anything. Design can be good or bad. The term has different meanings depending on the context. It can refer to the process of making a design or designing an object. It can also mean the final design of the image or object.
@@ -14,7 +14,7 @@ The two most important principles of design are variety and unity. These exist o
 2. Motion
 3. Rhythm
 4. Flow
-5. Repetition
+5. Repetition - can add unity, structure, and emphasis to a visual composition
 6. Unity
 7. Variety
 8. Balance
