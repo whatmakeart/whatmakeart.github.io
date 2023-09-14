@@ -1,6 +1,7 @@
 ---
 title: 01.03 Site Visit
 date: 2023-08-25T09:30:00Z
+lastmod: 2023-09-14T13:20:37
 ---
 
 A site visit is an important step in a custom or site specific installation project. Before a site visit one will likely have floorplans and / or site plans for the space or location. Plans accompanied by photographs, video, and potentially 3D models can give a good sense of the space but there is no substitute to physically visiting a location.

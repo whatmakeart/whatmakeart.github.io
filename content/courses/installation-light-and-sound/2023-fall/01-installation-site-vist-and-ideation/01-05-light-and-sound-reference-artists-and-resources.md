@@ -1,6 +1,7 @@
 ---
 title: 01.05 Light and Sound Reference Artists and Resources
 date: 2023-08-25T09:30:00Z
+lastmod: 2023-09-14T13:20:45
 ---
 
 <div class="two-column-grid-wrapper">

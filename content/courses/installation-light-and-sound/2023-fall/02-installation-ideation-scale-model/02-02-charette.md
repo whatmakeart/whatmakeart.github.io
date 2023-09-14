@@ -1,5 +1,7 @@
 ---
 title: 02.02 Charette
+date: 2023-09-01T09:30:00Z
+lastmod: 2023-09-14T13:21:40
 ---
 
 ## What is a Charette?

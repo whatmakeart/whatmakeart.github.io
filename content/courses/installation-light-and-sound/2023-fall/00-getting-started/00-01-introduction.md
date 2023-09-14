@@ -1,6 +1,7 @@
 ---
 title: 00.01 Introduction
 date: 2023-08-23T09:30:00Z
+lastmod: 2023-09-14T13:20:06
 description: Art installation course introduction to installation art
 ---
 

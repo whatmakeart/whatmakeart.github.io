@@ -1,5 +1,7 @@
 ---
 title: 02.03 Controlling Light
+date: 2023-09-01T09:30:00Z
+lastmod: 2023-09-14T13:21:48
 ---
 
 ## Ways of Controlling Light
@@ -8,7 +10,7 @@ title: 02.03 Controlling Light
 - Off the shelf motion detectors
 - Off the shelf timers
 - Internet of Things "smart" switches
-- Microcontrollers and computers (Arduino & Raspberry Pi)
+- Microcontrollers and computers ([Arduino](../../../../arduino/arduino-introduction.md) & Raspberry Pi)
 - Dedicated LED control modules
 - DMX lighting controls
 
@@ -17,4 +19,4 @@ title: 02.03 Controlling Light
 - Standard Light Bulbs
 - LED Strips
 - LED Pixels
-- Addressable vs non-addressable LEDs
+- [Addressable LEDs](../../.././../electronics/addressable-leds.md)

@@ -1,5 +1,7 @@
 ---
 title: 02.06 Visiting Artist Work Review and Questions
+date: 2023-09-01T09:30:00Z
+lastmod: 2023-09-14T13:22:00
 ---
 
 ## Assignment Deliverables
