@@ -16,3 +16,14 @@ Preparations for the first visit of Hepp Maccoy next week include preparing to p
 2. Make note of what you find interesting
 3. Add pictures and links as needed.
 4. Write a minimum of 5 questions that you have for Hepp.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Objective                             | Points |
+| ------------------------------------- | ------ |
+| Description and Review of Hepp's Work | 25     |
+| 5 Questions for Hepp                  | 25     |
+
+</div>

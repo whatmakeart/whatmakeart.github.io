@@ -1,7 +1,7 @@
 ---
 title: 03.02 Visiting Artist Work Review and Questions
 date: 2023-09-08T09:30:00
-lastmod: 2023-09-14T12:43:46
+lastmod: 2023-09-14T13:00:50
 ---
 
 ## Assignment Deliverables
@@ -18,3 +18,14 @@ Preparations for the first visit of Raúl Romero next week include preparing to 
 2. Make note of what you find interesting
 3. Add pictures and links as needed.
 4. Write a minimum of 5 questions that you have for Raúl.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Objective                             | Points |
+| ------------------------------------- | ------ |
+| Description and Review of Raúl's Work | 25     |
+| 5 Questions for Raúl                  | 25     |
+
+</div>
