@@ -19,12 +19,3 @@ Motion tracking is a fundamental tool for manipulating video footage. Plan out a
 The backgrounds and environments for the shots can be related visually or unrelated. Think about the angle and composition of the background and lighting before framing shot. If using a green screen in footage that is added to the motion tracked shots, key out the green screen and use Premiere Pro or After Effects to make the composite.
 
 Edit the different shots together and export as a single video. Sound is not required.
-
-### Possible Experiments
-
-- Try an "over the shoulder composite" with your double
-- Have chroma keyed characters interact
-- Rotoscope a character or object from [public domain](../../../../copyright/public-domain.md) found footage and have the chroma keyed subject interact with them
-- Have the subject move in the shot
-- Shoot your own background environments
-- Use rotoscoping to separate the layers of fund footage so your green screen subject can be "in" the composite shot
