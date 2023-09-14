@@ -38,5 +38,6 @@ After collaborating with your peers in a charette process to identify priorities
 | Group's 1/24 scale model cohesiveness  | 20     |
 | Simulated Gallery Photos               | 20     |
 | Group installation Slide Presentation  | 20     |
+| File Management + Labeling             | 10     |
 
 </div>

@@ -1,5 +1,7 @@
 ---
 title: Raúl Romero Introduction
+date: 2023-09-08T09:30:00
+lastmod: 2023-09-14T12:43:42
 ---
 
 <div class="gallery-grid">

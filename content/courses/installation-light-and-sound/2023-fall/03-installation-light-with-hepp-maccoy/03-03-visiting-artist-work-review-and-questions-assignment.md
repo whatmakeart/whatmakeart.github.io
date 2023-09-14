@@ -1,5 +1,7 @@
 ---
 title: 03.02 Visiting Artist Work Review and Questions
+date: 2023-09-08T09:30:00
+lastmod: 2023-09-14T12:43:46
 ---
 
 ## Assignment Deliverables
