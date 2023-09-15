@@ -1,5 +1,7 @@
 ---
 title: 00.03 Course Links
+date: 2023-08-29T09:00:00Z
+lastmod: 2023-09-15T05:53:25
 ---
 
 ## Reference Artists
@@ -38,7 +40,7 @@ title: 00.03 Course Links
 - [Dara Birnbaum](https://en.wikipedia.org/wiki/Dara_Birnbaum)
 - [Candice Breitz](https://www.candicebreitz.net/)
 - [Bruce Nauman](https://en.wikipedia.org/wiki/Bruce_Nauman)
-- [Ant Farm](https://en.wikipedia.org/wiki/Ant_Farm_(group))
+- [Ant Farm](<https://en.wikipedia.org/wiki/Ant_Farm_(group)>)
 - [Cory Arcangel](https://coryarcangel.com/)
 - [Chip Lord](http://chiplord.net/)
 - [Howard Fried](https://en.wikipedia.org/wiki/Howard_Fried)

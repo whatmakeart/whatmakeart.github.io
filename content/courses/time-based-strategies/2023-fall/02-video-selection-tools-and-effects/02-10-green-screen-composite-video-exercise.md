@@ -1,5 +1,7 @@
 ---
 title: 02.10 Green Screen Composite Video Exercise
+date: 2023-09-05T09:00:00Z
+lastmod: 2023-09-15T05:55:04
 ---
 
 ## Assignment Deliverables

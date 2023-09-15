@@ -1,8 +1,7 @@
 ---
-title: 03.07
-  Which Reality Green Screen Video Assignment
+title: 03.07 Which Reality Green Screen Video Assignment
 date: 2023-09-12T09:00:00
-lastmod: 2023-09-13T16:56:46
+lastmod: 2023-09-15T05:57:44
 ---
 
 ## Assignment Deliverables
@@ -41,4 +40,4 @@ Removing the original context by changing the depicted place or environment can 
 
 ### Use Motion Tracking and Camera Tracking
 
-- Green screen shots are easiest to composite when done with a static camera on a tripod, but this can create less dynamic shots than if the camera was moving. One can simply have camera movement but this will likely make the footage bounce around in the viewport. A better way is to motion track the footage so that other objects and footage composited into the scene track along with the green screen footage. This can range in complexity from a simple pan track or a swirling 3D motion track.
+Green screen shots are easiest to composite when done with a static camera on a tripod, but this can create less dynamic shots than if the camera was moving. One can simply have camera movement but this will likely make the footage bounce around in the viewport. A better way is to motion track the footage so that other objects and footage composited into the scene track along with the green screen footage. This can range in complexity from a simple pan track or a swirling 3D motion track.

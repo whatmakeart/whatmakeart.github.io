@@ -1,5 +1,7 @@
 ---
 title: 02.11 Abstract Video Research and Ideation Assignment
+date: 2023-09-05T09:00:00Z
+lastmod: 2023-09-15T05:55:09
 ---
 
 ## Assignment Deliverables
@@ -10,3 +12,5 @@ title: 02.11 Abstract Video Research and Ideation Assignment
 ## Overview
 
 Review the artists and videos on the [Abstract Video](./02-09-abstract-video.md) page in this module. Watch the videos, visit the artists' websites, go down algorithmic rabbit holes on YouTube and Vimeo. Make notes about what you find interesting and why. Then use this as the basis for developing your own ideas and ideation about future abstract video creations.
+
+Draw frames and compositions of potential abstract videos. Think about abstract images in sequence using storyboards to depict your ideas.

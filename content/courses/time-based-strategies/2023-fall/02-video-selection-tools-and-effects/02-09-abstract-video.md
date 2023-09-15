@@ -1,5 +1,7 @@
 ---
 title: 02.09 Abstract Video
+date: 2023-09-05T09:00:00Z
+lastmod: 2023-09-15T05:55:01
 ---
 
 ## Historical Abstract Video Influences and Artists
