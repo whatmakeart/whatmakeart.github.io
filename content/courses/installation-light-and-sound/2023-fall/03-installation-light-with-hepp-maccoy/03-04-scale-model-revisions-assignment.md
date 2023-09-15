@@ -1,7 +1,7 @@
 ---
 title: 03.04 Scale Model Revisions Assignment
 date: 2023-09-08T09:30:00
-lastmod: 2023-09-14T13:18:10
+lastmod: 2023-09-15T06:16:55
 ---
 
 ## Assignment Deliverables
@@ -25,7 +25,7 @@ Use the restrictions of the space and the combination of ideas as a creative cat
 
 We will likely use quite a number of LED strip lights. Now that you know what these look like and their approximate size, build them into the model. Simulate built structures that have diffusing membranes.
 
-** Remember - If you can't make a simple representation of something out of hot glue and cardboard, then it is likely difficult to build for real. **
+**Remember - If you can't make a simple representation of something out of hot glue and cardboard, then it is likely difficult to build for real.**
 
 Each student should take 3 new simulated gallery photos from within the model. Use a small camera such as your cellphone. Take 1 photo of each of the other group's ideas you incorporated into the model as well as a third photo of your choice.
 

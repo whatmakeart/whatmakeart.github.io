@@ -1,7 +1,7 @@
 ---
 title: 02.01 Introduction
 date: 2023-09-01T09:30:00Z
-lastmod: 2023-09-14T13:21:36
+lastmod: 2023-09-15T06:16:33
 ---
 
 ## Overview
@@ -15,7 +15,7 @@ After an initial site visit and an ideation process the ideas from multiple stak
 - Use the Charette process to develop consensus among multiple stakeholders
 - Work with physical scale model of installation site and build scale prototypes
 - Refine ideations and identify requirements to physically realize the installation
-- Prepare for site visit with visiting artist [Hepp Maccoy](./hepp-maccoy.md)
+- Prepare for site visit with visiting artist [Hepp Maccoy](./02-03-hepp-maccoy.md)
   - Develop list of technical questions
   - Prepare presentation of ideations and installation concepts
 
