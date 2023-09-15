@@ -1,7 +1,7 @@
 ---
-title: 02.02 Hepp Maccoy Introduction
+title: 02.03 Hepp Maccoy Introduction
 date: 2023-09-01T09:30:00Z
-lastmod: 2023-09-14T13:21:44
+lastmod: 2023-09-15T06:24:24
 ---
 
 [Hepp Maccoy](https://heppmaccoy.com/) is a full-stack developer and artist specializing in interactive installations that often feature LEDs, sound and other interactive technology. Hepp's technical skills have been deployed in diverse situations ranging from fire breathing LED art cars at Burning Man to technical collaborations with studios for large brands such as Nike.

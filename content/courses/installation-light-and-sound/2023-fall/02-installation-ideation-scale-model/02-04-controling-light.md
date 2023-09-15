@@ -1,7 +1,7 @@
 ---
-title: 02.03 Controlling Light
+title: 02.04 Controlling Light
 date: 2023-09-01T09:30:00Z
-lastmod: 2023-09-14T13:21:48
+lastmod: 2023-09-15T06:24:24
 ---
 
 ## Ways of Controlling Light

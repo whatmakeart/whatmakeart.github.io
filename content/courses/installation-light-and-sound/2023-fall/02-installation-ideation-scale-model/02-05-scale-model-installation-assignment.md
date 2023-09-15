@@ -1,7 +1,7 @@
 ---
-title: Scale Model of Installation
+title: 02.05 Scale Model of Installation
 date: 2023-09-01T09:30:00Z
-lastmod: 2023-09-14T13:21:53
+lastmod: 2023-09-15T06:24:24
 ---
 
 ## Assignment Deliverables
