@@ -1,7 +1,7 @@
 ---
 title: Green Screen Video Art
 date: 2023-09-12T09:00:00
-lastmod: 2023-09-12T11:55:07
+lastmod: 2023-09-19T10:28:17
 ---
 
 ## Green Screen Video Art
@@ -14,6 +14,7 @@ lastmod: 2023-09-12T11:55:07
 - [Will Rawls](https://will-rawls.com/)
 
 <div class="video-grid">
+
 <div class="video-card">
 
 Zbig Rybcynski - _Tango_
@@ -26,7 +27,8 @@ Zbig Rybcynski - _Tango_
 
 Will Rawls _Siccer_
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/DZiF6XOKCFs?si=Iu_bnzDUkBKppw2J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/DZiF6XOKCFs?si=Iu_bnzDUkBKppw2J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 </div>
 
 <div class="video-card">
@@ -34,8 +36,8 @@ Will Rawls _Siccer_
 Rachel Maclean _GENERATION_
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7OaT3F_vnzg?si=2tV8LgxFXlE-kiMi&amp;start=17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div
-></div>
+</div>
+</div>
 
 <div class="video-card">
 
@@ -86,28 +88,51 @@ Video content created for music videos is often more innovative and experimental
 _\* Some videos can not be "embedded" but can be watched on YouTube by clicking on the respective links_
 
 <div class="video-grid">
+
+<div class="video-card">
+
 Herve Pagez & Diplo - Spicy
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/hvjytRyt27c?si=wklfYAiaz3a2BBD9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div><div class="video-card">
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/hvjytRyt27c?si=wklfYAiaz3a2BBD9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 Hobo Johnson - Uglykid
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/-nGdSBfSnE4?si=BzZPthaM6RHUKZBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div><div class="video-card">
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/-nGdSBfSnE4?si=BzZPthaM6RHUKZBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
 
 Atarashi Gakko - Candy
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/0Cz8CjLq0fQ?si=imWkLVn9bQ74NbEY&amp;start=828" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div><div class="video-card">
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/0Cz8CjLq0fQ?si=imWkLVn9bQ74NbEY&amp;start=828" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
 
 Ed Sheeran & Justin Bieber - I don't Care
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/y83x7MgzWOA?si=GyBuEfg4-Wsk5fBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div><div class="video-card">
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/y83x7MgzWOA?si=GyBuEfg4-Wsk5fBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
 
 Mac Miller - Good News
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/aIHF7u9Wwiw?si=KrBj9i2G4LtqeF-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div><div class="video-card">
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/aIHF7u9Wwiw?si=KrBj9i2G4LtqeF-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
 
 Mac Miller - Surf
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/blYo4WheVgA?si=_0h0M-mRSoeYlgC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/blYo4WheVgA?si=_0h0M-mRSoeYlgC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 </div>
