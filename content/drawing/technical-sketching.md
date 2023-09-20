@@ -59,7 +59,7 @@ Nothing more than a pencil, paper, and often an eraser is needed to make technic
 - 45 triangle
 - straight edge
 - scaled rulers
-- measuring device such as digital calipers or rulers
+- measuring device such as [digital calipers](../making/how-to-use-digital-calipers.md) or rulers
 
 <div class="video-grid">
 

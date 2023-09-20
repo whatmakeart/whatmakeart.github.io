@@ -71,7 +71,7 @@ The following materials are not required for the course but may be useful to you
 - Compass for drawing circles
 - 3 Button Mouse – Attached to Lab computers but recommended for working on your laptop
 - Low tack tape to hold drawing paper to board
-- Digital Calipers - May purchase your own or use the digital calipers in the Fab Studios
+- Digital Calipers - May purchase your own or use the [digital calipers](../../../../making/how-to-use-digital-calipers.md) in the Fab Studios
 - Isometric Graph Paper (Has triangles instead of squares)
 - Square Graph Paper
 

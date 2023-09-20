@@ -33,7 +33,7 @@ With 3D printing objects can be created that would not be possible with other fa
 
 ### Fit a real world object(s)
 
-For 3D prints to have a function beyond decoration they must interact with the environment. Often that means attaching to a specific object or enclosing a specific object. For this design challenge use digital calipers to measure an object from the world. Then design a 3D print to add functionality or decoration or both to the object. Does your pencil need a top hat wearing rubber ducky that fits on top? Need a custom headphone holder for your desk?
+For 3D prints to have a function beyond decoration they must interact with the environment. Often that means attaching to a specific object or enclosing a specific object. For this design challenge [use digital calipers](../../../../making/how-to-use-digital-calipers.md) to measure an object from the world. Then design a 3D print to add functionality or decoration or both to the object. Does your pencil need a top hat wearing rubber ducky that fits on top? Need a custom headphone holder for your desk?
 
 ### Have an interlocking lid
 

@@ -22,7 +22,7 @@ Design is a process of iteration and improvement. There are likely places where 
 
 ## Check your Plywood Thickness
 
-Measure your plywood with digital calipers. You can use a piece from your laser cut test. It might be close but the thickness is likely different than what you used for your user parameter in Fusion 360. Update your user parameter to match so you have joints that fit and are even. This is especially important for thicker pieces of plywood.
+Measure your plywood with [digital calipers](../../making/how-to-use-digital-calipers.md). You can use a piece from your laser cut test. It might be close but the thickness is likely different than what you used for your user parameter in Fusion 360. Update your user parameter to match so you have joints that fit and are even. This is especially important for thicker pieces of plywood.
 
 It is a good idea to temporarily make the "ply" parameter much larger to double check that you used the user parameter throughout your model everyplace "ply" was needed. It is easy to accidentally type the actual dimension rather that using the user parameter. You want to check this before cutting. If you put in a larger number and you notice one piece doesn't change, then that is an indication that you did not use the parameter on that dimension. Go back and change it. [Changing Plywood Thickness in Fusion 360 video demo.](https://www.youtu.be/a7HOiBC_81s)
 

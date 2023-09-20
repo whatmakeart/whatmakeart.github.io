@@ -42,7 +42,7 @@ In the AWG system a smaller number indicates a bigger wire, so a #1 wire is much
 
 ## Home Wiring
 
-In the United States, household wiring is typically 14 AWG or 12 AWG. This is commonly denoted by the outside installation color of yellow for 12 AWG and white for 14 AWG but that has not always been the case. Always check the writing on the insulation of a particular wire or measure it with calipers to determine it's size.
+In the United States, household wiring is typically 14 AWG or 12 AWG. This is commonly denoted by the outside installation color of yellow for 12 AWG and white for 14 AWG but that has not always been the case. Always check the writing on the insulation of a particular wire or measure it with [digital calipers](../making/how-to-use-digital-calipers.md) to determine it's size.
 
 ## Electronics Wiring
 

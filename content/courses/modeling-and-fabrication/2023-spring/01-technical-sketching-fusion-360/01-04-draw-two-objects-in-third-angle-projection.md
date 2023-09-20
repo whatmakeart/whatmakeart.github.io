@@ -17,7 +17,7 @@ Label the files:
 
 1. Select two objects of reasonable size and complexity. You do not want super tiny objects or mega huge objects. You also don't want objects that are a simple square or objects made of hundreds of intricate parts.
 
-2. Use digital calipers and rulers to get the dimensions of the objects. Write these dimensions down in your notes. Use mm for your units.
+2. Use digital calipers and rulers to get the dimensions of the objects. Write these dimensions down in your notes. Use mm for your units. [How to use digital calipers.](../../../../making/how-to-use-digital-calipers.md)
 
 3. Using loose sheets of paper, <span>not</span> in your sketchbooks, draw the two objects that you selected in third angle projection. Draw one third angle projection freehand and one with drawing tools.
 
