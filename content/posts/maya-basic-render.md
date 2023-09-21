@@ -15,7 +15,7 @@ spellcheck: off
 
 ## How to Create a Photo Swoop in Autodesk Maya and Export a Render Image
 
-In this Autodesk Maya tutorial, I will show you how to create a photo swoop quickly and easily. I will also show you how to export a render image of your scene.
+In this [Autodesk Maya ](../3d-modeling/maya/maya.md)tutorial, I will show you how to create a photo swoop quickly and easily. I will also show you how to export a render image of your scene.
 
 ## Step 1: Create a Photo Swoop
 
