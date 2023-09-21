@@ -1,7 +1,7 @@
 ---
-title: Sound in an Installation
+title: 04.04 Central Gallery Pillar Ideation
 date: 2023-09-15T09:30:00
-lastmod: 2023-09-21T13:50:35
+lastmod: 2023-09-21T14:01:38
 ---
 
 ## Assignment Deliverables
