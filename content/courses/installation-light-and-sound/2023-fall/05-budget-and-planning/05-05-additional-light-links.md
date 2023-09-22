@@ -1,5 +1,7 @@
 ---
-title: Additional Light Links
+title: 05.05 Additional Light Links
+date: 2023-09-22T09:30:00
+lastmod: 2023-09-22T12:53:52
 ---
 
 [Light Meets Movement With A Minimum Of Parts | Hackaday](https://hackaday.com/2023/06/15/light-meets-movement-with-a-minimum-of-parts/)
