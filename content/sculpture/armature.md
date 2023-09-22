@@ -10,4 +10,4 @@ Armatures give support to a [sculpture](./sculpture.md) in progress. Sometimes a
 
 A variety of materials can be used to make an armature. Some armatures are designed to be removed before completion of the work and others remain permanently. An armature can be a simple a a balloon for making [paper mache](./paper-maché.md) masks or as complex as a support architecturally scaled public art installation that needs to meet strict engineering standards.
 
-For quickly mocking uo ideas, cardboard and hot glue cane make lightweight, cheap and relatively sturdy armatures. Various tools can be used to cut cardboard cleanly.
+For quickly mocking up ideas, cardboard and hot glue can make lightweight, cheap and relatively sturdy armatures. Various tools can be used to cut cardboard cleanly.

@@ -17,7 +17,7 @@ lastmod: 2023-09-22T18:26:16
 
 Review your notes from class regarding [central pillar ideation](https://drive.google.com/drive/folders/1xP8o_I8yndh2bfj7vGLDQz9NyBYHJFDw), LED placement, pixel mapping, and discussions with Hepp. The group formed a consensus around the general concept of "Big Tree" as well as the "3 Turns." Review the [ideation sketches linked here](https://drive.google.com/drive/folders/1xP8o_I8yndh2bfj7vGLDQz9NyBYHJFDw), to refresh you memory about your ideas as well as your peers ideas. Be true to the concept but take risks and experiment as well.
 
-Remember that the elevator is 47" wide, so everything needs to be narrower than that. The plan is to make pieces that slot together to form a greater whole. Make sure to leave space for attachment points as well as steel armature reinforcement.
+Remember that the elevator is 47" wide, so everything needs to be narrower than that. The plan is to make pieces that slot together to form a greater whole. Make sure to leave space for attachment points as well as steel [armature](../../../../sculpture/armature.md) reinforcement.
 
 Post updates and photos to the [class group fabrication discussion thread](https://cia.instructure.com/courses/719/discussion_topics/2156). This way we can keep track of what everyone is doing.
 
@@ -25,7 +25,7 @@ Post updates and photos to the [class group fabrication discussion thread](https
 
 - Bushes with seat?
 - Benches?
-- Roots - can start adding pper mache but leave hole for steel
+- Roots - can start adding [paper-maché](../../../../sculpture/paper-maché.md)but leave hole for steel
 - Human Elements
   - Benches
   - Wall facade
