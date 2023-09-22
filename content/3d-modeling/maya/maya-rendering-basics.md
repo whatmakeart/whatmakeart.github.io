@@ -1,7 +1,7 @@
 ---
 title: Maya Rendering Basics
 date: 2023-06-14T13:49:46
-lastmod: 2023-09-07T20:31:52
+lastmod: 2023-09-22T07:37:39
 ---
 
 ## Maya Rendering
@@ -12,7 +12,7 @@ To render an object there needs to be light. Add lights just as you would with a
 
 Often the power of lights needs to be turned up tremendously to be able light the scene due to light fall off.
 
-[![Maya two light setup](./2023-maya-two-light-setup.png)](./2023-maya-two-light-setup.png)
+[![Maya two light setup](./attachments/2023-maya-two-light-setup.png)](./attachments/2023-maya-two-light-setup.png)
 
 - [Maya Basic Render](https://youtu.be/9RHh4OSPKQQ)
 - [Maya Infinite Photo Backdrop](https://youtu.be/y2ylWfbrC58)

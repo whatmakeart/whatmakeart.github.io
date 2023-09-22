@@ -1,7 +1,7 @@
 ---
 title: Maya 3D Modeling Basics
 date: 2023-06-16T05:44:28
-lastmod: 2023-09-07T20:31:32
+lastmod: 2023-09-22T07:37:39
 ---
 
 ## Maya Quick Start
@@ -10,7 +10,7 @@ The official online [Maya Learning Documentation](https://knowledge.autodesk.com
 
 ## Maya Keyboard Shortcuts [^1]
 
-[![Maya Keyboard Shortcuts](2023-autodesk-maya-one-key-shortcuts-hotkeys-1600x1206.jpg)](2023-autodesk-maya-one-key-shortcuts-hotkeys-1600x1206.jpg)
+[![Maya Keyboard Shortcuts](attachments/2023-autodesk-maya-one-key-shortcuts-hotkeys-1600x1206.jpg)](attachments/2023-autodesk-maya-one-key-shortcuts-hotkeys-1600x1206.jpg)
 
 ### Essential Maya Keyboard Shortcuts
 
