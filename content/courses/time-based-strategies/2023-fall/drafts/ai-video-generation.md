@@ -1,5 +1,6 @@
 ---
 title: AI Video Generation
+draft: true
 ---
 
 https://huggingface.co/spaces/fffiloni/zeroscope

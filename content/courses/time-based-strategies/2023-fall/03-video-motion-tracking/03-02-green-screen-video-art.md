@@ -1,7 +1,7 @@
 ---
-title: Green Screen Video Art
+title: 03.02 Green Screen Video Art
 date: 2023-09-12T09:00:00
-lastmod: 2023-09-19T10:28:17
+lastmod: 2023-09-23T17:06:19
 ---
 
 ## Green Screen Video Art
@@ -43,7 +43,7 @@ Rachel Maclean _GENERATION_
 
 Jennet Thomas _Animal Condensed>Animal Expanded #1 Trailer_
 
-<div class="iframe-16-9-container"><iframe loading="lazy" src="https://player.vimeo.com/video/182566114?app_id=122963" width="625" height="352" frameborder="0" title="Animal Condensed>Animal Expanded #1 Trailer" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
+<div class="iframe-16-9-container"><iframe class="vimeoIframe"  loading="lazy" src="https://player.vimeo.com/video/182566114?app_id=122963" width="625" height="352" frameborder="0" title="Animal Condensed>Animal Expanded #1 Trailer" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
 </div>
 </div>
 
@@ -51,7 +51,7 @@ Jennet Thomas _Animal Condensed>Animal Expanded #1 Trailer_
 
 Heather Phillipson _Splashy Phasings_
 
-<div class="iframe-16-9-container"><iframe src="https://player.vimeo.com/video/73709932?h=d47e36752c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="vimeoIframe" src="https://player.vimeo.com/video/73709932?h=d47e36752c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
 

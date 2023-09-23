@@ -1,7 +1,7 @@
 ---
-title: 03.07 Which Reality Green Screen Video Assignment
+title: 03.08 Which Reality Green Screen Video Assignment
 date: 2023-09-12T09:00:00
-lastmod: 2023-09-15T06:15:58
+lastmod: 2023-09-23T17:21:02
 ---
 
 ## Assignment Deliverables
