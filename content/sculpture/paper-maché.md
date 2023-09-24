@@ -2,7 +2,7 @@
 title: Paper Maché
 ---
 
-Paper Maché uses strips and / or wads of paper coated in a sticky glue paste. It is a fast and cheap way to build up solid or hollow forms. The coated paper is draped over shaped forms or bunched up into dense solid shapes. The paper becomes hard and stiff as it dries. Once dry multiple layers of paper are applied to create a thick enough shell that it can support its own weight or other objects used in the design. Use an [armature](../sculpture/armature.md)to quickly build larger forms. Once dry, the forms can be painted.
+Paper Maché uses strips and / or wads of paper coated in a sticky glue paste. It is a fast and cheap way to build up solid or hollow forms. The coated paper is draped over shaped forms or bunched up into dense solid shapes. The paper becomes hard and stiff as it dries. Once dry multiple layers of paper are applied to create a thick enough shell that it can support its own weight or other objects used in the design. Use an [armature](../sculpture/armature.md) to quickly build larger forms. Once dry, the forms can be painted.
 
 Paper maché paste has many different recipes and formulations. The fastest way to make a paste is to mix some flour and water together. A bit more involved method is to combine flour and boiling water and cook it a bit while stirring. This makes the paste a bit stronger and cooked paste will dry smooth and clear on the surface while uncooked paste will leave a flour residue. Salt can be added to the flour mixtures to help prevent mold and pests. Giving the paper maché layers ample time to dry in between coats will also help prevent mold by not trapping moisture inside the form. Some people add a bit of white [pva-glue](../woodworking/pva-glue.md) to the paste mixture to add strength.
 
@@ -14,7 +14,7 @@ Making paper maché is fast, easy, and does not require specialized equipment or
 
 ### Equipment Needed
 
-- Flour or methyl Cellulose
+- Flour or Methyl Cellulose
 - water
 - mixing container
 - wisk or spoon
@@ -32,9 +32,17 @@ Making paper maché is fast, easy, and does not require specialized equipment or
 5. Stir with a wisk or spoon until all the lumps are gone and constancy is smooth
 6. Use paste right away and do not keep
 
-### Raw (Uncooked) Paste Mixing Instructions
+### Methyl Cellulose Mixing Instructions
 
-### Application Instructions
+Elmer's Art Paste and other commercial paper maché formulations used methyl cellulose.
+
+1. Dissolve ~4oz or ~ 5 tablespoons of methyl cellulose into ~1 cup of boiling water
+2. Mix completely
+3. Add ~3 cups of cool water to thin, continue to add cold water until proper consistency is reached
+4. Let stand for a few hours, or if possible overnight.
+5. Store in an airtight container
+
+## Paper Maché Application Instructions
 
 1. Cut strips of paper, newspaper works well
 2. Dip the strips of paper into the paste coating both sides fully
