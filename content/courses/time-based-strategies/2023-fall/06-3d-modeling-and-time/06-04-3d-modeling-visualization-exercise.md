@@ -1,5 +1,7 @@
 ---
 title: 3D Modeling Visualization Exercise
+date: 2023-10-02T09:00:00
+lastmod: 2023-09-24T12:09:24
 ---
 
 Sketching, testing, and visualizing ideas before making them is often an efficient way to iterate and make concepts better be spending time and money to create them
