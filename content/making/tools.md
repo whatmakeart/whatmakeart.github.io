@@ -59,15 +59,32 @@ To get started with making you need some tools. At a minimum you need a pencil a
 - Wire Crimper
 - Wire Cutter
 - Twist on Wire Connectors
-
--Hand Tools-
-
-Small Staple Gun (x2) Hand plainer Chalk line 3/8 – 1 ½ paddle bit set hole saw kit glue gun (x2) assortment of driver bits pry bar putty knife (assorted x10) putty tray x2 ratchet set assortment of drill bits (2 sets with missing bits) assorted allan wrenches claw hammer (x2) small sledge hammer pin hammer tape measurer mallets (assorted x7) screw drivers (assorted) pliers (assorted x6) combination wrench rivetors (x2) chisels (assorted) metal snips (x4) utility knife (x2) scissors speed square (x2) calipers straight edge (assorted) files (assorted) hand saw (assorted x4)
-
 ### Metalworking Tools
 
-C-vice grips Vice grips Corner magnets Wire brush C-clamps Metal Files Hammers Pliers table clamp bolt cutters pipe wrench air tools Angle Grinder 10GA Nibbler 18GA Shears Anvil
+- C-vice grips 
+- Vice grips 
+- Corner magnets 
+- Wire brush 
+- C-clamps 
+- Metal Files 
+- Hammers 
+- Pliers 
+- table clamp
+- bolt cutters 
+- pipe wrench 
+- air tools 
+- Angle Grinder 
+- 10GA Nibbler 
+- 18GA Shears Anvil
 
 #### Metalworking Protective Equipment
 
-Welding Viewer Mask Welding Masks Face guards Leather Apron Long Sleeve Shirt Leather Coat Shin/ankle cover (x2 sets) Leather arm covers wrist covers (x1 set) welding gloves handling gloves
+- Welding Viewer Mask 
+- Welding Masks 
+- Face guards 
+- Leather Apron 
+- Long Sleeve Shirt 
+- Leather Coat 
+- Shin/ankle cover 
+- Leather arm covers wrist covers 
+- welding gloves handling gloves
