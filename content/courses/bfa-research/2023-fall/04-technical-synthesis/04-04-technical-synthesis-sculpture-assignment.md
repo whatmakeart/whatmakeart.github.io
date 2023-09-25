@@ -1,7 +1,7 @@
 ---
 title: 04.04 Technical Synthesis Sculpture Assignment
 date: 2023-09-25T12:00:00
-lastmod: 2023-09-25T15:18:41
+lastmod: 2023-09-25T15:18:53
 ---
 
 ## Assignment Deliverables
@@ -26,6 +26,6 @@ The content and form of the artwork is up to you. You may also use tools and tec
 
 ## Possible Combinations
 
-1 What? + 1 Heard Of + 1 Used Before
-1 What? + 2 Heard Ofs
-3 Whats?
+- 1 What? + 1 Heard Of + 1 Used Before
+- 1 What? + 2 Heard Ofs
+- 3 Whats?
