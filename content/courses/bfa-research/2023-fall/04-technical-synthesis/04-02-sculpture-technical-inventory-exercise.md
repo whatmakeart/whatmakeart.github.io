@@ -1,12 +1,13 @@
 ---
 title: 04.02 Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2023-09-25T06:14:48
+lastmod: 2023-09-25T08:30:09
 ---
 
 Sculpture Processes
 
 <div class="responsive-table-markdown">
+
 | Tools / Equipment                 | What? | Heard of It | Used Before | Comfortable | Expert |
 | --------------------------------- | ----- | ----------- | ----------- | ----------- | ------ |
 | Hand Carder                       |       |             |             |             |        |
