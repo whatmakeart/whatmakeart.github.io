@@ -1,11 +1,12 @@
 ---
 title: 04.02 Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2023-09-25T05:37:55
+lastmod: 2023-09-25T06:14:48
 ---
 
 Sculpture Processes
 
+<div class="responsive-table-markdown">
 | Tools / Equipment                 | What? | Heard of It | Used Before | Comfortable | Expert |
 | --------------------------------- | ----- | ----------- | ----------- | ----------- | ------ |
 | Hand Carder                       |       |             |             |             |        |
@@ -97,6 +98,10 @@ Sculpture Processes
 | Digital Projector                 |       |             |             |             |        |
 | Yarn Swift                        |       |             |             |             |        |
 
+</div>
+
+<div class="responsive-table-markdown">
+
 | Skill / Technique                                         | What? | Heard of It | Used Before | Comfortable | Expert |
 | --------------------------------------------------------- | ----- | ----------- | ----------- | ----------- | ------ |
 | Wood Finishing                                            |       |             |             |             |        |
@@ -150,6 +155,9 @@ Sculpture Processes
 | Chroma Keying                                             |       |             |             |             |        |
 | Multi Channel Audio                                       |       |             |             |             |        |
 
+</div>
+<div class="responsive-table-markdown">
+
 | Material           | What? | Heard of It | Used Before | Comfortable | Expert |
 | ------------------ | ----- | ----------- | ----------- | ----------- | ------ |
 | Fabric             |       |             |             |             |        |
@@ -176,3 +184,5 @@ Sculpture Processes
 |                    |       |             |             |             |        |
 |                    |       |             |             |             |        |
 |                    |       |             |             |             |        |
+
+</div>
