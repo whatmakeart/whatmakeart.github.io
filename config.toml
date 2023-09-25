@@ -2,66 +2,65 @@ baseURL = "https://whatmakeart.com/"
 languageCode = "en-us"
 title = "What Make Art"
 theme = "test"
-enableGitInfo = "true" # allows to get information such as dates from git
+enableGitInfo = "true"               # allows to get information such as dates from git
 timeout = 600000
 Paginate = 18
 googleAnalytics = "G-S4CF1KSMYD"
 enableRobotsTXT = true
 pluralizelisttitles = false
+buildFuture = true
 
 
 [sitemap]
-  changefreq = "daily"
-  priority = 0.5
-  filename = "sitemap.xml"
+changefreq = "daily"
+priority = 0.5
+filename = "sitemap.xml"
 
 [params]
-  description = "Whatmakeart how to make art tutorials"
-  facebook = ""
-  twitter = "https://twitter.com/whatmakeart"
-  instagram = "https://www.instagram.com/whatmakeart/"
-  youtube = "https://www.youtube.com/channel/UCmGXH-jy0o2CuhqtpxbaQgA"
-  github = "https://github.com/whatmakeart/"
-  linkedin = ""
-  mastodon = "https://mstdn.social/@whatmakeart"
-  slack = ""
-  stackoverflow = ""
-  rss = ""
-  GithubEdit = "https://github.com/whatmakeart/whatmakeart.github.io/edit/main/content/"
-  featured_image = "/img/whatmakeart-logo.png"
- 
+description = "Whatmakeart how to make art tutorials"
+facebook = ""
+twitter = "https://twitter.com/whatmakeart"
+instagram = "https://www.instagram.com/whatmakeart/"
+youtube = "https://www.youtube.com/channel/UCmGXH-jy0o2CuhqtpxbaQgA"
+github = "https://github.com/whatmakeart/"
+linkedin = ""
+mastodon = "https://mstdn.social/@whatmakeart"
+slack = ""
+stackoverflow = ""
+rss = ""
+GithubEdit = "https://github.com/whatmakeart/whatmakeart.github.io/edit/main/content/"
+featured_image = "/img/whatmakeart-logo.png"
+
 [params.toc]
-  startLevel = 1      # default is 2
-  endLevel = 6       # default is 3
-  minNumHeadings = 1  # default is 2
+startLevel = 1     # default is 2
+endLevel = 6       # default is 3
+minNumHeadings = 1 # default is 2
 
 [frontmatter]
-  date = ["date", "publishDate", "lastmod"]
-  lastmod = ["lastmod", ":git", "date", "publishDate"]
-  
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+
 [markup.goldmark.renderer]
-  unsafe = true
+unsafe = true
 
 [menu]
 [[menu.main]]
-  name = 'Courses'
-  url = '/courses'
-  weight = 10
+name = 'Courses'
+url = '/courses'
+weight = 10
 [[menu.main]]
-  name = 'Tutorials'
-  url = '/tags/tutorial/'
-  weight = 20
+name = 'Tutorials'
+url = '/tags/tutorial/'
+weight = 20
 [[menu.main]]
-  name = 'Art FAQ'
-  url = '/art-faq'
-  weight = 25
+name = 'Art FAQ'
+url = '/art-faq'
+weight = 25
 [[menu.main]]
-  name = 'Posts'
-  url = '/posts'
-  weight = 30
+name = 'Posts'
+url = '/posts'
+weight = 30
 [[menu.main]]
-  name = 'About'
-  url = '/about'
-  weight = 35
-
-  
+name = 'About'
+url = '/about'
+weight = 35
