@@ -1,10 +1,8 @@
 ---
 title: How to Critique Art
 date: 2021-04-05T08:56:42
-lastmod: 2023-09-07T20:37:10
+lastmod: 2023-09-25T05:55:50
 ---
-
-# Art Critique
 
 ## What is a Critique?
 
@@ -14,7 +12,7 @@ Many [forms of critique](critique-methods.md) exist but for now we will discuss 
 
 We fall into that listing. We have students and instructors - “the experts.” We could also travel outside of that narrow definition as we explore the full range of creative pursuits but in the beginning we will follow more traditional models in order to know what to change.
 
-## Why is this important?
+### Why is this important?
 
 In order to grow and improve we must know what we accomplish well and what we do not. This allows us to begin what Malcolm Gladwell calls “determined practice.” If we do not constantly evaluate our progress with an aim towards improvement then we merely participate in a hobby.
 
@@ -24,11 +22,17 @@ The critique also allows us to objectively evaluate a work without personal bias
 
 ## How do we critique?
 
-The critiques in this class will take various forms but will usually involve a group of students and the instructor verbally discussing work produced for assigned prompts and problems. Therefore there will be outside criteria available to evaluate the work in relation to the stated goals of an assignment. As you move through your coursework these arbitrary measures of a work’s success may become less clear.
+Critiques in a class setting take various forms but will usually involve a group of students and the instructor verbally discussing work produced for assigned prompts and problems. Therefore there will be outside criteria available to evaluate the work in relation to the stated goals of an assignment. As you move through your coursework these arbitrary measures of a work’s success may become less clear.
 
 The success of the critique requires everyone’s participation both verbally and through written word. In order to become fully developed creative professionals you must develop both your listening skills as well as your ability to analyze your peers’ work. Failure to listen is a common shortcoming as is the failure to engage your peers. This is hard work and you must practice.
 
-## Objectives
+### Essential Elements of a Critique Statement
+
+1. What do you see / hear / feel?
+2. What do you think about it?
+3. Why do you think that?
+
+### Objectives
 
 - Develop a vocabulary for discussing and evaluating visual artifacts in the world
 - Improve our skills at making through critical analysis of progress

@@ -1,5 +1,5 @@
 ---
-title: 04 BFA Research
+title: 04 Technical Synthesis
 date: 2023-09-25T12:00:00
-lastmod: 2023-09-24T12:05:36
+lastmod: 2023-09-25T06:00:30
 ---
