@@ -1,7 +1,7 @@
 ---
-title: 05.03 Projection Mapping Examples
+title: 06.02 Projection Mapping Examples
 date: 2023-10-02T09:00:00
-lastmod: 2023-09-24T12:33:51
+lastmod: 2023-09-25T20:23:23
 ---
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/270136166?h=e3e697c480" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
