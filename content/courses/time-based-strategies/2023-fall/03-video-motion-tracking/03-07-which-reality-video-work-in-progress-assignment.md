@@ -1,7 +1,7 @@
 ---
 title: 03.07 Which Reality Video Work in Progress Assignment
 date: 2023-09-12T09:00:00
-lastmod: 2023-09-23T17:18:26
+lastmod: 2023-09-26T06:23:02
 ---
 
 ## Assignment Deliverables
@@ -12,3 +12,18 @@ lastmod: 2023-09-23T17:18:26
    - Label YYYYMMDD Lastname Firstname Which Reality WIP description.pdf
 
 ## Overview
+
+Work on your project shooting footage and editing. Upload a snapshot of your progress to date. There is no need to polish the work in progress, it is simply a record of what has been completed so far so it can be assessed by the group while there is still time to work on the project. This way the final version of the project will improve.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment               | Weight    |
+| ------------------------ | --------- |
+| Uploaded WIP             | 30 points |
+| Uploaded WIP Description | 30 points |
+| Evidence of Work         | 30 points |
+| File Management          | 10 points |
+
+</div>
