@@ -1,7 +1,7 @@
 ---
-title: 04.04 Technical Synthesis Sculpture Assignment
+title: 04.04 Technical Synthesis Sculpture Assignment 1
 date: 2023-09-25T12:00:00
-lastmod: 2023-09-25T15:18:53
+lastmod: 2023-09-25T20:10:13
 ---
 
 ## Assignment Deliverables
@@ -22,10 +22,29 @@ Complete the artwork as best you can.
 
 We will repeat the process to complete a new artwork using 6 different items from the inventory, but this will occur after the first artwork.
 
-The content and form of the artwork is up to you. You may also use tools and techniques from the "Comfortable" and "Expert" categories but the 6 items from the "What?", "Heard Of?", and "Used Before" categories should each play a significant role in the creation of the piece.
+The content and form of the artwork is up to you. You may also use tools and techniques from the "Comfortable" and "Well Versed" categories but the 6 items from the "What?", "Heard Of?", and "Used Before" categories should each play a significant role in the creation of the piece.
 
 ## Possible Combinations
+
+<div class="two-column-grid">
+<div>
+
+### Tools / Equipment
 
 - 1 What? + 1 Heard Of + 1 Used Before
 - 1 What? + 2 Heard Ofs
 - 3 Whats?
+
+</div>
+
+<div>
+
+### Skills / Techniques
+
+- 1 What? + 1 Heard Of + 1 Used Before
+- 1 What? + 2 Heard Ofs
+- 3 Whats?
+
+</div>
+
+</div>

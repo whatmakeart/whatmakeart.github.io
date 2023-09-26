@@ -1,7 +1,7 @@
 ---
 title: 04.02 Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2023-09-25T19:46:47
+lastmod: 2023-09-25T20:11:03
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -177,28 +177,28 @@ Review the list of sculpture materials below. Mark a check in the appropriate co
 
 <div class="responsive-table-markdown">
 
-| Material           | What? | Heard of It | Used Before | Comfortable | Expert |
-| ------------------ | ----- | ----------- | ----------- | ----------- | ------ |
-| Fabric             |       |             |             |             |        |
-| 2 Part Epoxy Resin |       |             |             |             |        |
-| Plaster            |       |             |             |             |        |
-| Felt               |       |             |             |             |        |
-| Steel              |       |             |             |             |        |
-| Aluminum           |       |             |             |             |        |
-| Cardboard          |       |             |             |             |        |
-| Wool               |       |             |             |             |        |
-| Thread             |       |             |             |             |        |
-| Olive Oil Soap     |       |             |             |             |        |
-| 2 Part Silicone    |       |             |             |             |        |
-| Wire Mesh          |       |             |             |             |        |
-| LEDs               |       |             |             |             |        |
-| Polycarbonate      |       |             |             |             |        |
-| Acrylic            |       |             |             |             |        |
-| Oil Clay           |       |             |             |             |        |
-| Stoneware Clay     |       |             |             |             |        |
-| Glass              |       |             |             |             |        |
-| Fiberglass         |       |             |             |             |        |
-| Found Objects      |       |             |             |             |        |
-| Wire               |       |             |             |             |        |
+| Material           | What? | Heard of It | Used Before | Comfortable | Well Versed |
+| ------------------ | ----- | ----------- | ----------- | ----------- | ----------- |
+| Fabric             |       |             |             |             |             |
+| 2 Part Epoxy Resin |       |             |             |             |             |
+| Plaster            |       |             |             |             |             |
+| Felt               |       |             |             |             |             |
+| Steel              |       |             |             |             |             |
+| Aluminum           |       |             |             |             |             |
+| Cardboard          |       |             |             |             |             |
+| Wool               |       |             |             |             |             |
+| Thread             |       |             |             |             |             |
+| Olive Oil Soap     |       |             |             |             |             |
+| 2 Part Silicone    |       |             |             |             |             |
+| Wire Mesh          |       |             |             |             |             |
+| LEDs               |       |             |             |             |             |
+| Polycarbonate      |       |             |             |             |             |
+| Acrylic            |       |             |             |             |             |
+| Oil Clay           |       |             |             |             |             |
+| Stoneware Clay     |       |             |             |             |             |
+| Glass              |       |             |             |             |             |
+| Fiberglass         |       |             |             |             |             |
+| Found Objects      |       |             |             |             |             |
+| Wire               |       |             |             |             |             |
 
 </div>

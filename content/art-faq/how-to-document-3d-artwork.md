@@ -1,7 +1,7 @@
 ---
 title: How to Document 3D Artwork
 date: 2023-05-30T00:41:39
-lastmod: 2023-09-25T20:03:19
+lastmod: 2023-09-25T20:13:58
 ---
 
 ## Can I Use my Cellphone?
@@ -42,7 +42,7 @@ Shoot in JPG and RAW and post process the images. All photos can be improved thr
 4.  Put the camera on a tripod. If you need to get the camera lower than the tripod can go, then you can set it on books or a box.
 5.  Set the camera to take the highest quality, highest resolution images (Check this in the menu because the previous user may have changed the settings)
 6.  Capture RAW images (You can set the camera to capture RAW and JPG images but the RAW is the most important format to capture for post processing.)
-7.  Set the ISO to a low number like 100 or 200 (Low ISO settings, (sensor sensitivity), are less important with newer cameras but it is still better to use a low ISO if the subject is stationary like your artwork.)
+7.  Set the ISO to a low number like 100 or 200 (Low ISO settings, (sensor sensitivity), are less important with newer cameras but it is still better to use a low ISO if the subject is stationary like your artwork.) If you need to raise the ISO to use your preferred combination of Shutter Speed and Aperture, it is ok.
 8.  Set the Camera to Manual. (This is the M on the dial.)
 9.  Choose an Aperture. (Use a small aperture, big number, to have everything in focus. Use a large aperture, small number, to have a shallow depth of field with only parts of the image in focus.)
 10. Frame your image, filling the viewport with as much of the artwork as possible.
@@ -68,6 +68,14 @@ Below is a camera setting cheat sheet that shows how ISO, Aperture and Shutter S
 
 <div class="video-card">
 
+### Camera Raw Tutorial
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/11jwSwUu2WI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
 ### Open Any Image in Camera Raw
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/ftMICesJwGc?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -79,14 +87,6 @@ Below is a camera setting cheat sheet that shows how ISO, Aperture and Shutter S
 ### Quick White Balance in Photoshop
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/m0yZEWUSahk?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Camera Raw Tutorial
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/11jwSwUu2WI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 </div>
 
