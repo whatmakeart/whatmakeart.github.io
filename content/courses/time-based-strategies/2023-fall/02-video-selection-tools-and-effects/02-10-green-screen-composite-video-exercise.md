@@ -1,7 +1,7 @@
 ---
 title: 02.10 Green Screen Composite Video Exercise
 date: 2023-09-05T09:00:00Z
-lastmod: 2023-09-15T05:55:04
+lastmod: 2023-09-26T06:17:19
 ---
 
 ## Assignment Deliverables
@@ -30,3 +30,19 @@ Edit the different shots together and export as a single video. Sound is not req
 - Have the subject move in the shot
 - Shoot your own background environments
 - Use rotoscoping to separate the layers of fund footage so your green screen subject can be "in" the composite shot
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Establishing Shot            | 15 points |
+| Full Shot                    | 15 points |
+| Medium Shot                  | 15 points |
+| Close Up Shot                | 15 points |
+| Chroma Keying                | 20 points |
+| Editing / Post Production    | 20 points |
+| File Management and Labeling | 10 points |
+
+</div>

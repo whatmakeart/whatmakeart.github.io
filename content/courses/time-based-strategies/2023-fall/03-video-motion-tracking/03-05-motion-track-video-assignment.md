@@ -19,3 +19,19 @@ Motion tracking is a fundamental tool for manipulating video footage. Plan out a
 The backgrounds and environments for the shots can be related visually or unrelated. Think about the angle and composition of the background and lighting before framing shot. If using a green screen in footage that is added to the motion tracked shots, key out the green screen and use Premiere Pro or After Effects to make the composite.
 
 Edit the different shots together and export as a single video. Sound is not required.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Establishing Shot            | 15 points |
+| Full Shot                    | 15 points |
+| Medium Shot                  | 10 points |
+| Close Up Shot                | 10 points |
+| Motion Track                 | 20 points |
+| Editing / Post Production    | 10 points |
+| File Management and Labeling | 10 points |
+
+</div>

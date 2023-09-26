@@ -1,7 +1,7 @@
 ---
 title: 01.05 Repeated Action Video Assignment
 date: 2023-08-29T09:00:00Z
-lastmod: 2023-09-15T05:53:50
+lastmod: 2023-09-26T06:15:02
 ---
 
 ## Assignment Deliverables
@@ -19,7 +19,7 @@ You are tasked with shooting video this action at 3 different locations. Shootin
 
 ### Technical Reminders
 
-- Remember the [3 basic camera settings] of Shutter Speed, Aperture, and ISO. Make sure you have the correct settings for a well exposed image with the correct amount of focus and depth of field.
+- Remember the [3 basic camera settings](../../../../photography/basic-camera-settings.md) of Shutter Speed, Aperture, and ISO. Make sure you have the correct settings for a well exposed image with the correct amount of focus and depth of field.
 - As a rule of thumb, keep the shutter speed at least 2x the frame rate. IF you are shooting 30 frames per second (fps) the have a shutter speed of at least 1/60 and if you are shooting 60 fps then have a shutter speed of at least 1/120.
 - Use a tripod to have non shaky shots.
 - Shoot each clip for about 5 seconds. That will give you more than enough footage for the action.
@@ -36,7 +36,7 @@ You are tasked with shooting video this action at 3 different locations. Shootin
 6. Shoot all of the steps of your action 2 times at each location. It is a good idea to change the [shot type](../../../../video/shot-types.md) and angle for each step in the action. You can repeat shot types.
 7. Re-shoot the action at the other two locations.
 8. Transfer video files to a folder on your computer and label the folder.
-9. Import the files into Adobe Premiere.
+9. Import the files into Adobe Premiere. [How to import files into Premiere](../../../../video/adobe-premiere-pro/how-to-import-video-into-premiere-pro.md)
 10. Choose the shots that you want for the action and drag them to the timeline.
 11. Trim the clips and experiment with the ordering and pacing.
 12. Try to have sequences of quick sub-second cuts as well as other clips juxtaposed with different parts of the action or location.
@@ -47,9 +47,23 @@ You are tasked with shooting video this action at 3 different locations. Shootin
 17. Have fun, you are making art.
 18. Export the video as a H.264 .mp4 file and upload before next class.
 
-## For Class
+### For Class
 
 Bring your laptop or computer with your Premiere project file and video footage to review in class. This way we can test suggestions from the group discussion.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                      | Weight    |
+| ------------------------------- | --------- |
+| 3 Different Locations / Shots   | 25 points |
+| Use of Camera Exposure Settings | 25 points |
+| Exported .mp4                   | 15 points |
+| Editing 30 Seconds Long         | 25 points |
+| File Management and Labeling    | 10 points |
+
+</div>
 
 ## Premiere Resources
 
