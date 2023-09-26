@@ -1,7 +1,7 @@
 ---
 title: How to Document 3D Artwork
 date: 2023-05-30T00:41:39
-lastmod: 2023-09-07T20:37:17
+lastmod: 2023-09-25T20:03:19
 ---
 
 ## Can I Use my Cellphone?
@@ -29,6 +29,10 @@ On the [CIA Equipment Checkout Page](https://cia.webcheckout.net/sso/patron#!/) 
 [![tripod](https://cia.webcheckout.net/attachments/184929/manfrotto_mkcompact.jpg)](https://cia.webcheckout.net/sso/patron#!/category/104834)
 
 </div>
+
+### Shoot RAW and JPG
+
+Shoot in JPG and RAW and post process the images. All photos can be improved through post production. Make sure you adjust the levels of your photos to bring out all the detail and dynamic range for bright whites and dark blacks. [White balance should be corrected](https://www.youtube.com/watch?v=m0yZEWUSahk) so the colors look good. Use Photoshop and [Adobe Camera Raw](https://www.youtube.com/watch?v=11jwSwUu2WI) to make adjustments and to retouch any mistakes in the images.
 
 ## Process
 
@@ -58,7 +62,7 @@ Below is a camera setting cheat sheet that shows how ISO, Aperture and Shutter S
 
 [![Camera Settings Cheat Sheet](../photography/2021-09-22-Camera-Cheat-Sheet-Whatmakeart.png)](../photography/2021-09-22-Camera-Cheat-Sheet-Whatmakeart.png)
 
-## Tutorial Videos
+## Camera and Photo Editing Tutorial Videos
 
 <div class="video-grid">
 
@@ -66,21 +70,24 @@ Below is a camera setting cheat sheet that shows how ISO, Aperture and Shutter S
 
 ### Open Any Image in Camera Raw
 
-<div class="iframe-16-9-container"><iframe class="youtTubeIframe" src="https://www.youtube.com/embed/ftMICesJwGc?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/ftMICesJwGc?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 </div>
 
 <div class="video-card">
 
 ### Quick White Balance in Photoshop
 
-<div class="iframe-16-9-container"><iframe class="youtTubeIframe" src="https://www.youtube.com/embed/m0yZEWUSahk?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/m0yZEWUSahk?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 </div>
 
 <div class="video-card">
 
 ### Camera Raw Tutorial
 
-<div class="iframe-16-9-container"><iframe class="youtTubeIframe"src="https://www.youtube.com/embed/11jwSwUu2WI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/11jwSwUu2WI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 </div>
 
 </div>
