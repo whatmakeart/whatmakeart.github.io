@@ -1,5 +1,7 @@
 ---
 title: Mold
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-27T08:22:11
 ---
 
 A mold is a negative space container that is used in [Casting](../metalworking/casting.md).

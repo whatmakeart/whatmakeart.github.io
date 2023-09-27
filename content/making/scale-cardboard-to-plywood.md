@@ -1,5 +1,7 @@
 ---
 title: Scale Cardboard to Plywood
+date: 2023-06-15T14:35:37
+lastmod: 2023-09-27T08:22:02
 ---
 
 ## Scale Factors

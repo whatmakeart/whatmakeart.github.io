@@ -1,5 +1,7 @@
 ---
 title: Tools
+date: 2023-05-23T21:59:40
+lastmod: 2023-09-27T08:21:41
 ---
 
 Humans are tool makers and tool users. Tools extend the abilities of our minds and bodies. Some tools are portable while others are the size of factories such as a large gantry crane in a foundry.
@@ -59,32 +61,33 @@ To get started with making you need some tools. At a minimum you need a pencil a
 - Wire Crimper
 - Wire Cutter
 - Twist on Wire Connectors
+
 ### Metalworking Tools
 
-- C-vice grips 
-- Vice grips 
-- Corner magnets 
-- Wire brush 
-- C-clamps 
-- Metal Files 
-- Hammers 
-- Pliers 
+- C-vice grips
+- Vice grips
+- Corner magnets
+- Wire brush
+- C-clamps
+- Metal Files
+- Hammers
+- Pliers
 - table clamp
-- bolt cutters 
-- pipe wrench 
-- air tools 
-- Angle Grinder 
-- 10GA Nibbler 
+- bolt cutters
+- pipe wrench
+- air tools
+- Angle Grinder
+- 10GA Nibbler
 - 18GA Shears Anvil
 
 #### Metalworking Protective Equipment
 
-- Welding Viewer Mask 
-- Welding Masks 
-- Face guards 
-- Leather Apron 
-- Long Sleeve Shirt 
-- Leather Coat 
-- Shin/ankle cover 
-- Leather arm covers wrist covers 
+- Welding Viewer Mask
+- Welding Masks
+- Face guards
+- Leather Apron
+- Long Sleeve Shirt
+- Leather Coat
+- Shin/ankle cover
+- Leather arm covers wrist covers
 - welding gloves handling gloves

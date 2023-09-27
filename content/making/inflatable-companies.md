@@ -1,5 +1,9 @@
 ---
 title: Inflatable Companies
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-27T08:22:28
+tags:
+  - stub
 ---
 
 The following companies and studios produce inflatables commercially.

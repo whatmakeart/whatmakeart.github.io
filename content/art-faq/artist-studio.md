@@ -1,7 +1,7 @@
 ---
 title: Artist Studio
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:35:24
+lastmod: 2023-09-27T08:26:47
 ---
 
 [Artists](artists.md) need a place to make their work. An artist's workspace is called their studio. It is important to have good studio practices, good [Professional-Practices-for-Artists](professional-practices-for-artists.md), and good [Safety](../making/safety.md) practices. Good [time management](time-management.md) is needed to successfully run an artist studio.
@@ -20,9 +20,9 @@ An artist may use a studio temporarily or over many years. In its simplest form 
 
 Nothing else is needed to get started making in the studio. As you begin working you will develop custom methods that will require rearranging the layout of your studio. A process may require a single long table or many separate small tables. Your skills will develop and dictate what equipment is needed in your studio. A studio is a constant work in progress and is always in flux, following the creativity of the artist.
 
-## Batch process everything
+## Batch Process Everything
 
-Make Studio Work Like a One Person Factory. Instead of doing all the steps of a process in order if you need to make 50 of something. And do step one 50 times then step two 50 times then step 3 50 times then step four 50 times. This will be much faster and efficient and will result in higher quality output. Then if you did step one then step two then step three, then step four 50 times in a row.
+Make studio work like a "One Person Factory". Instead of doing all the steps of a process in order if you need to make 50 of something. And do step one 50 times then step two 50 times then step 3 50 times then step four 50 times. This will be much faster and efficient and will result in higher quality output. Then if you did step one then step two then step three, then step four 50 times in a row.
 
 ## Remove Friction From the Making Process
 

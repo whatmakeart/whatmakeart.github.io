@@ -1,8 +1,10 @@
 ---
 title: Fabrication
+date: 2023-05-23T21:59:41
+lastmod: 2023-09-27T08:26:47
 ---
 
-Fabrication uses methods of attaching different materials together such as screwing, glueing or [Bolting](bolting.md).
+Fabrication uses methods of attaching different [materials](../sculpture/materials-for-making.md) together such as screwing, glueing or [bolting](bolting.md).
 
 Many different materials can be used in fabrication including metal, plastic, wood, soft foams, fabric, clay, carbon fiber and many more.
 
@@ -29,7 +31,6 @@ It is important to start to think about not only the form of the object but how 
 ## Fabrication Skills
 
 - ability to make parts or prepare materials from basic drawings
-
 
 ## Metal Fabrication
 
@@ -58,4 +59,4 @@ It is important to start to think about not only the form of the object but how 
 
 "Calipers may read to a resolution of 0.01 mm or 0.0005 in, but accuracy may not be better than about ±0.02 mm or 0.001 in for 150 mm (6 in) calipers, and worse for longer one." [Wikipedia](https://en.m.wikipedia.org/wiki/Calipers#Comparison)
 
-- [How to Use Digital Calipers](../tutorials/how-to-use-digital-calipers.md)
+- [How to Use Digital Calipers](./how-to-use-digital-calipers.md)

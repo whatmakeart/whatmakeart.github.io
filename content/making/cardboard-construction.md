@@ -1,5 +1,7 @@
 ---
 title: Cardboard Construction
+date: 2023-06-14T05:51:08
+lastmod: 2023-09-27T08:24:04
 ---
 
 Cardboard is a great material for making prototypes. As a material, it is relatively cheap, easy to find, strong and lightweight. In fabrication it can be cut, sanded, bent, fastened and glued. Multiple layers of cardboard can be built up to make a panel a desired thickness or to build a [cardboard model to scale](./scale-cardboard-to-plywood.md).

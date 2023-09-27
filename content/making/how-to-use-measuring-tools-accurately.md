@@ -1,5 +1,7 @@
 ---
 title: How to Use Measuring Tools Accurately
+date: 2023-05-23T21:59:40
+lastmod: 2023-09-27T08:23:29
 tags:
   - stub
 ---
@@ -18,6 +20,6 @@ The first step
 
 ## Further Reading
 
-[How to Use Digital Calipers](../tutorials/how-to-use-digital-calipers.md)
+[How to Use Digital Calipers](./how-to-use-digital-calipers.md)
 
 ### External Links
