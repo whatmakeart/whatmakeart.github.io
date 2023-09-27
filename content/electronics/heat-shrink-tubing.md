@@ -27,5 +27,5 @@ Some heat shrink tubing has adhesive on the inside. This is common in marine app
 
 1. Slip the heat shrink tubing over the wires or component. Make sure to put the tubing on before attaching large end pieces or connectors that the tubing may not slip over.
 2. Put the tubing in position.
-3. Use a heat gun to apply even heat all around the tube until it completely shrinks. Take care not to overheat other objects nearby.
+3. Use a [how-to-use-a-heat-gun](../tools/how-to-use-a-heat-gun.md) to apply even heat all around the tube until it completely shrinks. Take care not to overheat other objects nearby.
 4. If using adhesive lined tubing, make sure all of the adhesive melts evenly.

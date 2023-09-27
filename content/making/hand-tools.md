@@ -33,7 +33,7 @@ Powered hand tools can either be powered from mains electricity via a cord or wi
 ## Tools for Measuring
 
 - Tape Measure
-- Digital Calipers
+- [Digital Calipers](how-to-use-digital-calipers.md)
 - Protractor
 - Angle Finder
 - Spirit Level
@@ -42,3 +42,6 @@ Powered hand tools can either be powered from mains electricity via a cord or wi
 - Architectural Scale
 - Story Pole
 - Square
+
+## Tools for Joining
+- [Pop Rivet Gun](../tools/how-to-use-a-pop-rivet-gun.md)

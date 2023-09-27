@@ -36,7 +36,7 @@ To get started with making you need some tools. At a minimum you need a pencil a
 - Rotating Tool (Dremel)
 - Drill Corded
 - Drill Cordless
-- Heat Gun
+- [Heat Gun](../tools/how-to-use-a-heat-gun.md)
 - Belt Sander
 - Orbital Sander
 - Palm Sander
@@ -55,10 +55,10 @@ To get started with making you need some tools. At a minimum you need a pencil a
 
 ### Electrical Tools
 
-- Soldering Iron
+- [Soldering Iron](../electronics/electronics-soldering-basics.md)
 - Solder
 - Electrical Tape
-- Wire Crimper
+- [Wire Crimper](../electronics/crimping-wire.md)
 - Wire Cutter
 - Twist on Wire Connectors
 
@@ -90,4 +90,5 @@ To get started with making you need some tools. At a minimum you need a pencil a
 - Leather Coat
 - Shin/ankle cover
 - Leather arm covers wrist covers
-- welding gloves handling gloves
+- Welding gloves 
+- Handling gloves
