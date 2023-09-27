@@ -1,10 +1,10 @@
 ---
 title: How to Copy a Pants Pattern
+date: 2023-05-23T21:59:40
+lastmod: 2023-09-27T17:24:15
 ---
 
-# How to Copy a Pants Pattern
-
-This tutorial will show you how to copy a pants pattern from an existing pair of pants without destroing the pants or taking the pants apart.
+This tutorial will show you how to copy a pants pattern from an existing pair of pants without destroying the pants or taking the pants apart.
 
 ## Prerequisites
 
@@ -59,5 +59,3 @@ To complete this tutorial you should be familiar with [How to Duplicate a T-Shir
 ## Further Reading
 
 [How to Duplicate a T-Shirt Pattern](./how-to-duplicate-a-t-shirt-pattern.md)
-
-### External Links

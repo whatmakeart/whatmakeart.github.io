@@ -65,5 +65,3 @@ To complete this tutorial you should be familiar with: [how-to-cut-fabric](./how
 ## Further Reading
 
 [History-of-Pockets-&-Missing-Pockets](../Sewing/History-of-Pockets-&-Missing-Pockets.md)
-
-### External Links
