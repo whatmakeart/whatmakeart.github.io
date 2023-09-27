@@ -1,7 +1,7 @@
 ---
 title: Export Blender Camera Animation to After Effects
 date: 2023-09-27T12:39:58
-lastmod: 2023-09-27T13:23:58
+lastmod: 2023-09-27T16:21:53
 ---
 
 <div class="video-grid">
@@ -10,22 +10,21 @@ lastmod: 2023-09-27T13:23:58
 </div>
 </div>
 
-This tutorial shows you how to export Blender camera animation and 3D space to After Effects. This allows you to add 3D motion graphics and other elements to your rendered Blender animation, without having to track the camera in After Effects.
+This tutorial shows you how to export Blender camera animation and 3D space points to After Effects. This allows you to add 3D motion graphics and other elements to your rendered Blender animation, and have them track withe the 3D camera, without having to track the camera in After Effects.
 
-To do this, you will need to install the Blender export to After Effects add-on. Once installed, select the camera you want to export and then go to File > Export > Adobe After Effects (.jsx).
+To do this, you will need to install the Blender "Export to After Effects" add-on. Once installed, select the camera you want to export and then go to File > Export > Adobe After Effects (.jsx).
 
-In After Effects, go to File > Scripts > Run Script File and select the JSX file that you exported from Blender. This will create a new composition with the camera motion and null objects.
+In After Effects, go to File > Scripts > Run Script File and select the .jsx file that you exported from Blender. This will create a new composition with the camera motion and null objects.
 
 You can then import your rendered Blender animation into the composition and add any 3D motion graphics or other elements that you want. The camera motion will be tracked automatically, so you don't have to worry about tracking it yourself.
 
 ## Additional Information:
 
 - This tutorial is for beginners and assumes that you have a basic understanding of Blender and After Effects.
-- The Blender export to After Effects add-on is free to download and use.
+- The Blender "Export to After Effects" add-on is free to download and use.
 - You can use this technique to add tracked camera motion to any type of Blender animation, including 3D scenes, particle effects, and motion graphics.
-- This technique can also be used to add tracked camera motion to live-action footage, if you have a green screen or other tracking markers.
 
-## Video Transcript
+## Export Blender Camera to After Effects Video Transcript
 
 In this Blender and After Effects tutorial I'm going to show you how you can export Blender camera animation and 3D space and then import it into After Effects. This then becomes a 3D camera inside After Effects so you can add different 3D motion graphics and other elements to your rendered Blender animation. This is a really great way to be able to have tracked camera motion without having to track the camera in After Effects, since the animated camera was already created in Blender.
 
