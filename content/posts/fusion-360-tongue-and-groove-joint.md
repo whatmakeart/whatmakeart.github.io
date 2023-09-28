@@ -7,15 +7,13 @@ tags:
   - 3D Modeling
   - CNC
 title: Tongue and Groove joints in Fusion 360 Tutorial
-draft: false
-spellcheck: off
 ---
 
 {{< youtube id="BA_oj65hh74" title="Tongue and Groove joints in Fusion 360 Tutorial" >}}
 
 ## How to Make a Tongue and Groove Joint in Fusion 360
 
-In this Fusion 360 tutorial, I will show you how to make a tongue and groove joint. This is a very convenient joint and a strong joint for making corners on boxes and aligning your parts.
+In this [Fusion 360](../3d-modeling/fusion-360/fusion-360.md) tutorial, I will show you how to make a tongue and groove joint. This is a very convenient joint and a strong joint for making corners on boxes and aligning your parts.
 
 ### What You Will Need
 

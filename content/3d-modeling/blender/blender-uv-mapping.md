@@ -3,8 +3,7 @@ title: Blender UV Mapping
 date: 2023-06-15T05:47:32
 lastmod: 2023-09-07T20:28:53
 ---
-
-- [Blender Smart UV Project](https://youtu.be/MkT4xIhoaLM)
+This video shows how to use [Smart UV Project](https://youtu.be/MkT4xIhoaLM) in [Blender](blender.md).
 - [Add Checker Texture](https://youtu.be/gv8tQS9bSb8)
 
 <div class="video-grid">

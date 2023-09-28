@@ -21,3 +21,6 @@ Sculpture commissions go through an initial planning phase and design phase. Onc
 ## Sketch Size
 
 If done digitally separate your sketches into multiple digital "pages" so that if one page is full screen on a laptop then we would see the same amount of detail if a scanned page of a sketchbook was full-screen on the laptop.
+
+## Using Artificial Intelligence
+Generative AI can assist in the ideation process. Image generators can modify sketches as well as create visualizations quickly from text prompts. Large language (LLMs) analyze large bodies of text. LLMs can be used for ideation. 

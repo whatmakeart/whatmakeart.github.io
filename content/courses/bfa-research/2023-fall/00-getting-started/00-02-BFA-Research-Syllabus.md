@@ -64,7 +64,7 @@ Upon completion of the course, a student will be able to:
 
 ### Critiques
 
-You’re required to contribute to all critiques, even if your own project is not complete. Successful crits depend on each student’s generosity in sharing their honest thoughts, opinions and suggestions!
+You’re required to contribute to all critiques, even if your own project is not complete. Successful crits depend on each student’s generosity in sharing their honest thoughts, opinions and suggestions. [How to critique art](../../../../art-faq/how-to-critique-art.md).
 
 ### Late Work
 
@@ -74,6 +74,8 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 - Students should maintain regular, on-going and timely documentation of work in progress.
 - Images should be high resolution, well exposed, in focus, and well composed.
+- [How to Document 2D Artwork](../../../../art-faq/how-to-document-2d-artwork.md)
+- [How to Document 3D Artwork](../../../../art-faq/how-to-document-3d-artwork.md)
 
 ### File Management
 

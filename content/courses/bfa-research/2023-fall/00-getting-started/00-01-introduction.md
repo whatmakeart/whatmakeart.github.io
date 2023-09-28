@@ -4,7 +4,7 @@ date: 2023-08-28T12:00:00
 lastmod: 2023-09-10T13:31:36
 ---
 
-The sculpture independent practice course is a required course for all Sculpture + Expanded Media majors at the senior level. The course is designed to help students develop the skills and knowledge they need to create and sustain an independent art practice.
+The sculpture independent practice course is a required course for all Sculpture + Expanded Media majors at the senior level. The course is designed to help students develop the [skills and knowledge](../04-technical-synthesis/04-02-sculpture-technical-inventory-exercise.md) skills they need to create and sustain an independent art practice.
 
 The course will cover a variety of topics, including:
 
