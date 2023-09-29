@@ -1,7 +1,7 @@
 ---
-title: 05.05 Processing for Artists
-date: 2023-09-28T05:44:20
-lastmod: 2023-09-28T05:45:04
+title: 05.22 Processing for Artists
+date: 2023-10-02T12:00:00
+lastmod: 2023-09-29T06:02:22
 toc: true
 ---
 

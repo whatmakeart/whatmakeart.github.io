@@ -1,7 +1,7 @@
 ---
-title: 06.05 Projection Mapping Software
-date: 2023-10-02T09:00:00
-lastmod: 2023-09-29T05:59:54
+title: Projection Mapping Software
+date: 2023-09-29T06:00:14
+lastmod: 2023-09-29T06:00:28
 ---
 
 ## Projection Mapping Content Creation Resources

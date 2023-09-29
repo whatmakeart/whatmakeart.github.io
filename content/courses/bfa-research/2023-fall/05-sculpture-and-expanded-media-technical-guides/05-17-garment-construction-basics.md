@@ -1,11 +1,14 @@
 ---
 title: 05.04 Garment Construction
-date: 2023-09-27T17:20:11
-lastmod: 2023-09-27T17:31:29
+date: 2023-10-02T12:00:00
+lastmod: 2023-09-29T06:02:22
 ---
+
 ## Sewing Tutorials
+
 - [How to Thread Juki Sewing Machine](../../../../sewing/how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)
 - [How to Sew Six Basic Seams](../../../../sewing/how-to-sew-six-basic-seams.md)
+
 ## Garment Construction Tutorials
 
 - [How to Sew Sleeve Plackets](../../../../sewing/how-to-sew-sleeve-plackets.md)
