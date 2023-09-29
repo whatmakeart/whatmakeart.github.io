@@ -1,7 +1,7 @@
 ---
 title: Woodworking
 date: 2023-05-23T21:59:40
-lastmod: 2023-09-07T20:57:01
+lastmod: 2023-09-29T05:46:40
 ---
 
 Woodworking is the manipulation of wood material into new forms and designs. Wood can be cut and joined together with [Wood-Joints](wood-joints.md), [Wood-Fasteners](wood-fasteners.md), and [wood glue](wood-glue.md).
@@ -46,7 +46,7 @@ Woodworking is the manipulation of wood material into new forms and designs. Woo
 - [How to Use a Drill Press](how-to-use-a-drill-press.md)
 - [How to Use a Hand Drill](how-to-use-a-hand-drill.md)
 - [How to Use a Jig Saw](how-to-use-a-jig-saw.md)
-- [CNC](../digital-fabrication/cnc/cnc.md) cutting wood
+- [CNC](../digital-fabrication/cnc/cnc-basics.md) cutting wood
 
 ### Assembling Wood
 

@@ -1,7 +1,7 @@
 ---
 title: Plywood
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:57:01
+lastmod: 2023-09-29T05:46:40
 ---
 
 Plywood is a versatile building material for [Sculpture](../sculpture/sculpture.md), [Woodworking](woodworking.md), and [Furniture](furniture.md). It is made from laminated sheets of wood that are glued together. The grain of the wood is placed in different directions to prevent warping.
@@ -30,4 +30,4 @@ One of the disadvantages of plywood is that it is difficult to nail or screw int
 
 One way to make strong joints into the edge of plywood is to use a particular type of wood fastener called a cam lock. You probably have seen these in flat pack furniture products. And one piece of plywood there is a hole with another whole perpendicular to it that a cam is inserted into. In the joining piece of plywood, a rod is inserted that has a specific shape on the end that locks into the cam. Then the cam is twisted and the pieces cannot pull apart.
 
-Using this type of joining technique requires proper planning and precise measuring. It is a good use case for [CNC](../digital-fabrication/cnc/cnc.md) machining of plywood after a 3D model is created.
+Using this type of joining technique requires proper planning and precise measuring. It is a good use case for [CNC](../digital-fabrication/cnc/cnc-basics.md) machining of plywood after a 3D model is created.

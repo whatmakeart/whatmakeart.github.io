@@ -1,7 +1,7 @@
 ---
 title: Fabrication
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-27T08:26:47
+lastmod: 2023-09-29T05:46:40
 ---
 
 Fabrication uses methods of attaching different [materials](../sculpture/materials-for-making.md) together such as screwing, glueing or [bolting](bolting.md).
@@ -48,7 +48,7 @@ It is important to start to think about not only the form of the object but how 
 
 ### Types of Digital Fabrication
 
-[Laser-Cutting](../digital-fabrication/laser-cutting/laser-cutting.md) uses a high powered laser to cut through wood, metal and plastic. A laser cutter can also etch designs and images. [CNC](../digital-fabrication/cnc/cnc.md) Machining uses spinning cutters that move along a precise coordinate system.  
+[Laser-Cutting](../digital-fabrication/laser-cutting/laser-cutting.md) uses a high powered laser to cut through wood, metal and plastic. A laser cutter can also etch designs and images. [CNC](../digital-fabrication/cnc/cnc-basics.md) Machining uses spinning cutters that move along a precise coordinate system.  
 [3D-Printing](../digital-fabrication/3d-printing/3d-printing.md) builds up an object layer by layer. Vinyl Cutting cuts rolls of vinyl based on vector graphic input. [Water Jet Cutting](../digital-fabrication/water-jet-cutting.md) uses high powered streams of water carrying abrasive particles to cut through a wide variety of materials.
 
 ### Fabrication Tools

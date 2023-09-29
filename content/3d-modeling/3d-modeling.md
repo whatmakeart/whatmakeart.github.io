@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2023-09-07T20:32:27
+lastmod: 2023-09-29T05:46:40
 ---
 
 What is a model? What is a 3D model? What is the difference between an analog and a digital 3D model? How does 2D sketching relate to 3D modeling?
@@ -26,4 +26,4 @@ We will do tests and then evaluate and then do again.
 
 ### Physical Output from Digital 3D Models
 
-Digital 3D models are great for visualization, simulation, VR, video games, and for archiving but are still not physical objects. [Laser Cutting](../digital-fabrication/laser-cutting/laser-cutting.md), [CNC](../digital-fabrication/cnc/cnc.md) machining, [3D Printing](../digital-fabrication/3d-printing/3d-printing.md), vinyl cutting, and [Water Jet Cutting](../digital-fabrication/water-jet-cutting.md) are fabrication processes that create physical outputs and objects from digital 3D models.
+Digital 3D models are great for visualization, simulation, VR, video games, and for archiving but are still not physical objects. [Laser Cutting](../digital-fabrication/laser-cutting/laser-cutting.md), [CNC](../digital-fabrication/cnc/cnc-basics.md) machining, [3D Printing](../digital-fabrication/3d-printing/3d-printing.md), vinyl cutting, and [Water Jet Cutting](../digital-fabrication/water-jet-cutting.md) are fabrication processes that create physical outputs and objects from digital 3D models.
