@@ -1,7 +1,7 @@
 ---
 title: 01.05 Light and Sound Reference Artists and Resources
 date: 2023-08-25T09:30:00Z
-lastmod: 2023-09-14T13:20:45
+lastmod: 2023-09-30T07:05:51
 ---
 
 <div class="two-column-grid-wrapper">
@@ -225,6 +225,10 @@ lastmod: 2023-09-14T13:20:45
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/71bp0x8Ly-Y?si=qXn6NN2QZgG9-ZZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/AN38SbrbizQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 </div>
