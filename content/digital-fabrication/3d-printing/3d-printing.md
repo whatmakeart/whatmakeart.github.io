@@ -1,7 +1,7 @@
 ---
 title: 3D Printing
 date: 2023-05-23T21:59:42
-lastmod: 2023-09-30T06:37:51
+lastmod: 2023-09-30T06:44:56
 ---
 
 3D Printing is an [additive-processes](../../sculpture/additive-processes.md) of [Fabrication](../../making/fabrication.md).
@@ -32,11 +32,11 @@ Resin 3D printers are more expensive than filament 3D printers, but they offer a
 
 ### Laser Sintering Printers
 
-Laser sintering (LS) 3D printers use a high-power laser to sinter small particles of polymer powder into a solid structure based on a 3D model. SLS 3D printing can produce strong, durable parts with complex geometries. SLS parts do not require support structures, which can save time and money during post-processing.
+Laser sintering (SLS) 3D printers use a high-powered laser to fuse small particles of polymer powder into a solid structure based on a 3D model. SLS 3D printing can produce strong, durable, and complex parts with fine resolution.
 
-SLS printers work by first spreading a thin layer of powder on a build platform. The laser then traces the cross-section of the 3D model on the powder bed, sintering the powder particles together in the desired shape. Once the layer is complete, the build platform lowers and another layer of powder is spread on top. This process continues until the entire 3D model is printed.
+SLS 3D printers work by first spreading a thin layer of polymer powder across a build platform. The laser then traces the cross-section of the 3D model onto the powder bed, sintering the powder particles together. Once the first layer is complete, the build platform lowers and another layer of powder is spread on top. The laser then traces the cross-section of the next layer, sintering the powder particles together and bonding them to the previous layer.
 
-SLS 3D printers can use a variety of polymer materials, including nylon, polypropylene, and polycarbonate. These materials offer a good range of mechanical properties, making SLS parts suitable for a wide range of applications.
+After the printing process is complete, the loose powder is removed from the build chamber and the part is cleaned and finished.
 
 ## Creating Models for 3D Printing
 
