@@ -1,5 +1,7 @@
 ---
 title: 3D Printing Terms
+date: 2023-06-15T05:22:00
+lastmod: 2023-09-30T06:35:18
 ---
 
 These are some common words and terminology used in 3D Printing and 3D Mesh Modeling:

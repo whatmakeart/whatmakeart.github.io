@@ -1,5 +1,7 @@
 ---
 title: Print in Place Hinge
+date: 2023-06-16T05:36:43
+lastmod: 2023-09-30T06:37:56
 ---
 
 Often 3D prints are thought of as static single objects rather than objects made up of multiple parts that can move independently. Because of the unique fabrication process of 3D printing, objects that could not be made with traditional fabrication processes can exist. An example of an "impossible" part is a print in place hinge that is fully enclosed and can never come apart.

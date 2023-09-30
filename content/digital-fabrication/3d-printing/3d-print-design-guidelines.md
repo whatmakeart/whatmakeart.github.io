@@ -1,5 +1,7 @@
 ---
 title: 3D Print Design Guidelines
+date: 2023-06-15T05:23:20
+lastmod: 2023-09-30T06:37:56
 ---
 
 ## General 3D Print Rules for FFF Printing without Dissolvable Supports

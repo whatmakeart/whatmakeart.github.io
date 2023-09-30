@@ -1,5 +1,7 @@
 ---
 title: Advanced Ultimaker 2+ Settings Thinkbox
+date: 2023-06-15T15:09:45
+lastmod: 2023-09-30T06:35:42
 ---
 
 Below are advanced 3D Print instructions provided by Case Western Reserve University's think[box] for 3D printing with the Ultimaker 2+. [^1]

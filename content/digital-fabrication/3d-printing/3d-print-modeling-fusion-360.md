@@ -1,5 +1,7 @@
 ---
 title: 3D Print Modeling Fusion 360
+date: 2023-06-15T14:51:51
+lastmod: 2023-09-30T06:37:56
 ---
 
 Leveraging the parametric modeling features of [Fusion 360](../../3d-modeling/fusion-360/fusion-360.md) can create detailed and precise 3D models for 3D printing quickly. Then if a part or screw hole needs to be adjusted after making a test print, it can easily be changed in the design timeline or by simple updating a parameter value. For mechanical and semi regular parts, this modeling workflow is tough to beat.

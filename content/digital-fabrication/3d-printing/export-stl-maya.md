@@ -1,5 +1,7 @@
 ---
 title: Export STL Maya
+date: 2023-06-16T05:46:02
+lastmod: 2023-09-30T06:37:56
 ---
 
 Before exporting a mesh as an STL for 3D printing, it is important to make sure that the mesh is manifold or watertight. Otherwise the file will not be able to be 3D printed.
