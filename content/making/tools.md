@@ -1,7 +1,7 @@
 ---
 title: Tools
 date: 2023-05-23T21:59:40
-lastmod: 2023-09-27T08:21:41
+lastmod: 2023-10-01T06:47:45
 ---
 
 Humans are tool makers and tool users. Tools extend the abilities of our minds and bodies. Some tools are portable while others are the size of factories such as a large gantry crane in a foundry.
@@ -53,6 +53,10 @@ To get started with making you need some tools. At a minimum you need a pencil a
 - Rotating Sander
 - Buffer
 
+### Misc Tools
+
+- [Button Maker](../tools/how-to-use-a-button-maker.md)
+
 ### Electrical Tools
 
 - [Soldering Iron](../electronics/electronics-soldering-basics.md)
@@ -79,6 +83,7 @@ To get started with making you need some tools. At a minimum you need a pencil a
 - Angle Grinder
 - 10GA Nibbler
 - 18GA Shears Anvil
+- [Pop Rivet Gun](../tools/how-to-use-a-pop-rivet-gun.md)
 
 #### Metalworking Protective Equipment
 
@@ -90,5 +95,9 @@ To get started with making you need some tools. At a minimum you need a pencil a
 - Leather Coat
 - Shin/ankle cover
 - Leather arm covers wrist covers
-- Welding gloves 
+- Welding gloves
 - Handling gloves
+
+### Plastic Tools
+
+- [Plastic Strip Bender](../tools/how-to-use-a-plastic-strip-bender.md)
