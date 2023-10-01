@@ -1,7 +1,7 @@
 ---
 title: Introduction to Fabrication
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-27T08:53:20
+lastmod: 2023-10-01T06:05:26
 ---
 
 [Fabrication](../making/fabrication.md) is a fundamental method of making objects. After an initial ideation, planning, and design phase eventually materials must be manipulated, transformed, and assembled into the intended form. This process is called fabrication.
@@ -24,3 +24,4 @@ Your hands are your default making devices. A lot can be made by digging in the 
 
 - [Rope Lashing](./rope-lashing.md)
 - [Rigging](../sculpture/rigging.md)
+- [Plastic Fabrication Basics](./plastic-fabrication-basics.md)
