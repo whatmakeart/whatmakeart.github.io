@@ -1,6 +1,6 @@
 ---
-title: 01.04 Studio Documentation Assignment
-date: 2023-08-28T12:00:00
+title: 04.06 Studio Documentation Assignment
+date: 2023-09-25T12:00:00
 lastmod: 2023-10-02T09:26:38
 ---
 
@@ -8,7 +8,6 @@ lastmod: 2023-10-02T09:26:38
 
 - Upload an informally organized presentation of activities done in the studio since last class meeting.
 - File formats are variable but should be easily reviewed.
-- Class will decide as a group the best location to store an archive of the weekly studio documentations.
 - [Studio Documentation Google Drive Link](https://drive.google.com/drive/folders/1hjuECFgM1s41mL3VRXQOHbtWmA-XLc-p)
 
 ## Assignment Overview
