@@ -1,7 +1,7 @@
 ---
 title: How to Use a Vacuum Former
 date: 2023-10-02T04:56:33
-lastmod: 2023-10-02T05:13:28
+lastmod: 2023-10-02T07:30:24
 ---
 
 ## Belovac Model BV C-Class 24"x 48"
@@ -18,7 +18,7 @@ Most thermoplastics up to 1/4" thick can be vacuum formed with a Belovac C Class
 - Kydex
 - Raydel
 
-### Belovac Instructions
+### Belovac Vacuum Former Instructions
 
 1. Make sure your mold is clean and dry and made of a materials able to withstand the vacuum forming process. Ensure there are no undercuts in your mold and it is the desired smoothness.
 2. Cut your plastic sheet to the desired size. The sheet should be slightly larger than your mold and match the tooling used.
@@ -35,10 +35,9 @@ Most thermoplastics up to 1/4" thick can be vacuum formed with a Belovac C Class
 ## Manufacturer's Videos
 
 <div class="video-grid">
-
+<div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/bsdNZFMplyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div class="iframe-16-9-container">
 </div>
 </div>
 
