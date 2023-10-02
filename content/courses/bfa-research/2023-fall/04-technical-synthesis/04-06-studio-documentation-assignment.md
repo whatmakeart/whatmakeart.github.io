@@ -1,7 +1,7 @@
 ---
 title: 04.06 Studio Documentation Assignment
 date: 2023-09-25T12:00:00
-lastmod: 2023-10-02T09:38:12
+lastmod: 2023-10-02T10:53:26
 ---
 
 ## Assignment Deliverables
