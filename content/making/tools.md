@@ -1,7 +1,7 @@
 ---
 title: Tools
 date: 2023-05-23T21:59:40
-lastmod: 2023-10-01T06:47:45
+lastmod: 2023-10-02T05:41:25
 ---
 
 Humans are tool makers and tool users. Tools extend the abilities of our minds and bodies. Some tools are portable while others are the size of factories such as a large gantry crane in a foundry.
@@ -100,4 +100,4 @@ To get started with making you need some tools. At a minimum you need a pencil a
 
 ### Plastic Tools
 
-- [Plastic Strip Bender](../tools/how-to-use-a-plastic-strip-bender.md)
+- [Plastic Strip Bender](../tools/how-to-use-a-plastic-strip-heater.md)

@@ -1,7 +1,7 @@
 ---
 title: Plastic Bending Basics
 date: 2023-10-01T06:31:34
-lastmod: 2023-10-01T06:34:49
+lastmod: 2023-10-02T05:41:25
 ---
 
 Bending plastic is a process of shaping it into a desired form using heat such as an oven or a [heat gun](../tools/how-to-use-a-heat-gun.md)
@@ -10,7 +10,7 @@ Bending plastic is a process of shaping it into a desired form using heat such a
 
 1. **Choose the right plastic.** Not all plastics can be bent. Thermoplastics, such as acrylic, polycarbonate, and ABS, are common types of plastics that can be bent.
 2. **Heat the plastic.** The plastic must be heated in order to become pliable enough to bend.
-3. **Bend the plastic.** Once the plastic is heated to the appropriate temperature, it can be bent into the desired shape. This can be done by hand, using a jig, or using a specialized bending machine such as a [plastic strip bender](../tools/how-to-use-a-plastic-strip-bender.md)
+3. **Bend the plastic.** Once the plastic is heated to the appropriate temperature, it can be bent into the desired shape. This can be done by hand, using a jig, or using a specialized bending machine such as a [plastic strip bender](../tools/how-to-use-a-plastic-strip-heater.md)
 4. **Cool the plastic.** Once the plastic is bent, it must be cooled in order to retain its shape. This can be done by allowing it to cool at room temperature or by using a quenching medium, such as water or air.
 
 ## Tips for Bending Plastic

@@ -1,10 +1,12 @@
 ---
 title: Jigs
 date: 2023-05-26T03:10:09
-lastmod: 2023-09-27T08:26:31
+lastmod: 2023-10-02T05:16:45
 tags:
   - stub
 ---
+
+Jigs allow for consistent and repeatable fabrication processes.
 
 ## Types of Jigs
 
