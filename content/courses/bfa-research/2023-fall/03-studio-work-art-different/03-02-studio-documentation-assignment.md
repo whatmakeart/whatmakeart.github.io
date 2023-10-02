@@ -1,7 +1,7 @@
 ---
 title: 03.02 Studio Documentation Assignment
 date: 2023-09-18T12:00:00
-lastmod: 2023-10-02T09:26:38
+lastmod: 2023-10-02T09:38:06
 ---
 
 ## Assignment Deliverables
@@ -24,3 +24,14 @@ This assignment is due weekly. Some weeks may have specific prompts but all week
 - Write down what you plan to do in the studio at the beginning of the week.
 - At the end of the week comment on what you accomplished. Explain which parts went according to plan and which parts did not work out.
 - Include in progress and working sketches of projects you are working on.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                          | Weight    |
+| ----------------------------------- | --------- |
+| Studio Photos / Images              | 25 points |
+| Written Studio Activity Description | 25 points |
+
+</div>
