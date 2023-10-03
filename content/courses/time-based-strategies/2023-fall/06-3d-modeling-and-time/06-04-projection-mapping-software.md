@@ -1,22 +1,32 @@
 ---
-title: 06.05 Projection Mapping Software
+title: 06.04 Projection Mapping Software
 date: 2023-10-02T09:00:00
-lastmod: 2023-09-29T05:59:54
+lastmod: 2023-10-03T06:01:34
 ---
 
 ## Projection Mapping Content Creation Resources
+
+### Open Source Projection Mapping Software
+
+- [Mapmap](https://mapmapteam.github.io/) - Free and open source
+- [VPT 8](https://hcgilje.wordpress.com/vpt/) - Free and open source realtime projection mapping
+- [OFX Pi Mapper](https://ofxpimapper.com/) - Runs on the Raspberry Pi to display content produced in [openFrameworks](https://openframeworks.cc/) a C++ creative coding toolkit
+
+### Commercial Projection Mapping Software
 
 - [HeavyM](https://www.heavym.net/) - projection mapping content creation tool
 - [Madmapper](https://madmapper.com/) - projection and LED mapping software
 - [Touchdesigner](https://derivative.ca/) - is an interactive driven software that can also host projection mapping projects, it offers a resolution limited trial version to learn the software
 - [Splash](https://projection-mapping.org/splash/) - open source multi projector software
 - [Luma](https://www.lumabox.com/lumamap/) - AI powered projection mapping image generator
+- [Mapio](https://visution.com/)
 
 ### Live Performance Software Resources
 
 - [Arkaos](https://vj.arkaos.com/grandvj/about) - VJ liver performance software
 - [Resolume](https://resolume.com/) - node based live playback software
 - [Notch](https://www.notch.one/) - Real time motion graphics and VFX
+- [QLab](https://qlab.app/overview/) - For live playback of sound and show cues
 
 ### LED and Light Mapping
 

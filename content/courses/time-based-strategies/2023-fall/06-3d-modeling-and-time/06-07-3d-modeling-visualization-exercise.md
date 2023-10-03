@@ -1,7 +1,7 @@
 ---
-title: 06.04 3D Modeling Visualization Exercise
+title: 06.07 3D Modeling Visualization Exercise
 date: 2023-10-02T09:00:00
-lastmod: 2023-09-25T20:23:23
+lastmod: 2023-10-03T06:04:20
 ---
 
 Sketching, testing, and visualizing ideas before making them is often an efficient way to iterate and make concepts better be spending time and money to create them
