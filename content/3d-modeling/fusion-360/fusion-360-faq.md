@@ -1,14 +1,14 @@
 ---
 title: Fusion 360 FAQ
 date: 2023-06-15T15:27:02
-lastmod: 2023-09-07T20:30:32
+lastmod: 2023-10-03T04:11:03
 ---
 
 ## Introduction
 
 - **How to move a body?** - Press m on the keyboard for the move / copy tool.
 - **How to select whole body and not just a face?** - Click on the underlined body in the outline after clicking one of its faces, or change the selection priority to bodies in the top right selection menu.
-- **How to export a .f3d Fusion 360 file?** - Click on file > Export > choose .f3d
+- [How to export a .f3d Fusion 360 file?](./fusion-360-export-f3d-file.md)
 
 ## Sketching
 
