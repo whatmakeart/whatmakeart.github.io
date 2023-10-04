@@ -1,6 +1,6 @@
 # pagefind.yml
-source: public
-bundle_dir: artsearch
+site: public
+output-subdir: artsearch
 
 exclude_selectors:
   # hugo created footnote ids and class to exclude from search
