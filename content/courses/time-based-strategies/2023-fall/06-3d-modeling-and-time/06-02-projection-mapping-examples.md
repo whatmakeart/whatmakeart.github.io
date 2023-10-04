@@ -1,7 +1,7 @@
 ---
 title: 06.02 Projection Mapping Examples
 date: 2023-10-02T09:00:00
-lastmod: 2023-10-03T07:22:37
+lastmod: 2023-10-03T19:28:38
 ---
 
 <div class="video-grid">
@@ -15,11 +15,23 @@ lastmod: 2023-10-03T07:22:37
 </div>
 
 <div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/BndWx6UUtMQ?si=0IFCu9lf2blwuTfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
 <iframe class="vimeoIframe" src="https://player.vimeo.com/video/177538718?h=547ce4c18a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
 <iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/290517915?h=ea8118fe75" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/yWd1C8Hrew4?si=KK1pW56PC01fct28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/OrQUdTT6BHQ?si=RXPdxCruTyWu2ixt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -64,6 +76,10 @@ lastmod: 2023-10-03T07:22:37
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/OQXS-KIWqTw?si=p_yFIOg9REv6DhrP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/KXMYM0yKRcs?si=CsYNOPBcPT6T4BPF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
