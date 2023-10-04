@@ -1,7 +1,7 @@
 ---
-title: 04-03 Recording Sound Assignment
+title: 04.03 Recording Sound Assignment
 date: 2023-09-15T09:30:00
-lastmod: 2023-10-04T05:33:37
+lastmod: 2023-10-04T05:54:35
 ---
 
 ## Assignment Deliverables
@@ -18,9 +18,10 @@ lastmod: 2023-10-04T05:33:37
 
 <div class="responsive-table-markdown">
 
-| Objective       | Points |
-| --------------- | ------ |
-| Sounds Recorded | 100    |
-| File Management | 10     |
+| Objective           | Points |
+| ------------------- | ------ |
+| Sounds Recorded     | 50     |
+| Written Description | 40     |
+| File Management     | 10     |
 
 </div>
