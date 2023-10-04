@@ -1,14 +1,21 @@
 ---
 title: 05.04 Pixel Mapping
 date: 2023-09-22T09:30:00
-lastmod: 2023-10-03T19:55:00
+lastmod: 2023-10-04T04:52:03
 ---
 
 Pixel mapping creates a 2D or 3D "map" of the locations of LEDs or pixels in space. The map could describe a precise grid of LEDs or it describe an organic 3D shape. In both cases, the map will contain all of the coordinates of the pixels representing their positioning and spacing. Then LED light patterns can be run on the pixels based on the mapping. This separates the "map" from the LED patterns.
 
-- [3D Pixel Mapping from 2 Videos](https://led3dmap.lights0123.com/) - This program by [Ben Schattinger](https://lights0123.com/) ses 2 videos taken at 90 degrees from each other. The LEDS are programed to light up one at a time at a specified rate. Then the computer analyses the videos to create a 3D pixel map of the LEDs. [(Source Code)](https://github.com/lights0123/LED3DMap)
+## Pixel Mapping Online Tools
+
+- [Jason Coon's LED Mapper](https://jasoncoon.github.io/led-mapper/) Converts CSV or Coordinate Data to FastLED or PixelBlaze formatted pixel maps
+- [Click on Image Pixel Mapper](http://app.bhencke.com/pixelmap.html) - Upload an image of your pixels and click on the image to generate a 2D list of pixel coordinates.
+- [3D Pixel Mapping from 2 Videos](https://led3dmap.lights0123.com/) - This program by [Ben Schattinger](https://lights0123.com/) ses 2 videos taken at 90 degrees from each other. The LEDs are programed to light up one at a time at a specified rate. Then the computer analyses the videos to create a 3D pixel map of the LEDs. [(Source Code)](https://github.com/lights0123/LED3DMap)
+- [FastLed Mapping](https://macetech.github.io/FastLED-XY-Map-Generator/) - This code by [Garrett Mace](https://macetech.com/) creates an X Y matrix for [FastLED](https://fastled.io/) that can have gaps in the LED matrix
 
 ## Blender Python Script to Export Vertex Group Coordinates as CSV file
+
+If you have a 3D model of the space and the locations of your LEDs as vertices, you can export the coordinates of the LED pixels from [Blender](../../../../3d-modeling/blender/blender.md). Then these coordinates can be used to make a 3D LED pixel map.
 
 ```Python
 import bpy
@@ -58,8 +65,3 @@ if obj.type == 'MESH' and vertex_group_name in obj.vertex_groups:
 else:
     print(f"No mesh object with vertex group '{vertex_group_name}' found.")
 ```
-
-## Pixel Mapping Online Tools
-
-[Jason Coon's LED Mapper](https://jasoncoon.github.io/led-mapper/) Converts CSV or Coordinate Data to FASTLED or PixelBlaze formated pixel maps
-[Click on Image Pixel Mapper](http://app.bhencke.com/pixelmap.html) - Upload an image of your pixels and click on the image to generate a 2D list of pixel coordinates.

@@ -1,7 +1,7 @@
 ---
 title: 05.07 Installation Fabrication Assignment
 date: 2023-09-22T09:30:00
-lastmod: 2023-09-22T18:26:16
+lastmod: 2023-10-04T05:10:45
 ---
 
 ## Assignment Deliverables
@@ -33,3 +33,15 @@ Post updates and photos to the [class group fabrication discussion thread](https
   - Mail box - found objects?
 
 **Think about where the LEDs and speakers go !!!!**
+
+<div class="responsive-table-markdown">
+
+| Objective                                  | Points |
+| ------------------------------------------ | ------ |
+| Fabrication Photo 1                        | 20     |
+| Fabrication Photo 2                        | 20     |
+| Fabrication Photo 3                        | 20     |
+| Written Description of Fabrication Process | 30     |
+| File Management                            | 10     |
+
+</div>

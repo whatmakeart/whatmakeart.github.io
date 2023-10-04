@@ -1,7 +1,7 @@
 ---
 title: 07.06 Fabrication Progress Assignment
 date: 2023-10-06T09:30:00
-lastmod: 2023-10-03T20:03:23
+lastmod: 2023-10-04T05:14:52
 ---
 
 ## Assignment Deliverables
@@ -15,4 +15,26 @@ lastmod: 2023-10-03T20:03:23
 
 **Spend 4.5 hours fabricating**
 
-Make, make, make. Most of your time should be spent working on the installation, but take a few moments to snap some pictures and video of the process. After you are finished working, spend 15 - 20 minutes gathering your visual documentation. Write a description of what you finished, what worked well, what didn't work out, and what are the next steps.
+Make, make, make. Most of your time should be spent working on the installation, but take a few moments to snap some pictures and video of the process. After you are finished working, spend 15 - 20 minutes gathering your visual documentation.
+
+Write a description of:
+
+- What you finished?
+- What worked well?
+- What didn't work out?
+- What are the next steps?
+- Other thoughts and observations.
+
+**Think about where the LEDs and speakers go !!!!**
+
+<div class="responsive-table-markdown">
+
+| Objective                                  | Points |
+| ------------------------------------------ | ------ |
+| Fabrication Photo 1                        | 20     |
+| Fabrication Photo 2                        | 20     |
+| Fabrication Photo 3                        | 20     |
+| Written Description of Fabrication Process | 30     |
+| File Management                            | 10     |
+
+</div>

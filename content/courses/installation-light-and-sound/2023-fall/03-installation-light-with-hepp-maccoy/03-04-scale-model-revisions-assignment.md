@@ -1,7 +1,7 @@
 ---
 title: 03.04 Scale Model Revisions Assignment
 date: 2023-09-08T09:30:00
-lastmod: 2023-09-15T06:16:55
+lastmod: 2023-10-04T04:59:34
 ---
 
 ## Assignment Deliverables
@@ -38,7 +38,7 @@ Each student should take 3 new simulated gallery photos from within the model. U
 | Incorporation of other group's concept 1      | 25     |
 | Incorporation of other group's concept 1      | 25     |
 | Group's 1/24 scale model overall improvements | 20     |
-| 3 Simulated Gallery Photos                    | 25     |
+| 3 Simulated Gallery Photos                    | 20     |
 | File Management + Labeling                    | 10     |
 
 </div>
