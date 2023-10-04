@@ -1,7 +1,7 @@
 ---
 title: 04-03 Recording Sound Assignment
 date: 2023-09-15T09:30:00
-lastmod: 2023-09-21T13:48:10
+lastmod: 2023-10-04T05:33:37
 ---
 
 ## Assignment Deliverables
@@ -13,3 +13,14 @@ lastmod: 2023-09-21T13:48:10
 
 - Keep the microphone close to the source of the sound
 - Eliminate as much background noise as possible
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Objective       | Points |
+| --------------- | ------ |
+| Sounds Recorded | 100    |
+| File Management | 10     |
+
+</div>
