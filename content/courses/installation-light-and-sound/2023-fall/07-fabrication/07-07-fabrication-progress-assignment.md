@@ -1,7 +1,7 @@
 ---
-title: 07.06 Fabrication Progress Assignment
+title: 07.07 Fabrication Progress Assignment
 date: 2023-10-06T09:30:00
-lastmod: 2023-10-04T05:14:52
+lastmod: 2023-10-05T19:53:36
 ---
 
 ## Assignment Deliverables
