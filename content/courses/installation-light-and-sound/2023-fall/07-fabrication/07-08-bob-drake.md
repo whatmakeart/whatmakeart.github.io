@@ -1,7 +1,7 @@
 ---
 title: 07.08 Bob Drake
 date: 2023-10-06T09:30:00
-lastmod: 2023-10-05T20:33:17
+lastmod: 2023-10-05T20:45:29
 ---
 
 [Bob Drake Online](https://fluxmonkey.com/)
@@ -22,7 +22,7 @@ lastmod: 2023-10-05T20:33:17
 
 </div>
 
-<div class="gallery-grid">
+<div>
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=330689301/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://amplify2020.bandcamp.com/album/vibibib">vibibib by bbob drake</a></iframe>
 
