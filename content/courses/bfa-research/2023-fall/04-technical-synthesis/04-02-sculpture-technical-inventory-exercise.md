@@ -1,7 +1,7 @@
 ---
 title: 04.02 Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2023-09-25T20:11:03
+lastmod: 2023-10-08T17:21:59
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -107,6 +107,8 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | Yarn Swift                        |       |             |             |             |             |
 | Hot Glue Gun                      |       |             |             |             |             |
 | Rasp                              |       |             |             |             |             |
+| Isadora                           |       |             |             |             |             |
+| Handheld CNC Router               |       |             |             |             |             |
 
 </div>
 
@@ -168,6 +170,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | CNC Milling                                               |       |             |             |             |             |
 | Chroma Keying                                             |       |             |             |             |             |
 | Multi Channel Audio                                       |       |             |             |             |             |
+| Paper Making                                              |       |             |             |             |             |
 
 </div>
 
