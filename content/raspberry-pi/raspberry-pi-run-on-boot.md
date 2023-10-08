@@ -1,7 +1,7 @@
 ---
 title: Raspberry Pi Auto Start Scriptss
 date: 2023-05-23T21:59:41
-lastmod: 2023-10-08T07:06:12
+lastmod: 2023-10-08T08:14:09
 ---
 
 ## Crontab
@@ -16,7 +16,7 @@ At the end of the crontab file is where you add the information about the progra
 
 Press 'Control O' to save and then 'Control X' to exit.
 
-## Auto Start Scripts
+## Autostart File
 
 To start the Terminal on the desktop can be done with an additional line to the autostart file. [^1] To Edit the autostart file, type the following into Terminal on your Raspberry Pi.
 
@@ -60,13 +60,11 @@ sudo /root/reboot-to-writable-mode.sh
 
 ### Running After the GUI Starts
 
-[https://www.raspberrypi.org/forums/viewtopic.php?t=118069](https://www.raspberrypi.org/forums/viewtopic.php?t=118069)
-
 > To run after the GUI starts at startup try putting the relevant command in ~/.config/lxsession/LXDE-pi/autostart Type sudo nano ~/.config/lxsession/LXDE-pi/autostart in terminal Eg. To run a python script use... @sudo /usr/bin/python /home/pi/filename.py Press CTRL & X, then Y to save. To Make the file executable with sudo chmod +x filename.py It will run after the gui starts
+>
+> from - [Auto-start a Python script which contains wav/pygame - Raspberry Pi Forum](https://www.raspberrypi.org/forums/viewtopic.php?t=202549)
 
-> from - [https://www.raspberrypi.org/forums/viewtopic.php?t=202549](https://www.raspberrypi.org/forums/viewtopic.php?t=202549)
-
-Another Method that may be better - [https://www.raspberrypi.org/forums/viewtopic.php?t=126264](https://www.raspberrypi.org/forums/viewtopic.php?t=126264)
+Another Method that may be better - [AutoStart Python GUI Script after xstart boot RASBIAN - Raspberry Pi Forum](https://www.raspberrypi.org/forums/viewtopic.php?t=126264)
 
 [^1]: [Raspberry Pi Forums Thread on AutoStart](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=199672)
 [^2]: [https://www.raspberrypi-spy.co.uk/2015/02/how-to-autorun-a-python-script-on-raspberry-pi-boot/](https://www.raspberrypi-spy.co.uk/2015/02/how-to-autorun-a-python-script-on-raspberry-pi-boot/)
