@@ -10,7 +10,7 @@ A Raspberry Pi is a single board computer that is often used for low power on-si
 
 [Protect-Raspberry-Pi-From-Power-Failure](protect-raspberry-pi-from-power-failure.md)
 
-[Raspberry-Pi-Auto-Start-Scripts](raspberry-pi-auto-start-scripts.md)
+[Raspberry-Pi-Auto-Start-Scripts](raspberry-pi-run-on-boot.md)
 
 [Outputting-Sound-with-Raspberry-Pi](outputting-sound-with-raspberry-pi.md)
 

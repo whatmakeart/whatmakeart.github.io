@@ -1,7 +1,7 @@
 ---
 title: 05.04 Pixel Mapping
 date: 2023-09-22T09:30:00
-lastmod: 2023-10-04T04:52:03
+lastmod: 2023-10-08T05:19:29
 ---
 
 Pixel mapping creates a 2D or 3D "map" of the locations of LEDs or pixels in space. The map could describe a precise grid of LEDs or it describe an organic 3D shape. In both cases, the map will contain all of the coordinates of the pixels representing their positioning and spacing. Then LED light patterns can be run on the pixels based on the mapping. This separates the "map" from the LED patterns.
@@ -65,3 +65,49 @@ if obj.type == 'MESH' and vertex_group_name in obj.vertex_groups:
 else:
     print(f"No mesh object with vertex group '{vertex_group_name}' found.")
 ```
+
+````Python
+import bpy
+import csv
+
+def export_mesh_origin_coordinates():
+  """Exports the coordinates of the mesh origin of all selected objects in Blender to a CSV file called `mesh_origin_coordinates.csv`, along with the name of the mesh."""
+
+  # Get all selected objects.
+  selected_object = bpy.context.selected_objects[0]
+
+  # Create a CSV file to store the mesh origin coordinates.
+  with open("/path/to/your/directory/mesh_origin_coordinates.csv", "w", newline='') as csvfile:
+    writer = csv.writer(csvfile)
+
+    # Write the header row.
+    writer.writerow(["Mesh Name", "X", "Y", "Z"])
+
+    for selected_object in selected_objects:
+
+      # Get the mesh origin coordinates.
+      mesh_origin_coordinates = selected_object.location
+
+      # Get the name of the mesh.
+      mesh_name = selected_object.name
+
+      # Check if the selected object is a mesh.
+      if selected_object.type != "MESH":
+        print("The selected object {} is not a mesh.".format(mesh_name))
+        continue
+
+      # Write the mesh origin coordinates and the mesh name to the CSV file.
+      writer.writerow([mesh_name, mesh_origin_coordinates[0], mesh_origin_coordinates[1], mesh_origin_coordinates[2]])
+
+# Export the mesh origin coordinates.
+export_mesh_origin_coordinates()
+    ```
+````
+
+<div class="video-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/TvlpIojusBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+</div>
