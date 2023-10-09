@@ -1,7 +1,7 @@
 ---
 title: Madmapper Basics
 date: 2023-10-08T17:36:34
-lastmod: 2023-10-09T05:51:03
+lastmod: 2023-10-09T06:04:08
 ---
 
 To get started with projection mapping with MadMapper, you will need:
@@ -24,8 +24,13 @@ To get started with projection mapping with MadMapper, you will need:
 
 ## Setting up a Mapping
 
-1. Click on the Suface button on the top left.
-2. Select a quad and adjust the size and position of the quad to match a surface that you are projecting on.
+1. Click on the Surface button on the top left.
+2. In the middle of the screen is the project view. This can be changed to show both the content and the projection at the same time or just one. The vertical line icons at the top switch views.
+3. To see the projection on the physical surface, click on the Output menu, and then select Fullscreen. This will switch the project to display mode and show your mapping as it will appear. Press `Command T` or `Control T` to exit this mode if you have the wrong display setup.
+4. Select a quad and adjust the size and position of the quad to match a surface that you are projecting on.
+5. Drag in media content or use one of the default generators, and assign it to the quad. Continue to adjust the position of the corners of the quad so it only covers the part of the projection surface that you want.
+6. Continue to add more quads to cover other flat surfaces in the projection. The corners of quads can be snapped together.
+7. Masks can be used to make more complex shapes.
 
 ## Madmapper Resources
 
