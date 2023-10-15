@@ -1,7 +1,7 @@
 ---
 title: 07.09 Projection Mapping 3D Modeled Object Assignment
 date: 2023-10-10T09:00:00
-lastmod: 2023-10-15T16:15:13
+lastmod: 2023-10-15T16:33:48
 ---
 
 ## Assignment Deliverables
@@ -16,7 +16,8 @@ Use a projector and make a mapping of selected objects and the environment. One 
 - fabricate 3D object
 - 3D model object to scale
 - import 3D model into projection mapping software
+- use at least one control on a generative effect, audio input or other
 - add effects to quads
 - add original media
-- add a minimum of one mask
+- add a minimum of two masks
 - take a ~30 second video of the installation
