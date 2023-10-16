@@ -1,5 +1,5 @@
 ---
-title: 11 BFA Research
-date: 2023-06-25T06:57:21
-lastmod: 2023-09-07T20:42:54
+title: 11 Studio Work and Written Statements
+date: 2023-11-20T12:00:00
+lastmod: 2023-10-16T07:37:57
 ---
