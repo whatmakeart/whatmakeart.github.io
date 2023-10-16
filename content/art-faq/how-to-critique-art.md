@@ -1,7 +1,7 @@
 ---
 title: How to Critique Art
 date: 2021-04-05T08:56:42
-lastmod: 2023-09-25T05:55:50
+lastmod: 2023-10-16T06:08:17
 ---
 
 ## What is a Critique?
@@ -14,7 +14,21 @@ We fall into that listing. We have students and instructors - “the experts.”
 
 ### Why is this important?
 
-In order to grow and improve we must know what we accomplish well and what we do not. This allows us to begin what Malcolm Gladwell calls “determined practice.” If we do not constantly evaluate our progress with an aim towards improvement then we merely participate in a hobby.
+In order to grow and improve we must know what we accomplish well and what we do not. In a meta analysis that analyzed "deliberate practice" and its relationship to achievement in athletics, found that practice counted for about 18% on average of an athletes performance gains. [^2] That means that practice is necessary. If you had $82.00 and saw $18.00 would you think, "I have enough, no need to pick that up." or if you had $100, would you be ok casually tossing $18.00 in the trash? That is what it is like to "throw away" gains by not practicing. In the creative fields, a great way to focus one's practice is with critique.
+
+Malcolm Gladwell popularized “deliberate practice” and the idea that it takes 10,000 hours of practice to be great. While there is no magic number for practice, it is still important. Brook Macnamara and Megha Maitra replicated the findings of a previous study about the corelation of the amount of practice of elite violin players. They found that while practice is important and quite signifigant, especially starting out and at lower skill levels, it is not as large as a determining factor as has been popularized. [^3] Nevertheless, if we do not evaluate our progress with an aim towards improvement then we participate in a hobby, which is not a problem unless we want to achieve the best that we can.
+
+<figure>
+
+[![Ammounts of Weekly Practice of Violinists](./attachments/2019-violin-practice-levels-from-study.jpg)](<(./attachments/2019-violin-practice-levels-from-study.jpg)>)
+
+<figcaption>
+
+"Figure 3. Estimated amounts of weekly teacher-designed practice with the violin as a function of age. Error bars represent 95% confidence intervals." by [The Royal Society](http://royalsocietypublishing.org/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) [^3]
+
+</figcaption>
+
+</figure>
 
 Discussing work as a group fosters community and an environment for discourse. You will rise with your peers and must develop relationships in order to succeed.
 
@@ -44,3 +58,5 @@ The success of the critique requires everyone’s participation both verbally an
 [This](./art-school-critique-no-nos.md) is a list of [art critique, do's and don'ts](./art-school-critique-no-nos.md) assembled by faculty and students from real critique experiences.
 
 [^1]: Kendall Buster and Paula Crawford, The Critique Handbook: A Sourcebook and Survival Guide. Upper Saddle River: Pearson Education, 2007, 93.
+[^2]: Macnamara, B. N., Moreau, D., & Hambrick, D. Z. (2016). The Relationship Between Deliberate Practice and Performance in Sports: A Meta-Analysis. _Perspectives on Psychological Science, 11_(3), 333-350. [https://doi.org/10.1177/1745691616635591](https://doi.org/10.1177/1745691616635591)
+[^3]: Macnamara Brooke N. and Maitra Megha 2019The role of deliberate practice in expert performance: revisiting Ericsson, Krampe & Tesch-Römer (1993)R. Soc. open sci. 6.190327. 190327. [http://doi.org/10.1098/rsos.190327](http://doi.org/10.1098/rsos.190327)
