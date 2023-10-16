@@ -1,7 +1,7 @@
 ---
 title: How to Critique Art
 date: 2021-04-05T08:56:42
-lastmod: 2023-10-16T06:08:17
+lastmod: 2023-10-16T07:06:27
 ---
 
 ## What is a Critique?
@@ -20,7 +20,7 @@ Malcolm Gladwell popularized “deliberate practice” and the idea that it take
 
 <figure>
 
-[![Ammounts of Weekly Practice of Violinists](./attachments/2019-violin-practice-levels-from-study.jpg)](<(./attachments/2019-violin-practice-levels-from-study.jpg)>)
+[![Ammounts of Weekly Practice of Violinists](./attachments/2019-violin-practice-levels-from-study.jpg)](./attachments/2019-violin-practice-levels-from-study.jpg)
 
 <figcaption>
 

@@ -1,7 +1,7 @@
 ---
-title: 07.05 Studio Documentation Assignment
+title: 07.06 Studio Documentation Assignment
 date: 2023-10-16T12:00:00
-lastmod: 2023-10-16T06:24:17
+lastmod: 2023-10-16T07:09:02
 ---
 
 ## Assignment Deliverables

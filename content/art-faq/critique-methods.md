@@ -1,7 +1,7 @@
 ---
 title: Critique Methods
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:36:24
+lastmod: 2023-10-16T07:07:20
 ---
 
 Critique is an important part of the creative process. There is no "right" [way to critique](how-to-critique-art.md). By changing up formats and methods of critique, new insights are often gleaned.
@@ -22,6 +22,21 @@ Give groups of three forms to fill out about other people's work. They have to g
 
 There are three essential parts of a critique statement:
 
-1. What do you see? 
-2. What do you think about it? 
+1. What do you see?
+2. What do you think about it?
 3. Why do you think that?
+
+## Artist Self Assessment
+
+To complete a self-assessment, start by asking yourself some basic questions about your project. For example:
+
+1. What were my goals for this project?
+2. Did I achieve my goals?
+3. What did I learn about myself as an artist while working on this project?
+4. What would I do differently if I were to do this project again?
+
+Once you have answered these questions, you can begin to reflect on your strengths and weaknesses. For example:
+
+1. What aspects of my work am I most proud of?
+2. What areas could I improve?
+3. What new skills or techniques did I learn while working on this project?
