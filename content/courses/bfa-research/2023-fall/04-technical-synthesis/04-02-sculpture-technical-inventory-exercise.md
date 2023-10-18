@@ -1,7 +1,7 @@
 ---
 title: 04.02 Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2023-10-08T17:21:59
+lastmod: 2023-10-16T14:36:29
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -109,6 +109,14 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | Rasp                              |       |             |             |             |             |
 | Isadora                           |       |             |             |             |             |
 | Handheld CNC Router               |       |             |             |             |             |
+| Hammer                            |       |             |             |             |             |
+| Hand Held Drill                   |       |             |             |             |             |
+| Drill Mixing Attachment           |       |             |             |             |             |
+| Metal Snips                       |       |             |             |             |             |
+| Airbrush                          |       |             |             |             |             |
+| Spraygun                          |       |             |             |             |             |
+| Beaverly Shear                    |       |             |             |             |             |
+| Rasp                              |       |             |             |             |             |
 
 </div>
 
@@ -171,6 +179,27 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | Chroma Keying                                             |       |             |             |             |             |
 | Multi Channel Audio                                       |       |             |             |             |             |
 | Paper Making                                              |       |             |             |             |             |
+| Stop Motion                                               |       |             |             |             |             |
+| Glass Blowing                                             |       |             |             |             |             |
+| Glass Cold Working                                        |       |             |             |             |             |
+| Lampwork for Glass                                        |       |             |             |             |             |
+| Glass Casting                                             |       |             |             |             |             |
+| Beading                                                   |       |             |             |             |             |
+| Trapunto                                                  |       |             |             |             |             |
+| Gelli Plate Printing                                      |       |             |             |             |             |
+| Wheel Throwing                                            |       |             |             |             |             |
+| Ceramic Clay Sculpture                                    |       |             |             |             |             |
+| Coil Pots                                                 |       |             |             |             |             |
+| Dying Wool                                                |       |             |             |             |             |
+| Dying Fabric                                              |       |             |             |             |             |
+| Painting                                                  |       |             |             |             |             |
+| Spray Painting                                            |       |             |             |             |             |
+| Stone Carving                                             |       |             |             |             |             |
+| Book Binding                                              |       |             |             |             |             |
+| Hand Sewing                                               |       |             |             |             |             |
+| Embroidery                                                |       |             |             |             |             |
+| Powder Coating                                            |       |             |             |             |             |
+|                                                           |       |             |             |             |             |
 
 </div>
 
