@@ -1,7 +1,7 @@
 ---
 title: 07.06 Studio Documentation Assignment
 date: 2023-10-16T12:00:00
-lastmod: 2023-10-16T07:09:02
+lastmod: 2023-10-19T05:21:01
 ---
 
 ## Assignment Deliverables
@@ -12,11 +12,9 @@ lastmod: 2023-10-16T07:09:02
 
 ## Assignment Overview
 
-Each week during the semester you should document the activities in your studio. You can record video, take photographs, make drawings, write down descriptions, and any other means of documentation. Take more documentation than you think you will need, you can edit later.
+The midpoint in the semester is an arbitrary distinction but it offers an opportunity for calibration and wayfinding. For the studio documentation assignment due on October 30th, reflect on your progress and work so far this semester. Give an overview of successes an failures.
 
-Organize the week's studio progress into a presentable document. This could be a webpage, a PDF, an edited video, an organized folder on Google Drive or other specific presentation means. The documentation should be easily reviewable and contain text explanation of what is displayed.
-
-This assignment is due weekly. Some weeks may have specific prompts but all weeks require documentation of what occurred in the studio.
+We will start a new series of studio documentation assignments after returning from fall break.
 
 ## Process
 
