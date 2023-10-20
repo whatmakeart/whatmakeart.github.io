@@ -1,7 +1,7 @@
 ---
-title: 09.03 Editing Multichannel Audio
+title: 09.03 Editing Multichannel Audio with Space Control
 date: 2023-10-20T09:30:00
-lastmod: 2023-10-20T07:32:10
+lastmod: 2023-10-20T07:34:20
 ---
 
 [![Space Control Multi Channel Audio Editing](./20231020-space-control-multichannel-audio-editing-interface.jpg)](./20231020-space-control-multichannel-audio-editing-interface.jpg)
