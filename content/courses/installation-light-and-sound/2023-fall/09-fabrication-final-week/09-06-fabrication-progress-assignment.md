@@ -1,7 +1,7 @@
 ---
 title: 09.06 Fabrication Progress Assignment
 date: 2023-10-20T09:30:00
-lastmod: 2023-10-04T05:14:06
+lastmod: 2023-10-20T07:43:32
 ---
 
 ## Assignment Deliverables
@@ -24,8 +24,6 @@ Write a description of:
 - What didn't work out?
 - What are the next steps?
 - Other thoughts and observations.
-
-**Think about where the LEDs and speakers go !!!!**
 
 <div class="responsive-table-markdown">
 
