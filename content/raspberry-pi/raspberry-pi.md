@@ -8,13 +8,11 @@ A Raspberry Pi is a single board computer that is often used for low power on-si
 
 ## Raspberry Pi Tutorials
 
-[Protect-Raspberry-Pi-From-Power-Failure](protect-raspberry-pi-from-power-failure.md)
-
-[Raspberry-Pi-Auto-Start-Scripts](raspberry-pi-run-on-boot.md)
-
-[Outputting-Sound-with-Raspberry-Pi](outputting-sound-with-raspberry-pi.md)
-
-[Asynchronous video capture with OpenCV and Python – Blitzblit](http://blog.blitzblit.com/2017/12/24/asynchronous-video-capture-in-python-with-opencv/)
+- [How to SSH into a RaspberryPi](./ssh-into-raspberry-pi.md)
+- [Protect-Raspberry-Pi-From-Power-Failure](./protect-raspberry-pi-from-power-failure.md)
+- [Raspberry-Pi-Auto-Start-Scripts](./raspberry-pi-run-on-boot.md)
+- [Outputting-Sound-with-Raspberry-Pi](./outputting-sound-with-raspberry-pi.md)
+- [Asynchronous video capture with OpenCV and Python – Blitzblit](http://blog.blitzblit.com/2017/12/24/asynchronous-video-capture-in-python-with-opencv/)
 
 ### Multiple Audio File Playback Raspberry Pi Links
 
@@ -27,3 +25,7 @@ A Raspberry Pi is a single board computer that is often used for low power on-si
 - [Recommended sound card](https://www.native-instruments.com/en/products/komplete/audio-interfaces/komplete-audio-6/)
 - [Pixel Art Editor](http://twilightedge.com/mac/pikopixel/index.html)
 - [Fade Candy and Raspberry Pi Neopixel script fix](https://groups.google.com/forum/#!topic/fadecandy/owOkvQAEBOc)
+
+## Further Reading
+
+- [Official Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/)
