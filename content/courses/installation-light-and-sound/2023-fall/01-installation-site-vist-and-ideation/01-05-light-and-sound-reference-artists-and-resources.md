@@ -1,7 +1,7 @@
 ---
 title: 01.05 Light and Sound Reference Artists and Resources
 date: 2023-08-25T09:30:00Z
-lastmod: 2023-10-12T06:47:14
+lastmod: 2023-10-22T11:21:45
 ---
 
 <div class="two-column-grid-wrapper">
@@ -55,7 +55,8 @@ lastmod: 2023-10-12T06:47:14
 
 ## Light and Sound Articles
 
-[-Sonic Sphere Shed - New York Times](https://www.nytimes.com/2023/06/23/arts/music/sonic-sphere-shed.html)
+- [Sonic Sphere Shed - New York Times](https://www.nytimes.com/2023/06/23/arts/music/sonic-sphere-shed.html)
+- [Joana Vasconcelos at MAAT Lisbon](https://www.designboom.com/art/joana-vasconcelos-deconstructs-electricity-heritage-in-plug-in-show-at-maat-lisbon-10-06-2023/)
 
 ## Light and Sound Videos
 

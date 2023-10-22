@@ -1,32 +1,25 @@
 ---
 title: AI
 date: 2023-05-23T21:59:42
-lastmod: 2023-09-07T20:38:37
+lastmod: 2023-10-22T11:27:06
 ---
 
-## AI https://ainowinstitute.org/reports.html Creation
+## AI Creation
 
-[https://github.com/shaoanlu/fewshot-face-translation-GAN](https://github.com/shaoanlu/fewshot-face-translation-GAN)
+- [https://ainowinstitute.org/reports.html](https://ainowinstitute.org/reports.html)
+- [GitHub - shaoanlu/fewshot-face-translation-GAN: Generative adversarial networks integrating modules from FUNIT and SPADE for face-swapping](https://github.com/shaoanlu/fewshot-face-translation-GAN)
+- [AI Art Experiments with Blind Users - Artnet](https://news.artnet.com/art-world/ai-art-experiments-blind-users-2368599)
 
 ### Google Collab Links
 
-Upscale https://colab.research.google.com/github/AhabbscienceStudioPak/ESRGAN/blob/master/ESRGAN_Colab.ipynb
+- [Upscale]https://colab.research.google.com/github/AhabbscienceStudioPak/ESRGAN/blob/master/ESRGAN_Colab.ipynb
+- [Google AI Blog: Monster Mash: A Sketch-Based Tool for Casual 3D Modeling and Animation](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html?m=1)
 
-[Google AI Blog: Monster Mash: A Sketch-Based Tool for Casual 3D Modeling and Animation](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html?m=1)
-
-GitHub - shaoanlu/fewshot-face-translation-GAN: Generative adversarial networks integrating modules from FUNIT and SPADE for face-swapping.
-
-https://github.com/shaoanlu/fewshot-face-translation-GAN
-
-GitHub - vt-vl-lab/FGVC: ECCV 2020 Flow-edge Guided Video Completion
-
-https://github.com/vt-vl-lab/FGVC#
-
-https://towardsdatascience.com/realistic-deepfakes-colab-e13ef7b2bba7
-
-PIFuHD Demo - Colaboratory
-
-https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt
+- [GitHub - vt-vl-lab/FGVC: ECCV 2020 Flow-edge Guided Video Completion](https://github.com/vt-vl-lab/FGVC#)
+- [https://towardsdatascience.com/realistic-deepfakes-colab-e13ef7b2bba7](https://towardsdatascience.com/realistic-deepfakes-colab-e13ef7b2bba7)
+- [PIFuHD Demo - Colaboratory](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt)
+- [ChatGPT Transforming PostDocs - Nature](https://www.nature.com/articles/d41586-023-03235-8)
+- [After ChatGPT disruption, Stack Overflow lays off 28 percent of staff - Ars Technica](https://arstechnica.com/gadgets/2023/10/after-chatgpt-disruption-stack-overflow-lays-off-28-percent-of-staff/)
 
 Computer Algorithms Analyzing Paintings November 19, 2014
 
@@ -37,11 +30,11 @@ Brunton, Finn. "The Hidden Variable." Artforum. November 2014. 119-120.
 ## AI Links
 
 - [MIT’s AI can train neural networks faster than ever before](https://www.engadget.com/2019/03/22/mit-ai-automated-neural-network-design/)
-- https://www.reddit.com/r/CGPGrey/comments/x6ec45/the_ethics_of_ai_art/
-- https://www.reddit.com/r/ArtistLounge/comments/x2uy7j/ai_art_isnt_art/
-- https://www.nber.org/papers/w9873 - Article about biases in algorithms hiring people
-- https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G Amazon hiring, algorithm that showed bias against women
-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3329669
+- [The ethics of AI Art - Reddit](https://www.reddit.com/r/CGPGrey/comments/x6ec45/the_ethics_of_ai_art/)
+- [AI Art isn't art - Reddit](https://www.reddit.com/r/ArtistLounge/comments/x2uy7j/ai_art_isnt_art/)
+- [Article about biases in algorithms hiring people](https://www.nber.org/papers/w9873)
+- [Amazon hiring, algorithm that showed bias against women - Rueters](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3329669](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3329669)
 - https://arxiv.org/abs/1810.03993
 - https://ojs.aaai.org//index.php/AAAI/article/view/4777
 - https://ai-4-all.org/
