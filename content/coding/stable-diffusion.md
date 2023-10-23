@@ -3,6 +3,9 @@ title: Stable Diffusion
 date: 2023-05-23T21:59:41
 lastmod: 2023-09-07T20:39:19
 ---
+Stable Diffusion is an [AI](ai-artificial-intelligence.md) deep learning model that can generate images from text descriptions. It is based on diffusion techniques, which involve gradually adding noise to an image until it is completely random, and then reversing the process to generate a new image. 
+
+Stable Diffusion was developed by Stability AI and is an open source model, which means that anyone can use it to generate images.
 
 ```shellsession
 git lfs install

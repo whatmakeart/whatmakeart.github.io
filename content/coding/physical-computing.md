@@ -1,12 +1,25 @@
 ---
 title: Physical Computing
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:39:07
+lastmod: 2023-10-23T05:59:34
 ---
+
+Physical computing is the field of study and practice that combines computer science with electronics and mechanics to create interactive systems that can sense and respond to the physical world. It is also known as embedded systems design, interactive electronics, or DIY electronics.
+
+Physical computing projects often involve using microcontrollers, such as the [Arduino](../arduino/arduino-introduction.md) or [Raspberry Pi](../raspberry-pi/raspberry-pi.md), to connect sensors and actuators to a computer. The microcontroller can then be programmed to read the sensor data and control the actuators accordingly. This allows people to create all sorts of interactive devices, such as robots, musical instruments, and home automation systems, and [art installations](../sculpture/art-installations.md).
+
+Physical computing is popular for people of all ages and skill levels. It is also used in education to teach students about science, technology, engineering, and math (STEM). Additionally, physical computing is used in many industries, such as robotics, manufacturing, and healthcare.
+
+Physical computing projects are typically programmed using a variety of software languages, such as C++, Python, and JavaScript. These languages allow one to write code that controls the behavior of the microcontroller and the other hardware components.
 
 ## Electronics Fabrication
 
-Wire crimping connections Heat shrink tape Fuses Wire gauge Stranded vs solid Solder vs crimped
+- Wire crimping connections
+- Heat shrink tape
+- Fuses
+- Wire gauge
+- Stranded vs solid
+- Solder vs crimped
 
 ## Raspberry Pi
 
@@ -116,6 +129,5 @@ else: # if column odd
     out[ (y * h) + (h -1 -x) ] = color ( *[int( round( c * plasmaBright ) ) for c in hsv ] )
 ```
 
-[LEDs with added trigonometry – sandyjmacdonald](http://sandyjmacdonald.github.io/2015/01/20/leds-with-added-trigonometry/)
-
-[Taking the Leap Off Board: An Introduction to I2C Over Long Wires | Hackaday](https://hackaday.com/2017/02/08/taking-the-leap-off-board-an-introduction-to-i2c-over-long-wires/)
+- [LEDs with added trigonometry – sandyjmacdonald](http://sandyjmacdonald.github.io/2015/01/20/leds-with-added-trigonometry/)
+- [Taking the Leap Off Board: An Introduction to I2C Over Long Wires | Hackaday](https://hackaday.com/2017/02/08/taking-the-leap-off-board-an-introduction-to-i2c-over-long-wires/)

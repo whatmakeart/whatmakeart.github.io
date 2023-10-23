@@ -1,7 +1,7 @@
 ---
 title: AI
 date: 2023-05-23T21:59:42
-lastmod: 2023-10-22T11:27:06
+lastmod: 2023-10-23T05:17:50
 ---
 
 ## AI Creation
@@ -9,6 +9,7 @@ lastmod: 2023-10-22T11:27:06
 - [https://ainowinstitute.org/reports.html](https://ainowinstitute.org/reports.html)
 - [GitHub - shaoanlu/fewshot-face-translation-GAN: Generative adversarial networks integrating modules from FUNIT and SPADE for face-swapping](https://github.com/shaoanlu/fewshot-face-translation-GAN)
 - [AI Art Experiments with Blind Users - Artnet](https://news.artnet.com/art-world/ai-art-experiments-blind-users-2368599)
+- [Stable Diffusion](stable-diffusion.md) is an open source AI image generator
 
 ### Google Collab Links
 
@@ -21,11 +22,7 @@ lastmod: 2023-10-22T11:27:06
 - [ChatGPT Transforming PostDocs - Nature](https://www.nature.com/articles/d41586-023-03235-8)
 - [After ChatGPT disruption, Stack Overflow lays off 28 percent of staff - Ars Technica](https://arstechnica.com/gadgets/2023/10/after-chatgpt-disruption-stack-overflow-lays-off-28-percent-of-staff/)
 
-Computer Algorithms Analyzing Paintings November 19, 2014
-
-I read in Artforum today about computer algorithms analyzing Van Gogh paintings and being able to tell the difference between the brushstrokes of forgeries in real paintings. The author of the peice suggested that these new algorithms could be used by artists to find out what is the best part of a still life, then using the information gained from the deep learning of the machine and big data the artist could amp up the level to what the author calls "uncanny" levels. They could then crossbreed this with other particular styles and let genetic algorithms go through and find out new and unimaginable works of art. They also talked about finding statistical probability to determine the difference between forgeries of signatures. Computers and machines will continue to enhance and extend and externalize our memories just as I'm reading in the Organized Mind book.
-
-Brunton, Finn. "The Hidden Variable." Artforum. November 2014. 119-120.
+I read "Computer Algorithms Analyzing Paintings" in the November 19, 2014 _Artforum_ about computer algorithms analyzing Van Gogh paintings and being able to tell the difference between the brushstrokes of forgeries in real paintings. [^1] The author of the piece suggested that these new algorithms could be used by artists to find out what is the best part of a still life, then using the information gained from the deep learning of the machine and big data the artist could amp up the level to what the author calls "uncanny" levels. They could then crossbreed this with other particular styles and let genetic algorithms go through and find out new and unimaginable works of art. They also talked about finding statistical probability to determine the difference between forgeries of signatures. Computers and machines will continue to enhance and extend and externalize our memories just as I'm reading in the Organized Mind book.
 
 ## AI Links
 
@@ -43,9 +40,12 @@ Brunton, Finn. "The Hidden Variable." Artforum. November 2014. 119-120.
 - https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/
 - https://ai.google/responsibilities/responsible-ai-practices/?category=fairness
 - https://www.turing.ac.uk/research/interest-groups/fairness-transparency-privacy
-- https://partnershiponai.org/research-lander/ https://papers.nips.cc/paper/2017/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html
+- https://partnershiponai.org/research-lander/
+- https://papers.nips.cc/paper/2017/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html
 - https://arxiv.org/pdf/1703.00056.pdf
 - https://arxiv.org/abs/1609.05807
 - http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2545288/?page=1 paper of 1988 biased algorithm
-- Google article about text embedded bias in news articles especially related to gender stereotypes https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html?m=1
+- [paper of 1988 biased algorithm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2545288/?page=1)
+- [Google article about text embedded bias in news articles especially related to gender stereotypes](https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html?m=1)
+
+[^1]: Brunton, Finn. "The Hidden Variable." Artforum. November 2014. 119-120.

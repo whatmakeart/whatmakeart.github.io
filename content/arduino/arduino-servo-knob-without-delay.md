@@ -4,14 +4,13 @@ date: 2023-06-17T10:30:53
 lastmod: 2023-09-07T20:33:43
 ---
 
-We now have the LED that can blink without a `delay();` function and a button that works to debounce without `delay();` but the servo examples, sweep and knob, both use `delay();`. This section shows how to remove the delay from the knob example but could be applied to sweep as well.
+We now have an [Arduino](arduino-introduction.md) with an LED that can blink without a `delay();` function and a button that works to debounce without `delay();` but the servo examples, sweep and knob, both use `delay();`. This section shows how to remove the delay from the knob example but could be applied to sweep as well.
 
 ## Wrap the Task in a Millisecond Timer
 
-This sketch simply takes the servo knob example from Arduino, and wraps it inside the millisecond timer function from blink without delay. [^1] For simple functions and timers this will work for most sketches.
+This sketch simply takes the servo knob example from Arduino and wraps it inside the millisecond timer function from blink without delay. [^1] For simple functions and timers this will work for most sketches.
 
-Now another seperate task such as playing a sound, reading a sensor (like a button), flashing an LED can happen on their own timers.
-
+Now another separate task such as playing a sound, reading a sensor (like a button), flashing an LED can happen on their own timers.
 ## Servo Knob Without Delay Circuit
 
 [![Servo Know without Delay Circuit](attachments/2023-servo-knob-without-delay.png)](attachments/2023-servo-knob-without-delay.png)

@@ -1,10 +1,10 @@
 ---
 title: Blender 3D Animation
 date: 2023-06-14T11:45:49
-lastmod: 2023-09-07T20:28:24
+lastmod: 2023-10-23T07:00:47
 ---
 
-Blender can be used to create 3D animations.
+[Blender](blender.md) can be used to create 3D animations.
 
 - [Blender Ball Rigging Tutorial](https://youtu.be/VsBTUaRESr0)
 - [Add HDRI Background Blender](https://youtu.be/k-moDmBUrrI)

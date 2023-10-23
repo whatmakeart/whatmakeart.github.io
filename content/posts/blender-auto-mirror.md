@@ -14,7 +14,7 @@ spellcheck: off
 
 ## How to Quickly Mirror Objects in Blender with Auto Mirror
 
-In this Blender tutorial, I'll show you how to quickly mirror objects using the Auto Mirror add-on. This is a great way to speed up your modeling workflow and get into creating interesting forms without having to spend a lot of time on the tedious mirroring process.
+In this [Blender](../3d-modeling/blender/blender.md) tutorial, I'll show you how to quickly mirror objects using the Auto Mirror add-on. This is a great way to speed up your modeling workflow and get into creating interesting forms without having to spend a lot of time on the tedious mirroring process.
 
 ## Here's how to use Auto Mirror:
 

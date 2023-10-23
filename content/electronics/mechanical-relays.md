@@ -1,5 +1,7 @@
 ---
 title: Mechanical Relays
+date: 2023-06-17T15:24:59
+lastmod: 2023-10-23T07:00:13
 ---
 
 A mechanical relay flips a physical switch with a magnet when a signal is sent to it. This keeps the signal wire and the high voltage and / or high current source load separated. Sometimes an LED is used to trigger and optical sensor that then switches the load. This type of isolation, optoisolation, offers even more circuit protection.
@@ -8,7 +10,7 @@ Mechanical relays have a telltale "click" when switched. A good switch has a qui
 
 ## Mechanical Relay Module
 
-For use with Arduino microcontrollers, relay modules are available with a relay already soldered together with the necessary resistors and components. The modules usually have screw terminals for easy and secure connections. One side of the module will accept 5v in to power the module. This side will also accept a signal wire from the microcontroller. This signal tells the relay module when to switch the load.
+For use with [Arduino](../arduino/arduino-introduction.md) microcontrollers, relay modules are available with a relay already soldered together with the necessary resistors and components. The modules usually have screw terminals for easy and secure connections. One side of the module will accept 5v in to power the module. This side will also accept a signal wire from the microcontroller. This signal tells the relay module when to switch the load.
 
 On the load side of the relay module, there are 3 screw terminals labled, NC, COM, and NO. These stand for Normally Closed, Common, and Normally Open.
 

@@ -1,8 +1,10 @@
 ---
 title: Hugo Static Site Generator
 date: 2023-05-24T00:28:26
-lastmod: 2023-09-07T20:38:56
+lastmod: 2023-10-23T06:02:49
 ---
+
+Hugo is a [static site generator](./static-site-generators.md) for creating webpages from a folder of markdown files.
 
 ### Hugo Commands
 

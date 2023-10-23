@@ -1,16 +1,26 @@
 ---
 title: CSS
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:38:42
-tags:
-  - stub
+lastmod: 2023-10-23T05:34:30
+tags: CSS
 ---
 
 CSS stands for Cascading Style Sheets and is the language used for the visual styling of most websites. CSS can be [added to a website](how-to-add-css-to-a-webpage.md) in multiple ways.
 
-[CSS Auditing Tools — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-auditing-tools/)
+## CSS Crash Course
 
-https://www.chenhuijing.com/blog/how-i-design-with-css-grid/
+<div class="video-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/KW25-M00YTw?si=6nFyNaNyOvP6jziz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+</div>
+
+## CSS Articles
+
+- [CSS Auditing Tools — Smashing Magazine](https://www.smashingmagazine.com/2021/03/css-auditing-tools/)
+- [Chen Huijing - How I Design with CSS Grid](https://www.chenhuijing.com/blog/how-i-design-with-css-grid/)
 
 ## CSS Tutorials
 

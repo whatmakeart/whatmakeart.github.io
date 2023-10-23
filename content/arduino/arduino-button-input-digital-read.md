@@ -6,7 +6,7 @@ lastmod: 2023-09-07T20:33:05
 
 ## Getting Information from the Arduino
 
-We have sent information to the Arduino in the form of uploading a sketch and then letting it run to blink and LED or turn a servo motor, but how do we get or "read" information from the Arduino? One way is with the Serial Monitor. This example uses the serial monitor to "read" and then "print" whether or not a button is pressed.
+We have sent information to the [Arduino](arduino-introduction.md) in the form of uploading a sketch and then letting it run to blink and LED or turn a servo motor, but how do we get or "read" information from the Arduino? One way is with the Serial Monitor. This example uses the serial monitor to "read" and then "print" whether or not a button is pressed.
 
 ## Example Circuit Setup
 

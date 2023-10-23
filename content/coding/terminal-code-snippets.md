@@ -1,6 +1,5 @@
 ---
 title: Terminal Code Snippets
-
 ---
 
 ## Change default screen shot location
@@ -48,3 +47,5 @@ Useful for unzipping large Google Drive downloads that are split across multiple
 ```
 unzip '*.zip' -d
 ```
+
+- [How to ssh into a Raspberry Pi](../raspberry-pi/ssh-into-raspberry-pi.md)

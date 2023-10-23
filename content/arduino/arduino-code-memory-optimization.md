@@ -6,7 +6,7 @@ lastmod: 2023-09-07T20:33:12
 
 When you compile a sketch in the Arduino IDE it prints out both the amount of Flash memory and Ram that the program uses as well as the percentage of overall Flash memory and RAM used. To avoid errors or problems, both of these numbers should be kept below their maximum values.
 
-Storing variables takes memory, and on small micro-controllers like the Arduino, memory is a small finite resource. Storing a pin number as an `int` takes twice the space as storing it as a `byte`. This type of optimization may not seem like much but it can add up when getting down to the last remaining bytes of memory. Generally it is best practice to use larger variables and then optimize if needed. This is why most Arduino sketch examples use `int ledPin = 4` rather than `char ledPin = 4;`. Those variable declarations can be optimized later if needed but don't needlessly limit the range of a variable if the extra memory is not needed.
+Storing variables takes memory, and on small micro-controllers like the [Arduino](arduino-introduction.md), memory is a small finite resource. Storing a pin number as an `int` takes twice the space as storing it as a `byte`. This type of optimization may not seem like much but it can add up when getting down to the last remaining bytes of memory. Generally it is best practice to use larger variables and then optimize if needed. This is why most Arduino sketch examples use `int ledPin = 4` rather than `char ledPin = 4;`. Those variable declarations can be optimized later if needed but don't needlessly limit the range of a variable if the extra memory is not needed.
 
 ### Arduino Variable Sizes
 

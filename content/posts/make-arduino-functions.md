@@ -13,7 +13,7 @@ spellcheck: off
 
 ## How to Create Functions in Arduino
 
-In this Arduino tutorial, I'll show you how to create simple functions to wrap code in, so you can clean up your `loop()` function and eventually make functions that return values and make your program run better.
+In this [Arduino](../arduino/arduino-introduction.md) tutorial, I'll show you how to create simple functions to wrap code in, so you can clean up your `loop()` function and eventually make functions that return values and make your program run better.
 
 First, we'll combine the default Servo knob example and the Blink without Delay example into one sketch. Then, we'll look at the `loop()` function and see if there's anything that we can separate from the loop and replace with a function call.
 

@@ -79,7 +79,7 @@ Switching Power Supply
 
 ## Controlling Addressable LEDs with Arduino
 
-The Arduino and other microcontroller can control addressable LEDs with the help of libraries.
+The [Arduino](../arduino/arduino-introduction.md)Arduino and other microcontroller can control addressable LEDs with the help of libraries.
 
 ### FastLED Library
 

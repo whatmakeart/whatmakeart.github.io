@@ -30,7 +30,7 @@ Your pictures will be worse with if you use a cellphone rather than a good camer
 
 ### Lighting
 
-Set up lights and a clean backdrop. You can check out lights and a camera from the equipment checkout. You can also take your model to the think[box] and use the soft boxes and flashes already set up.
+Set up lights and a clean backdrop. You can check out lights and a camera from the equipment checkout. You can also take your model to the think\[box\] and use the soft boxes and flashes already set up.
 
 Use at least two light sources spaced apart from the object pointed in at 45 degrees. This will create relatively even lighting and show the structure of your piece. Having a single light from the camera or behind the camera will not look good. If using one light, put the light above the object and use a reflector to bounce light into the shadows.
 
@@ -47,6 +47,9 @@ If you do not have two lights, then you can take your photos outdoors. The sun i
 
 Shoot in JPG and RAW and post process the images. All photos can be improved through post production. Make sure you adjust the levels of your photos to bring out all the detail and dynamic range for bright whites and dark blacks. [White balance should be corrected](https://www.youtube.com/watch?v=m0yZEWUSahk) so the colors look good. Use Photoshop and [Adobe Camera Raw](https://www.youtube.com/watch?v=11jwSwUu2WI) to make adjustments and to retouch any mistakes in the images.
 
+## Photography Documentation Resources
+
+- [think\[box\] Photo Documentation Instructions](../photography/thinkbox-photo-documentation-instructions.md)
 ## Tutorial Videos
 
 <div class="video-grid">
