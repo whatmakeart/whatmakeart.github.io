@@ -16,7 +16,7 @@ To get a Cat 5 cable to connect to and Arduino, use a module.
 
 ## Capacitors for Noise
 
-Use Cat 5 and one pair for power / GND and the other pair for signal and gnd. A 100 nf ceramic capacitor from the arduino input pin to ground can help filter out RF interference
+Use Cat 5 and one pair for power / GND and the other pair for signal and GND. A 100 nf ceramic capacitor from the [Arduino](../arduino/arduino-introduction.md) input pin to ground can help filter out RF interference
 
 ### Bypass Capacitors
 

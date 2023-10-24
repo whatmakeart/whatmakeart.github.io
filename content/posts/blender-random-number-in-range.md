@@ -15,7 +15,7 @@ spellcheck: off
 
 ## How to Get Random Numbers Within a Specific Range in Blender
 
-In this Blender tutorial, I will show you how to get random numbers that exist within a specific range rather than just the default zero to one range for the Object Info > Random value node.
+In this [Blender](../3d-modeling/blender/blender.md) tutorial, I will show you how to get random numbers that exist within a specific range rather than just the default zero to one range for the Object Info > Random value node.
 
 ## Step 1: Create a Material Node Setup
 

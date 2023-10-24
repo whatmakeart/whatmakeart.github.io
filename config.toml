@@ -10,6 +10,9 @@ enableRobotsTXT = true
 pluralizelisttitles = false
 buildFuture = true
 
+[author]
+name = "Jimmy Kuehnle"
+location = "Cleveland"
 
 [sitemap]
 changefreq = "daily"

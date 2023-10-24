@@ -3,7 +3,7 @@ title: Raspberry Pi Auto Start Scriptss
 date: 2023-05-23T21:59:41
 lastmod: 2023-10-08T08:14:09
 ---
-
+There are multiple ways to have a program "run on boot" on a [Raspberry Pi](raspberry-pi.md)
 ## Crontab
 
 Crontab is a method that can be used for programs meant to run in the background.

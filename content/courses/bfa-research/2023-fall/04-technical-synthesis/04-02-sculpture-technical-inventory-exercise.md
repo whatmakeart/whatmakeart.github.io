@@ -161,7 +161,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | Motion Graphics                                           |       |             |             |             |             |
 | Camera Tracking                                           |       |             |             |             |             |
 | Needle Felting                                            |       |             |             |             |             |
-| Sound Editing                                             |       |             |             |             |             |
+| [Sound Editing](../../../../sound/sound-editing-basics.md)                                            |       |             |             |             |             |
 | Plastic Fabrication                                       |       |             |             |             |             |
 | Paper Tape Molds                                          |       |             |             |             |             |
 | Web Design / Net Art                                      |       |             |             |             |             |
