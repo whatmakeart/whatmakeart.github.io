@@ -10,6 +10,7 @@ lastmod: 2023-10-23T05:17:50
 - [GitHub - shaoanlu/fewshot-face-translation-GAN: Generative adversarial networks integrating modules from FUNIT and SPADE for face-swapping](https://github.com/shaoanlu/fewshot-face-translation-GAN)
 - [AI Art Experiments with Blind Users - Artnet](https://news.artnet.com/art-world/ai-art-experiments-blind-users-2368599)
 - [Stable Diffusion](stable-diffusion.md) is an open source AI image generator
+- [AI Video Generation](../courses/time-based-strategies/2023-fall/drafts/ai-video-generation.md)
 
 ### Google Collab Links
 

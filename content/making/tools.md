@@ -65,6 +65,7 @@ To get started with making you need some tools. At a minimum you need a pencil a
 - [Wire Crimper](../electronics/crimping-wire.md)
 - Wire Cutter
 - Twist on Wire Connectors
+- [Multimeter](../electronics/how-to-use-a-multimeter.md)
 
 ### Metalworking Tools
 

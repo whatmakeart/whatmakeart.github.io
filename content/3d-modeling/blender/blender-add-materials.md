@@ -4,7 +4,7 @@ date: 2023-06-14T13:48:44
 lastmod: 2023-09-07T20:28:34
 ---
 
-Adding Materials in Blender works with shaders.
+Adding Materials in [Blender](blender.md) works with shaders.
 
 <div class="video-grid">
 

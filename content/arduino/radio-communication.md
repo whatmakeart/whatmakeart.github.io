@@ -6,7 +6,7 @@ lastmod: 2023-09-07T20:34:18
 
 ## nRF24 Modules
 
-The nRF24L01+ made by Nordic Semi is a 2.4 GHz radio transmitter that has library support for working with an Arduino for wireless communication between multiple devices.
+The nRF24L01+ made by Nordic Semi is a 2.4 GHz radio transmitter that has library support for working with an [Arduino](arduino-introduction.md)  for wireless communication between multiple devices.
 
 [![nrF24 Module](./attachments/2023-nrf24-modules.jpg)](./attachments/2023-nrf24-modules.jpg)
 

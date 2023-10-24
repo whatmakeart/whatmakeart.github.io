@@ -8,7 +8,7 @@ lastmod: 2023-09-07T20:30:19
 
 ### Hex Stool
 
-This [video](https://youtu.be/9utpuieg5lI) shows the process of creating a simple hexagon stool. The video uses a previous method using joints to lay the parts flat. You should use the [arrange tool](https://youtu.be/GzknioA34F8) when you lay your parts flat.
+This [video](https://youtu.be/9utpuieg5lI) shows the process of creating a simple hexagon stool in [Fusion 360](fusion-360.md). The video uses a previous method using joints to lay the parts flat. You should use the [arrange tool](https://youtu.be/GzknioA34F8) when you lay your parts flat.
 
 <div class="gallery-grid">
 
