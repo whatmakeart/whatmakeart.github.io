@@ -1,7 +1,7 @@
 ---
 title: 01.05 Light and Sound Reference Artists and Resources
 date: 2023-08-25T09:30:00Z
-lastmod: 2023-10-22T11:21:45
+lastmod: 2023-10-26T06:24:57
 ---
 
 <div class="two-column-grid-wrapper">
@@ -64,6 +64,10 @@ lastmod: 2023-10-22T11:21:45
 
 <div class="iframe-16-9-container">
 <iframe class="vimeoIframe" title="Chronoharp Performance" src="https://player.vimeo.com/video/831103980?h=498c4b2ff1" width="640" height="360" frameborder="0"  allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/AN38SbrbizQ?si=4LmHc3LhX5kZPZ9-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
