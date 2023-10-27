@@ -12,6 +12,6 @@ This module covers [technical sketching](../../../../drawing/technical-sketching
 
 - Practice technical drawing and sketching techniques
 - Draw isometric cubes and circles
-- Sketch objects using third angle projections
+- Sketch objects using [third angle projections](../../../../drawing/third-angle-projection.md)
 - 3D model a basic object in Fusion 360
 - Create a rendered image of a 3D modeled object in Fusion 360

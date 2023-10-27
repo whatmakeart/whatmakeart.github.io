@@ -6,7 +6,7 @@ lastmod: 2023-09-07T20:29:16
 
 ## Polygon Primitives and Shapes
 
-Fusion 360 allows you to create fast polygon primitives of specific sizes easily. You can create a box, cylinder, sphere, torus, coil, or a pipe. To create any of these forms usually involves an initial click to define the starting surface or point, then a drag to set the first dimensions, a manipulation of parameters and then a confirmation of your choices. If you hover over most tools with your cursor in Fusion 360 it provides as brief description of what the tool does and how to use it.
+[Fusion 360](fusion-360.md) allows you to create fast polygon primitives of specific sizes easily. You can create a box, cylinder, sphere, torus, coil, or a pipe. To create any of these forms usually involves an initial click to define the starting surface or point, then a drag to set the first dimensions, a manipulation of parameters and then a confirmation of your choices. If you hover over most tools with your cursor in Fusion 360 it provides as brief description of what the tool does and how to use it.
 
 When creating a new shape it defaults to a new body but you can also create a new component. If there are existing shapes in the model and you create a new form, then there are options for joining, cutting, intersect, as well as new body and new component.
 

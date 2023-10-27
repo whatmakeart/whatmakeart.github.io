@@ -43,6 +43,7 @@ To get started with making you need some tools. At a minimum you need a pencil a
 - Biscuit Joiner
 - Jigsaw
 - Circular Saw
+- [Planer](../woodworking/planer.md)
 
 ### Power Tools (Air)
 

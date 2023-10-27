@@ -5,3 +5,6 @@ lastmod: 2023-09-07T20:57:01
 tags:
   - stub
 ---
+
+## Further Reading
+- [tools](../making/tools.md) 

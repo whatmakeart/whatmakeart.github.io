@@ -12,7 +12,7 @@ Different fields and disciplines use symbols and conventions to make technical s
 
 ## Projections and Perspective
 
-Technical sketching uses a variety of visual projections and perspective techniques depending on what information is most important to convey. Common types include isometric perspective drawing, Oblique Projections, and third angle projections.
+Technical sketching uses a variety of visual projections and perspective techniques depending on what information is most important to convey. Common types include isometric perspective drawing, Oblique Projections, and [third angle projections](third-angle-projection.md).
 
 <div class="gallery-grid">
 

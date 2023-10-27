@@ -15,7 +15,7 @@ spellcheck: off
 
 ## Can AI Replace Human Creativity?
 
-In this video, I test out the capabilities of two large language models, Bard and ChatGPT, to see if they can write a sitcom script. I give them the same prompt: a family with a dog lives in Denver and their neighbors are constantly bothering them. I see how well they do at generating dialogue, descriptions, and camera cues.
+In this video, I test out the capabilities of two [AI](../coding/ai-artificial-intelligence.md) large language models, Bard and ChatGPT, to see if they can write a sitcom script. I give them the same prompt: a family with a dog lives in Denver and their neighbors are constantly bothering them. I see how well they do at generating dialogue, descriptions, and camera cues.
 
 Bard and ChatGPT are both impressive language models, but they still have a long way to go before they can replace human writers. Bard is better at generating dialogue, while ChatGPT is better at generating descriptions. However, both models struggle with camera cues and formatting.
 

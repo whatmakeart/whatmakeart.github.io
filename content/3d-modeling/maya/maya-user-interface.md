@@ -12,4 +12,4 @@ aliases: /posts/maya-user-interface/
 
 {{< youtube id="-SpVNiRqeKY" title="Maya user interface tutorial for beginners" >}}
 
-Maya user interface tutorial for beginners
+[Maya](maya.md) user interface tutorial for beginners

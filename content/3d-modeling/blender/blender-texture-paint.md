@@ -8,6 +8,8 @@ lastmod: 2023-09-07T20:44:35
 - [Blender Texture Paint Complex Objects](https://youtu.be/Oz4fiddcazI)
 - [Add Checker Texture](https://youtu.be/gv8tQS9bSb8)
 
+This [Blender](blender.md) tutorial shows the basics of using texture paint.
+
 <figure>
 
 [![Blender Texture Paint Workspace](./attachments/2023-blender-texture-paint-workspace.png)](./attachments/2023-blender-texture-paint-workspace.png)

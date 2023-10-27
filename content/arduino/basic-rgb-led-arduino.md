@@ -21,7 +21,7 @@ Image made with [Tinkercad Circuits](https://www.tinkercad.com/circuits) [^1]
 
 ## Pick a Single RGB LED Color
 
-The sketch below has a function `ledColorPicker();` that accepts 3 parameters, red, green, and blue. The `loop();` has the function. Experiment with inputting different values for the colors. Use an [online color picker]() to select a specific RGB color. Once you have one color, try to add a `delay();` and another `ledColorPicker();` function to have the LED switch between colors.
+The [Arduino](arduino-introduction.md)sketch below has a function `ledColorPicker();` that accepts 3 parameters, red, green, and blue. The `loop();` has the function. Experiment with inputting different values for the colors. Use an [online color picker]() to select a specific RGB color. Once you have one color, try to add a `delay();` and another `ledColorPicker();` function to have the LED switch between colors.
 
 Once successful try to incorporate the `millis();` timer function to remove the `delay();`.
 

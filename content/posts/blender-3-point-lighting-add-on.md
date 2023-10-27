@@ -14,7 +14,7 @@ spellcheck: off
 
 ## How to Use the Tri Lighting Add-on in Blender
 
-In this Blender tutorial, I will show you how to use the Tri Lighting add-on. This add-on allows you to quickly and easily set up a three-point lighting system in your scenes.
+In this [Blender](../3d-modeling/blender/blender.md) tutorial, I will show you how to use the Tri Lighting add-on. This add-on allows you to quickly and easily set up a three-point lighting system in your scenes.
 
 ## What is the Tri Lighting Add-on?
 
