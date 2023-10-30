@@ -1,6 +1,6 @@
 ---
-title: Code as Art
+title: Programming for Artists
 date: 2023-10-15T16:30:08
-lastmod: 2023-10-16T05:18:58
-summary: New "Code as Art" course coming spring 2024.
+lastmod: 2023-10-30T07:30:50
+summary: New "Programming for Artists" course coming spring 2024.
 ---
