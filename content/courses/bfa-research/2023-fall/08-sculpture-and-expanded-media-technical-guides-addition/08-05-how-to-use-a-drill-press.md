@@ -1,7 +1,7 @@
 ---
-title: Drill Press
+title: 08.05 How to Use a Drill Press
 date: 2023-10-30T12:00:00
-lastmod: 2023-10-29T11:33:54
+lastmod: 2023-10-30T06:15:23
 ---
 
 1. **Choose the correct drill bit for the material you are drilling.** There are many different types of drill bits, each designed for a specific material. For example, you would use a different type of drill bit to drill wood than you would to drill metal.
