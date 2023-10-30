@@ -1,13 +1,13 @@
 ---
 date: 2022-10-19T8:30:00-04:00
-description: In this tutorial, I will show you how to color many objects with a single material in Blender. This is a great way to save time and effort when you need to create a scene with a lot of objects.
+description: In this tutorial, I will show you how to color many objects with a single material in Blender.
 featured_image: /posts/images/blender-random-colors.jpg
 tags:
   - Blender
   - 3D Modeling
   - Rendering
 title: Blender Random Colors
-draft: true
+
 spellcheck: off
 ---
 
