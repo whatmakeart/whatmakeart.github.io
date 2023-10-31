@@ -1,7 +1,7 @@
 ---
 title: 3D Printing
-date: 2023-06-18T15:26:16
-lastmod: 2023-09-30T06:28:40
+date: 2023-10-31T09:30:00
+lastmod: 2023-10-31T04:14:47
 toc: true
 ---
 

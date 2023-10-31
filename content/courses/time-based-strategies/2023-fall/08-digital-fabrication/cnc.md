@@ -1,4 +1,0 @@
----
-title: CNC
-draft: true
----

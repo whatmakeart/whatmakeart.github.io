@@ -1,10 +1,10 @@
 ---
 title: 3D Printing
 date: 2023-05-23T21:59:42
-lastmod: 2023-09-30T06:44:56
+lastmod: 2023-10-31T04:14:47
 ---
 
-3D Printing is an [additive-processes](../../sculpture/additive-processes.md) of [Fabrication](../../making/fabrication.md).
+3D Printing is an [additive-processes](../../sculpture/additive-processes.md) of [fabrication](../../making/fabrication.md).
 
 ## Types of 3D Printers
 

@@ -1,14 +1,14 @@
 ---
+title: Blender Rigid Body Physics Quick Start Tutorial
 date: 2023-04-27T8:30:00-04:00
-description: In this tutorial, you will learn how to use rigid body physics in Blender. You will learn how to create active and passive rigid bodies, how to change the properties of rigid bodies, and how to animate rigid bodies.
-featured_image: /posts/images/blender-rigid-body-physics-quick-start.jpg
+lastmod: 2023-10-31T04:11:38
+description: In this tutorial, you will learn how to use rigid body physics in Blender.
+featured_image: /content/3d-modeling/blender/attachments/blender-rigid-body-physics-quick-start.jpg
 tags:
   - Blender
   - 3D Modeling
   - Rigid Body Physics
-title: Blender Rigid Body Physics Quick Start Tutorial
-draft: false
-spellcheck: off
+aliases: /posts/blender-rigid-body-physics-quick-start-tutorial/
 ---
 
 {{< youtube id="q88mMWW2yNs" title="Blender Rigid Body Physics Quick Start Tutorial" >}}
