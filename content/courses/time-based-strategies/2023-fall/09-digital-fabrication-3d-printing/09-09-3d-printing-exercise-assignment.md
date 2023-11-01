@@ -1,7 +1,7 @@
 ---
 title: 09.09 3D Printing Exercise Assignment
 date: 2023-10-31T09:30:00
-lastmod: 2023-11-01T08:14:01
+lastmod: 2023-11-01T13:31:37
 ---
 
 ## Assignment Deliverables
@@ -31,7 +31,7 @@ lastmod: 2023-11-01T08:14:01
 
 ### 3D Printing Slicing
 
-- [Cura Slicing Basics]()
+- [Cura Slicing Basics](../../../../digital-fabrication/3d-printing/cura-slicing-basics.md)
 
 ### 3D Printer Resources
 
