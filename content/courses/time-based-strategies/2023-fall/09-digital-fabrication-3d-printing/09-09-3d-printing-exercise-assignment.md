@@ -1,7 +1,7 @@
 ---
 title: 09.09 3D Printing Exercise Assignment
 date: 2023-10-31T09:30:00
-lastmod: 2023-11-01T08:13:50
+lastmod: 2023-11-01T08:14:01
 ---
 
 ## Assignment Deliverables
@@ -18,7 +18,7 @@ lastmod: 2023-11-01T08:13:50
 
 ## Helpful Guides
 
-2. Make a rendering of the object in Blender or other software. Add a background. You could use the [infinite background](<(../../../../3d-modeling/blender/blender-infinite-background.md)>) from the demo or create your own background. Save the rendering as an image and upload it.
+2. Make a rendering of the object in Blender or other software. Add a background. You could use the [infinite background](<(../../../../3d-modeling/blender/blender-infinite-background.md)>>) from the demo or create your own background. Save the rendering as an image and upload it.
 3. Size the 3D model to an appropriate size. Use the bounding option in the 3D Print toolbox. Export an STL file for 3D printing.
 4. Use Cura to slice the 3D print and save the gcode file.
 5. 3D print the object on the SEM 3D Printer or the 3D printers at the think\[box\].
