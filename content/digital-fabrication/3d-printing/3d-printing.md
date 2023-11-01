@@ -1,10 +1,13 @@
 ---
 title: 3D Printing
 date: 2023-05-23T21:59:42
-lastmod: 2023-10-31T04:14:47
+lastmod: 2023-11-01T05:53:43
 ---
 
 3D Printing is an [additive-processes](../../sculpture/additive-processes.md) of [fabrication](../../making/fabrication.md).
+
+[print-in-place-hinge](print-in-place-hinge.md)
+[index](../../posts/3d-print-in-place-ball-and-socket-hinge-fusion-360/3d-print-in-place-ball-and-socket-hinge-fusion-360.md)
 
 ## Types of 3D Printers
 

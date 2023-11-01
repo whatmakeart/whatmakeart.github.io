@@ -1,12 +1,12 @@
 ---
 title: Fusion 360 Rule Number One
 date: 2023-06-13T14:42:56
-lastmod: 2023-09-07T20:31:08
+lastmod: 2023-10-31T05:02:31
 ---
 
 ## Fusion 360 Rule # 1
 
-Fusion 360 is a parametric 3D modeling program that organizes a model into sketches, construction planes, bodies, surfaces, components, and assemblies. There are more elements to Fusion 360 but these are the most important. Everything done to the model in Fusion 360 is captured in a design history as a "feature." This is powerful because features can be edited at a later time to update a model.
+[Fusion 360](./fusion-360.md) is a [parametric](../parametric-modeling.md) 3D modeling program that organizes a model into sketches, construction planes, bodies, surfaces, components, and assemblies. There are more elements to Fusion 360 but these are the most important. Everything done to the model in Fusion 360 is captured in a design history as a "feature." This is powerful because features can be edited at a later time to update a model.
 
 For example, if you are modeling a table and already finished the legs but want them to be taller or shorter, you can go back to the original sketch or feature, make the dimension change and the rest of the model will update automatically. Wow, sounds too good to be true. Well, it almost is. This automatic updating only works if you plan out your models and follow some best practices.
 
@@ -20,14 +20,14 @@ When getting started try to follow Rule #1:
 
 Of course you might not always do this when you are experimenting or trying something out, but it is still a good habit to get into because often a simple experiment becomes a full working design.
 
-<div class="tutorial-video-grid>
+<div class="video-grid>
 
 <div class="video-card">
 
 ## 1. Fusion 360 Rule #1
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/ZYXSJ6EQ9S4?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
-
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/ZYXSJ6EQ9S4?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe>
+</div>
 </div>
 
 </div>

@@ -1,12 +1,12 @@
 ---
-description: "Make a take off and landing flying visual effect"
+title: Flying Visual Effect Tutorial
 date: 2021-04-20T13:42:06
-lastmod: 2023-09-07T20:57:01
-featured_image:
-  /video/adobe-premiere-pro/attachments/flying-special-effect-in-adobe-premiere-tutorial.jpg
+lastmod: 2023-10-31T04:56:29
+description: "Make a take off and landing flying visual effect"
+featured_image: /video/adobe-premiere-pro/attachments/flying-special-effect-in-adobe-premiere-tutorial.jpg
+tags:
   - Adobe Premiere
   - tutorial
-title: "Flying Visual Effect Tutorial"
 aliases:
   - /posts/flying-visual-effect-tutorial-adobe-premiere/
 ---

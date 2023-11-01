@@ -1,12 +1,13 @@
 ---
+title: Glowing Tip Magic Wand Video Effect
 date: 2021-04-23T8:30:00-04:00
-lastmod: 2023-09-07T20:56:00
+lastmod: 2023-10-31T04:55:53
 description: Add a glowing tip to your magic wand
 featured_image: /video/adobe-premiere-pro/attachments/glowing-tip-magic-wand-effect-adobe-premiere.jpg
 tags:
   - Adobe Premiere
   - tutorial
-title: Glowing Tip Magic Wand Video Effect
+
 aliases:
   - /posts/glowing-tip-magic-wand-effect-adobe-premiere/
 ---

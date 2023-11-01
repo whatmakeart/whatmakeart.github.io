@@ -1,17 +1,22 @@
 ---
+title: Blender Simple Render
 date: 2023-04-12T8:30:00-04:00
+lastmod: 2023-11-01T05:53:43
 description: In this Blender tutorial, I will show you how to create a simple render of a cube with a backdrop and two lights.
-featured_image: /posts/images/blender-basic-render.jpg
+featured_image: /3d-modeling/blender/attachments/blender-basic-render.jpg
 tags:
   - Blender
   - 3D Modeling
   - Rendering
-title: Blender Basic Render
-draft: false
-spellcheck: off
+aliases:
+  - /posts/blender-basic-render/
 ---
 
-{{< youtube id="Qw8jl8mKEsY" title="Blender Basic Render" >}}
+<div class="video-grid">
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Qw8jl8mKEsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 ## How to Create a Simple Render in Blender
 
@@ -37,7 +42,7 @@ Now, you need to adjust the settings of the lights. To do this, select the light
 
 Once you are happy with the lighting, you can render the scene. To do this, go to **Render > Render Image**.
 
-### That's it! You have now successfully created a simple render of a cube with a backdrop and two lights.\*\*
+### That's it! You have now successfully created a simple render of a cube with a backdrop and two lights.
 
 **Here are some additional tips:**
 
@@ -45,4 +50,8 @@ Once you are happy with the lighting, you can render the scene. To do this, go t
 - You can use different render engines to create different types of images.
 - You can use Blender to create a variety of different 3D objects and scenes.
 
-I hope this tutorial was helpful!
+## Further Reading
+
+- [Blender Rendering Basics](./blender-rendering-basics.md)
+- [Blender Infinite Background](./blender-infinite-background.md)
+- [Blender Three Point Lighting Addon](./blender-3-point-lighting-add-on.md)

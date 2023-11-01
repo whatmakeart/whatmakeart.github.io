@@ -4,8 +4,8 @@ description: "3D Printed 90 Degree Angle Bracket"
 featured_image: "/posts/3d-printed-90-degree-angle-bracket/3d print 90 degree bracket title.jpg"
 tags: ["3D Printing", "Fusion 360"]
 title: "3D Printed 90 Degree Angle Bracket"
-draft: false
-spellcheck: off
+aliases:
+  - /posts/3d-printed-90-degree-angle-bracket
 ---
 
 {{< youtube id="lAX7XAcrvL4" title="3D Printed 90 Degree Angle Bracket" >}}
