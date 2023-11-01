@@ -1,7 +1,7 @@
 ---
 title: 3D Print Design Guidelines
 date: 2023-06-15T05:23:20
-lastmod: 2023-09-30T06:37:56
+lastmod: 2023-11-01T08:13:57
 ---
 
 ## General 3D Print Rules for FFF Printing without Dissolvable Supports
@@ -14,7 +14,7 @@ lastmod: 2023-09-30T06:37:56
 
 <figure>
 
-![3D Print Angles](./2022-3D-Print-Angles-at-Angle.png)
+![3D Print Angles](./attachments/2022-3D-Print-Angles-at-Angle.png)
 
 <figcaption>
 
@@ -24,7 +24,7 @@ Red models will not print without supports but green models will because they ri
 </figure>
 <figure>
 
-![3D Print Angles Square](./2022-3D-Print-Angles-Square.png)
+![3D Print Angles Square](./attachments/2022-3D-Print-Angles-Square.png)
 
 Red models will not print without supports but green models will because they rise up at 45 degrees
 
@@ -32,7 +32,7 @@ Red models will not print without supports but green models will because they ri
 </figure>
 <figure>
 
-![3D Print Angles Round](./2022-3D-Print-Angles-Round.png)
+![3D Print Angles Round](./attachments/2022-3D-Print-Angles-Round.png)
 
 Red models will not print without supports but green models will because they rise up at 45 degrees
 
@@ -47,7 +47,7 @@ The following guidelines help achieve successful 3d Prints especially when desig
 <div class="gallery-grid">
 <figure>
 
-![3D Print Guidelines](./2022-3D-Print-Guidelines.png)
+![3D Print Guidelines](./attachments/2022-3D-Print-Guidelines.png)
 
 <figcaption>
 
@@ -57,7 +57,7 @@ Example of model showing Mechanical 3D Print Guidelines
 </figure>
 <figure>
 
-![3D Print Gussets](./2022-3D-Print-Gussets.png)
+![3D Print Gussets](./attachments/2022-3D-Print-Gussets.png)
 
 <figcaption>
 
@@ -67,7 +67,7 @@ Gussets or supporting pieces like wings give more structure to elements.
 </figure>
 <figure>
 
-![3D Print Uniform Wall Thickness](./2022-3D-Print-Uniform-Wall-Thickness.png)
+![3D Print Uniform Wall Thickness](./attachments/2022-3D-Print-Uniform-Wall-Thickness.png)
 
 <figcaption>
 
@@ -77,7 +77,7 @@ Uniform Walls help with deformation and warping.
 </figure>
 <figure>
 
-![3D Print Fillets](./2022-3D-Print-Fillets.png)
+![3D Print Fillets](./attachments/2022-3D-Print-Fillets.png)
 
 <figcaption>
 
@@ -87,7 +87,7 @@ Fillets or rounded interior corners add strength and help with warping. Ribs als
 </figure>
 <figure>
 
-![3D Print Ribs](./2022-3D-Print-Ribs.png)
+![3D Print Ribs](./attachments/2022-3D-Print-Ribs.png)
 
 <figcaption>
 
@@ -97,7 +97,7 @@ Chamfers or angled interior corners add strength and help with warping like fill
 </figure>
 <figure>
 
-![3D Print Round Corners](./2022-3D-Print-Round-Corners.png)
+![3D Print Round Corners](./attachments/2022-3D-Print-Round-Corners.png)
 
 <figcaption>
 
