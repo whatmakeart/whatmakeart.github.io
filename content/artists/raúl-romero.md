@@ -1,7 +1,7 @@
 ---
-title: 03.02 Raúl Romero Introduction
+title: Raúl Romero
 date: 2023-09-08T09:30:00
-lastmod: 2023-09-15T06:24:24
+lastmod: 2023-11-05T05:06:45
 ---
 
 <div class="gallery-grid">

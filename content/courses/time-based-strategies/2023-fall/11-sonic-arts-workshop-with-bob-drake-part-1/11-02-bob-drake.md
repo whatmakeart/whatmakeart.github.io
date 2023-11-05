@@ -1,7 +1,7 @@
 ---
-title: 07.08 Bob Drake
-date: 2023-10-06T09:30:00
-lastmod: 2023-11-05T05:01:53
+title: 11.02 Bob Drake
+date: 2023-11-14T09:00:00
+lastmod: 2023-11-05T05:08:53
 toc: true
 ---
 
