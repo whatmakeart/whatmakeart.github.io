@@ -1,5 +1,7 @@
 ---
 title: Prepare DXF File for Laser Cutting
+date: 2023-06-14T13:02:24
+lastmod: 2023-11-07T06:14:22
 ---
 
 ## Open DXF in Illustrator and Adjust Stroke
