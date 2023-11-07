@@ -1,7 +1,7 @@
 ---
 title: 10.05 Laser Cutting Exercise Assignment
 date: 2023-11-07T09:30:00
-lastmod: 2023-11-07T06:20:52
+lastmod: 2023-11-07T06:27:12
 ---
 
 ## Assignment Deliverables
@@ -31,8 +31,8 @@ lastmod: 2023-11-07T06:20:52
 | Laser Cut Cutout             | 30 points |
 | Laser Cut Assembled          | 30 points |
 | Render Image Composition     | 10 points |
-| DXF File Uploaded            | 10 points |
 | Render Image Uploaded        | 10 points |
+| DXF File Uploaded            | 10 points |
 | File Management and Labeling | 10 points |
 
 </div>
