@@ -1,7 +1,11 @@
 ---
 title: 10.04 3D Modeling for Laser Cutting with Fusion 360
 date: 2023-11-07T09:30:00
+<<<<<<< HEAD
 lastmod: 2023-11-12T07:54:25
+=======
+lastmod: 2023-11-07T14:31:45
+>>>>>>> aa81c87220d5c18cc4b17c4c90579375e4950b6d
 ---
 
 ## Fusion 360 Quick Start
@@ -54,7 +58,7 @@ lastmod: 2023-11-12T07:54:25
 
 ### Create Laser Cutting Tool
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/-B6DXF9aE5s ?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/-B6DXF9aE5s?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 </div>
 

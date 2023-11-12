@@ -1,7 +1,7 @@
 ---
 title: 04.02 Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2023-10-16T14:36:29
+lastmod: 2023-10-16T15:20:25
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -199,7 +199,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | Hand Sewing                                               |       |             |             |             |             |
 | Embroidery                                                |       |             |             |             |             |
 | Powder Coating                                            |       |             |             |             |             |
-|                                                           |       |             |             |             |             |
+| Pnuematic structure                                       |       |             |             |             |             |
 
 </div>
 
