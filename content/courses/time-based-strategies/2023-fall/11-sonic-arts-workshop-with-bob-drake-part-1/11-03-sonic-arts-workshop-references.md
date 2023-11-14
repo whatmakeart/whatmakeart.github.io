@@ -1,10 +1,10 @@
 ---
-title: Sonic Arts Workshop References
-date: 2023-11-14T04:14:29
-lastmod: 2023-11-14T05:25:17
+title: 11.03 Sonic Arts Workshop References
+date: 2023-11-14T09:00:00
+lastmod: 2023-11-14T05:33:12
 ---
 
-This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) Sonic Arts Workshop in the fall 2023 Time Based Strategies course in the Sculpture + Expanded Media Department at the Cleveland Institute of Art.
+This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) Sonic Arts Workshop in the fall 2023 Time Based Strategies course in the [Sculpture + Expanded Media Department](https://www.cia.edu/academics/sculpture-expanded-media) at the Cleveland Institute of Art.
 
 ## Selected Sound Sculptures
 
@@ -12,22 +12,12 @@ This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) 
 
 <div class="video-grid">
 
-<div class="video-card">
-
-#### Zimoun Selected Works 4.2
-
 <div class="iframe-16-9-container">
 <iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/7235817?h=3e23495df6" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 </div>
-</div>
-
-<div class="video-card">
-
-#### Zimoun 2009: 25 woodworms, wood, microphone, sound system
 
 <div class="iframe-16-9-container">
 <iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/14424815?h=94a875bf71" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-</div>
 </div>
 
 </div>
