@@ -1,8 +1,10 @@
 ---
 title: Sonic Arts Workshop References
 date: 2023-11-14T04:14:29
-lastmod: 2023-11-14T05:04:16
+lastmod: 2023-11-14T05:25:17
 ---
+
+This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) Sonic Arts Workshop in the fall 2023 Time Based Strategies course in the Sculpture + Expanded Media Department at the Cleveland Institute of Art.
 
 ## Selected Sound Sculptures
 
@@ -43,3 +45,64 @@ lastmod: 2023-11-14T05:04:16
 </div>
 
 </div>
+
+### [CHIJIKINKUTSU Nelo Akamatsu](http://www.neloakamatsu.jp/chijikinkutsu-eng.html)
+
+<div class="video-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/0p-giz2am0A?si=TEATeF5HYpixbaLS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/f2pmHX3As5c?si=qDDF-mQfG0hKxadp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+</div>
+
+## Listening
+
+### John Cage
+
+<div class="video-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/H-Xy-gAaOzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+</div>
+
+### [Christine Sun Kim](http://christinesunkim.com/)
+
+<div class="video-grid">
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/31083172?h=c477c18286#t=2m12s" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+</div>
+
+### Pauline Oliveros
+
+<div class="video-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/WvP4MxvFpP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/u355U29bOt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/40995502" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+</div>
+
+## Further Reading
+
+- More on the Oliveros piece: [Rae Diamond on Environmental Dialogue](https://www.raediamond.com/single-post/2015-7-5-art-of-listening-environmental-dialogue), from her [Art of
+  Listening blog](https://www.raediamond.com/blog/categories/art-of-listening)
+- Comparison with David Dunn’s PLACE, in [Sound American #19](https://soundamerican.org/issues/place)
+- [Deep Listening Institute](http://www.deeplistening.org/site/content/about)
+- [Ruben Museum intro to Sonic Meditations](http://rubinmuseum.org/blog/pauline-oliveros-deep-listening-sound-meditations)
