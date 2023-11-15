@@ -1,6 +1,3 @@
-# pagefind.yml
-site: public
-
 exclude_selectors:
   # hugo created footnote ids and class to exclude from search
   - "[id^='fnref']"
@@ -11,4 +8,3 @@ exclude_selectors:
   - "[id='topTOC']"
   - "[id='bottom-prev-next']" # prev next buttons on course pages
   - "[class='bl-section']" # class of div wrapping backlinks
-
