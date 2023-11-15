@@ -112,9 +112,6 @@ blockquote em {
 
 /* PageFind UI Variables */
 
-#search {
-  padding-top:3rem;
-}
 :root {
   --pagefind-ui-scale: 1;
   --pagefind-ui-primary: #034ad8;

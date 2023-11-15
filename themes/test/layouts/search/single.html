@@ -1,7 +1,13 @@
 {{ define "main" }}
-  <p>Use the search below to find what you are looking for.</p>
-  <div style="width:75%">
-    {{ partialCached "pagefind.html" . }}
+  <div class="container-xxl bd-gutter mt-3 my-md-4 bd-layout">
+    <aside class="bd-sidebar"></aside>
+    <main class="bd-main order-1">
+      <div class="bd-content ps-lg-2" id="wiki-content">
+        <p>Use the search below to find what you are looking for.</p>
 
+        {{ partialCached "pagefind.html" . }}
+
+      </div>
+    </main>
   </div>
 {{ end }}
