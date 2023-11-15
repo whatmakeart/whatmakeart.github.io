@@ -1,10 +1,10 @@
 ---
 title: Bob Drake
 date: 2023-11-05T05:01:00
-lastmod: 2023-11-05T05:01:15
+lastmod: 2023-11-14T09:14:35
 ---
 
-[Bob Drake Online](https://fluxmonkey.com/)
+[Bob Drake](https://fluxmonkey.com/) is a sound artist and muscician.
 
 <div class="video-grid">
 
