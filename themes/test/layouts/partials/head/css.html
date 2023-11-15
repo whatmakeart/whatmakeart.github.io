@@ -6,6 +6,12 @@
 {{ $gutenbergCSS := resources.Get "css/gutenberg.css" | minify }}
 {{ $css := slice $bootstrapCSS $bootstrapDocsCSS $stylesCSS | resources.Concat "css/main.css" }}
 
-<link rel="stylesheet" href="{{ $css.RelPermalink }}" media="screen">
-<link rel="stylesheet" type="text/css" href="{{ $gutenbergCSS.RelPermalink }}" media="print">
-<link href="/artsearch/pagefind-ui.css" rel="stylesheet">
+
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" media="screen" />
+<link
+  rel="stylesheet"
+  type="text/css"
+  href="{{ $gutenbergCSS.RelPermalink }}"
+  media="print"
+/>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />

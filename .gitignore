@@ -21,5 +21,5 @@ Thumbs.db
 
 # hugo
 .hugo_build.lock
-static/_pagefind
+static/pagefind
 node_modules
