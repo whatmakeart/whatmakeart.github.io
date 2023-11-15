@@ -1,10 +1,11 @@
 {{ partial "head/meta" . }}
 
+
 <title>
   {{- if eq .Kind "home" -}}
-  {{ .Site.Title }}
+    {{ .Site.Title }}
   {{- else -}}
-  {{ printf "%s | %s" (partial "head/title" .) .Site.Title }}
+    {{ printf "%s | %s" (partial "head/title" .) .Site.Title }}
   {{- end -}}
 </title>
 
@@ -12,7 +13,8 @@
 {{ partial "head/rel-me" . }}
 {{ partial "head/microformats" . }}
 
+
 <link rel="canonical" href="{{ .Permalink }}" />
 
-{{ partial "stylesheet" . }}
+{{ partial "head/stylesheet" . }}
 {{ partial "head/analytics" . }}
