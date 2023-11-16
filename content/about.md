@@ -33,6 +33,7 @@ This is a conceptual work in progress exploring better ways to exchange informat
 
 ### Examples of Coursework and Research Publicly Accessible
 
+- [Introduction to Engineering Design by Dr. James F. Young](https://www.clear.rice.edu/elec201/index.html)
 - [MIT Rapid Prototyping Course](http://fab.cba.mit.edu/classes/865.18/index.html)
 - [MIT Center for Bits and Atoms](http://cba.mit.edu/)
 - [Stanford CS 161](https://stanford-cs161.github.io/) Stanford Computer Science Course
@@ -54,17 +55,14 @@ These "open" course pages have been available for years and are a model of what 
 - [University of Washington Computer Science Course CSE 458](https://courses.cs.washington.edu/courses/cse458/)
 - [University of Washington Computer Science Course CSE 490](https://courses.cs.washington.edu/courses/cse490t/15sp/)
 
-[Data Engineering Community Wiki](https://github.com/data-engineering-community/data-engineering-wiki)
+#### Additional Online Resources
 
-[Shawn Graham's Open Digital Humanities Notebook 2016-17](http://smgprojects.github.io/)
-
-[Open Research of history professor at Rice University](http://wiki.wcaleb.rice.edu/)
-
-[Digital Gardening at IUPUI](https://www.iue.edu/blogs/library/2021/11/08/digital-gardening-a-new-way-to-think-about-digital-literacy/)
-
-[Professor Keely's Math Notebook](https://www.integreat.ca/OL/index.html)
-
-[Massive Wiki](https://massive.wiki/) - Groups of wikis put together
+- [Data Engineering Community Wiki](https://github.com/data-engineering-community/data-engineering-wiki)
+- [Shawn Graham's Open Digital Humanities Notebook 2016-17](http://smgprojects.github.io/)
+- [Open Research of history professor at Rice University](http://wiki.wcaleb.rice.edu/)
+- [Digital Gardening at IUPUI](https://www.iue.edu/blogs/library/2021/11/08/digital-gardening-a-new-way-to-think-about-digital-literacy/)
+- [Professor Keely's Math Notebook](https://www.integreat.ca/OL/index.html)
+- [Massive Wiki](https://massive.wiki/) - Groups of wikis put together
 
 ### Public?
 

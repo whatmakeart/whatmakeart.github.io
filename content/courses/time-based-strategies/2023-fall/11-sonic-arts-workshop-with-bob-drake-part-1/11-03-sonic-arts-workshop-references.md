@@ -1,10 +1,10 @@
 ---
 title: 11.03 Sonic Arts Workshop References
 date: 2023-11-14T09:00:00
-lastmod: 2023-11-16T06:06:08
+lastmod: 2023-11-16T06:33:01
 ---
 
-This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) Sonic Arts Workshop in the fall 2023 [Time Based Strategies course](../../2023-fall/) in the [Sculpture + Expanded Media Department](https://www.cia.edu/academics/sculpture-expanded-media) at the [Cleveland Institute of Art](https://www.cia.edu/).
+This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) Sonic Arts Workshop [^1] in the fall 2023 [Time Based Strategies course](../../2023-fall/) in the [Sculpture + Expanded Media Department](https://www.cia.edu/academics/sculpture-expanded-media) at the [Cleveland Institute of Art](https://www.cia.edu/).
 
 ## Listening
 
@@ -133,13 +133,13 @@ This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) 
 
 ### Simple Machines
 
-- Change rotary motion to linear using cams, cranks, levers
+- Change rotary motion to linear using cams, cranks, levers [^2]
 
-  ![Crank](./cam-and-crank-from-rice-university.gif)
+[![Cam and Crank](./cam-and-crank-from-rice-university.gif)](./cam-and-crank-from-rice-university.gif)
 
 ### Loose Coupling
 
-Introduce irregularity/indeterminacy to motion
+Introduce irregularity / indeterminacy to motion
 
 - Non-rigid parts like string, rubber bands
 - Loose-fitting or “sloppy” connections
@@ -152,3 +152,4 @@ Introduce irregularity/indeterminacy to motion
 - [Ruben Museum intro to Sonic Meditations](http://rubinmuseum.org/blog/pauline-oliveros-deep-listening-sound-meditations)
 
 [^1]: Text and resources on this page from Sonic Arts Workshop handout written by [Bob Drake](https://fluxmonkey.com/)
+[^2]: _**Figure 3.9:** Cams and Cranks_ from [Basic Mechanics](https://www.clear.rice.edu/elec201/Book/basic_mech.html) chapter of [ELEC 201 Notes](https://www.clear.rice.edu/elec201/index.html) by Dr. James F. Young
