@@ -1,10 +1,10 @@
 ---
 title: 11.03 Sonic Arts Workshop References
 date: 2023-11-14T09:00:00
-lastmod: 2023-11-16T05:52:16
+lastmod: 2023-11-16T06:06:08
 ---
 
-This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) Sonic Arts Workshop in the fall 2023 Time Based Strategies course in the [Sculpture + Expanded Media Department](https://www.cia.edu/academics/sculpture-expanded-media) at the Cleveland Institute of Art.
+This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) Sonic Arts Workshop in the fall 2023 [Time Based Strategies course](../../2023-fall/) in the [Sculpture + Expanded Media Department](https://www.cia.edu/academics/sculpture-expanded-media) at the [Cleveland Institute of Art](https://www.cia.edu/).
 
 ## Listening
 
@@ -51,6 +51,30 @@ This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) 
 - Les Transformables v.103 - https://vimeo.com/178374566 (installation/performance)
 - Mechanical Music – VNM Festival 2016: https://vimeo.com/200082976 (performance)
 
+<div class="video-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/295939586?h=70fe027487" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/294635305?h=0a0a571751" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/175714054?h=c75440ad39" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/178374566?h=8f6a65f612" width="640" height="427" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/200082976?h=0bcf1df297&color=C5113E" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+</div>
+
 ### [Petr Válek’s](https://vasulkakitchen.org/en/petr-valek-figments-and-other-stuff) extreme noise
 
 - https://www.youtube.com/watch?v=6-D9ofCURUk (wall sculpture)
@@ -60,13 +84,70 @@ This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) 
 - https://www.youtube.com/watch?v=UGrJBnpq830 (sculpture)
 - https://www.youtube.com/watch?v=EDH4D6ombV0 (sculpture)
 
+<div class="video-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6-D9ofCURUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/GLZcWX-0nAM " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/-wLpRpuKVVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/1wgmlZH3UPU " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/UGrJBnpq830" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/EDH4D6ombV0 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+</div>
+
 ## Techniques
+
+### Tones vs. Noises
+
+- Abrasive “noisy” sound
+  - Friction/resistance
+  - Scraping
+  - Softer (cardboard) or irregular (sandpaper, rough rock) surfaces on object
+- Tonal
+  - Striking, percussive, or vibration activation
+  - Harder materials – metal, ceramic, hardwood
+  - Suspend objects to allow for freer vibration (foam, rubber, string).
+
+### Resonant Objects/Chambers
+
+- Increase volume of small sounds by mounting on a larger plate
+- Increase resonance by suspending objects, so they are freer to vibrate
+- Increase & modify the sound by mounting on container with an opening
+
+### Simple Machines
+
+- Change rotary motion to linear using cams, cranks, levers
+
+  ![Crank](./cam-and-crank-from-rice-university.gif)
+
+### Loose Coupling
+
+Introduce irregularity/indeterminacy to motion
+
+- Non-rigid parts like string, rubber bands
+- Loose-fitting or “sloppy” connections
+- Eccentric weighted motor-driven parts
+- Freely moving objects reacting to motor-driven movement (stirring marbles in a bowl)
 
 ## Further Reading
 
-- More on the Oliveros piece: [Rae Diamond on Environmental Dialogue](https://www.raediamond.com/single-post/2015-7-5-art-of-listening-environmental-dialogue), from her [Art of
-  Listening blog](https://www.raediamond.com/blog/categories/art-of-listening)
-- Comparison with David Dunn’s PLACE, in [Sound American #19](https://soundamerican.org/issues/place)
 - [Deep Listening Institute](http://www.deeplistening.org/site/content/about)
 - [Ruben Museum intro to Sonic Meditations](http://rubinmuseum.org/blog/pauline-oliveros-deep-listening-sound-meditations)
 
