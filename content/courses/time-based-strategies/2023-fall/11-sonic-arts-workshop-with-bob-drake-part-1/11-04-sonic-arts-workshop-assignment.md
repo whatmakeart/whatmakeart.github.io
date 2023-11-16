@@ -1,7 +1,7 @@
 ---
 title: 11.04 Sonic Arts Workshop Assignment
 date: 2023-11-14T09:00:00
-lastmod: 2023-11-16T06:42:09
+lastmod: 2023-11-16T06:51:26
 ---
 
 ## Assignment Deliverables
@@ -46,5 +46,9 @@ You are welcome to use 3D printing to produce parts of your sculpture. This coul
 | Ability to Combine with other Sound Sculptures | 25 points |
 
 </div>
+
+## Additional Resources
+
+- [Basic Electricity Safety](../../../../electronics/electricity-safety.md)
 
 [^1]: _Motorized Sound Sculpture_ assignment text on this page was written by [Bob Drake](https://fluxmonkey.com/) is is used with permission in conjunction with his Sonic Arts Workshop.
