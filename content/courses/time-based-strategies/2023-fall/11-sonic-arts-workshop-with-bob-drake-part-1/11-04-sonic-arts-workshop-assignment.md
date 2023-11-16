@@ -1,7 +1,7 @@
 ---
 title: 11.04 Sonic Arts Workshop Assignment
 date: 2023-11-14T09:00:00
-lastmod: 2023-11-16T06:35:07
+lastmod: 2023-11-16T06:42:09
 ---
 
 ## Assignment Deliverables
@@ -10,7 +10,7 @@ lastmod: 2023-11-16T06:35:07
 
 ## Assignment: Motorized Sound Sculpture [^1]
 
-<div style="border: 1px solid #000; background: #d3dfe2; margin: 1rem;">
+<div style="border: 1px solid #000; background: #d3dfe2; padding: 1rem;">
 
 **Assignment:** build a free-standing motor-driven sound sculpture that creates sound/noise which varies over time. Sculptures should autonomously produce sound when turned on, but may be manipulated (“played”) while running if you wish. Sounds may be loud or soft, continuous or occasional, musical or atonal… but aim for complexity or irregularity in the patterns and sounds.
 
@@ -42,7 +42,7 @@ You are welcome to use 3D printing to produce parts of your sculpture. This coul
 | ---------------------------------------------- | --------- |
 | Sound Sculpture Assembled                      | 25 points |
 | Motor Spins to Make Noise                      | 25 points |
-| Experimentation and Creativity                 | 25        |
+| Experimentation and Creativity                 | 25 points |
 | Ability to Combine with other Sound Sculptures | 25 points |
 
 </div>
