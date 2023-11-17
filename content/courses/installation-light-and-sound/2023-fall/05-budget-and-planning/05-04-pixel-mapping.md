@@ -1,7 +1,7 @@
 ---
 title: 05.04 Pixel Mapping
 date: 2023-09-22T09:30:00
-lastmod: 2023-10-08T05:19:29
+lastmod: 2023-11-17T05:28:35
 ---
 
 Pixel mapping creates a 2D or 3D "map" of the locations of LEDs or pixels in space. The map could describe a precise grid of LEDs or it describe an organic 3D shape. In both cases, the map will contain all of the coordinates of the pixels representing their positioning and spacing. Then LED light patterns can be run on the pixels based on the mapping. This separates the "map" from the LED patterns.
@@ -12,6 +12,7 @@ Pixel mapping creates a 2D or 3D "map" of the locations of LEDs or pixels in spa
 - [Click on Image Pixel Mapper](http://app.bhencke.com/pixelmap.html) - Upload an image of your pixels and click on the image to generate a 2D list of pixel coordinates.
 - [3D Pixel Mapping from 2 Videos](https://led3dmap.lights0123.com/) - This program by [Ben Schattinger](https://lights0123.com/) ses 2 videos taken at 90 degrees from each other. The LEDs are programed to light up one at a time at a specified rate. Then the computer analyses the videos to create a 3D pixel map of the LEDs. [(Source Code)](https://github.com/lights0123/LED3DMap)
 - [FastLed Mapping](https://macetech.github.io/FastLED-XY-Map-Generator/) - This code by [Garrett Mace](https://macetech.com/) creates an X Y matrix for [FastLED](https://fastled.io/) that can have gaps in the LED matrix
+- [Using ESP Cam](https://m.youtube.com/watch?v=Ueim2Ko8VWo)
 
 ## Blender Python Script to Export Vertex Group Coordinates as CSV file
 

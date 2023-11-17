@@ -1,21 +1,24 @@
 ---
 title: Photogrammetry Software
 date: 2023-09-24T11:15:16
-lastmod: 2023-09-24T11:53:21
+lastmod: 2023-11-17T06:04:29
 tags:
   - stub
 ---
 
 ## Free Photogrammetry Software
 
+- [Micmac](https://www.demogr.mpg.de/go/micmac/)
+- [Meshroom](https://alicevision.org/#meshroom) - Windows or Linux only, requires Nivida GPU with CUDA
+- [Regard3D](https://www.regard3d.org/index.php) - documentation not updated
+- [COLMAP](https://demuc.de/colmap/#about)
+- [Photocatch](https://apps.apple.com/us/app/photocatch/id1576081762) - Mac only
+- [OpenMVG](https://github.com/openMVG/openMVG)- Windows Only
 - 3DF Zephyr - 50 photo limit in free version
-- Meshroom - requires Nivida GPU with CUDA
-- Regard3D
-- Photocatch - Mac only
 
 ### Mobile Apps
 
-- Kiri Engine
+- Kiri Engine - Freemium, costs to export models
 - Widar
 - Pix 4D Catch
 
