@@ -1,7 +1,7 @@
 ---
 title: 11.04 Sonic Arts Workshop Assignment
 date: 2023-11-14T09:00:00
-lastmod: 2023-11-16T06:51:26
+lastmod: 2023-11-21T05:36:58
 ---
 
 ## Assignment Deliverables
@@ -44,6 +44,7 @@ You are welcome to use 3D printing to produce parts of your sculpture. This coul
 | Motor Spins to Make Noise                      | 25 points |
 | Experimentation and Creativity                 | 25 points |
 | Ability to Combine with other Sound Sculptures | 25 points |
+| Use of Techniques to Increase Complexity       | 25 points |
 
 </div>
 
