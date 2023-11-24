@@ -6,6 +6,8 @@ lastmod:
 
 **Welcome to a new era of time management!** 
 
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6QMntku-O6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Have you ever wondered how just a minute can impact your productivity and focus? Behold rhis latest innovation: a [1-minute countdown timer available on YouTube](https://youtu.be/6QMntku-O6A?si=A_PuEe9UCPl65eLp) animated with stunning electrical arc effects created in Adobe After Effects using the Saber plugin.
 
 ## The Revolutionary 1-Minute Countdown Timer
