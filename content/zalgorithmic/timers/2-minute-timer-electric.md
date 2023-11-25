@@ -7,7 +7,7 @@ description: Discover the most dynamic 2-minute countdown timer on YouTube, feat
 
 
 **Introduction:**
-Welcome to the world of enhanced time management with our YouTube channel's latest creation: a 2-minute countdown timer unlike any other. This isn't just a timer; it's a sensory experience designed to keep you focused and energized. Whether you're timing a quick workout, cooking, or a short work session, this timer is your perfect companion.
+Welcome to the world of enhanced time management with our YouTube channel's latest creation: a [2-minute countdown timer](https://youtu.be/6FB6jkc6OIs) unlike any other. This isn't just a timer; it's a sensory experience designed to keep you focused and energized. Whether you're timing a quick workout, cooking, or a short work session, this timer is your perfect companion.
 
 **Engaging Body:**
 
@@ -31,3 +31,5 @@ Our 2-minute countdown timer is more than just a timekeeping tool; it's a way to
 
 **Call to Action:**
 Don't forget to like, share, and subscribe to our channel for more innovative timer designs and productivity tools. Let's make every second count!
+
+[2 Minute Electric Timer](https://youtu.be/6FB6jkc6OIs)
