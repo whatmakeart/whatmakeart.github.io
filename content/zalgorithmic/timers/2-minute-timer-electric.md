@@ -5,6 +5,10 @@ lastmod:
 description: Discover the most dynamic 2-minute countdown timer on YouTube, featuring stunning blue electric arc animations and immersive sound effects. Perfect for productivity, workouts, and more!
 ---
 
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6FB6jkc6OIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 **Introduction:**
 Welcome to the world of enhanced time management with our YouTube channel's latest creation: a [2-minute countdown timer](https://youtu.be/6FB6jkc6OIs) unlike any other. This isn't just a timer; it's a sensory experience designed to keep you focused and energized. Whether you're timing a quick workout, cooking, or a short work session, this timer is your perfect companion.
