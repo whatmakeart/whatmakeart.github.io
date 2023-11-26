@@ -1,7 +1,7 @@
 ---
 title: 15 Minute Timer
 date: 2022-09-02T8:30:00-04:00
-lastmod: 2023-11-26T16:44:29
+lastmod: 2023-11-26T17:00:07
 description: 15 Minute Timer
 featured_image: /zalgorithmic/timers/basic-timers/attachments/15-minute-timer.jpg
 tags:
@@ -9,9 +9,11 @@ tags:
 aliases: /posts/15-minute-timer/
 ---
 
-{{< youtube id="wrBk-bY4VEc" title="15 Minute Timer" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/wrBk-bY4VEc" title="15 Minute Timer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-This 15-minute timer counts down silently until it reaches 0:00, then plays a calming sound of bubbling water to alert you that time is up. It is available in 4K at 60 frames per second.
+This [15-minute timer](https://youtu.be/wrBk-bY4VEc) counts down silently until it reaches 0:00, then plays a calming sound of bubbling water to alert you that time is up. It is available in 4K at 60 frames per second.
 
 This timer is perfect for a variety of uses, including:
 
@@ -24,3 +26,5 @@ This timer is perfect for a variety of uses, including:
 - Online classes: Use it to time how long your online classes last.
 
 [15 Minute Timer](https://youtu.be/wrBk-bY4VEc)
+
+[![15 Minute Timer](./15-minute-timer.md)(https://youtu.be/wrBk-bY4VEc)]

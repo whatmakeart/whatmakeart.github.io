@@ -1,7 +1,7 @@
 ---
 title: 13 Minute Timer
 date: 2023-05-15T8:30:00-04:00
-lastmod: 2023-11-26T16:44:29
+lastmod: 2023-11-26T17:02:19
 description: This video features a 13 minute countdown timer with an abstract animated background.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/13-minute-timer.jpg
 tags:
@@ -9,9 +9,11 @@ tags:
 aliases: /posts/13-minute-timer/
 ---
 
-{{< youtube id="7Vfls3dJLZI" title="13 Minute Timer" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7Vfls3dJLZI" title="13 Minute Timer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-This video features a 13 minute countdown timer with an abstract animated background. The timer is perfect for use in presentations, videos, or any other situation where you need to keep track of time. The abstract animated background adds a touch of style and sophistication to the timer, making it a great choice for any project.
+This video features a [13 minute countdown timer](<(https://youtu.be/7Vfls3dJLZI)>) with an abstract animated background. The timer is perfect for use in presentations, videos, or any other situation where you need to keep track of time. The abstract animated background adds a touch of style and sophistication to the timer, making it a great choice for any project.
 
 ## Features:
 
@@ -25,3 +27,5 @@ This video features a 13 minute countdown timer with an abstract animated backgr
 - Keep track of time
 - Add a touch of style and sophistication to your projects
 - Perfect for presentations, videos, and more
+
+[![13 Minute Timer](./attachments/13-minute-timer.jpg)](https://youtu.be/7Vfls3dJLZI)

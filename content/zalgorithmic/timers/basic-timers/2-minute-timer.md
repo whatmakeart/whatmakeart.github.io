@@ -1,7 +1,7 @@
 ---
 title: 2 Minute Timer
 date: 2022-00-00T8:30:00-04:00
-lastmod: 2023-11-26T16:44:29
+lastmod: 2023-11-26T17:08:02
 description: Discover the versatility of a 2 Minute Timer in enhancing productivity for cooking, studying, workouts, and more.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/2-minute-timer-2.jpg
 tags:
@@ -11,7 +11,7 @@ aliases: /posts/2-minute-timer-2/
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/42EAQEXQR2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/42EAQEXQR2Y" title="2 Minute Timer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## Introduction
