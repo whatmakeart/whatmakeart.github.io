@@ -1,12 +1,12 @@
 ---
+title: 15 Minute Timer
 date: 2022-09-02T8:30:00-04:00
+lastmod: 2023-11-26T16:44:29
 description: 15 Minute Timer
-featured_image: /images/15-minute-timer.jpg
+featured_image: /zalgorithmic/timers/basic-timers/attachments/15-minute-timer.jpg
 tags:
   - Timers
-title: 15 Minute Timer
-draft: false
-spellcheck: off
+aliases: /posts/15-minute-timer/
 ---
 
 {{< youtube id="wrBk-bY4VEc" title="15 Minute Timer" >}}
@@ -23,4 +23,4 @@ This timer is perfect for a variety of uses, including:
 - Field trips: Use it on field trips to track how long you spend at each location.
 - Online classes: Use it to time how long your online classes last.
 
-[15 Minute Timter](https://youtu.be/wrBk-bY4VEc)
+[15 Minute Timer](https://youtu.be/wrBk-bY4VEc)
