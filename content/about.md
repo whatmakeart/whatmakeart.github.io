@@ -2,15 +2,8 @@
 title: About
 ---
 
-What? Make Art is a repository of open access college art course materials, art making videos, tutorials and art making faq's. Tutorials cover a wide range of topics including making, electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
 
-Art making tutorial videos start from a beginner level an progress to more advanced topics.
-
-What? Make Art aims to share knowledge about the creative process and how to go about making art to the world. The project was created by [Jimmy Kuehnle](https://www.jimmykuehnle.com), an artist and educator.
-
-Just the tutorials about making art. Visit on [Youtube](https://www.youtube.com/channel/UCmGXH-jy0o2CuhqtpxbaQgA).
-
-## Open Making Wiki Project Introduction
+## Whatmakeart Open Making Wiki Project Introduction
 
 This is a conceptual work in progress exploring better ways to exchange information, concepts and skills about artistic making with students, artists and the public. The primary audience are enrolled students in college art courses but limiting the resource to this audience would stifle growth, creativity and innovation. Therefore the goal is the engage and collaborate with the world.
 
