@@ -67,7 +67,7 @@ Nothing more than a pencil, paper, and often an eraser is needed to make technic
 
 ### 1. Technical Sketching Tools
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/QaTlzXEHu4g?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/QaTlzXEHu4g?si=_tPGUNxlX1x5SiTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 

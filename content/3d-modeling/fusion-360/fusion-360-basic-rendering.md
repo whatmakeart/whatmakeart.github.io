@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Basic Rendering
 date: 2023-06-14T05:57:42
-lastmod: 2023-09-07T20:30:07
+lastmod: 2023-11-27T11:52:45
 ---
 
 ## Rendering Aspect Ratio
@@ -26,24 +26,24 @@ Download the photo that you want and then you can attach a custom environment in
 
 ### 1. Rendering Aspect Ratio
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/NLr1FG27BGs?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
-
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/NLr1FG27BGs?rel=0" width="560" height="315"  allowfullscreen="allowfullscreen"></iframe>
+</div>
 </div>
 
 <div class="video-card">
 
 ### 2. Custom HDRI Background
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/MmJL4zjfmic?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
-
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/MmJL4zjfmic?rel=0" width="560" height="315"  allowfullscreen="allowfullscreen"></iframe>
+</div>
 </div>
 
 <div class="video-card">
 
 ### 3. Create Custom Materials for Rendering
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/2-k1KDkzIqU?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
-
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/2-k1KDkzIqU?rel=0" width="560" height="315"  allowfullscreen="allowfullscreen"></iframe>
+</div>
 </div>
 
 </div>

@@ -33,4 +33,4 @@ After following these instructions you should have a custom sewn tote bag with a
 
 ## Tote Bag Video Tutorial
 
-<div class="responsive-iframe-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/826t3yvck6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/826t3yvck6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
