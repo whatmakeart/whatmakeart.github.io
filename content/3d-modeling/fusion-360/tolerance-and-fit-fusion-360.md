@@ -10,8 +10,6 @@ draft: false
 spellcheck: off
 ---
 
-{{< youtube id="" title="Tolerance and Fit in Fusion 360" >}}
-
 ## How to Add Tolerance to Models for CNC Machining in Autodesk Fusion 360
 
 In this Autodesk Fusion 360 tutorial, I will show you how to add tolerance to models for CNC Machining. This is important because it allows you to ensure that your parts fit together properly, even if there is some misalignment or measurement error.

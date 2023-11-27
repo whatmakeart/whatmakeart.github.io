@@ -7,5 +7,3 @@ title: "Insert an edge loop into a t-spline in Fusion 360"
 draft: false
 spellcheck: off
 ---
-
-{{< youtube id="" title="Insert an edge loop into a t-spline in Fusion 360" >}}
