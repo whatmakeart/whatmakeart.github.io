@@ -1,14 +1,14 @@
 ---
+title: Will AI Replace Writers?
 date: 2023-05-18T8:30:00-04:00
+lastmod: 2023-11-27T05:27:39
 description: Will AI Replace Writers?
-featured_image: /posts/images/will-artificial-intelligence-replace-writers.jpg
+featured_image: /articles/attachments/will-artificial-intelligence-replace-writers.jpg
 tags:
   - Artificial Intelligence
   - Bard
   - ChatGPT
-title: Will AI Replace Writers?
-draft: false
-spellcheck: off
+aliases: /posts/will-ai-replace-writers/
 ---
 
 {{< youtube id="pEgreiJV3AI" title="Will AI Replace Writers?" >}}
@@ -64,3 +64,5 @@ AI generative tools always do a lot better if you give it a nice detailed prompt
 Let's see what the same thing happens if we do that with ChatGPT. So we're going to go ahead and copy this from Bard and then on ChatGPT we'll go ahead and send it a message and tell it just to write a script about this prompt and see what happens. So now it's really just writing about the chickens and it still has much better information and dialogue than Google Bard. So in this case, ChatGPT is really getting a lot closer to replacing writers with artificial intelligence but I think it's safe to say that these tools are not up to the task yet.
 
 But in five years I think they'll be more than ready for the task. So right now all of us humans really need to start to negotiate how we're going to spend time with these AI's and how we're going to either regulate artificial intelligence or figure out how people are compensated for creative work. Because remember all these large language models were built on creative works that artists and writers already made and they're not being compensated for these tools. So there needs to be new models for how creative work is done, compensated, and used but for right now AI and artificial intelligence cannot replace writers.
+
+![Will AI Replace Writers?](./attachments/will-artificial-intelligence-replace-writers.jpg)
