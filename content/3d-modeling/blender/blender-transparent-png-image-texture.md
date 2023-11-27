@@ -15,7 +15,7 @@ spellcheck: off
 
 ## How to Use Transparent PNG Textures in Blender
 
-In this tutorial, you will learn how to use transparent PNG textures in [Blender](../3d-modeling/blender/blender.md). You will learn how to set up a material for transparency and how to use the alpha channel to show what is behind the texture.
+In this tutorial, you will learn how to use transparent PNG textures in [Blender](./blender.md). You will learn how to set up a material for transparency and how to use the alpha channel to show what is behind the texture.
 
 ## What You Will Need
 

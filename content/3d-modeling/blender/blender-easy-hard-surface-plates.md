@@ -15,7 +15,7 @@ spellcheck: off
 
 ## How to Make Steel Plates and Hard Surface Models in Blender
 
-In this [Blender](../3d-modeling/blender/blender.md)tutorial, I will show you how to quickly change planes into steel plates or panels or any kind of hard surface geometry very quickly using a few modifiers.
+In this [Blender](./blender.md)tutorial, I will show you how to quickly change planes into steel plates or panels or any kind of hard surface geometry very quickly using a few modifiers.
 
 There are two different ways to do this. One will use a stacked sub-division modifier and the other will use a stacked bevel and sub-division modifier. Each has their advantages and disadvantages.
 

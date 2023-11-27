@@ -2,7 +2,7 @@
 title: Laser Cut Test File
 ---
 
-The think[box] at Case Western Reserve University uses Epilog Laser cutters that can "print" from an [Adobe Illustrator](../../software/illustrator.md) file. Before cutting a complex project on is is a good idea to make a small test cut file to confirm settings and not waste material. After succesfully cutting a test then you can begin a more intentional project. This file should be made before going to the think[box]. There are specific instructions to make the file in Adobe Illustrator. If you do not follow the directions then your file will not work properly on the laser cutters.
+The think[box] at Case Western Reserve University uses Epilog Laser cutters that can "print" from an [Adobe Illustrator](../../software/adobe-illustrator/illustrator.md) file. Before cutting a complex project on is is a good idea to make a small test cut file to confirm settings and not waste material. After succesfully cutting a test then you can begin a more intentional project. This file should be made before going to the think[box]. There are specific instructions to make the file in Adobe Illustrator. If you do not follow the directions then your file will not work properly on the laser cutters.
 
 The test cut will demonstrate the ability of a through cut and an etching cut on the laser cutters.
 

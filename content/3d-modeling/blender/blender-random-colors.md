@@ -15,7 +15,7 @@ spellcheck: off
 
 ## How to Color Many Objects with a Single Material in Blender
 
-In this [Blender](../3d-modeling/blender/blender.md) tutorial, I will show you how to color many objects with a single material in Blender. This is a great way to save time and effort when you need to create a scene with a lot of objects.
+In this [Blender](./blender.md) tutorial, I will show you how to color many objects with a single material in Blender. This is a great way to save time and effort when you need to create a scene with a lot of objects.
 
 To do this, we will use the following steps:
 

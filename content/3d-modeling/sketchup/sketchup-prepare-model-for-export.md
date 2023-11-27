@@ -14,11 +14,11 @@ spellcheck: off
 
 ## How to Prepare SketchUp Models for Export to Blender
 
-In this tutorial, I will show you how to prepare your SketchUp models for export to [Blender](../3d-modeling/blender/blender.md) so you can make photorealistic renders.
+In this tutorial, I will show you how to prepare your SketchUp models for export to [Blender](../blender/blender.md) so you can make photorealistic renders.
 
 ### Step 1: Remove Multiple Materials
 
-SketchUp allows you to apply materials to both sides of an object and to groups and individual faces. However, [Blender](../3d-modeling/blender/blender.md) can't handle this and will interpret it as having extra vertices or faces. To fix this, go through your model and remove any materials that are applied to groups or individual faces.
+SketchUp allows you to apply materials to both sides of an object and to groups and individual faces. However, [Blender](../blender/blender.md) can't handle this and will interpret it as having extra vertices or faces. To fix this, go through your model and remove any materials that are applied to groups or individual faces.
 
 ### Step 2: Export Your Model as a Collada File
 
