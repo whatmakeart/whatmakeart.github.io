@@ -1,7 +1,7 @@
 ---
-title: 13.03 Time Based Synthesis Assignment
+title: 13.04 Time Based Synthesis Assignment
 date: 2023-11-28T09:00:00
-lastmod: 2023-11-28T06:26:11
+lastmod: 2023-11-28T07:31:31
 ---
 
 ## Assignment Deliverables
