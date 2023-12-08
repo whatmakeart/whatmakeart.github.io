@@ -1,5 +1,16 @@
 ---
 title: 11.03 Technical Synthesis Two Documentation Assignment
 date: 2023-11-27T12:00:00
-lastmod: 2023-12-07T19:54:18
+lastmod: 2023-12-08T05:00:54
 ---
+
+## Assignment Deliverables
+
+- Minimum of 2 photos of your artwork. Shoot in RAW format and then post process the photos. Upload both the RAW photos as well as the edited and exported jpgs or pngs.
+  - Label the photos YYYYMMDD Lastname Firstname Art Different Documentation
+
+## Photo Documentation Resources
+
+- [How to Document 3D Artwork](../../../../art-faq/how-to-document-3d-artwork.md)
+
+![How to Document 3D Artwork](../../../../art-faq/how-to-document-3d-artwork.md)
