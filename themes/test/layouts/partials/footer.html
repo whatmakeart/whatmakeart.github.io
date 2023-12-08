@@ -82,16 +82,7 @@
                     {{ end }}
                 </ul>
             </div>
-            <div class="col-6 col-lg-2 mb-3">
-                <h5 style="font-size:1.25rem; font-weight:600;">Tutorials</h5>
-
-                <ul class="list-unstyled">
-
-                    {{ range where .Site.Pages.ByTitle "Section" "tutorials" | first 10 }}
-                    <li><a href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a></li>
-                    {{ end }}
-                </ul>
-            </div>
+       
 
 
         </div>
