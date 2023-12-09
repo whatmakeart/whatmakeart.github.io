@@ -12,7 +12,7 @@ lastmod: 2023-12-08T05:14:51
 
 1. **Introduction to Camera Tracking in Blender:**
 
-   - Start Blender and open your scene.
+   - Start [Blender](blender.md) and open your scene.
    - Briefly understand the purpose of camera tracking: to create a dynamic, dolly-like shot that follows an object.
 
 2. **Setting Up Your Scene:**

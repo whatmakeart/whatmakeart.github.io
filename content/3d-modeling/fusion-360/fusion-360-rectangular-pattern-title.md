@@ -12,3 +12,5 @@ spellcheck: off
 ---
 
 {{< youtube id="Y0nYNZvL0EA" title="Fusion 360 Rectangular Pattern Tutorial" >}}
+
+Learn more about [Fusion 360](fusion-360.md).

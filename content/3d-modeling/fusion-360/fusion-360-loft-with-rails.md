@@ -14,7 +14,7 @@ spellcheck: off
 
 ## How to Use the Loft Tool in Fusion 360
 
-The Loft tool in Fusion 360 is a powerful feature that allows you to create smooth transitions between two or more profiles. This can be used to create a variety of shapes, from simple to complex.
+The Loft tool in [Fusion 360](fusion-360.md) is a powerful feature that allows you to create smooth transitions between two or more profiles. This can be used to create a variety of shapes, from simple to complex.
 
 In this post, we will walk you through the basics of using the Loft tool. We will cover the following topics:
 
