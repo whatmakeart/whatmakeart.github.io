@@ -4,7 +4,7 @@ title: Basic Camera Settings
 
 ## 3 Main Camera Settings
 
-There are three main camera settings that photographers need to understand to be able to control a camera and take the photographs they want. Photographers need to know how to control shutter speed, aperture, and ISO.
+In [photography](photography.md), there are three main camera settings that photographers need to understand to be able to control a camera and take the photographs they want. Photographers need to know how to control shutter speed, aperture, and ISO.
 
 ### Shutter Speed
 

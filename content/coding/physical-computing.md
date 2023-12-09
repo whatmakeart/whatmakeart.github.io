@@ -17,7 +17,7 @@ Physical computing projects are typically programmed using a variety of software
 - Wire crimping connections
 - Heat shrink tape
 - Fuses
-- Wire gauge
+- Wire gauge [electrical wire basics](../electronics/electrical-wire-basics.md)
 - Stranded vs solid
 - Solder vs crimped
 
@@ -43,7 +43,7 @@ The [Arduino](../arduino/arduino-introduction.md) is a cheap, simple single boar
 
 [Count 2 dimensional or Multi dimensional Array Arduino](https://forum.arduino.cc/index.php?topic=410749.0)
 
-```
+```C
 #define ArrayCount(array) (sizeof array / sizeof array[0])
 const SomeType TwoDArray[5][4];
 
@@ -53,7 +53,7 @@ ArrayCount(TwoDArray[0]) should evaluate to 4
 
 Arduino LED Heartbeat Code - From Arduino Forums First made by user dlloyd and then shortened by user nickgammon in this [Arduino Forum Post](https://forum.arduino.cc/t/trying-to-create-an-asymmetrical-blink-without-delay-please-help/294231/30)
 
-```
+```C
 void setup() { pinMode(13, OUTPUT); }
 void loop()  { digitalWrite(13, !(millis() & 640)); }
 ```
@@ -62,7 +62,7 @@ void loop()  { digitalWrite(13, !(millis() & 640)); }
 
 https://forum.arduino.cc/index.php?topic=200736.0
 
-```
+```C
 const byte CheekLEDPins[] = {
   3, 4, 5, 6, 7, 8, 9, 8, 7, 6, 5, 4
 };  // gives forward and back
@@ -122,7 +122,7 @@ void loop() {
 
 ### Flip LED strands Python
 
-```
+```C
 if y % 2 == 0: # if column even
     out[ x + (h * y)] = color ( *[int( round( c * plasmaBright ) ) for c in hsv ] )
 else: # if column odd

@@ -4,7 +4,7 @@ tags:
   - stub
 ---
 
-A Raspberry Pi is a single board computer that is often used for low power on-site computing applications. It is also used for [Physical-Computing](../coding/physical-computing.md) and art installations as well as industrial applications.
+A Raspberry Pi is a single board computer that is often used for low power on-site computing applications. It is also used for [Physical-Computing](../coding/physical-computing.md) and art installations as well as industrial applications. It has more processing power that the [Arduino](../arduino/arduino-introduction.md) microcontroller
 
 ## Raspberry Pi Tutorials
 

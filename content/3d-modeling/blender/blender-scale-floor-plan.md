@@ -28,7 +28,7 @@ lastmod: 2023-09-07T20:28:45
 
 ## Process
 
-1. Import the floor plan image into Blender.
+1. Import the floor plan image into [Blender](blender.md).
 2. Rotate the image so that it is as horizontal as possible.
 3. Decide which dimension of the floor plan you want to use to scale the image.
 4. Create a cube in Blender and set its dimensions to the same as the dimension you chose in step 3.
@@ -77,3 +77,5 @@ Here are the floor plan scale steps in more detail:
 8. Check the accuracy of the scaled floor plan image by comparing it to other dimensions on the floor plan.
    - Look at the floor plan and find other dimensions that you can measure.
    - Compare the scaled floor plan image to the other dimensions and make sure that they are the same.
+
+- [Blender how to move](blender-how-to-move.md)
