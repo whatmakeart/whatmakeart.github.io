@@ -1,7 +1,7 @@
 ---
 title: Auto Rig with Mixamo and Import into Blender
 date: 2023-12-05T05:28:46
-lastmod: 2023-12-08T05:29:11
+lastmod: 2023-12-09T06:45:18
 ---
 
 <div class="iframe-16-9-container">
@@ -10,7 +10,7 @@ lastmod: 2023-12-08T05:29:11
 
 ## Guide to 3D Modeling and Animation with Adobe Mixamo
 
-[![Auto Rigging in Mixamo](./auto-rig-with-mixamo-import-to-blender.md)](./auto-rig-with-mixamo-import-to-blender.md)
+[![Auto Rigging in Mixamo](./attachments/20231205-auto-rigging-in-mixamo.png)](./attachments/20231205-auto-rigging-in-mixamo.png)
 
 1. **Introduction to Mixamo**
 

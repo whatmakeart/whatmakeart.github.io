@@ -4,7 +4,7 @@ date: 2023-10-31T09:00:00
 lastmod: 2023-11-01T13:29:21
 ---
 
-Cura is a 3D printing slicing program.
+Cura is a [3D printing](3d-printing.md) slicing program.
 
 1. Choose the correct 3D printer
 

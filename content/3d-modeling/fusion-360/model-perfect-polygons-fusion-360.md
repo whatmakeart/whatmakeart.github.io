@@ -8,7 +8,7 @@ draft: false
 spellcheck: off
 ---
 
-Use sketch constraints in Fusion 360 to create perfect regular polygons.
+Use sketch constraints in [Fusion 360](fusion-360.md) to create perfect regular polygons.
 
 {{< youtube id="Gpplnrtf3UE" title="Model Perfect polygons in Fusion 360" >}}
 

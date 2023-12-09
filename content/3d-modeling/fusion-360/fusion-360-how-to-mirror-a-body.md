@@ -14,7 +14,7 @@ spellcheck: off
 
 ## Mirror Objects in Fusion 360
 
-In this Fusion 360 tutorial, I will show you how to mirror an object or a feature or a body or a component around another object even when it's not on a center line.
+In this [Fusion 360](fusion-360.md) tutorial, I will show you how to mirror an object or a feature or a body or a component around another object even when it's not on a center line.
 
 First, I will show you how to mirror a sphere on a box. I will create a mid-plane and then mirror the sphere across the mid-plane. I will then show you how to mirror a more complex shape, such as a Taurus, by constructing a plane at an angle.
 

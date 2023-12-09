@@ -6,13 +6,13 @@ lastmod: 2023-09-07T20:33:02
 
 ## Button Too Fast?
 
-What happens if the button can be pressed again before the action the button triggers is completed? What happens if the button is pressed but bounces up for a millisecond to the off position? What should the Arduino do?
+What happens if the button can be pressed again before the action the button triggers is completed? What happens if the button is pressed but bounces up for a millisecond to the off position? What should the [Arduino](arduino-introduction.md) do?
 
-The Arduino loops very fast and sometimes things in the physical world like buttons may not be fast enough or too fast. To elimite errors and false readings from buttons and other switches, a "debounce" routine can be used.
+The Arduino loops very fast and sometimes things in the physical world like buttons may not be fast enough or too fast. To eliminate errors and false readings from buttons and other switches, a "debounce" routine can be used.
 
 ## What is a Debounce?
 
-Debounce reads the state of a button and then sets a timer and waits for that timer to expire before reading the value of th button again. This timer is very short so has almost no perceptible influnce to human interactions but keeps the input from the button more predicitible and accurate.
+Debounce reads the state of a button and then sets a timer and waits for that timer to expire before reading the value of th button again. This timer is very short so has almost no perceptible influence to human interactions but keeps the input from the button more predictable and accurate.
 
 ## Arduino Button Debounce Example Circuit
 
