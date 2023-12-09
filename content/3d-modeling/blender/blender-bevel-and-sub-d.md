@@ -11,7 +11,9 @@ draft: false
 spellcheck: off
 ---
 
-{{< youtube id="R73wtu1Ixnw" title="Blender Bevel and Sub D" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/R73wtu1Ixnw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## How to Stack the Bevel Modifier in the Sub D Modifier for Quick and Editable Bevels in Blender
 

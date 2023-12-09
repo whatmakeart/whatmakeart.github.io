@@ -14,7 +14,7 @@ aliases:
 
 ## How to Combine Two Arduino Sketches
 
-In this Arduino tutorial, I will show you how to combine two Arduino sketches into one single program. This is a useful skill to know if you want to reuse code from existing sketches or if you want to combine two sketches that do different things.
+In this [Arduino](arduino-introduction.md)tutorial, I will show you how to combine two Arduino sketches into one single program. This is a useful skill to know if you want to reuse code from existing sketches or if you want to combine two sketches that do different things.
 
 To combine two Arduino sketches, you will need to:
 

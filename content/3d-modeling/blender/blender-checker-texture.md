@@ -11,7 +11,9 @@ draft: false
 spellcheck: off
 ---
 
-{{< youtube id="gv8tQS9bSb8" title="How to Add a Quick Texture to a Sphere in Blender" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/gv8tQS9bSb8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## How to Add a Quick Texture to a Sphere in Blender
 

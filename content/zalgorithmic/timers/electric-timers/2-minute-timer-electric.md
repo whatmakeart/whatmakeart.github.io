@@ -36,3 +36,5 @@ Our 2-minute countdown timer is more than just a timekeeping tool; it's a way to
 Don't forget to like, share, and subscribe to our channel for more innovative timer designs and productivity tools. Let's make every second count!
 
 - [2 Minute Electric Timer](https://youtu.be/6FB6jkc6OIs)
+- [1-minute-electric-timer](../1-minute-timers/1-minute-electric-timer.md)
+- [2-minute-timer-electric](2-minute-timer-electric.md)

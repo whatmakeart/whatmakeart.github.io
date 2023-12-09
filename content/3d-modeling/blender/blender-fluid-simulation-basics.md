@@ -10,7 +10,9 @@ draft: false
 spellcheck: off
 ---
 
-{{< youtube id="DUKkJSpCJ8A" title="Blender Fluid Simulation Basics" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/DUKkJSpCJ8A?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 In this video, we will show you how to create a basic fluid simulation in [Blender](./blender.md). We will use just three objects: a coffee cup, a sphere, and a domain. We will then show you how to set up the simulation and bake it. Finally, we will show you how to add materials and an HDRI image to make your simulation look more realistic.
 

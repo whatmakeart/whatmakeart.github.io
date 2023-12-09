@@ -11,7 +11,9 @@ draft: false
 spellcheck: off
 ---
 
-{{< youtube id="i9JTQ8S63x0" title="Blender Random Number in Range" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/i9JTQ8S63x0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## How to Get Random Numbers Within a Specific Range in Blender
 

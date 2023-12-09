@@ -160,3 +160,8 @@ Dive into our diverse collection on YouTube and discover how these timers can re
 - [50 Minute Timer Color Swirl](https://youtu.be/Irs5T6sGZKE)
 - [55 Minute Timer Color Swirl](https://youtu.be/ygO8MF2pnaI)
 - [60 Minute Timer Color Swirl](https://youtu.be/J8lBJTOfbsg)
+
+## Other Timer Videos
+
+- [best-classroom-timers-electric](best-classroom-timers-electric.md)
+- [top-10-classroom-timers](top-10-classroom-timers.md)

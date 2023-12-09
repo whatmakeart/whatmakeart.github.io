@@ -11,7 +11,9 @@ draft: false
 spellcheck: off
 ---
 
-{{< youtube id="Oz4fiddcazI" title="Blender Complex Texture Paint" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Oz4fiddcazI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## How to Texture Paint a Complex 3D Object in Blender
 
