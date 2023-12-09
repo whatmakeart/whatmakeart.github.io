@@ -1,11 +1,11 @@
 ---
-title: "How to Change the Cursor size of Move Tool in Maya"
+title: How to Change the Cursor size of Move Tool in Maya
 date: 2022-03-10T8:31:00-04:00
-lastmod: 2023-12-08T05:42:00
-description: "Sometimes the cursor in Maya is super huge. How do you make the cursor or transform controls smaller in Maya?"
-featured_image: "/3d-modeling/maya/attachments/maya-change-size-of-move-tool-title.jpg"
+lastmod: 2023-12-09T05:34:48
+description: Sometimes the cursor in Maya is super huge. How do you make the cursor or transform controls smaller in Maya?
+featured_image: /3d-modeling/maya/attachments/maya-change-size-of-move-tool-title.jpg
 tags:
-  - Maya"
+  - Maya
   - 3D Modeling
 aliases: /posts/change-size-of-transform-controls-maya-tutorial/
 ---

@@ -1,7 +1,7 @@
 ---
 title: Export Blender Camera Animation to After Effects
 date: 2023-09-27T12:39:58
-lastmod: 2023-10-23T07:00:49
+lastmod: 2023-12-09T05:34:59
 ---
 
 <div class="video-grid">
