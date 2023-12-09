@@ -1,5 +1,9 @@
 ---
 title: 14.01 Introduction
 date: 2023-12-11T12:00:00
-lastmod: 2023-10-16T07:41:04
+lastmod: 2023-12-09T05:22:18
 ---
+
+## Overview
+
+Students discuss the outcomes of mid-year installations and presentations. Students write written responses to assessment questions about their presentation and the transcription of the audio of the presentation.
