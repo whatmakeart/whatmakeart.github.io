@@ -11,7 +11,9 @@ draft: false
 spellcheck: off
 ---
 
-{{< youtube id="cBgIpHFN86Q" title="How to export SketchUp" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/cBgIpHFN86Q?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## How to Export SketchUp Models for Rendering
 

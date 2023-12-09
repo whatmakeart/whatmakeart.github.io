@@ -12,7 +12,9 @@ draft: false
 spellcheck: off
 ---
 
-{{< youtube id="l2z390sqhO8" title="Google Chrome Logo in Adobe Illustrator" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/l2z390sqhO8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Transcript
 

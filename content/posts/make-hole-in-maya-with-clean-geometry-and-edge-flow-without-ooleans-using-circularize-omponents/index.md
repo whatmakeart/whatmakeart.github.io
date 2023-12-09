@@ -7,6 +7,6 @@ title: "Make Hole in Maya with Clean Geometry and Edge Flow without Booleans usi
 draft: false
 ---
 
-{{< youtube id="EIKiJUmUH7A" title="Make Hole in Maya with Clean Geometry and Edge Flow without Booleans using Circularize Components" >}}
-
-
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/EIKiJUmUH7A?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

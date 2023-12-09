@@ -10,7 +10,9 @@ spellcheck: off
 
 Use sketch constraints in [Fusion 360](fusion-360.md) to create perfect regular polygons.
 
-{{< youtube id="Gpplnrtf3UE" title="Model Perfect polygons in Fusion 360" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Gpplnrtf3UE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Transcript
 

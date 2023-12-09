@@ -9,7 +9,9 @@ draft: false
 spellcheck: off
 ---
 
-{{< youtube id="yyT_e1_leTg" title="White Noise Black Screen" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/yyT_e1_leTg?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 This 10-hour video of white noise with a black screen is perfect for helping you sleep, study, or focus. The soothing sounds of white noise will help to block out distractions and create a calm and relaxing environment.
 

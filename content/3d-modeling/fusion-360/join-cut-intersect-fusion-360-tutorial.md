@@ -10,7 +10,9 @@ draft: false
 spellcheck: off
 ---
 
-{{< youtube id="iLr9d8Gp7Ls" title="Join Cut Intersect Fusion 360" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/iLr9d8Gp7Ls?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Fusion 360 Combine Tool Tutorial: Learn the Difference Between Cut, Join, and Intersect
 

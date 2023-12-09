@@ -1,7 +1,7 @@
 ---
 title: Will AI Replace Writers?
 date: 2023-05-18T8:30:00-04:00
-lastmod: 2023-11-27T05:27:39
+lastmod: 2023-12-09T08:25:14
 description: Will AI Replace Writers?
 featured_image: /articles/attachments/will-artificial-intelligence-replace-writers.jpg
 tags:
@@ -11,7 +11,9 @@ tags:
 aliases: /posts/will-ai-replace-writers/
 ---
 
-{{< youtube id="pEgreiJV3AI" title="Will AI Replace Writers?" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/pEgreiJV3AI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Can AI Replace Human Creativity?
 

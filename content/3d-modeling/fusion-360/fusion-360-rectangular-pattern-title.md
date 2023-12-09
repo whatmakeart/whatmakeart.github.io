@@ -11,6 +11,8 @@ draft: false
 spellcheck: off
 ---
 
-{{< youtube id="Y0nYNZvL0EA" title="Fusion 360 Rectangular Pattern Tutorial" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Y0nYNZvL0EA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Learn more about [Fusion 360](fusion-360.md).

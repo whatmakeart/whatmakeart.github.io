@@ -10,7 +10,9 @@ draft: false
 spellcheck: off
 ---
 
-{{< youtube id="9neVB6ioeWo" title="SketchUp Add Rooms to a Floor Plan" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9neVB6ioeWo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## How to Add Additional Rooms to Your Floor Plan in SketchUp
 
