@@ -1,7 +1,7 @@
 ---
 title: Professional Practices for Artists
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:46:16
+lastmod: 2023-12-10T07:44:54
 ---
 
 There might be stereotypes of artists being "flaky" or "disorganized" but every successful artist has methods for maintaining professional practices during their careers.

@@ -1,7 +1,7 @@
 ---
 title: Grad School
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:37:00
+lastmod: 2023-12-10T07:52:50
 ---
 
 ## Articles from the Don't Go to Grad School Camp

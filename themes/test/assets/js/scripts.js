@@ -271,3 +271,46 @@ window
   .matchMedia("(prefers-color-scheme: dark)")
   .addEventListener("change", updateTheme);
 */
+
+/* test for printing youtube videos
+
+function replaceVideosWithThumbnails() {
+  const iframes = document.querySelectorAll(
+    'iframe[src*="youtube.com"], iframe[src*="vimeo.com"]'
+  );
+  const originalIframes = [];
+
+  iframes.forEach((iframe) => {
+    // Store the original iframe for later restoration
+    originalIframes.push({ iframe, parent: iframe.parentNode });
+
+    const src = iframe.src;
+    let thumbnailUrl;
+
+    // For YouTube videos
+    if (src.includes("youtube.com")) {
+      const videoId = src.split("/embed/")[1].split("?")[0];
+      thumbnailUrl = `https://img.youtube.com/vi/${videoId}/0.jpg`;
+    }
+    // For Vimeo videos
+    else if (src.includes("vimeo.com")) {
+      // Placeholder for Vimeo thumbnail URL
+      thumbnailUrl = "path_to_vimeo_thumbnail";
+    }
+
+    const img = document.createElement("img");
+    img.src = thumbnailUrl;
+    iframe.parentNode.replaceChild(img, iframe);
+  });
+
+  // Revert back to iframes after printing
+  window.onafterprint = () => {
+    originalIframes.forEach((item) => {
+      item.parent.replaceChild(item.iframe, item.parent.querySelector("img"));
+    });
+  };
+}
+
+// Listen for print events
+window.onbeforeprint = replaceVideosWithThumbnails;
+ */
