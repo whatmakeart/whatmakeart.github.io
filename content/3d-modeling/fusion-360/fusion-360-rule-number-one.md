@@ -1,8 +1,12 @@
 ---
 title: Fusion 360 Rule Number One
 date: 2023-06-13T14:42:56
-lastmod: 2023-10-31T05:02:31
+lastmod: 2023-12-10T15:51:19
 ---
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ZYXSJ6EQ9S4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Fusion 360 Rule # 1
 
@@ -19,15 +23,3 @@ When getting started try to follow Rule #1:
 3. Activate the component
 
 Of course you might not always do this when you are experimenting or trying something out, but it is still a good habit to get into because often a simple experiment becomes a full working design.
-
-<div class="video-grid>
-
-<div class="video-card">
-
-## 1. Fusion 360 Rule #1
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/ZYXSJ6EQ9S4?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe>
-</div>
-</div>
-
-</div>
