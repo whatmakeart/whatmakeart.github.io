@@ -4,7 +4,7 @@ date: 2023-06-16T05:37:49
 lastmod: 2023-09-30T06:37:56
 ---
 
-Once we model something in Fusion 360 we want to be able to 3D print it or manufacture it in another way. To do that with a 3D printer, we need to be able to export an STL file. Once you complete your model for 3D printing, the first thing you need to decide is if you want to export multiple components. You can determine what will be exported by selecting the visibility of the components.
+Once we model something in [Fusion 360](../../3d-modeling/fusion-360/fusion-360.md) we want to be able to 3D print it or manufacture it in another way. To do that with a 3D printer, we need to be able to export an STL file. Once you complete your model for 3D printing, the first thing you need to decide is if you want to export multiple components. You can determine what will be exported by selecting the visibility of the components.
 
 Sometimes you might have a file with many many components and it can be cumbersome to go through and select all the eyeballs and visibility of your components. If you have many components and you really only want to print one part, you can leave everything visible. You can also export the STL by selection. Go to File > 3D print. That's going to bring up a new dialog box. Make sure you select "selection" here. Then you can just pick the part you want to print. Now even though you can see other parts, only what you have selected is what is printing.
 

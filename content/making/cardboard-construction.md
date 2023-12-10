@@ -14,7 +14,7 @@ With a small amount of practice you can make detailed an intricate test pieces w
 
 ## Cutting Techniques
 
-- Laser Cutter - cuts cardboard very well, can make shapes in graphics program like Adobe Illustrator and send to cutter. Fusion 360 can also be used. We will learn how to make panel constructed objects next week.
+- Laser Cutter - cuts cardboard very well, can make shapes in graphics program like Adobe Illustrator and send to cutter. [Fusion 360](../3d-modeling/fusion-360/fusion-360.md) can also be used. We will learn how to make panel constructed objects next week.
 - Box Cutter - Always use a new blade and a cutting mat
 - Metal Straight Edge - useful for cutting clean edges
 - Remember that often you need to run the box cutter multiple times to cut all of the cardboard
