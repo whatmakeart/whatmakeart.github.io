@@ -205,7 +205,7 @@ let resizeObserver = new ResizeObserver(() => {
   }
 });
 
-resizeObserver.observe(document.querySelector(".container-fluid"));
+resizeObserver.observe(document.body);
 
 function checkIfMobile() {
   // mobile device detection
