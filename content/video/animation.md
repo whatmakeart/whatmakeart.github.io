@@ -6,7 +6,7 @@ tags:
   - stub
 ---
 
-Animation can be broadly separated into to categories: 2D Animation andf 3D Animation.
+Animation can be broadly separated into to categories: 2D Animation and 3D Animation.
 
 ## 2D Animation
 
@@ -25,3 +25,5 @@ this.gotoAndPlay(0); // This loops the whole time line but can just click loop i
 ```
 
 ## 3D Animation
+
+3D animation is accomplished with 3D modeling software such as [Blender](../3d-modeling/blender/blender.md) or [Maya](../3d-modeling/maya/maya.md)
