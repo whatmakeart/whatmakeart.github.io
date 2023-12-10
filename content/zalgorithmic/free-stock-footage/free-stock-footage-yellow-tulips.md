@@ -5,8 +5,8 @@ featured_image: /posts/images/free-stock-footage-yellow-tulips.jpg
 tags:
   - Free Stock Footage
 title: Free Stock Footage Yellow Tulips
-draft: false
-spellcheck: off
 ---
 
-{{< youtube id="B0EYHFSCkNU" title="Free Stock Footage Yellow Tulips" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B0EYHFSCkNU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

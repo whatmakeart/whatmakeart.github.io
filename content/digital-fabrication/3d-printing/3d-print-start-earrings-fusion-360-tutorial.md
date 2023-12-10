@@ -8,4 +8,6 @@ aliases:
   - /posts/3d-print-start-earrings-fusion-360-tutorial/
 ---
 
-{{< youtube id="TkMQeYTz0wo" title="3D Printed Earrings in a Large Star Shape in Fusion 360 Tutorial" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/TkMQeYTz0wo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

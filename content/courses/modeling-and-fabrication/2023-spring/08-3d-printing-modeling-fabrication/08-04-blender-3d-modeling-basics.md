@@ -2,7 +2,6 @@
 title: "08.04 Blender 3D Modeling Basics"
 date: 2020-01-26T23:11:13Z
 toc: true
-draft: false
 ---
 
 ![Link to included file](../../../../3d-modeling/blender/blender-3d-modeling-basics.md)

@@ -1,7 +1,6 @@
 ---
 title: "03.04 Laser Cut Design Research"
 date: 2020-01-26T23:11:13Z
-draft: false
 ---
 
 # Design Laser Cut Phone / Tablet or Laptop Stand - Design Research

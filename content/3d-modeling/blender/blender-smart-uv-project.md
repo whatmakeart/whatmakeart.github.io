@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - UV Unrwapping
 title: How to UV Unwrap a Strange Object in Blender
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

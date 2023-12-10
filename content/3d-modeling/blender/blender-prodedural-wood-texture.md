@@ -8,8 +8,6 @@ tags:
   - Procedural Texture
   - Rendering
 title: Blender Procedural Wood Texture
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

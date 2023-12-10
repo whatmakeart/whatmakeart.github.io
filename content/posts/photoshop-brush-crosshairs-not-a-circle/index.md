@@ -4,11 +4,11 @@ description: "How to change your photoshop brush back to a circle after it is a 
 featured_image: "/posts/photoshop-brush-crosshairs-not-a-circle/Photoshop-Brush-not-a-Circle-Title.jpg"
 tags: ["Photoshop"]
 title: "Why is my Photoshop brush a crosshair?"
-draft: false
-spellcheck: off
 ---
 
-{{< youtube id="fQz6vmnBbpM" title="Why is my Photoshop brush a crosshair?" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fQz6vmnBbpM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Transcript
 

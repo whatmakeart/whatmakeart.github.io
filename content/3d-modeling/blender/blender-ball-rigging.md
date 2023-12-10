@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - Rigging
 title: Blender Ball Rigging
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

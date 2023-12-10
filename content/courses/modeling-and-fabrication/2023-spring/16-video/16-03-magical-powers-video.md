@@ -1,7 +1,6 @@
 ---
 title: "16.03 Magical Powers Video"
 date: 2020-01-26T23:11:13Z
-draft: false
 ---
 
 # Lights! Camera! You Have Magical Powers

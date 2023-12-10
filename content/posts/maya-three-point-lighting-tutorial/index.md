@@ -4,7 +4,6 @@ description: "Use the principles of three point lighting to make more realistic 
 featured_image: "/posts/maya-three-point-lighting-tutorial/maya-three-point-lighting-tutorial.jpg"
 tags: ["Maya"]
 title: "Maya Three Point Lighting Tutorial"
-draft: false
 ---
 
 <div class="iframe-16-9-container">

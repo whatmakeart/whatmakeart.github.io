@@ -6,8 +6,6 @@ tags:
   - SketchUp
   - 3D Modeling
 title: SketchUp Add Rooms to a Floor Plan
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

@@ -4,7 +4,6 @@ description: "Learn the basics of the polgon modeling tool in Autodesk Maya"
 featured_image: "/posts/maya-polygon-modeling-tools-for-beginners-tutorial/maya-intro-polygon-modeling-tools.jpg"
 tags: ["Maya"]
 title: "Maya Polygon Modeling Tools for Beginners"
-draft: false
 ---
 
 <div class="iframe-16-9-container">

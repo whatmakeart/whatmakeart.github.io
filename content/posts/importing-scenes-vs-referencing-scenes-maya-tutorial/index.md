@@ -4,7 +4,6 @@ description: "Learn the difference between importing a scene and referencing a s
 featured_image: "/posts/importing-scenes-vs-referencing-scenes-maya-tutorial/maya-import-vs-reference-scene-files.jpg"
 tags: ["Maya"]
 title: "Importing Maya Scene Files vs Referencing Maya Scene Files"
-draft: false
 ---
 
 <div class="iframe-16-9-container">

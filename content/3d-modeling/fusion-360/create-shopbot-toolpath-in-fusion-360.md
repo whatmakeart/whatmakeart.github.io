@@ -4,7 +4,6 @@ description: "Use Fusion 360 Manufacture Workspace to Make a Toolpath for ShopBo
 featured_image: "/posts/create-shopbot-toolpath-in-fusion-360/create-shopbot-tool-path-in-fusion-360.jpg"
 tags: ["Fusion 360", "Shopbot"]
 title: "Create ShopBot Toolpath in Fusion 360"
-draft: false
 ---
 
 <div class="iframe-16-9-container">

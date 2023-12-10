@@ -1,7 +1,6 @@
 ---
 title: "07.00 Introduction 3D Print Test Prints"
 date: 2020-01-26T23:11:13Z
-draft: false
 ---
 
 ## Overview

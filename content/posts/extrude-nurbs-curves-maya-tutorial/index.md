@@ -4,11 +4,11 @@ description: "Extrude a nurbs curve in Maya"
 featured_image: "/posts/extrude-nurbs-curves-maya-tutorial/extrude nurbs curves title .jpg"
 tags: ["Maya", "3D Modeling"]
 title: "How to Extrude a Nurbs Curve in Maya Tutorial"
-draft: false
-spellcheck: off
 ---
 
-{{< youtube id="j7bCUkwxRTw" title="How to Extrude a Nurbs Curve in Maya Tutorial" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/j7bCUkwxRTw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Transcript
 

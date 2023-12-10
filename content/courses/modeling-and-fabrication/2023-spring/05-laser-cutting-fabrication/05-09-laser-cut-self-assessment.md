@@ -1,7 +1,6 @@
 ---
 title: "05.09 Laser Cut Self Assessment"
 date: 2020-01-26T23:11:13Z
-draft: false
 ---
 
 Now that you have cut out and assembled your laser-cut stand there are probably many things that you would want to do differently if you remade the stand. The design process is an iterative process full of successes and setbacks. When we realize something that we should have done in a design it is not a failure, rather it is a success because we have learned something about the design process and our project.

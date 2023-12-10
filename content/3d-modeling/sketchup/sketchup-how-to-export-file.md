@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - tutorial
 title: How to export SketchUp
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

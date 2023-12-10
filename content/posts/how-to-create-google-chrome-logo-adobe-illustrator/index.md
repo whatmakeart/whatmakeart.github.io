@@ -8,8 +8,6 @@ tags:
 title: Create the Google Chrome Logo in Adobe Illustrator
 aliases:
   - /posts/how-to-creat-google-chrome-logo-adobe-illustrator/
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

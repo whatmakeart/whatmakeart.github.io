@@ -6,8 +6,6 @@ tags:
   - Blender
   - 3D Modeling
 title: How to Create 3D Text in Blender
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

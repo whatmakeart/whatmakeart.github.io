@@ -4,11 +4,7 @@ description: "How to create a new color swatch in Adobe Illustrator"
 featured_image: "/posts/create-new-color-swatch-adobe-illustrator/Create-New-Color-Swatch-in-Adobe-Illustrator.jpg"
 tags: ["Illustrator"]
 title: "How to Create a New Color Swatch in Adobe Illustrator"
-draft: false
-spellcheck: off
 ---
-
-{{< youtube id="" title="How to create a new color swatch in Adobe Illustrator" >}}
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/vw3VnrskTzE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

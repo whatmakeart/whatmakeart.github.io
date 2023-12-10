@@ -2,7 +2,6 @@
 title: "06.02 3D Print Design Guidelines"
 date: 2020-01-26T23:11:13Z
 toc: true
-draft: false
 ---
 
 ![Link to included file content](../../../../digital-fabrication/3d-printing/3d-print-design-guidelines.md)

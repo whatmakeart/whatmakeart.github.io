@@ -6,8 +6,6 @@ tags:
   - Fusion 360
   - 3D Modeling
 title: Join Cut Intersect Fusion 360
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

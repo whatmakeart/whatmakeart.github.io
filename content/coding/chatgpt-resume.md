@@ -6,11 +6,11 @@ tags:
   - ChatGPT
   - AI
 title: ChatGPT Resume
-draft: false
-spellcheck: off
 ---
 
-{{< youtube id="oVcFCp3YmYk" title="ChatGPT Resume" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/oVcFCp3YmYk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Are you looking for a way to create a resume that will stand out from the competition? Look no further than ChatGPT, the AI language model that can help you write a professional and effective resume.
 

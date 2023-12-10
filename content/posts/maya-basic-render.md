@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - Rendering
 title: Maya Basic Render
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

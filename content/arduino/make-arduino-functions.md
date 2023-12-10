@@ -5,8 +5,6 @@ featured_image: /posts/images/make arduino functions.jpg
 tags:
   - Arduino
 title: Make Arduino Functions
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

@@ -4,8 +4,6 @@ description: "When 3D modeling in Maya it is convenient and helpful to have a re
 featured_image: "/posts/how-to-insert-reference-image-maya-tutorial/Maya insert a reference image title.jpg"
 tags: ["Maya", "3D Modeling"]
 title: "How to Insert a Reference Image into Maya"
-draft: false
-spellcheck: off
 ---
 
 When 3D modeling in Maya it is convenient and helpful to have a reference image in your scene to make sure your 3D model proportions are correct. How do you insert a reference image in Maya? This Maya video tutorial shows you how to use a Free Image Plane to insert a reference image for 3D modeling in Maya.

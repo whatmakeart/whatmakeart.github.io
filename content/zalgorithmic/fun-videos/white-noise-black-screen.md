@@ -5,8 +5,6 @@ featured_image: /posts/images/white-noise-black-screen.jpg
 tags:
   - White Noise
 title: White Noise Black Screen
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

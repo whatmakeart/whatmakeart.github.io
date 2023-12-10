@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - tutorial
 title: "Fusion 360 Rectangular Pattern Tutorial"
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

@@ -4,7 +4,6 @@ description: "Model a tennis ball from a playtonic solid in Maya"
 featured_image: "/posts/model-tennis-ball-maya-tutorial/maya-model-tennis-ball-tutorial.jpg"
 tags: ["Maya"]
 title: "Model Tennis Ball in Maya Tutorial"
-draft: false
 ---
 
 <div class="iframe-16-9-container">

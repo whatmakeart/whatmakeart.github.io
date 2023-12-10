@@ -4,8 +4,6 @@ description: "Quickly 3D Paint Complex Objects in maya"
 featured_image: "/posts/maya-3d-paint-tool-complex-object/maya-3d-paint-complex-object.jpg"
 tags: ["Maya"]
 title: "Maya 3D Paint Complex Objects"
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

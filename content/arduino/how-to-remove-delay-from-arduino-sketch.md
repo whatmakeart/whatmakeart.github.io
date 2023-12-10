@@ -7,8 +7,6 @@ tags:
   - Electronics
   - Coding
 title: How to Remove Delay from Arduino Sketch
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

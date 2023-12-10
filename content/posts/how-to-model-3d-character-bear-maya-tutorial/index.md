@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - Maya
 title: How to Model a 3D Character Bear Maya Tutorial
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

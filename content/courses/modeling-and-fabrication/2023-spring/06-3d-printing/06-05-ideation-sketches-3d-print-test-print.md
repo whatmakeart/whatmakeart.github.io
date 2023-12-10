@@ -1,7 +1,6 @@
 ---
 title: "06.05 Ideation Sketches 3D Print Test Print"
 date: 2020-01-26T23:11:13Z
-draft: false
 ---
 
 ## Assignment Deliverables

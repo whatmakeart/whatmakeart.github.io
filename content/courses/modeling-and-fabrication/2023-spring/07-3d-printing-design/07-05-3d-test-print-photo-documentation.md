@@ -1,7 +1,6 @@
 ---
 title: "07.05 3D Test Print Photo Documentation"
 date: 2020-01-26T23:11:13Z
-draft: false
 ---
 
 ## Assignment Deliverables

@@ -6,7 +6,6 @@ tags:
   - Maya
   - tutorial
 title: "Add a Camera to a Scene in Maya"
-draft: false
 ---
 
 <div class="iframe-16-9-container">

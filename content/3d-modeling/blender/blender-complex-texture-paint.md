@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - Texture Paint
 title: Blender Complex Texture Paint
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

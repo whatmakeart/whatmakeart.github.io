@@ -6,11 +6,11 @@ tags:
   - Soldering
   - Electronics
 title: How to Load a Solder Spool
-draft: false
-spellcheck: off
 ---
 
-{{< youtube id="OWARembVjwM" title="How to Load a Solder Spool" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/OWARembVjwM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## How to Load a Solder Spool with New Solder
 

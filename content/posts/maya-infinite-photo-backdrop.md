@@ -6,8 +6,6 @@ tags:
   - Maya
   - 3D Modeling
 title: Maya Infinite Photo Backdrop
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

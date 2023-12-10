@@ -6,8 +6,6 @@ tags:
   - SketchUp
   - 3D Modeling
 title: SketchUp Prepare Model for Export
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

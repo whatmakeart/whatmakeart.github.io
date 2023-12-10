@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - Rendering
 title: Blender Random Number in Range
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

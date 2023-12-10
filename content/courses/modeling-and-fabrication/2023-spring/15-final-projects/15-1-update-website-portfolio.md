@@ -1,7 +1,6 @@
 ---
 title: "15.01 Update Website Portfolio"
 date: 2020-01-26T23:11:13Z
-draft: false
 ---
 
 # Updated Website Portfolio Page(s)

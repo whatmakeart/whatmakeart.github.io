@@ -1,7 +1,6 @@
 ---
 title: "08.08 Final 3D Print 3D Model"
 date: 2020-01-26T23:11:13Z
-draft: false
 ---
 
 ## Assignment Deliverables

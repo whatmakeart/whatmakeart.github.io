@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - Cloth
 title: Blender Cloth Quick Start Tutorial
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

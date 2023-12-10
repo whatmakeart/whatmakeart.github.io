@@ -4,8 +4,6 @@ description: "Setup Free Domain with GitHub Student Developer Pack"
 featured_image: "/posts/set-up-free-domain-github-sudent-developer-pack/free-domain-github-student-developer-pack.jpg"
 tags: ["GitHub", "Coding"]
 title: "Setup Free Domain with GitHub Student Developer Pack"
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

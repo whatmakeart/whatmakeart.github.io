@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - CNC
 title: Blind Mortise and Tenon Joints in Fusion 360 Tutorial
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

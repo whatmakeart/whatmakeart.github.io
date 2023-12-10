@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - Sub-D Modeling
 title: Blender Bevel and Sub D
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

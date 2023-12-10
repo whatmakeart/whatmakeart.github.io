@@ -4,8 +4,6 @@ description: "Export STL File From Fusion 360"
 featured_image: "/posts/how-to-export-stl-fusion-360/Fusion 360 Export STL for 3D Printing Title.jpg"
 tags: ["Fusion 360"]
 title: "Export STL File From Fusion 360"
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - Rendering
 title: Blender Transparent PNG Image Texture
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

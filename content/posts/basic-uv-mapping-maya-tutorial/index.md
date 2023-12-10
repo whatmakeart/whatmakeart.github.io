@@ -4,7 +4,6 @@ description: "Learn how to UV map a non symmetrical object in Maya"
 featured_image: "/posts/basic-uv-mapping-maya-tutorial/basic-uv-mapping-maya-tutorial.jpg"
 tags: ["Maya"]
 title: "Basic UV Mapping Maya Tutorial"
-draft: false
 ---
 
 <div class="iframe-16-9-container">

@@ -4,7 +4,6 @@ description: "Model a coffee cup from a cylinder with a quad bottom and a bridge
 featured_image: "/posts/model-coffee-cup-in-maya-3d-modeling-tutorial/maya-coffee-cup-3d-modeling-tutorial.jpg"
 tags: ["Maya"]
 title: "Model a Coffee Cup in Maya Tutorial"
-draft: false
 ---
 
 <div class="iframe-16-9-container">

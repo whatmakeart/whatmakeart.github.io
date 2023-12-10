@@ -8,7 +8,9 @@ aliases:
   - /posts/adjustable-parametric-3d-printedangle-bracket-in-fusion-360
 ---
 
-{{< youtube id="64nG3t-3Log" title="3D Printable Adjustable Angle Bracket in Fusion 360" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/64nG3t-3Log?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Transcript
 

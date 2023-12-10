@@ -8,8 +8,6 @@ tags:
   - Low Poly Modeling
   - Car Modeling
 title: Blender Low Poly Car Modeling
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

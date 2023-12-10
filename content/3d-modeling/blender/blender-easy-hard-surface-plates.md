@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - Hard Surface Modeling
 title: Blender Easy Hard Surface Plates
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

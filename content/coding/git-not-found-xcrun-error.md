@@ -7,13 +7,15 @@ tags:
   - Visual Studio Code
   - git
 title: git Not Found xcrun error
-draft: false
+
 keywords:
   - git
   - visual studio code
 ---
 
-{{< youtube id="aV6Kb-2eAL0" title="git not found xcrun error" >}}
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/oaV6Kb-2eAL0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 **How to Fix Git on Mac OS after Installing a New Update**
 

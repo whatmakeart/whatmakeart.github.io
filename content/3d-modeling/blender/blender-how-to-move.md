@@ -8,7 +8,6 @@ tags:
   - Blender Basics
 title: Blender How to Move Objects
 draft: fa;lse
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">

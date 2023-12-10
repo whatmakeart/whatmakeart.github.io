@@ -7,8 +7,6 @@ tags:
   - 3D Modeling
   - HDRI
 title: Blender HDRI Background
-draft: false
-spellcheck: off
 ---
 
 <div class="iframe-16-9-container">
