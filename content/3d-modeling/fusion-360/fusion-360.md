@@ -1,7 +1,9 @@
 ---
 title: Fusion 360
 date: 2023-05-26T02:50:47
-lastmod: 2023-10-03T04:15:45
+lastmod: 2023-12-10T06:34:58
+aliases:
+  - Fusion 360
 ---
 
 Fusion 360 is a [Parametric-Modeling](../parametric-modeling.md) program combined with CAM output for [CNC milling](../../digital-fabrication/cnc/cnc-basics.md), [laser cutting](../../digital-fabrication/laser-cutting/laser-cutting.md), and [3D printing](../../digital-fabrication/3d-printing/3d-printing.md) that simplifies going from digital ideas inside the computer to physical output.

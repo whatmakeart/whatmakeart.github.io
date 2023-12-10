@@ -4,9 +4,9 @@ date: 2023-06-17T11:06:08
 lastmod: 2023-09-07T20:32:48
 ---
 
-The Arduino UNO operates at 5V. The Arduino UNO accepts up to 5.5V from the USB B connector. It also has a DC barrel jack that accepts 6-20V maximum with 7-12V the recommended range. The voltage supplied is regulated with a voltage regulator to 5V and 3.3V. The input voltage passes through and is available at the Vin pin. Power can also be supplied via the Vin pin.
+The [Arduino](arduino-introduction.md) UNO operates at 5V. The Arduino UNO accepts up to 5.5V from the USB B connector. It also has a DC barrel jack that accepts 6-20V maximum with 7-12V the recommended range. The voltage supplied is regulated with a voltage regulator to 5V and 3.3V. The input voltage passes through and is available at the Vin pin. Power can also be supplied via the Vin pin.
 
-The basic Arduino Uno has 14 digital input / output (I/O) pins and 6 analog I/O pins. 6 of the digital pins can be used for pulse width modulation (PWM). Each of the I/O pins has 20 mA of DC current available for continuos operation and a maximum of 40mA before permanent damage occurs. There is a 3.3V pin for powering 3.3V accessories that has 50 mA of DC current. [^1]
+The basic Arduino Uno has 14 digital input / output (I/O) pins and 6 analog I/O pins. 6 of the digital pins can be used for pulse width modulation (PWM). Each of the I/O pins has 20 mA of DC current available for continuous operation and a maximum of 40mA before permanent damage occurs. There is a 3.3V pin for powering 3.3V accessories that has 50 mA of DC current. [^1]
 
 ## Not Much Power Per Pin
 

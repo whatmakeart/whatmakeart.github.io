@@ -1,7 +1,10 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2023-10-03T03:47:01
+lastmod: 2023-12-10T06:17:33
+aliases:
+  - 3D Modeling
+  - Test Time Now
 ---
 
 What is a model? What is a 3D model? What is the difference between an analog and a digital 3D model? How does 2D sketching relate to 3D modeling?

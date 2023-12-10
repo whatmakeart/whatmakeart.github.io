@@ -6,7 +6,7 @@ lastmod: 2023-09-22T07:37:39
 
 ## Maya Quick Start
 
-The official online [Maya Learning Documentation](https://knowledge.autodesk.com/support/maya/learn) is a good place to learn the basics and investigate advanced topics.
+[Maya](maya.md) is a 3D modeling program that can be overwhelming at the start but like any software, becomes much easier and understandable with a bit of use.
 
 ## Maya Keyboard Shortcuts [^1]
 
@@ -49,6 +49,8 @@ The official online [Maya Learning Documentation](https://knowledge.autodesk.com
 - [Maya Polygon Modeling Tools](https://youtu.be/eBEitxaRYQs)
 - [Maya Hole in a Cube](https://youtu.be/EIKiJUmUH7A)
 - [Maya Beginner Polygon Modeling Tutorial](https://youtu.be/lLItO9mBwxM)
+
+The official online [Maya Learning Documentation](https://knowledge.autodesk.com/support/maya/learn) is a good place to learn the basics and investigate advanced topics.
 
 <div class="video-grid">
 
