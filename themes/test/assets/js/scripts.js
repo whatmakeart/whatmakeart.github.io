@@ -272,7 +272,7 @@ window
   .addEventListener("change", updateTheme);
 */
 
-/* test for printing youtube videos
+/* test for printing youtube videos */
 
 function replaceVideosWithThumbnails() {
   const iframes = document.querySelectorAll(
@@ -285,32 +285,43 @@ function replaceVideosWithThumbnails() {
     originalIframes.push({ iframe, parent: iframe.parentNode });
 
     const src = iframe.src;
-    let thumbnailUrl;
+    let thumbnailUrl, videoPageUrl;
 
     // For YouTube videos
     if (src.includes("youtube.com")) {
       const videoId = src.split("/embed/")[1].split("?")[0];
       thumbnailUrl = `https://img.youtube.com/vi/${videoId}/0.jpg`;
+      videoPageUrl = `https://www.youtube.com/watch?v=${videoId}`;
     }
     // For Vimeo videos
     else if (src.includes("vimeo.com")) {
-      // Placeholder for Vimeo thumbnail URL
-      thumbnailUrl = "path_to_vimeo_thumbnail";
+      const videoId = src.split("video/")[1].split("?")[0];
+      thumbnailUrl = "path_to_vimeo_thumbnail"; // Placeholder for Vimeo thumbnail URL
+      videoPageUrl = `https://vimeo.com/${videoId}`;
     }
 
+    // Create an anchor element and set its href to the video page URL
+    const anchor = document.createElement("a");
+    anchor.href = videoPageUrl;
+
+    // Create an image element for the thumbnail
     const img = document.createElement("img");
     img.src = thumbnailUrl;
-    iframe.parentNode.replaceChild(img, iframe);
+
+    // Insert the image inside the anchor
+    anchor.appendChild(img);
+
+    // Replace the iframe with the anchor in the DOM
+    iframe.parentNode.replaceChild(anchor, iframe);
   });
 
   // Revert back to iframes after printing
   window.onafterprint = () => {
     originalIframes.forEach((item) => {
-      item.parent.replaceChild(item.iframe, item.parent.querySelector("img"));
+      item.parent.replaceChild(item.iframe, item.parent.querySelector("a"));
     });
   };
 }
 
 // Listen for print events
 window.onbeforeprint = replaceVideosWithThumbnails;
- */
