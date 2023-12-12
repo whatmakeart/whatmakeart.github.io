@@ -50,12 +50,48 @@
       <div class="bd-content ps-lg-2">
         {{ .Content }}
         <section style="width:100%;">
-          {{- if .Params.coursemenuexpanded -}}
-            {{- partial "section-courses-expanded" . -}}
-          {{- else -}}
-            {{ partial "section-courses" . }}
-          {{- end -}}
+          {{ if eq .CurrentSection .FirstSection }}
+            <!-- checks if it is the root of a section -->
+            <!-- lists the courses as icons like on index page but only on first page, could combine this code and index code into a partial -->
+            <div
+              style="display:grid; grid-template-columns: 1fr 1fr; grid-gap: 1rem;"
+            >
+              {{ with site.GetPage "courses" }}
+                {{ range .Pages }}
+                  <div class="card">
+                    {{ $img := "" }}
+                    {{ if .Params.featured_image }}
+                      {{ $img =  .Params.featured_image }}
+                    {{ else }}
+                      {{ $img = printf "/img/whatmakeart-logo.png" }}
+                    {{ end }}
 
+
+                    <a href="{{ .RelPermalink }}"
+                      ><img class="card-img-top" src="{{ $img }}"
+                    /></a>
+
+                    <div class="card-body">
+                      <h3 class="card-title">
+                        <a
+                          class="link-dark stretched-link"
+                          href="{{ .RelPermalink }}"
+                          >{{ .Title }}</a
+                        >
+                      </h3>
+                      <p class="card-text">{{ .Summary }}</p>
+                    </div>
+                  </div>
+                {{ end }}
+              {{ end }}
+            </div>
+          {{- else -}}
+            {{- if .Params.coursemenuexpanded -}}
+              {{- partial "section-courses-expanded" . -}}
+            {{- else -}}
+              {{ partial "section-courses" . }}
+            {{- end -}}
+          {{- end -}}
         </section>
       </div>
       <!-- end bd-content -->
