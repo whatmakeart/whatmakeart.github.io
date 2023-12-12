@@ -58,7 +58,7 @@
             <div style="display:grid; grid-template-columns: 1fr 1fr; grid-gap: 1rem;">
                 {{ with site.GetPage "courses"}}
                 {{ range .Pages }}
-                <div class="card">
+                <div class="card ">
                       {{ $img := "" }}
                         {{ if .Params.featured_image }}
                             {{ $img =  .Params.featured_image  }}
@@ -66,11 +66,12 @@
                             {{ $img = printf "/img/whatmakeart-logo.png" }}
                         {{ end}}
 
-                    <a href="{{ .RelPermalink }}"><img class="card-img-top" src="{{ $img }}"></a>
+                    <img class="card-img-top" src="{{ $img }}">
 
-                    <div class="card-body">
-                        <h3 class="card-title"><a class="link-dark stretched-link" href="{{ .RelPermalink}}">{{ .Title }}</a></h3>
+                    <div class="card-body d-flex flex-column">
+                        <h3 class="card-title">{{ .Title }}</h3>
                         <p class="card-text">{{ .Summary }}</p>
+                        <a href="{{ .RelPermalink}}" class="stretched-link mt-auto btn btn-outline-primary">View Course</a>
                     </div>
                 </div>
                 {{ end }}

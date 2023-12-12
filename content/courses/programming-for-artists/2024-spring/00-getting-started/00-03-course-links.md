@@ -16,3 +16,7 @@ title: 00.03 Course Links
 ## Code Courses
 
 - [Programming from A - Z](https://github.com/Programming-from-A-to-Z/A2Z-F23/tree/main/07-transformers) - Large Language Model coding resources
+
+## College Programs
+
+- [Creative Computing Institute - University of the Arts London](https://www.arts.ac.uk/creative-computing-institute)
