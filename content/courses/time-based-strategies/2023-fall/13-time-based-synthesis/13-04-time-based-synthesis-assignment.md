@@ -1,7 +1,7 @@
 ---
 title: 13.04 Time Based Synthesis Assignment
 date: 2023-11-28T09:00:00
-lastmod: 2023-11-28T08:58:54
+lastmod: 2023-12-11T20:28:12
 ---
 
 ## Assignment Deliverables
@@ -73,12 +73,13 @@ Create a sculpture or installation that explores the concept of information over
 
 <div class="responsive-table-markdown">
 
-| Assessment           | Weight    |
-| -------------------- | --------- |
-| Creative Integration | 25 points |
-| Conceptual Depth     | 25 points |
-| Technical Skill      | 25 points |
-| Presentation         | 25 points |
-| Reflection           | 25 points |
+| Assessment                         | Weight    |
+| ---------------------------------- | --------- |
+| Creative Synthesis                 | 50 points |
+| Technique 1                        | 30 points |
+| Technique 2                        | 30 points |
+| Technique 3                        | 30 points |
+| Creative Prompt                    | 30 points |
+| Written Self Assessment (in class) | 30 points |
 
 </div>
