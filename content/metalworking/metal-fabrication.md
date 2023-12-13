@@ -23,7 +23,7 @@ Use cutting oil when necessary.
 
 ### Ways to Cut Steel
 
-- [How to Use a Hacksaw](../woodworking/how-to-use-a-hacksaw.md)hacksaw
+- [How to Use a Hacksaw](./how-to-use-a-hacksaw.md)hacksaw
 - angle grinder
 - Cut Off Saw
 - Metal Bandsaw

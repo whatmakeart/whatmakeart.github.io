@@ -1,7 +1,7 @@
 ---
 title: Madmapper Basics
 date: 2023-10-08T17:36:34
-lastmod: 2023-10-09T06:04:08
+lastmod: 2023-12-13T06:55:51
 ---
 
 To get started with projection mapping with MadMapper, you will need:
@@ -31,6 +31,12 @@ To get started with projection mapping with MadMapper, you will need:
 5. Drag in media content or use one of the default generators, and assign it to the quad. Continue to adjust the position of the corners of the quad so it only covers the part of the projection surface that you want.
 6. Continue to add more quads to cover other flat surfaces in the projection. The corners of quads can be snapped together.
 7. Masks can be used to make more complex shapes.
+
+## Making a Scene
+
+### Switching Scenes
+
+## Arduino Firmata
 
 ## Madmapper Resources
 
