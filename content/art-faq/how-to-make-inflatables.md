@@ -51,3 +51,14 @@ Next step up in quality and price is to use nylon or polyester fabric and sew it
 Bouncy houses are made of PVC coated polyethylene mesh. This can be sewn or heat welded together. It is very strong and durable but expensive and heavy. It requires some specialized equipment to heat seal it together.
 
 PVC coated polyester can be glued with HH-66 vinyl cement or hot air welded together. This requires proper ventilation and safety equipment.
+
+## Inflatable Artists
+
+- [Jimmy Kuehnle](https://jimmykuehnle.com/)
+- [Pnuehaus](https://www.pneu.haus/)
+- [Inflatabill](https://inflatabill.com/)
+- [Designs in Air (Filthy Luker)](https://www.designsinair.com/)
+
+## Additional Resources
+
+- [Inflatable Companies](../making/inflatable-companies.md)

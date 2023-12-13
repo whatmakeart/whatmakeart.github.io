@@ -6,6 +6,13 @@ tags:
   - stub
 ---
 
+## Inflatable Artist Studios
+
+- [Jimmy Kuehnle](https://jimmykuehnle.com/)
+- [Pnuehaus](https://www.pneu.haus/)
+- [Inflatabill](https://inflatabill.com/)
+- [Designs in Air (Filthy Luker)](https://www.designsinair.com/)
+## Commercial Companies
 The following companies and studios produce inflatables commercially.
 
 - Pacific Domes, Inc. P.O. Box 1047 Ashland, OR 97520 (888) 488-8127 sales@pacificdomes.com

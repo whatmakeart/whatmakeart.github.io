@@ -19,7 +19,7 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Zeera Kahmed](https://zeerakahmed.squarespace.com/)
 - [Valeria Tizol Vivas](https://www.valeriatizolvivas.com/)
 - [Farshid Bazmandegan](https://farshidbazmandegan.com/Home)
-- [Monica Cook](http://www.monicacookart.com/) - crazy animatronic plushy sculptures staring in creepy videos
+- [Monica Cook](http://www.monicacook.com/) - crazy animatronic plushy sculptures staring in creepy videos
 - [Matt Johnson](https://www.mattjohnson.la/)
 - [Wendy Red Star](https://www.wendyredstar.com/)
 - [Jane Orr](http://www.janeorr.com/)
@@ -31,5 +31,9 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Marin Abel](http://www.marinabell.org/marinabell/lines_of_flight.html)
 - [Bouke De Vries](https://boukedevries.com/) - Dutch artist that makes intricate ceramic assemblages often displayed on large dining tables in extravagantly ornate museum and institutional settings
 - Rudi van de Wint - Dutch painter and sculptor
+- [Jimmy Kuehnle](https://jimmykuehnle.com/)
+- [Pnuehaus](https://www.pneu.haus/)
+- [Inflatabill](https://inflatabill.com/)
+- [Designs in Air (Filthy Luker)](https://www.designsinair.com/)
 
 - [Art 2 Code Exhibition](http://www.christophermanzione.com/art2code/)
