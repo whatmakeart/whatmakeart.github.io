@@ -50,37 +50,36 @@
       <div class="bd-content ps-lg-2">
         {{ .Content }}
         <section style="width:100%;">
-          {{ if eq .CurrentSection .FirstSection }}
-            <!-- checks if it is the root of a section -->
+          {{ if .Params.course_cards }}
+            <!-- checks if it is the root of a section (eq .CurrentSection .FirstSection)  -->
             <!-- lists the courses as icons like on index page but only on first page, could combine this code and index code into a partial -->
             <div
               style="display:grid; grid-template-columns: 1fr 1fr; grid-gap: 1rem;"
             >
-              {{ with site.GetPage "courses" }}
-                {{ range .Pages }}
-                  <div class="card ">
-                    {{ $img := "" }}
-                    {{ if .Params.featured_image }}
-                      {{ $img =  .Params.featured_image }}
-                    {{ else }}
-                      {{ $img = printf "/img/whatmakeart-logo.png" }}
-                    {{ end }}
+              {{ range .Pages.ByDate }}
+                <div class="card ">
+                  {{ $img := "" }}
+                  {{ if .Params.featured_image }}
+                    {{ $img =  .Params.featured_image }}
+                  {{ else }}
+                    {{ $img = printf "/img/whatmakeart-logo.png" }}
+                  {{ end }}
 
 
-                    <img class="card-img-top" src="{{ $img }}" />
+                  <img class="card-img-top" src="{{ $img }}" />
 
-                    <div class="card-body d-flex flex-column">
-                      <h3 class="card-title">{{ .Title }}</h3>
-                      <p class="card-text">{{ .Summary }}</p>
-                      <a
-                        href="{{ .RelPermalink }}"
-                        class="stretched-link mt-auto btn btn-outline-primary"
-                        >View Course</a
-                      >
-                    </div>
+                  <div class="card-body d-flex flex-column">
+                    <h3 class="card-title">{{ .Title }}</h3>
+                    <p class="card-text">{{ .Summary }}</p>
+                    <a
+                      href="{{ .RelPermalink }}"
+                      class="stretched-link mt-auto btn btn-outline-primary"
+                      >View Course</a
+                    >
                   </div>
-                {{ end }}
+                </div>
               {{ end }}
+
             </div>
           {{- else -}}
             {{- if .Params.coursemenuexpanded -}}
