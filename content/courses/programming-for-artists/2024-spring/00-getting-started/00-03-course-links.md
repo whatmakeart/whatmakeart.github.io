@@ -1,7 +1,7 @@
 ---
 title: 00.03 Course Links
-date: 2024-01-19T09:30:00
-lastmod: 2023-12-19T05:43:08
+date: 2024-01-19T09:30:00Z
+lastmod: 2023-12-19T08:25:44
 ---
 
 ## Programming for Artists

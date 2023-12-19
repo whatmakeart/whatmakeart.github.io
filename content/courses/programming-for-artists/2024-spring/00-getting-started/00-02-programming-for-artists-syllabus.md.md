@@ -1,7 +1,7 @@
 ---
 title: Programming for Artists Syllabus
-date: 2024-01-19T09:30:00
-lastmod: 2023-12-19T05:29:26
+date: 2024-01-19T09:30:00Z
+lastmod: 2023-12-19T08:28:38
 ---
 
 SEM 233 Programming for Artists
@@ -33,3 +33,19 @@ This course focuses on using custom software as a medium for making art. No prio
 - Expanded Gaming Environments
 - Video and Audio Synthesis
 - Generative drawing and painting
+
+## Programming Essentials
+
+- Variables
+- Functions
+- Data Structures
+- Algorithms
+- troubleshooting
+- debugging
+- programming tools
+- basic control structures
+- object-oriented programming
+- Input
+- Output
+- Conditions
+- Loops

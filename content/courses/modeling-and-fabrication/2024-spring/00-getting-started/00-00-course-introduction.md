@@ -1,7 +1,7 @@
 ---
-title: "00.00 Course Introduction"
+title: 00.00 Course Introduction
 date: 2024-01-18T09:00:00Z
-lastmod: 2023-12-13T15:38:37
+lastmod: 2023-12-19T08:25:44
 ---
 
 ## Course Introduction
