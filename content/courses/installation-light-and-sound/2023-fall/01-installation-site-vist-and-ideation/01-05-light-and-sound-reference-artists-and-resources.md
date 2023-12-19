@@ -1,7 +1,7 @@
 ---
 title: 01.05 Light and Sound Reference Artists and Resources
 date: 2023-08-25T09:30:00Z
-lastmod: 2023-10-26T06:24:57
+lastmod: 2023-12-19T05:43:21
 ---
 
 <div class="two-column-grid-wrapper">
@@ -15,6 +15,7 @@ lastmod: 2023-10-26T06:24:57
 - [Susan Philipz](https://en.wikipedia.org/wiki/Susan_Philipsz)
 - [Mike Rijnierse](https://mikerijnierse.nl/)
 - [Jem Finer](http://jemfiner.net/)
+- [Diana Deutsch](https://deutsch.ucsd.edu/psychology/pages.php?i=101)
 - [Nick Verstand](http://www.nickverstand.com/)
 - [Raúl Romero](https://raulromero.com/)
 - [Zimoun](https://www.zimoun.net/)

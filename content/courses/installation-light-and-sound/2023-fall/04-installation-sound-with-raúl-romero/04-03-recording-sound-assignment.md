@@ -1,7 +1,7 @@
 ---
 title: 04.03 Recording Sound Assignment
 date: 2023-09-15T09:30:00
-lastmod: 2023-10-04T05:54:35
+lastmod: 2023-12-14T05:34:12
 ---
 
 ## Assignment Deliverables
@@ -14,6 +14,12 @@ lastmod: 2023-10-04T05:54:35
 - Keep the microphone close to the source of the sound
 - Eliminate as much background noise as possible
 
+## Further Reading
+
+- [Diana Deutsch](https://deutsch.ucsd.edu/psychology/pages.php?i=101), "is internationally known for the [musical illusions and paradoxes(https://deutsch.ucsd.edu/psychology/pages.php?i=201)] that she discovered ..." [^1}]
+- [Midi Sprout](https://www.midisprout.com)
+- [Spad Electronics](https://linktr.ee/spad_electronics)
+
 ## Grading Rubric
 
 <div class="responsive-table-markdown">
@@ -25,3 +31,5 @@ lastmod: 2023-10-04T05:54:35
 | File Management     | 10     |
 
 </div>
+
+[^1]: [Diana Deutsch page on University of California San Diego Website](https://deutsch.ucsd.edu/psychology/pages.php?i=101)

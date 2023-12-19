@@ -1,5 +1,7 @@
 ---
 title: Programming for Artists Syllabus
+date: 2024-01-19T09:30:00
+lastmod: 2023-12-19T05:29:26
 ---
 
 SEM 233 Programming for Artists
@@ -19,3 +21,15 @@ This course focuses on using custom software as a medium for making art. No prio
 - Use microcontrollers and sensors in responsive sound and image systems.
 - Integrate responsive video, using both pre-recorded clips and live cameras.
 - Use basic computer vision as it relates to the use of motion tracking, color tracking, face and shape recognition in the context of installation art.
+
+## Course Topics
+
+- History, theory, and practice of software arts
+- Fundamentals of programming
+- Hacking as an experimental approach to technology
+- Human-to-computer interfaces
+- Interactive Video Projection
+- Interactive Sound Works
+- Expanded Gaming Environments
+- Video and Audio Synthesis
+- Generative drawing and painting
