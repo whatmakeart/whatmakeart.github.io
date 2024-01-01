@@ -1,7 +1,7 @@
 ---
 title: 00.02 How to Succeed in this Course
 date: 2024-01-18T09:00:00Z
-lastmod: 2023-12-19T08:24:23
+lastmod: 2024-01-01T06:45:16
 ---
 
 ## How to Succeed in this Course
