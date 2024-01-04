@@ -1,7 +1,7 @@
 ---
 title: "16.03 Magical Powers Video"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2024-01-04T13:32:54
 ---
 
 # Lights! Camera! You Have Magical Powers
@@ -12,8 +12,8 @@ lastmod: 2024-01-04T13:15:02
 
 # What am I Turning In Next Week?
 
-1.  Story Spine - [Story Spine Instructions](#story-spine-instructions)
-2.  Storyboards drawn and scanned in - [Storyboard Instructions](#storyboard-instructions)
+1.  Story Spine
+2.  Storyboards drawn and scanned in
 
 #### Google Drive Upload Folder 
 
@@ -23,7 +23,7 @@ lastmod: 2024-01-04T13:15:02
 
 # What am I Turning In in Two Weeks?
 
-1.  Folder of video clips of all scenes shot - [Video Shooting Instructions](#video-shooting-instructions)
+1.  Folder of video clips of all scenes shot
 
 #### Google Drive Upload Folder
 
@@ -33,7 +33,7 @@ lastmod: 2024-01-04T13:15:02
 
 # What am I Turning In Last Day of Class?
 
-1.  Edited and Exported mp4 video of Magical Powers Video with Sound and Music - [Video Editing Instructions](#video-editing-instructions)
+1.  Edited and Exported mp4 video of Magical Powers Video with Sound and Music
 
 #### Google Drive Upload Folder
 
