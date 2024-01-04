@@ -1,6 +1,7 @@
 ---
 title: "00.02 How to Succeed in this Course"
 date: 2020-01-26T23:11:13Z
+lastmod: 2024-01-04T13:07:26
 ---
 
 ## How to Succeed in this Course

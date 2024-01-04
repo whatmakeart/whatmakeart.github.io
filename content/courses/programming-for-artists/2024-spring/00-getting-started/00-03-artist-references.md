@@ -1,7 +1,7 @@
 ---
-title: 00.04 Artist References
+title: 00.03 Artist References
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-04T11:03:34
+lastmod: 2024-01-04T12:20:20
 ---
 
 - [Melissa Wiederrecht](https://t.co/aE6ijEP16G) "Algorithmic Fine Artist"

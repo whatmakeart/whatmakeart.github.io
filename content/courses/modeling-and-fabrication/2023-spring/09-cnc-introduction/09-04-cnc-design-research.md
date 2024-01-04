@@ -1,6 +1,7 @@
 ---
 title: "09.01 CNC Design Research"
 date: 2020-01-26T23:11:13Z
+lastmod: 2024-01-04T13:15:02
 ---
 
 ## Assignment Deliverables
@@ -21,7 +22,7 @@ Look up standard stool heights, chair sizes, and table sizes. You can simply ent
 
 <figure>
 
-[![CNC Stool Search](../2022-cnc-stool-search.png)](https://google.com/search?q=cnc+stool&tbm=isch)
+[![CNC Stool Search](./2022-cnc-stool-search.png)](https://google.com/search?q=cnc+stool&tbm=isch)
 
 <figcaption>
 
@@ -32,7 +33,7 @@ Look up standard stool heights, chair sizes, and table sizes. You can simply ent
 
 <figure>
 
-[![CNC Chair Search](../2022-cnc-chair-search.png)](https://google.com/search?q=cnc+chair&tbm=isch)
+[![CNC Chair Search](./2022-cnc-chair-search.png)](https://google.com/search?q=cnc+chair&tbm=isch)
 
 <figcaption>
 
@@ -43,7 +44,7 @@ Look up standard stool heights, chair sizes, and table sizes. You can simply ent
 
 <figure>
 
-[![Stool Design Search](../2022-cnc-stool-search.png)](https://google.com/search?q=stool+design&tbm=isch)
+[![Stool Design Search](./2022-cnc-stool-search.png)](https://google.com/search?q=stool+design&tbm=isch)
 
 <figcaption>
 
@@ -54,7 +55,7 @@ Look up standard stool heights, chair sizes, and table sizes. You can simply ent
 
 <figure>
 
-[![CNC Plywood Table Search](../2022-cnc-plywood-table-search.png)](https://google.com/search?q=cnc+plywood+table&tbm=isch)
+[![CNC Plywood Table Search](./2022-cnc-plywood-table-search.png)](https://google.com/search?q=cnc+plywood+table&tbm=isch)
 
 <figcaption>
 
@@ -65,7 +66,7 @@ Look up standard stool heights, chair sizes, and table sizes. You can simply ent
 
 <figure>
 
-[![CNC Joints Search](../2022-cnc-joints-search.png)](https://google.com/search?q=cnc+joints&tbm=isch)
+[![CNC Joints Search](./2022-cnc-joints-search.png)](https://google.com/search?q=cnc+joints&tbm=isch)
 
 <figcaption>
 
@@ -76,7 +77,7 @@ Look up standard stool heights, chair sizes, and table sizes. You can simply ent
 
 <figure>
 
-[![Chair Living Hinge Search](../2022-chair-living-hinge-search.png)](https://google.com/search?q=chair+living+hinge&tbm=isch)
+[![Chair Living Hinge Search](./2022-chair-living-hinge-search.png)](https://google.com/search?q=chair+living+hinge&tbm=isch)
 
 <figcaption>
 

@@ -1,7 +1,7 @@
 ---
 title: "00.01 Syllabus"
 date: 2024-01-18T09:00:00Z
-lastmod: 2024-01-04T11:01:16
+lastmod: 2024-01-04T13:15:02
 ---
 
 ## Digital II: Modeling and Fabrication Syllabus
@@ -12,7 +12,7 @@ Course Number: FNDN 121.08
 
 Department: Foundation
 
-Room: 327B
+Room: 327B Cleveland Institute of Art
 
 Time: Thursdays 12:00 pm - 5:00 pm
 
@@ -25,6 +25,8 @@ Semester: Spring 2024
 [Canvas Course Page](https://cia.instructure.com/courses/1202)
 
 [Course Website](https://whatmakeart.com/courses/modeling-and-fabrication/2024-spring/)
+
+[Syllabus PDF Download](./2024-3d-modeling-and-fabrication-syllabus.pdf)
 
 ## Course Description
 

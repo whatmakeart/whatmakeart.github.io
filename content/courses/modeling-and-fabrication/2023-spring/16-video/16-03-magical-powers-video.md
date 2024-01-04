@@ -1,6 +1,7 @@
 ---
 title: "16.03 Magical Powers Video"
 date: 2020-01-26T23:11:13Z
+lastmod: 2024-01-04T13:15:02
 ---
 
 # Lights! Camera! You Have Magical Powers

@@ -1,7 +1,7 @@
 ---
-title: 01.04 Tools for Programming
+title: 01.03 Tools for Programming
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-03T15:51:10
+lastmod: 2024-01-04T12:20:20
 ---
 
 What is programming? What do you need to make a program? What tools are needed to code?

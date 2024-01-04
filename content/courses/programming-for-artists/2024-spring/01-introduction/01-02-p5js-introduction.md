@@ -1,7 +1,7 @@
 ---
-title: 01.03 p5.js Introduction
+title: 01.02 p5.js Introduction
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-03T19:11:56
+lastmod: 2024-01-04T12:20:20
 ---
 
 ## What is p5.js?

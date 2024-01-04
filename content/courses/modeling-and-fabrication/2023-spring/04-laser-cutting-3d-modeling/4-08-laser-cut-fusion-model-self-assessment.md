@@ -1,6 +1,7 @@
 ---
 title: "04.08 Laser Cut Fusion Model Self Assessment"
 date: 2020-01-26T23:11:13Z
+lastmod: 2024-01-04T13:15:02
 ---
 
 ## Laser Cut Fusion 360 Model Self Evaluation

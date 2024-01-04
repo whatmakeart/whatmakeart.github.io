@@ -1,6 +1,7 @@
 ---
 title: "00.01 Course Description"
 date: 2020-01-26T23:11:13Z
+lastmod: 2024-01-04T13:07:23
 ---
 
 Digital II builds technical proficiency and critical thinking about the role of digital technology. The course offers a common core that reviews file management and digital workflows, covers video editing, time-based images, narrative structures, 3D output of assets from digital models, and forms digital literacy in relation to vocabulary, resources, and digital research. Students will gain experience with basic coding, interactivity, and go more in depth into a particular topic in their chosen track. Course structure consists of introductory concept lectures, technical instruction, lab time with guidance and group critique of finished assignments.

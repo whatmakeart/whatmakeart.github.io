@@ -1,7 +1,7 @@
 ---
-title: Programming for Artists Syllabus
+title: 00.01 Programming for Artists Syllabus
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-04T11:02:47
+lastmod: 2024-01-04T13:17:06
 ---
 
 ## Programming for Artists Syllabus
@@ -10,9 +10,9 @@ lastmod: 2024-01-04T11:02:47
 
 Course Number: SEM 233
 
-Department: Foundation
+Department: Sculpture + Expanded Media
 
-Room: 212H
+Room: 212H Cleveland Institute of Art
 
 Time: Fridays 9:30 am - 11:45 am + 2:00 pm - 4:15 pm
 
@@ -55,6 +55,8 @@ Upon completion of the course, students will have to opportunity to:
 - Expanded Gaming Environments
 - Video and Audio Synthesis
 - Generative drawing and painting
+- Artificial Intelligence
+- Machine Learning
 
 ## Course Organization / Method of Instruction
 
