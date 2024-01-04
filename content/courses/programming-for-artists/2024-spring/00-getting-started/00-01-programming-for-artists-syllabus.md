@@ -1,7 +1,7 @@
 ---
 title: 00.01 Programming for Artists Syllabus
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-04T13:17:06
+lastmod: 2024-01-04T13:31:54
 ---
 
 ## Programming for Artists Syllabus
