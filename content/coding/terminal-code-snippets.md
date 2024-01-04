@@ -1,5 +1,7 @@
 ---
 title: Terminal Code Snippets
+date: 2023-05-23T21:59:41
+lastmod: 2024-01-03T10:42:04
 ---
 
 ## Change default screen shot location

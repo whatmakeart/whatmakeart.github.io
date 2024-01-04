@@ -1,5 +1,7 @@
 ---
 title: Sculpture
+date: 2023-05-23T21:59:41
+lastmod: 2024-01-03T10:41:42
 ---
 
 In the past sculpture was limited to using a few materials such as stone, clay, metal and focused on representational depiction. Now sculpture has expanded to encompass all forms of making ranging from previously used stone and clay to electronics, welding, organic foods, fur, glass, performance, [Video](../video/video.md), computers, and Virtual Reality. Other than focusing on 3D dimensional space versus the 2D concerns of drawing, painting, and [Photography](../photography/photography.md) there are no real limits or boundaries for sculpture. This was famously described by Rosalind Krauss in the 1979 _October_ article "Sculpture in the Expanded Field". [^1] The wide array of materials and processes available to a sculptor is great because it allows any concept and idea to be realized. This wide field of possibilities is also a burden because so many techniques and ways of making must be learned in order to successfully realize different ideas.
@@ -113,7 +115,7 @@ Clay sculpture is an [additive](../sculpture/additive-processes.md) and [Subtrac
 The following basic sculptural skills are necessary to have a fundamental understanding of how to make sculptural works.
 
 - [how-to-draw-to-scale](../drawing/how-to-draw-to-scale.md)
-- [How to Use Measuring Tools Accurately](../tutorials/how-to-use-measuring-tools-accurately.md)
+- [How to Use Measuring Tools Accurately](../making/how-to-use-measuring-tools-accurately.md)
 - Understand basic [Geometry](../making/geometry.md)
 - [How to Draw Ideation Sketches]..(/art-faq/how-to-draw-ideation-sketches.md)
 
@@ -123,7 +125,7 @@ The following basic sculptural skills are necessary to have a fundamental unders
 
 ## Sculptors Past and Present
 
-- [Artists](../art-faq/artists.md)
+- [Artists](../artists/artists.md)
 - [Historical Sculptors](../sculpture/historical-sculptors.md)
 
 ### Sculpture and Expanded Media Reading List

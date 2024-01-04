@@ -1,7 +1,7 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:35:27
+lastmod: 2024-01-03T15:03:25
 tags:
   - stub
 ---
@@ -35,5 +35,7 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Pnuehaus](https://www.pneu.haus/)
 - [Inflatabill](https://inflatabill.com/)
 - [Designs in Air (Filthy Luker)](https://www.designsinair.com/)
-
+- [Mariam Ghani](https://www.mariamghani.com/)
+- [Tega Brain](https://tegabrain.com/)
 - [Art 2 Code Exhibition](http://www.christophermanzione.com/art2code/)
+- [Lee Tusman](https://leetusman.com/)

@@ -1,10 +1,10 @@
 ---
 title: "00.01 Syllabus"
 date: 2024-01-18T09:00:00Z
-lastmod: 2024-01-01T06:37:42
+lastmod: 2024-01-04T11:01:16
 ---
 
-## Digital II: Modeling and Fabrication
+## Digital II: Modeling and Fabrication Syllabus
 
 ### Course Information
 
@@ -21,6 +21,10 @@ Faculty: Jimmy Kuehnle - jkuehnle@cia.edu
 Office Hours: By appointment
 
 Semester: Spring 2024
+
+[Canvas Course Page](https://cia.instructure.com/courses/1202)
+
+[Course Website](https://whatmakeart.com/courses/modeling-and-fabrication/2024-spring/)
 
 ## Course Description
 
@@ -50,7 +54,7 @@ Upon completion of the course, students will have to opportunity to:
 
 ## Course Organization / Method of Instruction
 
-- Digital II has 5 hours of regularly scheduled instructional time. In addition to the regularly scheduled instructional time, you’ll need to plan on 4 to 5 hours of homework time for each of your classes.
+- Digital II has 4.5 hours of regularly scheduled instructional time. In addition to the regularly scheduled instructional time, you’ll need to plan on 4 to 6 hours of homework time for each of your classes.
 - There will be field trips to the think[box] for instructional content.
 - In addition, students will need to go to the CIA Digital Output Center and the think[box] to complete assignments such as laser cutting and 3D printing.
 - Digital II is a combination of studio work as well as lecture, group dialogue, critiques etc.
@@ -76,7 +80,7 @@ Projects must be turned in on time. On time is before the beginning of class on 
 - The class will have a Google Drive folder specific to this course.
 - Use this format for naming all your Digital II class digital files:
   - YYYYMMDD Smith Lane Project 1
-  - 20230118 Smith Lane First Day Project 1
+  - 20240118 Smith Lane First Day Project 1
 
 ## Course Schedule & Requirements
 

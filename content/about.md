@@ -50,6 +50,8 @@ This is a conceptual work in progress exploring better ways to exchange informat
 - [Lansing Community College Teacher, Chad Bennett - Obsidian Site and Course Resources](https://mister-chad.com/welcome) Has public personal notes as well as public resources for courses he teaches
 - [Dfab Class](http://dfabclass.com/20/)
 - [https://wiki.mcneel.com/people/rhino5cir](https://wiki.mcneel.com/people/rhino5cir)
+- [University of California San Diego Music 170: Musical Acoustics - Miller Puckette](https://msp.ucsd.edu/syllabi/170.21s/)
+- [University of Montana - Creative Coding 1 - Michael Cassens](https://montana-media-arts.github.io/MART120-Fall2023/)
 
 #### University of Washington Computer Science Courses
 

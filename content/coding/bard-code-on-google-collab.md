@@ -1,12 +1,13 @@
 ---
+title: Run Bard Code on Google Collab
 date: 2023-05-17T8:10:00-04:00
+lastmod: 2024-01-03T10:46:17
 description: Run Bard Code on Google Collab
 featured_image: /posts/images/can-bard-code.jpg
 tags:
   - Bard
   - Artificial Intelligence
   - Coding
-title: Run Bard Code on Google Collab
 ---
 
 ## How to Use Bard to Write and Debug Code

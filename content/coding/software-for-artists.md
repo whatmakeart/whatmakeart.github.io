@@ -1,7 +1,7 @@
 ---
 title: Software for Artists
 date: 2023-05-23T21:59:41
-lastmod: 2023-11-27T06:05:50
+lastmod: 2024-01-03T10:42:21
 ---
 
 Computers and software greatly expand the creative potential for artists yet sometimes artists are hesitant to embrace digital tools. This is understandable since so much of creation is done with analog tools such as sketching on paper or making cardboard models but once one becomes proficient with digital tools then the use of digital tools comes as natural as reaching for a pencil.
@@ -30,4 +30,4 @@ This software and digital tool list focuses on tools that have many uses outside
 
 ## Basic Software Tutorials
 
-[how-to-take-a-screenshot](../software/how-to-take-a-screenshot.md)
+- [how-to-take-a-screenshot](../software/how-to-take-a-screenshot.md)

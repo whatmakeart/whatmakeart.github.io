@@ -220,7 +220,6 @@ body.dark {
 }
 
 /* youtube tutorial video iframes */
-.iframe-16-9-container,
 .iframe-16-9-container {
   position: relative;
   width: 100%;
@@ -476,6 +475,11 @@ pre {
   margin: 0 auto;
   overflow-x: scroll;
   display: block;
+  padding: 0 !important;
+}
+
+div.highlight-wrapper {
+  padding: 0 !important;
 }
 
 .highlight {
@@ -537,7 +541,6 @@ pre {
   display: block;
   margin-left: auto;
   margin-right: 0;
-
   margin-bottom: -2px;
   padding: 3px 8px;
   font-size: 0.8em;

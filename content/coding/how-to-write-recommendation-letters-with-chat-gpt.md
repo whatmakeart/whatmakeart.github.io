@@ -1,11 +1,12 @@
 ---
+title: How to Write recommendation Letters with ChatGPT
 date: 2023-00-00T8:30:00-04:00
+lastmod: 2024-01-03T10:45:04
 description: How to write recommendation letters with chatGPT
 featured_image: /posts/images/chatgpt-recomendation-letter.jpg
 tags:
   - ChatGPT
   - Artificial Intelligence
-title: How to Write recommendation Letters with ChatGPT
 ---
 
 <div class="iframe-16-9-container">

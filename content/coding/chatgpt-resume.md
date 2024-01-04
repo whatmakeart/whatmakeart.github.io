@@ -1,11 +1,12 @@
 ---
+title: ChatGPT Resume
 date: 2023-05-10T8:30:00-04:00
+lastmod: 2024-01-03T10:46:05
 description: ChatGPT used to write a Resume
 featured_image: /posts/images/chat-gpt-write-a-resume-title.jpg
 tags:
   - ChatGPT
   - AI
-title: ChatGPT Resume
 ---
 
 <div class="iframe-16-9-container">

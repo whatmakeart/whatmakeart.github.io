@@ -46,6 +46,17 @@ lastmod = ["lastmod", ":git", "date", "publishDate"]
 [markup.goldmark.renderer]
 unsafe = true
 
+[markup.highlight]
+      style = "friendly"
+      codeFences = true
+      guessSyntax = true
+      hl_Lines = ""
+      lineNoStart = 1
+      lineNos = true
+      lineNumbersInTable = true
+      tabWidth = 4
+      noClasses = true
+
 [menu]
 [[menu.main]]
 name = 'Courses'
