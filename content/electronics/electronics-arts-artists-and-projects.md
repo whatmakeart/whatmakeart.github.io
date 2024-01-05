@@ -2,6 +2,41 @@
 title: Electronic Arts Artists and Projects
 ---
 
+<div class="auto-grid-wrapper">
+
+- [Adam Cole](https://linktr.ee/adamcole.studio)
+- [Anne Mariemaes](https://annemariemaes.net/home/)
+- [anne-f jacques](https://anne-fff.tumblr.com/)
+- [Audio Pixel](https://audiopixel.com/)
+- [Behnaz Farahi](https://behnazfarahi.com/)
+- [Daniel Simu](https://danielsimu.com/acrobotics/)
+- [Devicist](https://www.devicist.com/)
+- [Elise Migraine](https://www.instagram.com/elisemigraine/?hl=en)
+- [Engineered Artworks](https://www.engineeredartworks.com/)
+- [Jacob Tonski](https://jacobtonski.com/)
+- [Jasna Dimitrovska](https://digitalmedia-bremen.de/project/three-machines-on-transparency/)
+- [Liebl & Schmid-Pfähler](https://radiate.fish/)
+- [Marc de Pape](https://www.marcdepape.com/)
+- [mo H. zareei](https://millihertz.net/)
+- [Monica Cook](https://www.monicacook.com/)
+- [Neil Mendoza](https://www.neilmendoza.com/)
+- [Nelo Akamatsu](http://www.neloakamatsu.jp/chijikinkutsu-eng.html)
+- [Niklas Roy](https://niklasroy.com/deflektron/)
+- [Niklas Roy](https://niklasroy.com/graffomat/)
+- [Project Eva](https://projet-eva.org/en/)
+- [Przemyslaw Jasielski](https://jasielski.com/en/)
+- [Ralf Baecker](https://rlfbckr.io/)
+- [Roni Bandini](https://www.youtube.com/@RoniBandini/videos)
+- [Sabrina Raaf](https://www.youtube.com/embed/LB9m9cTmJKw)
+- [Saurabh Datta](https://www.dattasaurabh.com/)
+- [Siebren Versteeg](http://www.siebrenversteeg.com/)
+- [Thibault Brevet](https://www.thibault.io/)
+- [Tobias Bradford](https://www.tobiasbradford.com/)
+- [Verena Friedrich](http://heavythinking.org/)
+- [Zimooun](https://www.zimoun.net/)
+
+</div- >
+
 There is an embedded video of an example of each artist's work. Each artist makes so much more work than one example so their name links to their website. Make sure to watch the videos and then click on the name of the artist to see more of their work.
 
 <div class="video-grid">
@@ -52,7 +87,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 
 <div class="video-card">
 
-### [Sabrina Raaf]()
+### [Sabrina Raaf](https://www.youtube.com/embed/LB9m9cTmJKw)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/LB9m9cTmJKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

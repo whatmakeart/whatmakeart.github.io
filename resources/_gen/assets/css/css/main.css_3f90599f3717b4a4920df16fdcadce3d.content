@@ -11640,6 +11640,18 @@ body.dark {
   grid-gap: 1rem;
   padding-bottom: 1rem; }
 
+/* for wrapping markdown ul lists with dashes into a grid */
+.auto-grid-wrapper > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  align-items: top;
+  grid-gap: 1rem;
+  padding-bottom: 1rem;
+  list-style: none; }
+
+.list-no-style > ul {
+  list-style: none; }
+
 .text-card {
   align-self: start; }
 
