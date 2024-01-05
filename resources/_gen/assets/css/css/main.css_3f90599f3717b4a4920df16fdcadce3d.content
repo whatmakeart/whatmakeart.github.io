@@ -11493,6 +11493,9 @@ h5 {
 h6 {
   font-size: 12px; }
 
+table {
+  margin-bottom: 1rem; }
+
 /* Parsed TOC Test Indent*/
 a.toc-item {
   display: block; }
@@ -11639,6 +11642,12 @@ body.dark {
 
 .text-card {
   align-self: start; }
+
+/* centers contents of the card vertically*/
+.center-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
 
 .tutorial-video-grid,
 .video-grid {
@@ -11847,17 +11856,15 @@ path.MastodonM {
 /* used in code blocks to indent and have space at bottom for readability */
 pre {
   padding-left: 1rem;
-  padding-bottom: 1rem; }
+  padding-bottom: 1rem;
+  padding-top: 1rem; }
 
 .highlight-wrapper {
   max-width: var(--wide-max-width);
   margin: 0 auto;
   overflow-x: scroll;
   display: block;
-  padding: 0 !important; }
-
-div.highlight-wrapper {
-  padding: 0 !important; }
+  margin-bottom: 1rem; }
 
 .highlight {
   position: relative;

@@ -1,7 +1,7 @@
 ---
 title: 00.02 Course Links
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-04T15:23:48
+lastmod: 2024-01-04T16:19:42
 ---
 
 ## Programming for Artists
@@ -64,6 +64,7 @@ lastmod: 2024-01-04T15:23:48
 - [Tiny Tools](https://tinytools.directory/)
 - [Verse](https://verse.works/)
 - [Cult of Done Manifesto](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
+- [Furtherfield](https://www.furtherfield.org/) "Art and technology for eco-social change"
 
 ### Data Visualization
 

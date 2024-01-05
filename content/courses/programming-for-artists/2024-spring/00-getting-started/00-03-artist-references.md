@@ -1,7 +1,7 @@
 ---
 title: 00.03 Artist References
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-04T12:20:20
+lastmod: 2024-01-05T09:17:08
 ---
 
 - [Melissa Wiederrecht](https://t.co/aE6ijEP16G) "Algorithmic Fine Artist"
@@ -23,6 +23,7 @@ lastmod: 2024-01-04T12:20:20
 - [Paolo Curtoni](https://www.paolocurtoni.com/portfolio/) "Art, Waves, Language, Code"
 - [Jorge Ledezma](https://ledezma.art/) "I'm just a #generativeartist waiting for the singularity."
 - [Wimer Hazenberg - Monokai](https://monokai.nl/)
+- [Loren Olsen](https://lnolson.github.io/research/)
 
 ## Artist Lists
 

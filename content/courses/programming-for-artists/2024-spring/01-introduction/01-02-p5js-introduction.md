@@ -1,7 +1,7 @@
 ---
 title: 01.02 p5.js Introduction
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-04T14:28:23
+lastmod: 2024-01-05T09:17:08
 ---
 
 ## What is p5.js?
@@ -34,7 +34,7 @@ We will cover how to install and use p5.js and other libraries more in depth lat
 
 Unlike in elementary math class the coordinates (0,0) are not in the middle of the page. Coordinates start in the upper left side of the page or screen in computer graphics. Y gets bigger as you move down the screen and X gets bigger as you move right across the screen.
 
-[![Computer Graphics Coordinate System vs Math Class Graph Coordinates](./20240103-computer-graphics-coordinates.png)](./20240103-computer-graphics-coordinates.png)
+[![Computer Graphics Coordinate System vs Math Class Graph Coordinates](./2024-01-03-computer-graphics-coordinates.png)](./2024-01-03-computer-graphics-coordinates.png)
 
 ## Using the p5.js Online Editor
 

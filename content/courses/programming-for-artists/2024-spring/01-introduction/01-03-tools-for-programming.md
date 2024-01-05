@@ -1,7 +1,7 @@
 ---
 title: 01.03 Tools for Programming
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-04T12:20:20
+lastmod: 2024-01-04T16:26:00
 ---
 
 What is programming? What do you need to make a program? What tools are needed to code?
@@ -35,5 +35,13 @@ A lot of programming projects are made with the intention of interacting with or
 A web browser will allow you to preview web based programming projects and test them before deploying the project publicly. Text editors like Visual Studio Code have built in virtual servers that show how Javascript or other code will run once hosted on the web. A web browser is also indispensible for any web development programming project.
 
 ## Programming Languages
+
+- C
+- C++
+- Javascript
+- Python
+- Swift - [https://docs.swift.org/swift-book/](https://docs.swift.org/swift-book/)
+- Rust
+- PHP
 
 ## Code Libraries

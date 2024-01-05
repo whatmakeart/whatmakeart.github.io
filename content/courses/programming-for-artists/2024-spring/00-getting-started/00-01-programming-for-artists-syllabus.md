@@ -1,7 +1,7 @@
 ---
 title: 00.01 Programming for Artists Syllabus
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-04T13:31:54
+lastmod: 2024-01-04T16:28:39
 ---
 
 ## Programming for Artists Syllabus
@@ -87,6 +87,12 @@ Projects must be turned in on time. On time is before the beginning of class on 
   - 20240118 Smith Lane First Day Project 1
 
 [Canvas Course Page](https://cia.instructure.com/courses/1059)
+
+### Citing Code and Collaboration
+
+Always cite code clearly in comments. Make sure to include a URL, and a description.
+
+Students may work together but each student should have their own unique code.
 
 ## Course Schedule & Requirements
 

@@ -44,6 +44,10 @@ h6 {
   font-size: 12px;
 }
 
+table {
+  margin-bottom: 1rem;
+}
+
 /* Parsed TOC Test Indent*/
 
 a.toc-item {
@@ -159,6 +163,7 @@ body.dark {
 .responsive-table-markdown > table tr:nth-child(even) {
   background-color: #f2f2f2; /* make zebra stripes */
 }
+
 /* table inner borders */
 .responsive-table-markdown > table td + td {
   border-left: 1px solid #ccc;
@@ -208,6 +213,13 @@ body.dark {
 
 .text-card {
   align-self: start;
+}
+
+/* centers contents of the card vertically*/
+.center-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .tutorial-video-grid,
@@ -468,6 +480,7 @@ path.MastodonM {
 pre {
   padding-left: 1rem;
   padding-bottom: 1rem;
+  padding-top: 1rem;
 }
 
 .highlight-wrapper {
@@ -475,11 +488,7 @@ pre {
   margin: 0 auto;
   overflow-x: scroll;
   display: block;
-  padding: 0 !important;
-}
-
-div.highlight-wrapper {
-  padding: 0 !important;
+  margin-bottom: 1rem;
 }
 
 .highlight {
