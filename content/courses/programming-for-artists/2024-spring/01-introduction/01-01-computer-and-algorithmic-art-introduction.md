@@ -1,7 +1,7 @@
 ---
 title: 01.01 Computer and Algorithmic Art
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-05T09:16:21
+lastmod: 2024-01-06T06:14:49
 ---
 
 ## Intro to Computer and Algorithmic Art
@@ -11,23 +11,22 @@ Algorithmic Art predates the invention of the computer and digital technology. T
 Schwartz was featured in the documentary, _The Artist and the Computer 1976_.
 
 <div class="video-grid">
-
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/GRFPV9smRyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/QCthSns4U4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
 </div>
 
-- Sol LeWitt Wall Drawings with instructions Sol LeWitt talked about conceptual art being, "The idea is the machine that makes the art." [^1]
+Sol LeWitt made a series of Wall Drawings with instructions Sol LeWitt talked about conceptual art being, "The idea is the machine that makes the art." [^1]
+
 - "Wall Drawing #4: A square divided horizontally and vertically into four equal parts, each with lines in different directions"
   https://www.clevelandart.org/magazine/cleveland-art-may-june-2016/converging-lines
 
-- [Bruce Nauman - _Body Pressure_](http://projects.e-flux.com/do_it/manuals/artists/n/N001/N001A_text.html)
+Bruce Nauman's [_Body Pressure_](http://projects.e-flux.com/do_it/manuals/artists/n/N001/N001A_text.html) is a series of instructions for the viewer that are completed in sequence to complete the artwork.
 
-_Quad_, a play by Samuell Beckett, uses algorithmic insturctions for the actors. The play begins, "The players (1, 2, 3, 4) pace the given area, each following his particular course. Area: square. Length of side: 6 paces." As we will see when setting up a "Canvas" in [p5.js](./01-02-p5js-introduction.md), this is very similar to the code `createCanvas(6, 6);` The play continues with listing the parameters for each of the four courses.
+_Quad_, a play by Samuell Beckett, uses algorithmic instructions for the actors. The play begins, "The players (1, 2, 3, 4) pace the given area, each following his particular course. Area: square. Length of side: 6 paces." As we will see when setting up a "Canvas" in [p5.js](./01-02-p5js-introduction.md), this is very similar to the code `createCanvas(6, 6);` The play continues with listing the parameters for each of the four courses.
 
 |           |                                |
 | --------- | ------------------------------ |
@@ -75,15 +74,12 @@ Page from Samuell Beckett's _Quad_ Play showing "algorithmic" like instructions 
 Artists have used "chance" or random events to create art. Marchell Duchamp dropped strings of known lengths on the ground and then traced their resultant shape profiles to make "creative measureing devices". The composer John Cage used dice rolling and other chance operations to determin musical compositions. Swiss artist, Jean Tinguely, used mechanical chance operations to create unpredictable drawings with his _meta-matic_ drawing machines.
 
 <div class="video-grid">
-
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe"width="560" height="315" src="https://www.youtube.com/embed/ZNGpjXZovgk?si=UnwiXtJ0CDFqQCRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe"width="560" height="315" src="https://www.youtube.com/embed/gXOIkT1-QWY?si=0r-Z6eA6tJ-Mq8fC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
 </div>
 
 - [Casey Reas: Software Structures Launched 2004 Restored 2016](https://whitney.org/exhibitions/software-structures)

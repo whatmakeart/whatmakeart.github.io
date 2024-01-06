@@ -1,7 +1,7 @@
 ---
 title: 01.02 p5.js Introduction
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-05T09:17:08
+lastmod: 2024-01-06T07:23:29
 ---
 
 ## What is p5.js?
@@ -14,9 +14,13 @@ lastmod: 2024-01-05T09:17:08
 
 - [Setup Local Server](https://github.com/processing/p5.js/wiki/Local-server)
 
+### What is JavaScript?
+
+[JavaScript](../../../../coding/javascript.md) is a programming language. It is made for the coding the web, webpages, and web applications. It is one of many different program languages. Just like a spoken language, JavaScript has "grammar rules" called syntax, and a set of vocabulary that it understands. Everything must be programmed within this set of tools, step by step in sequence. JavaScript is an "interpreted language", which means that it goes step by step through the instructions in the code and does tasks in sequence. This is different than a compiled language like C used in programming an [Arduino](../../../../arduino/arduino-introduction.md) microcontroller. Before the Arduino can "run" the instructions in the code, it must be compiled first. That is not the case with interpreted languages like JavaScript or Python.
+
 ## What is a p5.js Web application?
 
-You probably have heard of [HTML](../../../../coding/html.md). If not, it stands for Hypertext Markup Language, and is the "code" of the internet. The page you are reading this on now is coded in HTML. But there is more to a webpage and a web application than just HTML. For the web page to do anything it needs some sort of programming language. This can be a server side language like PHP or a client side language like [JavaScript](../../../../coding/javascript.md), or both! Wait, what is a server? What is a client?
+You probably have heard of [HTML](../../../../coding/html.md). If not, it stands for Hypertext Markup Language, and is the "code" of the internet. The page you are reading this on now is coded in HTML. But there is more to a webpage and a web application than just HTML. For the web page to do anything it needs some sort of programming language. This can be a server side language like PHP or a client side language like JavaScript, or both! Wait, what is a server? What is a client?
 
 The internet is just made up of files and computers that are connected to each other. The computer you are using now has a web browser that we refer to as the client. The client sends a request, the URL or the www address, of the page to the web server. The server then sends or serves the page to the client. Since a server is also a computer, it can perform tasks before sending the page to the client such as looking up current information in a database. The client's web browser can also perform programming tasks before displaying the webpage to the user in the browser. To do this the browser uses [CSS](../../../../coding/css.md) and JavaScript. CSS, or Cascading Style Sheets, make a webpage look visually interesting. HTML is just text and is relatively unstyled by default.
 
@@ -54,6 +58,8 @@ function draw() {
   background(220);
 }
 ```
+
+### Syntax
 
 ## Parts of a p5.js Program or Sketch
 
@@ -111,5 +117,9 @@ it reaches the ending star * and slash /
 ```
 
 An additional use for comments is to "comment out" parts of your code. When you want to test different options without deleting everything from the code editor, "commenting out" some of the code, either a single line or multiple lines, is a recommended method.
+
+### Errors in the Console
+
+Errors will happen when coding. It is exepected. When errors occur
 
 [^2]: [p5.js frameRate() Documentation](https://p5js.org/reference/#/p5/frameRate)
