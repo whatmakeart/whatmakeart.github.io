@@ -72,6 +72,9 @@ a.toc-level-6 {
   margin-left: 5em;
 }
 
+main a {
+  text-decoration: none;
+}
 /*** Block Quotes 888*/
 
 blockquote {

@@ -1,10 +1,10 @@
 ---
 title: 01.03 Tools for Programming
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-04T16:26:00
+lastmod: 2024-01-07T05:00:05
 ---
 
-What is programming? What do you need to make a program? What tools are needed to code?
+What tools are needed to program or code?
 
 You do not need a lot of tools to create computer programs and to write code. A basic computer and a text editor is all that is necessary but additional tools and software can make the process easier and more efficient.
 
@@ -18,9 +18,9 @@ Although basic text editors that come with a computer, **Notepad** in the case o
 
 Text editors should not be confused with programs like Open Office, Microsoft Word, or Google Docs. While these programs appear to write just text, they include lots of "markup" behind the scenes to make everything look pretty. This extra markup does not play well with computer code. Even the default text editor **TextEdit** on the Mac defaults to Rich Text Format (RTF) and will create problems with code writing.
 
-Various text editors are listed below. Try out various editors to see which you prefer. The instruction in this course will primarily use [Visual Studio Code](https://code.visualstudio.com/) .
-
 ### Text Editors for Coding
+
+Various text editors are listed below. Try out various editors to see which you prefer. The instruction in this course will primarily use [Visual Studio Code](https://code.visualstudio.com/).
 
 - [Visual Studio Code - VSC](https://code.visualstudio.com/) is the multiverse sized elephant in the room of text editors. It has lots of features for large complex projects, a rich extension ecosystem, and new AI tool integration such as GitHub's Copilot. VSC is owned by Microsoft which also owns GitHub so integrations with Git and Github are realatively seamless. The program is free, open source and runs on Mac, Linux, and Windows.
 - [Sublime Text](https://www.sublimetext.com/) is a simple text editor that runs on Mac, Linux, and Windows with specific features design to help you code such as auto complete and syntax highlighting. It may not have all the features of more robust text editors but it works well for programming projects.
@@ -36,12 +36,16 @@ A web browser will allow you to preview web based programming projects and test 
 
 ## Programming Languages
 
+If you tell a human to draw a red circle in the middle of a page, unless they are newly born, they will understand what you mean and be able to execute the instructions. Computers do not understand this type of natural language instruction. This will likely change with ever developing Large Language Models (LLMs) and [AI](../../../../coding/ai-artificial-intelligence.md), but for now you need to use a specific programming language that the computer understands in order to give it instructions to follow.
+
 - C
 - C++
-- Javascript
+- [Javascript](../../../../coding/javascript.md)
 - Python
 - Swift - [https://docs.swift.org/swift-book/](https://docs.swift.org/swift-book/)
 - Rust
 - PHP
 
-## Code Libraries
+## Software Libraries
+
+## Development Environment

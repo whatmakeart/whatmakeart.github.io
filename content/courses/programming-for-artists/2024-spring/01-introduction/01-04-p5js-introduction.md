@@ -1,7 +1,7 @@
 ---
-title: 01.02 p5.js Introduction
+title: 01.04 p5.js Introduction
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-06T07:23:29
+lastmod: 2024-01-08T06:44:00
 ---
 
 ## What is p5.js?
@@ -12,17 +12,15 @@ lastmod: 2024-01-06T07:23:29
 >
 > _Description from [p5js.org](https://p5js.org/)_
 
-- [Setup Local Server](https://github.com/processing/p5.js/wiki/Local-server)
-
 ### What is JavaScript?
 
-[JavaScript](../../../../coding/javascript.md) is a programming language. It is made for the coding the web, webpages, and web applications. It is one of many different program languages. Just like a spoken language, JavaScript has "grammar rules" called syntax, and a set of vocabulary that it understands. Everything must be programmed within this set of tools, step by step in sequence. JavaScript is an "interpreted language", which means that it goes step by step through the instructions in the code and does tasks in sequence. This is different than a compiled language like C used in programming an [Arduino](../../../../arduino/arduino-introduction.md) microcontroller. Before the Arduino can "run" the instructions in the code, it must be compiled first. That is not the case with interpreted languages like JavaScript or Python.
+[JavaScript](../../../../coding/javascript.md) is a programming language. It is made for the coding the web, webpages, and web applications. It makes it possible for static [HTML](../../../../coding/html.md) pages and the [CSS](../../../../coding/css.md) styling of the webpages to dynamically change and update.
 
 ## What is a p5.js Web application?
 
-You probably have heard of [HTML](../../../../coding/html.md). If not, it stands for Hypertext Markup Language, and is the "code" of the internet. The page you are reading this on now is coded in HTML. But there is more to a webpage and a web application than just HTML. For the web page to do anything it needs some sort of programming language. This can be a server side language like PHP or a client side language like JavaScript, or both! Wait, what is a server? What is a client?
+HTML stands for Hypertext Markup Language, and is the "code" of the internet. The page you are reading this on now is coded in HTML. But there is more to a webpage and a web application than just HTML. For the web page to do anything it needs some sort of programming language. This can be a server side language like PHP or a client side language like JavaScript, or both! Wait, what is a server? What is a client?
 
-The internet is just made up of files and computers that are connected to each other. The computer you are using now has a web browser that we refer to as the client. The client sends a request, the URL or the www address, of the page to the web server. The server then sends or serves the page to the client. Since a server is also a computer, it can perform tasks before sending the page to the client such as looking up current information in a database. The client's web browser can also perform programming tasks before displaying the webpage to the user in the browser. To do this the browser uses [CSS](../../../../coding/css.md) and JavaScript. CSS, or Cascading Style Sheets, make a webpage look visually interesting. HTML is just text and is relatively unstyled by default.
+The internet is just made up of files and computers that are connected to each other. The computer you are using now has a web browser that we refer to as the client. The client sends a request, the URL or the www address, of the page to the web server. The server then sends or serves the page to the client. Since a server is also a computer, it can perform tasks before sending the page to the client such as looking up current information in a database. The client's web browser can also perform programming tasks before displaying the webpage to the user in the browser. To do this the browser uses CSS and JavaScript. CSS, or Cascading Style Sheets, make a webpage look visually interesting. HTML is just text and is relatively unstyled by default.
 
 ### Software Libraries
 
@@ -33,6 +31,8 @@ To use p5.js, it needs to be included, or added to the HTML file of the webpage.
 ### Installing the p5.js Library
 
 We will cover how to install and use p5.js and other libraries more in depth later in the course, but for now know there are two ways to "install" the library. You can use an online version and link to it or you can use a downloaded version and host it on a local or remote server. You can download the library from the [p5.js website](https://p5js.org/download/). Since p5.js is a popular library, you can also link to a hosted version of the library on a CDN, or Content Delivery Network. This is a list of [p5.js CDN links](https://cdnjs.com/libraries/p5.js).
+
+- [Setup Local Server](https://github.com/processing/p5.js/wiki/Local-server)
 
 ## Computer Graphics Coordinates
 
@@ -60,6 +60,7 @@ function draw() {
 ```
 
 ### Syntax
+
 
 ## Parts of a p5.js Program or Sketch
 
