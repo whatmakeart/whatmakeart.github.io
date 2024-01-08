@@ -72,8 +72,11 @@ a.toc-level-6 {
   margin-left: 5em;
 }
 
-main a {
+main  a {
   text-decoration: none;
+}
+main  a:hover {
+  text-decoration: underline;
 }
 /*** Block Quotes 888*/
 

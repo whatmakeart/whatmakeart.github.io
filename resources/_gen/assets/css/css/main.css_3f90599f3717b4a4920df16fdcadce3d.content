@@ -11521,6 +11521,9 @@ a.toc-level-6 {
 main a {
   text-decoration: none; }
 
+main a:hover {
+  text-decoration: underline; }
+
 /*** Block Quotes 888*/
 blockquote {
   display: block;
