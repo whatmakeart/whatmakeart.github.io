@@ -1,7 +1,7 @@
 ---
 title: 01.01 Computer and Algorithmic Art
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-08T06:44:00
+lastmod: 2024-01-09T06:37:05
 ---
 
 ## Intro to Computer and Algorithmic Art
@@ -108,8 +108,30 @@ Artists have used "chance" or random events to create art. Marchell Duchamp drop
 </div>
 </div>
 
+Casey Reas transformed Sol LeWitt drawing instructions into generative software in an exhibit, at the Whitney, [Casey Reas: Software Structures Launched 2004 Restored 2016](https://whitney.org/exhibitions/software-structures). The project started with Reas thinking about the relevance of Sol LeWitt's drawings to generative software art. Reas then recreated three of LeWitt's drawing structures, in software that served as a catalyst for creating new structures and software.
 
-Casey Reas transformed Sol LeWitt drawing instructions into generative software in an exhibit ath the Whitney, [Casey Reas: Software Structures Launched 2004 Restored 2016](https://whitney.org/exhibitions/software-structures). The project started with Reas thinking about the relevance of Sol LeWitt's drawings to generative software art. Reas then recreated three of LeWitt's drawing structures, in software that served as a catalyst for creating new structures and software. 
+Below is a p5.js sketch by Reas of Sol LewWitt's "Wall Drawing #106. Arcs from the midpoints of two sides of the wall." [^whitney-106-comments] Software written by a human, follows the instructions and makes the drawing according to the instructions or recipe of Sol LeWitt.
+
+<figure>
+<div class="iframe-4-3-container">
+<iframe class="responsiveIframe" width="800px" height="600px" src="https://artport.whitney.org/commissions/software-structures-2016/_106/sketch.html"></iframe>
+</div>
+<figcaption>
+
+Wall Drawing #106. First implemented in [Processing](https://processing.org/) by Casey Reas in 2004, ported to [p5.js](https://p5js.org/) in 2016.
+
+</figcaption>
+</figure>
+<figure>
+<div class="iframe-4-3-container">
+<iframe class="responsiveIframe" width="800px" height="600px" src="https://artport.whitney.org/commissions/software-structures-2016/s3_2/sketch.html"></iframe>
+</div>
+<figcaption>
+
+Structure #003B. First implemented in [Processing](https://processing.org/) by Casey Reas in 2004, ported to [p5.js](https://p5js.org/) in 2016. [^whitney-3b]
+
+</figcaption>
+</figure>
 
 - [HAROLD COHEN AND AARON—A 40-YEAR COLLABORATION By Chris Garcia | August 23, 2016](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/)
 
@@ -127,9 +149,18 @@ Casey Reas transformed Sol LeWitt drawing instructions into generative software 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cn-U_Dj5UeE?si=dskYdyVuh_Manb9N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<script>
+
+  
+
+
+  </script>
+
 [^1]: [Paragraphs on Conceptual Art - Artforum Summer 1967 Vol. 5, No 10](https://www.artforum.com/features/paragraphs-on-conceptual-art-211354/)
 [^2]: [Algorithmic Art by Roman Verostko](https://www.verostko.com/algorithm.html)
 [^lillian]: [Lillian Schwartz Biography](http://lillian.com/biography/) [Web Archive](https://web.archive.org/web/20230604211831/http://lillian.com/biography/)
 [^beckett]: Beckett, Samuel. “Quad.” Play. In Collected Shorter Plays, 289–94. New York: Grove Press, 1984.
 [^lu-steinhardt]: Peter J. Lu, Paul J. Steinhardt, Decagonal and Quasi-Crystalline Tilings in Medieval Islamic Architecture. Science **315**,1106-1110(2007). DOI: [10.1126/science.1135491](https://doi.org/10.1126/science.1135491)
-[^penrose-wiki]: https://en.wikipedia.org/wiki/Penrose_tiling
+[^penrose-wiki]: [Penrose Tiling](https://en.wikipedia.org/wiki/Penrose_tiling) Wikipedia.
+[^whitney-106-comments]: [Comments Page](https://artport.whitney.org/commissions/software-structures-2016/_106/comments.html) from [Software Structures 106 at the Whitney.
+[^whitney-3b]: [Structure 3B](https://artport.whitney.org/commissions/software-structures-2016/s3_2/) by Casey Reas in [Software Structures](https://artport.whitney.org/commissions/software-structures-2016/map.html) at the Whitney.

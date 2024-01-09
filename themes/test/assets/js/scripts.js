@@ -2,6 +2,7 @@ if (document.readyState === "loading") {
   // Loading hasn't finished yet
   document.addEventListener("DOMContentLoaded", function () {
     console.log("DOMContentLoaded after checking readyState");
+
     if (self != top) {
       removeNavigationEmbed();
       sendIframeHeight();
@@ -12,6 +13,7 @@ if (document.readyState === "loading") {
 } else {
   // `DOMContentLoaded` has already fired which sometimes happens so run the functions
   console.log("DOMContentLoaded has already fired before addEventListener");
+
   if (self != top) {
     removeNavigationEmbed();
     sendIframeHeight();
@@ -20,6 +22,7 @@ if (document.readyState === "loading") {
 
 window.addEventListener("load", function (event) {
   console.log("Page content is fully loaded");
+  addFootnoteHeader();
   checkIfMobile();
   if (self != top) {
     // This will be repeated 9 times with .01 second intervals:
@@ -325,3 +328,18 @@ function replaceVideosWithThumbnails() {
 
 // Listen for print events
 window.onbeforeprint = replaceVideosWithThumbnails;
+
+//Add Footnote HEader
+function addFootnoteHeader() {
+  var newH2 = document.createElement("h2"); // Create a new h2 element
+  newH2.textContent = "References"; // Add your heading text
+
+  var footnotesDiv = document.querySelector(".footnotes"); // Select the div with class 'footnotes'
+  // Check if the div exists
+  if (footnotesDiv) {
+    // Insert the new h2 as the first child of the div
+    footnotesDiv.insertBefore(newH2, footnotesDiv.firstChild);
+  } else {
+    console.log("No element with class 'footnotes' found.");
+  }
+}

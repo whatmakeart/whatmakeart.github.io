@@ -72,10 +72,10 @@ a.toc-level-6 {
   margin-left: 5em;
 }
 
-main  a {
+main a {
   text-decoration: none;
 }
-main  a:hover {
+main a:hover {
   text-decoration: underline;
 }
 /*** Block Quotes 888*/
@@ -269,6 +269,14 @@ body.dark {
   max-width: var(--wide-max-width);
 }
 
+/*  4:3 ratio iframes used in algorithmic art */
+.iframe-4-3-container {
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-top: 75%;
+}
+
 .youTubeIframe,
 .vimeoIframe,
 .responsiveIframe {
@@ -331,25 +339,38 @@ a.title-link {
   padding-left: 0;
 }
 
+.gallery-grid > figure {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* pushes the caption to the bottom for uneven image heights */
+}
+
 /* gallery-grid caption font size */
 .gallery-grid > figure > figcaption {
   font-size: 12px;
 }
 
-.gallery-grid > figure > figcaption > a > svg {
-  color: red;
-}
 /* Begin for footnote backlinks on hugo */
 .footnote-backref {
   visibility: hidden;
 
   &::before {
-    content: "↑ return";
+    content: "  return↑";
     visibility: visible;
     font-size: 12px;
   }
 }
+
 /* End for footnote backlinks on hugo */
+
+/*footnote number brackets*/
+a.footnote-ref::before {
+  content: "[";
+}
+
+a.footnote-ref::after {
+  content: "]";
+}
 
 /* site title on pages below nav menu */
 
