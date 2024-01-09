@@ -346,8 +346,12 @@ a.title-link {
 }
 
 /* gallery-grid caption font size */
-.gallery-grid > figure > figcaption {
+figcaption {
   font-size: 12px;
+}
+
+figure > p {
+  margin-bottom: 0.5rem;
 }
 
 /* Begin for footnote backlinks on hugo */
@@ -372,6 +376,12 @@ a.footnote-ref::after {
   content: "]";
 }
 
+.footnotes {
+  font-size: 13px;
+}
+.footnotes > ol > li > p {
+  margin-bottom: 0.2rem;
+}
 /* site title on pages below nav menu */
 
 #top-prev-next,

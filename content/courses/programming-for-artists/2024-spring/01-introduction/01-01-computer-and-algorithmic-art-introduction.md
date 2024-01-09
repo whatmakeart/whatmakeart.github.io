@@ -1,7 +1,7 @@
 ---
 title: 01.01 Computer and Algorithmic Art
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-09T06:37:05
+lastmod: 2024-01-09T07:35:14
 ---
 
 ## Intro to Computer and Algorithmic Art
@@ -32,6 +32,8 @@ Penrose Tiling P1 over P3 by [Inductiveload](https://commons.wikimedia.org/wiki/
 </figure>
 </div>
 
+## Early Computer Art
+
 Lillian Schwartz was a pioneer in using computers to create computer generated art. In the late 1960s she worked as a consultant at Bell Laboratories and developed tools and techniques for using computers in film and animation. She is also credited with creating the first digital drawing with a preasure sensitive tablet that was transmitted around the world in real-time. [^lillian]
 
 Schwartz was featured in the documentary, _The Artist and the Computer 1976_.
@@ -45,10 +47,24 @@ Schwartz was featured in the documentary, _The Artist and the Computer 1976_.
 </div>
 </div>
 
-Sol LeWitt made a series of Wall Drawings with instructions Sol LeWitt talked about conceptual art being, "The idea is the machine that makes the art." [^1]
+Frieder Nake made use of graphical plotters and mathematics to create computer art and made some of the first computer artworks and participated in some of the earliest exhibitions of computer art. [^wiki-nake] Nake was an algorithmic and generative art pioneer and one of the "Algorists", a self named group of early algorithmic art and generative art practitioners. [^amerika]
 
-"Wall Drawing #4: A square divided horizontally and vertically into four equal parts, each with lines in different directions"
-https://www.clevelandart.org/magazine/cleveland-art-may-june-2016/converging-lines
+## Analog Algorithmic Art
+
+Sol LeWitt made a series of Wall Drawings with instructions. He talked about conceptual art being, "The idea is the machine that makes the art." [^1] The wall drawings are seperated from the artist, since once someone has the instructions, the algorithm, or the recipie, anyone can make them. Recipies, and instructions are not copyrightable in the United States, so anyone can make their own wall drawings, you just can't call them Sol LeWitt artworks.
+
+The instructions for _Wall Drawing #797_ read, "The first drafter has a black marker and makes an irregular horizontal line near the top of the wall. Then the second drafter tries to copy it (without touching it) using a red marker. The third drafter does the same, using a yellow marker. The fourth drafter does the same using a blue marker. Then the second drafter followed by the third and fourth copies the last line drawn until the bottom of the wall is reached." [^massmoca-lewitt]
+
+<figure>
+
+[![Sol LeWitt Wall Drawing #797](./1995-sol-lewitt-wall-drawing-797-mass-moca.jpg)](./1995-sol-lewitt-wall-drawing-797-mass-moca.jpg)
+
+<figcaption>
+
+WALL DRAWING #797, Sol LeWitt, at [MASS MoCA](https://massmoca.org/event/walldrawing797/) - 1995
+
+</figcaption>
+</figure>
 
 Bruce Nauman's [_Body Pressure_](http://projects.e-flux.com/do_it/manuals/artists/n/N001/N001A_text.html) is a series of instructions for the viewer that are completed in sequence to complete the artwork.
 
@@ -108,6 +124,8 @@ Artists have used "chance" or random events to create art. Marchell Duchamp drop
 </div>
 </div>
 
+## Digital Algorithmic and Generative Art
+
 Casey Reas transformed Sol LeWitt drawing instructions into generative software in an exhibit, at the Whitney, [Casey Reas: Software Structures Launched 2004 Restored 2016](https://whitney.org/exhibitions/software-structures). The project started with Reas thinking about the relevance of Sol LeWitt's drawings to generative software art. Reas then recreated three of LeWitt's drawing structures, in software that served as a catalyst for creating new structures and software.
 
 Below is a p5.js sketch by Reas of Sol LewWitt's "Wall Drawing #106. Arcs from the midpoints of two sides of the wall." [^whitney-106-comments] Software written by a human, follows the instructions and makes the drawing according to the instructions or recipe of Sol LeWitt.
@@ -133,28 +151,36 @@ Structure #003B. First implemented in [Processing](https://processing.org/) by C
 </figcaption>
 </figure>
 
-- [HAROLD COHEN AND AARON—A 40-YEAR COLLABORATION By Chris Garcia | August 23, 2016](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/)
+Harold Cohen was an early experimenter with artificial intelligence and machine created art. He created AI systems that would create art by following rules. He created a small drawing robot, called "TURTLE" that moved around a piece of paper and made marks according to rules. Rather than the random mechanical chance of Jean Tinguely's meta matics, this small machine has a system of rules on how to make the art. Cohen created the AARON system to make artworks based on rules. He continued to work on this AI system over many years, at first filling in marks with color himself, and eventually equipping the system with a robotic mark making arm. [^garcia-cohen]
+
+<div class="video-grid">
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/IPczQgCuOOc?si=RzVCIf5RNh9C2TGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/U1DbaUATNtY?si=N0bw12cyzhuMi-hz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 - [Algorithmic Art - Wikipedia](https://en.wikipedia.org/wiki/Algorithmic_art)
 
 ## Computer Art Video Clips
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CIEYlUosKUY?si=dH7uJVXm-vO6oOLT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-grid">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_8DMEHxOLQE?si=qgdIoKssGl1Ofodu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/CIEYlUosKUY?si=dH7uJVXm-vO6oOLT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IPczQgCuOOc?si=RzVCIf5RNh9C2TGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/_8DMEHxOLQE?si=qgdIoKssGl1Ofodu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U1DbaUATNtY?si=N0bw12cyzhuMi-hz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Cn-U_Dj5UeE?si=dskYdyVuh_Manb9N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cn-U_Dj5UeE?si=dskYdyVuh_Manb9N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<script>
-
-  
-
-
-  </script>
+</div>
 
 [^1]: [Paragraphs on Conceptual Art - Artforum Summer 1967 Vol. 5, No 10](https://www.artforum.com/features/paragraphs-on-conceptual-art-211354/)
 [^2]: [Algorithmic Art by Roman Verostko](https://www.verostko.com/algorithm.html)
@@ -162,5 +188,9 @@ Structure #003B. First implemented in [Processing](https://processing.org/) by C
 [^beckett]: Beckett, Samuel. “Quad.” Play. In Collected Shorter Plays, 289–94. New York: Grove Press, 1984.
 [^lu-steinhardt]: Peter J. Lu, Paul J. Steinhardt, Decagonal and Quasi-Crystalline Tilings in Medieval Islamic Architecture. Science **315**,1106-1110(2007). DOI: [10.1126/science.1135491](https://doi.org/10.1126/science.1135491)
 [^penrose-wiki]: [Penrose Tiling](https://en.wikipedia.org/wiki/Penrose_tiling) Wikipedia.
-[^whitney-106-comments]: [Comments Page](https://artport.whitney.org/commissions/software-structures-2016/_106/comments.html) from [Software Structures 106 at the Whitney.
+[^whitney-106-comments]: [Comments Page](https://artport.whitney.org/commissions/software-structures-2016/_106/comments.html) from Software Structures 106 at the Whitney.
 [^whitney-3b]: [Structure 3B](https://artport.whitney.org/commissions/software-structures-2016/s3_2/) by Casey Reas in [Software Structures](https://artport.whitney.org/commissions/software-structures-2016/map.html) at the Whitney.
+[^garcia-cohen]: Garcia, Chris. [HAROLD COHEN AND AARON—A 40-YEAR COLLABORATION](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/) computerhistory.org - August 23, 2016.
+[^wiki-nake]: [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake) Wikipedia.
+[^amerika]: [An Interview with Frieder Nake](https://www.rightclicksave.com/article/an-interview-with-frieder-nake)
+[^massmoca-lewitt]: [Wall Drawing 797](https://massmoca.org/event/walldrawing797/) MASS MoCA
