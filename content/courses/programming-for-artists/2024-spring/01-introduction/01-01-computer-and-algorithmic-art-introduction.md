@@ -1,7 +1,7 @@
 ---
 title: 01.01 Computer and Algorithmic Art
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-09T07:35:14
+lastmod: 2024-01-10T09:23:55
 ---
 
 ## Intro to Computer and Algorithmic Art
@@ -34,7 +34,11 @@ Penrose Tiling P1 over P3 by [Inductiveload](https://commons.wikimedia.org/wiki/
 
 ## Early Computer Art
 
-Lillian Schwartz was a pioneer in using computers to create computer generated art. In the late 1960s she worked as a consultant at Bell Laboratories and developed tools and techniques for using computers in film and animation. She is also credited with creating the first digital drawing with a preasure sensitive tablet that was transmitted around the world in real-time. [^lillian]
+Vera Molnár worked with algorithmic art before having access to a computer and developed a technique, "Machine Imaginare" that used algorithms to determine an image's composition by hand. Her initial experiments making art with computers required using punch cards and waiting days for a mechanical plotter to produce the image. [^Molnar]
+
+[![Vera Molnar](./1982-Vera-Molna-From%20the-Hommage-à-Dürer%20cycle-plotter-red-ink.jpg)](./1982-Vera-Molna-From%20the-Hommage-à-Dürer%20cycle-plotter-red-ink.jpg)
+
+Lillian Schwartz was a pioneer in using computers to create computer generated art. In the late 1960s she worked as a consultant at Bell Laboratories and developed tools and techniques for using computers in film and animation. She is also credited with creating the first digital drawing with a pressure sensitive tablet that was transmitted around the world in real-time. [^lillian]
 
 Schwartz was featured in the documentary, _The Artist and the Computer 1976_.
 
@@ -194,3 +198,4 @@ Harold Cohen was an early experimenter with artificial intelligence and machine 
 [^wiki-nake]: [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake) Wikipedia.
 [^amerika]: [An Interview with Frieder Nake](https://www.rightclicksave.com/article/an-interview-with-frieder-nake)
 [^massmoca-lewitt]: [Wall Drawing 797](https://massmoca.org/event/walldrawing797/) MASS MoCA
+[^Molnar]: Willams, Alex. [Vera Molnar, Pioneer of Computer Art, Dies at 99](https://www.nytimes.com/2023/12/15/arts/vera-molnar-dead.html). New York Times. December 15, 2023.

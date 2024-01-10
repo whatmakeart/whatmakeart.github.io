@@ -1,7 +1,7 @@
 ---
 title: Install Visual Studio Code
-date:
-lastmod:
+date: 2024-01-10T05:20:21
+lastmod: 2024-01-10T05:22:44
 ---
 
 <div class="iframe-16-9-container">
