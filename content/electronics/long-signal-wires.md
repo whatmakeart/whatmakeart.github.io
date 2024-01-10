@@ -12,7 +12,7 @@ Ethernet Cable comes with twisted pair wires that are designed for single transm
 
 To get a Cat 5 cable to connect to and Arduino, use a module.
 
-[![Cat 5 Module](attachments/2023-ethernet-cable-attached-to-modules.jpg)](attachments/2023-ethernet-cable-attached-to-modules.jpg)
+[![Cat 5 Module](./attachments/2023-ethernet-cable-attached-to-modules.jpg)](./attachments/2023-ethernet-cable-attached-to-modules.jpg)
 
 ## Capacitors for Noise
 

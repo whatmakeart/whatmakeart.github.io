@@ -1,7 +1,7 @@
 ---
 title: 01.01 Computer and Algorithmic Art
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-10T09:23:55
+lastmod: 2024-01-10T12:52:31
 ---
 
 ## Intro to Computer and Algorithmic Art
@@ -36,7 +36,29 @@ Penrose Tiling P1 over P3 by [Inductiveload](https://commons.wikimedia.org/wiki/
 
 Vera Molnár worked with algorithmic art before having access to a computer and developed a technique, "Machine Imaginare" that used algorithms to determine an image's composition by hand. Her initial experiments making art with computers required using punch cards and waiting days for a mechanical plotter to produce the image. [^Molnar]
 
-[![Vera Molnar](./1982-Vera-Molna-From%20the-Hommage-à-Dürer%20cycle-plotter-red-ink.jpg)](./1982-Vera-Molna-From%20the-Hommage-à-Dürer%20cycle-plotter-red-ink.jpg)
+<div class="gallery-grid">
+<figure>
+
+[![Vera Molnár From the Hommage à Dürer  cycle](./1982-Vera-Molnár-From-the-Hommage-à-Dürer-cycle-plotter-red-ink.jpg)](./1982-Vera-Molnár-From-the-Hommage-à-Dürer-cycle-plotter-red-ink.jpg)
+
+<figcaption>
+
+Vera Molnár, From the Hommage à Dürer cycle, plotter, red ink, 1982, 41 x 40 cm - [Galerie Berthet-Aittouarès](https://www.galerie-ba.com/en/vera-molnar?pgid=k8610me6-19e72a39-2edf-42d3-8be9-1342c546c0a5)
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Vera Molnár - Sainte Victoire in 16 Lines](./1989-2015-Vera-Molnár-Sainte-Victoire-in-16-lines.jpg)](./1989-2015-Vera-Molnár-Sainte-Victoire-in-16-lines.jpg)
+
+<figcaption>
+
+Vera Molnár, Sainte Victoire in 16 Lines - 1989-2015 [Galerie Berthet-Aittouarès](https://www.galerie-ba.com/en/vera-molnar?pgid=k8610me6-61876e92-b7fd-44c6-b4e9-fe95a97d9f0d)
+
+</figcaption>
+</figure>
+</div>
 
 Lillian Schwartz was a pioneer in using computers to create computer generated art. In the late 1960s she worked as a consultant at Bell Laboratories and developed tools and techniques for using computers in film and animation. She is also credited with creating the first digital drawing with a pressure sensitive tablet that was transmitted around the world in real-time. [^lillian]
 
@@ -119,12 +141,21 @@ Page from Samuell Beckett's _Quad_ Play showing "algorithmic" like instructions 
 
 Artists have used "chance" or random events to create art. Marchell Duchamp dropped strings of known lengths on the ground and then traced their resultant shape profiles to make "creative measuring devices". The composer John Cage used dice rolling and other chance operations to determine musical compositions. Swiss artist, Jean Tinguely, used mechanical chance operations to create unpredictable drawings with his _meta-matic_ drawing machines.
 
+Randomness became a large part of computer graphics with the creation of Perlin Noise. This is an algorithm developed by Kevin Perlin in 1983 for use in the original _Tron_ movie to create textures and other visual effects. [^perlin-wiki]
+
 <div class="video-grid">
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe"width="560" height="315" src="https://www.youtube.com/embed/ZNGpjXZovgk?si=UnwiXtJ0CDFqQCRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe"width="560" height="315" src="https://www.youtube.com/embed/gXOIkT1-QWY?si=0r-Z6eA6tJ-Mq8fC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/CIEYlUosKUY?si=dH7uJVXm-vO6oOLT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" src="https://editor.p5js.org/whatmakeart/full/o-AN7QX5l"></iframe>
 </div>
 </div>
 
@@ -166,15 +197,9 @@ Harold Cohen was an early experimenter with artificial intelligence and machine 
 </div>
 </div>
 
-- [Algorithmic Art - Wikipedia](https://en.wikipedia.org/wiki/Algorithmic_art)
-
 ## Computer Art Video Clips
 
 <div class="video-grid">
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/CIEYlUosKUY?si=dH7uJVXm-vO6oOLT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/_8DMEHxOLQE?si=qgdIoKssGl1Ofodu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -185,6 +210,12 @@ Harold Cohen was an early experimenter with artificial intelligence and machine 
 </div>
 
 </div>
+
+## Further Reading
+
+- [Algorithmic Art - Wikipedia](https://en.wikipedia.org/wiki/Algorithmic_art)
+
+## References
 
 [^1]: [Paragraphs on Conceptual Art - Artforum Summer 1967 Vol. 5, No 10](https://www.artforum.com/features/paragraphs-on-conceptual-art-211354/)
 [^2]: [Algorithmic Art by Roman Verostko](https://www.verostko.com/algorithm.html)
@@ -199,3 +230,4 @@ Harold Cohen was an early experimenter with artificial intelligence and machine 
 [^amerika]: [An Interview with Frieder Nake](https://www.rightclicksave.com/article/an-interview-with-frieder-nake)
 [^massmoca-lewitt]: [Wall Drawing 797](https://massmoca.org/event/walldrawing797/) MASS MoCA
 [^Molnar]: Willams, Alex. [Vera Molnar, Pioneer of Computer Art, Dies at 99](https://www.nytimes.com/2023/12/15/arts/vera-molnar-dead.html). New York Times. December 15, 2023.
+[^perlin-wiki]: [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise) Wikipedia.

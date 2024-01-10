@@ -1,7 +1,7 @@
 ---
 title: 01.04 p5.js Introduction
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-08T06:44:00
+lastmod: 2024-01-10T13:55:19
 ---
 
 ## What is p5.js?
@@ -59,8 +59,13 @@ function draw() {
 }
 ```
 
-### Syntax
+<div class="ifream-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/SYg862WYaic?si=XxzLlRN9jxMWpfa-?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
+[p5.js Web Editor Tutorial](https://youtu.be/SYg862WYaic)
+
+### Syntax
 
 ## Parts of a p5.js Program or Sketch
 
