@@ -1,7 +1,7 @@
 ---
 title: 01.04 p5.js Introduction
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-10T13:55:19
+lastmod: 2024-01-11T06:46:11
 ---
 
 ## What is p5.js?
@@ -42,7 +42,7 @@ Unlike in elementary math class the coordinates (0,0) are not in the middle of t
 
 ## Using the p5.js Online Editor
 
-The creators of p5.js provide a convenient and easy to use [online editor]https://editor.p5js.org/ that works in an internet browser window. This allows for quick experimentation and testing. To access the [online editor](https://editor.p5js.org/) go to [https://editor.p5js.org/](https://editor.p5js.org/).
+The creators of p5.js provide a convenient and easy to use [online editor](https://editor.p5js.org/) that works in an internet browser window. This allows for quick experimentation and testing. To access the [online editor](https://editor.p5js.org/) go to [https://editor.p5js.org/](https://editor.p5js.org/).
 
 At the top of the editor is a menu with "File, Edit, Sketch, and Help". There is a play button, a stop button, and a check box for "Auto-refresh".
 
@@ -59,13 +59,19 @@ function draw() {
 }
 ```
 
-<div class="ifream-16-9-container">
+<div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/SYg862WYaic?si=XxzLlRN9jxMWpfa-?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-[p5.js Web Editor Tutorial](https://youtu.be/SYg862WYaic)
+[p5.js Web Editor Basics](../../../../coding/p5js/p5-js-web-editor-basics.md)
 
 ### Syntax
+
+Just like the language that you speak, programming languages like JavaScript, have rules and grammar. In coding the rules and grammar are called syntax. If you do not have your code written with the correct syntax then the computer will not know how to run your code.
+
+- each line ends with a semi colon `;`
+- functions have a name followed by `()` and then curly brackets `{}` that hold the contents of the function
+- lines that start with two `//` are treated as comments
 
 ## Parts of a p5.js Program or Sketch
 
@@ -87,11 +93,29 @@ The `setup()` function above creates a canvas that is 400 pixels wide by 500 pix
 
 The draw function is called after the completion of the setup function and runs continuously until the program stops or the function `noLoop()` is called. Functions are "called" in computer programming jargon. Its speed is controlled by the `frameRate()` function but defaults to 60 frames per second (fps) according to the docs. A sketch or program can only have one draw function. [^2]
 
-### shapes
+### Shapes
 
 Different shapes can be drawn in p5.js such as triangles, circles (ellipses), lines, rectangles, and single points. Special functions can be used to create complex shapes such as those used in vector drawing programs like [Adobe Illustrator](../../../../software/adobe-illustrator/illustrator.md).
 
-### color
+#### 2D Primitive Shapes
+
+- arc()
+- ellipse()
+- circle()
+- line()
+- point()
+- quad()
+- rect()
+- square()
+- triangle()
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7U0wQlDod60?si=kL-nwYtDLqyy1VOt?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+[Basic Shapes in p5.js](../../../../coding/p5js/primitive-shapes-p5-js.md)
+
+### Color
 
 The color of the canvas and the color of shapes can be set. To set the background color to completely red use the code `background(255,0,0);` The syntax is (Red, Green, Blue) with 0 representing no color and 255 representing 100% color. If a single number is used such as `background(45);` then it will be shaded with a monochrome grey shade corresponding to its position on the 0-255 color scale.
 
@@ -104,6 +128,12 @@ stroke(0, 0, 255);
 ```
 
 These are completely saturated colors. A more pleasing color palette can be selected by using all three color values. In addition different color modes can be called. Instead of using RGB color mode it may be better to use HSB or HSL for Hue / Saturation Brightness (or Lightness), similar to HSV Hue / Saturation / Value. These modes can be more intuitive for making color adjustments than RGB.
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/uBj4dZmxONA?si=e3HsTRd8_PHR8KZo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+[Color in p5.js](../../../../coding/p5js/color-p5-js.md)
 
 ### Code Comments
 
@@ -124,8 +154,16 @@ it reaches the ending star * and slash /
 
 An additional use for comments is to "comment out" parts of your code. When you want to test different options without deleting everything from the code editor, "commenting out" some of the code, either a single line or multiple lines, is a recommended method.
 
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/A2pH3TOEgok?si=dv9BxZTB8orHlm8M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+[Code Comments](../../../../coding/p5js/code-comments-p5-js.md)
+
 ### Errors in the Console
 
 Errors will happen when coding. It is exepected. When errors occur
+
+## References
 
 [^2]: [p5.js frameRate() Documentation](https://p5js.org/reference/#/p5/frameRate)
