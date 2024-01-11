@@ -1,7 +1,7 @@
 ---
 title: 01.04 p5.js Introduction
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-11T06:46:11
+lastmod: 2024-01-11T16:47:49
 ---
 
 ## What is p5.js?
@@ -30,9 +30,9 @@ To use p5.js, it needs to be included, or added to the HTML file of the webpage.
 
 ### Installing the p5.js Library
 
-We will cover how to install and use p5.js and other libraries more in depth later in the course, but for now know there are two ways to "install" the library. You can use an online version and link to it or you can use a downloaded version and host it on a local or remote server. You can download the library from the [p5.js website](https://p5js.org/download/). Since p5.js is a popular library, you can also link to a hosted version of the library on a CDN, or Content Delivery Network. This is a list of [p5.js CDN links](https://cdnjs.com/libraries/p5.js).
+We will cover how to [install and use p5.js](../../../../coding/p5js/setup-local-p5-js-project.md) and other libraries more in depth later in the course, but for now know there are two ways to "install" the library. You can use an online version and link to it or you can use a downloaded version and host it on a local or remote server. You can download the library from the [p5.js website](https://p5js.org/download/). Since p5.js is a popular library, you can also link to a hosted version of the library on a CDN, or Content Delivery Network. This is a list of [p5.js CDN links](https://cdnjs.com/libraries/p5.js).
 
-- [Setup Local Server](https://github.com/processing/p5.js/wiki/Local-server)
+[How to setup p5.js local project](../../../../coding/p5js/setup-local-p5-js-project.md)
 
 ## Computer Graphics Coordinates
 
@@ -87,8 +87,6 @@ function setup() {
 
 The `setup()` function above creates a canvas that is 400 pixels wide by 500 pixels tall.
 
-### canvas
-
 ### `draw()`
 
 The draw function is called after the completion of the setup function and runs continuously until the program stops or the function `noLoop()` is called. Functions are "called" in computer programming jargon. Its speed is controlled by the `frameRate()` function but defaults to 60 frames per second (fps) according to the docs. A sketch or program can only have one draw function. [^2]
@@ -133,7 +131,7 @@ These are completely saturated colors. A more pleasing color palette can be sele
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/uBj4dZmxONA?si=e3HsTRd8_PHR8KZo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-[Color in p5.js](../../../../coding/p5js/color-p5-js.md)
+[Color in p5.js](../../../../coding/p5js/color-modes-p5-js.md)
 
 ### Code Comments
 
