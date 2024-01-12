@@ -1,12 +1,45 @@
 ---
 title: p5.js Web Editor Basics
 date: 2024-01-10T13:48:17
-lastmod: 2024-01-11T15:14:34
+lastmod: 2024-01-12T05:21:38
 ---
 
 <div class="ifream-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/SYg862WYaic?si=XxzLlRN9jxMWpfa-?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+p5.js is a fantastic library that combines the power of programming with the beauty of visual art, making it a great choice for artists, designers, educators, and beginners. Let's dive into the basics of using the p5.js Web Editor and start creating some digital art!
+
+## Understanding the p5.js Web Editor Interface
+
+1. **Canvas Creation**: At the heart of p5.js is the canvas. You create it using `createCanvas(400, 400);`. This function creates a 400x400 pixel square on your screen, essentially your digital canvas where your art will be rendered.
+2. **Background Color**: The `background(220);` function sets the background color of the canvas. Here, 220 represents a shade of gray. p5.js uses grayscale values where 0 is black and 255 is white.
+3. **Running the Sketch**: To see your code come to life, click the play button. This will run your sketch and show any changes you've made.
+4. **Changing Canvas Size**: You can alter the canvas size by changing the parameters of `createCanvas()`. For example, `createCanvas(300, 400);` will make the width 300 pixels. Don't forget to rerun the sketch to see your changes.
+5. **Changing Background Color**: Modify the `background()` function to change the canvas color. With "Auto Refresh" enabled, changes are updated in real-time.
+
+## Drawing Shapes and Responding to Input
+
+1. **Colors in p5.js**: Colors can be defined in different ways. A single number gives a grayscale value, while three numbers specify red, green, and blue (RGB) values. [p5.js color modes](./color-modes-p5-js.md)
+2. **Drawing an Ellipse**: Use `ellipse(50, 50, 80, 80);` to draw an ellipse. The first two numbers are the x and y coordinates of the center, while the last two are its width and height.
+3. **Interactive Elements**: Make your art interactive using variables like `mouseX` and `mouseY`, which store the mouse's current position. You can make the ellipse follow the mouse around the canvas with these.
+4. **Exploring p5.js Reference**: For more functions and variables, check the comprehensive p5.js reference page. It's a treasure trove of information and capabilities.
+
+- [p5.js Primitive Shapes Tutorial](./primitive-shapes-p5-js.md)
+
+## Saving and Sharing Your Work
+
+1. **Saving Your Sketch**: Log into the p5.js Web Editor and use File > Save.
+2. **Naming Your Sketch**: Give your sketch a descriptive name to easily find it later.
+3. **Sharing Your Sketch**: Use File > Share to embed, make fullscreen, or share a link to your sketch.
+4. **Drawing Continuously**: By moving the `background` function inside `setup()` and using `if (mouseIsPressed)`, you can create a continuous drawing effect. The canvas won't clear its previous state, allowing for dynamic, ongoing creations.
+
+## Experimenting and Learning
+
+- **Experiment**: The best way to learn p5.js is by changing parameters, adding shapes, and seeing the effects. Experimentation is key!
+- **Documentation**: Regularly check the [p5.js documentation](https://p5js.org/reference/) to learn about new functions and features.
+
+p5.js really opens up a world of creative possibilities through programming. It's a platform where art and code meet, allowing you to express your creativity in unique ways. Enjoy exploring, and happy programming!
 
 ## P5.js Web Editor Basics Video Transcript
 

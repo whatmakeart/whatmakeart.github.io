@@ -1,8 +1,65 @@
 ---
 title: Clone GitHub Template Repository
 date: 2024-01-11T16:41:22
-lastmod: 2024-01-11T16:42:49
+lastmod: 2024-01-12T05:35:20
 ---
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/3ZLoapBD01w?si=zmux-lyKrPSk6lHj?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+This tutorial provides a comprehensive guide on using a template from GitHub to create a new repository, and then integrating and working on this repository using Visual Studio Code, specifically for a p5.js project. Here's a step-by-step breakdown of the process:
+
+1. **Creating a New Repository from a Template on GitHub**:
+
+   - Log into your GitHub account.
+   - Navigate to the p5 project template repository (link provided in the video description).
+   - Click on "Use this template" to start creating a new repository.
+   - Name the new repository (e.g., "jubilant octo chainsaw").
+   - Choose whether it's public or private and provide a description if desired.
+   - Click "Create repository" to finalize.
+
+2. **Cloning the Repository to Visual Studio Code**:
+
+   - Open Visual Studio Code.
+   - Click on "Source Control" on the left side.
+   - Select "Clone Repository" and then choose "Clone from GitHub".
+   - Authorize Visual Studio Code to access GitHub if prompted.
+   - Select the new repository from the list.
+   - Choose a local directory for the repository (e.g., the "programming for artist" folder).
+   - Confirm to open the repository in Visual Studio Code.
+   - Trust the authors of the files if prompted.
+
+3. **Editing and Committing Changes**:
+
+   - Open the project files, like `index.html` or JavaScript files, and make desired changes.
+   - For instance, you can replace the contents of the `sketch.js` file with a p5.js example from the official website.
+   - Save your changes.
+   - To preview the changes, use the "Go Live" feature in Visual Studio Code.
+
+4. **Committing and Syncing with GitHub**:
+
+   - In Visual Studio Code, navigate to "Source Control".
+   - Review the changes and type a commit message, like "added p5js example from website".
+   - Commit the changes.
+   - Optionally, sync the changes with the remote GitHub repository.
+
+5. **Sharing Project via GitHub Pages**:
+
+   - To share your project, go to the repository settings on GitHub.
+   - Scroll to the "Pages" section.
+   - Set the source branch for GitHub Pages (usually "main").
+   - Once deployed, GitHub provides a link to the live project.
+
+6. **Ensuring Project Independence**:
+
+   - Any changes committed will affect only your new repository, not the original template repository.
+   - The original template repository remains intact and can be used for future projects.
+
+7. **Importance of Sharing**:
+   - The tutorial emphasizes the value of sharing creative coding projects, as it allows others to see and interact with your work.
+
+This tutorial not only guides through the technical process of using GitHub and Visual Studio Code for project development but also encourages the sharing and display of creative work. Happy programming!
 
 ## Clone GitHub Template Repository Video Transcript
 

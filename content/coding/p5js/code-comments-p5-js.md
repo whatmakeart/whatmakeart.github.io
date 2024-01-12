@@ -1,12 +1,46 @@
 ---
 title: Code Comments p5.js
 date: 2024-01-11T06:04:21
-lastmod: 2024-01-11T06:08:14
+lastmod: 2024-01-12T05:31:46
 ---
 
 <div class="ifream-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/A2pH3TOEgok?si=dv9BxZTB8orHlm8M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+In this tutorial on programming for artists, the concept of code comments is introduced as a fundamental and valuable tool for enhancing code readability and maintainability. Let's break down the key points:
+
+1. **Purpose of Code Comments**: Code comments allow you to insert text into your program without the computer executing it. Since computers execute code sequentially, anything not meant for execution, like notes or explanations, can be turned into a comment.
+
+2. **Creating Comments**: You can create a single-line comment by using two forward slashes (`//`). Anything after these slashes on the same line won't be executed. For example:
+
+   ```javascript
+   // This is a single-line comment
+   background(220); // Sets background to grey
+   ```
+
+3. **Using Comments for Testing**: Comments are particularly useful for testing different parts of your code without deleting or rewriting it. By commenting out certain lines, you can easily switch between different states or behaviors in your program. For instance:
+
+   ```javascript
+   background(220); // Grey background
+   // background(23, 56, 147); // Dark blue background
+   ```
+
+4. **Documenting Your Code**: Comments at the top of your code are often used for documentation purposes. This can include a description of the program, instructions, licensing information, or links to documentation pages.
+
+5. **Multi-line Comments**: For longer comments or to comment out large sections of code, multi-line comments can be used. These are initiated with a forward slash followed by an asterisk (`/*`) and closed with an asterisk followed by a forward slash (`*/`). Everything in between is commented out. For example:
+
+   ```javascript
+   /* This is a multi-line comment
+      It can span multiple lines
+      and is very useful for large sections of text */
+   ```
+
+6. **Commenting Out Code Sections**: Multi-line comments are useful for temporarily disabling large portions of code. This can be helpful in debugging or when trying to isolate certain parts of your program.
+
+7. **Importance of Comments**: Comments are crucial for documenting your code, making it easier for others (and yourself) to understand what each part of your code is intended to do. They are also valuable for noting the source of code snippets, especially if you are using or modifying code from an open-source repository.
+
+In summary, comments are a vital part of programming, particularly in artistic and creative coding, where experiments and modifications are frequent. They help in keeping track of changes, understanding the functionality of various code segments, and maintaining a clear and understandable codebase. As emphasized in the tutorial, always strive to document your code clearly, whether it's for personal use or for sharing with others. Happy programming!
 
 ## Code Comments p5.js Video Transcript
 

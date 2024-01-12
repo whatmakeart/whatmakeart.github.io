@@ -1,12 +1,60 @@
 ---
 title: Primitive Shapes p5.js
 date: 2024-01-11T06:38:18
-lastmod: 2024-01-11T15:35:30
+lastmod: 2024-01-12T05:27:20
 ---
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7U0wQlDod60?si=kL-nwYtDLqyy1VOt?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+This tutorial in the "Programming for Artists" series introduces the basics of drawing primitive shapes in p5.js, a JavaScript library for creative coding. Let's break down the key concepts and steps:
+
+1. **Setting Up in p5.js**:
+
+   - Start by loading the p5.js web editor and creating a basic canvas, typically 400x400 pixels.
+   - Set a background color using grayscale (e.g., `background(220);` for a light gray background).
+
+2. **Understanding the Coordinate System**:
+
+   - p5.js uses a 2D coordinate system where the origin (0,0) is at the top left corner.
+   - X-coordinates increase to the right, and Y-coordinates increase downwards.
+
+3. **Drawing Shapes**:
+
+   - **Ellipses and Circles**:
+     - Use `ellipse(x, y, width, height)` to draw an ellipse. For example, `ellipse(50, 50, 80, 80)` creates an ellipse at position (50, 50) with a width and height of 80 pixels.
+     - A circle is a special case of an ellipse where the width and height are equal. Use `circle(x, y, diameter)` to draw a circle.
+   - **Lines**:
+     - Create lines using `line(x1, y1, x2, y2)`. For example, `line(30, 20, 85, 75)` draws a line from (30, 20) to (85, 75).
+     - You can create horizontal or vertical lines by aligning the x or y coordinates, respectively.
+   - **Points**:
+     - Draw a point (a single pixel) using `point(x, y)`.
+   - **Stroke Weight**:
+     - Change the thickness of lines and outlines using `strokeWeight(value)`. For instance, `strokeWeight(25)` makes lines 25 pixels thick.
+   - **Quads, Rectangles, and Squares**:
+     - Quads require four points (`quad(x1, y1, x2, y2, x3, y3, x4, y4)`).
+     - Rectangles are defined by the top-left corner and size (`rect(x, y, width, height)`). Optionally, you can add corner radii.
+     - Squares are defined by the top-left corner and one side length (`square(x, y, size)`).
+   - **Triangles**:
+     - Triangles need three points (`triangle(x1, y1, x2, y2, x3, y3)`).
+
+4. **Color and Style**:
+
+   - Use `fill(r, g, b)` to set the fill color of shapes.
+   - Use `stroke(r, g, b)` to set the color of the stroke (outline) of shapes.
+   - These colors will apply to all subsequent shapes unless changed.
+
+5. **Experimentation**:
+
+   - Encourage playing with these functions, changing coordinates, sizes, and colors to see the effects.
+   - Explore creating various shapes and patterns to understand how p5.js renders them on the canvas.
+
+6. **Advanced Techniques** (to be covered in future tutorials):
+   - Introducing variables and animation.
+   - Changing shapes and colors dynamically.
+
+This tutorial provides a foundational understanding of drawing with p5.js, crucial for any artist venturing into the world of creative coding. Remember, the key is to experiment and explore the various functions and their effects on the canvas. Happy programming and creative exploration!
 
 ## Primitive Shapes p5.js Video Transcript
 
@@ -41,3 +89,5 @@ So hopefully this shows you how you can draw some shapes and have them be on the
 So for example, if I come up here I can type fill and then I can type 255 comma 56 comma 23. RGB values and suddenly all my shapes are filled with red, and remember this fill color is now set all the way down so all of them get that fill color. If I copy this and I put it down here under this strokeWeight and then I change this one to 256 now I have some yellow shapes as well. I can do this one more time and just have the triangle be a different color. It will almost be white as it's all filled in. We'll make this 55 so it has a bit of a different color. So you can change the fill of the colors and you can do the same thing with the stroke. So if I come here and I type stroke, now all the strokes are blue and the same thing occurs. We need to change that stroke.
 
 Slong the way we'll talk about how to add variables how to have these strokes and colors change over time as well as the positions. So go ahead and try to play around with the shapes. Try to draw a picture. Try to move things around and be creative with them. Happy programming.
+
+[![p5.js primitive shapes](./attachments/p5-js-primitive-shapes-thumb.png)](./attachments/p5-js-primitive-shapes-thumb.png)

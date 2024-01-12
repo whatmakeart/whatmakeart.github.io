@@ -1,12 +1,59 @@
 ---
 title: Color Modes p5.js
 date: 2024-01-11T06:35:05
-lastmod: 2024-01-11T16:10:30
+lastmod: 2024-01-12T05:29:16
 ---
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/uBj4dZmxONA?si=e3HsTRd8_PHR8KZo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+This tutorial dives deep into color, color modes, and shape attributes in p5.js, building upon previous knowledge of creating basic shapes. Let's break this down for better understanding:
+
+### Modifying Shapes
+
+#### Centering Shapes
+
+- **Problem**: Centering shapes like rectangles can be mathematically challenging.
+- **Solution**: Use `rectMode()`. By default, it's set to 'CORNER', but you can change it to 'CENTER' or 'RADIUS'.
+  - Example: `rectMode(CENTER)` makes a rectangle's starting point (`199, 199`) its center.
+- Similarly, `ellipseMode()` changes the drawing mode for ellipses and circles.
+
+#### Stroke Attributes
+
+- **Stroke Caps**: Modify the appearance of the lines' ends using `strokeCap()`.
+  - Options: 'SQUARE' or 'ROUND'.
+  - Example: `strokeWeight(12); strokeCap(ROUND);` gives rounded ends to lines.
+- **Order Matters**: The sequence of these commands affects which shapes they apply to.
+
+### Understanding Color
+
+#### RGB Color Mode
+
+- **Basics**: Color in p5.js is typically defined using Red, Green, and Blue (RGB).
+- **Additive Color**: Mixing all RGB colors yields white; absence of color results in black.
+- **Grayscale**: A single value (e.g., `background(220)`) sets a gray tone.
+- **RGB Values**: Using three values sets the specific color (e.g., `fill(255, 0, 0)` for red).
+  - Example: `background(255, 255, 0)` gives a bright yellow (red + green).
+
+#### HSB Color Mode
+
+- **Difference from RGB**: HSB stands for Hue, Saturation, and Brightness (Value).
+- **Advantages**: Easier to cycle through a rainbow of colors.
+- **Usage**: `colorMode(HSB)` to switch modes.
+  - Hue ranges from 0 to 360, Saturation and Brightness from 0 to 100 (or 0 to 255, depending on the range set in `colorMode()`).
+  - Example: `background(230, 100, 100)` in HSB mode gives a bright blue.
+
+### Additional Tips
+
+- **Tidying Code**: Use the editor's 'Tidy up' feature for better readability.
+- **Exploring Further**: Experiment with `noFill()` and `noStroke()` to create different effects.
+
+### Applying This Knowledge
+
+To apply this knowledge in p5.js, start by experimenting with the `rectMode()` and `ellipseMode()` for different shape positioning. Then, play around with the stroke settings to see how they affect the appearance of your shapes. For color, try setting backgrounds and fills using both RGB and HSB modes to see how they differ. The key is to experiment and see the results in real-time, which will deepen your understanding of how these attributes work in p5.js.
+
+Remember, p5.js offers a versatile platform for creative coding, and mastering these basics opens up a world of possibilities in digital art and interactive designs.
 
 ## Color Modes p5.js Video Transcript
 
