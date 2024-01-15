@@ -1,7 +1,7 @@
 ---
 title: Code Comments p5.js
 date: 2024-01-11T06:04:21
-lastmod: 2024-01-12T05:31:46
+lastmod: 2024-01-13T03:46:22
 ---
 
 <div class="ifream-16-9-container">
@@ -40,7 +40,7 @@ In this tutorial on programming for artists, the concept of code comments is int
 
 7. **Importance of Comments**: Comments are crucial for documenting your code, making it easier for others (and yourself) to understand what each part of your code is intended to do. They are also valuable for noting the source of code snippets, especially if you are using or modifying code from an open-source repository.
 
-In summary, comments are a vital part of programming, particularly in artistic and creative coding, where experiments and modifications are frequent. They help in keeping track of changes, understanding the functionality of various code segments, and maintaining a clear and understandable codebase. As emphasized in the tutorial, always strive to document your code clearly, whether it's for personal use or for sharing with others. Happy programming!
+In summary, comments are a vital part of programming, particularly in artistic and creative coding, where experiments and modifications are frequent. They help in keeping track of changes, understanding the functionality of various code segments, and maintaining a clear and understandable codebase. As emphasized in the tutorial, always strive to document your code clearly, whether it's for personal use or for sharing with others.
 
 ## Code Comments p5.js Video Transcript
 

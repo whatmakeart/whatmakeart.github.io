@@ -1,7 +1,7 @@
 ---
 title: Javascript
 date: 2023-05-23T21:59:41
-lastmod: 2024-01-07T04:55:28
+lastmod: 2024-01-13T04:08:17
 ---
 
 JavaScript is a programming language used in web development with an ability to add interactivity to web pages. It is one of many different program languages. Just like a spoken language, JavaScript has "grammar rules" called syntax, and a set of vocabulary that it understands. Everything must be programmed within this set of tools, step by step in sequence.
@@ -24,3 +24,13 @@ A library adds additional functionality to JavaScript without having to write fu
 
 - [Mozilla Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/en)
+
+## JavaScript Snippets
+
+```javascript
+// Random and Floor
+let myNumber;
+myNumber = Math.random(); // makes a decimal value between 0 and 1
+myNumber = Math.random() * 256; // makes a decimal value between 0 and 256
+myNumber = Math.floor(Math.random() * 256); // Rounds value down to nearest whole number between 0 and 256
+```

@@ -1,7 +1,7 @@
 ---
 title: 01.01 Computer and Algorithmic Art
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-10T12:52:31
+lastmod: 2024-01-15T05:24:21
 ---
 
 ## Intro to Computer and Algorithmic Art
@@ -139,9 +139,57 @@ Page from Samuell Beckett's _Quad_ Play showing "algorithmic" like instructions 
 
 ### Chance Operations and Randomness
 
-Artists have used "chance" or random events to create art. Marchell Duchamp dropped strings of known lengths on the ground and then traced their resultant shape profiles to make "creative measuring devices". The composer John Cage used dice rolling and other chance operations to determine musical compositions. Swiss artist, Jean Tinguely, used mechanical chance operations to create unpredictable drawings with his _meta-matic_ drawing machines.
+Artists have used "chance" or random events to create art. Well before the John Cage's chance operations music, there was the German _Musikalisches Würfelspiel_, or musical dice game, that used dice to randomly select which precomposed selections of music to play. Musical dice games were made by well known composers such as Bach and Mozart. [^musical-dice]
 
-Randomness became a large part of computer graphics with the creation of Perlin Noise. This is an algorithm developed by Kevin Perlin in 1983 for use in the original _Tron_ movie to create textures and other visual effects. [^perlin-wiki]
+Jean Hans Arp used chance operations to create collage compositions. The uniform size with variation of the multiple compositions created by Arp with chance seem like early visions of later generative computer art.
+
+<div class="gallery-grid">
+<figure>
+
+[![Jean Hans Arp - Squares Arranged by Chance - 1916-1917](./1916-Jean-Hans-Arp-Untitled-Collage-with-Squares-Arranged-according-to-the-Law-of-Chance-1916–17.jpg)](./1916-Jean-Hans-Arp-Untitled-Collage-with-Squares-Arranged-according-to-the-Law-of-Chance-1916–17.jpg)
+
+<figcaption>
+
+Jean (Hans) Arp - _Untitled_ (Collage with Squares Arranged According to the Law of Chance) 1916-1917 [MoMA](https://www.moma.org/collection/works/37013)
+
+</figcaption>
+</figure>
+<figure>
+
+[![Jean Hans Arp - Squares Arranged by Chance - 1917](./1917-Jean-Hans-Arp-Untitled-Squares-Arranged-According-to-the-Laws-of-Chance-1917.jpg)](./1917-Jean-Hans-Arp-Untitled-Squares-Arranged-According-to-the-Laws-of-Chance-1917.jpg)
+
+<figcaption>
+
+Jean (Hans) Arp - _Untitled_ (Squares Arranged According to the Laws of Chance) 1917 [MoMa](https://www.moma.org/collection/works/37166)
+
+</figcaption>
+</figure>
+</div>
+
+Tristan Tzara describes cut up poetry in his "Dada Manifesto" by giving instructions on how to use the technique to make a "Dada Poem."
+
+> TO MAKE A DADAIST POEM
+>
+> Take a newspaper.
+> Take some scissors.
+> Choose from this paper an article of the length you want to make your poem.
+> Cut out the article.
+> Next carefully cut out each of the words that makes up this article and put them all in a bag.
+> Shake gently.
+> Next take out each cutting one after the other.
+> Copy conscientiously in the order in which they left the bag.
+> Them poem will resemble you.
+> And there you are – an infinitely original author of charming sensibility, even though unappreciated by the vulgar herd
+>
+> From _Dada Manifesto On Feeble Love And Bitter Love_ by Tristan Tzara [^tzara]
+
+Marchell Duchamp dropped strings of known lengths on the ground and then traced their resultant shape profiles to make "creative measuring devices". The composer John Cage used dice rolling and other chance operations to determine musical compositions. Swiss artist, Jean Tinguely, used mechanical chance operations to create unpredictable drawings with his _meta-matic_ drawing machines.
+
+William Burroughs later used the cutup technique in writing _Naked Lunch_ and later experimented with Brion Gysin in film with _The Cut Ups_ that show seemingly random interspersed scenes and cutup conversation of lots of "Hello" and other greetings. [^burroughs-1] Burroughs thought cutups had "magical powers" and were able to predict the future. [^burroughs-2] David Bowie used cutup techniques to write sound lyrics. While he used the lyrics produced by the cut up words in a couple songs, Bowie says that the main use of the technique is "... igniting anything that might be in my imagination." Like Burroughs, Bowie also seems to have "magical thinking" about the predictive power of cut ups. [^bowie]
+
+Randomness alone can be chaotic and less than pleasing. In nature action follow semi predictable paths and patterns. The ripples on a pond don't spontaneously appear 20 meters to the left and the 85 meters to the right, each ripple is formed based on its previous position and the positions of all the other ripples and objects in the pond. It is still "random" but follows rules and a pattern and therefore is more organic and often thought as more pleasing that true randomness.
+
+This pleasing type of randomness became a large part of computer graphics with the creation of Perlin Noise. This is an algorithm developed by Kevin Perlin in 1983 for use in the original _Tron_ movie to create textures and other visual effects. [^perlin-wiki] Below there is an animation showing the difference between Perlin Noise, something that has rules and a pattern, and random noise, which is chaotic and seemingly without any reason.
 
 <div class="video-grid">
 <div class="iframe-16-9-container">
@@ -155,7 +203,8 @@ Randomness became a large part of computer graphics with the creation of Perlin 
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" src="https://editor.p5js.org/whatmakeart/full/o-AN7QX5l"></iframe>
+<div  class="youTubeIframe" id="sketch-holder">
+</div>
 </div>
 </div>
 
@@ -217,6 +266,9 @@ Harold Cohen was an early experimenter with artificial intelligence and machine 
 
 ## References
 
+<script src="/js/p5.min.js"></script>
+<script src="../2024-perlin-noise-demo.js"></script>
+
 [^1]: [Paragraphs on Conceptual Art - Artforum Summer 1967 Vol. 5, No 10](https://www.artforum.com/features/paragraphs-on-conceptual-art-211354/)
 [^2]: [Algorithmic Art by Roman Verostko](https://www.verostko.com/algorithm.html)
 [^lillian]: [Lillian Schwartz Biography](http://lillian.com/biography/) [Web Archive](https://web.archive.org/web/20230604211831/http://lillian.com/biography/)
@@ -231,3 +283,8 @@ Harold Cohen was an early experimenter with artificial intelligence and machine 
 [^massmoca-lewitt]: [Wall Drawing 797](https://massmoca.org/event/walldrawing797/) MASS MoCA
 [^Molnar]: Willams, Alex. [Vera Molnar, Pioneer of Computer Art, Dies at 99](https://www.nytimes.com/2023/12/15/arts/vera-molnar-dead.html). New York Times. December 15, 2023.
 [^perlin-wiki]: [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise) Wikipedia.
+[^musical-dice]: [Musikalisches Würfelspiel](https://en.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel) Wikipedia.
+[^tzara]: [Dada Manifesto On Feeble Love And Bitter Love](https://391.org/manifestos/1920-dada-manifesto-feeble-love-bitter-love-tristan-tzara/) (1920) by Tristan Tzara 12th December 1920 [Web Archive](https://web.archive.org/web/20230323050533/https://391.org/manifestos/1920-dada-manifesto-feeble-love-bitter-love-tristan-tzara/)
+[^bowie]: [David Bowie Cutups](https://youtu.be/m1InCrzGIPU?si=9wWfkvBRti3SaMYJ) YouTube.
+[^burroughs-1]: [The Cut Ups](https://www.youtube.com/watch?v=Uq_hztHJCM4) William Burroughs and Brion Gysin - YouTube.
+[^burroughs-2]: [Origin And Theory Of The Tape Cut-Ups](https://www.youtube.com/watch?v=40dA7PZyy3o) - YouTube.

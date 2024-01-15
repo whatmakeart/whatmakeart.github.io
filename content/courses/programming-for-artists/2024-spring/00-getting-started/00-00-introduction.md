@@ -1,7 +1,7 @@
 ---
 title: 00.00 Introduction
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-06T07:23:29
+lastmod: 2024-01-13T03:48:35
 ---
 
 ## Overview
@@ -27,3 +27,5 @@ We will delve into creating custom human-to-computer interfaces, allowing viewer
 ### Realizing Your Vision
 
 By the end of the semester, you will complete a finished project, ready for exhibition. This course is not just about learning; it's about applying what you learn to create something unique and personal. You will gain not only a deeper appreciation of programming as an art form but also practical skills to bring your digital creations to life.
+
+[Glowing Walffles](https://whatmakeart.com/glowing-waffles/)
