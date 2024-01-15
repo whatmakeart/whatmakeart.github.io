@@ -1,7 +1,7 @@
 ---
 title: 00.03 Artist References
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-05T15:37:04
+lastmod: 2024-01-15T15:38:52
 ---
 
 Below are artists who have made work involving computers, code, technology, generative art, new media, algorithms, and an entire cosmic bucket full of nearly innumerable genres, techniques, types of creative output. Peruse the list, go down glow in the dark rabbit holes, pick artists at random, take notes, save images, be inspired. It is important to not work in a "studio silo" without knowing what others are doing in the field.
@@ -30,6 +30,7 @@ If you come across artists not on the list that you think should be, let me know
 - [Bill Fontana](https://www.resoundings.org/)
 - [Bob Drake](https://fluxmonkey.com/)
 - [Bob Drake](https://www.fluxmonkey.com/)
+- [Brian Mackern](http://bri.uy/)
 - [Bruce Holmer](https://www.instagram.com/bruceholmer/?hl=en)
 - [Camille Norment](https://www.norment.net/)
 - [Camille Roux](https://twitter.com/camillerouxart)
@@ -40,6 +41,7 @@ If you come across artists not on the list that you think should be, let me know
 - [Christine Sun Kim](https://christinesunkim.com/)
 - [Clara Fernandez-Vara](https://clarafv.com/)
 - [Connie Beckley](https://www.moma.org/artists/65927)
+- [Corey Arcangel](http://www.coryarcangel.com/)
 - [Craig Colorusso](http://www.craigcolorusso.com/)
 - [Daniel Lefcourt](https://certainlynot.com/)
 - [Daniel Sciffman](https://thecodingtrain.com/)
@@ -52,6 +54,7 @@ If you come across artists not on the list that you think should be, let me know
 - [Don Ritter](http://aesthetic-machinery.com/index.html)
 - [Elise Migraine](https://www.instagram.com/elisemigraine/?hl=en)
 - [Engineered Artworks](https://www.engineeredartworks.com/)
+- [Filip Olszeweski](https://lsze.ws/)
 - [Florian Hecker](https://www.moma.org/interactives/exhibitions/2013/soundings/artists/4/works/)
 - [Golan Levin](http://www.flong.com/)
 - [greweb](https://greweb.me/)
@@ -81,19 +84,23 @@ If you come across artists not on the list that you think should be, let me know
 - [Luke Dubois](https://www.lukedubois.com/)
 - [Maggi Payne](https://en.wikipedia.org/wiki/Maggi_Payne)
 - [Marc de Pape](https://www.marcdepape.com/)
+- [Martine Syms](https://martinesy.ms/)
 - [Melissa Wiederrecht](https://t.co/aE6ijEP16G)
 - [Mendi + Keith Obadike](http://blacksoundart.com/)
 - [Mike Rijnierse](https://mikerijnierse.nl/)
 - [mo H. zareei](https://millihertz.net/)
 - [Monica Cook](https://www.monicacook.com/)
+- [Morehshin Allahyari](http://www.morehshin.com/)
 - [Nathalie Miebach](https://www.nathaliemiebach.com/)
 - [Neel Shivdasani](https://neel.sh/)
 - [Neil Mendoza](https://www.neilmendoza.com/)
 - [Nelo Akamatsu](http://www.neloakamatsu.jp/chijikinkutsu-eng.html)
+- [Nick Montfort](https://nickm.com/)
 - [Nick Verstand](http://www.nickverstand.com/)
 - [Nicolas Barradeau](https://www.barradeau.com/)
 - [Niklas Roy](https://niklasroy.com/deflektron/)
 - [Nonotak Studio](https://nonotak.com/)
+- [Olia Lialina](http://art.teleportacia.org/)
 - [Paolo Curtoni](https://www.paolocurtoni.com/portfolio/)
 - [Peter Pasma](https://piterpasma.nl/)
 - [Pheonix Perry](https://phoenixperry.com/)
@@ -114,6 +121,7 @@ If you come across artists not on the list that you think should be, let me know
 - [Sarah Paul](https://www.sarahpaul.org/)
 - [Saurabh Datta](https://www.dattasaurabh.com/)
 - [Scale](https://www.collectifscale.com/)
+- [Shu Lea Cheang](https://mauvaiscontact.info/)
 - [Siebren Versteeg](http://www.siebrenversteeg.com/)
 - [SpY](https://spy-urbanart.com/work/)
 - [Stranger than Q](https://strangerintheq.art/)
@@ -130,6 +138,7 @@ If you come across artists not on the list that you think should be, let me know
 - [Veronika Szkudlarek](https://www.vszk.xyz/)
 - [Violet Maimbourg](https://www.violetmaimbourg.com/)
 - [VTProDesign](https://vtprodesign.com/)
+- [Weidi Zhang](https://www.zhangweidi.com/)
 - [Wimer Hazenberg - Monokai](https://monokai.nl/)
 - [Yoko Sen](http://www.sensound.space/)
 - [Zimoun](https://www.zimoun.net/)
@@ -366,3 +375,4 @@ This list was made by [Tega Brain](https://tegabrain.com/) and is used with perm
 - [Female Pressure](https://femalepressure.tumblr.com/)
 - [Weird Wide Webring](https://weirdwidewebring.net/)
 - [Currents New Media Artists](https://currentsnewmedia.org/artists/)
+- [Compart](http://dada.compart-bremen.de/)

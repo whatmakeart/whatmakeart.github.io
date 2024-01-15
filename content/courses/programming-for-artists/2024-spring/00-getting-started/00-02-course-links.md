@@ -1,7 +1,7 @@
 ---
 title: 00.02 Course Links
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-04T16:19:42
+lastmod: 2024-01-15T16:14:33
 ---
 
 ## Programming for Artists
@@ -15,8 +15,22 @@ lastmod: 2024-01-04T16:19:42
 
 - [P5.js](https://p5js.org/) - (p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else!)
   - [Debugging](https://p5js.org/learn/debugging.html)
+  - [p5.js Showcase](https://showcase.p5js.org/#/2022-All)
+
+### Visual Programming
+
+- [Scratch](https://scratch.mit.edu/)
 - [Piper Make](https://make.playpiper.com/) - Visual Programming for the Raspberry Pi
 - [PureData](https://puredata.info/) - Visual programming without any code
+- [Alice](http://www.alice.org/)
+- [Touch Designer](https://derivative.ca/)
+
+### Game Engines
+
+- [Pico-8](https://www.lexaloffle.com/pico-8.php)
+- [Pico-8 Manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html)
+- [Unity](https://unity.com/)
+- [Unreal](https://www.unrealengine.com/en-US/)
 
 ## Machine Learning
 
@@ -65,6 +79,13 @@ lastmod: 2024-01-04T16:19:42
 - [Verse](https://verse.works/)
 - [Cult of Done Manifesto](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
 - [Furtherfield](https://www.furtherfield.org/) "Art and technology for eco-social change"
+- [Net Art Anthology](https://anthology.rhizome.org/)
+- [Whitney Artport Portal to Net Art](https://artport.whitney.org/v2/gatepages/index.shtml)
+
+## Books
+
+- [Generative Design](http://www.generative-gestaltung.de/2/)
+- [10 Print](https://10print.org/)
 
 ### Data Visualization
 

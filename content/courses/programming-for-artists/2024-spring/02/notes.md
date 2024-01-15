@@ -1,7 +1,7 @@
 ---
 title: Draft Notes
 date: 2024-01-13T06:32:31
-lastmod: 2024-01-15T05:24:26
+lastmod: 2024-01-15T05:57:44
 draft: true
 ---
 
@@ -13,13 +13,15 @@ What is generative art?
 >
 > Philip Galanter [What is Generative Art?](https://philipgalanter.com/downloads/ga2003_what_is_genart.pdf)
 
-[So you want to build a genrator](https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
+[So you want to build a generator](https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
 https://www.philipgalanter.com/
 [What is generative art? - Philip Galanter](https://philipgalanter.com/downloads/ga2003_what_is_genart.pdf)
 
 ## Variables
 
 Variables are representations of value. In JavaScript, variables need to be defined adn then given an initial value. This value may or may not be updated during the program while the variable is used. To define a variable in JavaScript you use `var`, `const`, or `let` followed by the variable name and then a semicolon `;`. In JavaScript variables are not typed. What does that mean? It means that a variable can store any type of value and that type can change. It can store an integer, then a string, then a floating point number, and then an array, and then back to a string. Other programming languages like C++ are more strict with variable types.
+
+An example of a variable we all have is age. Each of us has a specific value for our current age, yet this value is ever changing. You are a different age now, and even now you are a different age. Instead of "hard coding" the value of your age we can use a variable `let age = 7;` or whatever your age is. The program of life constantly updates your age. In a computer program you can make an instruction to add a year to the variable `age`.
 
 ```javascript
 // three variables defined

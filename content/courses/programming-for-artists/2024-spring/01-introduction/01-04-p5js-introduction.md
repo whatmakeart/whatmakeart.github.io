@@ -1,7 +1,7 @@
 ---
 title: 01.04 p5.js Introduction
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-11T16:47:49
+lastmod: 2024-01-15T06:04:28
 ---
 
 ## What is p5.js?
@@ -161,6 +161,10 @@ An additional use for comments is to "comment out" parts of your code. When you 
 ### Errors in the Console
 
 Errors will happen when coding. It is exepected. When errors occur
+
+### Clone p5.js project template from CL
+
+`gh repo create my-new-p5-project-repo --public --clone --template whatmakeart/p5-project-template`
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 title: 01.01 Computer and Algorithmic Art
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-15T05:24:21
+lastmod: 2024-01-15T16:38:24
 ---
 
 ## Intro to Computer and Algorithmic Art
@@ -31,49 +31,6 @@ Penrose Tiling P1 over P3 by [Inductiveload](https://commons.wikimedia.org/wiki/
 </figcaption>
 </figure>
 </div>
-
-## Early Computer Art
-
-Vera Molnár worked with algorithmic art before having access to a computer and developed a technique, "Machine Imaginare" that used algorithms to determine an image's composition by hand. Her initial experiments making art with computers required using punch cards and waiting days for a mechanical plotter to produce the image. [^Molnar]
-
-<div class="gallery-grid">
-<figure>
-
-[![Vera Molnár From the Hommage à Dürer  cycle](./1982-Vera-Molnár-From-the-Hommage-à-Dürer-cycle-plotter-red-ink.jpg)](./1982-Vera-Molnár-From-the-Hommage-à-Dürer-cycle-plotter-red-ink.jpg)
-
-<figcaption>
-
-Vera Molnár, From the Hommage à Dürer cycle, plotter, red ink, 1982, 41 x 40 cm - [Galerie Berthet-Aittouarès](https://www.galerie-ba.com/en/vera-molnar?pgid=k8610me6-19e72a39-2edf-42d3-8be9-1342c546c0a5)
-
-</figcaption>
-</figure>
-
-<figure>
-
-[![Vera Molnár - Sainte Victoire in 16 Lines](./1989-2015-Vera-Molnár-Sainte-Victoire-in-16-lines.jpg)](./1989-2015-Vera-Molnár-Sainte-Victoire-in-16-lines.jpg)
-
-<figcaption>
-
-Vera Molnár, Sainte Victoire in 16 Lines - 1989-2015 [Galerie Berthet-Aittouarès](https://www.galerie-ba.com/en/vera-molnar?pgid=k8610me6-61876e92-b7fd-44c6-b4e9-fe95a97d9f0d)
-
-</figcaption>
-</figure>
-</div>
-
-Lillian Schwartz was a pioneer in using computers to create computer generated art. In the late 1960s she worked as a consultant at Bell Laboratories and developed tools and techniques for using computers in film and animation. She is also credited with creating the first digital drawing with a pressure sensitive tablet that was transmitted around the world in real-time. [^lillian]
-
-Schwartz was featured in the documentary, _The Artist and the Computer 1976_.
-
-<div class="video-grid">
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/GRFPV9smRyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/QCthSns4U4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-
-Frieder Nake made use of graphical plotters and mathematics to create computer art and made some of the first computer artworks and participated in some of the earliest exhibitions of computer art. [^wiki-nake] Nake was an algorithmic and generative art pioneer and one of the "Algorists", a self named group of early algorithmic art and generative art practitioners. [^amerika]
 
 ## Analog Algorithmic Art
 
@@ -136,6 +93,55 @@ Page from Samuell Beckett's _Quad_ Play showing "algorithmic" like instructions 
 </div>
 
 </div>
+
+## Early Computer Art
+
+Ivan Sutherland created Sketchpad in 1963 for his PhD thesis at MIT. It was one of the first Graphical User Interfaces (GUI) and one of the first Computer Aided Design (CAD) systems created. [^design-world]
+
+Vera Molnár worked with algorithmic art before having access to a computer and developed a technique, "Machine Imaginare" that used algorithms to determine an image's composition by hand. Her initial experiments making art with computers required using punch cards and waiting days for a mechanical plotter to produce the image. [^Molnar]
+
+<div class="gallery-grid">
+<figure>
+
+[![Vera Molnár From the Hommage à Dürer  cycle](./1982-Vera-Molnár-From-the-Hommage-à-Dürer-cycle-plotter-red-ink.jpg)](./1982-Vera-Molnár-From-the-Hommage-à-Dürer-cycle-plotter-red-ink.jpg)
+
+<figcaption>
+
+Vera Molnár, From the Hommage à Dürer cycle, plotter, red ink, 1982, 41 x 40 cm - [Galerie Berthet-Aittouarès](https://www.galerie-ba.com/en/vera-molnar?pgid=k8610me6-19e72a39-2edf-42d3-8be9-1342c546c0a5)
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Vera Molnár - Sainte Victoire in 16 Lines](./1989-2015-Vera-Molnár-Sainte-Victoire-in-16-lines.jpg)](./1989-2015-Vera-Molnár-Sainte-Victoire-in-16-lines.jpg)
+
+<figcaption>
+
+Vera Molnár, Sainte Victoire in 16 Lines - 1989-2015 [Galerie Berthet-Aittouarès](https://www.galerie-ba.com/en/vera-molnar?pgid=k8610me6-61876e92-b7fd-44c6-b4e9-fe95a97d9f0d)
+
+</figcaption>
+</figure>
+</div>
+
+Lillian Schwartz was a pioneer in using computers to create computer generated art. In the late 1960s she worked as a consultant at Bell Laboratories and developed tools and techniques for using computers in film and animation. She is also credited with creating the first digital drawing with a pressure sensitive tablet that was transmitted around the world in real-time. [^lillian] Schwartz was featured in the documentary, _The Artist and the Computer 1976_.
+
+A. Michael Noll also worked at Bell Labs and created many early and iconic computer artworks. He is credited with making early depictions of 3D computer animation and 3D stereoscopic movies, which appear 3D when each side is viewed by one eye, similar to early 21st century Virtual Reality (VR). The tech was so new that in a 1965-66 animation of a 4D hypercube, the artist felt the need to write "Computer Generated on the screen." [^a-michael-noll]
+
+<div class="video-grid">
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/GRFPV9smRyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/QCthSns4U4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+Frieder Nake made use of graphical plotters and mathematics to create computer art and made some of the first computer artworks and participated in some of the earliest exhibitions of computer art. [^wiki-nake] Nake was an algorithmic and generative art pioneer and one of the "Algorists", a self named group of early algorithmic art and generative art practitioners. [^amerika]
+
+John Whitney worked with Saul Bass on the opening sequence of Alfred Hitchcock's _Vertigo_ to create what is considered the first computer animation in film. [^computeranimationhistory] The pioneering techniques of Whitney directly inspired the work of Douglas Trumbull, who created the cutting edge "Star Gate" scene in Stanley Kubrick's _2001: A Space Odyssey_. He built a time controllable exposure slit-scan machine. [^hollywood-reporter]\_200
+
+Charles Csuri was a artistic pioneer at the forefront of computer art and using computers for animation. Csuri is credited with one of the earliest computer animations titled, _Hummingbird_ in 1967. Unlike later computer animations where the entire creation and rendering process occurs within the memory of the computer, Csuri uses a microfilm plotter to draw over 30,000 frames of animation directly onto film. It is an interesting example of a hybrid type of digital art that requires advanced technology and lots of physical labor. [^csuri-moma]
 
 ### Chance Operations and Randomness
 
@@ -210,6 +216,32 @@ This pleasing type of randomness became a large part of computer graphics with t
 
 ## Digital Algorithmic and Generative Art
 
+Desmond Paul Henry used mechanical change operations similar to Jean Tinguely's drawing machines to make a computer drawing machine. [^ohanrahan]
+
+<div class="gallery-grid">
+<figure>
+
+[![Desmond](./1962-Desmond-Paul-Henry-picture_by_drawing_machine_1.jpg)](./1962-Desmond-Paul-Henry-picture_by_drawing_machine_1.jpg)
+
+<figcaption>
+
+Desmond Paul Henry Picture Made by Drawing Machine [^desmond-1]
+
+</figcaption>
+</figure>
+<figure>
+
+[![Desmond](./Desmond-Paul-Henry_Drawing_Machine_1.jpg)](./Desmond-Paul-Henry_Drawing_Machine_1.jpg)
+
+<figcaption>
+
+Desmond Paul Henry Drawing Machine [^desmond-2]
+
+</figcaption>
+</figure>
+
+</div>
+
 Casey Reas transformed Sol LeWitt drawing instructions into generative software in an exhibit, at the Whitney, [Casey Reas: Software Structures Launched 2004 Restored 2016](https://whitney.org/exhibitions/software-structures). The project started with Reas thinking about the relevance of Sol LeWitt's drawings to generative software art. Reas then recreated three of LeWitt's drawing structures, in software that served as a catalyst for creating new structures and software.
 
 Below is a p5.js sketch by Reas of Sol LewWitt's "Wall Drawing #106. Arcs from the midpoints of two sides of the wall." [^whitney-106-comments] Software written by a human, follows the instructions and makes the drawing according to the instructions or recipe of Sol LeWitt.
@@ -260,6 +292,30 @@ Harold Cohen was an early experimenter with artificial intelligence and machine 
 
 </div>
 
+John Whitney Catalog
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TbV7loKp69s?si=WZ8pGlH42yd1kRm5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+SketchPad
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6orsmFndx_o?si=VXec0Q3SA5cIGBNC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Vertigo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GQwp6M2q1NE?si=7KzSSWIiYpSjwsOX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+A. Michael Noll
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0j63uV6O5qE?si=UK4vdkd3CCU0iki_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+10 Print
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m9joBLOZVEo?si=57KoUk6AJh2YXDqb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+DOUGLAS TRUMBULL | Master Class | Higher Learning
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FBaZQojd1_s?si=cojZyVE_vG_Y-rh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Further Reading
 
 - [Algorithmic Art - Wikipedia](https://en.wikipedia.org/wiki/Algorithmic_art)
@@ -288,3 +344,11 @@ Harold Cohen was an early experimenter with artificial intelligence and machine 
 [^bowie]: [David Bowie Cutups](https://youtu.be/m1InCrzGIPU?si=9wWfkvBRti3SaMYJ) YouTube.
 [^burroughs-1]: [The Cut Ups](https://www.youtube.com/watch?v=Uq_hztHJCM4) William Burroughs and Brion Gysin - YouTube.
 [^burroughs-2]: [Origin And Theory Of The Tape Cut-Ups](https://www.youtube.com/watch?v=40dA7PZyy3o) - YouTube.
+[^design-world]: Yares, Evan. [50 Years of CAD](https://www.designworldonline.com/50-years-of-cad/). Design World. 2013 February 13.
+[^computeranimationhistory]: [Vertigo 1958](https://computeranimationhistory-cgi.jimdofree.com/vertigo/) Computer Animation History.
+[^holywood-reporter]: Trumbull, Douglas. As told to Carolyn Giardina. [‘2001: A Space Odyssey’: Douglas Trumbull on Stanley Kubrick’s Search for “Ultimate Perfection”](https://www.hollywoodreporter.com/movies/movie-news/2001-a-space-odyssey-special-effects-pioneer-douglas-trumbull-remembers-stanley-kubrick-1114803/) The Holywood Reporter. May 25, 2018. [Web Archive](https://web.archive.org/web/20240115090816/https://www.hollywoodreporter.com/movies/movie-news/2001-a-space-odyssey-special-effects-pioneer-douglas-trumbull-remembers-stanley-kubrick-1114803/)
+[^a-michael-noll]: [https://www.rightclicksave.com/article/the-interview-a-michael-noll](https://www.rightclicksave.com/article/the-interview-a-michael-noll)
+[^desmond-1]: [Picture by Drawing Machine](https://commons.wikimedia.org/wiki/File:Wiki.picture_by_drawing_machine_1.jpg) Wikimeda Commons.
+[^desmond-2]: [Drawing Machine](https://commons.wikimedia.org/wiki/File:Wiki.Henry_Drawing_Machine_1.jpg) Wikimeda Commons.
+[^ohanrahan]: O'Hanrahan, Elaine and B. A. Oxon. [Artistic intuition meets technical ingenuity: the unique contribution to Digital ArtHistor of 1960's computer art pioneer, Desmond Paul Henry](https://doc.gold.ac.uk/aisb50/AISB50-S12/AISB50-S12-OHanrahan-paper.pdf) 2014. [Web Archive](https://web.archive.org/web/20230926070636/https://doc.gold.ac.uk/aisb50/AISB50-S12/AISB50-S12-OHanrahan-paper.pdf)
+[^csuri-moma]: [Charles Csuri's _Hummingbird_](https://www.moma.org/calendar/exhibitions/3903) MoMA.

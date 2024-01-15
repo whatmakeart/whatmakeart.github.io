@@ -52,6 +52,7 @@ This is a conceptual work in progress exploring better ways to exchange informat
 - [https://wiki.mcneel.com/people/rhino5cir](https://wiki.mcneel.com/people/rhino5cir)
 - [University of California San Diego Music 170: Musical Acoustics - Miller Puckette](https://msp.ucsd.edu/syllabi/170.21s/)
 - [University of Montana - Creative Coding 1 - Michael Cassens](https://montana-media-arts.github.io/MART120-Fall2023/)
+- [Parsons Critical Computation](https://parsonsdt.github.io/critical-computation-2020/assignment/1.html)
 
 #### University of Washington Computer Science Courses
 
@@ -68,6 +69,10 @@ These "open" course pages have been available for years and are a model of what 
 - [Digital Gardening at IUPUI](https://www.iue.edu/blogs/library/2021/11/08/digital-gardening-a-new-way-to-think-about-digital-literacy/)
 - [Professor Keely's Math Notebook](https://www.integreat.ca/OL/index.html)
 - [Massive Wiki](https://massive.wiki/) - Groups of wikis put together
+
+## Art Wiki
+
+- [https://monoskop.org/Monoskop](https://monoskop.org/Monoskop)
 
 ### Public?
 
