@@ -12,4 +12,4 @@ title: "Setup Free Domain with GitHub Student Developer Pack"
 
 ## Resources
 
-- [HTML for Beginners](../../coding/html-for-beginners.md)
+- [HTML for Beginners](../../coding/html-crash-course.md)

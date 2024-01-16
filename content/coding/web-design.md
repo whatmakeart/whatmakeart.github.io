@@ -1,12 +1,12 @@
 ---
 title: Web Design
 date: 2023-05-23T21:59:40
-lastmod: 2023-09-07T20:39:38
+lastmod: 2024-01-16T06:10:50
 ---
 
 ## Web Design Tutorials
 
-This shows how to use [GitHub-Pages](github-pages.md) to make a website.
+This shows how to use [GitHub-Pages](configure-username-email-in-git-windows.md) to make a website.
 
 iframes are not responsive by default, so if you embed content from another website such as youtube or vimeo you can use this [Responsive-iframe-Embed](responsive-iframe-embed.md) [CSS](css.md) code to made an embedded iframe responsive.
 

@@ -1,12 +1,12 @@
 ---
 title: Learn Coding
 date: 2023-07-01T19:30:16
-lastmod: 2024-01-10T09:06:00
+lastmod: 2024-01-16T05:11:06
 tags:
   - stub
 ---
 
-- [HTML for Beginners](./html-for-beginners.md)
+- [HTML for Beginners](./html-crash-course.md)
 
 ## External Coding Courses
 

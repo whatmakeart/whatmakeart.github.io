@@ -1,7 +1,7 @@
 ---
 title: 01.03 Tools for Programming
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-11T11:15:54
+lastmod: 2024-01-16T05:11:06
 ---
 
 What tools are needed to program or code?
@@ -46,8 +46,6 @@ If you tell a human to draw a red circle in the middle of a page, unless they ar
 - Rust
 - PHP
 
-## Software Libraries
-
-- p5.js
-
 ## Development Environment
+
+A development environment is a method of testing code and projects before sending them out into the world. It is a way to experiment, test, and try things out without the risk of having project or program breaking changes being published.

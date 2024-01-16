@@ -1,22 +1,10 @@
 ---
 title: GitHub Pages
-date: 2023-05-23T21:59:41
-lastmod: 2023-10-23T06:02:00
+date: 2024-01-16T05:56:02
+lastmod: 2024-01-16T05:56:17
 ---
 
-```shell
-git config --global user.name "username"
-
-git config --global user.email "email@gmail.com"
-```
-
-### GitHub Username and Email Video Tutorial
-
-[How to set GitHub Username and Email](https://youtu.be/ZeWx0XNUZWE?t=85)
-
-<div class="responsive-iframe-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZeWx0XNUZWE?t=85" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-### GitHub Pages DNS Records
+## GitHub Pages DNS Records
 
 Use these DNS records to point a custom domain name to a GitHub Pages website. There also needs to be a CNAME file in the GitHub Pages folder listing the custom domain.
 
@@ -27,13 +15,3 @@ Use these DNS records to point a custom domain name to a GitHub Pages website. T
 185.199.110.153
 
 185.199.111.153
-
-## Setup Multiple GitHub Accounts
-
-Sometimes you want to use different GitHub accounts for different repositories on the same computer. This could be to separate personal projects with school projects or work projects. Type the following commands into terminal.
-
-`~$ git config --global user.name "username" ~$ git config --global user.email "name@email.com"`
-
-`~$ git config --local user.name "username" ~$ git config --local user.email "name@email.com"`
-
-`~$ git config --worktree user.name "username" ~$ git config --worktree user.email "name@email.com"`

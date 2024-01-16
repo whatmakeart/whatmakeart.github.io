@@ -259,6 +259,14 @@ body.dark {
   padding-top: 56.25%;
 }
 
+.iframe-16-9-container + p,
+.iframe-16-9-container + h2,
+.iframe-16-9-container + h3,
+.iframe-16-9-container + ul,
+.iframe-16-9-container + table {
+  margin-top: 2rem;
+}
+
 /* tinker-cad iframes */
 .iframe-tinkercad-container {
   position: relative;

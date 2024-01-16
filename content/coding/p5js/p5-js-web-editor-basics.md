@@ -1,10 +1,10 @@
 ---
 title: p5.js Web Editor Basics
 date: 2024-01-10T13:48:17
-lastmod: 2024-01-12T05:21:38
+lastmod: 2024-01-16T05:13:31
 ---
 
-<div class="ifream-16-9-container">
+<div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/SYg862WYaic?si=XxzLlRN9jxMWpfa-?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
@@ -24,8 +24,7 @@ p5.js is a fantastic library that combines the power of programming with the bea
 2. **Drawing an Ellipse**: Use `ellipse(50, 50, 80, 80);` to draw an ellipse. The first two numbers are the x and y coordinates of the center, while the last two are its width and height.
 3. **Interactive Elements**: Make your art interactive using variables like `mouseX` and `mouseY`, which store the mouse's current position. You can make the ellipse follow the mouse around the canvas with these.
 4. **Exploring p5.js Reference**: For more functions and variables, check the comprehensive p5.js reference page. It's a treasure trove of information and capabilities.
-
-- [p5.js Primitive Shapes Tutorial](./primitive-shapes-p5-js.md)
+5. [p5.js Primitive Shapes Tutorial](./primitive-shapes-p5-js.md)
 
 ## Saving and Sharing Your Work
 
