@@ -1,7 +1,7 @@
 ---
 date: 2023-01-23T8:30:00-04:00
 description: In this Autodesk Fusion 360 tutorial, I will quickly show you how to use the revolve tool. The revolve tool is a powerful feature that allows you to create complex forms from simple sketches.
-featured_image: /posts/images/fusion-360-revolve-tool.jpg
+featured_image: /3d-modeling/fusion-360/attachments/fusion-360-revolve-tool.jpg
 tags:
   - Fusion 360
   - 3D Modeling

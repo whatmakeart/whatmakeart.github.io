@@ -47,8 +47,36 @@
         <!-- On this Page Placeholder -->
       </div>
 
-      <div class="bd-content ps-lg-2">
+      <div class="bd-content ps-lg-4">
         {{ .Content }}
+        <ul
+          class="list-unstyled mb-0 py-3 pt-md-1"
+          style="display:grid; grid-template-columns: 1fr 1fr 1fr ; grid-gap: 1rem;"
+        >
+          <!-- Used for Tag pages and lists -->
+          {{ range .Pages.ByTitle }}
+            <li class="card">
+              {{ $img := "" }}
+              {{ if .Params.featured_image }}
+                {{ $img =  .Params.featured_image }}
+              {{ else }}
+                {{ $img = printf "/img/whatmakeart-logo-16-9.png" }}
+              {{ end }}
+
+
+              <a href="{{ .RelPermalink }}"
+                ><img class="card-img-top" src="{{ $img }}"
+              /></a>
+
+              <div class="card-body">
+                <p class="card-title">
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </p>
+              </div>
+            </li>
+          {{ end }}
+        </ul>
+        <!-- Still list the links in order after cards -->
         <section style="width:100%;">
           {{ partial "sidebar-section" . }}
         </section>

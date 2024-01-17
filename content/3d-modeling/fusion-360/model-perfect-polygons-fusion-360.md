@@ -1,7 +1,6 @@
 ---
 date: 2021-00-00T8:30:00-04:00
 description: "Model Perfect polygons in Fusion 360"
-featured_image: ""
 tags: ["Fusion 360", "3D Modeling"]
 title: "Model Perfect polygons in Fusion 360"
 ---

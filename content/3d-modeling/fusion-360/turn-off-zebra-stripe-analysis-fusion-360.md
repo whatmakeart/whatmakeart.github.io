@@ -1,8 +1,10 @@
 ---
 date: 2022-02-27T8:30:00-04:00
 description: "Turn Off Zebra Strip Analysis Fusion 360"
-featured_image: "/posts/turn-off-zebra-stripe-analysis-fusion-360/Turn off Zebra Analysis Fusion 360 Title.jpg"
-tags: [""]
+featured_image: "/3d-modeling/fusion-360/attachments/turn-off-zebra-stripe-analysis-fusion-360/Turn off Zebra Analysis Fusion 360 Title.jpg"
+tags:
+  - Fusion 360
+  - 3D Modeling
 title: "Turn Off Zebra Strip Analysis Fusion 360"
 ---
 

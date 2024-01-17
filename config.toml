@@ -32,7 +32,7 @@ slack = ""
 stackoverflow = ""
 rss = ""
 GithubEdit = "https://github.com/whatmakeart/whatmakeart.github.io/edit/main/content/"
-featured_image = "/img/whatmakeart-logo.png"
+featured_image = "/img/whatmakeart-logo-16-9.png"
 
 [params.toc]
 startLevel = 1     # default is 2
