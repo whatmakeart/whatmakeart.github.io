@@ -1,17 +1,17 @@
 ---
 title: 00.03 Course Links
 date: 2023-08-28T12:00:00
-lastmod: 2023-09-10T13:31:26
+lastmod: 2024-01-17T04:07:05
 ---
 
 ## Documentation
 
-- [How to Document 2D Artwork](../../../../art-faq/how-to-document-2d-artwork.md)
-- [How to Document 3D Artwork](../../../../art-faq/how-to-document-3d-artwork.md)
+- [How to Document 2D Artwork](../../../../photography/how-to-document-2d-artwork.md)
+- [How to Document 3D Artwork](../../../../photography/how-to-document-3d-artwork.md)
 
 ## Artist Portfolio
 
-- [Artist Website Portfolio How to Guide](../../../../art-faq/artist-portfolio-website-how-to-guide.md)
+- [Artist Website Portfolio How to Guide](../../../../coding/artist-portfolio-website-how-to-guide.md)
 
 ## Critique
 

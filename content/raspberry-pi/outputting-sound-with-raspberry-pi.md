@@ -1,5 +1,7 @@
 ---
 title: Outputting Sound with Raspberry Pi
+date: 2023-05-23T21:59:41
+lastmod: 2024-01-17T04:08:30
 description: How to output sound with a Raspberry Pi single board computer.
 tags:
   - stub

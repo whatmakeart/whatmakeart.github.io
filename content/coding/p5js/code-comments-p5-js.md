@@ -1,7 +1,10 @@
 ---
 title: Code Comments p5.js
 date: 2024-01-11T06:04:21
-lastmod: 2024-01-16T05:11:06
+lastmod: 2024-01-17T03:48:04
+tags:
+  - p5.js
+  - coding
 ---
 
 <div class="iframe-16-9-container">

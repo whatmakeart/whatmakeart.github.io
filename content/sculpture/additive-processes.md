@@ -1,5 +1,7 @@
 ---
 title: Additive Processes
+date: 2023-05-23T21:59:42
+lastmod: 2024-01-17T04:09:21
 tags:
   - stub
 ---

@@ -1,7 +1,7 @@
 ---
 title: Responsive iframe Embed
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:39:11
+lastmod: 2024-01-17T04:07:05
 ---
 
 ## Tutorial Description
@@ -53,4 +53,4 @@ After following these instructions you should have an iframe that is responsive,
 
 ## Further Reading
 
-[Web-Design](web-design.md) [How to Make an Artist Portfolio Website](../art-faq/artist-portfolio-website-how-to-guide.md)
+[Web-Design](web-design.md) [How to Make an Artist Portfolio Website](./artist-portfolio-website-how-to-guide.md)

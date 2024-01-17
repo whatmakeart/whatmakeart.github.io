@@ -1,7 +1,7 @@
 ---
 title: Artist Portfolio Website How To Guide
 date: 2021-04-11T08:07:38
-lastmod: 2023-09-07T20:35:18
+lastmod: 2024-01-17T04:07:05
 ---
 
 # What is a Website?
@@ -276,7 +276,7 @@ Don't forget about posting links to other online profiles that you have. Just be
 
 ## Your Resume
 
-Where have you exhibited your work? Have your received recognition for your work? Are there articles written about your work? Did you go to school? Did you write something about art? Where have you spoken about your work? All of these items and more go on your [artist resume](how-to-write-an-artist-resume.md).
+Where have you exhibited your work? Have your received recognition for your work? Are there articles written about your work? Did you go to school? Did you write something about art? Where have you spoken about your work? All of these items and more go on your [artist resume](../art-faq/how-to-write-an-artist-resume.md).
 
 There is no rule but again there are general conventions. The best way to learn these conventions is to look at other artists' resumes and see what is common practice. When you are starting your career you will not have much to put on your resume. That is ok. You still need a resume and if you make one it will be easier to add your creative accomplishments in the future.
 
@@ -292,7 +292,7 @@ Do it anyway. Most venues and publications that ask for your bio expect it to be
 
 Get to the point.
 
-I love art but do not like reading [artist statements](how-to-write-an-artist-statement.md). Well, I don't like reading bad artist statements. I want to know about your art. I want to know all the W's and the H. The Who, What, When, Where, How? Tell me and your audience.
+I love art but do not like reading [artist statements](../art-faq/how-to-write-an-artist-statement.md). Well, I don't like reading bad artist statements. I want to know about your art. I want to know all the W's and the H. The Who, What, When, Where, How? Tell me and your audience.
 
 Don't waste time with extra language. Tell me.
 
@@ -312,7 +312,7 @@ In web design as well as most publishing it is best to keep the content separate
 
 ## What is HTML and CSS?
 
-[HTML](../coding/html.md) stands for Hyper Text Markup Language and [CSS](../coding/css.md) stands for Cascading Style Sheet. All you need to know is that the HTML tells the web browser what the content is. It tells the browser if the text is a heading, a paragraph, a link, an image or any other content on the webpage. Although most web browser have default display styles for HTML content, the HTML should not determine how your site looks.
+[HTML](./html.md) stands for Hyper Text Markup Language and [CSS](./css.md) stands for Cascading Style Sheet. All you need to know is that the HTML tells the web browser what the content is. It tells the browser if the text is a heading, a paragraph, a link, an image or any other content on the webpage. Although most web browser have default display styles for HTML content, the HTML should not determine how your site looks.
 
 The CSS tells the web browser how to display your content. It determines typefaces, text size, colors, borders, column layouts, how the page looks on mobile, animations, transitions and just about any type of visual styling you can imagine.
 

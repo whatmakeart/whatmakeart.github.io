@@ -1,7 +1,7 @@
 ---
 title: Order of Operations
 date: 2023-05-26T03:08:15
-lastmod: 2023-10-23T07:00:37
+lastmod: 2024-01-17T04:09:23
 tags:
   - stub
 ---

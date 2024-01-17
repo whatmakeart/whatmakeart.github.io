@@ -1,7 +1,10 @@
 ---
 title: Setup Local p5.js Project
 date: 2024-01-11T11:08:20
-lastmod: 2024-01-16T05:26:54
+lastmod: 2024-01-17T03:48:50
+tags:
+  - p5.js
+  - coding
 ---
 
 <div class="iframe-16-9-container">

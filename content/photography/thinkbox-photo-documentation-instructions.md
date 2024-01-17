@@ -1,5 +1,7 @@
 ---
 title: think[box] Photo Documentation Instructions
+date: 2023-06-15T15:13:49
+lastmod: 2024-01-17T04:08:30
 ---
 
 Below are instructions provided by Case Western Reserve University's think[box] for using the Photo Documentation Stand to document smaller objects. [^1] These instructions are for objects that are approximately 12" max in all directions. This works for most 3D prints and many laser cut projects. If you want to photo document a larger object, then following the [instructions for using the photo backdrop](https://docs.google.com/document/d/1OY9IOG0cnc62f2EDfT1eCdGRUC8D3gzCYLxreg2P2S8/edit?usp=sharing) will work better.

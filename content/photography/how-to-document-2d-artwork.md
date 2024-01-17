@@ -1,7 +1,7 @@
 ---
 title: How to Document 2D Artwork
 date: 2023-05-30T00:40:04
-lastmod: 2023-09-07T20:37:14
+lastmod: 2024-01-17T04:07:05
 ---
 
 ### Use a Camera NOT your Cell Phone
@@ -49,7 +49,8 @@ Shoot in JPG and RAW and post process the images. All photos can be improved thr
 
 ## Photography Documentation Resources
 
-- [think\[box\] Photo Documentation Instructions](../photography/thinkbox-photo-documentation-instructions.md)
+- [think\[box\] Photo Documentation Instructions](./thinkbox-photo-documentation-instructions.md)
+
 ## Tutorial Videos
 
 <div class="video-grid">

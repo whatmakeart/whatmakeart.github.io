@@ -1,5 +1,7 @@
 ---
 title: Paper Maché
+date: 2023-05-23T21:59:40
+lastmod: 2024-01-17T04:10:05
 ---
 
 Paper Maché uses strips and / or wads of paper coated in a sticky glue paste. It is a fast and cheap way to build up solid or hollow forms. The coated paper is draped over shaped forms or bunched up into dense solid shapes. The paper becomes hard and stiff as it dries. Once dry multiple layers of paper are applied to create a thick enough shell that it can support its own weight or other objects used in the design. Use an [armature](../sculpture/armature.md) to quickly build larger forms. Once dry, the forms can be painted.

@@ -1,7 +1,7 @@
 ---
 title: "03.05 Laser Cut Ideation Sketches and Cardboard Model"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2024-01-17T04:07:05
 ---
 
 ## Assignment Deliverables
@@ -13,7 +13,7 @@ Label your scanned sketches - YYYYMMDD Lastname First Name Project Name / Descri
 
 ## Ideation Sketches
 
-1. After initial design research, begin by drawing [ideation sketches](../../../../art-faq/ideation-sketches.md) of solutions. At this stage try to draw many different ideas without censoring your thoughts. No idea is bad at this point.
+1. After initial design research, begin by drawing [ideation sketches](../../../../drawing/ideation-sketches.md) of solutions. At this stage try to draw many different ideas without censoring your thoughts. No idea is bad at this point.
 2. Draw many ideas with different contours and solutions to the problem.
 3. Draw a minimum of 10 ideation sketches of different designs and ideas. Each idea should be new and unique.
 4. Draw your ideations sketches large enough. The maximum number of ideation sketches on a single page (~8.5"x11" sheet) is 6-8 sketches. Any more and they are too small.

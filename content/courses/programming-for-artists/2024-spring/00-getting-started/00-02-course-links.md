@@ -1,7 +1,7 @@
 ---
 title: 00.02 Course Links
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-15T16:14:33
+lastmod: 2024-01-17T05:56:29
 ---
 
 ## Programming for Artists
@@ -15,7 +15,8 @@ lastmod: 2024-01-15T16:14:33
 
 - [P5.js](https://p5js.org/) - (p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else!)
   - [Debugging](https://p5js.org/learn/debugging.html)
-  - [p5.js Showcase](https://showcase.p5js.org/#/2022-All)
+  - [p5.js Showcase](https://showcase.p5js.org/#/2022-All)=
+  - [p5 Screen Position](https://github.com/bohnacker/p5js-screenPosition)
 
 ### Visual Programming
 
@@ -27,10 +28,19 @@ lastmod: 2024-01-15T16:14:33
 
 ### Game Engines
 
+- [p5play](https://p5play.org/index.html) Game engine library for p5.js
 - [Pico-8](https://www.lexaloffle.com/pico-8.php)
 - [Pico-8 Manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html)
 - [Unity](https://unity.com/)
 - [Unreal](https://www.unrealengine.com/en-US/)
+- [plank.js](https://piqnt.com/planck.js) 2D Physics Engine
+- [stage.js](https://piqnt.com/stage.js) HTML 5 Game development
+
+## AR
+
+- [ar.js](https://github.com/AR-js-org/AR.js)
+- [mind-ar.js](https://github.com/hiukim/mind-ar-js)
+- [Studio Mind AR](https://studio.mindar.org/)
 
 ## Machine Learning
 

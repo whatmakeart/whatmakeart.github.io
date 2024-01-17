@@ -1,7 +1,7 @@
 ---
 title: Course Links
 date: 2023-08-23T09:30:00Z
-lastmod: 2023-09-14T13:20:13
+lastmod: 2024-01-17T04:07:05
 ---
 
 ## Exhibition Space
@@ -21,12 +21,12 @@ lastmod: 2023-09-14T13:20:13
 
 ## Documentation
 
-- [How to Document 2D Artwork](../../../../art-faq/how-to-document-2d-artwork.md)
-- [How to Document 3D Artwork](../../../../art-faq/how-to-document-3d-artwork.md)
+- [How to Document 2D Artwork](../../../../photography/how-to-document-2d-artwork.md)
+- [How to Document 3D Artwork](../../../../photography/how-to-document-3d-artwork.md)
 
 ## Artist Portfolio
 
-- [Artist Website Portfolio How to Guide](../../../../art-faq/artist-portfolio-website-how-to-guide.md)
+- [Artist Website Portfolio How to Guide](../../../../coding/artist-portfolio-website-how-to-guide.md)
 
 ## Critique
 

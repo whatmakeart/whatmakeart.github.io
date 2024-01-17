@@ -1,7 +1,10 @@
 ---
 title: p5.js Web Editor Basics
 date: 2024-01-10T13:48:17
-lastmod: 2024-01-16T05:13:31
+lastmod: 2024-01-17T03:48:50
+tags:
+  - p5.js
+  - coding
 ---
 
 <div class="iframe-16-9-container">

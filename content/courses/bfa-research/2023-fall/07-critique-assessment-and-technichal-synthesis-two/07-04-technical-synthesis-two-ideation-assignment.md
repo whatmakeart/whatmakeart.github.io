@@ -1,7 +1,7 @@
 ---
 title: 07.04 Technical Synthesis Two Ideation Assignment
 date: 2023-10-16T12:00:00
-lastmod: 2023-10-30T06:15:23
+lastmod: 2024-01-17T04:07:05
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2023-10-30T06:15:23
 
 ## Overview
 
-Create [ideation sketches](../../../../art-faq/ideation-sketches.md) that explore ideas and concepts based on the prompt. Digitize any analog documents or physical models. Make screenshots, renders, or exports of any digital media in an appropriate image format.
+Create [ideation sketches](../../../../drawing/ideation-sketches.md) that explore ideas and concepts based on the prompt. Digitize any analog documents or physical models. Make screenshots, renders, or exports of any digital media in an appropriate image format.
 
 <div class="responsive-table-markdown">
 

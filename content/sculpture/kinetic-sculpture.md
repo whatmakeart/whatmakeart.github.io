@@ -1,5 +1,7 @@
 ---
 title: Kinetic Sculpture
+date: 2023-06-01T20:13:12
+lastmod: 2024-01-17T04:09:21
 tags:
   - stub
 ---

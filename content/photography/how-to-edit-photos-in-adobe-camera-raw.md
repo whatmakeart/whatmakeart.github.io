@@ -1,6 +1,9 @@
 ---
 title: How to Edit Photos in Adobe Camera Raw
+date: 2023-05-30T00:40:53
+lastmod: 2024-01-17T04:08:30
 ---
+
 [Photoshop](photoshop.md) has a plugin called Camera Raw that can edit raw camera images as well as other digital images.
 
 <div class="video-grid">

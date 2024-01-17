@@ -1,5 +1,7 @@
 ---
 title: Installation Art
+date: 2023-07-10T16:51:25
+lastmod: 2024-01-17T04:09:21
 tags:
   - stub
 ---

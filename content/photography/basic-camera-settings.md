@@ -1,5 +1,7 @@
 ---
 title: Basic Camera Settings
+date: 2023-08-30T05:21:35
+lastmod: 2024-01-17T04:07:28
 ---
 
 ## 3 Main Camera Settings

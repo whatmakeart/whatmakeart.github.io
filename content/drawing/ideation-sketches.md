@@ -1,12 +1,12 @@
 ---
 title: Ideation Sketches
 date: 2023-06-13T16:11:02
-lastmod: 2023-09-07T20:37:43
+lastmod: 2024-01-17T06:19:05
 ---
 
 ## What is Ideation Sketching?
 
-Ideation sketching is an important part of the creative process. There are many ways to make and generate ideas. The simplest way is with small thumbnail sketches with a pencil on paper.
+Ideation [sketching](./sketching.md) is an important part of the creative process. There are many ways to make and generate ideas. The simplest way is with small thumbnail sketches with a pencil on paper.
 
 Draw sketches that convey your idea and excite the viewer. Also draw sketches that explore how your concept could possibly be assembled and made.
 
@@ -23,4 +23,5 @@ Sculpture commissions go through an initial planning phase and design phase. Onc
 If done digitally separate your sketches into multiple digital "pages" so that if one page is full screen on a laptop then we would see the same amount of detail if a scanned page of a sketchbook was full-screen on the laptop.
 
 ## Using Artificial Intelligence
-Generative AI can assist in the ideation process. Image generators can modify sketches as well as create visualizations quickly from text prompts. Large language (LLMs) analyze large bodies of text. LLMs can be used for ideation. 
+
+Generative AI can assist in the ideation process. Image generators can modify sketches as well as create visualizations quickly from text prompts. Large language (LLMs) analyze large bodies of text. LLMs can be used for ideation.

@@ -1,7 +1,7 @@
 ---
 title: 00.02 BFA Research Syllabus
 date: 2023-08-28T12:00:00
-lastmod: 2023-09-10T13:32:19
+lastmod: 2024-01-17T04:07:05
 ---
 
 ## BFA Research
@@ -74,8 +74,8 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 - Students should maintain regular, on-going and timely documentation of work in progress.
 - Images should be high resolution, well exposed, in focus, and well composed.
-- [How to Document 2D Artwork](../../../../art-faq/how-to-document-2d-artwork.md)
-- [How to Document 3D Artwork](../../../../art-faq/how-to-document-3d-artwork.md)
+- [How to Document 2D Artwork](../../../../photography/how-to-document-2d-artwork.md)
+- [How to Document 3D Artwork](../../../../photography/how-to-document-3d-artwork.md)
 
 ### File Management
 

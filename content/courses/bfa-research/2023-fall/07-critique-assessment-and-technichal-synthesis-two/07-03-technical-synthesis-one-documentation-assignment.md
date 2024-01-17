@@ -1,7 +1,7 @@
 ---
 title: 07.03 Technical Synthesis One Documentation Assignment
 date: 2023-10-16T12:00:00
-lastmod: 2023-10-16T07:26:18
+lastmod: 2024-01-17T04:07:05
 ---
 
 ## Assignment Deliverables
@@ -11,6 +11,6 @@ lastmod: 2023-10-16T07:26:18
 
 ## Photo Documentation Resources
 
-- [How to Document 3D Artwork](../../../../art-faq/how-to-document-3d-artwork.md)
+- [How to Document 3D Artwork](../../../../photography/how-to-document-3d-artwork.md)
 
-![How to Document 3D Artwork](../../../../art-faq/how-to-document-3d-artwork.md)
+![How to Document 3D Artwork](../../../../photography/how-to-document-3d-artwork.md)

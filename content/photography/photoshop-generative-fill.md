@@ -1,6 +1,9 @@
 ---
 title: Photoshop Generative Fill
+date: 2023-06-22T14:53:36
+lastmod: 2024-01-17T04:08:30
 ---
+
 <div class="video-grid">
 
 <div class="video-card">
@@ -22,4 +25,3 @@ title: Photoshop Generative Fill
 </div>
 
 </div>
-

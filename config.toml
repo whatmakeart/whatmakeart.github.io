@@ -67,14 +67,18 @@ name = 'Tutorials'
 url = '/tags/tutorial/'
 weight = 20
 [[menu.main]]
+name = 'Tags'
+url = '/tags'
+weight = 30
+[[menu.main]]
 name = 'Art FAQ'
 url = '/art-faq'
-weight = 25
+weight = 40
 [[menu.main]]
 name = 'Posts'
 url = '/posts'
-weight = 30
+weight = 50
 [[menu.main]]
 name = 'About'
 url = '/about'
-weight = 35
+weight = 60

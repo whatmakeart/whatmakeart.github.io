@@ -1,7 +1,10 @@
 ---
 title: Primitive Shapes p5.js
 date: 2024-01-11T06:38:18
-lastmod: 2024-01-12T05:27:20
+lastmod: 2024-01-17T03:48:50
+tags:
+  - p5.js
+  - coding
 ---
 
 <div class="iframe-16-9-container">

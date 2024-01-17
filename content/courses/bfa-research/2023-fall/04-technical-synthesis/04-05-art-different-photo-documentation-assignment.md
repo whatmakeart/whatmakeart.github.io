@@ -1,7 +1,7 @@
 ---
 title: 04.05 Art Different Photo Documentation Assignment
 date: 2023-09-25T12:00:00
-lastmod: 2023-09-25T19:49:01
+lastmod: 2024-01-17T04:07:05
 toc: true
 ---
 
@@ -12,6 +12,6 @@ toc: true
 
 ## Photo Documentation Resources
 
-- [How to Document 3D Artwork](../../../../art-faq/how-to-document-3d-artwork.md)
+- [How to Document 3D Artwork](../../../../photography/how-to-document-3d-artwork.md)
 
-![How to Document 3D Artwork](../../../../art-faq/how-to-document-3d-artwork.md)
+![How to Document 3D Artwork](../../../../photography/how-to-document-3d-artwork.md)

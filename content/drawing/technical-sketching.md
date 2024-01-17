@@ -1,5 +1,7 @@
 ---
 title: Technical Sketching
+date: 2023-11-28T05:54:38
+lastmod: 2024-01-17T06:18:07
 ---
 
 Technical sketching is a form of drawing used to visually communicate how and object is made, put together, or how something functions. Often dimensions of the object are written on the sketch as well as the precise scale of the drawing. A scaled drawing allows for small and large objects to be drawn at a reasonable size rather than their respective real world scale. Even if a drawing is not to scale it can still describe the form of the object.

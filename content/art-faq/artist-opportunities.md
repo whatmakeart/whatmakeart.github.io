@@ -1,12 +1,12 @@
 ---
 title: Artist Opportunities
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:35:14
+lastmod: 2024-01-17T04:04:37
 tags:
   - stub
 ---
 
-It is important to keep your [portfolio](../art-faq/artist-portfolio-website-how-to-guide.md) and [artist resume](how-to-write-an-artist-resume.md) up to date so you can submit competitive applications for artist opportunities. Applying for opportunities of part of a successful artist's [Professional-Practices-for-Artists](professional-practices-for-artists.md).
+It is important to keep your [portfolio](../coding/artist-portfolio-website-how-to-guide.md) and [artist resume](how-to-write-an-artist-resume.md) up to date so you can submit competitive applications for artist opportunities. Applying for opportunities of part of a successful artist's [Professional-Practices-for-Artists](professional-practices-for-artists.md).
 
 ## Artist Residencies
 
@@ -15,7 +15,7 @@ Artist Residencies give creators time and space to focus on their work. Often re
 - [Res Artis](http://www.resartis.org/)
 - [Trans Artists](http://www.transartists.org/)
 - [Alliance of Artists Communities](http://www.artistcommunities.org/)
-- https://www.nytimes.com/2022/07/06/t-magazine/artist-residencies-art-school.html
+- [Artist Residencies Art School - New York Times](https://www.nytimes.com/2022/07/06/t-magazine/artist-residencies-art-school.html)
 
 ## Artist Resources
 

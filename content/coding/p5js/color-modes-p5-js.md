@@ -1,7 +1,10 @@
 ---
 title: Color Modes p5.js
 date: 2024-01-11T06:35:05
-lastmod: 2024-01-12T05:29:16
+lastmod: 2024-01-17T03:48:50
+tags:
+  - p5.js
+  - coding
 ---
 
 <div class="iframe-16-9-container">

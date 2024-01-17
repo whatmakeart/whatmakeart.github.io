@@ -1,7 +1,7 @@
 ---
 title: "00.01 Syllabus"
 date: 2024-01-18T09:00:00Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2024-01-17T05:38:42
 ---
 
 ## Digital II: Modeling and Fabrication Syllabus
@@ -67,6 +67,9 @@ Upon completion of the course, students will have to opportunity to:
 
 You’re required to contribute to all critiques, even if your own project is not complete. Successful crits depend on each student’s generosity in sharing their honest thoughts, opinions and suggestions!
 
+- [How to Critique Art](../../../../art-faq/how-to-critique-art.md)
+- [Art School Critique No, No's](../../../../art-faq/art-school-critique-no-nos.md)
+
 ### Late Work
 
 Projects must be turned in on time. On time is before the beginning of class on the day that they are due or other time as specified by the instructor. Late projects will automatically drop 1% per day late.
@@ -75,6 +78,8 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 - Students should maintain regular, on-going and timely documentation of work in progress.
 - Images should be high resolution, well exposed, in focus, and well composed.
+- [How to Document 2D Artwork](../../../../photography/how-to-document-2d-artwork.md)
+- [How to Document 3D Artwork](../../../../photography/how-to-document-3d-artwork.md)
 
 ### File Management
 
