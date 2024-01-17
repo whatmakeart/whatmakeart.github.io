@@ -11740,7 +11740,7 @@ a.title-link {
 .image-card {
   display: flex;
   flex-direction: column;
-  justify-content: stretch; }
+  justify-content: space-between; }
 
 .fit-img {
   object-fit: cover;
@@ -11756,7 +11756,8 @@ a.title-link {
 /* for image gallery captions as lists */
 .gallery-grid > figure > figcaption > ul {
   list-style: none;
-  padding-left: 0; }
+  padding-left: 0;
+  font-size: 12px; }
 
 .gallery-grid > figure {
   display: flex;
@@ -11765,8 +11766,8 @@ a.title-link {
   /* pushes the caption to the bottom for uneven image heights */ }
 
 /* gallery-grid caption font size */
-figcaption {
-  font-size: 12px; }
+.gallery-grid > figure > figcaption {
+  font-size: 14px; }
 
 figure > p {
   margin-bottom: 0.5rem; }

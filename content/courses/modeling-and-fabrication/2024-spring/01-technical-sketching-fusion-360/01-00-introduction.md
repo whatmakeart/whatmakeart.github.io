@@ -1,12 +1,12 @@
 ---
 title: "01.00 Introduction to Technical Sketching and Fusion 360"
 date: 2024-01-18T09:00:00Z
-lastmod: 2024-01-17T06:14:49
+lastmod: 2024-01-17T12:06:43
 ---
 
 ## Overview
 
-This module covers [technical sketching](../../../../drawing/technical-sketching.md) and an introduction to 3D modeling in Fusion 360. 3D modeling software used for fabrication and manufacturing feature tools based on technical sketching. In order to understand digital 3D modeling tools it is important to have a basic foundational understanding and proficiency in technical sketching.
+This module covers [technical sketching](../../../../drawing/technical-sketching.md) and an introduction to 3D modeling in Fusion 360. 3D modeling software used for fabrication and manufacturing feature tools based on technical sketching. In order to understand digital 3D modeling tools it is important to have a basic foundational understanding and proficiency in technical sketching. This will form the foundation for the "why" and "how" of the digital 3D modeling tools.
 
 ## Learning Outcomes
 

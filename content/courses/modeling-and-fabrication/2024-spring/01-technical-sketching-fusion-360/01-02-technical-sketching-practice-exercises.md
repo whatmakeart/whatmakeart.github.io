@@ -1,26 +1,23 @@
 ---
 title: "01.02 Technical Sketching Assignment"
 date: 2024-01-18T09:00:00Z
-lastmod: 2024-01-04T06:16:35
+lastmod: 2024-01-17T12:33:37
 ---
 
 ## Assignment Deliverables
 
-You will upload three separate, scanned, and labeled JPEGs of the following [technical sketching](../../../../drawing/technical-sketching.md) practice exercises:
+You will upload three separate, scanned, and labeled JPEGs of the following the sketching practice exercises:
 
-1.  Page of straight lines
-2.  Isometric Cube with three isometric circles drawn freehand
+1.  Page filled with straight lines
+    - Label the scanned image as: YYYYMMDD Lastname Firstname page of straight lines.jpg
+2.  Freehand isometric cube with three isometric circles
+    - Label the scanned image as: YYYYMMDD Lastname Firstname freehand isometric cube and circles.jpg
 3.  Isometric Cube with three isometric circles drawn with T-Square and Compass
-
-Label the jpg files as:
-
-- YYYYMMDD Lastname Firstname page of straight lines.jpg
-- YYYYMMDD Lastname Firstname isometric cube and circles freehand.jpg
-- YYYYMMDD Lastname Firstname isometric cube and circles t-square and compass.jpg
+    - Label the scanned image as: YYYYMMDD Lastname Firstname isometric cube and circles t-square and compass.jpg
 
 ---
 
-## Instructions
+## Assignment Instructions
 
 Using loose sheets of paper, <span style="text-decoration: underline;">not</span> in your sketchbooks, do each of the following sketching exercises on your own.
 

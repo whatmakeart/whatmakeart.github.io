@@ -1,7 +1,7 @@
 ---
 title: Technical Sketching
 date: 2023-11-28T05:54:38
-lastmod: 2024-01-17T12:01:29
+lastmod: 2024-01-17T12:29:29
 ---
 
 Technical sketching is a form of drawing used to visually communicate how and object is made, put together, or how something functions. Often dimensions of the object are written on the sketch as well as the precise scale of the drawing. A scaled drawing allows for small and large objects to be drawn at a reasonable size rather than their respective real world scale. Even if a drawing is not to scale it can still describe the form of the object.
@@ -32,30 +32,52 @@ Technical sketching uses a variety of visual projections and perspective techniq
 
 <div class="gallery-grid">
 
-<div class="image-card">
+<figure>
 
 [![Isometric Perspective Example](./attachments/2022-10-08-isometric-perspective.png)](./attachments/2022-10-08-isometric-perspective.png)
 
-Isometric Perspective shows the sides of the object angled ad 30 degrees. The measurements on the vertical, horizontal, and 30 degree angles are to scale and real measurements.
+<figcaption>
 
-</div>
-<div class="image-card">
+Isometric Projection of a cube drawn at a 30 degree angle
+
+</figcaption>
+</figure>
+
+<figure>
 
 [![Oblique Projection Example](./attachments/2022-10-08-oblique-projection.png)](./attachments/2022-10-08-oblique-projection.png)
 
-Oblique Projection shows the front of the object like a parallel projection and then the sides of the object are drawn at a 45 degree angle. This adds distortion but gives a good view of the front.
+<figcaption>
 
-</div>
-<div class="image-card">
+Oblique Projection of a cube drawn at a 45 degree angle
+
+</figcaption>
+</figure>
+
+<figure>
 
 [![Third Angle Projection Example](./attachments/20220111-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)](./attachments/20220111-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)
 
-## Third Angle Projection
+<figcaption>
+
+Third Angle Projection of an object showing the side, front, and top views
+
+</figcaption>
+</figure>
+
+</div>
+
+### Isometric Projection
+
+Isometric Perspective shows the sides of the object angled ad 30 degrees. The measurements on the vertical, horizontal, and 30 degree angles are to scale and real measurements.
+
+### Oblique Projection
+
+Oblique Projection shows the front of the object like a parallel projection and then the sides of the object are drawn at a 45 degree angle. This adds distortion but gives a good view of the front.
+
+### Third Angle Projection
 
 Third Angle Projection shows the front, top, and side views of an object.
-
-</div>
-</div>
 
 ## Technical Sketching Practice
 
