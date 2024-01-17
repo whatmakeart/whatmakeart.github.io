@@ -1,9 +1,9 @@
 ---
 title: Google Bard vs OpenAi ChatGPT
 date: 2023-05-16T8:30:00-04:00
-lastmod: 2024-01-03T10:45:22
+lastmod: 2024-01-17T10:57:40
 description: Artificial text generators are becoming increasingly popular, with Bard and ChatGPT being two of the most well-known options. But which one is better?
-featured_image: /posts/images/google-bard-vs-openai-chatgpt.jpg
+featured_image: /coding/attachments/google-bard-vs-openai-chatgpt.jpg
 tags:
   - Bard
   - ChatGPT

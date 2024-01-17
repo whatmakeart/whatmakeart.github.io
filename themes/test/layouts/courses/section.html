@@ -28,26 +28,15 @@
       </div>
     </aside>
 
-    <main class="bd-main order-1">
-      <div class="bd-intro pt-2 ps-lg-2">
+    <main>
+      <div class="bd-intro pt-2 ps-lg-4">
         {{ partial "breadcrumbs" . }}
-        <div
-          class="d-md-flex flex-md-row-reverse align-items-center justify-content-between"
-        >
-          <div class="mb-3 mb-md-0 d-flex text-nowrap">
-            <!-- placeholder to keep title to the left, used to hold the view on GitHub Button -->
-          </div>
-          <h1 class="bd-title mb-0" id="content">{{ .Title | markdownify }}</h1>
-        </div>
-        <p class="bd-lead">{{ .Page.Params.Description | markdownify }}</p>
-        <!-- ads -->
+        <h1 class="bd-title mb-0" id="content">{{ .Title | markdownify }}</h1>
       </div>
+      <p class="bd-lead">{{ .Page.Params.Description | markdownify }}</p>
+      <!-- ads -->
 
-      <div class="bd-toc mt-3 mb-5 my-lg-0 mb-lg-5 px-sm-1 text-body-secondary">
-        <!-- On this Page Placeholder -->
-      </div>
-
-      <div class="bd-content ps-lg-2">
+      <div class="bd-content ps-lg-4">
         {{ .Content }}
         <section style="width:100%;">
           {{ if .Params.course_cards }}
@@ -62,7 +51,7 @@
                   {{ if .Params.featured_image }}
                     {{ $img =  .Params.featured_image }}
                   {{ else }}
-                    {{ $img = printf "/img/whatmakeart-logo.png" }}
+                    {{ $img = printf "/img/whatmakeart-logo-16-9.png" }}
                   {{ end }}
 
 

@@ -1,0 +1,47 @@
+<!-- for having the sidebar change to the specific category after navicating to one from the main page -->
+<nav
+  class="bd-links w-100"
+  id="courses-nav"
+  aria-label="Making Wiki Navigation"
+>
+  <h2 style="font-size:22px;padding-bottom:1rem;margin-block-start:0;">
+    <a style="margin-left:0;padding-left:0;" href="/"> What Make Art</a>
+  </h2>
+  <ul class="bd-links-nav list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
+    <li>{{ .Parent.CurrentSection.Title }}</li>
+
+    {{ $sectionPages := where .Site.Pages "Section" .Section }}
+    {{ range .Parent.CurrentSection.Pages }}
+      {{ if .IsNode }}
+        <li class="mb-1">
+          <button
+            class="btn d-inline-flex align-items-center rounded collapsed"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#{{ .Title | urlize }}"
+            aria-expanded="false"
+            aria-controls="{{ .Title | urlize }}"
+          >
+            {{ .Title }}
+          </button>
+
+          <div class="collapse" id="{{ .Title | urlize }}">
+            {{ partial "sidebar-walk.html" . }}
+          </div>
+        </li>
+      {{ end }}
+
+      {{ if .IsPage }}
+        <li class="fw-normal">
+          <a
+            class="d-inline-flex align-items-center rounded"
+            href="{{ .RelPermalink }}"
+            >{{ .Title }}</a
+          >
+        </li>
+      {{ end }}
+
+    {{ end }}
+
+  </ul>
+</nav>
