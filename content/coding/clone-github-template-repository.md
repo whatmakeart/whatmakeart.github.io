@@ -1,7 +1,12 @@
 ---
 title: Clone GitHub Template Repository
 date: 2024-01-11T16:41:22
-lastmod: 2024-01-12T05:35:20
+lastmod: 2024-01-17T13:02:25
+tags:
+  - git
+  - GitHub
+  - Tutorial
+  - Coding
 ---
 
 <div class="iframe-16-9-container">

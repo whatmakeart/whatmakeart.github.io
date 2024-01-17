@@ -1,13 +1,14 @@
 ---
 title: git Not Found xcrun error
 date: 2023-05-08T8:30:00-04:00
-lastmod: 2024-01-16T05:52:07
+lastmod: 2024-01-17T13:01:39
 description: How can you fix your git installation when installed on a mac but Visual Studio Code does not find the installation.
-featured_image: /posts/images/git-not-found-title.jpg
+featured_image: /coding/attachments/git-not-found-title.jpg
 tags:
   - Coding
   - Visual Studio Code
   - git
+  - Tutorial
 ---
 
 <div class="iframe-16-9-container">
