@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2024-01-18T06:20:35
+lastmod: 2024-01-18T08:09:22
 aliases:
   - 3D Modeling
 ---
@@ -41,19 +41,30 @@ In 2022 Google demonstrated DreamFusion that created 3D models from text prompts
 <div class="video-grid">
 <figure>
 <video width="100%" height="auto" autoplay loop>
-  <source src="./attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4" type="video/mp4">
+  <source src="../attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <figcaption>
 
 Google's DreamFusion in 2022 [^dreamfusion]
 
+</figcaption> <video src="../attachments/2023-05-03-openai-shape-e-demo-models.mp4" controls title="Title"></video>
+
+<figure>
+<video width="100%" height="auto" autoplay loop>
+  <source src="../attachments/2023-05-03-openai-shape-e-demo-models.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<figcaption>
+
+OpenAI's Shape-E in 2023 [^shape-3]. [MIT Licence](https://github.com/openai/shap-e/blob/main/LICENSE)
+
 </figcaption>
 </div>
+
+- [OpenAI Point-E](https://arxiv.org/pdf/2212.08751.pdf)
 
 ## References
 
 [^dreamfusion]: [Google's DreamFusion](https://dreamfusion3d.github.io/)
-
-- [OpenAI Point-E](https://arxiv.org/pdf/2212.08751.pdf)
-- [OpenAI Shape-E](https://github.com/openai/shap-e)
+[^shape-e]: [Shape-E)(https://github.com/openai/shap-e)
