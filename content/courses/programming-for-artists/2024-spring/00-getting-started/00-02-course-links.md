@@ -1,7 +1,7 @@
 ---
 title: 00.02 Course Links
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-19T07:33:01
+lastmod: 2024-01-19T11:10:00
 ---
 
 ## Programming for Artists
@@ -36,6 +36,7 @@ lastmod: 2024-01-19T07:33:01
 - [plank.js](https://piqnt.com/planck.js) 2D Physics Engine
 - [stage.js](https://piqnt.com/stage.js) HTML 5 Game development
 - [phaser.io](https://phaser.io/) Desktop, mobile, and HTML games
+- [bitsy.org](https://www.bitsy.org/)
 
 ### Physics
 
