@@ -1,7 +1,7 @@
 ---
 title: 01.09 Hello Art From Code Assignment
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-19T11:14:34
+lastmod: 2024-01-19T11:37:46
 ---
 
 ## Assignment Deliverables
@@ -78,3 +78,4 @@ Will the image be representative, abstract, or both?
 ### Online Resources
 
 - [p5.js Reference](https://p5js.org/reference/)
+- [Code Academy p5.js Course](https://www.codecademy.com/courses/learn-p5js/lessons/p5js-introduction-to-creative-coding/exercises/p5js-anatomy)

@@ -1,7 +1,7 @@
 ---
 title: 01.04 p5.js Introduction
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-19T06:47:23
+lastmod: 2024-01-19T11:36:29
 ---
 
 ## What is p5.js?
@@ -142,7 +142,7 @@ An additional use for comments is to "comment out" parts of your code. When you 
 
 ### Errors in the Console
 
-Errors will happen when coding. It is exepected. When errors occur
+Errors will happen when coding. It is expected. When errors occur, look at the message. Often there will be a line number and a message describing the error. The line number tells where the computer thinks the error is in the code. It can be helpful to copy the error message and search the web with the phrase.
 
 ## References
 
