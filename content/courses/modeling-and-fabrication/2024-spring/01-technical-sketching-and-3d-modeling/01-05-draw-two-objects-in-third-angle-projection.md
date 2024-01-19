@@ -1,12 +1,12 @@
 ---
 title: "01.05 Draw Two Objects in Third Angle Projection"
 date: 2024-01-18T09:00:00Z
-lastmod: 2024-01-18T06:20:35
+lastmod: 2024-01-19T05:05:22
 ---
 
 ## Assignment Deliverables
 
-Upload 2 separate, labeled JPEGs of 2 different objects drawn in [third angle projection](../../../../drawing/third-angle-projection.md) on paper. One is drawn freehand and one is drawn with technical drawing tools.
+Upload 2 separate, labeled JPEGs, PNGs, or PDFs of 2 different objects drawn in [third angle projection](../../../../drawing/third-angle-projection.md) on paper. One is drawn freehand and one is drawn with technical drawing tools.
 
 Label the files:
 

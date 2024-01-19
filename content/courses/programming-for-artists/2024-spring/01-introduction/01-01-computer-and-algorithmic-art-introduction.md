@@ -1,7 +1,7 @@
 ---
 title: 01.01 Computer and Algorithmic Art
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-15T16:38:24
+lastmod: 2024-01-19T05:10:04
 ---
 
 ## Intro to Computer and Algorithmic Art
@@ -292,29 +292,56 @@ Harold Cohen was an early experimenter with artificial intelligence and machine 
 
 </div>
 
-John Whitney Catalog
+<div class="video-grid">
+<div class="video-card">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TbV7loKp69s?si=WZ8pGlH42yd1kRm5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+John Whitney _Catalog_
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/TbV7loKp69s?si=WZ8pGlH42yd1kRm5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+<div class="video-card">
 
 SketchPad
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6orsmFndx_o?si=VXec0Q3SA5cIGBNC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6orsmFndx_o?si=VXec0Q3SA5cIGBNC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+<div class="video-card">
 
 Vertigo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GQwp6M2q1NE?si=7KzSSWIiYpSjwsOX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/GQwp6M2q1NE?si=7KzSSWIiYpSjwsOX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+<div class="video-card">
 
 A. Michael Noll
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0j63uV6O5qE?si=UK4vdkd3CCU0iki_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/0j63uV6O5qE?si=UK4vdkd3CCU0iki_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+<div class="video-card">
 10 Print
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m9joBLOZVEo?si=57KoUk6AJh2YXDqb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/m9joBLOZVEo?si=57KoUk6AJh2YXDqb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+<div class="video-card">
 
 DOUGLAS TRUMBULL | Master Class | Higher Learning
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FBaZQojd1_s?si=cojZyVE_vG_Y-rh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/FBaZQojd1_s?si=cojZyVE_vG_Y-rh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+</div>
 
 ## Further Reading
 

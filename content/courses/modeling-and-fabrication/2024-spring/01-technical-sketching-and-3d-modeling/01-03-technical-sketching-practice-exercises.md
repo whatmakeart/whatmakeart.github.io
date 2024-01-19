@@ -1,12 +1,12 @@
 ---
 title: "01.03 Technical Sketching Assignment"
 date: 2024-01-18T09:00:00Z
-lastmod: 2024-01-18T06:20:35
+lastmod: 2024-01-19T05:52:01
 ---
 
 ## Assignment Deliverables
 
-You will upload three separate, scanned, and labeled JPEGs of the following the sketching practice exercises:
+You will upload three separate, scanned, and labeled JPEGs, PNGs, or PDFs of the following the sketching practice exercises:
 
 1.  Page filled with straight lines
     - Label the scanned image as: YYYYMMDD Lastname Firstname page of straight lines.jpg
