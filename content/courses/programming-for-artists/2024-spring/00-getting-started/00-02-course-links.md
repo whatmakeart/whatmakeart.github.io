@@ -1,7 +1,7 @@
 ---
 title: 00.02 Course Links
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-19T05:41:45
+lastmod: 2024-01-19T07:33:01
 ---
 
 ## Programming for Artists
@@ -43,7 +43,7 @@ lastmod: 2024-01-19T05:41:45
 
 ### 3D
 
-- [three.js]https://threejs.org/
+- [three.js](https://threejs.org/)
 
 ### Sound
 
