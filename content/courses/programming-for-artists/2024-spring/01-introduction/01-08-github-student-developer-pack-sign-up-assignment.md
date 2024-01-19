@@ -1,7 +1,7 @@
 ---
-title: 01.07 GitHub Student Developer Pack Sign Up Assignment
+title: 01.08 GitHub Student Developer Pack Sign Up Assignment
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-19T10:05:22
+lastmod: 2024-01-19T10:44:52
 ---
 
 ## Assignment Deliverables
