@@ -1,17 +1,17 @@
 ---
 title: 01.06 p5.js Account Sign Up Assignment
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-19T09:14:39
+lastmod: 2024-01-19T09:52:46
 ---
 
 ## Assignment Deliverables
 
-1. Add urls to your p5.js Sketches page and your GitHub Repository page to the URL entry field in the Canvas assignment.
+1. Add URL for your p5.js Sketches page to the URL entry field in the [Canvas assignment](https://cia.instructure.com/courses/1059/assignments/6662).
    - p5.js Sketches page link example - `https://editor.p5js.org/whatmakeart/sketches`
 
 ## Assignment Instructions
 
-After signing up for these accounts, add your profile urls to the URL entry field in the Canvas assignment page.
+After signing up, add your profile urls to the URL entry field in the [Canvas assignment page](https://cia.instructure.com/courses/1059/assignments/6662).
 
 ### p5.js Account
 

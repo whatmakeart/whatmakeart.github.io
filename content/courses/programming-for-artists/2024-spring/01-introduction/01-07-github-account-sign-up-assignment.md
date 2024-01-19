@@ -1,15 +1,26 @@
 ---
 title: 01.07 GitHub Account Sign Up Assignment
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-19T09:14:26
+lastmod: 2024-01-19T09:58:58
 ---
 
 ## Assignment Deliverables
 
-### GitHub Account
+1. Add URL for your GitHub Profile page to the URL entry field in the [Canvas assignment](https://cia.instructure.com/courses/1059/assignments/6663).
+   - GitHub Profile Page link example - `https://github.com/whatmakeart`
 
-1. Sign up for a [GitHub Education Account](https://education.github.com/) with your Student email address.
+## Assignment Instructions
 
-### GiHub Student Developer Pack
+After signing up for these accounts, add your profile urls to the URL entry field in the [Canvas assignment page](https://cia.instructure.com/courses/1059/assignments/6662).
 
-1. Register for a [GitHub Student Developer Pack](https://education.github.com/pack)
+## Sign Up for GitHub Account
+
+1. Sign up for a [GitHub Education Account](https://education.github.com/sign_in) with your Student email address.
+
+[![GitHub Education Sign Up Page](./2024-01-19-github-education-account-sign-up.png)](./2024-01-19-github-education-account-sign-up.png)
+
+2. Confirm your email.
+
+3. Set up two factor authentication
+
+4. Upload your GitHub Profile URL to the Canvas assignment.
