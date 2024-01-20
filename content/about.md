@@ -53,6 +53,7 @@ This is a conceptual work in progress exploring better ways to exchange informat
 - [University of California San Diego Music 170: Musical Acoustics - Miller Puckette](https://msp.ucsd.edu/syllabi/170.21s/)
 - [University of Montana - Creative Coding 1 - Michael Cassens](https://montana-media-arts.github.io/MART120-Fall2023/)
 - [Parsons Critical Computation](https://parsonsdt.github.io/critical-computation-2020/assignment/1.html)
+- [Very Interactive](https://veryinteractive.net/) - Laurel Schwulst's teaching website
 
 #### University of Washington Computer Science Courses
 

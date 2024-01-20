@@ -1,7 +1,7 @@
 ---
 title: 01.00 Introduction
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-13T03:52:44
+lastmod: 2024-01-20T05:56:02
 ---
 
 ## Overview
@@ -16,4 +16,3 @@ Programming is a way to structure instructions to make a computer do what you wa
 - Understand the concept of programming
 - Know the tools needed for computer programming
 - Learn the basics of p5.js
-- Set up a development environment for programming

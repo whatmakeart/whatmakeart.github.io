@@ -1,7 +1,7 @@
 ---
 title: 01.01 Computer and Algorithmic Art
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-19T05:10:04
+lastmod: 2024-01-20T04:56:07
 ---
 
 ## Intro to Computer and Algorithmic Art
@@ -34,7 +34,7 @@ Penrose Tiling P1 over P3 by [Inductiveload](https://commons.wikimedia.org/wiki/
 
 ## Analog Algorithmic Art
 
-Sol LeWitt made a series of Wall Drawings with instructions. He talked about conceptual art being, "The idea is the machine that makes the art." [^1] The wall drawings are seperated from the artist, since once someone has the instructions, the algorithm, or the recipie, anyone can make them. Recipies, and instructions are not copyrightable in the United States, so anyone can make their own wall drawings, you just can't call them Sol LeWitt artworks.
+Sol LeWitt made a series of Wall Drawings with instructions. He talked about conceptual art being, "The idea is the machine that makes the art." [^1] The wall drawings are separated from the artist, since once someone has the instructions, the algorithm, or the recipe, anyone can make them. Recipes, and instructions are not copyrightable in the United States, so anyone can make their own wall drawings, you just can't call them Sol LeWitt artworks.
 
 The instructions for _Wall Drawing #797_ read, "The first drafter has a black marker and makes an irregular horizontal line near the top of the wall. Then the second drafter tries to copy it (without touching it) using a red marker. The third drafter does the same, using a yellow marker. The fourth drafter does the same using a blue marker. Then the second drafter followed by the third and fourth copies the last line drawn until the bottom of the wall is reached." [^massmoca-lewitt]
 
@@ -139,7 +139,7 @@ A. Michael Noll also worked at Bell Labs and created many early and iconic compu
 
 Frieder Nake made use of graphical plotters and mathematics to create computer art and made some of the first computer artworks and participated in some of the earliest exhibitions of computer art. [^wiki-nake] Nake was an algorithmic and generative art pioneer and one of the "Algorists", a self named group of early algorithmic art and generative art practitioners. [^amerika]
 
-John Whitney worked with Saul Bass on the opening sequence of Alfred Hitchcock's _Vertigo_ to create what is considered the first computer animation in film. [^computeranimationhistory] The pioneering techniques of Whitney directly inspired the work of Douglas Trumbull, who created the cutting edge "Star Gate" scene in Stanley Kubrick's _2001: A Space Odyssey_. He built a time controllable exposure slit-scan machine. [^hollywood-reporter]\_200
+John Whitney worked with Saul Bass on the opening sequence of Alfred Hitchcock's _Vertigo_ to create what is considered the first computer animation in film. [^computeranimationhistory] The pioneering techniques of Whitney directly inspired the work of Douglas Trumbull, who created the cutting edge "Star Gate" scene in Stanley Kubrick's _2001: A Space Odyssey_. He built a time controllable exposure slit-scan machine. [^hollywood-reporter]
 
 Charles Csuri was a artistic pioneer at the forefront of computer art and using computers for animation. Csuri is credited with one of the earliest computer animations titled, _Hummingbird_ in 1967. Unlike later computer animations where the entire creation and rendering process occurs within the memory of the computer, Csuri uses a microfilm plotter to draw over 30,000 frames of animation directly onto film. It is an interesting example of a hybrid type of digital art that requires advanced technology and lots of physical labor. [^csuri-moma]
 
@@ -373,7 +373,7 @@ DOUGLAS TRUMBULL | Master Class | Higher Learning
 [^burroughs-2]: [Origin And Theory Of The Tape Cut-Ups](https://www.youtube.com/watch?v=40dA7PZyy3o) - YouTube.
 [^design-world]: Yares, Evan. [50 Years of CAD](https://www.designworldonline.com/50-years-of-cad/). Design World. 2013 February 13.
 [^computeranimationhistory]: [Vertigo 1958](https://computeranimationhistory-cgi.jimdofree.com/vertigo/) Computer Animation History.
-[^holywood-reporter]: Trumbull, Douglas. As told to Carolyn Giardina. [‘2001: A Space Odyssey’: Douglas Trumbull on Stanley Kubrick’s Search for “Ultimate Perfection”](https://www.hollywoodreporter.com/movies/movie-news/2001-a-space-odyssey-special-effects-pioneer-douglas-trumbull-remembers-stanley-kubrick-1114803/) The Holywood Reporter. May 25, 2018. [Web Archive](https://web.archive.org/web/20240115090816/https://www.hollywoodreporter.com/movies/movie-news/2001-a-space-odyssey-special-effects-pioneer-douglas-trumbull-remembers-stanley-kubrick-1114803/)
+[^hollywood-reporter]: Trumbull, Douglas. As told to Carolyn Giardina. [‘2001: A Space Odyssey’: Douglas Trumbull on Stanley Kubrick’s Search for “Ultimate Perfection”](https://www.hollywoodreporter.com/movies/movie-news/2001-a-space-odyssey-special-effects-pioneer-douglas-trumbull-remembers-stanley-kubrick-1114803/) The Holywood Reporter. May 25, 2018. [Web Archive](https://web.archive.org/web/20240115090816/https://www.hollywoodreporter.com/movies/movie-news/2001-a-space-odyssey-special-effects-pioneer-douglas-trumbull-remembers-stanley-kubrick-1114803/)
 [^a-michael-noll]: [https://www.rightclicksave.com/article/the-interview-a-michael-noll](https://www.rightclicksave.com/article/the-interview-a-michael-noll)
 [^desmond-1]: [Picture by Drawing Machine](https://commons.wikimedia.org/wiki/File:Wiki.picture_by_drawing_machine_1.jpg) Wikimeda Commons.
 [^desmond-2]: [Drawing Machine](https://commons.wikimedia.org/wiki/File:Wiki.Henry_Drawing_Machine_1.jpg) Wikimeda Commons.

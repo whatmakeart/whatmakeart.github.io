@@ -1,7 +1,7 @@
 ---
-title:
+title: 02.02 Local p5.js Project
 date: 2024-01-19T05:58:31
-lastmod: 2024-01-19T06:40:59
+lastmod: 2024-01-20T05:56:02
 ---
 
 ## What is a p5.js Web application?
