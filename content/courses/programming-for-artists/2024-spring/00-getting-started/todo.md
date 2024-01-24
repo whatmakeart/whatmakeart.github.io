@@ -1,7 +1,7 @@
 ---
 title: Todo
 date: 2024-01-11T07:00:04
-lastmod: 2024-01-15T16:49:35
+lastmod: 2024-01-24T05:55:14
 draft: true
 ---
 
@@ -14,8 +14,6 @@ draft: true
 - conditionals
 - JavaScript `Math.random()` vs p5.js `random()`
 - p5ljs Responsive canvas `ressizeCanvas()`
-- console errors
-- println statements for debugging
 
 - p5.js
 

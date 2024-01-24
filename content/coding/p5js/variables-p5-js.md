@@ -1,21 +1,12 @@
 ---
-title: Draft Notes
-date: 2024-01-13T06:32:31
-lastmod: 2024-01-15T05:57:44
-draft: true
+title: Variables p5.js
+date: 2024-01-23T05:59:09
+lastmod: 2024-01-24T05:49:24
 ---
 
-## Generative Art Notes
-
-What is generative art?
-
-> Generative art refers to any art practice where the artist uses a system, such as a set of natural language rules, a computer program, a machine, or other procedural invention, which is set into motion with some degree of autonomy contributing to or resulting in a completed work of art.
->
-> Philip Galanter [What is Generative Art?](https://philipgalanter.com/downloads/ga2003_what_is_genart.pdf)
-
-[So you want to build a generator](https://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator)
-https://www.philipgalanter.com/
-[What is generative art? - Philip Galanter](https://philipgalanter.com/downloads/ga2003_what_is_genart.pdf)
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NIXc_THhTqc?si=xvduCNsULcZtpmW_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Variables
 
@@ -23,12 +14,18 @@ Variables are representations of value. In JavaScript, variables need to be defi
 
 An example of a variable we all have is age. Each of us has a specific value for our current age, yet this value is ever changing. You are a different age now, and even now you are a different age. Instead of "hard coding" the value of your age we can use a variable `let age = 7;` or whatever your age is. The program of life constantly updates your age. In a computer program you can make an instruction to add a year to the variable `age`.
 
+### Creating a Variable
+
 ```javascript
 // three variables defined
-var myVariable1;
+var myVariable1; // for supporting older code - best to use let
 const myConstantVariable;
 let myVariable2;
+```
 
+### Setting a Variable's Initial Value
+
+```javascript
 // giving the variables initial values
 
 myVariable = 76; // initial value of an integer
@@ -64,3 +61,52 @@ setup() {
 ### Built in Variables in p5.js
 
 There are many variables built into the p5.js library that can be helpful in your coding projects since you do not need to code the logic that produces these variable values. Examples include `mouseX` and `mouseY` which give the (x,y) positions of the mouse as well as `width` and `height` that give the width and height of the canvas.
+
+#### Additional Built in p5.js Variables [^p5-reference]
+
+Learn more about these built in variables in the [p5.js Reference](https://p5js.org/reference/).
+
+- accelerationX
+- accelerationY
+- accelerationZ
+- deltaTime
+- deviceOrientation
+- displayHeight
+- displayWidth
+- focused
+- frameCount
+- key
+- mouseButton
+- mouseIsPressed
+- movedX
+- movedY
+- pAccelerationX
+- pAccelerationY
+- pAccelerationZ
+- pmouseX
+- pmouseY
+- pRotationX
+- pRotationY
+- pRotationZ
+- pwinMouseX
+- pwinMouseY
+- rotationX
+- rotationY
+- rotationZ
+- touches
+- turnAxis
+- webglVersion
+- windowHeight
+- windowWidth
+- winMouseX
+- winMouseY
+
+## Global vs Local Variables
+
+Global variables are available to any part of the program. Local variables are only available in the function or method that they were declared in. When starting out it is simpler to use global variables by declaring variables at the top of a program or sketch.
+
+[![p5.js Variables](./attachments/p5-js-variables-thumb.jpg)(./attachments/p5-js-variables-thumb.jpg)]
+
+## References
+
+[^p5-reference]: [p5.js Reference](https://p5js.org/reference/)

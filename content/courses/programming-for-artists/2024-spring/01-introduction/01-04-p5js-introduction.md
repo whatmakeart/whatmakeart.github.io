@@ -1,7 +1,7 @@
 ---
 title: 01.04 p5.js Introduction
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-19T11:36:29
+lastmod: 2024-01-23T10:03:36
 ---
 
 ## What is p5.js?
@@ -143,6 +143,12 @@ An additional use for comments is to "comment out" parts of your code. When you 
 ### Errors in the Console
 
 Errors will happen when coding. It is expected. When errors occur, look at the message. Often there will be a line number and a message describing the error. The line number tells where the computer thinks the error is in the code. It can be helpful to copy the error message and search the web with the phrase.
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6mqHhBcZrdw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+[Console p5.js](../../../../coding/p5js/console-p5-js.md)
 
 ## References
 
