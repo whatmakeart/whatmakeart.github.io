@@ -1,7 +1,7 @@
 ---
-title: 02.05 Programming Concepts
+title: 02.07 While and For Loops p5.js
 date: 2024-01-13T06:32:11
-lastmod: 2024-01-24T05:50:23
+lastmod: 2024-01-24T14:35:34
 ---
 
 ## Loops

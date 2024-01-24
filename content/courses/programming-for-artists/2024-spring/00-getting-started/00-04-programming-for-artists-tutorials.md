@@ -1,16 +1,21 @@
 ---
 title: 00.04 Programming for Artists Tutorials
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-16T06:09:06
+lastmod: 2024-01-24T10:05:35
 ---
 
 ## p5.js Tutorials
 
+- [Web Editor](../../../../coding/p5js/p5-js-web-editor-basics.md)
 - [Code Comments](../../../../coding/p5js/code-comments-p5-js.md)
 - [Color Modes](../../../../coding/p5js/color-modes-p5-js.md)
-- [Web Editor](../../../../coding/p5js/p5-js-web-editor-basics.md)
+- [Console](../../../../coding/p5js/console-p5-js.md)
 - [Primitive Shapes](../../../../coding/p5js/primitive-shapes-p5-js.md)
 - [Setup Local p5.js Project](../../../../coding/p5js/setup-local-p5-js-project.md)
+- [Variables](../../../../coding/p5js/variables-p5-js.md)
+- [Increment Operator](../../../../coding/p5js/increment-operator-p5-js.md)
+- [Conditional Statements](../../../../coding/p5js/conditional-statements-p5-js.md)
+- [Conditional Statements Ball Bounce](../../../../coding/p5js/conditional-statement-ball-bounce.md)
 
 ## Visual Studio Code Tutorials
 

@@ -1,7 +1,7 @@
 ---
 title: 00.02 Course Links
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-19T11:10:00
+lastmod: 2024-01-24T14:36:12
 ---
 
 ## Programming for Artists
@@ -37,6 +37,7 @@ lastmod: 2024-01-19T11:10:00
 - [stage.js](https://piqnt.com/stage.js) HTML 5 Game development
 - [phaser.io](https://phaser.io/) Desktop, mobile, and HTML games
 - [bitsy.org](https://www.bitsy.org/)
+- [pixelpad.io](https://pixelpad.io/)
 
 ### Physics
 
@@ -59,6 +60,9 @@ lastmod: 2024-01-19T11:10:00
 ## Machine Learning
 
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [Roboflow](https://roboflow.com/)
+- [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html)
+- [COCO Dataset](https://cocodataset.org/#home)
 - [Tensorflow.js](https://www.tensorflow.org/js/)
 - [ml5.js](https://ml5js.org/)
 - [runwayml.com](https://runwayml.com/)

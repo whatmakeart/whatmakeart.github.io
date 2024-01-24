@@ -1,7 +1,7 @@
 ---
 title: Increment Operator
 date: 2024-01-23T19:39:40
-lastmod: 2024-01-24T06:52:41
+lastmod: 2024-01-24T10:08:23
 ---
 
 ## Increment Operator Video Transcript
@@ -17,3 +17,5 @@ So if I go back to the web editor and here in the draw function I have my X and 
 Of course I could write a different value, so I could write a value of three. There's got to be a shorthand way of writing that increment operator in JavaScript. So if I delete the Y and then replace it with += then we get += 3 it's not that much shorter but it definitely saves some writing and we can also do this with multiplication. So we could put a multiplication here and it's going to go very quickly or we can do other operations as well.
 
 So the incrementation feature is very helpful in programming. I'll put this back to y++ so now we're going at an angle. Hopefully you can use incrementation operators and check the JavaScript documentation to see the different things that you can do. So there's many different examples of how we can go through and increment our things in JavaScript. Next we're going to go ahead and examine some conditional statements so we can make the ball do different things. For example maybe when it gets down to the bottom of the screen we'll have it come back the other way. Happy programming.
+
+[![Increment Operator](./attachments/increment-variable-thumb.jpg)](./attachments/increment-variable-thumb.jpg)

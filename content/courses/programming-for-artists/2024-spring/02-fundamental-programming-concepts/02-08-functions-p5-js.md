@@ -1,7 +1,7 @@
 ---
-title: 02.03 Programming Concepts
+title: 02.08 Functions p5.js
 date: 2024-01-13T06:32:11
-lastmod: 2024-01-24T06:59:05
+lastmod: 2024-01-24T14:35:48
 ---
 
 ## Functions
