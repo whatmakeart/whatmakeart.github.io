@@ -1,7 +1,7 @@
 ---
-title: Increment Operator ++
+title: Increment Operator
 date: 2024-01-23T19:39:40
-lastmod: 2024-01-23T19:40:26
+lastmod: 2024-01-24T06:52:41
 ---
 
 ## Increment Operator Video Transcript
