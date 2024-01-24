@@ -1,7 +1,7 @@
 ---
 title: Todo
 date: 2024-01-11T07:00:04
-lastmod: 2024-01-24T05:55:14
+lastmod: 2024-01-24T15:09:47
 draft: true
 ---
 
@@ -9,15 +9,11 @@ draft: true
 
 - javascript syntax
 
-- variables
-- incrementing operators
-- conditionals
 - JavaScript `Math.random()` vs p5.js `random()`
 - p5ljs Responsive canvas `ressizeCanvas()`
 
 - p5.js
 
-  - Web Editor
   - createCanvas();
   - background();
     - color and color modes RGB HSB
@@ -32,7 +28,6 @@ draft: true
   - draw order (make a donut)
     - createGraphic() - virtual canvas
     - pixelDensity for screen resolutions or double the virtual canvas
-  - random
     - noise
     - random vs noise
     - map random and noise ranges
@@ -44,7 +39,6 @@ draft: true
     - push and pop
     - scale
     - translate
-  - Setup Local p5.js Project
   - add media
     - images
       1. put image in folder
@@ -108,5 +102,9 @@ draft: true
 
 - p5.js random
 - random vs noise
+
+### Clone p5.js project template from CL
+
+`gh repo create my-new-p5-project-repo --public --clone --template whatmakeart/p5-project-template`
 
 ## Assignments

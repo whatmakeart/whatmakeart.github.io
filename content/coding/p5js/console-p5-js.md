@@ -1,7 +1,7 @@
 ---
 title: Console p5.js
 date: 2024-01-22T13:43:23
-lastmod: 2024-01-24T10:06:41
+lastmod: 2024-01-24T15:06:45
 ---
 
 <div class="iframe-16-9-container">
@@ -21,6 +21,8 @@ It's important to understand the difference between printing to the console and 
 As your programming skills progress, especially with more complex projects, you'll find yourself relying on the console for debugging and tracking variable values. It becomes an indispensable tool in understanding what's happening in your code, especially when dealing with those tricky error messages.
 
 Remember, programming can have its challenges, but tools like the p5.js console are there to help you navigate and resolve issues as they arise. Happy coding!
+
+[![Console p5.js](./attachments/p5-js-console-thumb.jpg)](./attachments/p5-js-console-thumb.jpg)
 
 ## Console p5.js Video Transcript
 
@@ -43,5 +45,3 @@ Watch what happens if I put this createP hello into the draw function. Now it ju
 When we get into more complex programs, we'll be using console.log and print() to debug and get variable values for our programs, but this is just letting you know where the console is and what to do when you get that dreaded error message.
 
 Happy programming.
-
-[![Console p5.js](./attachments/p5-js-console-thumb.jpg)](./attachments/p5-js-console-thumb.jpg)

@@ -1,7 +1,7 @@
 ---
 title: Primitive Shapes p5.js
 date: 2024-01-11T06:38:18
-lastmod: 2024-01-17T03:48:50
+lastmod: 2024-01-24T15:07:10
 tags:
   - p5.js
   - coding
@@ -59,6 +59,8 @@ This tutorial in the "Programming for Artists" series introduces the basics of d
 
 This tutorial provides a foundational understanding of drawing with p5.js, crucial for any artist venturing into the world of creative coding. Remember, the key is to experiment and explore the various functions and their effects on the canvas. Happy programming and creative exploration!
 
+[![p5.js primitive shapes](./attachments/p5-js-primitive-shapes-thumb.png)](./attachments/p5-js-primitive-shapes-thumb.png)
+
 ## Primitive Shapes p5.js Video Transcript
 
 In this programming for artist tutorial I'm going to go over the basics of drawing primitive shapes in p5.js. p5.js is a software library made by p5.js and the Processing Foundation. It is free and you can use it in a web editor. If you have questions about how to use the web editor please see previous videos in this Programming for Artists series.
@@ -92,5 +94,3 @@ So hopefully this shows you how you can draw some shapes and have them be on the
 So for example, if I come up here I can type fill and then I can type 255 comma 56 comma 23. RGB values and suddenly all my shapes are filled with red, and remember this fill color is now set all the way down so all of them get that fill color. If I copy this and I put it down here under this strokeWeight and then I change this one to 256 now I have some yellow shapes as well. I can do this one more time and just have the triangle be a different color. It will almost be white as it's all filled in. We'll make this 55 so it has a bit of a different color. So you can change the fill of the colors and you can do the same thing with the stroke. So if I come here and I type stroke, now all the strokes are blue and the same thing occurs. We need to change that stroke.
 
 Slong the way we'll talk about how to add variables how to have these strokes and colors change over time as well as the positions. So go ahead and try to play around with the shapes. Try to draw a picture. Try to move things around and be creative with them. Happy programming.
-
-[![p5.js primitive shapes](./attachments/p5-js-primitive-shapes-thumb.png)](./attachments/p5-js-primitive-shapes-thumb.png)

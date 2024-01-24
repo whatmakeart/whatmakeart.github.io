@@ -1,7 +1,7 @@
 ---
 title: p5.js Web Editor Basics
 date: 2024-01-10T13:48:17
-lastmod: 2024-01-17T03:48:50
+lastmod: 2024-01-24T15:07:02
 tags:
   - p5.js
   - coding
@@ -43,6 +43,8 @@ p5.js is a fantastic library that combines the power of programming with the bea
 
 p5.js really opens up a world of creative possibilities through programming. It's a platform where art and code meet, allowing you to express your creativity in unique ways. Enjoy exploring, and happy programming!
 
+[![p5.js Web Editor Tutorial](./attachments/p5js-web-editor-thumb.jpg)](./attachments/p5js-web-editor-thumb.jpg)
+
 ## P5.js Web Editor Basics Video Transcript
 
 In this programming for artist tutorial I'm going to show you the basics of how to use the p5.js web editor. The p5js web editor is really great because you can get started with creative coding with just a web browser and internet access.
@@ -66,5 +68,3 @@ Remember that if mouseIsPressed? So let's go ... Now it seems like it's the same
 Now let's say we want to share this sketch with all of our friends? What we can do is we can go to file - save and then we can go to file - share. And there's a few different ways that you can share. You can embed this in an iframe so you can embed this on your website. You can make it full screen or you can go to the editor. So let's click on full screen and then right here we have this in the browser. So you can copy this URL and then you can see the sketch as well. I'm going to put this URL in the description of the video.
 
 So hopefully you can use the p5.js Web Editor to start coding in p5.js. Happy programming.
-
-[![p5.js Web Editor Tutorial](./attachments/p5js-web-editor-thumb.jpg)](./attachments/p5js-web-editor-thumb.jpg)

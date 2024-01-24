@@ -1,7 +1,7 @@
 ---
 title: 02.02 Local p5.js Project
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-24T15:01:23
+lastmod: 2024-01-24T15:08:43
 ---
 
 ## What is a p5.js Web application?
@@ -21,10 +21,6 @@ To use p5.js, it needs to be included, or added to the HTML file of the webpage.
 We will cover how to [install and use p5.js](../../../../coding/p5js/setup-local-p5-js-project.md) and other libraries more in depth later in the course, but for now know there are two ways to "install" the library. You can use an online version and link to it or you can use a downloaded version and host it on a local or remote server. You can download the library from the [p5.js website](https://p5js.org/download/). Since p5.js is a popular library, you can also link to a hosted version of the library on a CDN, or Content Delivery Network. This is a list of [p5.js CDN links](https://cdnjs.com/libraries/p5.js).
 
 [How to setup p5.js local project](../../../../coding/p5js/setup-local-p5-js-project.md)
-
-### Clone p5.js project template from CL
-
-`gh repo create my-new-p5-project-repo --public --clone --template whatmakeart/p5-project-template`
 
 ## Git Resources
 

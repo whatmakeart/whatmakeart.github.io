@@ -1,7 +1,7 @@
 ---
 title: p5.js Conditional Statement Ball Bounce
 date: 2024-01-24T05:13:57
-lastmod: 2024-01-24T07:39:06
+lastmod: 2024-01-24T15:06:25
 ---
 
 <div class="iframe-16-9-container">
@@ -19,6 +19,8 @@ We also introduce a `ballSize` variable to control the size of the ball and ensu
 To make the program more dynamic, the speed variables can be set to different values or even randomized to create varied motion patterns. Additional features, such as color changes upon bouncing, can be added to enhance the visual effect.
 
 The key takeaway from this tutorial is the use of variables and conditional statements to control and modify the motion of graphical elements on the screen. By adjusting variables like position (`x`, `y`), speed (`speedX`, `speedY`), and size (`ballSize`), and using conditional checks, you can create rich, interactive animations. This approach is fundamental in programming for artists, enabling creative exploration through code.
+
+[![if OR conditional ball bounce javascript p5.js](./attachments/if-or-conditional-ball-bounce-thumb.jpg)](./attachments/if-or-conditional-ball-bounce-thumb.jpg)
 
 ## p5.js Ball Bounce Video Transcript
 
@@ -58,5 +60,3 @@ But we'll talk about random and ways of getting variability in our program later
 So it runs once and it tells it that. But then we could have fill here and it'll be the same, except then we could have random. And now each time it hits on the X, we're going to get a different color. So see if you can control that with more deliberate actions. And we'll talk about the random function a little bit more in another video. But this is a great example of how to use conditionals to be able to have your ball bounce around the screen and use this logical statement here of multiplying by negative one. So it flips the direction or the sign of the variable.
 
 Happy programming.
-
-[![if OR conditional ball bounce javascript p5.js](./attachments/if-or-conditional-ball-bounce-thumb.jpg)](./attachments/if-or-conditional-ball-bounce-thumb.jpg)

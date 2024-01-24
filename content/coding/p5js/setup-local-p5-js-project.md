@@ -1,7 +1,7 @@
 ---
 title: Setup Local p5.js Project
 date: 2024-01-11T11:08:20
-lastmod: 2024-01-17T03:48:50
+lastmod: 2024-01-24T15:07:28
 tags:
   - p5.js
   - coding
@@ -60,6 +60,8 @@ Now your p5.js project template is set up. You can start programming in p5.js, a
 
 This setup ensures that you have a robust and flexible development environment for your p5.js projects, with the ability to work offline, manage versions through Git, and easily test and deploy your projects.
 
+[![Setup p5.js Local Project](./attachments/setup-p5-js-local-project-thumb.jpg)](./attachments/setup-p5-js-local-project-thumb.jpg)
+
 ## Setup p5.js Local Project Video Transcript
 
 In this programming for artists tutorial I'm going to show you how you can set up a p5.js project on your local machine. Previously we showed how to use the p5.js online editor and this is a great way to work, but sometimes you want to work on a larger project or just have the files hosted locally on your computer, so then you can upload them to a specific website or customize the project in the way that you see fit.
@@ -87,5 +89,3 @@ We're going to cover more about HTML, CSS, and JavaScript in this course but for
 So now I want to click on Source Control and for my commit message I want to write something descriptive so that I know what happened. I'm going to say "made external stylesheet" then I can commit and then I have a choice to sync the changes to my GitHub repository, and I'll do that. Now I have this synced on my GitHub repository and I'll put a link to that repository in the description so you can download this project template. Of course you can set up your own project templates the way that you want to but this is a great way to do that as well.
 
 Now we're ready to really start programming in p5.js, happy programming.
-
-[![Setup p5.js Local Project](./attachments/setup-p5-js-local-project-thumb.jpg)](./attachments/setup-p5-js-local-project-thumb.jpg)

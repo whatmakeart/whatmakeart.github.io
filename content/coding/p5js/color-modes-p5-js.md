@@ -1,7 +1,7 @@
 ---
 title: Color Modes p5.js
 date: 2024-01-11T06:35:05
-lastmod: 2024-01-17T03:48:50
+lastmod: 2024-01-24T15:06:13
 tags:
   - p5.js
   - coding
@@ -58,6 +58,8 @@ To apply this knowledge in p5.js, start by experimenting with the `rectMode()` a
 
 Remember, p5.js offers a versatile platform for creative coding, and mastering these basics opens up a world of possibilities in digital art and interactive designs.
 
+[![p5.js Color Mode Basics](./attachments/p5-js-color-modes-basic-thumb.png)](./attachments/p5-js-color-modes-basic-thumb.png)
+
 ## Color Modes p5.js Video Transcript
 
 In this programming for artist tutorial I'm going to talk about color, color modes, and shape attributes in p5.js. In the previous video we played around with creating some shapes, some rectangles, triangles, even some quads, and ellipses, and we did a little bit of playing with some of their attributes, and their color. But now we're going to dive a bit more into color, and talk about what it is, and also the way we can modify the attributes of the shape.
@@ -81,5 +83,3 @@ We can also have color modes. Let's go to the reference and right here we can se
 So let's go back to here and we'll copy colorMode right here, and let's replace this colorMode. So it's RGB it stays the same but we could go ahead and replace this to HSB. Now we have a saturation value. Notice that this here is much less saturated so if I make this fully saturated it will be very, very saturated. And then the value of this if I make it 156 it becomes brighter. And then this is a color wheel. It goes all the way around so as we change our hues. I can type in 230 and it moves in a more predictable way. So if I now type in 200 you can see how that changed to a light blue. So it's much easier to cycle through a rainbow of colors than it is with RGB values because then you can just go from 0 to 255 with this. So very often we will use the HSB color mode.
 
 Hopefully that gets you started with using colors and color modes as well as some shape attributes in p5.js. It's important to go back in and explore some more of these options including noFill and noStroke, then you can start to be making more images with p5.js
-
-[![p5.js Color Mode Basics](./attachments/p5-js-color-modes-basic-thumb.png)](./attachments/p5-js-color-modes-basic-thumb.png)
