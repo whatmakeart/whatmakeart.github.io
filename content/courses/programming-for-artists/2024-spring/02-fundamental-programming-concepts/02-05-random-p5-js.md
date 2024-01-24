@@ -1,7 +1,7 @@
 ---
 title: 02.05 Random p5.js
-date: 2024-01-24T14:04:12
-lastmod: 2024-01-24T14:05:10
+date: 2024-01-26T09:30:00
+lastmod: 2024-01-24T15:01:23
 toc: true
 ---
 

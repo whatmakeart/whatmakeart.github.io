@@ -1,7 +1,7 @@
 ---
 title: 02.04 Increment Operator p5.js
-date: 2024-01-19T05:58:31
-lastmod: 2024-01-24T07:42:53
+date: 2024-01-26T09:30:00
+lastmod: 2024-01-24T15:01:23
 toc: true
 ---
 

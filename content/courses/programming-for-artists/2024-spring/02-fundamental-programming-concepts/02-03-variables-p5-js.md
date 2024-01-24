@@ -1,7 +1,7 @@
 ---
 title: 02.03 Variables p5.js
-date: 2024-01-13T06:32:11
-lastmod: 2024-01-24T07:42:31
+date: 2024-01-26T09:30:00
+lastmod: 2024-01-24T15:01:23
 toc: true
 ---
 
