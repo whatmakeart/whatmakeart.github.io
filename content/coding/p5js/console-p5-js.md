@@ -1,7 +1,7 @@
 ---
 title: Console p5.js
 date: 2024-01-22T13:43:23
-lastmod: 2024-01-23T10:11:21
+lastmod: 2024-01-24T07:27:50
 ---
 
 <div class="iframe-16-9-container">
@@ -43,5 +43,3 @@ Watch what happens if I put this createP hello into the draw function. Now it ju
 When we get into more complex programs, we'll be using console.log and print() to debug and get variable values for our programs, but this is just letting you know where the console is and what to do when you get that dreaded error message.
 
 Happy programming.
-
-[![p5.js console video thumbnail](./console-p5-js.md)(./console-p5-js.md)]

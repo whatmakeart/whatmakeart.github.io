@@ -1,7 +1,7 @@
 ---
 title: p5.js Conditional Statement Ball Bounce
 date: 2024-01-24T05:13:57
-lastmod: 2024-01-24T05:55:14
+lastmod: 2024-01-24T07:10:33
 ---
 
 <div class="iframe-16-9-container">
@@ -59,4 +59,4 @@ So it runs once and it tells it that. But then we could have fill here and it'll
 
 Happy programming.
 
-[![if OR conditional ball bounce javascript p5.js](./attachments/if-or-conditional-ball-bounce-thumb.jpg)(./attachments/if-or-conditional-ball-bounce-thumb.jpg]
+[![if OR conditional ball bounce javascript p5.js](./attachments/if-or-conditional-ball-bounce-thumb.jpg)](./attachments/if-or-conditional-ball-bounce-thumb.jpg)

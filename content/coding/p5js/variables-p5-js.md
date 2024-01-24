@@ -1,7 +1,7 @@
 ---
 title: Variables p5.js
 date: 2024-01-23T05:59:09
-lastmod: 2024-01-24T05:49:24
+lastmod: 2024-01-24T07:11:30
 ---
 
 <div class="iframe-16-9-container">
@@ -105,7 +105,7 @@ Learn more about these built in variables in the [p5.js Reference](https://p5js.
 
 Global variables are available to any part of the program. Local variables are only available in the function or method that they were declared in. When starting out it is simpler to use global variables by declaring variables at the top of a program or sketch.
 
-[![p5.js Variables](./attachments/p5-js-variables-thumb.jpg)(./attachments/p5-js-variables-thumb.jpg)]
+[![p5.js Variables](./attachments/p5-js-variables-thumb.jpg)](./attachments/p5-js-variables-thumb.jpg)
 
 ## References
 
