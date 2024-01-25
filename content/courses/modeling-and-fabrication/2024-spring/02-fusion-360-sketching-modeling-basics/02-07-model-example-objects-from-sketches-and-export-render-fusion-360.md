@@ -1,7 +1,7 @@
 ---
 title: "02.07 Model Example Objects from Sketches in Fusion 360"
 date: 2024-01-25T12:00:00Z
-lastmod: 2024-01-25T05:12:46
+lastmod: 2024-01-25T06:41:29
 ---
 
 ## Assignment Deliverables
@@ -9,7 +9,7 @@ lastmod: 2024-01-25T05:12:46
 Upload the following:
 
 - 1 high resolution, labeled render image (1:1, 4:3, 16:9 aspect ratio, 4000px minimum largest side)
-- 1 exported Fusion 360 .f3d file
+- 1 exported Fusion 360 .f3d file [How to export .f3d File](../../../../3d-modeling/fusion-360/fusion-360-export-f3d-file.md)
 
 Label your files:
 
