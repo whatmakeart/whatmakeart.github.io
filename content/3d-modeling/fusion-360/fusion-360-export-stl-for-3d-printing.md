@@ -2,7 +2,9 @@
 date: 2021-02-03T8:30:00-04:00
 description: "Export STL File From Fusion 360"
 featured_image: "/3d-modeling/fusion-360/attachments/Fusion 360 Export STL for 3D Printing Title.jpg"
-tags: ["Fusion 360"]
+tags:
+  - Fusion 360
+  - 3D Printing
 title: "Export STL File From Fusion 360"
 ---
 

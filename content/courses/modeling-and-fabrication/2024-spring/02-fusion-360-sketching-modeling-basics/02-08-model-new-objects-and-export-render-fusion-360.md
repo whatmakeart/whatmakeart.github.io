@@ -1,7 +1,7 @@
 ---
 title: "02.08 Model Objects in Fusion 360 and Export Render Images"
-date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+date: 2024-01-25T12:00:00Z
+lastmod: 2024-01-25T05:12:53
 ---
 
 ## Assignment Deliverables

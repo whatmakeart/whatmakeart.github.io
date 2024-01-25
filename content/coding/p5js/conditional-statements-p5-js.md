@@ -1,7 +1,7 @@
 ---
 title: p5.js Conditional Statements
 date: 2024-01-24T05:16:23
-lastmod: 2024-01-24T10:07:45
+lastmod: 2024-01-25T05:03:39
 ---
 
 <div class="iframe-16-9-container">
@@ -45,7 +45,9 @@ You can check multiple conditions in a single statement. For example, "If the st
 
 In a conditional statement there can only be a single `if` and a single `else`. So how can I check if there is pizza, and then if there isn't pizza check if there are sandwiches, and if there aren't sandwiches check if there is ice cream, and if thee isn't ice cream, check if there is sushi, and then finally "otherwise" stay hungry? For multiple conditional checks in a single statement `else if` is used.
 
-\_Note: Once any `if` or `else if` evaluates to `TRUE` then the program will jump out of the conditional statement, even if later the next `else if` becomes true. For example, maybe the store was originally out of ice cream but has lots of sandwiches. So the program keeps buying sandwiches. Then there is an ice cream delivery but the store still has lots of sandwiches in stock. If the "sandwiches `else if`" is before the "ice cream `else if`" then the program will always stop at sandwiches unless the store sells out.
+_Note: Once any `if` or `else if` evaluates to `TRUE` then the program will jump out of the conditional statement, even if later the next `else if` becomes true._
+
+For example, maybe the store was originally out of ice cream but has lots of sandwiches. So the program keeps buying sandwiches. Then there is an ice cream delivery but the store still has lots of sandwiches in stock. If the "sandwiches `else if`" is before the "ice cream `else if`" then the program will always stop at sandwiches unless the store sells out.
 
 ### Additional Evaluations with Boolean Variables and ! Not
 

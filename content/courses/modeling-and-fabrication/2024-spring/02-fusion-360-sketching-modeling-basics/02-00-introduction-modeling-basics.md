@@ -1,16 +1,16 @@
 ---
 title: "02.00 Introduction to Modeling Basics"
-date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+date: 2024-01-25T12:00:00Z
+lastmod: 2024-01-25T05:12:19
 ---
 
 ## Overview
 
-This module covers how to use technical sketching to create 3D Models in Fusion 360. It shows how to use Fusion 360 to 3D model objects from sketches and how to use sketch constraints in Fusion 360. You will learn about Rule #1 and some best practices in parametric 3D modeling as you continue to explore and learn Fusion 360. You will also export renders of your 3D models with realistic materials applied.
+This module covers how to use the information from technical sketches to create 3D Models in Fusion 360. It shows how to use Fusion 360 to 3D model objects from sketches and how to use sketch constraints in Fusion 360. You will learn about Rule #1 and some best practices in parametric 3D modeling as you continue to explore and learn Fusion 360. You will also export renders of your 3D models with realistic materials applied.
 
 ## Learning Outcomes
 
-- Use third angle projections to make 3D Digital Models of everyday objects
+- Use third angle projection drawings to make 3D Digital Models of everyday objects
 - Use Fusion 360 sketch constraints
 - Organize 3D model with components and bodies
 - Apply materials to 3D Models in Fusion 360
@@ -21,7 +21,7 @@ This module covers how to use technical sketching to create 3D Models in Fusion 
 
 - Extrude
 - Loft
-- Revolve
+- [Revolve](../../../../3d-modeling/fusion-360/fusion-360-revolve-tool.md)
 - Sweep
 - Sketch (in context of Fusion 360)
 - [Sketch Constraints](../../../../3d-modeling/fusion-360/fusion-360-sketch-constraints.md)

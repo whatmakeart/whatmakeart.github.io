@@ -1,7 +1,9 @@
 ---
 title: Fusion 360 Sketch Constraints
 date: 2023-06-13T14:40:45
-lastmod: 2023-09-07T20:31:16
+lastmod: 2024-01-25T05:33:11
+tags:
+  - Fusion 360
 ---
 
 ## Fusion 360 Sketch Constraints

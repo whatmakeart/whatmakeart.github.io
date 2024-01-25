@@ -1,7 +1,9 @@
 ---
 title: Fusion 360 FAQ
 date: 2023-06-15T15:27:02
-lastmod: 2023-10-03T04:11:03
+lastmod: 2024-01-25T05:33:11
+tags:
+  - Fusion 360
 ---
 
 ## Introduction

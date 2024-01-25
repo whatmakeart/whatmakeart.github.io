@@ -1,7 +1,9 @@
 ---
 title: Fusion 360 Fix Design Timeline Errors
 date: 2023-06-14T05:56:18
-lastmod: 2023-09-07T20:30:37
+lastmod: 2024-01-25T05:33:11
+tags:
+  - Fusion 360
 ---
 
 Even with the most careful approach to 3D modeling, errors are bound to happen. Most errors and warnings can be fixed. In the design timeline, yellow indicates a warning. This means that Fusion 360 is missing some information but it remembers what the information probably is and makes its best guess so the model keeps working. These should be inspected and fixed. Often the order of operations is the cause of the problem or perhaps a plane changed shape so an extrusion doesn't know what profile to select. Right clicking on the highlighted feature on the timeline will give more information about what the problem is.

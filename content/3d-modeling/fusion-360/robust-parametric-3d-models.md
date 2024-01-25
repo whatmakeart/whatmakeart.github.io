@@ -1,7 +1,9 @@
 ---
 title: Robust Parametric 3D Models
 date: 2023-06-14T13:23:31
-lastmod: 2024-01-18T05:40:05
+lastmod: 2024-01-25T05:33:11
+tags:
+  - Fusion 360
 ---
 
 ## Robust Parametric Modeling

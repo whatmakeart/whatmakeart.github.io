@@ -1,14 +1,18 @@
 ---
 title: Fusion 360 Basic Creation Tools
 date: 2023-06-13T14:13:56
-lastmod: 2023-09-07T20:29:16
+lastmod: 2024-01-25T05:33:11
+tags:
+  - Fusion 360
 ---
 
 ## Polygon Primitives and Shapes
 
 [Fusion 360](fusion-360.md) allows you to create fast polygon primitives of specific sizes easily. You can create a box, cylinder, sphere, torus, coil, or a pipe. To create any of these forms usually involves an initial click to define the starting surface or point, then a drag to set the first dimensions, a manipulation of parameters and then a confirmation of your choices. If you hover over most tools with your cursor in Fusion 360 it provides as brief description of what the tool does and how to use it.
 
-When creating a new shape it defaults to a new body but you can also create a new component. If there are existing shapes in the model and you create a new form, then there are options for joining, cutting, intersect, as well as new body and new component.
+When creating a new shape it defaults to a new body but you can also create a new component. Often it is helpful to create a new component to represent a part of your model or assembly as a first step, known as [Rule #1](./fusion-360-rule-number-one.md) in Fusion 360. If there are existing shapes in the model when you create a new form, then there are options for joining, cutting, intersect, as well as new body and new component.
+
+### Creating New Forms
 
 - **Join** - Adds the new body onto existing geometry to make a single more complex body.
 - **Cut** - Uses the new body as a cutting tool to remove any place that it overlaps an existing body. The part to be cut is shown in red.
@@ -17,7 +21,7 @@ When creating a new shape it defaults to a new body but you can also create a ne
 - **New Component** - Creates a new component with the newly created body as part of that component.
 - [Join, Cut, Intersect Video Demo](https://youtu.be/iLr9d8Gp7Ls)
 
-Relatively complex and detailed forms can be made through the combination of new primitive shapes and the use of joining, cutting and intersecting. It is not wrong to 3D model using only these tools but once the idea goes beyond simple designs there are more efficient, easier, and better ways to model.
+Without any additional knowledge of Fusion 360, relatively complex and detailed forms can be made through the combination of new primitive shapes and the use of joining, cutting and intersecting. It is not wrong to 3D model using only these tools, but once the idea goes beyond simple designs there are more efficient, easier, and better ways to create a 3D model.
 
 ## Basic Creation Tools
 
@@ -34,7 +38,7 @@ Additional creation tools help make more complex forms and designs. The basic cr
 
 ## Additional Creation Tools
 
-Fusion 360 offers many more tools including pattern making tools, thickening tools, boundary fill tools, tools for creating printed circuit boards, and many more. We will examine additional tools and methods of modeling later in the course.
+Fusion 360 offers many more tools including [pattern making tools](./fusion-360-basic-pattern-tools.md), thickening tools, boundary fill tools, tools for creating printed circuit boards, and many more.
 
 ## Fusion 360 Basic Creation Tools Example Videos
 
@@ -44,15 +48,15 @@ Fusion 360 offers many more tools including pattern making tools, thickening too
 
 ### 1. Revolve Tool
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/VzossdZbGtk?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/VzossdZbGtk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="video-card">
 
-### 2. Loft Tool
+### 2. Loft Tool with Rails
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/OTBZuSGG6bc?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/OTBZuSGG6bc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -60,7 +64,7 @@ Fusion 360 offers many more tools including pattern making tools, thickening too
 
 ### 3. Mirror Tool
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/vwCUjtsghdI?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/vwCUjtsghdI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -68,7 +72,7 @@ Fusion 360 offers many more tools including pattern making tools, thickening too
 
 ### 4. Join, Cut, Intersect
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/iLr9d8Gp7Ls?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/iLr9d8Gp7Ls?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 

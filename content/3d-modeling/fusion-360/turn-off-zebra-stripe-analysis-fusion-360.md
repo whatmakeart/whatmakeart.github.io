@@ -14,7 +14,7 @@ Can't turn off zebra analysis in Fusion 360? How to remove zebra stripes in Fusi
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/xGk4xBtBt2g?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-## Transcript
+## Turn Off Zebra Strip Analysis Fusion 360 Video Transcript
 
 In this Autodesk Fusion 360 tutorial I’m going to show you how you can turn on and off zebra stripe curvature analysis.
 

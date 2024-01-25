@@ -1,7 +1,9 @@
 ---
 title: Fusion 360 Export Laser Cut Toolpaths to DXF
 date: 2023-06-14T12:58:56
-lastmod: 2023-09-07T20:30:28
+lastmod: 2024-01-25T05:33:11
+tags:
+  - Fusion 360
 ---
 
 ## Create Toolpaths in the Manufacture Workspace

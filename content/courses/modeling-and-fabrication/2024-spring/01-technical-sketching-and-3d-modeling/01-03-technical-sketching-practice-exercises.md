@@ -1,7 +1,7 @@
 ---
 title: "01.03 Technical Sketching Assignment"
-date: 2024-01-18T09:00:00Z
-lastmod: 2024-01-19T05:52:01
+date: 2024-01-18T12:00:00Z
+lastmod: 2024-01-25T05:12:19
 ---
 
 ## Assignment Deliverables

@@ -1,7 +1,9 @@
 ---
 title: Fusion 360 User Interface
 date: 2023-06-14T12:21:53
-lastmod: 2023-11-27T11:48:43
+lastmod: 2024-01-25T05:33:11
+tags:
+  - Fusion 360
 ---
 
 Watch the video about the [Fusion 360 user interface](https://youtu.be/YjaxBbTY3kc). It explains how Fusion 360 works with project files. It also shows how to navigate in 3D space with your three button mouse. Fusion 360 is a [parametric modeling](../parametric-modeling.md) program and therefore has a design history timeline with all of the features of your 3D model. This video gives you the information that you need to get started with the basics in Fusion 360. The [Fusion 360 FAQ](./fusion-360-faq.md) has answers to common questions.
