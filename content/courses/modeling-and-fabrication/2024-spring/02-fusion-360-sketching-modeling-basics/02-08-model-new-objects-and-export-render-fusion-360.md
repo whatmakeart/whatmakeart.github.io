@@ -1,7 +1,7 @@
 ---
 title: "02.08 Model Objects in Fusion 360 and Export Render Images"
 date: 2024-01-25T12:00:00Z
-lastmod: 2024-01-25T06:48:10
+lastmod: 2024-01-25T14:33:05
 ---
 
 ## Assignment Deliverables
@@ -18,7 +18,7 @@ Label your files:
 
 ## Overview
 
-Now that you have modeled a complete model from on of the example modeling exercises, you will do your best to model one of your objects from your third angle projection.
+Now that you have modeled a complete model from on of the example modeling exercises, you will do your best to model one of your objects from your third angle projection. Or, if you don't like the object in your third angle projection, you can choose a different object, make a quick third angle projection with dimensions and then model that object.
 
 There is no "right" way to model your object. Try to think of the main shapes. Break those down into pieces and then model the main form. Add details after you get the main forms. Look at the example videos to see different techniques and approaches to modeling simple objects.
 

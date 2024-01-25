@@ -1,7 +1,7 @@
 ---
 title: "02.07 Model Example Objects from Sketches in Fusion 360"
 date: 2024-01-25T12:00:00Z
-lastmod: 2024-01-25T06:41:29
+lastmod: 2024-01-25T14:33:17
 ---
 
 ## Assignment Deliverables
@@ -18,7 +18,7 @@ Label your files:
 
 ## Instructions
 
-Choose 1 of the example objects from the demo videos. The choice is up to you. Follow along and make the 3D model using the techniques in the video. Then make a render and upload it with the exported .f3d file of the model from Fusion 360. You can put any materials you want on the models but should try your best to make them the same size and shape.
+Choose 1 of the example objects from the demo videos. The choice is up to you. Follow along and make the 3D model using the techniques in the video. Then make a render and upload it with the exported .f3d file of the model from Fusion 360. You can put any materials you want on the models to make interesting renders, but should try your best to make them the same size and shape.
 
 ## Fusion 360 Example Modeling Videos
 
