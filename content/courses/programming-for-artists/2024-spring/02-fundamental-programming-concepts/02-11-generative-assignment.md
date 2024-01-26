@@ -1,7 +1,7 @@
 ---
 title: 02.11 Basic Generative Assignment
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-26T13:26:45
+lastmod: 2024-01-26T13:36:33
 ---
 
 ## Assignment Deliverables
@@ -27,17 +27,18 @@ You are expected to work for 4.5 hours each week outside of class, so for this p
 
 - **~30 minutes** to setup your project files and repository _(this will start to go quicker as you do it more often)_
 - **~30 minutes** of ideation and looking at examples for inspiration
-- **~3 hours** of coding, trying, experimenting, reas
+- **~3 hours** of trying, experimenting, researching, and coding
+- **~30 minutes** Double check your files, publish your repository / sketch, and upload URL to Canvas
 
 ### Assignment Instructions
 
 1. Make a new GitHub Repository for your assignment.
    - You can make the repository on Github.com and then clone it into your local development environment.
-   - You can make a new folder on your local computer and then "initialize" the repository in your local development environment before pushing it to GitHub.
+   - You can make a new folder on your local computer and then "initialize" the repository in your local development environment before pushing it to GitHub. [How to publish a repository to GitHub from your local computer](../../../../coding/publish-github-branch-from-visual-studio-code.md)
 2. What goes in the repository?
    - You need a `index.html` a `sketch.js` and a `styles.css`
-   - There is a downloadable "complete project" from p5.js.com
-   - This is a clonable template repository set up with directories for the JavaScript and CSS files
+   - There is a downloadable "[complete project](https://p5js.org/download/)" from p5.js.com
+   - This is a [clonable template repository](https://github.com/whatmakeart/p5-project-template) set up with directories for the JavaScript and CSS files [How to clone a GitHub Template Repository](../../../../coding/clone-github-template-repository.md)
 3. Edit the `sketch.js` file with new code that meets the assignment requirements.
 4. Use the Live Preview feature of your code editor to check your work.
 5. When you are happy with your project, save it and make sure that you commit your changes.
