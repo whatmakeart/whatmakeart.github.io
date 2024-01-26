@@ -1,59 +1,47 @@
 ---
-title: Increment Operator
+title: Increment Operator ++ p5.js
 date: 2024-01-23T19:39:40
-lastmod: 2024-01-24T14:56:32
+lastmod: 2024-01-26T04:45:31
 ---
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/INFysCfC7jE?si=Atz_ksVPPAjw9MVh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-In this tutorial we delve into the concept of increment functions, a fundamental aspect of automating tasks in programming.
+Incrementing or decrementing the value of a variable is a fundamental aspect of automating tasks in programming. If the values of variables never changed, then not much would happen in a program.
 
 ## Understanding Increment Functions
 
 ### Basic Concept
 
-- Increment functions are used to automatically update the value of a variable.
-- They are essential for creating dynamic, responsive programs where values change over time or based on certain conditions.
+Increment functions are used to automatically update the value of a variable. Having the variable change values change over time or based on certain conditions can creating dynamic and responsive programs. Increment functions are so integral to coding that they are part of the [JavaScript](../javascript.md) language, not specific to any library like p5.js. Common increment operators in JavaScript include `++`, `--`, `+=`, and `-=`.
 
 ### Use Case in p5.js
 
-- Imagine a sketch with two variables: `let x = 100` and `let y = 100`, used to position an ellipse.
-- Manually changing these variables moves the ellipse, but increment functions can automate this process.
+Imagine a sketch with two variables: `let x = 100` and `let y = 100`, used to position an ellipse. Manually changing these variables moves the ellipse, but increment functions can automate this process. In the `draw()` function of a p5.js sketch, if you write `x = x + 1`, and use the `x` for the x-coordinate of the ellipse, `ellipse(x, y, 50, 50)` then the ellipse's x-coordinate will increase by 1 in each frame, creating movement across the screen. To speed up the movement, increase the increment value, for example, `x = x + 5`.
 
-### Implementing Increment in JavaScript
+Similarly, incrementing `y` (`y = y + 1`) will cause the ellipse to move diagonally since both `x` and `y` are changing.
 
-- Increment functions are so integral to coding that they are part of the JavaScript language, not specific to any library like p5.js.
-- Common increment operators in JavaScript include `++`, `--`, `+=`, and `-=`.
+### Shorthand for Incrementation
 
-## Practical Example in p5.js
+Instead of `x = x + 1`, you can simply use `x++`. This adds 1 to `x` each time the program loops. To increment by a different value, use the `+=` operator, like `x += 3`.
 
-1. **Basic Increment**:
+```javascript
+// Examples of incrementing shorthand
+// these two lines are the same
+x = x + 1;
+x++;
 
-   - In the `draw` function of a p5.js sketch, if you write `x = x + 1`, the ellipse's x-coordinate will increase by 1 in each frame, creating movement across the screen.
-   - To speed up the movement, increase the increment value, e.g., `x = x + 5`.
+// these two lines are the same
+x = x + 3;
+x += 3;
+```
 
-2. **Diagonal Movement**:
-
-   - Similarly, incrementing `y` (`y = y + 1`) will cause the ellipse to move diagonally since both `x` and `y` are changing.
-
-3. **Shorthand for Incrementation**:
-
-   - Instead of `x = x + 1`, you can simply use `x++`. This adds 1 to `x` each time the program loops.
-   - To increment by a different value, use the `+=` operator, like `x += 3`.
-
-4. **Other Operations**:
-   - Increment operators are not limited to addition. You can use `*=`, `/=`, and others for multiplication, division, etc.
+Increment operators are not limited to addition. You can use `*=`, `/=`, and others for multiplication, division, etc.
 
 ## Further Exploration and Conditional Statements
 
-- Try different increment values and operators to see how they affect the movement of graphical elements in your sketch.
-- Understanding these basics opens up a world of possibilities in creative coding.
-- Increment functions are a stepping stone to creating interactive, dynamic art.
-- They are foundational in understanding how to manipulate variables over time, essential for animations and responsive designs.
-
-Incrementation is a powerful tool in programming, especially for artists who want to breathe life into their digital creations. By experimenting with different operators and values, you can create fascinating animations and interactive experiences.
+Incrementation is a powerful tool in programming, especially for breathing life into digital creations. By experimenting with different operators and values, you can create fascinating animations and interactive experiences.
 
 [![Increment Operator](./attachments/increment-variable-thumb.jpg)](./attachments/increment-variable-thumb.jpg)
 
@@ -70,3 +58,7 @@ So if I go back to the web editor and here in the draw function I have my X and 
 Of course I could write a different value, so I could write a value of three. There's got to be a shorthand way of writing that increment operator in JavaScript. So if I delete the Y and then replace it with += then we get += 3 it's not that much shorter but it definitely saves some writing and we can also do this with multiplication. So we could put a multiplication here and it's going to go very quickly or we can do other operations as well.
 
 So the incrementation feature is very helpful in programming. I'll put this back to y++ so now we're going at an angle. Hopefully you can use incrementation operators and check the JavaScript documentation to see the different things that you can do. So there's many different examples of how we can go through and increment our things in JavaScript. Next we're going to go ahead and examine some conditional statements so we can make the ball do different things. For example maybe when it gets down to the bottom of the screen we'll have it come back the other way. Happy programming.
+
+```
+
+```

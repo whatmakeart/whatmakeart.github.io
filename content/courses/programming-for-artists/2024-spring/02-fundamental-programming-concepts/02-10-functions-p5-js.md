@@ -1,7 +1,7 @@
 ---
 title: 02.08 Functions p5.js
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-24T15:01:23
+lastmod: 2024-01-26T05:07:59
 ---
 
 ## Functions
@@ -10,6 +10,24 @@ There are built in functions in p5.js. `background(220);` is a built in function
 
 ### Defining Functions
 
+```javascript
+// defining a function
+
+function myFunction() {
+  console.log("Functions are rad.");
+}
+```
+
 ### Calling Functions
 
+```javascript
+// calling a function
+
+myFunction();
+```
+
 ## Organizing Code with Modular Functions
+
+```
+
+```

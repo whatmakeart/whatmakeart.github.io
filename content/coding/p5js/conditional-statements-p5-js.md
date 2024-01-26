@@ -1,7 +1,7 @@
 ---
 title: p5.js Conditional Statements
 date: 2024-01-24T05:16:23
-lastmod: 2024-01-25T05:03:39
+lastmod: 2024-01-26T05:05:34
 ---
 
 <div class="iframe-16-9-container">
@@ -49,6 +49,38 @@ _Note: Once any `if` or `else if` evaluates to `TRUE` then the program will jump
 
 For example, maybe the store was originally out of ice cream but has lots of sandwiches. So the program keeps buying sandwiches. Then there is an ice cream delivery but the store still has lots of sandwiches in stock. If the "sandwiches `else if`" is before the "ice cream `else if`" then the program will always stop at sandwiches unless the store sells out.
 
+## Conditional Statement Code Example
+
+[Code example](https://editor.p5js.org/whatmakeart/sketches/7ASLZOIph) in the p5.js web editor.
+
+```javascript
+// conditional statements example
+// https://editor.p5js.org/whatmakeart/sketches/7ASLZOIph
+
+let x = 200;
+let y = 100;
+let a = 34;
+
+function setup() {
+  createCanvas(700, 600);
+}
+
+function draw() {
+  background(220);
+  fill(31, 145, 87);
+  ellipse(x, y, 100, 100);
+  x++;
+  y++;
+  a--;
+
+  if (x < width) {
+    console.log("ball on screen");
+  } else {
+    console.log("ball off screen");
+  }
+}
+```
+
 ### Additional Evaluations with Boolean Variables and ! Not
 
 `and` and `or` allow for multiple conditions to be checked in a single `if` or `else if`
@@ -67,3 +99,19 @@ if (myVariable >= 20 && myVariable <= 86) {
 ```
 
 [![Conditional Statements p5.js](./attachments/if-else-introduction-thumb.jpg)](./attachments/if-else-introduction-thumb.jpg)
+
+## Conditional Statements p5.js Video Transcript
+
+In this programming for artists tutorial we're going to talk about conditional statements, if then. We don't really say the "then" part in the programming, but it's the concept that we need to have, "If this thing happens then that happens maybe, something else happens." So let's talk about why we might want to use this.
+
+So in our previous example we used an incrementation operator in JavaScript to have our ball start moving down, but our ball goes off the screen. We'll talk about how to fix that in a second, but let's talk about how a conditional statement works. We want to have something happen only when a certain condition is met. The syntax for that is relatively straightforward, but it has some more elements to it.
+
+In the p5js reference we can see how this syntax works. We have a variable of a and it's equal to four, so then the if and then we have these parentheses, so this is the condition that is either true or not true. If a is greater than zero then it says console.log positive else console.log negative. So let's try that. Let's go ahead and just copy this code straight from the p5.js reference, and that's generally a great thing to do to learn. Then if we go back to our code and we paste this in the draw function and then we run our code we're going to see that in the console, it's just constantly logging positive, because a is always greater than zero.
+
+What if I move this variable declaration. So I'm going to cut it then I'm going to put it up here at the top so now it's a global variable. If it's in the draw function it's a local variable. And then in the draw function I'm going to go ahead and say a minus minus so now if I stop the program and I restart it we'll see that it was positive for three times, three times through the program and then it became negative. If I stop this again then and I make a a larger number, let's say 34, and then I press play we see that it stayed positive for a while, then it went negative.
+
+This is a way that the program can change based on the conditions. So that's why we call them conditional statements. So what if we change this to a different thing what if we say if x is less than width remember width is a variable that's in p5.js. We can say ball on screen and then we can say else ball off screen. Let's see what happens here.
+
+So we're have the ball on the screen and then when the ball goes off the screen. Suddenly the ball is off the screen. So using console logs is a great way to debug your program before you have to put all the function in there. So we're going to talk about how we can use a conditional like this to make our program move the ball back but this is the first thing that we need to know just how the structure of this conditional works. So we'll investigate more about that and actually putting in some logic of how to get the ball back.
+
+Happy programming.

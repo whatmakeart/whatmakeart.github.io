@@ -1,7 +1,7 @@
 ---
 title: "02.07 Model Example Objects from Sketches in Fusion 360"
 date: 2024-01-25T12:00:00Z
-lastmod: 2024-01-25T14:33:17
+lastmod: 2024-01-26T04:30:58
 ---
 
 ## Assignment Deliverables
@@ -78,5 +78,59 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 | Render Exported                                       | 10 points |
 | Render Composition                                    | 10 points |
 | File Management                                       | 10 points |
+
+</div>
+
+## Examples of Fusion 360 Renders of Example Objects
+
+<div class="gallery-grid">
+
+<div class="image-card">
+
+[![Fusion 360 Example 1 with Environment](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-1-with-Environment.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-1-with-Environment.jpg)
+
+Toy Block with Environment
+
+</div>
+
+<div class="image-card">
+
+[![Fusion 360 Example 2 with Custom HDRI](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Custom-HDRI.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Custom-HDRI.jpg)
+
+Drinking Glass with Custom HDRI
+
+</div>
+
+<div class="image-card">
+
+[![Fusion 360 Example 2 with Environment](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Environment.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Environment.jpg)
+
+Drinking Glass with Environment
+
+</div>
+
+<div class="image-card">
+
+[![Fusion 360 Example 2 with Transparent Background](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Transparent-Background.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Transparent-Background.jpg)
+
+Drinking Glass with Transparent Background
+
+</div>
+
+<div class="image-card">
+
+[![Fusion 360 Example 3 with Environment](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Environment.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Environment.jpg)
+
+Binder Clip with Environment
+
+</div>
+
+<div class="image-card">
+
+[![Fusion 360 Example 3 with Transparent Background](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Transparent-Background.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Transparent-Background.jpg)
+
+Binder Clip with Transparent Background
+
+</div>
 
 </div>

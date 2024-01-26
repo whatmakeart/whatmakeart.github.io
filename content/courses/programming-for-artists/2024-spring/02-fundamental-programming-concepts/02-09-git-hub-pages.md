@@ -1,7 +1,7 @@
 ---
 title: 02.09 GitHub Pages
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-24T15:01:23
+lastmod: 2024-01-26T05:21:49
 ---
 
 ## Register Domain from GitHub Student Developer Pack
@@ -20,4 +20,33 @@ GitHub Pages offers a free and convenient way to host static web content for you
 
 What is static web content?
 
+## Setting up GitHub Pages Site
+
+<div class="video-grid">
+
+<div class="video-card">
+
+Setup Visual Studio Code and Git
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIFrame" width="560" height="315" src="fb5stQYgM_Y?si=CQfVYqSeJZphdmmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIFrame" width="560" height="315" src="https://www.youtube.com/embed/FBtehan5DAo?si=zSeszxNXFbwcjVa5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIFrame" width="560" height="315" src="https://www.youtube.com/embed/_WEyoLuuyYo?si=WKsJh2ZaXxrl3TTZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIFrame" width="560" height="315" src="https://www.youtube.com/embed/PZTLD7LvbWw?si=anWmMjzl-A30vw2R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
 ## Additional Web Resources
+
+- [Enforce https on GitHub Pages](https://youtu.be/FBtehan5DAo)
+- [Updated GitHub Student Developer Pack Domain Name](https://youtu.be/PZTLD7LvbWw?si=HUtJkFnpTiXn30rK)

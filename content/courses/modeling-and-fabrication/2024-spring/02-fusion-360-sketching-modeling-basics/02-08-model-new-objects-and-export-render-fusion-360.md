@@ -1,7 +1,7 @@
 ---
 title: "02.08 Model Objects in Fusion 360 and Export Render Images"
 date: 2024-01-25T12:00:00Z
-lastmod: 2024-01-25T14:33:05
+lastmod: 2024-01-26T05:22:01
 ---
 
 ## Assignment Deliverables
@@ -60,60 +60,6 @@ Using your third angle projection sketches, make a model at least one of your ob
 Download the Fusion 360 model files to your computer. (To download a .f3d file you need to go to the file menu and click "...export". Then you can save a .f3d file to your computer.) Upload the .f3d files along with your render image.
 
 .f3d Files are a way to share Fusion models. If you have questions about your model during this assignment or during this course, download your .f3d file and send your questions and .f3d file to your instructor via email.
-
-## Examples of Fusion 360 Renders of Simple Objects
-
-<div class="gallery-grid">
-
-<div class="image-card">
-
-[![Fusion 360 Example 1 with Environment](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-1-with-Environment.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-1-with-Environment.jpg)
-
-Toy Block with Environment
-
-</div>
-
-<div class="image-card">
-
-[![Fusion 360 Example 2 with Custom HDRI](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Custom-HDRI.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Custom-HDRI.jpg)
-
-Drinking Glass with Custom HDRI
-
-</div>
-
-<div class="image-card">
-
-[![Fusion 360 Example 2 with Environment](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Environment.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Environment.jpg)
-
-Drinking Glass with Environment
-
-</div>
-
-<div class="image-card">
-
-[![Fusion 360 Example 2 with Transparent Background](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Transparent-Background.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Transparent-Background.jpg)
-
-Drinking Glass with Transparent Background
-
-</div>
-
-<div class="image-card">
-
-[![Fusion 360 Example 3 with Environment](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Environment.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Environment.jpg)
-
-Binder Clip with Environment
-
-</div>
-
-<div class="image-card">
-
-[![Fusion 360 Example 3 with Transparent Background](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Transparent-Background.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Transparent-Background.jpg)
-
-Binder Clip with Transparent Background
-
-</div>
-
-</div>
 
 ## Grading Rubric
 
