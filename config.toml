@@ -8,7 +8,7 @@ Paginate = 18
 googleAnalytics = "G-S4CF1KSMYD"
 enableRobotsTXT = true
 pluralizelisttitles = false
-buildFuture = true
+buildFuture = true # publish pages with a frontmatter date: in the future
 
 [author]
 name = "Jimmy Kuehnle"
@@ -46,8 +46,8 @@ unsafe = true
       guessSyntax = true
       hl_Lines = ""
       lineNoStart = 1
-      lineNos = true
-      lineNumbersInTable = true
+      lineNos = true # show line numbers in code blocks
+      lineNumbersInTable = false # prevent line numbers from being copied with code
       tabWidth = 4
       noClasses = true
 
