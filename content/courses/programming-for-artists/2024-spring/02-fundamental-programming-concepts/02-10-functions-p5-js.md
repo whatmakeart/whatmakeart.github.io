@@ -1,7 +1,7 @@
 ---
 title: 02.10 Functions p5.js
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-26T05:32:03
+lastmod: 2024-01-26T08:39:31
 ---
 
 ## Functions
@@ -28,6 +28,30 @@ myFunction();
 
 ## Organizing Code with Modular Functions
 
-```
+```javascript
+
+setup(){
+  createCanvas(400,400);
+  background(220);
+}
+
+draw(){
+
+  myFunction();
+  myOtherFunction();
+  noWayAnotherFunction();
+}
+
+function myFunction() {
+  console.log("This is myFunction running.");
+}
+
+function myOtherFunction() {
+  console.log("This is myOtherFunction running.");
+}
+
+function noWayAnotherFunction() {
+  console.log("This is noWayAnotherFunction running.");
+}
 
 ```
