@@ -1,7 +1,7 @@
 ---
-title: 02.08 Functions p5.js
+title: 02.10 Functions p5.js
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-26T05:07:59
+lastmod: 2024-01-26T05:32:03
 ---
 
 ## Functions

@@ -1,7 +1,7 @@
 ---
-title: 02.10 Generative Assignment
+title: 02.11 Generative Assignment
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-24T15:01:23
+lastmod: 2024-01-26T05:32:03
 ---
 
 ## Assignment Deliverables

@@ -1,7 +1,7 @@
 ---
-title: 02.09 GitHub Pages
+title: 02.08 GitHub Pages
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-26T05:21:49
+lastmod: 2024-01-26T05:32:03
 ---
 
 ## Register Domain from GitHub Student Developer Pack
