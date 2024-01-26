@@ -1,7 +1,7 @@
 ---
 title: 02.11 Basic Generative Assignment
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-26T12:45:49
+lastmod: 2024-01-26T13:26:45
 ---
 
 ## Assignment Deliverables
@@ -14,11 +14,20 @@ lastmod: 2024-01-26T12:45:49
 
 - use a minimum of 2 variables [Variables Basics](./02-03-variables-p5-js.md)
 - use an increment operator [Increment Operator Basics](./02-04-increment-operators-p5-js.md)
+- use at least one built in p5.js variable such as `width`, `height`, `windowHeight`, `windowWidth`, `mouseX`, `mouseY`, `mouseIsPressed`
 - use a conditional statement [Conditional Statement Basics](./02-06-conditional-statements-p5-js.md)
 - use the `random()` function at least once [random() Basics](./02-05-random-p5-js.md)
 - have fun and experiment
 
 We used primitive shapes and colors to make images in the previous assignment. Then we published those sketches to the web by saving them as a GitHub Repository and serving them on GitHub Pages. For the most part, those images were static or had basic variability.
+
+**Remember:** We are _learning_ about programming. Be ambitious with your project goals but also be ok when things don't work out. Experiment. See what happens. Ask questions. This is likely the second thing your have ever coded ever, so be easy on yourself.
+
+You are expected to work for 4.5 hours each week outside of class, so for this project an example of how to break up your time could be:
+
+- **~30 minutes** to setup your project files and repository _(this will start to go quicker as you do it more often)_
+- **~30 minutes** of ideation and looking at examples for inspiration
+- **~3 hours** of coding, trying, experimenting, reas
 
 ### Assignment Instructions
 
