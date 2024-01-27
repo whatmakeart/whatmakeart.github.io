@@ -1,7 +1,7 @@
 ---
 title: 00.05 Student Questions
 date: 2024-01-27T10:10:03
-lastmod: 2024-01-27T10:23:11
+lastmod: 2024-01-27T12:28:50
 ---
 
 1. **How can you make the circles that randomly appear on the screen start to disappear after some time like rain drops?**
@@ -93,6 +93,107 @@ function draw() {
 }
 
 // built in p5.js function that updates the canvas size when the user resizes the browser window
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
+```
+
+2. How can we modify the ball bounce example from class to have multiple balls bouncing?
+
+[Link to p5.js Web Editor Example using a Ball class](https://editor.p5js.org/whatmakeart/sketches/36YIBlx3Z)
+
+To make multiple instances of a bouncing ball we can use a class. We will cover classes and objects later in the course but for now remember that each ball has its own characteristics such as its `x` and `y` and `speedX` and `speedY` and color. These characteristics are defined in the class and then kept track of individually in a list or an array.
+
+```javascript
+// modification of ball bounce example from with multiple balls
+// https://editor.p5js.org/whatmakeart/sketches/36YIBlx3Z
+
+// create a Ball class to have multiple independent ball objects
+class Ball {
+  // constructor is like a setup() function for the class
+  constructor(x, y, size, speedX, speedY) {
+    this.x = x;
+    this.y = y;
+    this.size = size;
+    this.speedX = speedX;
+    this.speedY = speedY;
+    this.r = random(255); // initial random red value
+    this.g = random(255); // initial random green value
+    this.b = random(255); // initial random blue value
+    this.a = random(255); // initial random alpha value
+
+    // create a move method / function
+    // in the previous sketch this was x = x + speedX; and y = y + SpeedY;
+    // and both incrementors were in the draw() function in the draw() function
+    // since it is a class the "this" keyword is needed for the variables
+    this.move = function () {
+      this.x = this.x + this.speedX; // could be shortened but left explicit for clarity
+      this.y = this.y + this.speedY; // could be shortened but left explicit for clarity
+
+      if (this.x >= width - this.size / 2 || this.x <= this.size / 2) {
+        // reverses the X speed by multiplying by -1
+        this.speedX = this.speedX * -1; // could be shortened but left explicit for clarity
+        this.changeColor();
+      }
+      if (this.y > height - this.size / 2 || this.y < this.size / 2) {
+        // reverses the Y speed by multiplying by -1
+        this.speedY = this.speedY * -1; // could be shortened but left explicit for clarity
+        this.changeColor();
+      }
+    };
+
+    // create a display method / function for drawing the ellipse / ball
+    this.display = function () {
+      fill(this.r, this.g, this.b, this.a);
+      ellipse(this.x, this.y, this.size, this.size);
+    };
+
+    this.changeColor = function () {
+      this.r = random(255);
+      this.g = random(255);
+      this.b = random(255);
+      this.a = random(255);
+    };
+  }
+}
+
+// create the balls array to hold the Ball objects
+let balls = [];
+
+let numBalls;
+let ballMinSize = 25;
+let ballMaxSize = 50;
+
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  numBalls = random(10, 80); // random number of initial balls created
+  // create the list / array of balls
+  for (let i = 0; i < numBalls; i++) {
+    balls.push(
+      new Ball(
+        random(ballMaxSize, width - ballMaxSize),
+        random(ballMaxSize, height - ballMaxSize),
+        random(ballMinSize, ballMaxSize),
+        random(1, 3),
+        random(1, 3)
+      )
+    );
+  }
+  noStroke();
+  background(random(255), random(255), random(255));
+}
+
+function draw() {
+  //background(0, 150, 100); // You can comment this out for a trail effect
+  for (let i = 0; i < balls.length; i++) {
+    // move is still in the draw function but now is a method from the Ball class working on the [i] object
+    balls[i].move();
+    // display is still in the draw function but now is a method from the Ball class working on the [i] object
+    balls[i].display();
+  }
+}
+
+// built in p5.js window resize function
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
 }
