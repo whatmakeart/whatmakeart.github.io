@@ -1,7 +1,7 @@
 ---
 title: 00.05 Student Questions
 date: 2024-01-27T10:10:03
-lastmod: 2024-01-27T12:28:50
+lastmod: 2024-01-27T12:54:57
 ---
 
 1. **How can you make the circles that randomly appear on the screen start to disappear after some time like rain drops?**
@@ -121,40 +121,40 @@ class Ball {
     this.g = random(255); // initial random green value
     this.b = random(255); // initial random blue value
     this.a = random(255); // initial random alpha value
-
-    // create a move method / function
-    // in the previous sketch this was x = x + speedX; and y = y + SpeedY;
-    // and both incrementors were in the draw() function in the draw() function
-    // since it is a class the "this" keyword is needed for the variables
-    this.move = function () {
-      this.x = this.x + this.speedX; // could be shortened but left explicit for clarity
-      this.y = this.y + this.speedY; // could be shortened but left explicit for clarity
-
-      if (this.x >= width - this.size / 2 || this.x <= this.size / 2) {
-        // reverses the X speed by multiplying by -1
-        this.speedX = this.speedX * -1; // could be shortened but left explicit for clarity
-        this.changeColor();
-      }
-      if (this.y > height - this.size / 2 || this.y < this.size / 2) {
-        // reverses the Y speed by multiplying by -1
-        this.speedY = this.speedY * -1; // could be shortened but left explicit for clarity
-        this.changeColor();
-      }
-    };
-
-    // create a display method / function for drawing the ellipse / ball
-    this.display = function () {
-      fill(this.r, this.g, this.b, this.a);
-      ellipse(this.x, this.y, this.size, this.size);
-    };
-
-    this.changeColor = function () {
-      this.r = random(255);
-      this.g = random(255);
-      this.b = random(255);
-      this.a = random(255);
-    };
   }
+
+  // create a move method / function
+  // in the previous sketch this was x = x + speedX; and y = y + SpeedY;
+  // and both incrementors were in the draw() function in the draw() function
+  // since it is a class the "this" keyword is needed for the variables
+  move() {
+    this.x = this.x + this.speedX; // could be shortened but left explicit for clarity
+    this.y = this.y + this.speedY; // could be shortened but left explicit for clarity
+
+    if (this.x >= width - this.size / 2 || this.x <= this.size / 2) {
+      // reverses the X speed by multiplying by -1
+      this.speedX = this.speedX * -1; // could be shortened but left explicit for clarity
+      this.changeColor(); // same as previous example but now a method of the class
+    }
+    if (this.y > height - this.size / 2 || this.y < this.size / 2) {
+      // reverses the Y speed by multiplying by -1
+      this.speedY = this.speedY * -1; // could be shortened but left explicit for clarity
+      this.changeColor(); // same as previous example but now a method of the class
+    }
+  }
+
+  // create a display method / function for drawing the ellipse / ball
+  display() {
+    fill(this.r, this.g, this.b, this.a); // was previously in the draw function
+    ellipse(this.x, this.y, this.size, this.size); // was previously in the draw function
+  }
+
+  changeColor = function () {
+    this.r = random(255);
+    this.g = random(255);
+    this.b = random(255);
+    this.a = random(255);
+  };
 }
 
 // create the balls array to hold the Ball objects
@@ -179,8 +179,8 @@ function setup() {
       )
     );
   }
-  noStroke();
-  background(random(255), random(255), random(255));
+  noStroke(); // remove the stroke
+  background(random(255), random(255), random(255)); // start with random color background
 }
 
 function draw() {
