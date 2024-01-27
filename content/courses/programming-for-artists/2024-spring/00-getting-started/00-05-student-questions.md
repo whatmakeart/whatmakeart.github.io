@@ -1,7 +1,7 @@
 ---
 title: 00.05 Student Questions
 date: 2024-01-27T10:10:03
-lastmod: 2024-01-27T12:54:57
+lastmod: 2024-01-27T12:55:52
 ---
 
 1. **How can you make the circles that randomly appear on the screen start to disappear after some time like rain drops?**
@@ -149,12 +149,12 @@ class Ball {
     ellipse(this.x, this.y, this.size, this.size); // was previously in the draw function
   }
 
-  changeColor = function () {
+  changeColor() {
     this.r = random(255);
     this.g = random(255);
     this.b = random(255);
     this.a = random(255);
-  };
+  }
 }
 
 // create the balls array to hold the Ball objects
