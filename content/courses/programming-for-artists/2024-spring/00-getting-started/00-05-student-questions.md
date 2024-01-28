@@ -1,10 +1,19 @@
 ---
 title: 00.05 Student Questions
 date: 2024-01-27T10:10:03
-lastmod: 2024-01-27T12:55:52
+lastmod: 2024-01-28T06:27:44
 ---
 
+_Click on questions to expand solution._
+
+## Week 2 Questions
+
+<button class="text-start" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="false" aria-controls="collapse2">
+
 1. **How can you make the circles that randomly appear on the screen start to disappear after some time like rain drops?**
+
+</button>
+<div class="collapse" id="collapse1">
 
 In the first `random()` example, we just filled the p5.js Canvas with more randomly spaced circles or shapes as the `draw()` function looped. Each shape was drawn and then the next ones drawn on top with no way to keep track of the shapes.
 
@@ -98,7 +107,16 @@ function windowResized() {
 }
 ```
 
-2. How can we modify the ball bounce example from class to have multiple balls bouncing?
+</div>
+
+<hr>
+
+<button class="text-start" style="width:100%;" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+
+2. **How can we modify the ball bounce example from class to have multiple balls bouncing?**
+
+</button>
+<div class="collapse" id="collapse2">
 
 [Link to p5.js Web Editor Example using a Ball class](https://editor.p5js.org/whatmakeart/sketches/36YIBlx3Z)
 
@@ -198,3 +216,5 @@ function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
 }
 ```
+
+</div>
