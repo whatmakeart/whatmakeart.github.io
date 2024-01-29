@@ -1,7 +1,7 @@
 ---
 title: 02.08 GitHub Pages
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-26T13:38:41
+lastmod: 2024-01-29T09:54:02
 ---
 
 ## Register Domain from GitHub Student Developer Pack
@@ -35,21 +35,37 @@ Any GitHub repository can be served as a GitHub Pages site. You can specify a sp
 Setup Visual Studio Code and Git
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIFrame" width="560" height="315" src="https://www.youtube.com/embed/fb5stQYgM_Y?si=CQfVYqSeJZphdmmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fb5stQYgM_Y?si=CQfVYqSeJZphdmmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
+<div class="video-card">
+
+Enforce https:// GitHub Pages
+
 <div class="iframe-16-9-container">
-<iframe class="youTubeIFrame" width="560" height="315" src="https://www.youtube.com/embed/FBtehan5DAo?si=zSeszxNXFbwcjVa5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/FBtehan5DAo?si=zSeszxNXFbwcjVa5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+</div>
+
+<div class="video-card">
+
+Visual Studio Code and GitHub
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIFrame" width="560" height="315" src="https://www.youtube.com/embed/_WEyoLuuyYo?si=WKsJh2ZaXxrl3TTZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+</div>
+
+<div class="video-card">
+
+GitHub Student Developer Pack
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIFrame" width="560" height="315" src="https://www.youtube.com/embed/PZTLD7LvbWw?si=anWmMjzl-A30vw2R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/PZTLD7LvbWw?si=anWmMjzl-A30vw2R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+</div>
+
 </div>
 
 ## Additional Web Resources
