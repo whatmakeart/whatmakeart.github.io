@@ -1,7 +1,7 @@
 ---
 title: "03.00 Introduction"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-22T10:14:00
+lastmod: 2024-01-29T15:10:37
 ---
 
 ## Overview
@@ -31,5 +31,3 @@ This module introduces laser cutting as a digital fabrication process. Laser cut
 - clearance or semi loose
 - transition or the exact size
 - interference or press fit
-
-https://github.com/Mike-Veilleux/Fusion360-Plugin-TabJoint-LivingHinge

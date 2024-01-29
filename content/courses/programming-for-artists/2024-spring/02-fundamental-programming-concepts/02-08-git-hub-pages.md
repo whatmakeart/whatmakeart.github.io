@@ -1,7 +1,7 @@
 ---
 title: 02.08 GitHub Pages
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-29T09:54:02
+lastmod: 2024-01-29T10:52:34
 ---
 
 ## Register Domain from GitHub Student Developer Pack
@@ -53,7 +53,7 @@ Enforce https:// GitHub Pages
 Visual Studio Code and GitHub
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIFrame" width="560" height="315" src="https://www.youtube.com/embed/_WEyoLuuyYo?si=WKsJh2ZaXxrl3TTZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/_WEyoLuuyYo?si=WKsJh2ZaXxrl3TTZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 

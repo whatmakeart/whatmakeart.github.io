@@ -1,7 +1,7 @@
 ---
 title: "02.08 Model Objects in Fusion 360 and Export Render Images"
 date: 2024-01-25T12:00:00Z
-lastmod: 2024-01-27T10:23:36
+lastmod: 2024-01-29T15:10:11
 ---
 
 ## Assignment Deliverables
@@ -60,6 +60,22 @@ Using your third angle projection sketches, make a model at least one of your ob
 Download the Fusion 360 model files to your computer. (To download a .f3d file you need to go to the file menu and click "...export". Then you can save a .f3d file to your computer.) Upload the .f3d files along with your render image.
 
 .f3d Files are a way to share Fusion models. If you have questions about your model during this assignment or during this course, download your .f3d file and send your questions and .f3d file to your instructor via email.
+
+## Example Renders
+
+<div class="gallery-grid">
+
+[![Bottle render from Fusion 360](./2024-kuehnle-jimmy-bottle-sample-render.png)](./2024-kuehnle-jimmy-bottle-sample-render.png)
+
+[![Building Brick render from Fusion 360](./2024-kuehnle-jimmy-building-brick-sample-render.png)](./2024-kuehnle-jimmy-building-brick-sample-render.png)
+
+[![Glue bottle sample render from Fusion 360](./2024-kuehnle-jimmy-glue-bottle-sample-render.png)](./2024-kuehnle-jimmy-glue-bottle-sample-render.png)
+
+[![Pencil Sharpener sample render in Fusion 360](./2024-kuehnle-jimmy-pencil-sharpener-sample-render.png)](./2024-kuehnle-jimmy-pencil-sharpener-sample-render.png)
+
+[![Phone sample render in Fusion 360](./2024-kuehnle-jimmy-phone-sample-render.png)](./2024-kuehnle-jimmy-phone-sample-render.png)
+
+</div>
 
 ## Grading Rubric
 
