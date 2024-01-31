@@ -1,7 +1,7 @@
 ---
 title: 03.02 Objects JavaScript
 date: 2024-02-03T09:30:00
-lastmod: 2024-01-31T07:02:00
+lastmod: 2024-01-31T07:15:00
 ---
 
 ```javascript
@@ -22,7 +22,7 @@ let myArray = []; // empty array
 const myObject = {}; // empty object with curly braces
 ```
 
-```javascript
+```js
 // object literal object creation
 // creates a phone1 object with specific properties
 const phone1 = { maker: "Apple", name: "iPhone", model: "85", color: "green" };
@@ -41,9 +41,10 @@ console.log(
 // This phone is a green iPhone 85 made by Apple.
 ```
 
-```javascript
+```js
 // two more object literals
 
+const phone1 = { maker: "Apple", name: "iPhone", model: "85", color: "green" };
 const phone2 = {
   maker: "Samsung",
   name: "Galaxy",
@@ -60,7 +61,7 @@ const phone3 = {
 
 ### Object Constructor Function
 
-```javascript
+```js
 function Phone(maker, name, model, color) {
   this.maker = maker;
   this.name = name;
