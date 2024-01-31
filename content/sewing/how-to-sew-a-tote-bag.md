@@ -1,12 +1,10 @@
 ---
 title: How to Sew a Tote Bag
 date: 2023-11-28T05:54:38
-lastmod: 2023-12-07T20:26:21
+lastmod: 2024-01-31T05:05:56
 ---
 
-# How to Sew a Tote Bag
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/826t3yvck6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/826t3yvck6c?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Tutorial Description
 
@@ -31,4 +29,5 @@ After following these instructions you should have a custom sewn tote bag with a
 
 ## Further Reading
 
-[Sewing](../Sewing/Sewing.md)
+[Sewing](./sewing.md)
+[Garment Construction Basics](./garment-construction-basics.md)

@@ -1,7 +1,7 @@
 ---
 title: 00.02 Course Links
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-24T14:36:12
+lastmod: 2024-01-31T04:29:41
 ---
 
 ## Programming for Artists
@@ -126,3 +126,7 @@ lastmod: 2024-01-24T14:36:12
 
 - [Unity](https://unity.com/)
 - [Unreal](https://www.unrealengine.com/en-US/)
+
+## Coding Articles
+
+- [Line Length Limits](https://knox.codes/posts/line-length-limits)

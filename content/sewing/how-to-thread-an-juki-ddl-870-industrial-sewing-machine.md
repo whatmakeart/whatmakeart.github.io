@@ -69,7 +69,7 @@ To complete this tutorial you should be familiar with basic [Sewing](../Sewing/S
 3. Pull the thread under the tension spring and to the retaining hook.
 4. Close the bobbin case cover.
 
-### Instructions for threading the bobbin case:\*\*
+### Instructions for threading the bobbin case:
 
 1. Open the bobbin case cover.
 2. Pull the thread from the bobbin through the hole in the bobbin case.
@@ -92,7 +92,7 @@ To complete this tutorial you should be familiar with basic [Sewing](../Sewing/S
 12. To make a backtack, sew forward a few stitches and then press the reverse lever to sew backwards.
 13. To remove your fabric, use the knee lever to raise the presser foot and then trim the thread.
 
-## Juki DDL 8700 Tips:\*\*
+## Juki DDL 8700 Tips:
 
 - Make sure that the take-up arm and the needle bar are both in their fully upright position before moving or removing fabric.
 - If you do not have both in the fully upright position and try to remove your fabric, the thread will bind on the rotary hook and you will create problems.
