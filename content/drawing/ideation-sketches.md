@@ -1,7 +1,7 @@
 ---
 title: Ideation Sketches
 date: 2023-06-13T16:11:02
-lastmod: 2024-01-31T20:28:27
+lastmod: 2024-01-31T20:56:56
 ---
 
 ## What is Ideation Sketching?
@@ -22,6 +22,10 @@ Idea iteration is selection a potentially promising idea from the idea generatio
 
 ## Ideation Sketching Guides
 
+### Idea Refinement Through Sketching
+
+After an initial bout of ideation go back through your sketches and see which ones seem promising. Choose five of these ideas and refine them and redraw them larger. Pay attention to showing how the pieces of the stand would go together. Try to draw them as solid things in three-dimensional space on your page. Try to draw a minimum of 3 refined sketch ideas.
+
 Sculpture commissions go through an initial planning phase and design phase. Once those approvals are complete, detailed drawings, contracts, and timelines are agreed upon. Then fabrication of the work begins. The drawings you make should be communicative of all aspects of your project and show how things will go together.
 
 Will you use a screw? Glue? Welding? What sizes? What materials? This will take multiple [technical sketches](./technical-sketching.md) and multiple views. [Third angle projections](./third-angle-projection.md) are an established convention for drawings that communication the form of an object from multiple angles.
@@ -31,6 +35,8 @@ Some sections of a larger drawing may require larger scaled detail drawings. If 
 ### Ideation Sketch Size
 
 How large should ideation sketches be? If done digitally separate your sketches into multiple digital "pages" so that if one page is full screen on a laptop then we would see the same amount of detail if a scanned page of a sketchbook was full-screen on the laptop.
+
+Make sure to draw your refined sketches large enough. The maximum number of refined sketches on a single page (~8.5"x11" sheet) is 2-3 sketches. Any more and they are too small. If you use digital techniques, the maximum number of refined sketches on a single screen size document is 2-3 sketches. Any more and they are too small.
 
 ### Using Artificial Intelligence
 
@@ -54,15 +60,15 @@ Example of [Hepp Maccoy](../artists/hepp-maccoy.md) working out interactive fan 
 
 <div class="gallery-grid">
 
-[![Hepp Maccoy Air Max Day fan layout sketch](./attachments/20180322-air-max-day-sketch-hepp-maccoy-1.jpg)](./attachments/20180322-air-max-day-sketch-hepp-maccoy-1.jpg)
+[![Hepp Maccoy Air Max Day fan layout sketch](./attachments/2018-03-22-air-max-day-sketch-hepp-maccoy-1.jpg)](./attachments/2018-03-22-air-max-day-sketch-hepp-maccoy-1.jpg)
 
-[![Hepp Maccoy Air Max Day fan programming sketch](./attachments/20180322-air-max-day-sketch-hepp-maccoy-2.jpg)](./attachments/20180322-air-max-day-sketch-hepp-maccoy-2.jpg)
+[![Hepp Maccoy Air Max Day fan programming sketch](./attachments/2018-03-22-air-max-day-sketch-hepp-maccoy-2.jpg)](./attachments/2018-03-22-air-max-day-sketch-hepp-maccoy-2.jpg)
 
-[![Hepp Maccoy Air Max Day Power Supply Fabrication](./attachments/20180320-air-max-day-power-supply-fabrication-hepp-maccoy.jpg)](./attachments/20180320-air-max-day-power-supply-fabrication-hepp-maccoy.jpg)
+[![Hepp Maccoy Air Max Day Power Supply Fabrication](./attachments/2018-03-20-air-max-day-power-supply-fabrication-hepp-maccoy.jpg)](./attachments/2018-03-20-air-max-day-power-supply-fabrication-hepp-maccoy.jpg)
 
-[![Hepp Maccoy Air Max Day Power Supply Installation](./attachments/20180320-air-max-day-power-supply-installation-hepp-maccoy.jpg)](./attachments/20180320-air-max-day-power-supply-installation-hepp-maccoy.jpg)
+[![Hepp Maccoy Air Max Day Power Supply Installation](./attachments/2018-03-20-air-max-day-power-supply-installation-hepp-maccoy.jpg)](./attachments/2018-03-20-air-max-day-power-supply-installation-hepp-maccoy.jpg)
 
-[![Hepp Maccoy Air Max Day Fan Wall Installation](./attachments/20180320-air-max-day-fan-wall-installation-hepp-maccoy.jpg)](./attachments/20180320-air-max-day-fan-wall-installation-hepp-maccoy.jpg)
+[![Hepp Maccoy Air Max Day Fan Wall Installation](./attachments/2018-03-20-air-max-day-fan-wall-installation-hepp-maccoy.jpg)](./attachments/2018-03-20-air-max-day-fan-wall-installation-hepp-maccoy.jpg)
 
 <div class="iframe-16-9-container">
 <iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/285928549?h=4cb888d89f" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
@@ -87,5 +93,29 @@ Example of [Hepp Maccoy](../artists/hepp-maccoy.md) working out interactive fan 
 [![Raul Romero Fabrication Sequence](./attachments/2023-Raul-Romero-Fabrication-Sequence-3.jpg)](./attachments/2023-Raul-Romero-Fabrication-Sequence-3.jpg)
 
 [![Raul Romero Fabrication Sequence](./attachments/2023-Raul-Romero-Fabrication-Sequence-4.jpg)](./attachments/2023-Raul-Romero-Fabrication-Sequence-4.jpg)
+
+</div>
+
+### Dragomi Art Car
+
+The [Dragomi Art Car](https://dragomi.org/about/) did not spontaneously come into existence as an extravagant Burning Man electronic experience vehicle. IT started with ideas, sketches, prototyping and a big does of hard work. Even after the first iteration of the "final" art car, each year iterative improvements continued. This project, like so many, is only possible through the collaboration of a team. Thank you to Hepp Maccoy, Peter Trench, Malkohm Horn, Dan Holden, and Benigno Lopez for making Dragomi and sharing it with the world.
+
+<div class="gallery-grid">
+
+[![Making of Dragomi Art Car](./attachments/2015-making-of-dragomi-art-car-sketch.jpg)](./attachments/2015-making-of-dragomi-art-car-sketch.jpg)
+
+[![Making of Dragomi Art Car](./attachments/2015-dragomi-Art-car-concept-image.png)](./attachments/2015-dragomi-Art-car-concept-image.png)
+
+[![Making of Dragomi Art Car](./attachments/2015-making-of-dragomi-art-car-bare-bones.jpg)](./attachments/2015-making-of-dragomi-art-car-bare-bones.jpg)
+
+![Dragomi Art Car Pixel Mapping](./attachments/2019-dragomi-art-car-3D-design-pixel-mapping.png)
+
+[![Dragomi Art Car](./attachments/2018-dragomi-burningman-2018-art-01.jpg)](./attachments/2018-dragomi-burningman-2018-art-01.jpg)
+
+[![Dragomi Art Car](./attachments/2018-dragomi-burningman-2018-art-car-03.jpg)](./attachments/2018-dragomi-burningman-2018-art-car-03.jpg)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" title="vimeo-player" src="https://player.vimeo.com/video/326638229?h=21a4eefcbf" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
 
 </div>

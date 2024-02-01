@@ -1,7 +1,7 @@
 ---
 title: "01.02 Technical Sketching Assignment"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2024-01-31T20:33:46
 ---
 
 ## Assignment Deliverables
@@ -36,7 +36,7 @@ After you have a page of good straight lines, then follow the video to draw an i
 
 </div>
 
-![Freehand Isometric Cube with Circles Example](../../../../drawing/attachments/20220118-Isometric-Cube-with-Circles-Freehand-Example.jpg)
+![Freehand Isometric Cube with Circles Example](../../../../drawing/attachments/2022-01-18-Isometric-Cube-with-Circles-Freehand-Example.jpg)
 
 </div>
 
@@ -48,7 +48,7 @@ Once you finish the freehand isometric cube, draw the same cube on a new sheet o
 
 </div>
 
-![T-Square Isometric Cube with Circles Example](../../../../drawing/attachments/20220118-Isometric-Cube-with-Circles-T-Square-Example.jpg)
+![T-Square Isometric Cube with Circles Example](../../../../drawing/attachments/2022-01-18-Isometric-Cube-with-Circles-T-Square-Example.jpg)
 
 </div>
 
