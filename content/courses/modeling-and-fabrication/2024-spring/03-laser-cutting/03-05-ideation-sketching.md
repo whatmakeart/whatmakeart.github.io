@@ -1,7 +1,7 @@
 ---
-title: "03.02 Ideation Sketching"
+title: "03.05 Ideation Sketching"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-17T04:07:05
+lastmod: 2024-02-01T10:41:08
 toc: true
 ---
 

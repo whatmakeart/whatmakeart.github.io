@@ -11705,6 +11705,12 @@ body.dark {
   height: 0px;
   padding-top: 75%; }
 
+.iframe-letter-size-container {
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-top: 122.22%; }
+
 .youTubeIframe,
 .vimeoIframe,
 .responsiveIframe {

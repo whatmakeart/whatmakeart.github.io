@@ -1,7 +1,7 @@
 ---
-title: "03.04 Laser Cut Design Research"
+title: "03.07 Laser Cut Design Research"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2024-02-01T10:41:08
 ---
 
 # Design Laser Cut Phone / Tablet or Laptop Stand - Design Research
