@@ -1,7 +1,7 @@
 ---
 title: 02.10 Functions p5.js
 date: 2024-01-26T09:30:00
-lastmod: 2024-02-02T12:45:43
+lastmod: 2024-02-02T13:25:25
 ---
 
 ## Functions
@@ -66,7 +66,7 @@ function noWayAnotherFunction() {
 
 ```
 
-## Function Demo
+## Function Parameter Demos
 
 [Function Demo](https://editor.p5js.org/whatmakeart/sketches/XBmTet_rd)
 
@@ -95,5 +95,50 @@ function whoIsBorris(scleraSize, irisSize, scleraColor, irisColor) {
   circle(170, 120, irisSize);
   circle(145, 150, 15);
   console.log("Borris rad.");
+}
+```
+
+## Add and Subtract Function Parameter Demo with Mouse Interaction
+
+[Add and Subtract Function Parameter Demo with Mouse Interaction](https://editor.p5js.org/whatmakeart/sketches/pTLKbwWNp)
+
+```js
+// add and subtract function parameter demo
+// https://editor.p5js.org/whatmakeart/sketches/pTLKbwWNp
+let number1 = 2;
+let number2 = 24;
+let myNumber;
+let operation = "add";
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+}
+
+function jimmysCalculator(a, b, operation) {
+  let result;
+  if (operation === "add") {
+    result = a + b;
+  } else if (operation === "subtract") {
+    result = a - b;
+  }
+  return result;
+}
+
+function mousePressed() {
+  if (mouseButton === LEFT) {
+    operation = "add";
+    console.log("Added " + number2);
+  }
+  if (mouseButton === CENTER) {
+    operation = "subtract";
+    console.log("Subtracted " + number2);
+  }
+  myNumber = jimmysCalculator(number1, number2, operation);
+  number1 = myNumber;
+  console.log(myNumber);
 }
 ```

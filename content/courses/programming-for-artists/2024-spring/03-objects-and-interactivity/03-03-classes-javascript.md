@@ -1,15 +1,18 @@
 ---
 title: 03.03 Classes JavaScript
 date: 2024-02-03T09:30:00
-lastmod: 2024-02-02T13:12:03
+lastmod: 2024-02-02T13:14:20
 ---
 
 Classes in JavaScript are a way to make reusable templates for objects and to clearly define functions/methods for those objects without duplicating everything. There are other ways to achieve the same results in JavaScript without using classes, but classes are a good way to organize your program for readability and reusability.
 
 A class uses a `constructor()` function to define the attributes of an object. After the `constructor()` function, methods can be defined.
 
+[Simple Class Demo](https://editor.p5js.org/whatmakeart/sketches/alPi-5hDW)
+
 ```js
-// define a new class
+// simple class demo
+// https://editor.p5js.org/whatmakeart/sketches/alPi-5hDW
 class Student {
   constructor(name, major) {
     this.name = name;
@@ -33,10 +36,10 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   background(220);
   // Call the class methods
-  student1.showMajor();
   student1.showName();
-  student2.showMajor();
+  student1.showMajor();
   student2.showName();
+  student2.showMajor();
 }
 
 function draw() {}
