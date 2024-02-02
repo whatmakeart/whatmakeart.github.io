@@ -1,7 +1,7 @@
 ---
 title: 02.09 While and For Loops p5.js
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-26T05:32:03
+lastmod: 2024-02-02T12:42:42
 ---
 
 ## Loops
@@ -47,6 +47,35 @@ x++;
 x = x + 75;
 // this can be shorted to
 x += 75;
+```
+
+## For Loop Examples
+
+[Oscillating for loop example](https://editor.p5js.org/whatmakeart/sketches/5sv6ZjTeOv)
+
+```js
+// oscillating for loop example
+// https://editor.p5js.org/whatmakeart/sketches/5sv6ZjTeOv
+
+let m = 0;
+let mDirection = 1;
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  for (let turtle = 0; turtle < 255; turtle++) {
+    console.log("turtle = " + turtle);
+    m = m + mDirection;
+    console.log("m = " + m);
+  }
+
+  if (m > 1500 || m < 0) {
+    mDirection = mDirection * -1;
+  }
+}
 ```
 
 ## Nested Loops

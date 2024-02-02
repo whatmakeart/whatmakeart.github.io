@@ -1,7 +1,7 @@
 ---
 title: 03.02 Objects JavaScript
 date: 2024-02-03T09:30:00
-lastmod: 2024-01-31T07:15:00
+lastmod: 2024-02-02T12:52:12
 ---
 
 ```javascript
@@ -57,9 +57,58 @@ const phone3 = {
   model: "47",
   color: "tangerine",
 };
+
+console.log("This is a " + phone1.name);
+console.log("This is a " + phone2.name);
+console.log("This is a " + phone2.name);
+
+// Console Output
+// This is a iPone
+// This is a Galaxy
+// This is a Pixel
 ```
 
-### Object Constructor Function
+### Object Constructor
+
+```js
+function Phone(maker, name, model, color) {
+  this.maker = maker;
+  this.name = name;
+  this.model = model;
+  this.color = color;
+  this.describePhone = function () {
+    console.log(
+      "This is a " +
+        this.color +
+        " " +
+        this.name +
+        " " +
+        this.model +
+        " made by " +
+        this.maker +
+        "."
+    );
+  };
+}
+
+// Create an instance of Phone
+const phone1 = new Phone("Apple", "iPhone", "85", "green");
+const phone2 = new Phone("Samsung", "Galaxy", "62", "fuchsia");
+const phone3 = new Phone("Google", "Pixel", "47", "tangerine");
+
+console.log("Made by " + phone1.maker);
+console.log("Made by " + phone2.maker);
+console.log("Made by a " + phone2.maker);
+
+// Console Output
+// Made by Apple
+// Made by Samsung
+// Made by Google
+```
+
+## Objects Doing Things
+
+We can add functions, called methods, to objects. This allows the object to do things. In the example below there is a `describePhone` method that prints a message to the console based on the contents of the object.
 
 ```js
 function Phone(maker, name, model, color) {
@@ -95,10 +144,4 @@ phone3.describePhone();
 // This phone is a green iPhone 85 made by Apple.
 // This phone is a fuchsia Galaxy 62 made by Samsung.
 //This phone is a tangerine Pixel 47 made by Google.
-```
-
-## Objects Doing Things
-
-```
-
 ```
