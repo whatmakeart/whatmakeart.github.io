@@ -1,7 +1,7 @@
 ---
 title: 03.01 Arrays Javascript
 date: 2024-02-03T09:30:00
-lastmod: 2024-01-30T05:39:33
+lastmod: 2024-02-02T07:23:11
 ---
 
 ## Arrays
@@ -36,11 +36,15 @@ let myStuff = [9, "wonderful", 6.2, 7, "sneaky"];
 
 Since arrays start counting at `0` it is important to remember which "number" each item in the array is. For example, what is the `[1]` indexed item in the `myStuff` array? It is `wonderful`.
 
+<div class="responsive-table-markdown">
+
 | Array Name | 0   | 1         | 2   | 3   | 4      | 5   |
 | ---------- | --- | --------- | --- | --- | ------ | --- |
 | myArray    |     |           |     |     |        |     |
 | myDigits   | 4   | 2         | 11  | 5   | 2      | 1   |
 | myStuff    | 9   | wonderful | 6.2 | 7   | sneaky |     |
+
+</div>
 
 To retrieve a specific item in an array, type the name of the array followed by the index number inside two square brackets `[]`.
 
