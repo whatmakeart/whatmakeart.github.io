@@ -1,7 +1,7 @@
 ---
 title: 00.05 Student Questions
 date: 2024-01-27T10:10:03
-lastmod: 2024-02-03T08:09:07
+lastmod: 2024-02-03T16:35:50
 ---
 
 _Click on questions to expand solution._
@@ -308,6 +308,78 @@ function keyPressed() {
   }
 
   return false; // Prevent any default behavior triggered by key presses
+}
+```
+
+</div>
+
+<hr>
+
+<button class="text-start btn btn-outline-dark" style="width:100%;" type="button" data-bs-toggle="collapse" data-bs-target="#week3-3" aria-expanded="false" aria-controls="collapse2">
+
+3. How do you make the pebbles stop at the ground after falling?
+
+</button>
+
+<div class="collapse" id="week3-3">
+
+[How to make the pebbles stop at the ground](https://editor.p5js.org/whatmakeart/sketches/mHoGNjdbF)
+
+```js
+// How to make the pebbles stop at the ground
+// https://editor.p5js.org/whatmakeart/sketches/mHoGNjdbF
+
+let pebbles = []; // create an array to hold the pebble objects
+let gravity = 1.04; // set a value for gravity
+
+// create a Pebble class
+class Pebble {
+  constructor(x, y, size) {
+    this.x = x;
+    this.y = y;
+    this.size = size;
+  }
+  // add method to show pebble
+  showPebble() {
+    // pass the parameters for "this" specific pebble
+    circle(this.x, this.y, this.size);
+  }
+
+  // add drop method to pebble class
+  dropPebble(ground) {
+    // pebble falls by multiplying "this" specific "y" by "gravity"
+    this.y = this.y * gravity;
+
+    // check if pebble hit the ground
+    // add half the size (radius) to height and see if greater than the "ground" value passed in
+    // could pass a different value for ground to make pebbles stop sooner
+    // if it is at the ground then set the "this.y" to the ground minus the radius since the pixels count from the top of the screen
+    if (this.y + this.size / 2 >= ground) {
+      this.y = ground - this.size / 2;
+      //this.x++
+    }
+  }
+}
+
+function setup() {
+  createCanvas(400, 400);
+  for (i = 0; i < 50; i++) {
+    pebbles.push(new Pebble(random(width), random(height), random(10, 50)));
+  }
+}
+
+function draw() {
+  background(220);
+  for (let i = 0; i < pebbles.length; i++) {
+    pebbles[i].showPebble();
+    // pass the height in for ground or any other y position then call dropPebble
+    pebbles[i].dropPebble(height);
+  }
+}
+
+// can be mouseClicked or mouseDragged
+function mouseDragged() {
+  pebbles.push(new Pebble(mouseX, mouseY, random(10, 50)));
 }
 ```
 
