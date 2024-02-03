@@ -1,19 +1,21 @@
 ---
 title: 00.05 Student Questions
 date: 2024-01-27T10:10:03
-lastmod: 2024-01-28T06:27:44
+lastmod: 2024-02-03T08:09:07
 ---
 
 _Click on questions to expand solution._
 
 ## Week 2 Questions
 
-<button class="text-start" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="false" aria-controls="collapse2">
+<button class="text-start btn btn-outline-dark" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="false" aria-controls="collapse2">
 
-1. **How can you make the circles that randomly appear on the screen start to disappear after some time like rain drops?**
+1. How can you make the circles that randomly appear on the screen start to disappear after some time like rain drops?
 
 </button>
 <div class="collapse" id="collapse1">
+
+[Link to p5.js Web Editor Example of Drops that Disappear](https://editor.p5js.org/whatmakeart/sketches/7zil20gY6)
 
 In the first `random()` example, we just filled the p5.js Canvas with more randomly spaced circles or shapes as the `draw()` function looped. Each shape was drawn and then the next ones drawn on top with no way to keep track of the shapes.
 
@@ -44,8 +46,6 @@ To remove an object, we can use `pop` or `shift`.
 
 - `pop` removes the last object in the list
 - `shift` removes the first object in the list
-
-[Link to p5.js Web Editor Example of Drops that Disappear](https://editor.p5js.org/whatmakeart/sketches/7zil20gY6)
 
 ```javascript
 // random drops on screen that get removed in order ass drops increase above limit
@@ -111,9 +111,9 @@ function windowResized() {
 
 <hr>
 
-<button class="text-start" style="width:100%;" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+<button class="text-start btn btn-outline-dark" style="width:100%;" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
 
-2. **How can we modify the ball bounce example from class to have multiple balls bouncing?**
+2. How can we modify the ball bounce example from class to have multiple balls bouncing?
 
 </button>
 <div class="collapse" id="collapse2">
@@ -214,6 +214,100 @@ function draw() {
 // built in p5.js window resize function
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
+}
+```
+
+</div>
+
+## Week 3 Questions
+
+<button class="text-start btn btn-outline-dark" style="width:100%;" type="button" data-bs-toggle="collapse" data-bs-target="#week3-1" aria-expanded="false" aria-controls="collapse2">
+
+1. How do you use a sprite instead of a circle for the pebble?
+
+</button>
+
+<div class="collapse" id="week3-1">
+
+To use an image in a p5.js sketch you first need to upload the image to the p5.js Web Editor or have the image in your GitHub Repository, or hosted on your web hosting.
+
+Then you set a variable to hold the image. After the variable is set, you "pre-load" the image into the variable. Then you use the `image()` function and the variable holding the image to display it. You only need the starting x and y coordinates, but the `image()` function has options for scaling the image and for cropping the top left corner and the bottom right corner of the image. There are additional parameters for determining which part of a cropped image to show. See the [p5.js image() Reference Page](https://p5js.org/reference/#/p5/image) for more details.
+
+```js
+// p5.js use an image demo
+// https://editor.p5js.org/whatmakeart/sketches/WlIN-W1S5
+
+// set a variable to hold the image
+let myImage;
+
+// preload the image file
+function preload() {
+  myImage = loadImage("snowflake.png");
+}
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+}
+
+function draw() {
+  background(220);
+  image(myImage, 25, 25, 150, 150);
+}
+```
+
+</div>
+<hr>
+
+<button class="text-start btn btn-outline-dark" style="width:100%;" type="button" data-bs-toggle="collapse" data-bs-target="#week3-2" aria-expanded="false" aria-controls="collapse2">
+
+2. How do you make a color pallet cycle with a key press?
+
+</button>
+
+<div class="collapse" id="week3-2">
+
+[Example showing cycling of colors when any key is pressed](https://editor.p5js.org/whatmakeart/sketches/h2YKjNmTp)
+
+```js
+// Example showing cycling of colors when any key is pressed
+// https://editor.p5js.org/whatmakeart/sketches/h2YKjNmTp
+
+let keyColor = []; // Holds the array of colors
+let colorIndex; // Holds the current index of the color array
+
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  background(220);
+  colorMode(HSB); // Use HSB color mode
+  // Initialize the array of colors
+  keyColor = [
+    [155, 167, 55],
+    [23, 44, 189],
+    [123, 144, 49],
+    [12, 244, 229],
+  ];
+  colorIndex = 0; // Start with the first color
+}
+
+function draw() {
+  fill(keyColor[colorIndex]); // Set the fill color before drawing shapes
+  rectMode(CENTER); // draw rectangle from center
+  rect(width / 2, height / 2, 100, 100);
+  fill(0);
+
+  textSize(50);
+  textAlign(CENTER);
+  text("Press any key to cycle the colors", width / 2, height / 4);
+}
+
+// This function is called whenever any key is pressed
+function keyPressed() {
+  colorIndex++; // Move to the next color
+  if (colorIndex >= keyColor.length) {
+    // If beyond the last color, cycle back to the first
+    colorIndex = 0;
+  }
+
+  return false; // Prevent any default behavior triggered by key presses
 }
 ```
 

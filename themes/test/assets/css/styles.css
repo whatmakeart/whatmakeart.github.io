@@ -116,6 +116,18 @@ blockquote em {
   font-style: italic;
 }
 
+/* for student questions page to */
+
+/* push down the "answer to the question" when expanced */
+
+.collapse {
+  margin-top: 1rem;
+}
+
+/*keep ol vertically aligned in buttons */
+button > ol {
+  margin: 0.2rem;
+}
 /**** End block quotes
 
 
