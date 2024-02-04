@@ -1,7 +1,7 @@
 ---
 title: 00.05 Student Questions
 date: 2024-01-27T10:10:03
-lastmod: 2024-02-03T16:35:50
+lastmod: 2024-02-04T12:04:58
 ---
 
 _Click on questions to expand solution._
@@ -384,3 +384,75 @@ function mouseDragged() {
 ```
 
 </div>
+
+<hr>
+
+<button class="text-start btn btn-outline-dark" style="width:100%;" type="button" data-bs-toggle="collapse" data-bs-target="#week3-4" aria-expanded="false" aria-controls="collapse2">
+
+4. How to turn the cursor into a rocket ship that tilts in the direction the mouse is moving?
+
+</button>
+
+<div class="collapse" id="week3-4">
+
+[rotate rocket cursor demo](https://editor.p5js.org/whatmakeart/sketches/tFBgKYYlc)
+
+```js
+// rotate rocket cursor demo
+// https://editor.p5js.org/whatmakeart/sketches/tFBgKYYlc
+
+let rocketX = 200; // initial X position of the rocket
+let rocketOffset = 100;
+let fontSize = 32;
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  textSize(fontSize);
+
+  // rocketY offset above the bottom of the canvas
+  let rocketY = height - rocketOffset;
+
+  // lerp function smoothly interpolates the rocketX position towards the mouseX position
+  // third argument determines the amount of movement per frame (0.05 for a slower, delayed following effect, and 0.15 for a more snappy effect)
+  // https://p5js.org/reference/#/p5.Vector/lerp
+  rocketX = lerp(rocketX, mouseX, 0.05);
+
+  // calculate the direction vector pointing from the rocket to the cursor
+  // a vector is a (x,y) coordinate
+  let directionX = mouseX - rocketX;
+  let directionY = mouseY - rocketY;
+
+  // set angle mode to RADIANS
+  angleMode(RADIANS);
+  // "Calculates the angle formed by a specified point, the origin, and the positive x-axis."
+  // "The atan2() function is most often used for orienting geometry to the mouse's position."
+  // https://p5js.org/reference/#/p5/atan2
+  let angle = atan2(directionY, directionX);
+
+  // push() and pop() needed to perform translations in p5.js
+  push();
+  // move the origin to the rocket's interpolated (lerp) X position and fixed Y position
+  // would be fun to add a small range for interpolated up down Y movement
+  translate(rocketX, rocketY);
+  // add the initial angle of rocket emoji (45 degrees or PI/4 radians) to the calculated angle
+  rotate(angle + PI / 4);
+
+  // draw the rocket emoji at 0, 0 for rotation
+  text("🚀", 0, 0);
+  pop();
+}
+```
+
+</div>
+
+#### In Progress
+
+How to generate multiple particles that appear on the screen and have independent motion?
+How to add a second moving object bounce off edges of canvas without duplicating if statements for first object?
+How to have balls bounce against the sides of a shape that is not the edge of the canvas?
+How to move objects across the screen with varying opacity over time and at varying speeds?
+How to add an image background?
