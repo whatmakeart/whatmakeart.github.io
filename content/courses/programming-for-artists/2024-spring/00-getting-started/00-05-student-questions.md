@@ -1,7 +1,7 @@
 ---
 title: 00.05 Student Questions
 date: 2024-01-27T10:10:03
-lastmod: 2024-02-04T12:04:58
+lastmod: 2024-02-04T12:18:07
 ---
 
 _Click on questions to expand solution._
@@ -449,10 +449,48 @@ function draw() {
 
 </div>
 
+<hr>
+
+<button class="text-start btn btn-outline-dark" style="width:100%;" type="button" data-bs-toggle="collapse" data-bs-target="#week3-5" aria-expanded="false" aria-controls="collapse2">
+
+5. How to add an image background?
+
+</button>
+
+<div class="collapse" id="week3-5">
+
+[p5.js background image demo](https://editor.p5js.org/whatmakeart/sketches/ebvPrrFH8)
+
+```js
+// p5.js background image demo
+// https://editor.p5js.org/whatmakeart/sketches/ebvPrrFH8
+
+// make variable to store the image
+let backgroundImage;
+
+// preload the image and store it in a variable
+function preload() {
+  backgroundImage = loadImage("abstract-colors.jpg");
+}
+
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+}
+
+function draw() {
+  // pass the preloaded image variable to the background() function
+  // it should be the same dimensions as the canvas according to the reference but seems to work with different size images, it just distorts the aspect ratio of the image
+  // to prevent distortions use the same proportions
+  // https://p5js.org/examples/image-background-image.html
+  background(backgroundImage);
+}
+```
+
+</div>
+
 #### In Progress
 
 How to generate multiple particles that appear on the screen and have independent motion?
 How to add a second moving object bounce off edges of canvas without duplicating if statements for first object?
 How to have balls bounce against the sides of a shape that is not the edge of the canvas?
 How to move objects across the screen with varying opacity over time and at varying speeds?
-How to add an image background?
