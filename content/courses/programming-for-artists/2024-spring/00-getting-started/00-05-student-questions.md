@@ -1,7 +1,7 @@
 ---
 title: 00.05 Student Questions
 date: 2024-01-27T10:10:03
-lastmod: 2024-02-04T12:18:07
+lastmod: 2024-02-04T12:23:56
 ---
 
 _Click on questions to expand solution._
@@ -490,7 +490,7 @@ function draw() {
 
 #### In Progress
 
-How to generate multiple particles that appear on the screen and have independent motion?
-How to add a second moving object bounce off edges of canvas without duplicating if statements for first object?
-How to have balls bounce against the sides of a shape that is not the edge of the canvas?
-How to move objects across the screen with varying opacity over time and at varying speeds?
+- How to generate multiple particles that appear on the screen and have independent motion?
+- How to add a second moving object bounce off edges of canvas without duplicating if statements for first object?
+- How to have balls bounce against the sides of a shape that is not the edge of the canvas?
+- How to move objects across the screen with varying opacity over time and at varying speeds?
