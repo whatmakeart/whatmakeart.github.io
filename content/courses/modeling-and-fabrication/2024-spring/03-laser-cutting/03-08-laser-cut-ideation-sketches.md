@@ -1,7 +1,7 @@
 ---
 title: "03.08 Laser Cut Ideation Sketches and Cardboard Model"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-02-01T10:41:08
+lastmod: 2024-02-04T14:18:05
 ---
 
 ## Assignment Deliverables
@@ -10,6 +10,17 @@ lastmod: 2024-02-01T10:41:08
 - Minimum 3 refined Sketch Ideas
 
 Label your scanned sketches - YYYYMMDD Lastname First Name Project Name / Description
+
+## Prompts
+
+Use the research you conducted about laser cut objects as well as the prompts bellow to kickstart your ideation. You are not required to use these prompts and can create your own prompts.
+
+- Geometric or organic lampshades or hanging lamp structures
+- A modular storage system than can be rearranged or expanded
+- Design an architectural model of an existing building or of a new potential building
+- A kinetic articulating object with moving parts
+- Unique geometric table top game pieces
+- Collapsible container with flexible living hinges
 
 ## Ideation Sketches
 
