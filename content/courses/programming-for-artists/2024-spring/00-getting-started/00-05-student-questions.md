@@ -1,7 +1,7 @@
 ---
 title: 00.05 Student Questions
 date: 2024-01-27T10:10:03
-lastmod: 2024-02-05T06:45:01
+lastmod: 2024-02-05T06:46:53
 ---
 
 _Click on questions to expand solution._
@@ -754,6 +754,8 @@ function windowResized() {
 
 <div class="collapse" id="week3-7">
 
-Using the `lerp()` function from the rocket cursor example and the multiple moving objects example but for color will allow various colors to change gradually over time rather than flashing.
+Using the `lerp()` function from the rocket cursor example and the multiple moving objects example works for moving objects at different speeds, but for color p5.js has a built in `lerpColor()` function that gives better color ranges and allows various colors to change gradually over time rather than flashing.
+
+[lerpColor() p5.js Reference](https://p5js.org/reference/#/p5/lerpColor)
 
 </div>
