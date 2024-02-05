@@ -1,7 +1,7 @@
 ---
 title: 03.02 Objects JavaScript
 date: 2024-02-03T09:30:00
-lastmod: 2024-02-02T12:52:12
+lastmod: 2024-02-05T17:16:00
 ---
 
 ```javascript
@@ -60,7 +60,7 @@ const phone3 = {
 
 console.log("This is a " + phone1.name);
 console.log("This is a " + phone2.name);
-console.log("This is a " + phone2.name);
+console.log("This is a " + phone3.name);
 
 // Console Output
 // This is a iPone
@@ -98,7 +98,7 @@ const phone3 = new Phone("Google", "Pixel", "47", "tangerine");
 
 console.log("Made by " + phone1.maker);
 console.log("Made by " + phone2.maker);
-console.log("Made by a " + phone2.maker);
+console.log("Made by a " + phone3.maker);
 
 // Console Output
 // Made by Apple

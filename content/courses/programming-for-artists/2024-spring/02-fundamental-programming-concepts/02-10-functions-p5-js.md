@@ -1,7 +1,7 @@
 ---
 title: 02.10 Functions p5.js
 date: 2024-01-26T09:30:00
-lastmod: 2024-02-02T13:25:25
+lastmod: 2024-02-05T16:52:38
 ---
 
 ## Functions
@@ -140,5 +140,83 @@ function mousePressed() {
   myNumber = jimmysCalculator(number1, number2, operation);
   number1 = myNumber;
   console.log(myNumber);
+}
+```
+
+## Organize Truck with Functions Demo
+
+[organize code with container functions](https://editor.p5js.org/whatmakeart/sketches/9bAQLxcWB)
+
+```js
+// draw truck with functions demo
+// organize code with container functions
+// https://editor.p5js.org/whatmakeart/sketches/9bAQLxcWB
+
+let truckW = 250;
+let truckH = truckW * 0.75;
+let truckX = 275;
+let truckY = 400;
+
+function setup() {
+  createCanvas(600, 600);
+}
+
+function draw() {
+  drawBackground();
+  drawWheels();
+  drawCab();
+  drawDump();
+}
+
+function drawCab() {
+  // draw cab
+  fill("yellow");
+  rect(truckX, truckY + truckH / 5, truckW / 4, truckH / 3);
+  rect(truckX + truckW / 40, truckY + truckH / 4.5, truckW / 6, truckH / 3.7);
+  fill("black");
+  ellipse(truckX + truckW / 7, truckY + truckH / 2.5, truckW / 60);
+  fill("blue");
+  rect(truckX + truckW / 23, truckY + truckH / 4, truckW / 8, truckH / 8);
+}
+
+function drawWheels() {
+  // draw wheels
+  stroke(0);
+  fill("darkgrey");
+  rect(truckX + truckW / 45, truckY + truckH / 2, truckW / 1.2, truckH / 10);
+  fill("black");
+  circle(truckX + truckW / 9, truckY + truckH / 1.55, truckH / 6);
+  circle(truckX + truckW / 1.6, truckY + truckH / 1.55, truckH / 6);
+  circle(truckX + truckW / 1.3, truckY + truckH / 1.55, truckH / 6);
+  fill("grey");
+  circle(truckX + truckW / 9, truckY + truckH / 1.55, truckH / 6 / 4);
+  circle(truckX + truckW / 1.6, truckY + truckH / 1.55, truckH / 6 / 4);
+  circle(truckX + truckW / 1.3, truckY + truckH / 1.55, truckH / 6 / 4);
+}
+
+function drawDump() {
+  // Draw Dump Frame
+  fill("darkorange");
+  rect(truckX + truckW / 3.6, truckY + truckH / 25, truckW / 1.7, truckH / 2);
+  fill("orange");
+  rect(truckX + truckW / 3.2, truckY + truckH / 15, truckW / 15, truckH / 2.3);
+  rect(truckX + truckW / 2.4, truckY + truckH / 15, truckW / 15, truckH / 2.3);
+  rect(truckX + truckW / 1.85, truckY + truckH / 15, truckW / 15, truckH / 2.3);
+  rect(truckX + truckW / 1.5, truckY + truckH / 15, truckW / 15, truckH / 2.3);
+  rect(truckX + truckW / 1.3, truckY + truckH / 15, truckW / 15, truckH / 2.3);
+}
+
+function drawBackground() {
+  // draw backdrop
+  background("skyblue");
+  //draw grass
+  noStroke();
+  fill("gold");
+  circle(width / 1.25, height / 4, height / 8);
+  fill("lightgreen");
+  rect(0, height / 1.4, width, height);
+  //draw road
+  fill("lightgrey");
+  rect(0, height / 1.25, width, height / 4);
 }
 ```
