@@ -1,7 +1,7 @@
 ---
 title: 00.05 Student Questions
 date: 2024-01-27T10:10:03
-lastmod: 2024-02-05T06:46:53
+lastmod: 2024-02-05T07:00:14
 ---
 
 _Click on questions to expand solution._
@@ -251,6 +251,61 @@ function setup() {
 function draw() {
   background(220);
   image(myImage, 25, 25, 150, 150);
+}
+```
+
+The above example just puts the image on the screen. The next example shows how to use an image in the first bouncing ball example.
+
+[p5.js use an image in ball bouncing demo](https://editor.p5js.org/whatmakeart/sketches/WlIN-W1S5)
+
+```js
+// p5.js use an image in ball bouncing demo
+// https://editor.p5js.org/whatmakeart/sketches/WlIN-W1S5
+
+// preload the image file
+function preload() {
+  myImage = loadImage("snowflake.png");
+}
+
+let r = 0;
+let g = 150;
+let b = 100;
+let x;
+let y;
+let size = 75;
+let ballSpeedX = 1;
+let ballSpeedY = 1;
+
+// set a variable to hold the image
+let myImage;
+
+function setup() {
+  createCanvas(500, 400);
+  x = size;
+  y = size;
+  noStroke();
+  fill(random(255), random(255), random(255), random(255));
+}
+// AND &&         OR ||
+function draw() {
+  background(r, g, b);
+
+  image(myImage, x, y, size, size);
+
+  x = x + ballSpeedX;
+  y = y + ballSpeedY;
+
+  // random( min, max);
+  // change size / 2 to just size since the image is not drawn from
+  // the center like the ball
+  if (x >= width - size || x <= size) {
+    ballSpeedX = ballSpeedX * -1;
+    fill(random(255), random(255), random(255), random(255));
+  }
+  if (y > height - size || y < size) {
+    ballSpeedY = ballSpeedY * -1;
+    fill(random(255), random(255), random(255), random(255));
+  }
 }
 ```
 
