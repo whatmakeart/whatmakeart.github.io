@@ -1,7 +1,7 @@
 ---
 title: 02.11 Basic Generative Assignment
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-26T13:36:33
+lastmod: 2024-02-06T06:25:42
 ---
 
 ## Assignment Deliverables
@@ -89,6 +89,22 @@ Also browse this list of artists included in a February 2024 exhibition at [Brig
 - [Florian Zumbrunn](https://www.florianzumbrunn.com/)
 - [Jeff Davis](https://www.jeffgdavis.com/)
 - [Matthieu Segret](https://matthieusegret.com/)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                  | Weight    |
+| --------------------------- | --------- |
+| Use 2 Variables             | 10 points |
+| Use Increment Operator      | 10 points |
+| Use Built In p5.js Variable | 10 points |
+| Use a Conditional Statement | 20 points |
+| Use `random()` function     | 10 points |
+| Generative Art              | 30 points |
+| Upload URL                  | 10 points |
+
+</div>
 
 ## References
 

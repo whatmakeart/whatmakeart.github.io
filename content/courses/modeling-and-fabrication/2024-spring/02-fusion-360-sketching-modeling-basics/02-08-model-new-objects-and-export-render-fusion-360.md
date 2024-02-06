@@ -1,7 +1,7 @@
 ---
 title: "02.08 Model Objects in Fusion 360 and Export Render Images"
 date: 2024-01-25T12:00:00Z
-lastmod: 2024-01-29T15:10:11
+lastmod: 2024-02-06T11:28:18
 ---
 
 ## Assignment Deliverables
@@ -81,12 +81,12 @@ Download the Fusion 360 model files to your computer. (To download a .f3d file y
 
 <div class="responsive-table-markdown">
 
-| Assessment                                     | Weight    |
-| ---------------------------------------------- | --------- |
-| Object Form and Proportions compared to sketch | 30 points |
-| Materials Applied                              | 20 points |
-| Render Exported                                | 10 points |
-| Render Composition                             | 10 points |
-| File Management                                | 10 points |
+| Assessment                             | Weight    |
+| -------------------------------------- | --------- |
+| Convincing Object Form and Proportions | 30 points |
+| Materials Applied                      | 20 points |
+| Render Exported                        | 10 points |
+| Render Composition                     | 10 points |
+| File Management                        | 10 points |
 
 </div>
