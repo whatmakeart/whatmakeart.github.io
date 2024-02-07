@@ -1,7 +1,7 @@
 ---
 title: "04.07 Model Laser Cut Project in Fusion 360"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2024-02-07T09:27:20
 ---
 
 ## Assignment Deliverables
@@ -15,7 +15,7 @@ Using your sketches, cardboard model, and third angle projections, make a model 
 
 You are required to use at least one user parameter dimension for "ply" or the thickness of the material you are cutting. Materials vary in width, so we will [measure the material before cutting](https://youtu.be/a7HOiBC_81s) on the laser cutter. When we know the real thickness of the material [using digital calipers](https://youtu.be/oOZjbbe6YZk), then we can change the "ply" variable and the model will produce an accurate cut file.
 
-## Model Stand in Fusion 360
+## Model in Fusion 360
 
 If you prefer, you can import your third angle projection sketches to use as guides you start your first sketch. You need to calibrate the size of the sketch to be the correct scale in your Fusion 360 file. Then you can use the sketch as a guide to create your digital sketch. This step is not necessary but some may like it. This video shows [how to import an image as a canvas](https://youtu.be/-3SMfrnWMTE) in Fusion 360.
 

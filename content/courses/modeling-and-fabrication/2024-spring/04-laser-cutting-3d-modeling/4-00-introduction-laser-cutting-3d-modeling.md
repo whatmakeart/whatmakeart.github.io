@@ -1,7 +1,7 @@
 ---
 title: "04.00 Introduction"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2024-02-07T06:12:39
 ---
 
 ## Overview
@@ -16,8 +16,8 @@ This module continues the design and fabrication process based on the ideation a
 
 ## Keywords
 
-- kerf
-- dxf
+- kerf - space or gap left by a cutting tool
+- dxf - CAD file format that stores vector information in plain text created by Autodesk
 - finger joint
-- tool path
+- tool path - gCode information used by a laser cutter, cnc machine, water jet or other computer controlled cutting machine
 - [user parameters](../../../../3d-modeling/fusion-360/fusion-360-basic-user-parameters.md)
