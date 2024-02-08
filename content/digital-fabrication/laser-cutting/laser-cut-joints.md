@@ -10,13 +10,16 @@ There are many ways to join a laser cut project together ranging from gravity to
 
 ![Butt Joint for Laser Cutting Perpendicular](./attachments/2024-02-07-laser-cut-butt-joint.jpg)
 
-![ButtJoint 2]()
-
 ### Planar Butt Joint
 
-![Planar Butt Joint 1]()
+<div class="two-column-grid">
 
-![Planar Butt Joint 2]()
+![Planar Butt Joint](./attachments/2024-02-07-planar-butt-joint.jpg)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/id2I8982n_g?si=Lq7cuOC8s78Ly2S9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 ### Box or Finger Joints
 
@@ -92,45 +95,6 @@ Snap joints positively lock into place when assembled. They are much more comple
 
 </div>
 
-## Joints Requiring Post Processing
-
-### Dovetail Joints
-
-[Article](https://hackaday.io/project/170065-laser-cut-dovetail-enclosures) from hackaday.io showing [laser cut dovetail joints](https://hackaday.io/project/170065-laser-cut-dovetail-enclosures) originally designed by [Mark Wilson](https://www.flickr.com/photos/funnypolynomial/). [^1] Detailed photos of the joints and the chiseling process are on Mark's [Flickr album "Dovebox"](https://www.flickr.com/photos/funnypolynomial/albums/72157657942214811). These require a bit of chiseling after the laser cutting but the woodworking is minimal and goes quickly. This technique uses etched laser lines as guides for the chisel. Because of the chiseling, aligning the wood grain with the dovetails is important. This can add a unique look to your laser cut project. It could potentially be adapted for use with acrylic with a sanding jig to make the angle cuts.
-
-<div class="two-column-grid">
-<figure>
-
-[![Laser Cut Dovetails by Mark Wilson](attachments/laser-cut-dovetail-joint-by-mark-wilson.jpg)](attachments/laser-cut-dovetail-joint-by-mark-wilson.jpg)
-
-<figcaption>
-
-[Laser-cut Dovetail Joint](https://www.flickr.com/photos/funnypolynomial/20806382969/) by [Mark Wilson](https://www.flickr.com/photos/funnypolynomial/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) [^2]
-
-</figcaption>
-</figure>
-
-<figure>
-
-[![Laser Cut Dovetails by Mark Wilson](attachments/dovetail-laser-cut-joint-box-by-mark-wilson.jpg)](attachments/dovetail-laser-cut-joint-box-by-mark-wilson.jpg)
-
-<figcaption>
-
-[Top off](https://www.flickr.com/photos/funnypolynomial/20805356968/in/album-72157657942214811/) by [Mark Wilson](https://www.flickr.com/photos/funnypolynomial/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) [^3]
-
-</figcaption>
-</figure>
-
-</div>
-
-### "Hammer" Joint
-
-On the Lasersheets.eu blog, Jiskar Schmitz describes a "hammer" joint that uses a wedge to joint laser cut pieces together. The wedge must me put in place with a hammer, hence the name. The blog says the joint does not require glue but a bit of wood glue would likely make it stronger depending on the overall design. [^hammer-joint]
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/AAGuJ9D3QkQ?si=5Vf33ClRlzIntUOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
 ## Joints with Fasteners
 
 ### Captive Nut Joints
@@ -163,9 +127,9 @@ To avoid the problem of stripped threads, the hole can be tapped for a bolt inst
 
 Threaded inserts are more involved to install but make a durable attachment point that can be used multiple times.
 
-## Compliant Joints
+## Compliant Joints and Mechanisms
 
-Compliant joints take advantage of the natural flexibility of materials. Joints that snap into place after bending out of the way are an example of compliant joints.
+Compliant joints take advantage of the natural flexibility of materials. Joints that snap into place after bending out of the way are an example of compliant joints. A [living hinge](./laser-cut-living-hinge.md) is an example of a compliant mechanism.
 
 ## Designing Joints for Clear Assembly by User
 
@@ -179,6 +143,45 @@ The same principles can be applied to your projects. If you need a part to fit a
 
 Below is a collection of interesting laser cut joint demonstration videos from the web. This is only a selection. There are so many creatives and makers that all are not included. These are included to jump start your own investigative research and browsing. Look for more examples and create your own.
 
+### Dovetail Joints
+
+[Article](https://hackaday.io/project/170065-laser-cut-dovetail-enclosures) from hackaday.io showing [laser cut dovetail joints](https://hackaday.io/project/170065-laser-cut-dovetail-enclosures) originally designed by [Mark Wilson](https://www.flickr.com/photos/funnypolynomial/). [^1] Detailed photos of the joints and the chiseling process are on Mark's [Flickr album "Dovebox"](https://www.flickr.com/photos/funnypolynomial/albums/72157657942214811). These require a bit of chiseling after the laser cutting but the woodworking is minimal and goes quickly. This technique uses etched laser lines as guides for the chisel. Because of the chiseling, aligning the wood grain with the dovetails is important. This can add a unique look to your laser cut project. It could potentially be adapted for use with acrylic with a sanding jig to make the angle cuts.
+
+<div class="two-column-grid">
+<figure>
+
+[![Laser Cut Dovetails by Mark Wilson](attachments/laser-cut-dovetail-joint-by-mark-wilson.jpg)](attachments/laser-cut-dovetail-joint-by-mark-wilson.jpg)
+
+<figcaption>
+
+[Laser-cut Dovetail Joint](https://www.flickr.com/photos/funnypolynomial/20806382969/) by [Mark Wilson](https://www.flickr.com/photos/funnypolynomial/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) [^2]
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Laser Cut Dovetails by Mark Wilson](attachments/dovetail-laser-cut-joint-box-by-mark-wilson.jpg)](attachments/dovetail-laser-cut-joint-box-by-mark-wilson.jpg)
+
+<figcaption>
+
+[Top off](https://www.flickr.com/photos/funnypolynomial/20805356968/in/album-72157657942214811/) by [Mark Wilson](https://www.flickr.com/photos/funnypolynomial/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) [^3]
+
+</figcaption>
+</figure>
+
+</div>
+
+### "Hammer" Joint
+
+On the [Lasersheets.eu blog](https://lasersheets.eu/blogs/news/hammer-joint), Jiskar Schmitz describes a "hammer" joint that uses a wedge to joint laser cut pieces together. The wedge must me put in place with a hammer, hence the name. The blog says the joint does not require glue but a bit of wood glue would likely make it stronger depending on the overall design. [^hammer-joint]
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/AAGuJ9D3QkQ?si=5Vf33ClRlzIntUOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+### Snap Fit Laser Cut Plastic
+
 <figure>
 
 <div class="iframe-16-9-container">
@@ -187,14 +190,15 @@ Below is a collection of interesting laser cut joint demonstration videos from t
 
 <figcaption>
 
-_laser-cut snap-lock assembly_ by Amy Makes Stuff
+_laser-cut snap-lock assembly_ by Amy Makes Stuff [^amy]
 
 </figcaption>
 </figure>
 
 ## Further Reading
 
-[Flaticulation: Laser Cutting Joints with Articulated Angles](https://www.chiaofang.tw/research/flaticulation/Flaticulation.pdf) [^flaticulation] is a research paper by Chiao Fang, Vivian Hsinyueh Chan, and Lung-Pan Cheng that demonstrates how to make laser cut joints that snap into specific angles other than the typical 90 degree joint for laser cut assemblies.
+- [Fusion 360 Finger Joint Add-in](https://github.com/FlorianPommerening/FingerJoints) is an add-in for Fusion 360 that creates finger joints on a model in Fusion 360 written by Florian Pommerening.
+- [Flaticulation: Laser Cutting Joints with Articulated Angles](https://www.chiaofang.tw/research/flaticulation/Flaticulation.pdf) [^flaticulation] is a research paper by Chiao Fang, Vivian Hsinyueh Chan, and Lung-Pan Cheng that demonstrates how to make laser cut joints that snap into specific angles other than the typical 90 degree joint for laser cut assemblies.
 
 ## References
 
@@ -204,3 +208,4 @@ _laser-cut snap-lock assembly_ by Amy Makes Stuff
 [^like-a-boss]: Mary Morse, Ingrid Hagen-Keith, & Annie Zeng. [Laser Cut Like a Boss: Compliant Joints](https://lasercutlikeaboss.weebly.com/uploads/2/7/8/8/27883957/advancedjoinery_master_web.pdf) [Web Archive](https://web.archive.org/web/20210510131620/https://lasercutlikeaboss.weebly.com/uploads/2/7/8/8/27883957/advancedjoinery_master_web.pdf)
 [^hammer-joint]: Schmitz, Jiskar. [The Hammer Joint. A new laserable no-screw-no-glue wood joint](https://lasersheets.eu/blogs/news/hammer-joint) lasersheets.edu blog. December 01, 2023. [Web Archive](https://web.archive.org/web/20231215234230/https://lasersheets.eu/blogs/news/hammer-joint)
 [^flaticulation]: Chiao Fang, Vivian Hsinyueh Chan, and Lung-Pan Cheng. 2022. Flaticulation: Laser Cutting Joints with Articulated Angles. In The 35th Annual ACM Symposium on User Interface Software and Technology (UIST ’22), October 29-November 2, 2022, Bend, OR, USA. ACM, New York, NY, USA, 16 pages. [https://doi.org/10.1145/3526113.](https://doi.org/10.1145/3526113)
+[^amy]: [laser-cut snap-lock assembly](https://www.youtube.com/watch?v=vDdfib7CqlI) YouTube video by Amy Makes Stuff. May 27, 2019.

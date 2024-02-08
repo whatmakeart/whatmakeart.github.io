@@ -1,7 +1,7 @@
 ---
-title: "04.01 Laser Cut Joints"
+title: "04.04 Laser Cut Joints"
 date: 2024-02-08T12:00:00Z
-lastmod: 2024-02-08T05:45:53
+lastmod: 2024-02-08T07:03:58
 toc: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "04.02 Fusion 360 Basic User Parameters"
+title: "04.01 Fusion 360 Basic User Parameters"
 date: 2024-02-08T12:00:00Z
-lastmod: 2024-02-08T05:45:53
+lastmod: 2024-02-08T07:03:58
 toc: true
 ---
 

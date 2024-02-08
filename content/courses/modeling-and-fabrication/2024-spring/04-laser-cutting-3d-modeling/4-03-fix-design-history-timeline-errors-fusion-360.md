@@ -1,7 +1,7 @@
 ---
-title: "04.04 Fusion 360 Fix Design Timeline Errors "
+title: "04.03 Fusion 360 Fix Design Timeline Errors "
 date: 2024-02-08T12:00:00Z
-lastmod: 2024-02-08T05:45:53
+lastmod: 2024-02-08T07:03:58
 toc: true
 ---
 

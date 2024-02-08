@@ -13,25 +13,26 @@ If you want to work with living hinges in your laser cut project, it is a good i
 <div class="video-grid">
 <div class="video-card">
 
-## Model a Living Hinge Bend for Laser Cutting
+### Model a Living Hinge Bend for Laser Cutting
 
-<div class="iframe-16-9-container" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%;"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/nt-44j15xeI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/nt-44j15xeI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QvcpBnxsQws?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<div class="video-card">
-
-## Living Hinge Test Swatches
-
-<div class="iframe-16-9-container" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%;"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/QvcpBnxsQws?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 </div>
 
 <div class="video-card">
 
-## Export Living Hinge Toolpath
+### Living Hinge Test Swatches
 
-<div class="iframe-16-9-container" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%;"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/HjXnGby1H_A?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/QvcpBnxsQws?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Export Living Hinge Toolpath
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe"  src="https://www.youtube.com/embed/HjXnGby1H_A?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 </div>
 
 </div>
