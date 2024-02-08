@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Basic User Parameters
 date: 2023-06-14T12:34:30
-lastmod: 2024-01-25T05:33:11
+lastmod: 2024-02-08T05:16:19
 tags:
   - Fusion 360
 ---
@@ -30,7 +30,7 @@ Sometimes when user parameters are changed, parts of the model might "break." If
 
 <figcaption>
 
-Example User Parameters in Fusion 360
+## Example User Parameters in Fusion 360
 
 </figcaption>
 </figure>

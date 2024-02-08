@@ -1,7 +1,7 @@
 ---
-title: "04.07 Model Laser Cut Project in Fusion 360"
-date: 2020-01-26T23:11:13Z
-lastmod: 2024-02-07T09:27:20
+title: "04.07 Model Laser Cut Project in Fusion 360 Assignment"
+date: 2024-02-08T12:00:00Z
+lastmod: 2024-02-08T05:45:35
 ---
 
 ## Assignment Deliverables

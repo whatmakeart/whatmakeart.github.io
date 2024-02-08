@@ -40,7 +40,7 @@ Although a laser cutter has a small kerf, it is almost imperceptible compared to
 <iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/L-I4FLnRj4c?si=EwcVcCdO4slye5ue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-## Mechnical Joints Without Fasteners
+## Mechanical Joints Without Fasteners
 
 ### Slot Hook Joints
 
@@ -192,6 +192,10 @@ _laser-cut snap-lock assembly_ by Amy Makes Stuff
 </figcaption>
 </figure>
 
+## Further Reading
+
+[Flaticulation: Laser Cutting Joints with Articulated Angles](https://www.chiaofang.tw/research/flaticulation/Flaticulation.pdf) [^flaticulation] is a research paper by Chiao Fang, Vivian Hsinyueh Chan, and Lung-Pan Cheng that demonstrates how to make laser cut joints that snap into specific angles other than the typical 90 degree joint for laser cut assemblies.
+
 ## References
 
 [^1]: [Hackaday.io Laser Cut Dovetail Enclosures](https://hackaday.io/project/170065-laser-cut-dovetail-enclosures)
@@ -199,3 +203,4 @@ _laser-cut snap-lock assembly_ by Amy Makes Stuff
 [^3]: [Funny Polynomial Flicker Album](https://www.flickr.com/photos/funnypolynomial/20805356968/in/album-72157657942214811/)
 [^like-a-boss]: Mary Morse, Ingrid Hagen-Keith, & Annie Zeng. [Laser Cut Like a Boss: Compliant Joints](https://lasercutlikeaboss.weebly.com/uploads/2/7/8/8/27883957/advancedjoinery_master_web.pdf) [Web Archive](https://web.archive.org/web/20210510131620/https://lasercutlikeaboss.weebly.com/uploads/2/7/8/8/27883957/advancedjoinery_master_web.pdf)
 [^hammer-joint]: Schmitz, Jiskar. [The Hammer Joint. A new laserable no-screw-no-glue wood joint](https://lasersheets.eu/blogs/news/hammer-joint) lasersheets.edu blog. December 01, 2023. [Web Archive](https://web.archive.org/web/20231215234230/https://lasersheets.eu/blogs/news/hammer-joint)
+[^flaticulation]: Chiao Fang, Vivian Hsinyueh Chan, and Lung-Pan Cheng. 2022. Flaticulation: Laser Cutting Joints with Articulated Angles. In The 35th Annual ACM Symposium on User Interface Software and Technology (UIST ’22), October 29-November 2, 2022, Bend, OR, USA. ACM, New York, NY, USA, 16 pages. [https://doi.org/10.1145/3526113.](https://doi.org/10.1145/3526113)

@@ -1,7 +1,7 @@
 ---
 title: "03.07 Laser Cut Design Research"
-date: 2020-01-26T23:11:13Z
-lastmod: 2024-02-04T14:16:45
+date: 2024-02-01T12:00:00Z
+lastmod: 2024-02-08T05:45:53
 ---
 
 <div class="two-column-grid">

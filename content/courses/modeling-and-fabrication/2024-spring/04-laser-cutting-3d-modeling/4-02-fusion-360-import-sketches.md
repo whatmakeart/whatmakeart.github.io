@@ -1,7 +1,7 @@
 ---
 title: "04.03Fusion 360 Import Sketches"
-date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+date: 2024-02-08T12:00:00Z
+lastmod: 2024-02-08T05:45:53
 ---
 
 ![Link to included file content](../../../../3d-modeling/fusion-360/fusion-360-import-sketches-as-canvas.md)
