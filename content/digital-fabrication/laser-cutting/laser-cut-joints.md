@@ -12,7 +12,7 @@ There are many ways to join a laser cut project together ranging from gravity to
 
 ### Planar Butt Joint
 
-<div class="two-column-grid">
+<div class="gallery-grid">
 
 ![Planar Butt Joint](./attachments/2024-02-07-planar-butt-joint.jpg)
 
@@ -25,7 +25,7 @@ There are many ways to join a laser cut project together ranging from gravity to
 
 Finger joints are a common way to join laser cut projects together. They have an advantage over simple butt joints since the fingers help align the pieces but can make it more difficulty to glue and clamp during assembly. Finger joints can be on the edge as shown in the image ore then can be inset so they are contained by the panel that they insert into. Box with finger joints on all sides [Demo video making a finger jointed box.](https://youtu.be/ZrcqauNvt0M)
 
-<div class="two-column-grid">
+<div class="gallery-grid">
 
 [![Laser Cut Finger Joints](attachments/2022-Finger-Joints-Laser-Cut.jpg)](attachments/2022-Finger-Joints-Laser-Cut.png)
 
@@ -61,7 +61,7 @@ The slots for the hooks must be large enough for the entire hook to pass through
 
 Pinned finger joints send a tab all the way through a hole in a panel. The tab extends far enough to allow for at least the thickness of a "pin" to slide into its opening. This pin keeps the finger joint tab from pulling out. Pinned joints can be aligned so they use the same pin. This can create enough friction that the pin won't slip out.
 
-<div class="two-column-grid">
+<div class="gallery-grid">
 
 [![Laser Cut Pinned Finger Joints](attachments/2022-Pinned-Finger-Joints-Laser-Cut-Colors.jpg)](attachments/2022-Pinned-Finger-Joints-Laser-Cut-Colors.png)
 
@@ -101,7 +101,7 @@ Snap joints positively lock into place when assembled. They are much more comple
 
 With properly sized slots and holes, bolts and nuts can be used to securely attach laser cut panels with a captive nut technique. It holds a hex nut so it cannot spin, acting like a wrench as the bolt is tightened. This is similar to the cam lock fasteners used in assemble at home flat pack furniture.
 
-<div class="two-column-grid">
+<div class="gallery-grid">
 
 [![Laser Cut Captive Nut Joints](attachments/2022-Captive-Nut-Joints-Laser-Cut.jpg)](attachments/2022-Captive-Nut-Joints-Laser-Cut.png)
 
@@ -198,7 +198,8 @@ _laser-cut snap-lock assembly_ by Amy Makes Stuff [^amy]
 ## Further Reading
 
 - [Fusion 360 Finger Joint Add-in](https://github.com/FlorianPommerening/FingerJoints) is an add-in for Fusion 360 that creates finger joints on a model in Fusion 360 written by Florian Pommerening.
-- [Flaticulation: Laser Cutting Joints with Articulated Angles](https://www.chiaofang.tw/research/flaticulation/Flaticulation.pdf) [^flaticulation] is a research paper by Chiao Fang, Vivian Hsinyueh Chan, and Lung-Pan Cheng that demonstrates how to make laser cut joints that snap into specific angles other than the typical 90 degree joint for laser cut assemblies.
+- [Flaticulation: Laser Cutting Joints with Articulated Angles](https://www.chiaofang.tw/research/flaticulation/Flaticulation.pdf) is a research paper by Chiao Fang, Vivian Hsinyueh Chan, and Lung-Pan Cheng that demonstrates how to make laser cut joints that snap into specific angles other than the typical 90 degree joint for laser cut assemblies. [^flaticulation]
+- [Laser Cut Like a Boss: Compliant Joints](https://lasercutlikeaboss.weebly.com/uploads/2/7/8/8/27883957/advancedjoinery_master_web.pdf) is a undergraduate research paper by Mary Morse, Ingrid Hagen-Keith, and Annie Zeng documenting their design and prototyping process to create a variety of compliant joints including snap fit joints and an interesting rotation snap fit joint. [^like-a-boss]
 
 ## References
 
