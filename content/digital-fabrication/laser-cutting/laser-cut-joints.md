@@ -195,10 +195,17 @@ _laser-cut snap-lock assembly_ by Amy Makes Stuff [^amy]
 </figcaption>
 </figure>
 
+### Flaticulation Joints
+
+[Flaticulation: Laser Cutting Joints with Articulated Angles](https://www.chiaofang.tw/research/flaticulation/Flaticulation.pdf) is a research paper by Chiao Fang, Vivian Hsinyueh Chan, and Lung-Pan Cheng that demonstrates how to make laser cut joints that snap into specific angles other than the typical 90 degree joint for laser cut assemblies. [^flaticulation]
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/j1Yg0lZpJf0?si=Sm_Arwp60IaVsi3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## Further Reading
 
 - [Fusion 360 Finger Joint Add-in](https://github.com/FlorianPommerening/FingerJoints) is an add-in for Fusion 360 that creates finger joints on a model in Fusion 360 written by Florian Pommerening.
-- [Flaticulation: Laser Cutting Joints with Articulated Angles](https://www.chiaofang.tw/research/flaticulation/Flaticulation.pdf) is a research paper by Chiao Fang, Vivian Hsinyueh Chan, and Lung-Pan Cheng that demonstrates how to make laser cut joints that snap into specific angles other than the typical 90 degree joint for laser cut assemblies. [^flaticulation]
 - [Laser Cut Like a Boss: Compliant Joints](https://lasercutlikeaboss.weebly.com/uploads/2/7/8/8/27883957/advancedjoinery_master_web.pdf) is a undergraduate research paper by Mary Morse, Ingrid Hagen-Keith, and Annie Zeng documenting their design and prototyping process to create a variety of compliant joints including snap fit joints and an interesting rotation snap fit joint. [^like-a-boss]
 
 ## References
