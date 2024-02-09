@@ -1,7 +1,7 @@
 ---
 title: 04.05 ml5.js Experiment Assignment
 date: 2024-02-09T09:30:00
-lastmod: 2024-02-09T13:26:27
+lastmod: 2024-02-09T13:44:27
 ---
 
 ## Assignment Deliverables
@@ -29,3 +29,8 @@ lastmod: 2024-02-09T13:26:27
 - Experiment with p5.js `createGraphics()` to have multiple layered surfaces on the canvas
 
 Remember that this is an experiment and you are building upon the tools of others. It is ok if the program does weird and unexpected things. Try to add new elements to the program to see what happens. Don't try to memorize everything or to work in a vacuum. Look to other's examples as listed on the ml5.js website.
+
+## Resources
+
+- [Hand Landmarks for the handpose model](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker)
+- [Pose Landmarks for the posenet model](https://developers.google.com/mediapipe/solutions/vision/pose_landmarker)
