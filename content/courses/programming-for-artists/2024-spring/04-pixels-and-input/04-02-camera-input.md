@@ -1,7 +1,7 @@
 ---
-title: Camera Input
+title: 04.02 Camera Input
 date: 2024-02-09T09:30:00
-lastmod: 2024-02-09T08:06:58
+lastmod: 2024-02-09T08:58:59
 ---
 
 p5.js has a [video capture](https://p5js.org/examples/dom-video-capture.html) ability built into the library.
