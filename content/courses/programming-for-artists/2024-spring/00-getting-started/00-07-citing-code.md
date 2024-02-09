@@ -1,7 +1,7 @@
 ---
 title: 00.07 Citing Code
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-02-09T09:17:14
+lastmod: 2024-02-09T09:22:07
 ---
 
 ## TLDR

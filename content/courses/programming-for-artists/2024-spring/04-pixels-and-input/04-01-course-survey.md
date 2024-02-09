@@ -1,7 +1,7 @@
 ---
 title: 04.02 Course Concept Survey
-date: date: 2024-02-09T09:30:00
-lastmod: 2024-02-09T08:56:00
+date: 2024-02-09T09:30:00
+lastmod: 2024-02-09T09:22:52
 ---
 
 As the 25% completed point nears this week it is a an opportunity to guide the topics and investigations for the rest of the semester. Over the limited time frame of an academic semester, each concept learned or studied represents an opportunity cost for another investigation not completed.
