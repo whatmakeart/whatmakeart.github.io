@@ -1,7 +1,7 @@
 ---
 title: 04.05 ml5.js Experiment Assignment
 date: 2024-02-09T09:30:00
-lastmod: 2024-02-11T13:29:12
+lastmod: 2024-02-11T14:00:28
 ---
 
 ## Assignment Deliverables
@@ -19,7 +19,7 @@ lastmod: 2024-02-11T13:29:12
 4. Combine the model with one of your previous projects.
 5. Use your body for interaction rather than the keyboard or mouse
 6. Experiment and have fun
-7. Look at the many example on the web and be inspired by them, just make sure to create your own project and list any and all references and sourses in your code comments
+7. Look at the many example on the web and be inspired by them, just make sure to create your own project and [cite](../00-getting-started/00-07-citing-code.md) any and all references and sources in your code comments
 
 ### Possible Concepts
 
@@ -34,8 +34,28 @@ Remember that this is an experiment and you are building upon the tools of other
 
 `console.log(nameOfVariable)` can show the contents of the objects produced by the detection algorithms. You can then assign these values to variables to use to draw items on the canvas or interact with your program.
 
+## How to Combine ml5.js Example with Previous p5.js Sketch
+
+To combine two p5.js sketches, you will need to:
+
+1. Open both sketches in different browser tabs in the Web Editor
+2. Copy the contents of the first sketch above the `setup()` function and paste above the `setup()` function in the second sketch.
+   - Make sure that there are no duplicate variable names, class names or function names.
+3. Copy the contents of the first sketch's `setup()` function and paste into the `setup()` function of the second sketch.
+   - Make sure that there are no duplicate variable names, only one `createCanvas()`
+   - check for other redundant `setup()` code.
+4. Copy the contents of the first sketch's `draw()` function and paste into the `draw())` function of the second sketch.
+   - Make sure that there are no duplicate variable names or function calls.
+   - check for other redundant `draw()` code.
+5. Copy the contents of the first sketch below the `draw()` function and paste into the second sketch below the `draw()` function
+   - Make sure that there are no duplicate variable names or function calls.
+6. Check the `<head>` section of the index.html file and make sure to include all necessary JavaScript libraries from each sketch.
+
+More complicated sketches with multiple files can be combined with similar methods but there is more to check so a refactoring of the code may be a more efficient option.
+
 ## Resources
 
 - [Hand Landmarks for the handpose model](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker)
 - [Pose Landmarks for the posenet model](https://developers.google.com/mediapipe/solutions/vision/pose_landmarker)
 - Person, Jen. [7 dos and don'ts of using ML on the web with MediaPipe](https://developers.googleblog.com/2023/10/7-dos-and-donts-of-using-ml-on-web-with-mediapipe.html) Google for Developers. October 05, 2023.
+- [Combining Arduino Code](../../../../arduino/combine-two-arduino-sketches.md) - This covers combining Arduino Sketches together but the basic concept is the same for combining two p5.js sketches.
