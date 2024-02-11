@@ -1,7 +1,7 @@
 ---
 title: 00.05 Student Questions
 date: 2024-01-27T10:10:03
-lastmod: 2024-02-05T07:00:14
+lastmod: 2024-02-11T13:36:29
 ---
 
 _Click on questions to expand solution._
@@ -685,7 +685,7 @@ function windowResized() {
 
 </button>
 
-<div class="collapse" id="week3-8">
+<div class="collapse" id="week3-7">
 
 [modification of ball bounce class example with a smaller container for bouncing](https://editor.p5js.org/whatmakeart/sketches/QbMyCdZr-)
 
@@ -807,10 +807,34 @@ function windowResized() {
 
 </button>
 
-<div class="collapse" id="week3-7">
+<div class="collapse" id="week3-8">
 
 Using the `lerp()` function from the rocket cursor example and the multiple moving objects example works for moving objects at different speeds, but for color p5.js has a built in `lerpColor()` function that gives better color ranges and allows various colors to change gradually over time rather than flashing.
 
 [lerpColor() p5.js Reference](https://p5js.org/reference/#/p5/lerpColor)
+
+</div>
+
+## Week 4 Questions
+
+<button class="text-start btn btn-outline-dark mb-3" type="button" data-bs-toggle="collapse" data-bs-target="#week4-1" aria-expanded="false" aria-controls="week4-1">
+
+1. How to have a circle follow the mouse with a delay?
+
+</button>
+<div class="collapse" id="week4-1">
+
+Answer in progress, but look at the rocket cursor example above using the `lerp()` function.
+
+</div>
+
+<button class="text-start btn btn-outline-dark mb-3" type="button" data-bs-toggle="collapse" data-bs-target="#week4-2" aria-expanded="false" aria-controls="week4-2">
+
+1. How to make sand fall through removed obstacles on screen?
+
+</button>
+<div class="collapse" id="week4-2">
+
+Answer in progress.
 
 </div>

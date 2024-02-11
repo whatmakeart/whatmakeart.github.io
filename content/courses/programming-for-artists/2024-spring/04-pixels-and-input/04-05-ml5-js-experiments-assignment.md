@@ -1,7 +1,7 @@
 ---
 title: 04.05 ml5.js Experiment Assignment
 date: 2024-02-09T09:30:00
-lastmod: 2024-02-09T13:54:41
+lastmod: 2024-02-11T13:29:12
 ---
 
 ## Assignment Deliverables
@@ -38,3 +38,4 @@ Remember that this is an experiment and you are building upon the tools of other
 
 - [Hand Landmarks for the handpose model](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker)
 - [Pose Landmarks for the posenet model](https://developers.google.com/mediapipe/solutions/vision/pose_landmarker)
+- Person, Jen. [7 dos and don'ts of using ML on the web with MediaPipe](https://developers.googleblog.com/2023/10/7-dos-and-donts-of-using-ml-on-web-with-mediapipe.html) Google for Developers. October 05, 2023.
