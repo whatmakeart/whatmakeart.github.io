@@ -1,7 +1,7 @@
 ---
 title: 00.05 Student Questions
 date: 2024-01-27T10:10:03
-lastmod: 2024-02-11T13:36:29
+lastmod: 2024-02-12T05:45:54
 ---
 
 _Click on questions to expand solution._
@@ -830,11 +830,66 @@ Answer in progress, but look at the rocket cursor example above using the `lerp(
 
 <button class="text-start btn btn-outline-dark mb-3" type="button" data-bs-toggle="collapse" data-bs-target="#week4-2" aria-expanded="false" aria-controls="week4-2">
 
-1. How to make sand fall through removed obstacles on screen?
+2. How to make sand fall through removed obstacles on screen?
 
 </button>
 <div class="collapse" id="week4-2">
 
 Answer in progress.
+
+</div>
+
+<button class="text-start btn btn-outline-dark mb-3" type="button" data-bs-toggle="collapse" data-bs-target="#week4-3" aria-expanded="false" aria-controls="week4-3">
+
+3. How to mirror the canvas or webcam video?
+
+</button>
+<div class="collapse" id="week4-3">
+
+[Flip webcam video p5.js demo](https://editor.p5js.org/whatmakeart/sketches/_OILw6Ryr)
+
+```js
+// Flip webcam video p5.js demo
+// https://editor.p5js.org/whatmakeart/sketches/_OILw6Ryr
+
+// initialize video capture variable
+let video;
+// initialize video aspect ratio variable
+let captureAspectRatio;
+
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  // store capture in variable
+  // https://p5js.org/reference/#/p5/createCapture
+  video = createCapture(VIDEO);
+  // hide the initial video capture
+  video.hide();
+}
+
+function draw() {
+  background(220);
+  // calculate video aspect ratio
+  captureAspectRatio = video.height / video.width;
+  // uncomment below to show unflipped video
+  // image(video, 0, 0, width, width * captureAspectRatio);
+
+  // contain the video flip operation in push(); & pop();
+  // https://p5js.org/reference/#/p5/push
+  push();
+  // move video to the right 1 full width
+  // https://p5js.org/reference/#/p5/translate
+  translate(width, 0);
+  // flip the video -100% horizontal scale 100% vertical scale
+  // https://p5js.org/reference/#/p5/scale
+  scale(-1, 1);
+  // show video as image
+  image(video, 0, 0, width, width * captureAspectRatio); // show video as image
+  pop();
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
+```
 
 </div>

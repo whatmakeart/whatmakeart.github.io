@@ -1,10 +1,10 @@
 ---
 title: Pixel Arrays
 date: 2024-02-09T09:30:00
-lastmod: 2024-02-09T07:53:15
+lastmod: 2024-02-12T04:41:34
 ---
 
-p5.js stores all of the pixels for the canvas in an array called `pixels`. Each pixel is represented by 4 index locations in the array for its red, blue, green, and alpha values.
+p5.js stores all of the pixels for the canvas in an array called `pixels`. Each pixel is represented by 4 index locations in the array for its red, blue, green, and alpha values. [^p5js-pixels]
 
 The pixel number = (x + y \* width) [^train-pixels]
 
@@ -33,4 +33,5 @@ Lets try from pixel #28.
 
 ## References
 
+[^p5js-pixels]: [p5.js Pixels Reference](https://p5js.org/reference/#/p5/pixels)
 [^train-pixels]: [Coding Train p5.js Pixel Array Example](https://editor.p5js.org/codingtrain/sketches/A92PDk-1z)

@@ -1,7 +1,7 @@
 ---
 title: 03.09 Interactive Object Assignment
 date: 2024-02-03T09:30:00
-lastmod: 2024-02-02T13:09:50
+lastmod: 2024-02-12T04:25:24
 ---
 
 ## Assignment Deliverables
@@ -25,3 +25,18 @@ lastmod: 2024-02-02T13:09:50
 - use a loop to call a method on the objects
   - this loop could call one or both of the methods
 - Add an interactive event that changes something about the objects
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                                      | Weight    |
+| ----------------------------------------------- | --------- |
+| Define a JavaScript Class                       | 20 points |
+| 2 attributes in constructor function            | 20 points |
+| 2 methods in the class                          | 20 points |
+| Use a loop to create objects and store in array | 20 points |
+| Use loop to call a method on objects            | 20 points |
+| Interactive event that changes the objects      | 20 points |
+
+</div>
