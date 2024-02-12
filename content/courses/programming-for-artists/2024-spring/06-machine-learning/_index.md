@@ -1,5 +1,5 @@
 ---
-title: 06
+title: 06 Machine Learning
 date: 2024-02-16T09:30:00
-lastmod: 2024-02-12T04:29:15
+lastmod: 2024-02-12T07:34:35
 ---
