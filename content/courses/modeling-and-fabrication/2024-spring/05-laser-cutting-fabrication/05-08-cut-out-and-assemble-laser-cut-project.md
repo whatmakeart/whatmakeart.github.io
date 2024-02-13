@@ -1,7 +1,7 @@
 ---
 title: "05.08 Cut Out and Assemble Laser Cut Project"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2024-02-12T07:49:54
 ---
 
 ## Assignment Deliverables
@@ -55,12 +55,6 @@ Go to the think[box] and cut out your project. If something doesn't work out rig
 ## Using Acrylic
 
 The laser cutters can cut acrylic plastic. Make sure you leave the protective paper on the acrylic so it can be identified. Polycarbonate is not able to be cut so you must be able to read the protective paper to determine the material. Acrylic cuts cleanly on the laser cutter without the burn marks of wood.
-
-[House of Plastics](https://www.hpmanufacturing.com/hop/) on Carnegie Avenue in Cleveland sells scrap cutoff pieces of acrylic by the pound. These are usually pretty big pieces and cost a fraction of what they would new. It is a great place to get acrylic material for making projects.
-
-HP Manufacturing
-3705 Carnegie Avenue
-Cleveland, Ohio 44115
 
 ## Grading Rubric
 
