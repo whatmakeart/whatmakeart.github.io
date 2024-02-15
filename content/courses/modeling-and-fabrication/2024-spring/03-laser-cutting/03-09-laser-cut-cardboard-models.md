@@ -1,7 +1,7 @@
 ---
 title: "03.09 Laser Cut Cardboard Model"
 date: 2024-02-01T12:00:00Z
-lastmod: 2024-02-08T05:45:53
+lastmod: 2024-02-15T06:14:28
 ---
 
 ## Assignment Deliverables
@@ -23,8 +23,9 @@ lastmod: 2024-02-08T05:45:53
 
 | Assessment          | Weight    |
 | ------------------- | --------- |
+| Model Made          | 10 points |
 | Design              | 40 points |
 | Assembly Techniques | 30 points |
-| Clean Cuts          | 30 points |
+| Clean Cuts          | 20 points |
 
 </div>

@@ -1,10 +1,8 @@
 ---
-title: "04.08 Laser Cut Fusion Model Self Assessment"
-date: 2024-02-08T12:00:00Z
-lastmod: 2024-02-08T05:06:33
+title: 05.01 Laser Cut Fusion Model Self Assessment
+date: 2024-02-16T12:00:00Z
+lastmod: 2024-02-14T06:23:50
 ---
-
-## Laser Cut Fusion 360 Model Self Evaluation
 
 Answer the prompts below in a replay to this discussion thread. You can also answer different prompts related to the assessment of your 3D model.
 
