@@ -1,7 +1,7 @@
 ---
-title: 05.08 Cut Out and Assemble Laser Cut Project
+title: 05.09 Cut Out and Assemble Laser Cut Project
 date: 2024-02-16T12:00:00Z
-lastmod: 2024-02-15T06:31:18
+lastmod: 2024-02-15T07:20:29
 ---
 
 ## Assignment Deliverables

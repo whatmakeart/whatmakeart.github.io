@@ -1,7 +1,7 @@
 ---
-title: 05.05 Lay Out Parts Flat for Laser Cutting
+title: 05.06 Lay Out Parts Flat for Laser Cutting
 date: 2024-02-16T12:00:00Z
-lastmod: 2024-02-15T06:31:18
+lastmod: 2024-02-15T07:20:29
 toc: true
 ---
 
