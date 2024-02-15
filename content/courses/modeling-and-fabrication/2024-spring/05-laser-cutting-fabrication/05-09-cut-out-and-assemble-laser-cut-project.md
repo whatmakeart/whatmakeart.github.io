@@ -1,7 +1,7 @@
 ---
 title: 05.09 Cut Out and Assemble Laser Cut Project
 date: 2024-02-16T12:00:00Z
-lastmod: 2024-02-15T07:20:29
+lastmod: 2024-02-15T14:30:28
 ---
 
 ## Assignment Deliverables
@@ -14,7 +14,7 @@ Label files YYYYMMDD Lastname Firstname Project Name.ext
 
 ## Assignment Overview
 
-Using your written self assessment and comments from the group discussion of the laser cut digital models, make changes to your Fusion 360 model to improve your design. Sometimes it is best to go back in the timeline to make changes, other times it is easier to edit from the end of the timeline. The goal is to have a better 3D model than what you started with.
+Using your written self assessment and comments from the pair and group discussion of the laser cut digital models, make changes to your Fusion 360 model to improve your design. Sometimes it is best to go back in the timeline to make changes, other times it is easier to edit from the end of the timeline. The goal is to have a better 3D model than what you started with.
 
 ### Points to consider?
 
@@ -41,15 +41,15 @@ Go to the think[box] and cut out your project. If something doesn't work out rig
 
 ## Assemble Project
 
-1. Use sandpaper or a sander to remove burn marks on the surface and ash discoloration. The burn marks on the edges are fine as is.
+1. Use sandpaper or a sander to remove burn marks on the flat planar surfaces and discoloration from ash. The burn marks on the thin edges are fine as is.
 2. Then use a combination of friction fit, glue, and fasteners to assemble your laser cut project.
 3. Remove any excess glue.
 4. Sand any remaining rough edges.
 5. Apply wood finish or paint as desired
-   - (wax, a weak finish is available in the fab studios)
+   - (wax, a weak, non durable, but easy to apply finish is available in the Fab Studios)
    - (Danish Oil, a more durable wipe on finish is available from your instructor)
    - (water based Polyurethane is available at the store)
-   - (acrylic paints work well on wood)
+   - (acrylic paint works well on wood)
 6. Bring completed project to class.
 
 ## Using Acrylic
