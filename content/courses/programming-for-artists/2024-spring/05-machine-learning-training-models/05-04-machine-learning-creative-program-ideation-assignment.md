@@ -1,7 +1,7 @@
 ---
 title: 05.04 Machine Learning Creative Program Ideation Assignment
 date: 2024-02-16T09:30:00
-lastmod: 2024-02-16T13:57:45
+lastmod: 2024-02-16T14:11:32
 ---
 
 ## Assignment Deliverables
@@ -60,3 +60,10 @@ Start with a simple statement about the goals of the program. In this case our g
 To be clear, you are not required to turn in a working program. But that does not mean that you should not experiment with bits and pieces of your project. Try to solve small parts of your desired program. Break up the ideas into smaller and separate working examples in different files. Experiment and have fun.
 
 We will use your ideation as the basis of a multi week code and programming investigation that hopefully ends with a working program.
+
+## Even Farther
+
+Spend a couple hours watching the amazing [Dan Shiffman on the Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) and try out some of his numerous demos. Dan is a great resource. Follow rabbit trails to other coding and programming adventures.
+
+- [Coding Train Website](https://thecodingtrain.com/)
+- [Coding Train YouTube](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
