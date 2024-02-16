@@ -58,7 +58,8 @@
   href="{{- $link | safeURL -}}"
   {{- with .Title -}}title="{{- . -}}"{{- end -}}
   >{{- .Text | safeHTML -}}{{- if $isRemote -}}
-      <span style="white-space: nowrap;">&thinsp;<svg
+    <span style="white-space: nowrap;"
+      >&thinsp;<svg
         style="height: auto; width: 0.6rem; margin-left: 0.2rem; vertical-align: baseline;"
         focusable="false"
         data-icon="external-link-alt"
@@ -82,7 +83,7 @@
           fill="currentColor"
           stroke="currentColor"
           d="M722.34 260.06 792 0 531.94 69.67z"
-        />
-      </svg></span>
+        /></svg
+    ></span>
   {{- end -}}
 </a>
