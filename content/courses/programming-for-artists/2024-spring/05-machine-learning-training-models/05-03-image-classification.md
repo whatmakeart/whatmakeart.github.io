@@ -1,7 +1,7 @@
 ---
-title: 05.02 Image Classification
+title: 05.03 Image Classification
 date: 2024-02-16T09:30:00
-lastmod: 2024-02-16T07:51:02
+lastmod: 2024-02-16T08:53:52
 ---
 
 ## Image Classification with Teachable Machine
