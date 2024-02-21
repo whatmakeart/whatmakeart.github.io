@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 User Interface
 date: 2023-06-14T12:21:53
-lastmod: 2024-01-25T05:33:11
+lastmod: 2024-02-21T09:22:35
 tags:
   - Fusion 360
 ---
@@ -13,8 +13,8 @@ More in depth but essential features of Fusion 360 include:
 - The Design Timeline
 - [User Parameters](./fusion-360-basic-user-parameters.md)
 - Model Browser
-- Using [sketch constraints](./fusion-360-sketch-constraints.md)
-- [T-Spline Sculpting](./fusion-360-organic-forms-with-t-splines.md)
+- Using [sketch constraints](./sketch-constraints-fusion-360.md)
+- [T-Spline Sculpting](./organic-forms-with-t-splines-fusion-360.md)
 - [Basic Rendering](./fusion-360-basic-rendering.md)
 
 ## Fusion 360 Introduction Video

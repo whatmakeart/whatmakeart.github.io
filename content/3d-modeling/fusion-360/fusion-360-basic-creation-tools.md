@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Basic Creation Tools
 date: 2023-06-13T14:13:56
-lastmod: 2024-01-25T05:33:11
+lastmod: 2024-02-21T09:22:35
 tags:
   - Fusion 360
 ---
@@ -10,7 +10,7 @@ tags:
 
 [Fusion 360](fusion-360.md) allows you to create fast polygon primitives of specific sizes easily. You can create a box, cylinder, sphere, torus, coil, or a pipe. To create any of these forms usually involves an initial click to define the starting surface or point, then a drag to set the first dimensions, a manipulation of parameters and then a confirmation of your choices. If you hover over most tools with your cursor in Fusion 360 it provides as brief description of what the tool does and how to use it.
 
-When creating a new shape it defaults to a new body but you can also create a new component. Often it is helpful to create a new component to represent a part of your model or assembly as a first step, known as [Rule #1](./fusion-360-rule-number-one.md) in Fusion 360. If there are existing shapes in the model when you create a new form, then there are options for joining, cutting, intersect, as well as new body and new component.
+When creating a new shape it defaults to a new body but you can also create a new component. Often it is helpful to create a new component to represent a part of your model or assembly as a first step, known as [Rule #1](./rule-number-one-fusion-360.md) in Fusion 360. If there are existing shapes in the model when you create a new form, then there are options for joining, cutting, intersect, as well as new body and new component.
 
 ### Creating New Forms
 

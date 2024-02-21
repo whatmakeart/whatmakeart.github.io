@@ -1,7 +1,7 @@
 ---
 title: "10.00 Introduction"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-18T06:20:35
+lastmod: 2024-02-21T09:22:35
 ---
 
 ## Overview
@@ -19,8 +19,8 @@ In the design process, once a sketches and a simple prototype are made we assess
 
 ## Key Terms
 
-- [Robust parametric model](../../../../3d-modeling/fusion-360/robust-parametric-3d-models.md)
-- [Manufacture Model](../../../../3d-modeling/fusion-360/fusion-360-make-manufacture-model-copy.md)
+- [Robust parametric model](../../../../3d-modeling/fusion-360/robust-parametric-models-fusion-360.md)
+- [Manufacture Model](../../../../3d-modeling/fusion-360/make-manufacture-model-copy-fusion-360.md)
 - Envelope
 - Inside corner
 - Outside corner

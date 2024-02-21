@@ -1,7 +1,7 @@
 ---
 title: "10.04 Fusion 360 Model of CNC Project"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2024-02-21T09:22:35
 ---
 
 ## Assignment Deliverables
@@ -20,7 +20,7 @@ lastmod: 2024-01-04T13:15:02
 3. Make sure that no parts overlap each other, especially where the joints are. Under the Inspect tab in Fusion 360, use the "interference" tool to check for overlapping parts.
 4. Apply materials and make a rendering of the project.
 5. Switch to the Manufacture Workspace.
-6. [Create a manufacture model](../../../../3d-modeling/fusion-360/fusion-360-make-manufacture-model-copy.md).
+6. [Create a manufacture model](../../../../3d-modeling/fusion-360/make-manufacture-model-copy-fusion-360.md).
 7. Right click on the manufacture model to edit.
 8. Draw a sketch on the ground plane to represent the 24" x 60" piece of plywood.
 9. Use arrange tool to place all the parts flat on the sketch. If all of the parts do not fit, then you will need to use a bigger piece of plywood. Edit the size of the plywood sketch until the parts fit or change the size of the model until the parts fit.

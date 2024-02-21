@@ -1,7 +1,7 @@
 ---
 title: "02.00 Introduction to Modeling Basics"
 date: 2024-01-25T12:00:00Z
-lastmod: 2024-01-25T05:12:19
+lastmod: 2024-02-21T09:22:35
 ---
 
 ## Overview
@@ -21,10 +21,10 @@ This module covers how to use the information from technical sketches to create 
 
 - Extrude
 - Loft
-- [Revolve](../../../../3d-modeling/fusion-360/fusion-360-revolve-tool.md)
+- [Revolve](../../../../3d-modeling/fusion-360/revolve-tool-fusion-360.md)
 - Sweep
 - Sketch (in context of Fusion 360)
-- [Sketch Constraints](../../../../3d-modeling/fusion-360/fusion-360-sketch-constraints.md)
+- [Sketch Constraints](../../../../3d-modeling/fusion-360/sketch-constraints-fusion-360.md)
 - Aspect Ratio
 - [Render](../../../../3d-modeling/fusion-360/fusion-360-basic-rendering.md)
 - [.f3d File](../../../../3d-modeling/fusion-360/fusion-360-export-f3d-file.md)

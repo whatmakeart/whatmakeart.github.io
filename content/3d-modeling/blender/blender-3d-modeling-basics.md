@@ -1,10 +1,14 @@
 ---
 title: Blender 3D Modeling
 date: 2023-06-14T13:46:52
-lastmod: 2023-09-07T20:28:29
+lastmod: 2024-02-21T06:25:29
 ---
 
-## Blender Quick Start
+## Blender User Interface Quick Start
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/d54uJufn1pA?si=jOpx5BL0q9mdviJP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 The official [Blender Online Documentation](https://docs.blender.org/manual/en/dev/) is a great place to get started with the basics of Blender as well as explore advanced topics.
 
@@ -41,7 +45,7 @@ The official [Blender Online Documentation](https://docs.blender.org/manual/en/d
 
 ## Blender Introduction
 
-- [Blender User Interface](https://docs.blender.org/manual/en/dev/interface/index.html)
+- [Blender User Interface](https://youtu.be/d54uJufn1pA)
 - Blender Object vs Edit Mode
 - [Blender Extrude](https://docs.blender.org/manual/en/dev/modeling/meshes/editing/mesh/extrude.html)
 - [Blender Export STL](https://docs.blender.org/manual/en/dev/addons/import_export/mesh_stl.html)
