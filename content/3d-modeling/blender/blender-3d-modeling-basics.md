@@ -1,7 +1,7 @@
 ---
 title: Blender 3D Modeling
 date: 2023-06-14T13:46:52
-lastmod: 2024-02-21T06:25:29
+lastmod: 2024-02-21T11:54:04
 ---
 
 ## Blender User Interface Quick Start
@@ -46,6 +46,7 @@ The official [Blender Online Documentation](https://docs.blender.org/manual/en/d
 ## Blender Introduction
 
 - [Blender User Interface](https://youtu.be/d54uJufn1pA)
+- [Blender Hole in Cube](https://youtu.be/COyvicPBTSA)
 - Blender Object vs Edit Mode
 - [Blender Extrude](https://docs.blender.org/manual/en/dev/modeling/meshes/editing/mesh/extrude.html)
 - [Blender Export STL](https://docs.blender.org/manual/en/dev/addons/import_export/mesh_stl.html)
@@ -74,6 +75,15 @@ Blender Default Scene with cube
 </figure>
 
 <div class="video-grid">
+
+<div class="video-card">
+
+### Blender Hole in Cube
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/COyvicPBTSA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="video-card">
 

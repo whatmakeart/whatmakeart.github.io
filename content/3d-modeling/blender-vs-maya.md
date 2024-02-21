@@ -1,7 +1,7 @@
 ---
 title: Blender vs Maya
 date: 2024-01-26T05:22:49
-lastmod: 2024-02-14T06:22:01
+lastmod: 2024-02-21T13:29:00
 ---
 
 ## Blender vs Maya Basic Rendering
@@ -30,10 +30,10 @@ lastmod: 2024-02-14T06:22:01
 
 | Maya                                                                      | Blender                                                                          |
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [Maya for Beginners](https://youtu.be/-SpVNiRqeKY)                        |                                                                                  |
+| [Maya for Beginners](https://youtu.be/-SpVNiRqeKY)                        | [Blender for Beginners](https://youtu.be/d54uJufn1pA)                            |
 | [Maya Polygon Modeling](https://youtu.be/eBEitxaRYQs)                     |                                                                                  |
-| [Maya Hole in Cube](https://youtu.be/EIKiJUmUH7A)                         |                                                                                  |
-| [Maya Beginner Modeling Block](https://youtu.be/lLItO9mBwxM)              |                                                                                  |
+| [Maya Hole in Cube](https://youtu.be/EIKiJUmUH7A)                         | [Blender Hole in Cube](https://youtu.be/EIKiJUmUH7A)                             |
+| [Maya Beginner Modeling Block](https://youtu.be/lLItO9mBwxM)              | [Blender Beginner Modeling Block](https://youtu.be/L5e7ysUUI7A)                  |
 | [Maya 3 Point Lighting](https://youtu.be/1nYSVw6-GxA)                     | [Blender 3 Point Lighting](https://youtu.be/SbMuowrbKe0)                         |
 | [Maya UV Mapping Basics](https://youtu.be/X0KGwPadukE)                    |                                                                                  |
 | [Maya Ball Rig](https://youtu.be/3uYyw_q7L3o)                             | [Blender Ball Rigging](https://youtu.be/VsBTUaRESr0)                             |
