@@ -1,7 +1,7 @@
 ---
-title: 05.01 Pretrained Models
+title: 05.02 Pretrained Models
 date: 2024-02-16T09:30:00
-lastmod: 2024-02-16T06:22:09
+lastmod: 2024-02-16T08:54:03
 ---
 
 The models used in previous experiments with ml5.js and p5.js were pretrained models.
