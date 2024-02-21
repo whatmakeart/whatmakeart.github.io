@@ -1,12 +1,12 @@
 ---
 title: "10.04 Fusion 360 Model of CNC Project"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-02-21T09:22:35
+lastmod: 2024-02-21T09:49:19
 ---
 
 ## Assignment Deliverables
 
-1. Exported Fusion 360 File (.f3d file) [How to Export Fusion 360 .f3d File](../../../../3d-modeling/fusion-360/fusion-360-export-f3d-file.md)
+1. Exported Fusion 360 File (.f3d file) [How to Export Fusion 360 .f3d File](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
    - Label file YYYYMMDD Lastname Firstname CNC Project Model.f3d
 2. One Rendering of CNC Project with appearances applied. Should be in a 4:3 1:1 or 16:9 aspect ration with one side at least 4000px (.png or .jpg)
    - Label file YYYYMMDD Lastname Firstname CNC Project Rendering.f3d

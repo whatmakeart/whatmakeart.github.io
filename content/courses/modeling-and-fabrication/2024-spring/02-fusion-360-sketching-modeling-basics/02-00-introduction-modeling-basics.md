@@ -1,7 +1,7 @@
 ---
 title: "02.00 Introduction to Modeling Basics"
 date: 2024-01-25T12:00:00Z
-lastmod: 2024-02-21T09:22:35
+lastmod: 2024-02-21T09:49:19
 ---
 
 ## Overview
@@ -26,5 +26,5 @@ This module covers how to use the information from technical sketches to create 
 - Sketch (in context of Fusion 360)
 - [Sketch Constraints](../../../../3d-modeling/fusion-360/sketch-constraints-fusion-360.md)
 - Aspect Ratio
-- [Render](../../../../3d-modeling/fusion-360/fusion-360-basic-rendering.md)
-- [.f3d File](../../../../3d-modeling/fusion-360/fusion-360-export-f3d-file.md)
+- [Render](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
+- [.f3d File](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)

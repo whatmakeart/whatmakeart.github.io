@@ -1,7 +1,7 @@
 ---
 title: "02.08 Model Objects in Fusion 360 and Export Render Images"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2024-02-21T09:49:19
 ---
 
 ## Assignment Deliverables
@@ -9,7 +9,7 @@ lastmod: 2024-01-04T13:15:02
 Upload the following:
 
 - 1 high resolution, labeled render image (1:1, 4:3, 16:9 aspect ratio, 4000px minimum largest side)
-- 1 exported Fusion 360 .f3d file [How to export .f3d File](../../../../3d-modeling/fusion-360/fusion-360-export-f3d-file.md)
+- 1 exported Fusion 360 .f3d file [How to export .f3d File](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
 
 Label your files:
 

@@ -1,7 +1,7 @@
 ---
 title: Fusion 360
 date: 2023-05-26T02:50:47
-lastmod: 2024-02-21T09:22:35
+lastmod: 2024-02-21T09:49:19
 aliases:
   - Fusion 360
 ---
@@ -20,7 +20,7 @@ In addition to traditional parametric CAD modeling tools, Fusion 360 also has a 
 
 ## Fusion 360 Rendering
 
-Fusion 360 has a robust local and cloud rendering engine with built in materials. Some materials are fully 3D mapped and seamlessly cover complex shapes and forms. Get started with [basic rendering in Fusion 360](./fusion-360-basic-rendering.md)
+Fusion 360 has a robust local and cloud rendering engine with built in materials. Some materials are fully 3D mapped and seamlessly cover complex shapes and forms. Get started with [basic rendering in Fusion 360](./basic-rendering-fusion-360.md)
 
 ## Parametric Modeling
 

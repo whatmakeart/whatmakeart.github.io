@@ -1,7 +1,7 @@
 ---
 title: "04.00 Introduction"
 date: 2024-02-08T12:00:00Z
-lastmod: 2024-02-08T05:45:53
+lastmod: 2024-02-21T09:49:19
 ---
 
 ## Overview
@@ -21,4 +21,4 @@ This module continues the design and fabrication process based on the ideation a
 - dxf - CAD file format that stores vector information in plain text created by Autodesk
 - finger joint
 - tool path - gCode information used by a laser cutter, cnc machine, water jet or other computer controlled cutting machine
-- [user parameters](../../../../3d-modeling/fusion-360/fusion-360-basic-user-parameters.md)
+- [user parameters](../../../../3d-modeling/fusion-360/basic-user-parameters-fusion-360.md)

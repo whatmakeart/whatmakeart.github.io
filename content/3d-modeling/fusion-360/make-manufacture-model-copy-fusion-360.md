@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Make Manufacture Model Copy
 date: 2023-06-14T12:56:22
-lastmod: 2024-01-25T05:33:11
+lastmod: 2024-02-21T09:49:19
 tags:
   - Fusion 360
 ---
@@ -10,7 +10,7 @@ tags:
 
 [Fusion 360](fusion-360.md) has multiple workspaces. We have used the Design and Render workspaces. Another workspace is the Manufacture workspace. This workspace is for preparing a model for fabrication and generating toolpaths.
 
-By creating a manufacture model copy of your design model, you can move the parts around and lay them flat without changing your design model. If you change your design model then the manufacture model updates automatically. This can be helpful for making variations of [patterns ](fusion-360-basic-pattern-tools.md)and designs.
+By creating a manufacture model copy of your design model, you can move the parts around and lay them flat without changing your design model. If you change your design model then the manufacture model updates automatically. This can be helpful for making variations of [patterns ](basic-pattern-tools-fusion-360.md)and designs.
 
 If you make changes to the manufacture model, it does not update the design model. This can be helpful if for testing. Perhaps you want to add or remove a portion of a piece to see how it works but don't want to capture it in your design history. Then making the changes in your manufacture model is a good idea. Otherwise it is best to make changes in the design model.
 

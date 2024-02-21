@@ -1,5 +1,5 @@
 ---
 title: "12 Polygon Modeling"
-date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+date: 2024-12-22T12:00:00Z
+lastmod: 2024-02-21T09:49:19
 ---

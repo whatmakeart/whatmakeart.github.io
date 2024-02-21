@@ -1,12 +1,12 @@
 ---
 title: "11.05 Create Toolpath CNC Project"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2024-02-21T09:49:19
 ---
 
 ## Assignment Deliverables
 
-1. Fusion 360 file with toolpaths created in the manufacture workspace (.f3d) - [How to Export Fusion 360 .f3d File](../../../../3d-modeling/fusion-360/fusion-360-export-f3d-file.md)
+1. Fusion 360 file with toolpaths created in the manufacture workspace (.f3d) - [How to Export Fusion 360 .f3d File](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
 2. Screen shot of toolpath from manufacture workspace (.png or .jpg) - [How to take a screenshot](../../../../software/how-to-take-a-screenshot.md)
 3. Exported ShopBot file for CNC (.sbp) - [ShopBot Toolpaths](../../../../digital-fabrication/cnc/shopbot-toolpaths-fusion-360.md)
 

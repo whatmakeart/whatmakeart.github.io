@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Basic Creation Tools
 date: 2023-06-13T14:13:56
-lastmod: 2024-02-21T09:22:35
+lastmod: 2024-02-21T09:49:19
 tags:
   - Fusion 360
 ---
@@ -38,7 +38,7 @@ Additional creation tools help make more complex forms and designs. The basic cr
 
 ## Additional Creation Tools
 
-Fusion 360 offers many more tools including [pattern making tools](./fusion-360-basic-pattern-tools.md), thickening tools, boundary fill tools, tools for creating printed circuit boards, and many more.
+Fusion 360 offers many more tools including [pattern making tools](./basic-pattern-tools-fusion-360.md), thickening tools, boundary fill tools, tools for creating printed circuit boards, and many more.
 
 ## Fusion 360 Basic Creation Tools Example Videos
 
