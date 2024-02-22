@@ -1,7 +1,7 @@
 ---
 title: 01.11 Installation Ideation Assignment
 date: 2023-08-25T09:30:00Z
-lastmod: 2023-09-15T06:24:24
+lastmod: 2024-02-22T06:45:54
 ---
 
 ## Assignment Deliverables
@@ -46,8 +46,8 @@ You are expected to work on your ideation sketches for ~4.5 hours. This included
 
 ## 3D Modeling Resources
 
-- [Blender Modeling Basics](../../../../3d-modeling/blender/blender-3d-modeling-basics.md)
-- [Blender Rendering Basics](../../../../3d-modeling/blender/blender-rendering-basics.md)
+- [Blender Modeling Basics](../../../../3d-modeling/blender/3d-modeling-basics-blender.md)
+- [Blender Rendering Basics](../../../../3d-modeling/blender/rendering-basics-blender.md)
 
 ## Photoshop Generative Fill
 

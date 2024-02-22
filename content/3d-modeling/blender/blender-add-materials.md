@@ -1,7 +1,7 @@
 ---
-title: Blender Add Materials
+title: Add Materials - Blender
 date: 2023-06-14T13:48:44
-lastmod: 2023-09-07T20:28:34
+lastmod: 2024-02-22T06:45:54
 ---
 
 Adding Materials in [Blender](blender.md) works with shaders.

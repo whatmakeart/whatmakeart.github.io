@@ -1,7 +1,7 @@
 ---
 title: 01.09 3D Modeling Installation Ideation Blender
 date: 2023-08-25T09:30:00Z
-lastmod: 2023-09-14T13:20:59
+lastmod: 2024-02-22T06:45:54
 ---
 
 Once a 3D model of an exhibition space is made in Blender, it can easily be duplicated inside the software. This is like having multiple blank templates to create sketches and ideas in. By creating approximate sized objects representing an installation concept inside a to scale 3D model, you can quickly get a sense of how it will look in the space and if a particular idea is worth pursuing.
@@ -26,4 +26,4 @@ Example of duplicating the exhibition space in Blender for iterative ideation.
 
 ## Blender Resources
 
-- [Blender Rendering Basics](../../../../3d-modeling/blender/blender-rendering-basics.md)
+- [Blender Rendering Basics](../../../../3d-modeling/blender/rendering-basics-blender.md)

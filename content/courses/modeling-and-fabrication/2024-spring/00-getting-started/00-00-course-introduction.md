@@ -1,7 +1,7 @@
 ---
 title: 00.00 Course Introduction
 date: 2024-01-18T09:00:00Z
-lastmod: 2024-01-17T05:36:24
+lastmod: 2024-02-22T06:45:54
 ---
 
 [![Modeling and Fabrication Course](./2024-modeling-and-fabrication-course-image.jpg)](./2024-modeling-and-fabrication-course-image.jpg)
@@ -26,11 +26,11 @@ The course introduces basic technical sketching, third angle projections, 3D mod
 - [3D Printing](../../../../digital-fabrication/3d-printing/3d-printing.md)
 - [CNC Fabrication](../../../../digital-fabrication/cnc/cnc-basics.md)
 - 3D Animation
-  - [Blender 3D Animation](../../../../3d-modeling/blender/blender-3d-animation.md)
-  - [Maya 3D Animation](../../../../3d-modeling/maya/maya-3d-animation.md)
+  - [Blender 3D Animation](../../../../3d-modeling/blender/3d-animation-blender.md)
+  - [Maya 3D Animation](../../../../3d-modeling/maya/3d-animation-maya.md)
 - Rendering
-  - [Blender Rendering](../../../../3d-modeling/blender/blender-rendering-basics.md)
-  - [Maya Rendering](../../../../3d-modeling/maya/maya-rendering-basics.md)
+  - [Blender Rendering](../../../../3d-modeling/blender/rendering-basics-blender.md)
+  - [Maya Rendering](../../../../3d-modeling/maya/rendering-basics-maya.md)
 
 ## Course Information
 

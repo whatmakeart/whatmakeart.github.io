@@ -1,7 +1,7 @@
 ---
 title: Polygon Mesh 3D Modeling Basics
 date: 2023-06-14T13:54:43
-lastmod: 2024-02-21T12:03:03
+lastmod: 2024-02-22T06:45:54
 ---
 
 ## Polygon Mesh 3D Modeling Terms
@@ -140,6 +140,6 @@ vt 0.9860912561 0.3404420018
 
 This [Blender vs Maya Polygon Modeling Comparison](./blender-vs-maya.md) show ways to accomplish the same tasks in Maya and Blender, two popular 3D Modeling programs.
 
-- [Blender Modeling Basics](./blender/blender-3d-modeling-basics.md)
-- [Maya Modeling Basics](./maya/maya-3d-modeling-basics.md)
+- [Blender Modeling Basics](./blender/3d-modeling-basics-blender.md)
+- [Maya Modeling Basics](./maya/3d-modeling-basics-maya.md)
 - [Fusion 360 Modeling Basics](./fusion-360/organic-forms-with-t-splines-fusion-360.md)

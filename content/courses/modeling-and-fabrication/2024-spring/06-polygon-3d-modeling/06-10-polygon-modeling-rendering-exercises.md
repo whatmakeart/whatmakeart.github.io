@@ -1,17 +1,13 @@
 ---
 title: "06.09 Polygon Modeling Rendering Exercise"
-date: 2024-12-22T12:00:00Z
-lastmod: 2024-02-21T09:49:19
+date: 2024-02-22T12:00:00Z
+lastmod: 2024-02-22T06:45:54
 ---
 
 ## Assignment Deliverables
 
-1. Render image of an object modeled in [Blender](../../../../3d-modeling/blender/blender.md) or [Maya](../../../../3d-modeling/maya/maya.md) (png, jpg)
-   - Minimum 1920 x 1080 pixel render image
-   - Minimum of 2 lights (can have more lights)
-   - Minimum of 2 objects, model and background (can have many more objects)
-   - Apply materials and/or shaders to objects and background
-   - Label file YYYYMMDD Lastname Firstname Polygon Modeling Render Image
+1. Render image of an object modeled in [Blender](../../../../3d-modeling/blender/blender.md) **and in** [Maya](../../../../3d-modeling/maya/maya.md) (png, jpg)
+   - Label files YYYYMMDD Lastname Firstname Polygon Modeling Render Image
 
 ## Assignment Overview
 
@@ -19,14 +15,21 @@ Rendering in Blender and Maya take a bit more setup than rendering in Fusion 360
 
 This exercise introduces using lights and physical based material shaders in Blender in Maya. To render an image, it must have lights setup in the correct locations to light the object or scene. Varying the intensity and distance of the lights will change the look of the render dramatically. Experiment and render multiple versions of the scene that you create.
 
+### Requirements
+
+- Minimum 1920 x 1080 pixel render image
+- Minimum of 2 lights (can have more lights)
+- Minimum of 2 objects, model and background (can have many more objects)
+- Apply materials and/or shaders to objects and background
+
 <div class="video-grid">
 
 <div class="video-card">
 
-### Blender Basic Render
+### Maya Beginner Polygon Modeling Tutorial
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/Qw8jl8mKEsY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/lLItO9mBwxM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -36,6 +39,24 @@ This exercise introduces using lights and physical based material shaders in Ble
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/9RHh4OSPKQQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Blender Beginner Polygon Modeling Tutorial
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/L5e7ysUUI7A?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Blender Basic Render
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/Qw8jl8mKEsY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 

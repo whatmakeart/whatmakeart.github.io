@@ -1,7 +1,7 @@
 ---
 title: 09.09 3D Printing Exercise Assignment
 date: 2023-10-31T09:30:00
-lastmod: 2023-11-01T13:31:37
+lastmod: 2024-02-22T06:45:54
 ---
 
 ## Assignment Deliverables
@@ -14,7 +14,7 @@ lastmod: 2023-11-01T13:31:37
 
 ## Overview
 
-1. Model an object in [Blender](../../../../3d-modeling/blender/blender.md) for 3D printing output. Think about objects and forms that could be used as elements in videos or performance. Having a physical representation and a fully accurate digital 3D model of the same object opens up possibilities for content creation. You could use [physics simulation](../../../../3d-modeling/blender/blender-rigid-body-physics-quick-start-tutorial.md) to have the digital model tumble through space and then motion track the real object into it. **(No extra video or peformance is due for this project. This is to stimulate potential content ideas for your 3D printed object)**
+1. Model an object in [Blender](../../../../3d-modeling/blender/blender.md) for 3D printing output. Think about objects and forms that could be used as elements in videos or performance. Having a physical representation and a fully accurate digital 3D model of the same object opens up possibilities for content creation. You could use [physics simulation](../../../../3d-modeling/blender/rigid-body-physics-quick-start-tutorial-blender.md) to have the digital model tumble through space and then motion track the real object into it. **(No extra video or peformance is due for this project. This is to stimulate potential content ideas for your 3D printed object)**
 
 ## Helpful Guides
 
@@ -25,8 +25,8 @@ lastmod: 2023-11-01T13:31:37
 
 ### Blender 3D Printing Resources
 
-- [Blender Infinite Backdrop](../../../../3d-modeling/blender/blender-infinite-background.md)
-- [Blender Simpler Render](../../../../3d-modeling/blender/blender-simple-render.md)
+- [Blender Infinite Backdrop](../../../../3d-modeling/blender/infinite-background-blender.md)
+- [Blender Simpler Render](../../../../3d-modeling/blender/simple-render-blender.md)
 - [Blender Export STL](../../../../digital-fabrication/3d-printing/export-stl-blender.md)
 
 ### 3D Printing Slicing

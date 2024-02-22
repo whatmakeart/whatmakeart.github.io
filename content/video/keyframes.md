@@ -1,7 +1,7 @@
 ---
 title: Keyframes
 date: 2023-06-14T11:42:20
-lastmod: 2023-09-07T20:57:01
+lastmod: 2024-02-22T06:45:54
 tags:
   - stub
 ---
@@ -11,7 +11,7 @@ Keyframes describe an attribute at a point in time. This could be position, scal
 How far apart the keyframes are on the timeline determines the speed of the change. This can also be changed by changing the type of the keyframe to influence its interpolation.
 
 ## Examples of Keyframe Use
-- [maya-3d-animation](../3d-modeling/maya/maya-3d-animation.md)
-- [animation](animation.md)
-- [blender-3d-animation](../3d-modeling/blender/blender-3d-animation.md)
 
+- [maya-3d-animation](../3d-modeling/maya/3d-animation-maya.md)
+- [animation](animation.md)
+- [blender-3d-animation](../3d-modeling/blender/3d-animation-blender.md)

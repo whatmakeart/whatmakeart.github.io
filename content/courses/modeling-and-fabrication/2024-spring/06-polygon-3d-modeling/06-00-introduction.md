@@ -1,7 +1,7 @@
 ---
 title: "06.00 Introduction"
-date: 2024-12-22T12:00:00Z
-lastmod: 2024-02-21T09:49:19
+date: 2024-02-22T12:00:00Z
+lastmod: 2024-02-22T06:36:23
 ---
 
 ## Overview
@@ -14,7 +14,7 @@ Neither type of modeling is better than the other, they are for different purpos
 
 ## Learning Objectives
 
-- Model an object and apply a shader
+- Model a specific object and apply a shader
 - Model multiple objects to create a scene
 - Add additional lights
 - Create a render of the scene

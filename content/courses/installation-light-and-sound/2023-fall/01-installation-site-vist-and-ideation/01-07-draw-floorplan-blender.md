@@ -1,7 +1,7 @@
 ---
 title: 01.07 Draw a Floor Plan with Blender
 date: 2023-08-25T09:30:00Z
-lastmod: 2023-09-14T13:20:52
+lastmod: 2024-02-22T06:45:54
 ---
 
 After an image of a floor plan is imported into Blender and then adjusted for the correct scale, then 3D model geometry needs to be created. It is easiest to draw the outline of the floor plan while looking down from the top view. A simple floor plan can be drawn with straight edges.
@@ -32,4 +32,4 @@ You can use this basic prebuilt model of the gallery for your ideation. [Link to
 
 ## Blender Modeling Resources
 
-- [Blender 3D Modeling Basics](../../../../3d-modeling/blender/blender-3d-modeling-basics.md)
+- [Blender 3D Modeling Basics](../../../../3d-modeling/blender/3d-modeling-basics-blender.md)

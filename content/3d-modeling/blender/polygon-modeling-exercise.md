@@ -1,7 +1,7 @@
 ---
-title: Polygon Modeling Exercise Blender
+title: Polygon Modeling Exercise - Blender
 date: 2024-02-21T13:26:52
-lastmod: 2024-02-21T13:27:41
+lastmod: 2024-02-22T06:45:54
 ---
 
 <div class="iframe-16-9-container">
