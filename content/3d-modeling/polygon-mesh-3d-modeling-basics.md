@@ -1,8 +1,16 @@
 ---
 title: Polygon Mesh 3D Modeling Basics
 date: 2023-06-14T13:54:43
-lastmod: 2024-02-22T06:45:54
+lastmod: 2024-02-22T11:58:16
 ---
+
+## Approaches to Making 3D Models
+
+- Box Modeling
+- Photogrammetry
+- NURBS modeling
+- Sculpting
+- 3D Scanning
 
 ## Polygon Mesh 3D Modeling Terms
 
