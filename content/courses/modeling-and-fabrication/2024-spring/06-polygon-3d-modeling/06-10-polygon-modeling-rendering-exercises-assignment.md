@@ -1,7 +1,7 @@
 ---
-title: "06.09 Polygon Modeling Rendering Exercise"
+title: 06.10 Polygon Modeling Rendering Exercise Assignment
 date: 2024-02-22T12:00:00Z
-lastmod: 2024-02-22T06:45:54
+lastmod: 2024-02-22T10:49:26
 ---
 
 ## Assignment Deliverables

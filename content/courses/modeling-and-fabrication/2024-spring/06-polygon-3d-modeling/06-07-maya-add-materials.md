@@ -1,7 +1,7 @@
 ---
-title: "06.06 Maya Add Materials"
+title: 06.07 Maya Add Materials
 date: 2024-02-22T12:00:00Z
-lastmod: 2024-02-22T06:45:54
+lastmod: 2024-02-22T10:49:26
 toc: true
 ---
 
