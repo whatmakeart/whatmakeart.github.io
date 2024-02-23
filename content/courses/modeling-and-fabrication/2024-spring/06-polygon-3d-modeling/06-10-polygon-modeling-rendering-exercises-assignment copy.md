@@ -1,7 +1,7 @@
 ---
 title: 06.10 Polygon Modeling Rendering Exercise Assignment
 date: 2024-02-22T12:00:00Z
-lastmod: 2024-02-22T11:58:10
+lastmod: 2024-02-23T05:40:32
 ---
 
 ## Assignment Deliverables
@@ -20,7 +20,7 @@ This exercise introduces using lights and physical based material shaders in Ble
 ### Requirements
 
 - Include the form of the example "block" in both scenes
-- Minimum of 2 lights (can have more lights)
+- Minimum of 1 light (can have more lights)
 - Minimum of 2 objects, example "block" model and background (can have many more objects, and likely should have many more) - experiment and try things out
 - Apply materials and/or shaders to objects and background
 - Minimum 1920 x 1080 pixel render images
@@ -73,5 +73,25 @@ The videos below show how to make the example block in [Maya](https://youtu.be/l
 <iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/Qw8jl8mKEsY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
+
+</div>
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                      | Weight    |
+| ------------------------------- | --------- |
+| Example Block in Render Maya    | 20 points |
+| Light in Scene Maya             | 10 points |
+| Materials Added Maya            | 10 points |
+| Maya Render 1920 x 1080         | 10 points |
+| Example Block in Render Blender | 20 points |
+| Light in Scene Blender          | 10 points |
+| Materials Added Blender         | 10 points |
+| Blender Render 1920 x 1080      | 10 points |
+| .ma or .mb file uploaded        | 10 points |
+| .blend file uploaded            | 10 points |
+| File Management                 | 10 points |
 
 </div>
