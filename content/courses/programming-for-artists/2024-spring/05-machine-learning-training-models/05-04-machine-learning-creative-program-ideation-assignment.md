@@ -1,7 +1,7 @@
 ---
 title: 05.04 Machine Learning Creative Program Ideation Assignment
 date: 2024-02-16T09:30:00
-lastmod: 2024-02-16T14:11:32
+lastmod: 2024-02-23T08:55:26
 ---
 
 ## Assignment Deliverables
@@ -54,6 +54,20 @@ Start with a simple statement about the goals of the program. In this case our g
 6. The program does not have to work. Do your best to add as much of the structure as you can.
 7. Cite any code structure or code that you used.
 8. Upload the URL to your program skeleton.
+
+```js
+// 4.5 hours of homework outline
+
+if (previousAssignments != done) {
+  // Spend 1.5 hours on previous assignments
+} else {
+  // 1 hour or so of idea generation
+  // 1 hour or so of program skeletoning
+  // About half hour of flow chart drawing
+  // 1 hour or so of trying to make parts of program maybe work
+  // 1 hour or so of checking out coding train or other cool programming thing online
+}
+```
 
 ## Going Further
 
