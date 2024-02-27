@@ -1,7 +1,7 @@
 ---
 title: 04.05 ml5.js Experiment Assignment
 date: 2024-02-09T09:30:00
-lastmod: 2024-02-12T06:12:11
+lastmod: 2024-02-27T06:22:47
 ---
 
 ## Assignment Deliverables
@@ -67,8 +67,8 @@ More complicated sketches with multiple files can be combined with similar metho
 | Assessment                                          | Weight    |
 | --------------------------------------------------- | --------- |
 | Load ml5.js library                                 | 10 points |
-| Use handpose, facemesh, or posenet models           | 10 points |
-| Modify look of hand, face, or pose from the demo(s) | 10 points |
+| Use handpose, facemesh, or posenet models           | 20 points |
+| Modify look of hand, face, or pose from the demo(s) | 20 points |
 | Combine model with previous project or new project  | 20 points |
 | Use hand, face, or pose for interaction             | 20 points |
 | Upload URL                                          | 10 points |
