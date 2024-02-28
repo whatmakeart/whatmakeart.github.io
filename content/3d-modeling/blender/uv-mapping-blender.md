@@ -1,12 +1,14 @@
 ---
 title: UV Mapping - Blender
 date: 2023-06-15T05:47:32
-lastmod: 2024-02-22T06:45:54
+lastmod: 2024-02-28T06:22:18
 ---
 
-This video shows how to use [Smart UV Project](https://youtu.be/MkT4xIhoaLM) in [Blender](blender.md).
+UV mapping in [Blender](./blender.md) is the process of assigning 2D [UV coordinates](../uv-coordinates.md) to 3D objects. This is necessary so that textures can be applied to the objects in a way that is consistent and predictable.
 
-- [Add Checker Texture](https://youtu.be/gv8tQS9bSb8)
+This video shows how to use [Smart UV Project](https://youtu.be/MkT4xIhoaLM) in Blender.
+
+- [Add Checker Texture in Blender](https://youtu.be/gv8tQS9bSb8)
 
 <div class="video-grid">
 

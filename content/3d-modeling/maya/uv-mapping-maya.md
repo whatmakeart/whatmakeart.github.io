@@ -1,18 +1,18 @@
 ---
 title: UV Mapping - Maya
 date: 2023-06-15T05:48:39
-lastmod: 2024-02-22T05:44:58
+lastmod: 2024-02-28T05:50:03
 ---
 
-### UV Mapping
+### UV Mapping in Maya
 
-UV mapping in [Maya](maya.md) is the process of assigning 2D coordinates to 3D objects. This is necessary so that textures can be applied to the objects in a way that is consistent and predictable.
+UV mapping in [Maya](maya.md) is the process of assigning 2D [UV coordinates](../uv-coordinates.md) to 3D objects. This is necessary so that textures can be applied to the objects in a way that is consistent and predictable.
+
+The UV Editor in Maya is a powerful tool that can help you to UV map objects of any complexity. It is important to learn how to use the UV Editor effectively in order to produce high-quality UV maps. Use symmetry to your advantage. If your model is symmetrical, you can only UV map one half of it and then mirror the results to the other half. This can save you a lot of time.
 
 When laying out your UVs, try to minimize distortion. This will help to ensure that the textures look good on the object.
 
-The UV Editor is a powerful tool that can help you to UV map objects of any complexity. It is important to learn how to use the UV Editor effectively in order to produce high-quality UV maps. Use symmetry to your advantage. If your model is symmetrical, you can only UV map one half of it and then mirror the results to the other half. This can save you a lot of time.
-
-## Basic UV Mapping Guide
+## Basic Maya UV Mapping Guide
 
 Maya has a number of tools and features that make it easy to UV map your models. Here is a basic guide to UV mapping in Maya:
 
