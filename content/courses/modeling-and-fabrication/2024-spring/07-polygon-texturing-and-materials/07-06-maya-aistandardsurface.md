@@ -1,7 +1,7 @@
 ---
-title: 07.04 Maya aiStandardSurface
+title: 07.06 Maya aiStandardSurface
 date: 2024-02-29T12:00:00Z
-lastmod: 2024-02-27T05:09:37
+lastmod: 2024-02-29T11:42:21
 toc: true
 ---
 
