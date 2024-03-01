@@ -1,7 +1,7 @@
 ---
 title: 07.01 UV Coordinates
-date: 2024-02-28T06:19:24
-lastmod: 2024-02-28T06:20:09
+date: 2024-02-29T12:00:00Z
+lastmod: 2024-02-29T19:47:29
 toc: true
 ---
 

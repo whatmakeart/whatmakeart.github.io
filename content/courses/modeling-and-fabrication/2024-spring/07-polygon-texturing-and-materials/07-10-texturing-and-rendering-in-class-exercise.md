@@ -1,7 +1,7 @@
 ---
 title: 07.10 Texturing and Rendering In Class Exercise
 date: 2024-02-29T12:00:00Z
-lastmod: 2024-02-29T19:36:52
+lastmod: 2024-02-29T19:54:26
 ---
 
 ## Assignment Deliverables
@@ -22,17 +22,38 @@ lastmod: 2024-02-29T19:36:52
 
 ### Texture Images
 
+<div class="gallery-grid">
+<figure>
+
 [![Shell Texture](./shell-texture.png)](./shell-texture.png)
+
+<figcaption>
 
 Texture Image
 
+</figcaption>
+</figure>
+<figure>
+
 [![Shell Texture Bump Map](./shell-texture-bump-map.png)](./shell-texture-bump-map.png)
+
+<figcaption>
 
 Bump Map
 
+</figcaption>
+</figure>
+<figure>
+
 [![Shell Texture Normal Map](./shell-texture-normal-map.png)](./shell-texture-normal-map.png)
 
+<figcaption>
+
 Normal Map
+
+</figcaption>
+</figure>
+</div>
 
 ## Assignment Resources
 
@@ -43,8 +64,17 @@ Normal Map
 
 <div class="responsive-table-markdown">
 
-| Assessment | Weight |
-| ---------- | ------ |
-|            |        |
+| Assessment                                       | Weight |
+| ------------------------------------------------ | ------ |
+| More than 6 faces object in Blender scene        | 10     |
+| Use Texture Image + Bump Map on Blender material | 10     |
+| Minimum of 1 light source Blender scene          | 10     |
+| Render 2 different camera views Blender scene    | 10     |
+| Upload Blender .blend file with packed resources | 10     |
+| More than 6 faces object in Maya scene           | 10     |
+| Use Texture Image + Bump Map on Maya material    | 10     |
+| Minimum of 1 light source Maya scene             | 10     |
+| Render 2 different camera views Maya scene       | 10     |
+| Upload Maya scene archive .zip                   | 10     |
 
 </div>
