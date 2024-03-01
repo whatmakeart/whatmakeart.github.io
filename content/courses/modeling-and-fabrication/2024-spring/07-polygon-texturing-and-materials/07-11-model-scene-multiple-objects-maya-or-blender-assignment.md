@@ -1,7 +1,7 @@
 ---
 title: 07.11 Model a scene with multiple objects in Maya OR Blender
 date: 2024-02-29T12:00:00Z
-lastmod: 2024-02-29T19:28:36
+lastmod: 2024-02-29T19:36:59
 ---
 
 ## Assignment Deliverables
@@ -25,3 +25,13 @@ lastmod: 2024-02-29T19:28:36
 ## Assignment Resources
 
 - [Polyhaven textures](https://polyhaven.com/) Resource for royalty free texture files
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment | Weight |
+| ---------- | ------ |
+|            |        |
+
+</div>
