@@ -1,7 +1,7 @@
 ---
 title: 07.10 Texturing and Rendering In Class Exercise
 date: 2024-02-29T12:00:00Z
-lastmod: 2024-02-29T11:42:11
+lastmod: 2024-02-29T19:22:48
 ---
 
 ## Assignment Deliverables
@@ -11,13 +11,16 @@ lastmod: 2024-02-29T11:42:11
    - Minimum of 1 use of each of the following (Texture Image, Bump)
    - Minimum of 1 light source
    - Render 2 different camera views of the scene at a minimum 1920x1080 or 3840x2160 (.png or .jpg)
-2. Upload Blender **and** Maya project file (.blend or (.mb or .ma in a scene archive .zip))
-   - If using Blender, make sure to pack all external assets.
-   - If using Maya, make sure to export an archive of the scene with all of the texture files.
+2. Upload Blender **and** a Maya project saved as a Maya Scene Archive
+   (.blend and a Maya scene archive .zip)
+   - When using Blender, make sure to [pack all external assets](https://docs.blender.org/manual/en/latest/files/blend/packed_data.html) File > External Data > Automatically Pack Resources.
+   - When using Maya, make sure to export [Maya Scene Archive](https://youtu.be/gic-kMWKjNI) of the scene with all of the texture files.
 
 ## Assignment Overview
 
 3D models used in rendering are boring and nondescript without textures and colors. These can be enhanced with physical based materials. Use the image textures provided or create your own image textures. UV unwrap an object mesh. Apply the image texture and bump map texture jso it wraps around the object without stretching.
+
+### Texture Images
 
 [![Shell Texture](./shell-texture.png)](./shell-texture.png)
 
@@ -30,3 +33,8 @@ Bump Map
 [![Shell Texture Normal Map](./shell-texture-normal-map.png)](./shell-texture-normal-map.png)
 
 Normal Map
+
+## Assignment Resources
+
+- [Maya How to Archive Scene](https://youtu.be/gic-kMWKjNI)
+- [Blender pack all external assets](https://docs.blender.org/manual/en/latest/files/blend/packed_data.html)

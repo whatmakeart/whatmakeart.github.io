@@ -1,7 +1,7 @@
 ---
 title: Blender vs Maya
 date: 2024-01-26T05:22:49
-lastmod: 2024-02-21T13:29:00
+lastmod: 2024-02-29T19:29:08
 ---
 
 ## Blender vs Maya Basic Rendering
@@ -79,7 +79,7 @@ lastmod: 2024-02-21T13:29:00
 |                                                                           | [Blender Merge Verticies Multiple Objects](https://youtu.be/Jipi8XjDwsc)         |
 |                                                                           | [Blender Materials Tutorial](https://youtu.be/MQ7ba6CoGHM)                       |
 |                                                                           | [Blender Eevee Shadows Smooth](https://youtu.be/K6Oom8gFch4)                     |
-|                                                                           | [ BLender Inset Tool Across Modifier Mirror](https://youtu.be/FWhQdcOmP_8)       |
+|                                                                           | [BLender Inset Tool Across Modifier Mirror](https://youtu.be/FWhQdcOmP_8)        |
 |                                                                           | [Blender Random Colors](https://youtu.be/VzqZuXZJVRo)                            |
 |                                                                           | [Blender Transparent Texture](https://youtu.be/622uGwLxbPY)                      |
 |                                                                           | [Blender Auto Mirror](https://youtu.be/f7UeiFP0Gvc)                              |
