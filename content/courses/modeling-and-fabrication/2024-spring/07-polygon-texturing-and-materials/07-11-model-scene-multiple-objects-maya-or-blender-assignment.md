@@ -1,7 +1,7 @@
 ---
 title: 07.11 Model a scene with multiple objects in Maya OR Blender
 date: 2024-02-29T12:00:00Z
-lastmod: 2024-02-29T20:00:26
+lastmod: 2024-03-01T04:50:48
 ---
 
 ## Assignment Deliverables
@@ -21,6 +21,16 @@ lastmod: 2024-02-29T20:00:26
 6. Render a 1920 x 1080 image.
 7. Save a Maya scene archive .zip or an external resources packed .blend file
 8. Upload your project file and render image(s)
+
+## Scene Content Prompts
+
+The content of the scene and model is up to you. If you are unsure what to make you make be able to use the prompts below as a jumping off point.
+
+- An abstract landscape with a vast array of primitive forms
+- Microscopic table arrangement
+- Fantasy forest of cone trees
+- Habitat for strange organic creatures
+- Interior scene
 
 ## Assignment Resources
 

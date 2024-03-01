@@ -1,7 +1,7 @@
 ---
 title: 05.04 Machine Learning Creative Program Ideation Assignment
 date: 2024-02-16T09:30:00
-lastmod: 2024-02-23T08:55:26
+lastmod: 2024-03-01T05:28:19
 ---
 
 ## Assignment Deliverables
@@ -81,3 +81,16 @@ Spend a couple hours watching the amazing [Dan Shiffman on the Coding Train](htt
 
 - [Coding Train Website](https://thecodingtrain.com/)
 - [Coding Train YouTube](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                | Weight    |
+| ------------------------- | --------- |
+| Written Ideation Notes    | 30 points |
+| Sketches / Drawings       | 30 points |
+| Depth of Ideation Concept | 30 points |
+| File Management           | 10 points |
+
+</div>

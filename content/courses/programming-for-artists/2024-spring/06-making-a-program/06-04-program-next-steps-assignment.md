@@ -1,7 +1,7 @@
 ---
 title: 06.04 Program Next Steps Assignment
 date: 2024-02-23T09:30:00
-lastmod: 2024-02-24T06:49:38
+lastmod: 2024-03-01T05:29:59
 ---
 
 ## Assignment Deliverables
@@ -30,3 +30,16 @@ Even if nothing works, that is ok. Write down what happened, what you tried to d
 Spend an honest 4.5 hours researching, trying, testing, experimenting, reading, and report on the results. There are no wrong answers except not spending the time to try.
 
 Email any questions.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                              | Weight    |
+| --------------------------------------- | --------- |
+| Written Description of Progress         | 30 points |
+| Demonstration of successes and attempts | 40 points |
+| Code Status                             | 20 points |
+| File Management                         | 10 points |
+
+</div>
