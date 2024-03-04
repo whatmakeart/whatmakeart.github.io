@@ -1,7 +1,7 @@
 ---
 title: 07.10 Texturing and Rendering In Class Exercise
 date: 2024-02-29T12:00:00Z
-lastmod: 2024-02-29T19:54:26
+lastmod: 2024-03-04T10:40:28
 ---
 
 ## Assignment Deliverables
@@ -59,6 +59,14 @@ Normal Map
 
 - [Maya How to Archive Scene](https://youtu.be/gic-kMWKjNI)
 - [Blender pack all external assets](https://docs.blender.org/manual/en/latest/files/blend/packed_data.html)
+
+### Video Tutorials
+
+<div class="video-grid">
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/OOmQNgawF8c?si=qkpRun0uEaGDfp2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 ## Grading Rubric
 
