@@ -1,7 +1,7 @@
 ---
 title: 07.10 Texturing and Rendering In Class Exercise
 date: 2024-02-29T12:00:00Z
-lastmod: 2024-03-04T10:40:28
+lastmod: 2024-03-05T06:23:25
 ---
 
 ## Assignment Deliverables
@@ -62,10 +62,19 @@ Normal Map
 
 ### Video Tutorials
 
+- [Maya UV in Class Exercise](https://youtu.be/D3q2HleBJIs)
+- [Blender UV in Class Exercise](https://youtu.be/OOmQNgawF8c)
+
 <div class="video-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/D3q2HleBJIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/OOmQNgawF8c?si=qkpRun0uEaGDfp2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
 </div>
 
 ## Grading Rubric
