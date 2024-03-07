@@ -1,7 +1,7 @@
 ---
 title: Keyframes
 date: 2023-06-14T11:42:20
-lastmod: 2024-03-07T07:03:54
+lastmod: 2024-03-07T07:04:19
 ---
 
 Keyframes describe an attribute at a point in time. This could be position, scale, rotation, opacity or many other parameters. With only a single keyframe, nothing happens. If a second keyframe is set at a different point in time and has a different value for that same attribute as the first keyframe, then software can "tween" or animate the transition from one keyframe value to another keyframe value.
@@ -61,7 +61,7 @@ All Ease Out Key Frames
 
 <figure>
 
-[![Ease In then Ease Out Key Frames](./attachments/Ease-In-And-Ease-Out-Keyframe-Interpolation.gif)](./attachments/Ease-In-And-Ease-Out-Keyframe-Interpolation.gif)
+[![Ease In then Ease Out Key Frames](./attachments/Ease-In-Then-Ease-Out-Keyframe-Interpolation.gif)](./attachments/Ease-In-Then-Ease-Out-Keyframe-Interpolation.gif)
 
 <figcaption>
 
@@ -72,7 +72,7 @@ Ease In then Ease Out Key Frames
 
 <figure>
 
-[![Ease Out then Ease In Key Frames](./attachments/Ease-Out-and-Ease-In-Keyframe-Interpolation.gif)](./attachments/Ease-Out-and-Ease-In-Keyframe-Interpolation.gif)
+[![Ease Out then Ease In Key Frames](./attachments/Ease-Out-Then-Ease-In-Keyframe-Interpolation.gif)](./attachments/Ease-Out-Then-Ease-In-Keyframe-Interpolation.gif)
 
 <figcaption>
 
