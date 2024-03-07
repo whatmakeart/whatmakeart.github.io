@@ -1,7 +1,7 @@
 ---
 title: 06.10 Polygon Modeling Rendering Exercise Assignment
 date: 2024-02-22T12:00:00Z
-lastmod: 2024-02-28T17:12:18
+lastmod: 2024-03-07T05:54:44
 ---
 
 ## Assignment Deliverables
@@ -81,18 +81,18 @@ The videos below show how to make the example block in [Maya](https://youtu.be/l
 
 <div class="responsive-table-markdown">
 
-| Assessment                      | Weight    |
-| ------------------------------- | --------- |
-| Example Block in Render Maya    | 20 points |
-| Light in Scene Maya             | 10 points |
-| Materials Added Maya            | 10 points |
-| Maya Render 1920 x 1080         | 10 points |
-| Example Block in Render Blender | 20 points |
-| Light in Scene Blender          | 10 points |
-| Materials Added Blender         | 10 points |
-| Blender Render 1920 x 1080      | 10 points |
-| .ma or .mb file uploaded        | 10 points |
-| .blend file uploaded            | 10 points |
-| File Management                 | 10 points |
+| Assessment                         | Weight    |
+| ---------------------------------- | --------- |
+| Example Block in Render Maya       | 20 points |
+| Light in Scene Maya                | 10 points |
+| Materials Added Maya               | 10 points |
+| Maya Render minimum 1920 x 1080    | 10 points |
+| Example Block in Render Blender    | 20 points |
+| Light in Scene Blender             | 10 points |
+| Materials Added Blender            | 10 points |
+| Blender Render minimum 1920 x 1080 | 10 points |
+| .ma or .mb file uploaded           | 10 points |
+| .blend file uploaded               | 10 points |
+| File Management                    | 10 points |
 
 </div>

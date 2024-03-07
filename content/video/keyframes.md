@@ -1,7 +1,7 @@
 ---
 title: Keyframes
 date: 2023-06-14T11:42:20
-lastmod: 2024-03-07T05:06:43
+lastmod: 2024-03-07T07:03:54
 ---
 
 Keyframes describe an attribute at a point in time. This could be position, scale, rotation, opacity or many other parameters. With only a single keyframe, nothing happens. If a second keyframe is set at a different point in time and has a different value for that same attribute as the first keyframe, then software can "tween" or animate the transition from one keyframe value to another keyframe value.
@@ -84,6 +84,74 @@ Ease Out then Ease In Key Frames
 ## Keyframe Graph Editor
 
 Graph editors in programs like After Effects, Maya, Blender and other animation and motion graphics software, allow you to fin tune the interpolation of keyframes. On a standard timeline you can change the frame of the keyframe and its basic interpolation but with the graph editor more complex interpolations, including "overshooting" the keyframe value are possible.
+
+<div class="gallery-grid">
+<figure>
+
+[![Hold Keyframe Graph](./attachments/hold-keyframe-graph.jpg)](./attachments/hold-keyframe-graph.jpg)
+
+<figcaption>
+
+Hold Keyframe Graph
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Linear Keyframe Graph](./attachments/linear-keyframe-graph.jpg)](./attachments/linear-keyframe-graph.jpg)
+
+<figcaption>
+
+Linear Keyframe Graph
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![All Ease In Keyframe Graph](./attachments/ease-in-keyframe-graph.jpg)](./attachments/ease-in-keyframe-graph.jpg)
+
+<figcaption>
+
+All Ease In Keyframe Graph
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![All Ease Out Keyframe Graph](./attachments/ease-out-keyframe-graph.jpg)](./attachments/ease-out-keyframe-graph.jpg)
+
+<figcaption>
+
+All Ease Out Keyframe Graph
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Ease In then Ease Out Keyframe Graph](./attachments/ease-in-then-ease-out-keyframe-graph.jpg)](./attachments/ease-in-then-ease-out-keyframe-graph.jpg)
+
+<figcaption>
+
+Ease In then Ease Out Keyframe Graph
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Ease Out thn Ease In Keyframe Graph](./attachments/ease-out-then-ease-in-keyframe-graph.jpg)](./attachments/ease-out-then-ease-in-keyframe-graph.jpg)
+
+<figcaption>
+
+Ease Out thn Ease In Keyframe Graph
+
+</figcaption>
+</figure>
+</div>
 
 ## Examples of Keyframe Use
 
