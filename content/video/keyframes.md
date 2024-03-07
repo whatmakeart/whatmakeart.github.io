@@ -1,7 +1,7 @@
 ---
 title: Keyframes
 date: 2023-06-14T11:42:20
-lastmod: 2024-03-06T20:45:39
+lastmod: 2024-03-07T05:06:43
 ---
 
 Keyframes describe an attribute at a point in time. This could be position, scale, rotation, opacity or many other parameters. With only a single keyframe, nothing happens. If a second keyframe is set at a different point in time and has a different value for that same attribute as the first keyframe, then software can "tween" or animate the transition from one keyframe value to another keyframe value.
@@ -10,11 +10,76 @@ How far apart the keyframes are on the timeline determines the speed of the chan
 
 ## Keyframe Interpolation
 
+- Step
 - Linear
 - Ease In
 - Ease Out
-- Constant
 - Bezier
+
+<figure>
+
+[![Step or Hold Keyframes](./attachments/Step-Hold-Keyframe-Interpolation.gif)](./attachments/Step-Hold-Keyframe-Interpolation.gif)
+
+<figcaption>
+
+Step or Hold Keyframes
+
+</figcaption>
+</figure>
+<figure>
+
+[![Linear Keyframes](./attachments/Linear-Keyframe-Interpolation.gif)](./attachments/Linear-Keyframe-Interpolation.gif)
+
+<figcaption>
+
+Linear Key Frames
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![All Ease In Keyframes](./attachments/Ease-In-Keyframe-Interpolation.gif)](./attachments/Ease-In-Keyframe-Interpolation.gif)
+
+<figcaption>
+
+All Ease In Key Frames
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![All Ease Out Keyframes](./attachments/Ease-Out-Keyframe-Interpolation.gif)](./attachments/Ease-Out-Keyframe-Interpolation.gif)
+
+<figcaption>
+
+All Ease Out Key Frames
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Ease In then Ease Out Key Frames](./attachments/Ease-In-And-Ease-Out-Keyframe-Interpolation.gif)](./attachments/Ease-In-And-Ease-Out-Keyframe-Interpolation.gif)
+
+<figcaption>
+
+Ease In then Ease Out Key Frames
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Ease Out then Ease In Key Frames](./attachments/Ease-Out-and-Ease-In-Keyframe-Interpolation.gif)](./attachments/Ease-Out-and-Ease-In-Keyframe-Interpolation.gif)
+
+<figcaption>
+
+Ease Out then Ease In Key Frames
+
+</figcaption>
+</figure>
 
 ## Keyframe Graph Editor
 
