@@ -1,10 +1,10 @@
 ---
 title: 3D Animation - Blender
 date: 2023-06-14T11:45:49
-lastmod: 2024-02-22T06:29:27
+lastmod: 2024-03-07T11:43:22
 ---
 
-[Blender](blender.md) can be used to create 3D animations.
+[Blender](blender.md) can be used to create 3D animations. To set a keyframe in Blender press the I key.
 
 - [Blender Ball Rigging Tutorial](https://youtu.be/VsBTUaRESr0)
 - [Add HDRI Background Blender](https://youtu.be/k-moDmBUrrI)
