@@ -1,8 +1,10 @@
 ---
 title: 3D Animation - Maya
 date: 2023-06-14T11:48:36
-lastmod: 2024-03-06T20:54:57
+lastmod: 2024-03-07T11:42:54
 ---
+
+To set a keyframe in Maya press the S key.
 
 ## Animation
 
@@ -22,11 +24,8 @@ lastmod: 2024-03-06T20:54:57
 
 - [Maya Simple Ball Bounce](https://youtu.be/xWDiuV8-PZQ)
 - [Maya Ball Bounce Animation Physics](https://youtu.be/v7qQTfDQ3Ac)
-
 - [Render Paint Effects in Arnold](https://youtu.be/1_-f9pj1kV8)
 - [Animate Paint Effect Flowers](https://youtu.be/FoKHHpjsJyw)
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/xWDiuV8-PZQ?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ## Maya Animation Instructional Videos
 
@@ -34,41 +33,9 @@ lastmod: 2024-03-06T20:54:57
 
 <div class="video-card">
 
-## Sphere Ball Rig
+### Render Image Sequence
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/3uYyw_q7L3o?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-</div>
-
-<div class="video-card">
-
-## Quadball Rig
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/zgNk7WGKV30?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-</div>
-
-<div class="video-card">
-
-## Insert Reference Image
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/tXJFJa-nsAA?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-</div>
-
-<div class="video-card">
-
-## Ball Bounce Animation
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/xWDiuV8-PZQ?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-</div>
-
-<div class="video-card">
-
-## Ball Bounce Physics
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/v7qQTfDQ3Ac?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/vxvIUBeTkL0?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 </div>
 
@@ -82,15 +49,7 @@ lastmod: 2024-03-06T20:54:57
 
 <div class="video-card">
 
-## Render Image Sequence
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/vxvIUBeTkL0?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-</div>
-
-<div class="video-card">
-
-## Time Slider Settings
+### Time Slider Settings
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/SYuaAMHzY_8?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -98,17 +57,57 @@ lastmod: 2024-03-06T20:54:57
 
 <div class="video-card">
 
-## Import vs Reference Assets
+### Sphere Ball Rig
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/WDpYKvhSOYI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/3uYyw_q7L3o?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 </div>
 
 <div class="video-card">
 
-## Multiple Renderable Cameras
+### Quadball Rig
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/zgNk7WGKV30?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+</div>
+
+<div class="video-card">
+
+### Ball Bounce Animation
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/xWDiuV8-PZQ?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+</div>
+
+<div class="video-card">
+
+### Ball Bounce Physics
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/v7qQTfDQ3Ac?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+</div>
+
+<div class="video-card">
+
+### Multiple Renderable Cameras
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/g0btNU7YPUo?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+</div>
+
+<div class="video-card">
+
+### Insert Reference Image
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/tXJFJa-nsAA?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+</div>
+
+<div class="video-card">
+
+### Import vs Reference Assets
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/WDpYKvhSOYI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 </div>
 
