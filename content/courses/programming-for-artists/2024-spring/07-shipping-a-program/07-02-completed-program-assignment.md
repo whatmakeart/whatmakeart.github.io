@@ -1,7 +1,7 @@
 ---
 title: 07.02 Completed Program Assignment
 date: 2024-03-01T09:30:00
-lastmod: 2024-03-08T05:09:45
+lastmod: 2024-03-08T05:12:25
 ---
 
 ## Assignment Deliverables
@@ -41,10 +41,11 @@ Remember, even if nothing works, that is ok. Write down what happened, what you 
 | Assessment                             | Weight    |
 | -------------------------------------- | --------- |
 | Shipped Program Report                 | 40 points |
-| Visuals of Interface                   | 40 points |
+| Visuals of Interface                   | 30 points |
 | Program Functionality                  | 20 points |
-| Functions in Code                      | 20 points |
+| Logic of Code                          | 20 points |
 | Code Comments Documentation and Citing | 20 points |
+| Uploaded URL                           | 10 points |
 | File Management                        | 10 points |
 
 </div>
