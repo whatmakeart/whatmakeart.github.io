@@ -1,7 +1,7 @@
 ---
 title: Public Domain
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:39:59
+lastmod: 2024-03-09T06:18:54
 ---
 
 The public domain is a collection of creative works that are not protected by intellectual property laws, such as [copyright](../copyright/copyright-for-artists.md), trademark, or patent laws. This means that anyone can use, reproduce, distribute, or modify these works without obtaining permission from the original copyright holder.
@@ -45,6 +45,7 @@ The resources below have collections of public domain, images, videos and sounds
 - [Rijksmuseum](https://www.rijksmuseum.nl/en/search?ii=0&p=1)
 - [MOMA.co.uk](https://www.moma.co.uk/public-domain-images/)
 - [British Library](https://www.flickr.com/photos/britishlibrary/)
+- [Getty Museum](https://www.getty.edu/art/collection/search?open_content=true)
 
 ### Archives and Internet Collections
 

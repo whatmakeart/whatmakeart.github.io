@@ -1,7 +1,7 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-01-03T15:03:25
+lastmod: 2024-03-09T06:17:08
 tags:
   - stub
 ---
@@ -39,3 +39,4 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Tega Brain](https://tegabrain.com/)
 - [Art 2 Code Exhibition](http://www.christophermanzione.com/art2code/)
 - [Lee Tusman](https://leetusman.com/)
+- [Langdon Graves](https://news.artnet.com/art-world/brooklyn-artist-langdon-graves-up-next-2429936)

@@ -1,7 +1,7 @@
 ---
 title: AI
 date: 2023-05-23T21:59:42
-lastmod: 2023-12-07T06:01:42
+lastmod: 2024-03-09T05:40:49
 ---
 
 ## AI Creation
@@ -26,6 +26,8 @@ lastmod: 2023-12-07T06:01:42
 I read "Computer Algorithms Analyzing Paintings" in the November 19, 2014 _Artforum_ about computer algorithms analyzing Van Gogh paintings and being able to tell the difference between the brushstrokes of forgeries in real paintings. [^1] The author of the piece suggested that these new algorithms could be used by artists to find out what is the best part of a still life, then using the information gained from the deep learning of the machine and big data the artist could amp up the level to what the author calls "uncanny" levels. They could then crossbreed this with other particular styles and let genetic algorithms go through and find out new and unimaginable works of art. They also talked about finding statistical probability to determine the difference between forgeries of signatures. Computers and machines will continue to enhance and extend and externalize our memories just as I'm reading in the Organized Mind book.
 
 ## AI Links
+
+https://www.nytimes.com/interactive/2024/01/25/business/ai-image-generators-openai-microsoft-midjourney-copyright.html
 
 - [How AI is Expanding Art History](https://www.nature.com/articles/d41586-023-03604-3)
 

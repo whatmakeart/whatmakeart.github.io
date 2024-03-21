@@ -1,13 +1,13 @@
 ---
 title: 3D Printing
 date: 2023-05-23T21:59:42
-lastmod: 2023-11-01T05:53:43
+lastmod: 2024-03-09T06:22:47
 ---
 
 3D Printing is an [additive-processes](../../sculpture/additive-processes.md) of [fabrication](../../making/fabrication.md).
 
-[print-in-place-hinge](print-in-place-hinge.md)
-[index](../../posts/3d-print-in-place-ball-and-socket-hinge-fusion-360/3d-print-in-place-ball-and-socket-hinge-fusion-360.md)
+- [Print in Place Hinge](print-in-place-hinge.md)
+- [3D Print in Place Ball and Socket Hinge](./3d-print-in-place-ball-and-socket-hinge-fusion-360.md)
 
 ## Types of 3D Printers
 
@@ -72,3 +72,5 @@ Plastic solvent glues used for acrylic and ABS may work but are less available, 
 - [Researchers 3D-printed a cell-sized tugboat](https://www.engadget.com/researchers-3-dprinted-a-microscopic-boat-to-see-how-bacteria-swim-105633277.html)
 - [Are 3D printed watermarks a “grave and growing” threat to people’s privacy? - 3D Printing Industry](https://3dprintingindustry.com/news/are-3d-printed-watermarks-a-grave-and-growing-threat-to-peoples-privacy-176309/)
 - [Printed Sewing Machine Parts Extend Singer’s Range | Hackaday](https://hackaday.com/2021/12/03/print-sewing-machine-parts-extend-singers-range/)
+- [Formlabs Texture Engine](https://formlabs.com/blog/introducing-texture-engine/)
+- [Kazu Hiro Transforms Hollywood Makeup with Artecs 3D ScanningTechnology](https://3dprintingindustry.com/news/kazu-hiro-transforms-hollywood-makeup-with-artecs-3d-scanning-technology-228795/)
