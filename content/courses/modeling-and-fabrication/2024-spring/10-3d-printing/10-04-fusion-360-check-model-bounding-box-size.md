@@ -1,7 +1,7 @@
 ---
-title: "06.04 Fusion 360 Check Model Bounding Box Size"
-date: 2020-01-26T23:11:13Z
-lastmod: 2024-02-21T09:49:19
+title: "10.04 Fusion 360 Check Model Bounding Box Size"
+date: 2024-03-28T12:00:00Z
+lastmod: 2024-03-21T10:04:26
 toc: true
 ---
 

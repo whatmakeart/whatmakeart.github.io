@@ -1,7 +1,7 @@
 ---
-title: "06.01 3D Printing Terms"
-date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+title: "10.01 3D Printing Terms"
+date: 2024-03-28T12:00:00Z
+lastmod: 2024-03-21T10:04:26
 toc: true
 ---
 
