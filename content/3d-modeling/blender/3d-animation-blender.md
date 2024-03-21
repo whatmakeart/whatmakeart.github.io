@@ -1,7 +1,7 @@
 ---
 title: 3D Animation - Blender
 date: 2023-06-14T11:45:49
-lastmod: 2024-03-07T11:43:22
+lastmod: 2024-03-21T11:41:56
 ---
 
 [Blender](blender.md) can be used to create 3D animations. To set a keyframe in Blender press the I key.
