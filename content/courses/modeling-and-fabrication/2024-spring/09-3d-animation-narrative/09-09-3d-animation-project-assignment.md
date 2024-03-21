@@ -1,7 +1,7 @@
 ---
-title: 09.09 3S Animation Project
+title: 09.09 3S Animation Project Assignment
 date: 2024-03-21T12:00:00Z
-lastmod: 2024-03-08T05:09:56
+lastmod: 2024-03-20T20:26:57
 ---
 
 ## Assignment Deliverables

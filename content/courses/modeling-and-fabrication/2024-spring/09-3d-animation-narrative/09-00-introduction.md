@@ -1,7 +1,7 @@
 ---
 title: 09.00 Introduction
 date: 2024-03-21T12:00:00Z
-lastmod: 2024-03-08T04:55:55
+lastmod: 2024-03-20T20:27:16
 ---
 
 ## Overview
@@ -14,3 +14,8 @@ lastmod: 2024-03-08T04:55:55
 - Use well-considered visual themes, including colors and general style of visual treatments and elements
 
 ## Key Terms
+
+- storyboard
+- shot types
+- visual themes
+- narrative arc

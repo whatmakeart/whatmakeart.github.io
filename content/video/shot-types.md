@@ -1,10 +1,10 @@
 ---
 title: Shot Types
 date: 2023-08-30T05:21:35
-lastmod: 2023-09-07T20:57:01
+lastmod: 2024-03-20T20:05:55
 ---
 
-Think about movies, cartoons or video games that you have experienced? Is everything shown in one static camera shot? Of course not. That would be boring and uninteresting. Use multiple cameras and camera angles to break up videos and screen based media to show different parts with more detail.
+Think about movies, cartoons or video games that you have experienced? Is everything shown in one static camera shot? Of course not. That would be boring and uninteresting. Using multiple cameras and camera angles breaks up videos and screen based media to show different parts with more detail.
 
 For example, the use of wide establishing shots sets the scene. Interspersed close-up and full shots fill out the environment. Your audience will piece all the shots together in their mind and create a convincing 3D world to experience your story in.
 

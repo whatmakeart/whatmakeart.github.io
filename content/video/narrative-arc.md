@@ -1,7 +1,7 @@
 ---
 title: Narrative Arc
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:57:01
+lastmod: 2024-03-20T20:04:41
 ---
 
 ## What is a Narrative Arc?
@@ -14,7 +14,7 @@ A traditional story arc contains an introduction of the story, plot, characters 
 - **Falling Action** – plot moves from climax to ending
 - **Resolution** – final results of plot - stability returns
 
-## What is a Story Spine?
+## How to Make a Narrative Arc?
 
 When composing a narrative it is a good idea to spend a few minutes to write a brief Story Spine that follows a narrative arc. Remember that narratives do not have to have any narrative structure but they often do. A narrative can also be an abstract visual experience. Nevertheless any sequence of images will tend to have some structure even if that structure is to intentionally disregard structure. Think of a story structure as having 3 parts.
 
@@ -24,13 +24,13 @@ Explain the setting of the animation. Where is it? What is seen? What is happeni
 
 ### Part 2
 
-Introduce a problem, conflict or goal. Where is the ball going? What does the ball want to do? Is everything exploding and on fire? Or is is a tranquil and peaceful setting where the problem is that the ball is bored?
+Introduce a problem, conflict or goal. Where is the character going? What do they want to do? Is everything exploding and on fire? Or is is a tranquil and peaceful setting where the problem is that the protagonist is bored?
 
 ### Part 3
 
-Resolve part 2. What is the result of the actions of the ball after encountering part 2? How does the ball escape the fire or stop being bored?
+Resolve part 2. What is the result of the actions of the character after encountering part 2? How does the subject escape the fire or stop being bored?
 
-## How to Make a Narrative Arc?
+## What is a Story Spine?
 
 A [Story Spine](story-spine.md) is simple method to break a story down into 9 parts that then are split into three groups to make a 3 part narrative arc.
 
