@@ -1,7 +1,7 @@
 ---
 title: 09.01 Game Engines
 date: 2024-02-09T09:30:00
-lastmod: 2024-03-22T06:59:27
+lastmod: 2024-03-22T07:25:36
 ---
 
 Similar to how p5.js speeds up the process of drawing imagery on a web canvas, game engines and libraries speed up the process of making games by handling the code for common actions such as keyboard input or sprite sheet handling.
@@ -17,6 +17,7 @@ Similar to how p5.js speeds up the process of drawing imagery on a web canvas, g
 - [phaser.io](https://phaser.io/) Desktop, mobile, and HTML games
 - [bitsy.org](https://www.bitsy.org/)
 - [pixelpad.io](https://pixelpad.io/)
+- [Playcanvas](https://playcanvas.com/)
 
 ## Game Engines
 
