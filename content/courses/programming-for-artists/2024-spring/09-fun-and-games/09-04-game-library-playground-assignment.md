@@ -1,7 +1,7 @@
 ---
 title: 09.04 Game Library Playground Assignment
 date: 2024-03-22T07:16:52
-lastmod: 2024-03-22T14:00:07
+lastmod: 2024-03-23T06:59:31
 ---
 
 ## Assignment Deliverables
@@ -36,9 +36,15 @@ Document what you did and what happened. Be detailed and thorough.
 - [p5.play Learn](https://p5play.org/learn/index.html)
 - [Phaser Explorer](https://explorer.phaser.io/)
 - [Babylon Journey](https://doc.babylonjs.com/journey)
-- [Babylon Playground](https://playground.babylonjs.com/)
+  - [Babylon Playground](https://playground.babylonjs.com/)
 - [Playcanvas First App](https://developer.playcanvas.com/user-manual/getting-started/your-first-app/)
   - [Playcanvas Tutorials](https://developer.playcanvas.com/tutorials/)
+- [Melon.js](https://melonjs.org/tutorial/) - Hacking a platformer game
+- [Kiwi.js](https://www.kiwijs.org/documentation/tutorials/creating-a-basic-kiwi-js-game/) - Create a basic Kiwi.js game
+- [crafty.js](https://craftyjs.com/getting-started/) - Getting started
+- [pixi.js](https://pixijs.com/8.x/examples/basic/container) - Create a basic container
+
+Explore more [game libraries and engines](./09-01-game-libraries-and-engines.md).
 
 ### AI Assistnats
 

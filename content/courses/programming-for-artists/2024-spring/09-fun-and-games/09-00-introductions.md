@@ -1,7 +1,7 @@
 ---
 title: 09.00 Introduction
 date: 2024-03-01T09:30:00
-lastmod: 2024-03-22T07:37:55
+lastmod: 2024-03-23T06:48:59
 ---
 
 ## Overview
@@ -15,3 +15,7 @@ After this review and development environment set up, we will explore basic codi
 ## What is a game?
 
 There is a lot more to [Game Design](https://en.wikipedia.org/wiki/Game_design), for our purposes we will define a game as interaction with a purpose or reason for interaction.
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/zWi0jgghGcI?si=aqOn3fjbJBlHQFt1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

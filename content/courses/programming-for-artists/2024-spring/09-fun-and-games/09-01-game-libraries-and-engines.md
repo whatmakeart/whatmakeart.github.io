@@ -1,7 +1,7 @@
 ---
 title: 09.01 Game Engines
 date: 2024-02-09T09:30:00
-lastmod: 2024-03-22T07:25:36
+lastmod: 2024-03-23T08:24:14
 ---
 
 Similar to how p5.js speeds up the process of drawing imagery on a web canvas, game engines and libraries speed up the process of making games by handling the code for common actions such as keyboard input or sprite sheet handling.
@@ -18,9 +18,14 @@ Similar to how p5.js speeds up the process of drawing imagery on a web canvas, g
 - [bitsy.org](https://www.bitsy.org/)
 - [pixelpad.io](https://pixelpad.io/)
 - [Playcanvas](https://playcanvas.com/)
+- [crafty.js](https://craftyjs.com/)
+- [pixi.js](https://pixijs.com/)
+- [Kontra.js](https://straker.github.io/kontra/)
 
 ## Game Engines
 
+- [Melon.js](https://melonjs.org/)
+- [Kiwi.js](https://www.kiwijs.org/)
 - [Unity](https://unity.com/)
 - [Unreal](https://www.unrealengine.com/en-US/)
 
