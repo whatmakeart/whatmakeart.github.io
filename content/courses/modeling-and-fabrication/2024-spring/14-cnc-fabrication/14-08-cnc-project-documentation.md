@@ -1,7 +1,7 @@
 ---
-title: "14.08 CNC Project Documentation"
+title: 14.08 CNC Project Documentation
 date: 2024-04-25T12:00:00Z
-lastmod: 2024-03-21T10:04:26
+lastmod: 2024-03-27T17:14:13
 ---
 
 ## Assignment Deliverables

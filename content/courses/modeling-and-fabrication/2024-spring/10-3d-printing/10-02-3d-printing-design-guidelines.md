@@ -1,7 +1,7 @@
 ---
-title: "10.02 3D Print Design Guidelines"
+title: 10.02 3D Print Design Guidelines
 date: 2024-03-28T12:00:00Z
-lastmod: 2024-03-21T10:04:26
+lastmod: 2024-03-27T17:14:13
 toc: true
 ---
 
