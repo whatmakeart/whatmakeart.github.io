@@ -1,7 +1,7 @@
 ---
 title: "10.00 Introduction"
 date: 2024-03-28T12:00:00Z
-lastmod: 2024-03-27T20:03:23
+lastmod: 2024-03-28T05:55:11
 ---
 
 ## Overview
@@ -17,9 +17,6 @@ Before working on a final version of a project it is important to understand the
 - Load PLA filament onto 3D Printer
 - Select file and successfully print a test print
 - Clean up supports and raft
-- Photo document small objects in a professional way
-- Model organic forms with T-splines in Fusion 360
-- Combine T-splines with parametrically modeled features
 - Scale a model to a desired size
 - Measure a model in software
 - Export an STL file for 3D printing

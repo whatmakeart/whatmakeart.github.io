@@ -1,5 +1,5 @@
 ---
-title: "08 3D Printing Modeling and Fabrication"
+title: 13 CNC Modeling
 date: 2024-04-18T12:00:00Z
-lastmod: 2024-03-27T17:14:13
+lastmod: 2024-03-28T05:22:10
 ---

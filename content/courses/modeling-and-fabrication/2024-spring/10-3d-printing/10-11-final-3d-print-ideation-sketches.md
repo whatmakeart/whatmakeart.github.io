@@ -1,13 +1,20 @@
 ---
 title: "07.04 Final 3D Print Ideation Sketches"
 date: 2024-03-28T12:00:00Z
-lastmod: 2024-03-27T20:03:23
+lastmod: 2024-03-28T05:54:10
 ---
 
 ## Assignment Deliverables
 
-- 5 thumbnail sketches minimum - These should be 5 completely different ideas. Draw without constraint. Do not limit your ideas.
-- 3 larger refined ideations minimum - Choose some of your ideas from your thumbnails. Refine them and iterate on the concepts. Which parts do you like and which parts can you change to make your ideas better?
+1. Minimum 5 thumbnail sketches
+2. Minimum 3 larger refined ideations
+3. Upload a series of labeled images or a compiled pdf. (png, jpg, pdf)
+
+## Sketch Requirements
+
+- [What are Ideation Sketches?](../../../../drawing/ideation-sketches.md)
+- **Thumbnails** - These should be 5 completely different ideas. Draw without constraint. Do not limit your concepts. It takes ~ 5-10 minutes to draw a decently developed thumbnail sketch. If you finish a thumbnail under 2 minutes, it may lack depth and consideration. If you spend much more than 10 minutes on a thumbnail sketch, then you might be getting bogged down in details instead of brainstorming multiple ideas. _(Time 25 - 50 minutes)_
+- **Refined Ideations** - Choose some of your ideas from your thumbnails. Refine them and iterate on the concepts. Which parts do you like and which parts can you change to make your ideas better?
 
 ## Assignment Overview
 
@@ -29,7 +36,7 @@ Do you need a helmet? A headband? What about flexible knuckle guards? Does your 
 
 ### Use a Print in Place Flexible Joint
 
-With 3D printing objects can be created that would not be possible with other fabrication techniques. One such method is a print in place hinge or joint. Print it place means that the two separate objects are printed “in [place” or as is on the 3D print bed. Once completed the two parts are forever locked together. Can you make a movable ball and socket figure or snake? What about designing an adjustable cellphone tripod holder for documenting work? Hinges for a box lid? Print in Place Hinge Video Tutorials [Version 1](https://youtu.be/w1o48laHAos), [Version 2](https://youtu.be/9P1PPWP4uZk)
+With 3D printing objects can be created that would not be possible with other fabrication techniques. One such method is a print in place hinge or joint. Print it place means that the two separate objects are printed “in place” or as is on the 3D print bed. Once completed the two parts are forever locked together. Can you make a movable ball and socket figure or snake? What about designing an adjustable cellphone tripod holder for documenting work? Hinges for a box lid? Print in Place Hinge Video Tutorials [Version 1](https://youtu.be/w1o48laHAos), [Version 2](https://youtu.be/9P1PPWP4uZk)
 
 ### Fit a real world object(s)
 
@@ -45,7 +52,7 @@ Because of the nature of 3D printing, prints are often small. For this design ch
 
 ### Make Custom Lego Compatible Pieces
 
-Lego is fun but Lego is still an extant company with trademarks, patents and copyrights. Luckily the standard building block is no longer protected by patent. Anyone can make an exactly matching dimensioned toy building block. What you can’t do is call it Lego or copy existing Lego designs. That still leaves a universe of creative possibilities. What can you make out of interlocking building blocks? Can you improve on the design? Can you make your own design for toy block figures? Go crazy but only make your own original content.
+Lego is fun but Lego is still an extant company with trademarks, patents and copyrights. Luckily the standard building block is no longer protected by patent. Anyone can make an exactly matching dimensioned toy building block. What you can’t do is call it Lego or copy existing Lego designs. That still leaves a universe of creative possibilities. What can you make out of interlocking building blocks? Can you improve on the design? Can you make your own design for toy block figures? Go crazy but only make your own original content. [Make custom bricks in Fusion 360](https://youtu.be/Zjhpo0Docdc)
 
 ### Sculpt in a 3D Sculpting Program
 
