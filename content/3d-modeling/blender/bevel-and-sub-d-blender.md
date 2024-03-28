@@ -6,6 +6,7 @@ tags:
   - Blender
   - 3D Modeling
   - Sub-D Modeling
+  - Tutorial
 title: Bevel and Sub D - Blender
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: Auto Rig with Mixamo and Import into Blender
 date: 2023-12-05T05:28:46
-lastmod: 2024-02-22T06:45:54
+lastmod: 2024-03-28T07:10:00
+tags:
+  - Tutorial
 ---
 
 <div class="iframe-16-9-container">

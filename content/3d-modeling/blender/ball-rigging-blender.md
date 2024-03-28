@@ -6,6 +6,7 @@ tags:
   - Blender
   - 3D Modeling
   - Rigging
+  - Tutorial
 title: Ball Rigging - Blender
 ---
 

@@ -1,13 +1,14 @@
 ---
 title: 3 Point Lighting Addon - Blender
 date: 2023-04-12T8:30:00-04:00
-lastmod: 2024-02-22T06:45:54
+lastmod: 2024-03-28T07:10:00
 description: In this Blender tutorial, I will show you how to use the Tri Lighting add-on.
 featured_image: /3d-modeling/blender/attachments/blender-three-point-lighting-add-on.jpg
 tags:
   - Blender
   - 3D Modeling
   - Rendering
+  - Tutorial
 aliases:
   - /posts/blender-3-point-lighting-add-on/
 ---

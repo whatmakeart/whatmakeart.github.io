@@ -5,6 +5,7 @@ featured_image: /posts/images/blender-auto-mirror.jpg
 tags:
   - Blender
   - 3D Modeling
+  - Tutorial
 title: Auto Mirror - Blender
 ---
 

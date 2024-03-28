@@ -6,6 +6,7 @@ tags:
   - Blender
   - 3D Modeling
   - Texturing
+  - Tutorial
 title: How to Add a Quick Texture to a Sphere in Blender
 ---
 
