@@ -1,7 +1,7 @@
 ---
 title: "07.04 Final 3D Print Ideation Sketches"
 date: 2024-03-28T12:00:00Z
-lastmod: 2024-03-27T17:14:13
+lastmod: 2024-03-27T20:03:23
 ---
 
 ## Assignment Deliverables
@@ -55,11 +55,11 @@ Use [Blender](../../../../3d-modeling/blender/blender.md), Mudbox, or other 3D s
 
 <div class="responsive-table-markdown">
 
-| Assessment           | Weight    |
-| -------------------- | --------- |
-| 5 thumbnails         | 40 points |
-| 3 revised sketches   | 40 points |
-| Sketch Documentation | 10 points |
-| File Management      | 10 points |
+| Assessment                 | Weight    |
+| -------------------------- | --------- |
+| Minimum 5 thumbnails       | 40 points |
+| Minimum 3 revised sketches | 40 points |
+| Sketch Documentation       | 10 points |
+| File Management            | 10 points |
 
 </div>

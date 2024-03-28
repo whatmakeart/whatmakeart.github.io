@@ -1,7 +1,7 @@
 ---
 title: 11.00 Introduction
 date: 2024-04-04T12:00:00Z
-lastmod: 2024-03-27T17:14:13
+lastmod: 2024-03-27T20:03:23
 ---
 
 ## Overview
@@ -19,10 +19,7 @@ After the ideation and iterative sketching phase of the design process, initial 
 
 ## Key Terms
 
-- Polygon Mesh
-- Blender
-- Maya
-- Overhang
-- Vertex
-- Edge
-- Face
+- ISO
+- Shutter Speed
+- Depth of Field
+- F-Stop

@@ -1,7 +1,7 @@
 ---
 title: 07.00 Introduction
 date: 2024-02-29T12:00:00Z
-lastmod: 2024-02-28T06:32:21
+lastmod: 2024-03-27T20:03:23
 ---
 
 ## Overview
@@ -20,6 +20,13 @@ Texturing a 3D model is the process of assigning locations of all the 3D points 
 
 ## Key Terms
 
+- Polygon Mesh
+- Blender
+- Maya
+- Overhang
+- Vertex
+- Edge
+- Face
 - UV space
 - texture
 - Physical Based Materials
