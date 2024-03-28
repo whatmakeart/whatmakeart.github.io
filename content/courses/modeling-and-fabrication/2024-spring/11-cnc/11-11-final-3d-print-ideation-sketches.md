@@ -1,7 +1,8 @@
 ---
 title: 10.11 Final 3D Print Ideation Sketches
+
 date: 2024-03-28T12:00:00Z
-lastmod: 2024-03-28T07:10:00
+lastmod: 2024-03-28T08:09:24
 ---
 
 ## Assignment Deliverables
