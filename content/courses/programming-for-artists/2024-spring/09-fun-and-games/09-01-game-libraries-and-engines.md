@@ -1,7 +1,7 @@
 ---
 title: 09.01 Game Engines
 date: 2024-03-21T09:30:00
-lastmod: 2024-03-29T08:54:24
+lastmod: 2024-03-29T09:29:26
 ---
 
 Similar to how p5.js speeds up the process of drawing imagery on a web canvas, game engines and libraries speed up the process of making games by handling the code for common actions such as keyboard input or sprite sheet handling.
