@@ -1,7 +1,7 @@
 ---
 title: 10.03 Art from Games Ideation Assignment
 date: 2024-03-29T07:16:52
-lastmod: 2024-03-29T09:05:44
+lastmod: 2024-03-29T10:29:42
 ---
 
 ## Assignment Deliverables
@@ -9,14 +9,14 @@ lastmod: 2024-03-29T09:05:44
 1. Written and visual ideation of a creative "game" project
    - Label File YYYMMDD Lastname Firstname Art from Games Ideation
 2. Report of production progress
-   - Label File YYYMMDD Lastname Firstname Art from Games Prodution Report
+   - Label File YYYMMDD Lastname Firstname Art from Games Production Report
 3. If available, a URL of any ideations or visualizations
 
 ## Process
 
 ### Ideation
 
-1. Review your research and experiments from your homework. What worked well? What is too complicated to use? What could be implemented with a bit more time? WHat is visually or experientially interesting>
+1. Review your research and experiments from your homework. What worked well? What is too complicated to use? What could be implemented with a bit more time? What is visually or experientially interesting?
 2. Pick tools to use. It is important to not limit yourself but it is also important to reduce the amount of available options so you have a creative framework to make.
 3. Begin writing out ideas of ways that you can creatively use the "game" tools to make art.
 4. What ways are the tools traditionally used? Do you want to use the tools in a predictable but new way? Do you want to create an unexpected and non-standard use of the tools?
