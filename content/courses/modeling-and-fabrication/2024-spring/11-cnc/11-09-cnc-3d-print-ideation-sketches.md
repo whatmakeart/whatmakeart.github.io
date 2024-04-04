@@ -1,8 +1,7 @@
 ---
-title: 10.11 Final 3D Print Ideation Sketches
-
-date: 2024-03-28T12:00:00Z
-lastmod: 2024-03-28T08:09:24
+title: 11.09 CNC + 3D Print Ideation Sketches
+date: 2024-04-04T12:00:00Z
+lastmod: 2024-04-04T11:23:49
 ---
 
 ## Assignment Deliverables
@@ -16,6 +15,16 @@ lastmod: 2024-03-28T08:09:24
 - [What are Ideation Sketches?](../../../../drawing/ideation-sketches.md)
 - **Thumbnails** - These should be 5 completely different ideas. Draw without constraint. Do not limit your concepts. It takes ~ 5-10 minutes to draw a decently developed thumbnail sketch. If you finish a thumbnail under 2 minutes, it may lack depth and consideration. If you spend much more than 10 minutes on a thumbnail sketch, then you might be getting bogged down in details instead of brainstorming multiple ideas. _(Time 25 - 50 minutes)_
 - **Refined Ideations** - Choose some of your ideas from your thumbnails. Refine them and iterate on the concepts. Which parts do you like and which parts can you change to make your ideas better?
+
+### Design Requirements
+
+- Support the weight of a person or the intended item
+- Have considered aesthetics
+- Use 1/2" or 3/4" plywood
+- Use more than 1 type of joint
+- Have a considered and designed top surface, this could have engraving or decorative joints
+- Be a relatively standard size
+- Use all of the space of a half sheet of plywood or all of the space of a full sheet of plywood
 
 ## Assignment Overview
 

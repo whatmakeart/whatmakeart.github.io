@@ -1,7 +1,7 @@
 ---
-title: 12.03 CNC Pocket Cuts and Joints
+title: 11.02 CNC Pocket Cuts and Joints
 date: 2024-04-11T12:00:00Z
-lastmod: 2024-03-27T17:14:13
+lastmod: 2024-04-04T11:24:58
 toc: true
 ---
 
