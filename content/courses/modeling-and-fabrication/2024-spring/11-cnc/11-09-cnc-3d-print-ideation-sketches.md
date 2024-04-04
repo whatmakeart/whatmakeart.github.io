@@ -1,7 +1,7 @@
 ---
 title: 11.09 CNC + 3D Print Ideation Sketches
 date: 2024-04-04T12:00:00Z
-lastmod: 2024-04-04T11:23:49
+lastmod: 2024-04-04T11:37:35
 ---
 
 ## Assignment Deliverables
