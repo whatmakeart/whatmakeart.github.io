@@ -1,7 +1,7 @@
 ---
 title: 10.03 Art from Games Ideation Assignment
 date: 2024-03-29T07:16:52
-lastmod: 2024-03-29T10:29:42
+lastmod: 2024-04-05T06:39:05
 ---
 
 ## Assignment Deliverables
@@ -41,7 +41,7 @@ Remember that nothing may work. It is likely that you will be able to create the
 
 Document what you did and what happened. Be detailed and thorough.
 
-## Due
+## Due Dates
 
 - Ideation and initial production is due next class
-- "Art from Games" due in two weeks
+- [Art from Games](../11-art-from-games/11-03-art-from-games-assignment.md) is due in two weeks
