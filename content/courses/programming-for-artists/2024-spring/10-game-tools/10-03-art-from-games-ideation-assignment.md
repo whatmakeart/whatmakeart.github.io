@@ -1,7 +1,7 @@
 ---
 title: 10.03 Art from Games Ideation Assignment
-date: 2024-03-29T07:16:52
-lastmod: 2024-04-05T06:39:05
+date: 2024-03-29T09:30:00
+lastmod: 2024-04-05T07:41:58
 ---
 
 ## Assignment Deliverables
