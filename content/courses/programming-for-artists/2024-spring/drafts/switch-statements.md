@@ -1,7 +1,8 @@
 ---
 title: Switch Statements
 date: 2024-02-09T09:30:00
-lastmod: 2024-02-12T06:13:14
+lastmod: 2024-04-05T05:50:06
+draft: true
 ---
 
 ## Switch Statement JavaScript Syntax [^mdn-switch]
