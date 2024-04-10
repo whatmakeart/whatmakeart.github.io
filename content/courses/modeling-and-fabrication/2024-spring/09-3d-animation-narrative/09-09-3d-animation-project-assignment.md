@@ -1,7 +1,7 @@
 ---
 title: 09.09 3D Animation Project Assignment
 date: 2024-03-21T12:00:00Z
-lastmod: 2024-03-27T17:01:11
+lastmod: 2024-04-10T06:19:22
 ---
 
 ## Assignment Deliverables
@@ -45,14 +45,14 @@ Add multiple cameras to the scene. Animate a bouncing ball that travels through 
 
 <div class="responsive-table-markdown">
 
-| Assessment                                       | Weight    |
-| ------------------------------------------------ | --------- |
-| Have Multiple Scenes                             | 50 points |
-| Show Basic Animation Principles                  | 50 points |
-| Folder of Exported Rendered Images               | 25 points |
-| Use of Lighting and Rendering                    | 25 points |
-| UV Textures Applied to Objects                   | 25 points |
-| Use Sound Effects and Music to Enhance Animation | 25 points |
-| Text Credits                                     | 25 Points |
+| Assessment                                               | Weight    |
+| -------------------------------------------------------- | --------- |
+| Have Multiple Scenes                                     | 50 points |
+| Show Basic Animation Principles                          | 50 points |
+| Management of Exported Rendered Images for Video Editing | 25 points |
+| Use of Lighting and Rendering                            | 25 points |
+| UV Textures Applied to Objects                           | 25 points |
+| Use Sound Effects and Music to Enhance Animation         | 25 points |
+| Text Credits                                             | 25 Points |
 
 </div>
