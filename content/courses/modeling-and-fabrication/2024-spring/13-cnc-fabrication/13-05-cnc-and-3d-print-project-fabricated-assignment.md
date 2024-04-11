@@ -1,7 +1,7 @@
 ---
-title: 13.05 CNC Project Fabricated
+title: 13.05 CNC and 3D Print Project Fabricated
 date: 2024-04-18T12:00:00Z
-lastmod: 2024-04-11T06:49:30
+lastmod: 2024-04-11T16:50:58
 ---
 
 ## Assignment Deliverables
