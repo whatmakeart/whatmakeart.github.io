@@ -1,14 +1,14 @@
 ---
-title: 12.01 CNC Design Research
+title: 12.01 CNC Design Research Assignment
 date: 2024-04-11T12:00:00Z
-lastmod: 2024-04-11T06:17:05
+lastmod: 2024-04-11T14:30:30
 ---
 
 ## Assignment Deliverables
 
 1. Slide Presentation of design inspiration images (minimum 5 images)
 2. For each slide, write 2-3 sentences about why you selected this image and what your find intriguing about it. Can be written on the slide with image or on separate slides.
-3. Put a link on each slide to where you found the image.
+3. Put a link for each slide to where you found the image.
 4. Save the presentation as a PDF
 5. Label as YYYYMMDD Lastname Firstname CNC Design Research.pdf
 
