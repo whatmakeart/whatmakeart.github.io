@@ -1,7 +1,7 @@
 ---
-title: 11.08 Final 3D Print 3D Model
-date: 2024-04-04T12:00:00Z
-lastmod: 2024-04-11T06:04:16
+title: 12.04 Final 3D Print 3D Model
+date: 2024-04-11T12:00:00Z
+lastmod: 2024-04-11T06:17:05
 ---
 
 ## Assignment Deliverables

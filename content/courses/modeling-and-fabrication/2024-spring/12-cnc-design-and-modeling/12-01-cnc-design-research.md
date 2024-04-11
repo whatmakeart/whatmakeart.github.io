@@ -1,7 +1,7 @@
 ---
-title: 11.07 CNC Design Research
-date: 2024-04-04T12:00:00Z
-lastmod: 2024-04-04T11:56:50
+title: 12.01 CNC Design Research
+date: 2024-04-11T12:00:00Z
+lastmod: 2024-04-11T06:17:05
 ---
 
 ## Assignment Deliverables

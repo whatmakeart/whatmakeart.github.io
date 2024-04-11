@@ -1,5 +1,5 @@
 ---
-title: 14 CNC Fabrication
-date: 2024-04-25T12:00:00Z
-lastmod: 2024-03-28T05:22:10
+title: 13 CNC Fabrication
+date: 2024-04-18T12:00:00Z
+lastmod: 2024-04-11T06:20:47
 ---

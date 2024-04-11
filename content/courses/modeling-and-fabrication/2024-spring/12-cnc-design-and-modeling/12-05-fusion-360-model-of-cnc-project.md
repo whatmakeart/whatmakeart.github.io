@@ -1,7 +1,7 @@
 ---
-title: 13.04 Fusion 360 Model of CNC Project
-date: 2024-04-18T12:00:00Z
-lastmod: 2024-03-27T17:14:13
+title: 12.05 Fusion 360 Model of CNC Project
+date: 2024-04-11T12:00:00Z
+lastmod: 2024-04-11T06:17:05
 ---
 
 ## Assignment Deliverables
