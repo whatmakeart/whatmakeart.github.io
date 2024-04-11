@@ -1,7 +1,7 @@
 ---
-title: 11.03 Photographing 3D Artwork
-date: 2024-04-04T12:00:00Z
-lastmod: 2024-03-27T17:14:13
+title: 14.02 Photographing 3D Artwork
+date: 2024-04-25T12:00:00Z
+lastmod: 2024-04-11T06:04:16
 toc: true
 ---
 
