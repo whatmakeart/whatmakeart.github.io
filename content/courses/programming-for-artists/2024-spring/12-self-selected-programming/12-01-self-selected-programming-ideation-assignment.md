@@ -1,7 +1,7 @@
 ---
 title: 12.01 Self Selected Projects Ideation Assignment
 date: 2024-04-12T09:30:00
-lastmod: 2024-04-12T09:13:34
+lastmod: 2024-04-12T09:26:29
 ---
 
 ## Assignment Deliverables
@@ -44,3 +44,15 @@ Use timers and sequences to play sounds and create an infinite musical score. Or
 
 - [Brian ENO ambient music](https://youtu.be/RqHKX4BDJ1Q)
 - [Music for airports](https://youtu.be/vNwYtllyt3Q)
+
+### Use a Microcontroller
+
+Microcontrollers such as the [Arduino](../../../../arduino/arduino-introduction.md), ESP, or [Raspberry Pi](../../../../raspberry-pi/raspberry-pi.md) allow for programming to control the physical world by moving motors, access cameras or microphones, controlling LEDs, playing sounds on speakers, reading environment sensors and much more. IT is an abundant programming playground.
+
+### AR or VR
+
+Use a cell phone's sensors or one of the available headsets, such as the Quest 2, to create and explore an AR or VR experience.
+
+### Further Develop Previous Project
+
+Is there a project that you worked on but had to finish at a less than satisfactory state due to a deadline? What would you do if you had more time? Now you do! Write a proposal to further investigate and develop an existing project.
