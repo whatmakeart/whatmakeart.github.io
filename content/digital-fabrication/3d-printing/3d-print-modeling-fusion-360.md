@@ -1,7 +1,7 @@
 ---
 title: 3D Print Modeling Fusion 360
 date: 2023-06-15T14:51:51
-lastmod: 2023-09-30T06:37:56
+lastmod: 2024-04-12T05:14:21
 ---
 
 Leveraging the parametric modeling features of [Fusion 360](../../3d-modeling/fusion-360/fusion-360.md) can create detailed and precise 3D models for 3D printing quickly. Then if a part or screw hole needs to be adjusted after making a test print, it can easily be changed in the design timeline or by simple updating a parameter value. For mechanical and semi regular parts, this modeling workflow is tough to beat.
@@ -15,6 +15,24 @@ The examples below show different approaches to creating various objects for 3D 
 ## Example Models for 3D Printing in Fusion 360
 
 <div class="video-grid">
+
+<div class="video-card">
+
+### Print in Place Hinge
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/w1o48laHAos?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Print in Place Hinge Ball and Socket
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9P1PPWP4uZk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="video-card">
 

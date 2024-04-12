@@ -1,15 +1,15 @@
 ---
 title: 10.03 Art from Games Ideation Assignment
 date: 2024-03-29T09:30:00
-lastmod: 2024-04-05T07:41:58
+lastmod: 2024-04-12T06:17:42
 ---
 
 ## Assignment Deliverables
 
 1. Written and visual ideation of a creative "game" project
-   - Label File YYYMMDD Lastname Firstname Art from Games Ideation
+   - Label File YYYYMMDD Lastname Firstname Art from Games Ideation
 2. Report of production progress
-   - Label File YYYMMDD Lastname Firstname Art from Games Production Report
+   - Label File YYYYMMDD Lastname Firstname Art from Games Production Report
 3. If available, a URL of any ideations or visualizations
 
 ## Process
