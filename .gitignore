@@ -24,3 +24,16 @@ Thumbs.db
 .hugo_build.lock
 static/pagefind
 node_modules
+dist
+tmp
+
+/public/
+/resources/_gen/
+public/
+recources/_gen/
+
+hugo.exe
+hugo.linux
+hugo.darwin
+/assets/jsconfig.json
+hugo_stats.json
