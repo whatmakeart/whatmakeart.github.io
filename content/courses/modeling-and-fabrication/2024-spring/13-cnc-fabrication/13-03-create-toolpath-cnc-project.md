@@ -1,7 +1,7 @@
 ---
 title: 13.03 Create Toolpath CNC Project
 date: 2024-04-18T12:00:00Z
-lastmod: 2024-04-18T09:32:39
+lastmod: 2024-04-18T09:53:07
 ---
 
 ## Assignment Deliverables
@@ -21,16 +21,16 @@ lastmod: 2024-04-18T09:32:39
 2. Double check the "ply" dimension and all other dimensions.
 3. Make sure everything is an individual component.
 4. Check for [tolerance and fit](../../../../digital-fabrication/cnc/cnc-tolerance-and-fit.md) of any parts that attach or fit together.
-5. Switch to the Manufacture Workspace.
+5. Switch to the [Manufacture Workspace](https://youtu.be/lXSVlk3FqHc?t=85).
 6. Change the Manufacture Workspace units to Inches.
 7. If needed create a Manufacturing Model.
 8. Edit the Manufacturing Model to add [invisible dogbone fillets](../../../../digital-fabrication/cnc/cnc-fillets-fusion-360.md) as needed.
-9. Create a new Setup for pocket cuts that zeros the Z-axis from the top.
+9. [Create a new Setup](https://youtu.be/lXSVlk3FqHc?si=h2No5fSfWe6i0XZ8&t=107) for pocket cuts that zeros the Z-axis from the top.
 10. Enter the information for the stock.
-11. Create 2D Pocket Toolpaths.
+11. Create [2D Pocket Toolpaths](https://youtu.be/lXSVlk3FqHc?t=235).
 12. Duplicate the setup.
 13. Change the stock box point to zero from the bottom.
-14. Create a 2D Contour Toolpaths.
+14. Create a [2D Contour Toolpaths](https://youtu.be/lXSVlk3FqHc?t=423).
 15. Take a screenshot of all of the toolpaths.
 16. Post both setups as separate .sbp ShopBot files.
 
