@@ -1,7 +1,7 @@
 ---
 title: CNC Basics
 date: 2023-05-23T21:59:41
-lastmod: 2024-04-18T07:21:54
+lastmod: 2024-04-18T10:02:45
 ---
 
 CNC or computer numeric control is a great way to fabricate precise parts. CNC tools very based on the type of material they cut, the dimensions and directions they are able to cut in, and the type of cutting head.
@@ -26,7 +26,7 @@ A ShopBot is a brand of 2 Axix CNC machine. It is realatively user freindly and 
 
 - [Create Shopbot Tool Fusion 360](./create-shopbot-tool-fusion-360.md)
 - [Shopbot Toolpaths Fusion 360](./shopbot-toolpaths-fusion-360.md)
-- [Secure Workpiece Shopbot](./shopbot-securing-the-workpiece.md)
+- [Secure Workpiece Shopbot](./securing-the-workpiece-to-the-shopbot.md)
 
 ## CNC Video Tutorials
 

@@ -1,7 +1,7 @@
 ---
 title: 14.04 CNC and 3D Print Documentation Assignment
 date: 2024-04-25T12:00:00Z
-lastmod: 2024-04-11T06:46:04
+lastmod: 2024-04-18T10:02:32
 ---
 
 ## Assignment Deliverables
