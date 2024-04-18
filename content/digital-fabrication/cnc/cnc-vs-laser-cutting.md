@@ -1,5 +1,7 @@
 ---
 title: CNC vs Laser Cutting
+date: 2023-06-15T14:25:55
+lastmod: 2024-04-18T07:13:37
 ---
 
 There are differences between a laser cutter and a CNC router. These differences include, kerf size, need for holding down a workpiece and the ability of the router to make pocket cuts or cuts that don’t go all the way through the material. See [CNC pocket cuts and joints](cnc-pocket-cuts-and-joints.md) for more information about CNC joints.

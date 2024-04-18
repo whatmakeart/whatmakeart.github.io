@@ -1,5 +1,7 @@
 ---
 title: Create Shopbot Tool Fusion 360
+date: 2023-06-14T13:42:05
+lastmod: 2024-04-18T07:13:37
 ---
 
 Create a tool for the 1/4" straight cut router bit. We have other bits in the Fab Studios for cutting out 3D profiles and engraving but you will use the 1/4" bit for most of your cutting. You will create a tool holder and a tool bit. For 2D cutting the tool holder is not needed but you should make it to know the process in case you do any 3D Cutting. For 3D cutting we need to know where the tool holder is and how big it is.  This [video](https://youtu.be/M9MQzYrLhGQ) shows how to create the [1/4" Flat Endmill ShopBot Tool](https://youtu.be/M9MQzYrLhGQ).

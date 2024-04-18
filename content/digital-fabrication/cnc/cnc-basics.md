@@ -1,7 +1,7 @@
 ---
 title: CNC Basics
 date: 2023-05-23T21:59:41
-lastmod: 2023-12-13T05:49:29
+lastmod: 2024-04-18T07:21:54
 ---
 
 CNC or computer numeric control is a great way to fabricate precise parts. CNC tools very based on the type of material they cut, the dimensions and directions they are able to cut in, and the type of cutting head.
@@ -20,7 +20,7 @@ A ShopBot is a brand of 2 Axix CNC machine. It is realatively user freindly and 
 
 - [CNC Tolerance and Fit](./cnc-tolerance-and-fit.md)
 - [Pocket Cuts and Joints](./cnc-pocket-cuts-and-joints.md)
-- [Dog Bone Fillets Fusion 360](./dogbone-fillets-fusion-360.md)
+- [Dog Bone Fillets Fusion 360](./cnc-fillets-fusion-360.md)
 
 ## Fusion 360 CNC
 

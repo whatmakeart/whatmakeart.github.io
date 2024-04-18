@@ -1,5 +1,7 @@
 ---
 title: Shopbot Securing the Workpiece
+date: 2023-06-14T13:44:43
+lastmod: 2024-04-18T07:13:32
 ---
 
 ## Securing the Work Piece on the ShopBot

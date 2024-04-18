@@ -1,7 +1,7 @@
 ---
 title: 09.08 3D Animation Project Environment Building
 date: 2024-03-21T12:00:00Z
-lastmod: 2024-03-27T17:03:02
+lastmod: 2024-04-17T05:45:40
 ---
 
 ## Assignment Deliverables
@@ -20,7 +20,7 @@ Spend 3 hours modeling 3D environments for your animation project. Use your stor
 | Assessment                          | Weight    |
 | ----------------------------------- | --------- |
 | Evidence of 3 hours of 3D Modeling  | 35 points |
-| Design aof 3D Environment           | 35 points |
+| Design of 3D Environment            | 35 points |
 | Exported Maya file, or Blender file | 20 points |
 | File Management                     | 10 Points |
 

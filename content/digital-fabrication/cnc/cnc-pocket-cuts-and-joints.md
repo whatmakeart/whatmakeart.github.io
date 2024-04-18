@@ -1,5 +1,7 @@
 ---
 title: CNC Pocket Cuts and Joints
+date: 2023-06-15T14:28:14
+lastmod: 2024-04-18T07:13:37
 ---
 
 Although, a laser cutter can only etch on to the surface of the material or cut all the way through, a CNC router can make non-through cuts and 3 dimensional cuts. It can round off the top and make three-dimensional sculptural forms by cutting away parts of the material.

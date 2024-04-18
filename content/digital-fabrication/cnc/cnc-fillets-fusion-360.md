@@ -1,5 +1,7 @@
 ---
 title: Dogbone Fillets Fusion 360
+date: 2023-06-14T13:38:42
+lastmod: 2024-04-18T07:13:37
 ---
 
 A laser cutter has a very thin 0.127 mm beam, and although it can't cut a perfect inside corner, the corners it cuts are very square compared to the larger curves required by a CNC router bit. The default CNC router bit we will use on the Shopbot is ¼ in. The laser cutter beam is Because of this larger kerf on the Shopbot we need to account for that on inside corners. We will use a technique called “dog bone fillets” to make space for our slots to fit in. These are called dog bone fillets because they look like cartoon dog bones. We can add these fillets parametrically in [Fusion 360](../../3d-modeling/fusion-360/fusion-360.md). The fillets are required for square parts to fit into inside corners.
