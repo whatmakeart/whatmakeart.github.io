@@ -1,7 +1,7 @@
 ---
 title: 13.05 CNC and 3D Print Project Fabricated
 date: 2024-04-18T12:00:00Z
-lastmod: 2024-04-11T16:50:58
+lastmod: 2024-04-18T09:40:09
 ---
 
 ## Assignment Deliverables
@@ -19,7 +19,7 @@ lastmod: 2024-04-11T16:50:58
 
 ## Project Resources
 
-CIA Fab Studios Online Store - [https://my.cia.edu/ICS/Student/Supply_Store/Fabrication_Studios/Wood/](https://my.cia.edu/ICS/Student/Supply_Store/Fabrication_Studios/Wood/)
+CIA Fab Studios Online Store - [https://my.cia.edu/ICS/Departments/CIA_Store/Fabrication_Studios/Wood/](https://my.cia.edu/ICS/Departments/CIA_Store/Fabrication_Studios/Wood/
 
 The Fab Studios sells pre-cut half sheets of 1/2" and 3/4" plywood. You can purchase it online at the Fab Studios' online store on myCIA.
 
