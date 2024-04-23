@@ -1,7 +1,7 @@
 ---
 title: AI
 date: 2023-05-23T21:59:42
-lastmod: 2024-03-09T05:40:49
+lastmod: 2024-04-22T05:43:27
 ---
 
 ## AI Creation
@@ -52,5 +52,6 @@ https://www.nytimes.com/interactive/2024/01/25/business/ai-image-generators-open
 - http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf
 - [paper of 1988 biased algorithm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2545288/?page=1)
 - [Google article about text embedded bias in news articles especially related to gender stereotypes](https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html?m=1)
+- https://architizer.com/blog/inspiration/stories/element-architectural-visualization-ai/
 
 [^1]: Brunton, Finn. "The Hidden Variable." Artforum. November 2014. 119-120.

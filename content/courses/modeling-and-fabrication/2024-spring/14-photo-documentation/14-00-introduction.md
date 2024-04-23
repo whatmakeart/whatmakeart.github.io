@@ -1,7 +1,7 @@
 ---
 title: 14.00 Introduction
 date: 2024-04-25T12:00:00Z
-lastmod: 2024-04-11T05:58:39
+lastmod: 2024-04-23T05:46:29
 ---
 
 ## Overview
@@ -10,9 +10,9 @@ Photography is one of the main ways you will document the creative works that yo
 
 ## Learning Objectives
 
-- use a camera to document 3D artwork
+- use a camera to [document 3D artwork](../../../../photography/how-to-document-3d-artwork.md)
 - change iso, shutter speed, and f-stop to properly expose image
-- edit raw images
+- [edit raw images](../../../../photography/how-to-edit-photos-in-adobe-camera-raw.md)
 
 ## Key Terms
 
