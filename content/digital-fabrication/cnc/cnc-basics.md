@@ -1,7 +1,7 @@
 ---
 title: CNC Basics
 date: 2023-05-23T21:59:41
-lastmod: 2024-04-18T10:02:45
+lastmod: 2024-04-23T05:51:28
 ---
 
 CNC or computer numeric control is a great way to fabricate precise parts. CNC tools very based on the type of material they cut, the dimensions and directions they are able to cut in, and the type of cutting head.
@@ -16,7 +16,7 @@ Best practice is to design a 3D model to nominal dimensions, and then build in t
 
 ## ShopBot Two Axis CNC Machine
 
-A ShopBot is a brand of 2 Axix CNC machine. It is realatively user freindly and affordable. Models can be made in [3D modeling software](../../3d-modeling/3d-modeling-software.md) and then converted to G-Code toolpaths. The tool paths are loaded into the ShopBot for cutting.
+A ShopBot is a brand of 2 Axis CNC machine. It is relatively user friendly and affordable. Models can be made in [3D modeling software](../../3d-modeling/3d-modeling-software.md) and then converted to G-Code toolpaths. The tool paths are loaded into the ShopBot for cutting.
 
 - [CNC Tolerance and Fit](./cnc-tolerance-and-fit.md)
 - [Pocket Cuts and Joints](./cnc-pocket-cuts-and-joints.md)
