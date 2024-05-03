@@ -630,7 +630,8 @@ hr {
 #bdNavbarOffcanvasLabel,
 .bd-sidebar,
 .bd-toc,
-.d-none {
+.d-none, /* hides svgs at the top of the page */
+.copy-code-button {
   display: none;
 }
 
