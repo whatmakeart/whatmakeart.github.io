@@ -3,7 +3,8 @@
 {{ $bootstrap := resources.Get "js/bootstrap/bootstrap.bundle.min.js" }}
 {{ $scripts := resources.Get "js/scripts.js" }}
 {{ $copyCodeButton:= resources.Get "js/copy-code-button.js" }}
-{{ $js := slice $bootstrap $scripts $copyCodeButton | resources.Concat "js/bundle.js" }}
+{{ $printIframes := resources.Get "js/printIframes.js" }}
+{{ $js := slice $bootstrap $scripts $copyCodeButton $printIframes | resources.Concat "js/bundle.js" }}
 
 {{ $params := dict }}
 {{ $sourceMap := cond hugo.IsProduction "" "inline" }}

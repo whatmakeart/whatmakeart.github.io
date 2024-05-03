@@ -524,7 +524,13 @@ acronym[title] {
 table,
 blockquote,
 pre,
+code,
+figure,
+li,
 hr,
+ul,
+ol,
+a,
 tr {
   page-break-inside: avoid;
 }
@@ -554,7 +560,6 @@ h3 + p {
   page-break-before: avoid;
 }
 
-figure,
 img {
   page-break-after: auto;
   page-break-before: auto;
@@ -586,19 +591,6 @@ acronym[title]:after {
   page-break-inside: avoid;
 }
 
-figure {
-  margin: 0;
-}
-
-hr {
-  page-break-before: avoid;
-  page-break-after: avoid;
-}
-
-.footnotes {
-  page-break-inside: auto;
-}
-
 @page {
   size: letter; /* auto is the initial value */
   /* this affects the margin in the printer settings */
@@ -614,7 +606,6 @@ hr {
   padding: 0;
   padding-bottom: 10mm;
   margin: 0;
-  page-break-inside: auto;
 }
 
 #wiki-navbar,
@@ -630,7 +621,7 @@ hr {
 #bdNavbarOffcanvasLabel,
 .bd-sidebar,
 .bd-toc,
-.d-none {
+.skippy {
   display: none;
 }
 
