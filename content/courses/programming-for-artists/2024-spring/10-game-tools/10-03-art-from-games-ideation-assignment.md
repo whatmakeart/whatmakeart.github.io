@@ -1,7 +1,7 @@
 ---
 title: 10.03 Art from Games Ideation Assignment
 date: 2024-03-29T09:30:00
-lastmod: 2024-04-12T06:17:42
+lastmod: 2024-05-04T05:46:38
 ---
 
 ## Assignment Deliverables
@@ -45,3 +45,14 @@ Document what you did and what happened. Be detailed and thorough.
 
 - Ideation and initial production is due next class
 - [Art from Games](../11-art-from-games/11-03-art-from-games-assignment.md) is due in two weeks
+
+<div class="responsive-table-markdown">
+
+| Assessment                          | Weight    |
+| ----------------------------------- | --------- |
+| Ideation Depth                      | 40 points |
+| Project Report Depth                | 30 points |
+| Evidence of 2-3 Hours of Production | 25 points |
+| File Management                     | 10 points |
+
+</div>

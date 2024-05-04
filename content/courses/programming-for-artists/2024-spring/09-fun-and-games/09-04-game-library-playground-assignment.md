@@ -1,7 +1,7 @@
 ---
 title: 09.04 Game Library Playground Assignment
 date: 2024-03-22T09:30:00
-lastmod: 2024-04-05T07:41:58
+lastmod: 2024-05-04T06:29:40
 ---
 
 ## Assignment Deliverables
@@ -53,3 +53,17 @@ When you get stuck, paste your code into a LLM to see if it can spot an issue. I
 Remember that you can also use LLM to attempt to explain example code that you don't understand. As you see examples of games or techniques, paste that code into a LLM and ask it to explain what is going on. THen you can use the LLM to try to modify the code for what you want to accomplish.
 
 **Cite all sources with links and all code from LLMs**
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                        | Weight    |
+| --------------------------------- | --------- |
+| Description of Selected Game Tool | 10 points |
+| Activity Report Depth             | 30 points |
+| Evidence of 4 Hours of Research   | 40 points |
+| Uploaded Report                   | 10 points |
+| File Management                   | 10 points |
+
+</div>

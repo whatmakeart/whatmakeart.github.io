@@ -1,7 +1,7 @@
 ---
 title: 12.02 Self Selected Programming Research and Progress Report Assignment
 date: 2024-04-12T09:30:00
-lastmod: 2024-04-12T09:14:42
+lastmod: 2024-05-04T06:29:30
 ---
 
 ## Assignment Deliverables
@@ -29,3 +29,15 @@ lastmod: 2024-04-12T09:14:42
 Remember that nothing may work. It is likely that you will be able to create the example from the getting started but then it may break as you make changes and experiment. That is ok.
 
 Document what you did and what happened. Be detailed and thorough.
+
+<div class="responsive-table-markdown">
+
+| Assessment                          | Weight    |
+| ----------------------------------- | --------- |
+| Production Report Depth             | 30 points |
+| Evidence of 2-3 Hours of Production | 25 points |
+| Clear Next Steps in Report          | 25 points |
+| Layout / Formatting                 | 10 points |
+| File Management                     | 10 points |
+
+</div>

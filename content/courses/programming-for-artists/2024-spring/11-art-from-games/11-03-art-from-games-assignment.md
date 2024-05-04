@@ -1,7 +1,7 @@
 ---
 title: 11.03 Art From Games Assignment
 date: 2024-04-05T09:30:00
-lastmod: 2024-04-05T07:08:37
+lastmod: 2024-05-04T05:55:44
 ---
 
 ## Assignment Deliverables
@@ -31,3 +31,15 @@ lastmod: 2024-04-05T07:08:37
 2. Publish your local repository to GitHub
 3. Publish your GitHub repository to GitHub Pages
 4. Upload the GitHub Pages URL
+
+<div class="responsive-table-markdown">
+
+| Assessment                          | Weight    |
+| ----------------------------------- | --------- |
+| Art From Games Project Completeness | 25 points |
+| Project Report Depth                | 30 points |
+| Evidence of Work                    | 25 points |
+| Uploaded URL                        | 10 points |
+| File Management                     | 10 points |
+
+</div>

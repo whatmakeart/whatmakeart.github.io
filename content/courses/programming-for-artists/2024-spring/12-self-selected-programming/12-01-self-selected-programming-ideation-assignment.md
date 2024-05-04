@@ -1,7 +1,7 @@
 ---
 title: 12.01 Self Selected Projects Ideation Assignment
 date: 2024-04-12T09:30:00
-lastmod: 2024-04-12T09:26:29
+lastmod: 2024-05-04T06:27:39
 ---
 
 ## Assignment Deliverables
@@ -56,3 +56,15 @@ Use a cell phone's sensors or one of the available headsets, such as the Quest 2
 ### Further Develop Previous Project
 
 Is there a project that you worked on but had to finish at a less than satisfactory state due to a deadline? What would you do if you had more time? Now you do! Write a proposal to further investigate and develop an existing project.
+
+<div class="responsive-table-markdown">
+
+| Assessment                                           | Weight    |
+| ---------------------------------------------------- | --------- |
+| Ideation Concepts                                    | 30 points |
+| Sketches / Visuals / Elaboration on Proposed Concept | 25 points |
+| Evidence of 45 min - 1.5 hour of Ideation            | 25 points |
+| Layout / Formatting                                  | 10 points |
+| File Management                                      | 10 points |
+
+</div>
