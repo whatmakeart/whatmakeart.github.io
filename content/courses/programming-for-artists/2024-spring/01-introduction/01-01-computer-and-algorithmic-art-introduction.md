@@ -1,7 +1,7 @@
 ---
 title: 01.01 Computer and Algorithmic Art
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-20T04:56:07
+lastmod: 2024-05-05T06:37:47
 ---
 
 ## Intro to Computer and Algorithmic Art
@@ -22,7 +22,7 @@ Girih pattern on a spandrel from the Darb-i Imam shrine, Isfahan, Iran (1453 C.E
 </figure>
 <figure>
 
-[![Penrose Tiling](<./2009-02-01-Penrose_Tiling_(P1_over_P3).png>)](<./2009-02-01-Penrose_Tiling_(P1_over_P3).png>)
+[![Penrose Tiling](./2009-02-01-Penrose_Tiling_P1_over_P3.png)](./2009-02-01-Penrose_Tiling_P1_over_P3.png)
 
 <figcaption>
 

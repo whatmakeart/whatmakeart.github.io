@@ -1,9 +1,23 @@
-{{ partial "head/meta" . }}
+<!-- gets variables for pages to see if the lowest level course page -->
+{{ $hasChildren := false }}
+{{ $grandparentTitle := "" }}
+
+{{ if eq .Section "courses" }}
+  {{ $children := where .Site.RegularPages "Parent" . }}
+  {{ if gt (len $children) 0 }}
+    {{ $hasChildren = true }}
+  {{ else if .Parent.Parent }}
+    {{ $grandparentTitle = .Parent.Parent.Title }}
+  {{ end }}
+{{ end }}
 
 
+<!-- Adds two level up course title to page if lowest level course page with no children -->
 <title>
   {{- if eq .Kind "home" -}}
     {{ .Site.Title }}
+  {{- else if and (eq .Section "courses") (not $hasChildren) (ne $grandparentTitle "") -}}
+    {{ printf "%s | %s | %s" .Title $grandparentTitle .Site.Title }}
   {{- else -}}
     {{ printf "%s | %s" (partial "head/title" .) .Site.Title }}
   {{- end -}}
