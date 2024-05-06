@@ -17,7 +17,7 @@
   {{- if eq .Kind "home" -}}
     {{ .Site.Title }}
   {{- else if and (eq .Section "courses") (not $hasChildren) (ne $grandparentTitle "") -}}
-    {{ printf "%s | %s | %s" .Title $grandparentTitle .Site.Title }}
+    {{ printf "%s | %s | %s" .Title $grandparentTitle "Jimmy Kuehnle" }}
   {{- else -}}
     {{ printf "%s | %s" (partial "head/title" .) .Site.Title }}
   {{- end -}}

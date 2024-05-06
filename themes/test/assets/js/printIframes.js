@@ -14,6 +14,8 @@ document.addEventListener("DOMContentLoaded", function () {
     return match ? match[2] : null;
   }
 
+  const websiteTitle = document.title;
+
   // Replace YouTube and Vimeo iframes with thumbnails
   async function replaceIframesWithThumbnails() {
     const iframes = document.querySelectorAll("iframe");
@@ -65,6 +67,57 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Save the original state to restore later
   let originalHTML;
+
+  function addTitleToPrint() {
+    // Get the current page URL
+    const pageUrl = window.location.href;
+
+    // Split the website title by the `|` separator and remove extra spaces
+    const titleParts = websiteTitle.split("|").map((part) => part.trim());
+
+    // Create a parent div to contain all individual title lines
+    const printTitleContainer = document.createElement("div");
+    printTitleContainer.style.marginBottom = "10px";
+
+    // Create a link element to wrap the title and link back to the original page
+    const titleLink = document.createElement("a");
+    titleLink.href = pageUrl;
+    titleLink.target = "_blank";
+    titleLink.style.textDecoration = "none"; // Optional: Remove underline
+
+    // Define an array of font sizes (adjust or expand as needed)
+    const fontSizes = ["1.75rem", "1.2rem", "1rem", "1rem"];
+
+    // Iterate through each title part and create separate divs
+    titleParts.forEach((part, index) => {
+      const titleLine = document.createElement("div");
+      titleLine.textContent = part;
+
+      // Use a different font size for each line based on available sizes or repeat the last one
+      titleLine.style.fontSize =
+        fontSizes[index] || fontSizes[fontSizes.length - 1];
+      titleLine.style.fontWeight = "bold";
+      titleLine.style.marginBottom = "5px"; // Add some margin between lines
+
+      // Add the individual title line to the title link container
+      titleLink.appendChild(titleLine);
+    });
+
+    // Add the title link to the main container
+    printTitleContainer.appendChild(titleLink);
+
+    // Add a horizontal rule below the title
+    const horizontalRule = document.createElement("hr");
+    printTitleContainer.appendChild(horizontalRule);
+
+    // Try to find the main element; otherwise, prepend the container to the body
+    const mainContent = document.querySelector("main");
+    if (mainContent) {
+      mainContent.parentNode.insertBefore(printTitleContainer, mainContent);
+    } else {
+      document.body.insertBefore(printTitleContainer, document.body.firstChild);
+    }
+  }
 
   // Create references only before printing
   function addLinksOnPrint() {
@@ -128,6 +181,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     replaceIframesWithThumbnails();
     addLinksOnPrint();
+    addTitleToPrint();
   });
 
   window.addEventListener("afterprint", () => {

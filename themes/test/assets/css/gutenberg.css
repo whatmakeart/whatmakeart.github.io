@@ -334,7 +334,7 @@ p:first-line,
 div:first-line,
 blockquote:first-line,
 li:first-line {
-  background: transparent !important;
+  background: transparent;
   box-shadow: none !important;
   text-shadow: none !important;
 }
@@ -348,7 +348,7 @@ html {
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  background: #fff !important;
+  background: #fff;
   color: #000 !important;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1rem;
@@ -674,8 +674,11 @@ hr {
 .iframe-4-3-container {
   max-width: 100%;
 }
+
 .video-grid,
-.gallery-grid {
+.gallery-grid,
+.tutorial-video-grid,
+.two-column-grid {
   display: grid;
   width: 100%;
   grid-gap: 5mm;
@@ -685,7 +688,8 @@ hr {
   margin-bottom: 1.5rem;
 }
 
-.gallery-grid > figure {
+.gallery-grid > figure,
+.video-card {
   display: grid;
   grid-template-rows: subgrid;
   row-gap: 0mm;
@@ -718,16 +722,27 @@ hr {
 #bottom-prev-next,
 .bd-sidebar,
 .bd-toc,
+.bd-title, /* hides title but put back in with javascript on multiple lines */
 .d-none, /* hides svgs at the top of the page */
 .copy-code-button {
   display: none;
 }
 
+.iframe-16-9-container a[href^="http"]:after,
+.iframe-16-9-container a[href^="ftp"]:after,
+.video-card a[href^="http"]:after,
+.video-card a[href^="ftp"]:after,
 .video-grid a[href^="http"]:after,
-.video-grid a[href^="https"]:after,
 .video-grid a[href^="ftp"]:after {
-  content: " (" attr(href) ")";
-  font-size: 80%;
+  content: attr(href);
+  font-size: 75%;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+.video-card {
+  page-break-inside: avoid;
 }
 
 #printed-urls-heading {
@@ -739,20 +754,70 @@ hr {
   font-size: 0.75rem;
 }
 
-/*
-.bd-main::before {
-  content: "This is the added paragraph for printed media only.";
-  display: block;
-  font-size: 14pt;
+.responsive-table-markdown {
+  overflow-x: auto;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  overflow-x: auto;
+}
+.responsive-table-markdown > table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.responsive-table-markdown > table tr:nth-child(even) {
+  background-color: #f2f2f2; /* make zebra stripes */
 }
 
-*/
-
-body {
-  padding-top: 1.54cm; /* overide guttenberg */
+/* table inner borders */
+.responsive-table-markdown > table td + td {
+  border-left: 1px solid #ccc;
+}
+.responsive-table-markdown > table tr + tr td {
+  border-top: 1px solid #ccc;
+}
+.responsive-table-markdown > table td,
+.responsive-table-markdown > table th {
+  padding: 1rem;
+}
+.responsive-table-markdown > table th {
+  font-size: 1.125em;
 }
 
 canvas,
 .responsive-iframe {
   max-width: 100%;
 }
+
+/* overide guttenberg */
+/* overide guttenberg */
+/* overide guttenberg */
+body {
+  padding-top: 1.54cm;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+h4 {
+  font-size: 1rem;
+}
+
+h5 {
+  font-size: 1rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+/* overide guttenberg */
+/* overide guttenberg */
+/* overide guttenberg */
