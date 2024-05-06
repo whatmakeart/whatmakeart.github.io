@@ -329,12 +329,6 @@ a.title-link {
 
 /* from files */
 
-.gallery-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-gap: 10px;
-}
-
 .image-card {
   display: flex;
   flex-direction: column;
@@ -354,26 +348,29 @@ a.title-link {
   height: 300px;
 }
 
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-rows: auto auto;
+  grid-gap: 1rem;
+}
+
+.gallery-grid > figure {
+  display: grid;
+  row-gap: 0;
+  grid-template-rows: subgrid;
+  grid-row: span 2; /* uses subgrid to align the captions */
+}
+
+.gallery-grid > figure > figcaption {
+  font-size: 0.875rem /*14px*/;
+}
+
 /* for image gallery captions as lists */
 .gallery-grid > figure > figcaption > ul {
   list-style: none;
   padding-left: 0;
-  font-size: 12px;
-}
-
-.gallery-grid > figure {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between; /* pushes the caption to the bottom for uneven image heights */
-}
-
-/* gallery-grid caption font size */
-.gallery-grid > figure > figcaption {
-  font-size: 14px;
-}
-
-figure > p {
-  margin-bottom: 0.5rem;
+  font-size: 0.75rem /*12px*/;
 }
 
 /* Begin for footnote backlinks on hugo */

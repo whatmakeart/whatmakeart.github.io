@@ -1,7 +1,7 @@
 ---
 title: 00.05 Student Questions
-date: 2024-01-27T10:10:03
-lastmod: 2024-02-12T05:45:54
+date: 2024-01-19T09:30:00Z
+lastmod: 2024-05-06T05:27:01
 ---
 
 _Click on questions to expand solution._

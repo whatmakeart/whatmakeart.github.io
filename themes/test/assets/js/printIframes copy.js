@@ -26,9 +26,9 @@ document.addEventListener("DOMContentLoaded", function () {
         // Replace with YouTube thumbnail
         const thumbnailURL = `https://img.youtube.com/vi/${youtubeID}/0.jpg`;
         const link = document.createElement("a");
-        link.className = "replaced-video-thumbnail"; // Add class
         link.href = `https://www.youtube.com/watch?v=${youtubeID}`;
         link.target = "_blank";
+        link.className = "replaced-video-thumbnail"; // Add class
 
         const img = document.createElement("img");
         img.src = thumbnailURL;
@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const link = document.createElement("a");
         link.href = `https://vimeo.com/${vimeoID}`;
         link.target = "_blank";
-        link.classList.add("replaced-video-thumbnail"); // Add class
+        link.className = "replaced-video-thumbnail"; // Add class
 
         const img = document.createElement("img");
         img.src = thumbnailURL;

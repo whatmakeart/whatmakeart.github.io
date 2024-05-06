@@ -679,15 +679,28 @@ hr {
   display: grid;
   width: 100%;
   grid-gap: 5mm;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   page-break-inside: auto;
+  grid-template-rows: auto auto;
   margin-bottom: 1.5rem;
 }
 
 .gallery-grid > figure {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between; /* pushes the caption to the bottom for uneven image heights */
+  display: grid;
+  grid-template-rows: subgrid;
+  row-gap: 0mm;
+  grid-row: span 2; /* uses subgrid to align the captions */
+}
+
+.gallery-grid > figure > figcaption {
+  font-size: 0.875rem /*14px*/;
+}
+
+/* for image gallery captions as lists */
+.gallery-grid > figure > figcaption > ul {
+  list-style: none;
+  padding-left: 0;
+  font-size: 0.75rem /*12px*/;
 }
 
 #wiki-navbar,
@@ -710,8 +723,36 @@ hr {
   display: none;
 }
 
-.replaced-video-thumbnail a[href^="http"]:after,
-.replaced-video-thumbnail a[href^="ftp"]:after {
+.video-grid a[href^="http"]:after,
+.video-grid a[href^="https"]:after,
+.video-grid a[href^="ftp"]:after {
   content: " (" attr(href) ")";
   font-size: 80%;
+}
+
+#printed-urls-heading {
+  page-break-before: always;
+}
+
+.printed-link-urls,
+.printed-link-urls a {
+  font-size: 0.75rem;
+}
+
+/*
+.bd-main::before {
+  content: "This is the added paragraph for printed media only.";
+  display: block;
+  font-size: 14pt;
+}
+
+*/
+
+body {
+  padding-top: 1.54cm; /* overide guttenberg */
+}
+
+canvas,
+.responsive-iframe {
+  max-width: 100%;
 }

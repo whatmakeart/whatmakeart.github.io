@@ -1,7 +1,7 @@
 ---
 title: 04.05 ml5.js Experiment Assignment
 date: 2024-02-09T09:30:00
-lastmod: 2024-02-27T06:22:47
+lastmod: 2024-05-06T12:30:14
 ---
 
 ## Assignment Deliverables
@@ -19,7 +19,7 @@ lastmod: 2024-02-27T06:22:47
 4. Combine the model with one of your previous projects.
 5. Use your body for interaction rather than the keyboard or mouse
 6. Experiment and have fun
-7. Look at the many example on the web and be inspired by them, just make sure to create your own project and [cite](../00-getting-started/00-07-citing-code.md) any and all references and sources in your code comments
+7. Look at the many example on the web and be inspired by them, just make sure to create your own project and [cite](../00-getting-started/00-06-citing-code.md) any and all references and sources in your code comments
 
 ### Possible Concepts
 
