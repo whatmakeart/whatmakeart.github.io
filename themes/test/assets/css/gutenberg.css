@@ -818,6 +818,10 @@ h5 {
 h6 {
   font-size: 1rem;
 }
+
+table {
+  break-inside: auto;
+}
 /* overide guttenberg */
 /* overide guttenberg */
 /* overide guttenberg */
