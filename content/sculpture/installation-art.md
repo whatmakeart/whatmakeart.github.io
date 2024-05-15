@@ -1,7 +1,7 @@
 ---
 title: Installation Art
 date: 2023-07-10T16:51:25
-lastmod: 2024-01-17T04:09:21
+lastmod: 2024-05-15T05:43:28
 tags:
   - stub
 ---
@@ -22,6 +22,7 @@ By placing a large object in a space, it instantly becomes an installation and a
 - Abbas Akhavan - _Curtain Call_ Pillars and green screen [Link](https://chisenhale.org.uk/audio-video/abbas-akhavan/)
 - William Pope.L _Trinket_ Large flag and fan [Link](https://www.moca.org/exhibition/william-popel-trinket)
 - Jennifer Wen Ma _Hanging Garden in Ink_ pile of plants [Link](https://fpa319w.wordpress.com/2014/12/02/critical-review-unscrolled-2/)
+- [The Portal](https://www.portals.org/)
 
 ### Lots of Small Things in a Space
 
