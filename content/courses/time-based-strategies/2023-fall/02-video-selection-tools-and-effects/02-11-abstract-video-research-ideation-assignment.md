@@ -1,7 +1,7 @@
 ---
 title: 02.11 Abstract Video Research and Ideation Assignment
 date: 2023-09-05T09:00:00Z
-lastmod: 2023-09-26T05:30:00
+lastmod: 2024-05-17T13:56:37
 ---
 
 ## Assignment Deliverables

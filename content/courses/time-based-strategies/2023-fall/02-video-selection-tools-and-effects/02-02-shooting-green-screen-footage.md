@@ -1,7 +1,7 @@
 ---
 title: 02.02 Shooting Green Screen Footage
-date: 2023-09-05T11:02:41
-lastmod: 2023-09-29T05:46:40
+date: 2023-09-05T09:00:00Z
+lastmod: 2024-05-17T13:58:05
 toc: true
 ---
 
