@@ -1,7 +1,7 @@
 ---
-title: 02.02 Use Large Language Models for Ideation (as of Fall 2023)
+title: 02.03 Use Large Language Models for Ideation (as of Fall 2023)
 date: 2023-09-11T12:00:00
-lastmod: 2023-09-11T11:37:20
+lastmod: 2024-05-17T13:15:24
 ---
 
 ## What are LLMs?
