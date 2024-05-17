@@ -1,7 +1,7 @@
 ---
 title: 06.07 Projection Mapping Research Assignment
-date: 2023-10-02T09:00:00
-lastmod: 2023-10-03T20:24:23
+date: 2023-10-03T09:00:00
+lastmod: 2024-05-17T14:42:40
 ---
 
 ## Assignment Deliverables

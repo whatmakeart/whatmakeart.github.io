@@ -1,7 +1,7 @@
 ---
 title: 10.04 3D Modeling for Laser Cutting with Fusion 360
-date: 2023-11-07T09:30:00
-lastmod: 2024-02-21T09:49:19
+date: 2023-11-07T09:00:00
+lastmod: 2024-05-17T14:45:34
 ---
 
 ## Fusion 360 Quick Start

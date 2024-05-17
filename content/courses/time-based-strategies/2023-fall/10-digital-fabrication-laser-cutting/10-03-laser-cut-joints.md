@@ -1,7 +1,7 @@
 ---
-title: 10.02 Laser Cut Joints
-date: 2023-11-07T09:30:00
-lastmod: 2023-11-07T06:08:29
+title: 10.03 Laser Cut Joints
+date: 2023-11-07T09:00:00
+lastmod: 2024-05-17T14:45:34
 toc: true
 ---
 

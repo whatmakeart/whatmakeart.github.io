@@ -1,7 +1,7 @@
 ---
 title: 04.01 Blender Motion Tracking
-date: 2023-09-21T06:15:17
-lastmod: 2023-09-27T11:34:30
+date: 2023-09-19T09:00:00
+lastmod: 2024-05-17T14:40:22
 ---
 
 <div class="video-grid">

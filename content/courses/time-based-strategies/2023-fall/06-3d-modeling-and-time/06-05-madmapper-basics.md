@@ -1,7 +1,7 @@
 ---
 title: 06.05 Madmapper Basics
-date: 2023-10-02T09:00:00
-lastmod: 2023-10-08T17:37:45
+date: 2023-10-03T09:00:00
+lastmod: 2024-05-17T14:42:40
 toc: true
 ---
 

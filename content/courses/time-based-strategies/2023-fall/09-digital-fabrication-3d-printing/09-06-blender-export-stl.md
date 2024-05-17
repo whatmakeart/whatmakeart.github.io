@@ -1,7 +1,7 @@
 ---
 title: 09.06 Blender Export STL
-date: 2023-10-31T09:30:00
-lastmod: 2023-11-01T08:02:57
+date: 2023-10-31T09:00:00
+lastmod: 2024-05-17T14:45:34
 toc: true
 ---
 

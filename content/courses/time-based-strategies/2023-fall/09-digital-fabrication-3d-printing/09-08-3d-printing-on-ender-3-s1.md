@@ -1,7 +1,7 @@
 ---
 title: 09.08 Printing on Ender 3 S1
-date: 2023-10-31T09:30:00
-lastmod: 2023-11-01T17:43:23
+date: 2023-10-31T09:00:00
+lastmod: 2024-05-17T14:45:34
 ---
 
 1. Save the gcode file from Cura to an SD card.

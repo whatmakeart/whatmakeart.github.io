@@ -1,7 +1,5 @@
 ---
-
 title: 04 Advanced Tracking and Keying
-date: 2023-09-21T06:14:17
-lastmod: 2023-09-21T06:14:32
-
+date: 2023-09-19T09:00:00
+lastmod: 2024-05-17T14:42:40
 ---

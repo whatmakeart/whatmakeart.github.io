@@ -1,7 +1,7 @@
 ---
 title: 06.02 Projection Mapping Examples
-date: 2023-10-02T09:00:00
-lastmod: 2023-10-03T19:28:38
+date: 2023-10-03T09:00:00
+lastmod: 2024-05-17T14:42:40
 ---
 
 <div class="video-grid">
