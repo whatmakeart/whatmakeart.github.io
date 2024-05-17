@@ -1,7 +1,7 @@
 ---
 title: 03.02 Green Screen Video Art
 date: 2023-09-12T09:00:00
-lastmod: 2023-09-23T17:06:19
+lastmod: 2024-05-17T13:59:28
 ---
 
 ## Green Screen Video Art
@@ -96,6 +96,8 @@ Herve Pagez & Diplo - Spicy
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/hvjytRyt27c?si=wklfYAiaz3a2BBD9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
+
+<div class="video-card">
 
 Hobo Johnson - Uglykid
 
