@@ -1,7 +1,7 @@
 ---
 title: 11.04 Statement Draft Assignment
 date: 2023-11-20T12:00:00
-lastmod: 2023-12-07T19:56:48
+lastmod: 2024-05-17T13:26:57
 ---
 
 ## Assignment Deliverables

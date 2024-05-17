@@ -1,7 +1,7 @@
 ---
 title: 11.03 Technical Synthesis Two Documentation Assignment
-date: 2023-11-27T12:00:00
-lastmod: 2024-01-17T04:07:05
+date: 2023-11-20T12:00:00
+lastmod: 2024-05-17T13:27:05
 ---
 
 ## Assignment Deliverables
