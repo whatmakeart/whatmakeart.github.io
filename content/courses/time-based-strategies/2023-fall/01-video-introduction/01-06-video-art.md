@@ -1,7 +1,7 @@
 ---
 title: 01.06 Video Art
 date: 2023-08-29T09:00:00Z
-lastmod: 2023-09-15T05:53:54
+lastmod: 2024-05-17T13:55:38
 ---
 
 ## Early Video Art
@@ -61,14 +61,16 @@ Joan Jonas - _Vertical Roll_ 1972
 Adrian Piper - _Mythic Being_ 1973
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/jVcXb8En_Tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div></div>
+</div>
+</div>
+
 <div class="video-card">
 
 Hermine Freed - _Art Herstory_ 1974
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/3vC1y6fLLY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div></div>
-<div class="video-card">
+</div>
+</div>
 
 <div class="video-card">
 
@@ -86,6 +88,8 @@ Charlotte Moorman - performing with _TV cello_ 1976
 </div>
 </div>
 
+<div class="video-card">
+
 Nam Jun Paik - _Merce by Merce_ 1977
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/MV6iS-K7wOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -97,7 +101,9 @@ Nam Jun Paik - _Merce by Merce_ 1977
 Dara Birnbaum - _Technology / Transformation: Wonder Woman_ 1978-79
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/wJhEgbz9piI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div></div>
+</div>
+</div>
+
 <div class="video-card">
 
 Howardena Pindell - _FREE, WHITE AND 21_ 1980
@@ -114,9 +120,15 @@ Pipilotti Rist - _I'm Not the Girl Who Misses Much_
 </div>
 </div>
 
+</div>
+
 <div class="video-card">
 
 ## Later Video Art
+
+<div class= "video-grid">
+
+<div class="video-card">
 
 Francis Alÿs - _Sometimes Making Something Leads to Nothing_ 1997
 
@@ -136,7 +148,11 @@ Pipilotti Rist - _Ever is Overall_ 19967
 
 Candice Breitz - _Queen (A Portrait of Madonna)_ 2005
 
-<div class="iframe-16-9-container"><iframe class="vimeoIframe" src="https://player.vimeo.com/video/30395719?h=a9abef8d91" width="640" height="416" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div></div><div class="video-card">
+<div class="iframe-16-9-container"><iframe class="vimeoIframe" src="https://player.vimeo.com/video/30395719?h=a9abef8d91" width="640" height="416" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
 
 Ryan Trecartin - _I-BE AREA (Pasta and Wendy M-PEGgy)_ 2007
 
