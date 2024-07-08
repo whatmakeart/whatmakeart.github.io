@@ -1,7 +1,7 @@
 ---
 title: 00.02 Time Based Practices Syllabus
 date: 2023-08-29T09:00:00Z
-lastmod: 2023-09-15T05:53:21
+lastmod: 2024-07-07T21:04:14
 ---
 
 ## Time Based Strategies
@@ -95,24 +95,24 @@ There are no required textbooks for this course.
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**     | **Topic**                        |
-| -------- | ------------ | -------------------------------- |
-| 1        | August 29    | Introduction                     |
-| 2        | September 5  | Lecture / Workshop / Studio Work |
-| 3        | September 12 | Lecture / Workshop / Studio Work |
-| 4        | September 19 | Project 1 Crit                   |
-| 5        | September 26 | Lecture / Workshop / Studio Work |
-| 6        | October 3    | Lecture / Workshop / Studio Work |
-| 7        | October 10   | Project 2 Crit                   |
-| 8        | October 17   | Lecture / Workshop / Studio Work |
-| 9        | October 24   | No Class Fall Break              |
-| 10       | October 31   | Lecture / Workshop / Studio Work |
-| 11       | November 7   | Lecture / Workshop / Studio Work |
-| 12       | November 14  | Project 3 Crit                   |
-| 13       | November 21  | Lecture / Workshop / Studio Work |
-| 14       | November 28  | Lecture / Workshop / Studio Work |
-| 15       | December 5   | Lecture / Workshop / Studio Work |
-| 16       | December 12  | Final Crits                      |
+| **Week** | **Date**     | **Topic**                                                                   |
+| -------- | ------------ | --------------------------------------------------------------------------- |
+| 1        | August 29    | Course Introduction - Video Introduction                                    |
+| 2        | September 5  | Lecture / Workshop / Studio Work - Video Selection Tools and Effects        |
+| 3        | September 12 | Lecture / Workshop / Studio Work - Video Motion Tracking                    |
+| 4        | September 19 | Project 1 Crit                                                              |
+| 5        | September 26 | Lecture / Workshop / Studio Work                                            |
+| 6        | October 3    | Lecture / Workshop / Studio Work                                            |
+| 7        | October 10   | Project 2 Crit                                                              |
+| 8        | October 17   | Lecture / Workshop / Studio Work                                            |
+| 9        | October 24   | No Class Fall Break                                                         |
+| 10       | October 31   | Lecture / Workshop / Studio Work                                            |
+| 11       | November 7   | Lecture / Workshop / Studio Work                                            |
+| 12       | November 14  | Sonic Arts Workshop with Bob Drake Part 1                                   |
+| 13       | November 21  | Sonic Arts Workshop with Bob Drake Part 2                                   |
+| 14       | November 28  | [Time Based Synthesis](../13-time-based-synthesis/13-01-introduction.md)    |
+| 15       | December 5   | [Time Based Synthesis Studio Work](../14-time-based-synthesis-studio-work/) |
+| 16       | December 12  | Final Crits                                                                 |
 
 </div>
 

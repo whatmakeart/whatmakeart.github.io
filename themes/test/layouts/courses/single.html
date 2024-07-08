@@ -67,7 +67,7 @@
 
         <div>
             <div id="bottom-prev-next">
-                {{ $subject := site.GetPage "courses/experiments-in-electronic-arts/sprint-2023/" }}
+                {{ $subject := site.GetPage "courses/experiments-in-electronic-arts/spring-2023/" }}
                 {{ range $subject.RegularPagesRecursive }}
                 <a class="prev" href="{{ if .PrevPage }}{{ .PrevPage.Permalink }}{{ else }}#{{ end }}">« {{ .PrevPage.Title }}</a>
                 <a class="next" href="{{ if .NextPage }}{{ .NextPage.Permalink }}{{ else }}#{{ end }}">{{ .NextPage.Title }} »</a>
