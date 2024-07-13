@@ -68,7 +68,8 @@
         <div>
             <div id="bottom-prev-next">
 
-
+<!-- Loops through the pages in the courses sub directory, sorts them and then based on the relative permalink 
+then the index is kept track of for forward and next buttons on the bottom of course pages. -->
 {{ $currentFilePath := .File.Path }}
 {{ $grandparentFolderPath := path.Dir (path.Dir $currentFilePath) }}
 
@@ -106,7 +107,8 @@
                 </li> 
 {{ else }}
  <!-- End of Course -->
-{{ end }}            
+{{ end }}  
+<!-- End previous and next button code for courses -->          
 
 
             </div>
