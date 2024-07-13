@@ -67,46 +67,22 @@
 
         <div>
             <div id="bottom-prev-next">
+                {{ $subject := site.GetPage "courses/experiments-in-electronic-arts/spring-2023/" }}
+                {{ range $subject.RegularPagesRecursive }}
+                <a class="prev" href="{{ if .PrevPage }}{{ .PrevPage.Permalink }}{{ else }}#{{ end }}">« {{ .PrevPage.Title }}</a>
+                <a class="next" href="{{ if .NextPage }}{{ .NextPage.Permalink }}{{ else }}#{{ end }}">{{ .NextPage.Title }} »</a>
+                {{ end }}
 
 
-{{ $currentFilePath := .File.Path }}
-{{ $grandparentFolderPath := path.Dir (path.Dir $currentFilePath) }}
+                {{ if .NextInSection }}
+                <li class="btn btn-lg btn-outline-dark align-items-center">
+                    <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">&larr; {{ .NextInSection.Title}} </a>
+                </li> {{ end }}
 
-{{ $pagesInGrandparent := slice }}
-{{ range .Site.RegularPages }}
-    {{ if strings.HasPrefix .File.Path $grandparentFolderPath }}
-        {{ $pagesInGrandparent = $pagesInGrandparent | append . }}
-    {{ end }}
-{{ end }}
-
-{{ $pagesInGrandparent = sort $pagesInGrandparent "RelPermalink" }}
-{{ $currentPage := . }}
-{{ $currentIndex := -1 }}
-{{ range $index, $element := $pagesInGrandparent }}
-    {{ if eq $element.RelPermalink $currentPage.RelPermalink }}
-        {{ $currentIndex = $index }}
-    {{ end }}
-{{ end }}
-{{ $prevIndex := sub $currentIndex 1 }}
-{{ $nextIndex := add $currentIndex 1 }}
-
-{{ if ge $prevIndex 0 }}
-  {{ $prevPage := index $pagesInGrandparent $prevIndex }}
-     <li class="btn btn-lg btn-outline-dark align-items-center">
-                    <a href="{{ $prevPage.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ $prevPage.Title}}">&larr; {{ $prevPage.Title}} </a>
-                </li> 
-{{ else }}
-   <!-- Start of Course -->
-{{ end }}
-
-{{ if lt $nextIndex (len $pagesInGrandparent) }}
-  {{ $nextPage := index $pagesInGrandparent $nextIndex }}
-   <li class="btn btn-lg btn-outline-dark align-items-center">
-                    <a href="{{ $nextPage.RelPermalink  }}" data-toggle="tooltip" data-placement="top" title="{{ $nextPage.Title}}"> {{ $nextPage.Title}} &rarr;</a>
-                </li> 
-{{ else }}
- <!-- End of Course -->
-{{ end }}            
+                {{ if .PrevInSection }}
+                <li class="btn btn-lg btn-outline-dark align-items-center">
+                    <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title}}"> {{ .PrevInSection.Title}} &rarr;</a>
+                </li> {{ end }}
 
 
             </div>

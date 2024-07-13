@@ -1,0 +1,21 @@
+{{/*
+  If there are child item(s), the first child item should be the heavier item.
+  If there is no child item(s), we have to proceed to the recursive seeking part, to find the not-last item within siblings.
+
+  It seems that the return statement could not be in the inner template. 
+  So we have to split the recursive code part into a separate file.
+
+  See also: https://github.com/gohugoio/hugo/issues/1061
+*/}}
+
+{{- $currentPage := . -}}
+
+{{- $Result := false -}}
+
+{{- with $currentPage.Pages  -}}
+  {{- $Result = ( index $currentPage.Pages.ByWeight 0 ) -}}
+{{- else -}}
+  {{- $Result =  ( partial "traversal_across_sections/heavier_recursive.hugo" $currentPage  ) -}}
+{{- end -}}
+
+{{- return $Result -}}

@@ -1,0 +1,53 @@
+{{/* 
+  If the current item is the first item within sibling items, 
+  the lighter item should be the parent item of the current page.
+  If not, we have to find the lighter item within sibling items. 
+  But if the found item has children, we need to seek recursively until there is no more child item. 
+
+  Even if the result of Kind is a section, if it has no children and at the same time has content, 
+  we should consider it to be working as a page.
+  For example, if it has the form below: 
+
+    ├── SomeItems
+    |   ├── SomeItemA
+    |   |   └── _index.en.md  
+    |   |   └── _index.ko.md  
+    |   ├── SomeItemB
+    |   |   └── _index.en.md  
+    |   |   └── _index.ko.md  
+  
+  Therefore, instead of the result of Kind, we need to check whether the children exist or not.
+
+  It seems that the return statement could not be in the inner template. 
+  So we have to split the recursive code part into a separate file.
+
+  See also: https://github.com/gohugoio/hugo/issues/1061
+*/}}
+
+{{- $currentPage := . -}}
+
+{{- $Result := false -}}
+
+{{- if eq $currentPage.Kind "home" -}}
+
+  {{/*  if the given page is home, we cannot go further.  */}}
+  {{- $Result = $currentPage -}}
+
+{{- else -}}
+  {{/*  find the lighter page within the sibling pages.  */}}
+  {{- $pagesOfParent := $currentPage.Parent.Pages.ByWeight -}}    
+  {{- $firstPageOfParent := index ( first 1 $pagesOfParent ) 0 -}}
+  {{- if eq $firstPageOfParent $currentPage -}}
+    {{/* If current page is the first page within sibling pages, the lighter item is the parent of this page. */}}  
+    {{- $Result =  $currentPage.Parent -}}
+  {{- else -}}
+    {{- $ResultCandidate := ( $pagesOfParent.Next $currentPage ) -}}
+    {{- if ge $ResultCandidate.Pages.Len 1 -}}
+      {{- $Result = ( partial "traversal_across_sections/lighter_recursive.hugo" $ResultCandidate  ) -}}
+    {{- else -}}
+      {{- $Result = $ResultCandidate -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return $Result -}}

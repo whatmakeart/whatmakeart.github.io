@@ -1,0 +1,31 @@
+{{/*
+  If there is a heavier item within sibling items, that is the heavier item.
+  If there is no heavier item of the current item in the siblings, we need to seek the heavier item of a parent item. 
+  If a parent is also the last item within siblings, we need to seek within the upper hierarchy, recursively,
+  until we find the item that is not the last item within siblings.
+  If we met the home, we have to stop the seek.
+
+  See also: https://github.com/gohugoio/hugo/issues/1061
+*/}}
+
+{{- $currentPage := . -}}
+
+{{- $Result := false -}}
+
+{{- if eq $currentPage.Kind "home" -}}
+
+    {{- $Result = site.Home -}}
+
+{{- else -}}
+  {{- $parentOfCurrentPage := $currentPage.Parent -}}
+  {{- $pagesOfParent := $currentPage.Parent.Pages.ByWeight -}}
+  {{- $lastPageOfParent := index ( last 1 $pagesOfParent ) 0 -}}
+  {{- if eq $lastPageOfParent $currentPage -}}
+    {{/* It means this page is the last page within sibling pages. So, we need to go to the upper step. */}}
+    {{- $Result = ( partial "traversal_across_sections/heavier_recursive.hugo" $parentOfCurrentPage ) -}}
+  {{- else -}}
+    {{- $Result = ( $pagesOfParent.Prev $currentPage ) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return $Result -}}

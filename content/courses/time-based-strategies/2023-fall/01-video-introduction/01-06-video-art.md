@@ -1,7 +1,7 @@
 ---
 title: 01.06 Video Art
 date: 2023-08-29T09:00:00Z
-lastmod: 2024-07-07T21:05:29
+lastmod: 2024-07-13T16:46:36
 ---
 
 ## Early Video Art
@@ -12,7 +12,7 @@ lastmod: 2024-07-07T21:05:29
 
 Bruce Nauman - _Walking in an Exaggerated Manner Around the Perimeter of a Square_ 1967-68
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/pkxlIbuMbDU title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/pkxlIbuMbDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -28,7 +28,7 @@ Carolee Schneemann - _Snows_ 1967
 
 Bruce Nauman - _Bouncing in a Corner_ 1968
 
-<div class="iframe-16-9-container"><iframe title="vimeo-player" src="https://player.vimeo.com/video/121815710?h=940131e828" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/121815710?h=940131e828" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 </div>
 </div>
 
@@ -122,11 +122,9 @@ Pipilotti Rist - _I'm Not the Girl Who Misses Much_
 
 </div>
 
-<div class="video-card">
-
 ## Later Video Art
 
-<div class= "video-grid">
+<div class="video-grid">
 
 <div class="video-card">
 
@@ -180,7 +178,7 @@ Petra Cortright - _.*\` .* ;\`*,\`., \`, ,\`.*.*. *.*\` .* ;\`*,\`., \, ,\`.*.*.
 
 Jon Rafman _Oh, the humanity!_ 2015
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6KL8I5-mJqw title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6KL8I5-mJqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
