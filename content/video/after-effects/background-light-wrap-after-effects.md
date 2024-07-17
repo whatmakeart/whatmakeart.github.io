@@ -1,7 +1,7 @@
 ---
 title: Background Light Wrap After Effects
 date: 2023-09-04T21:23:08
-lastmod: 2023-09-07T20:57:01
+lastmod: 2024-07-17T09:13:10
 ---
 
 <div class="iframe-16-9-container">
@@ -20,7 +20,11 @@ This guide shows how to use a light wrap technique to integrate a figure into a 
 
 This is just a basic overview of how to use a light wrap technique to integrate a figure into a background in After Effects. There are many other techniques that you can use to achieve the desired effect.
 
+<details><summary>
+
 ## Video Transcript
+
+</summary>
 
 Now that we have successfully keyed out the green screen, let's add an interesting background to take advantage of the alpha channel. To do this, click on the Red Solid. Then in the Effects and Presets type in "cell". Drag Cell Pattern on top of the Red Solid.
 
@@ -33,3 +37,5 @@ To get rid of that harsh edge, we can drag a Gaussian Blur on to the top Garbage
 So to fix this, we change the blending mode to Color Dodge. It is still a bit too powerful so what we will do it press T and lower the opacity. Maybe something like 25 percent because this is a very bright scene. Now if we zoom in, and we toggle the light wrap layer on and off, we can see how the skin tone and the sweater start to seem like they are glowing from behind from the background. This is a great technique to blend your different layers together.
 
 Let's do it with a more traditional subject matter. Here I have an ocean scene. I'm going to drag it on top of the Red Solid layer. And now notice that the light from this layer is coming from this side. I need to have the light match the light of the figure. To do this, I will invert the layer. Go to Transform - Flip Horizontal. Now the light is coming from the same side as the figure. Press Command - D and duplicate ocean. Also, press Command - D and duplicate light wrap. Now, I will drag the ocean composition up above the other light wrap. I will change its Track Matte to alpha matte light wrap. Change its mode to Color Dodge. Then press T for opacity. And lower the opacity down. If I toggle this layer on and off you can see that it integrates the figure much more into the background. There are many more techniques that I will show you in future videos to color correct your keyed footage with your backgrounds.
+
+</details>

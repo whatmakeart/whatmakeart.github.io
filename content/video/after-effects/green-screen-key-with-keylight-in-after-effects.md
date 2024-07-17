@@ -1,7 +1,7 @@
 ---
 title: Green Screen Key with Keylight in After Effects
 date: 2023-09-04T20:48:51
-lastmod: 2023-09-07T20:57:01
+lastmod: 2024-07-17T08:50:31
 ---
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/2b796PpS9y8?si=lZgeTa3hlJITWujF?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -34,7 +34,12 @@ Keying out green screen footage in After Effects is a relatively straightforward
 - Experiment with the settings of the Keylight plugin until you get a good result.
 - Don't forget to use the Key Cleaner and Advanced Spill Suppressor effects to remove any unwanted artifacts from the key.
 
-## Video Transcript:
+<details>
+<summary>
+
+## Video Transcript
+
+</summary>
 
 It is very easy to key out green screen footage with After Effects. The first thing we need to do is take our green screen footage and drag it to the comp icon. This will precompose our green screen footage into its own composition.
 
@@ -45,3 +50,5 @@ Now on Garbage Screen, go to Effects and Presets. Type in key. This time we want
 We can go back to Intermediate Result. And now we will use the Key Cleaner. The Key Cleaner brings back all these details in the hair. We can also bring up the alpha contrast just a bit. And then finally we need to get rid of this green tinge around the figure. That's as simple as clicking Advanced Spill Suppressor. Now we have a very nice key. To check this, we can make a new solid layer. Make it red by clicking all the way up in the top right hand corner. Drag the solid below and that is a very nice key.
 
 In the next video, I will show you how to integrate your video with a background.
+
+</details>

@@ -123,7 +123,41 @@ button > ol {
 }
 /**** End block quotes
 
+/* Details and Summary for Video Transcript Fold Outs */
+details {
+  padding: 10px;
+  background-color: rgba(77, 77, 255, 0.1);
+  border-radius: 5px;
+}
 
+summary > h2 {
+  display: inline;
+}
+
+summary::marker {
+  color: #000;
+  font-size: 1.2em;
+}
+
+summary:hover {
+  color: #000; /* update for rollover effect if desired */
+}
+
+details {
+  transition: 0.2s background linear;
+}
+
+details:hover {
+  background: #eee;
+}
+
+details[open] {
+  background: #eee;
+}
+
+details[open] > summary {
+  margin-bottom: 1rem;
+}
 
 /* PageFind UI Variables */
 

@@ -1,7 +1,7 @@
 ---
 title: 05.01 Programming Thinking Back to Basics
 date: 2024-02-16T09:30:00
-lastmod: 2024-02-16T09:19:52
+lastmod: 2024-07-17T09:21:27
 ---
 
 As more and more "coding" and "coding concepts" and "coding syntax" and other "coding, blah" are introduced, it is important to not fall into the trap of trying to memorize things that can be looked up. This concept is often attributed to Einstein, but who knows if he ever said it. It doesn't matter, the concept exists in the common domain of humanity. Of course we need to memorize the meaning of words in our native language, or the meaning of words in a second language that we are studying. It is also probably a good idea to memorize that fire is hot, candy tastes good, a web page uses HTML, code can tell a computer what to do, 4 x 7 = 28, and many other fundamental tidbits.
@@ -20,7 +20,7 @@ While working in a specific programming language, you may "memorize" certain fun
 
 ## Conceptualizing a Program
 
-What do you want the programm to do?
+What do you want the program to do?
 
 I want to put pretty colors on a screen.
 

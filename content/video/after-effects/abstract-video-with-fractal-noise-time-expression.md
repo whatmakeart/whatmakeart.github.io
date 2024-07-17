@@ -1,7 +1,7 @@
 ---
 title: How to Make a Swirly Abstract Background in After Effects Using Time Expressions
 date: 2023-09-20T08:44:24
-lastmod: 2023-09-20T08:46:17
+lastmod: 2024-07-17T08:53:34
 ---
 
 <div class="video-grid">
@@ -41,7 +41,11 @@ Key steps involved in creating a swirly abstract background in After Effects usi
 8. Add other effects to the background, such as the Twirl effect and the Colorama effect.
 9. Export the background as a video file.
 
+<details><summary>
+
 ## Video Transcript
+
+</summary>
 
 In this After Effects tutorial I'm going to show you how to make a swirly abstract background that you can use in videos. And this will show you how to use simple expressions like the time expression so you don't have to animate all the different properties of fractal noise and turbulent displacement. This is a very easy way to add in motion to an abstract animated background without having to keyframe all properties. So let's get started. First I'm going to make a new composition. 1920x1080 is fine along with a frame rate of 60. Next I'll make a new solid by going layer new solid. It doesn't matter what color this solid is and I'll just press ok.
 
@@ -58,3 +62,5 @@ So I'm going to twirl up fractal noise then over in effects and presets I'm goin
 And so now I have the turbulent displace is also moving across the image and so we really start to have a lot of different things happening all at one time. We could also make these negative numbers if you wanted it to go the other way. So that can be a great way to have opposing movement, so one movement going one way and the other movement going the other way.
 
 So hopefully you can use these expressions of time. This works on most effects so you can have something change and you only have to type in a keyframe expression at the beginning and then you basically just change the rate of something that's changing. So this is sometimes easier especially for animations that are going to go for a long time. They don't have to keyframe the entire time and you just have this continual progression. Hopefully you can make some abstract backgrounds with the time expression in After Effects.
+
+</details>

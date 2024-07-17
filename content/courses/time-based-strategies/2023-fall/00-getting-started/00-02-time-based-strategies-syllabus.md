@@ -1,7 +1,7 @@
 ---
 title: 00.02 Time Based Practices Syllabus
 date: 2023-08-29T09:00:00Z
-lastmod: 2024-07-08T04:40:37
+lastmod: 2024-07-17T09:21:11
 ---
 
 ## Time Based Strategies
@@ -95,24 +95,24 @@ There are no required textbooks for this course.
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**     | **Topic**                                                                                                                             |
-| -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 1        | August 29    | Course Introduction - [Video Introduction](../01-video-introduction/)                                                                 |
-| 2        | September 5  | Lecture / Workshop / Studio Work - [Video Selection Tools and Effects](../02-video-selection-tools-and-effects/02-01-introduction.md) |
-| 3        | September 12 | Lecture / Workshop / Studio Work - Video Motion Tracking                                                                              |
-| 4        | September 19 | Project 1 Crit                                                                                                                        |
-| 5        | September 26 | Lecture / Workshop / Studio Work                                                                                                      |
-| 6        | October 3    | Lecture / Workshop / Studio Work                                                                                                      |
-| 7        | October 10   | Project 2 Crit                                                                                                                        |
-| 8        | October 17   | Lecture / Workshop / Studio Work                                                                                                      |
-| 9        | October 24   | No Class Fall Break                                                                                                                   |
-| 10       | October 31   | Lecture / Workshop / Studio Work                                                                                                      |
-| 11       | November 7   | Lecture / Workshop / Studio Work                                                                                                      |
-| 12       | November 14  | Sonic Arts Workshop with Bob Drake Part 1                                                                                             |
-| 13       | November 21  | Sonic Arts Workshop with Bob Drake Part 2                                                                                             |
-| 14       | November 28  | [Time Based Synthesis](../13-time-based-synthesis/13-01-introduction.md)                                                              |
-| 15       | December 5   | [Time Based Synthesis Studio Work](../14-time-based-synthesis-studio-work/)                                                           |
-| 16       | December 12  | Final Crits                                                                                                                           |
+| **Week** | **Date**     | **Topic**                                                                                                                |
+| -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 1        | August 29    | Course Introduction - [Video Introduction](../01-video-introduction/)                                                    |
+| 2        | September 5  | [Video Selection Tools and Effects](../02-video-selection-tools-and-effects/02-01-introduction.md)                       |
+| 3        | September 12 | [Video Motion Tracking](../03-video-motion-tracking/03-01-introduction.md)                                               |
+| 4        | September 19 | [Advanced Tracking and Keying](../04-advanced-tracking-and-keying/04-01-introduction.md)                                 |
+| 5        | September 26 | [Refining Projects](../05-refining-projects/05-01-introduction.md)                                                       |
+| 6        | October 3    | [3D Modeling and Time](../06-3d-modeling-and-time/06-01-introduction.md)                                                 |
+| 7        | October 10   | [Projection Mapping Basics](../07-projection-mapping-3d-objects/07-01-introduction.md)                                   |
+| 8        | October 17   | [Projection Mapping Physics and Interactivity](../08-projection-mapping-physics-and-interactivity/08-01-introduction.md) |
+| 9        | October 24   | No Class Fall Break                                                                                                      |
+| 10       | October 31   | [Digital Fabrication - 3D Printing](../09-digital-fabrication-3d-printing/09-01-introduction.md)                         |
+| 11       | November 7   | [Digital Fabrication - Laser Cutting](../10-digital-fabrication-laser-cutting/10-01-introduction.md)                     |
+| 12       | November 14  | [Sonic Arts Workshop with Bob Drake Part 1](../11-sonic-arts-workshop-with-bob-drake-part-1/11-01-introduction.md)       |
+| 13       | November 21  | [Sonic Arts Workshop with Bob Drake Part 2](../12-sonic-arts-workshop-with-bob-drake-part-2/12-01-introduction.md)       |
+| 14       | November 28  | [Time Based Synthesis](../13-time-based-synthesis/13-01-introduction.md)                                                 |
+| 15       | December 5   | [Time Based Synthesis Studio Work](../14-time-based-synthesis-studio-work/)                                              |
+| 16       | December 12  | [Final Crits](../15-final-critique/15-01-introduction.md)                                                                |
 
 </div>
 

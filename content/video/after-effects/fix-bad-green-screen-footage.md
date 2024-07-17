@@ -1,7 +1,7 @@
 ---
 title: Fix Bad Green Screen Footage
 date: 2023-09-04T20:42:37
-lastmod: 2023-09-07T20:57:01
+lastmod: 2024-07-17T09:12:38
 ---
 
 <div class="iframe-16-9-container">
@@ -32,7 +32,11 @@ With a little practice, you can get excellent results even with imperfect green 
 - Use a garbage matte to mask out any areas of the green screen that are not being keyed out properly.
 - Experiment with the settings of the Keylight and Choker effects to get the best possible key.
 
+<details><summary>
+
 ## Video Transcript
+
+</summary>
 
 Let's face it, we don't always have access to perfect green screen setups but that shouldn't stop us from being able to use green screen footage in our projects. In this tutorial, I'm going to show you tools you already have available to shoot some green screen footage and then key it out with pretty decent results.
 
@@ -65,3 +69,5 @@ Now we have animation that can exist behind our figure all keyed out. Who wants 
 Hopefully you can have fun making green screen footage anytime you want, just grab your cell phone, something green, or something blue or anything of a solid color that is different than red and shoot away.
 
 If you like this content, please click subscribe for more tutorials.
+
+</summary>
