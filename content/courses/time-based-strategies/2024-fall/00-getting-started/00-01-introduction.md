@@ -1,7 +1,7 @@
 ---
 title: 00.01 Introduction
-date: 2024-08-27T09:00:00
-lastmod: 2024-07-07T21:26:18
+date: 2024-08-27T12:00:00
+lastmod: 2024-07-18T15:03:36
 ---
 
 This course explores the concepts and practices of time-based media arts, such as video art, sound art, media installation, and 3D modeling. It begins with an introduction to artmaking as a process involving transactions between people, objects, technologies, and sites. Students will learn about the history and theory of time-based media art, and they will develop their skills in using digital technologies to create their own work.

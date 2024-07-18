@@ -1,20 +1,20 @@
 ---
-title: 00.02 Time Based Practices Syllabus
-date: 2024-08-27T12:00:00
-lastmod: 2024-07-18T12:19:30
+title: 00.01 Modeling and Expanded Making Syllabus
+date: 2024-08-21T12:00:00
+lastmod: 2024-07-18T12:12:47
 ---
 
-## Time Based Strategies Syllabus
+## Modeling and Expanded Making Syllabus
 
 ### Course Information
 
-Course Number: 236
+Course Number: 317
 
 Department: Sculpture + Expanded Media
 
-Room: 212H Cleveland Institute of Art
+Room: 212H & 223F Cleveland Institute of Art
 
-Time: Tuesdays 12:00 pm - 5:00 pm
+Time: Wednesdays 12:00 pm - 5:00 pm
 
 Faculty: Jimmy Kuehnle - jkuehnle@cia.edu
 
@@ -24,41 +24,25 @@ Semester: Fall 2024
 
 [Canvas Course Page]()
 
-[Course Website](https://whatmakeart.com/courses/time-based-strategies/2024-fall/)
+[Course Website](https://whatmakeart.com/courses/modeling-and-expanded-making/2024-fall/)
 
-## Course description
+## Course Description
 
-This course investigates the concepts and practices of various time‐based media arts. This involves an introduction to artmaking as a process involving transactions between people, objects, technologies, and sites. Presentations focus on a range of contemporary artists and consider characteristics of recent production including simultaneity, immersion, duration, a collapsing of the distinction between art and life, and a realignment of the relationship between audience and artwork. A series of workshops explore a fundamental introduction to the processes of video art, sound art, media installation, 3D modeling and visualization, and digital fabrication. Knowledge and skills learned from experiments in workshops serve as the basis to produce several projects. The development of media literacy, media ethics, and dissemination techniques drive and ground the assignments. The course reinforces and emphasizes the production of high-quality documentation of time-based and ephemeral artwork for presentation at venues, portfolios, and proposals.
+Planning large-scale, site-specific installations, creating compelling proposals for public commissions, and making models to test ideas all require 3D Modeling. Students will have 3D modeling tools right next to their paper sketchbooks, scissors, table saws, CNCs, and 3D printers. Practice in types of 3D modeling software solidifies fundamental modeling and visualization concepts and techniques. Workshops in 3D design sketching, rendering, solid modeling, architectural site modeling, 3D printing, CNC machining, and laser cutting cultivate a fluid integration of 3D modeling and digital fabrication into a contemporary sculpture and expanded media studio practice. Open to all majors. The course reinforces the production of high-quality documentation of artwork for presentation at venues, portfolios, and proposals. Reviews file management, digital workflows, and digital literacy. Course structure consists of introductory concept lectures, technical instruction, lab time with guidance and group critique of finished assignments.
 
-## Learning Objectives
+## Course Goals and Learning Objectives
 
-Students will have the opportunity to:
+Upon completion of the course, students will have to opportunity to:
 
-- Examine the intricacies of using and integrating digital technologies in fine art practices.
-- Identify and discuss the history and theory associated with artists experimenting with digital and analog media.
-- Extend their skills with the software used to produce projects, including the Adobe Creative Suite, CNC toolpath software, 3D modeling software and other software oriented towards media art production and experimentation.
-- Produce creative projects by combining complex interdisciplinary processes.
-- Describe and demonstrate complicated digital file management and workflows.
-- Employ a multidisciplinary approach to the subject and content of a given project.
-- Develop a pattern of self‐learning and troubleshooting electronic and digital technology.
-- Apply video sequencing, sound sequencing, web media, 3D Modeling and digital fabrication toward creative production.
-- Illustrate and create sketches, project plans, concept visualizations of project ideation using digital 3D modeling tools and image editors, and analog techniques.
-- Operate digital cameras and microphones to capture high quality, visual documentation video and photographs of completed projects.
-- Use image editing and video editing software to produce images and video for presentation
-
-## Course Topics
-
-- Historical Context
-- Contemporary Context
-- Media Study and Film Theory
-- Collaboration
-- Digital File Management and Workflow
-- Sound Art
-- Video Art
-- Interdisciplinary Art
-- Installation Art
-- Emerging Media
-- Digital Fabrication Processes
+- Demonstrate advantages and disadvantages of different 3D modeling tools
+- Determine the most appropriate 3D modeling tools for a particular project or task in the studio
+- Create new work using digital fabrication techniques including CNC machining, laser cutting, 3D printing, and water jet cutting
+- Produce compelling project proposal imagery with 3D modeling tools and renderers
+- Incorporate the Fabrication Studios and think\[box\] to create artwork
+- Organize files and digital resources for complex studio projects
+- Design site-specific installations with accurate dimensions using 3D modeling
+- Operate digital cameras to capture high quality, visual documentation of completed projects
+- Post-process visual documentation with software tools for presentation and display
 
 ## Course Organization / Method of Instruction
 
@@ -96,22 +80,23 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 | **Week** | **Date**     | **Topic**                        |
 | -------- | ------------ | -------------------------------- |
-| 1        | August 27    | Introduction                     |
-| 2        | September 3  | Lecture / Workshop / Studio Work |
-| 3        | September 10 | Lecture / Workshop / Studio Work |
-| 4        | September 17 | Lecture / Workshop / Studio Work |
-| 5        | September 24 | Lecture / Workshop / Studio Work |
-| 6        | October 1    | Lecture / Workshop / Studio Work |
-| 7        | October 8    | Lecture / Workshop / Studio Work |
-| 8        | October 15   | Lecture / Workshop / Studio Work |
-| 9        | October 22   | Fall Break                       |
-| 10       | October 29   | Lecture / Workshop / Studio Work |
-| 11       | November 5   | Lecture / Workshop / Studio Work |
-| 12       | November 12  | Lecture / Workshop / Studio Work |
-| 13       | November 19  | Lecture / Workshop / Studio Work |
-| 14       | November 26  | Lecture / Workshop / Studio Work |
-| 15       | December 3   | Lecture / Workshop / Studio Work |
-| 16       | December 10  | Final Crit                       |
+| 1        | August 21    | Introduction                     |
+| 2        | August 28    | Lecture / Workshop / Studio Work |
+| 3        | September 4  | Lecture / Workshop / Studio Work |
+| 4        | September 11 | Lecture / Workshop / Studio Work |
+| 5        | September 18 | Lecture / Workshop / Studio Work |
+| 6        | September 25 | Lecture / Workshop / Studio Work |
+| 7        | October 2    | Lecture / Workshop / Studio Work |
+| 8        | October 9    | Lecture / Workshop / Studio Work |
+| 9        | October 16   | Lecture / Workshop / Studio Work |
+| 10       | October 23   | Lecture / Workshop / Studio Work |
+| 11       | October 30   | Lecture / Workshop / Studio Work |
+| 12       | November 6   | Lecture / Workshop / Studio Work |
+| 13       | November 13  | Lecture / Workshop / Studio Work |
+| 14       | November 20  | Lecture / Workshop / Studio Work |
+| 15       | November 27  | Thanksgiving Break               |
+| 16       | December 4   | Mid-Year BFA Crits               |
+| 17       | December 11  | Final Crit                       |
 
 </div>
 
@@ -136,7 +121,7 @@ The Cleveland Institute of Art operates on a semester system comprised of Fall a
 ### Required Textbooks and Readings
 
 - No required textbook
-- Course resources are available on [Canvas]() or [online](https://whatmakeart.com/courses/time-based-strategies/2024-fall/)
+- Course resources are available on [Canvas]() or [online](https://whatmakeart.com/courses/modeling-and-expanded-making/2024-fall/)
 
 ### Required Supplies
 
