@@ -1,12 +1,8 @@
 ---
 title: How to Sew a Double Welt Pocket
-tags:
-  - stub
+date: 2023-05-23T21:59:40
+lastmod: 2024-07-19T06:01:38
 ---
-
-# How to Sew a Double Welt Pocket
-
-This tutorial will show you how to sew a Double Welt Pocket.
 
 ## Prerequisites
 
@@ -14,7 +10,10 @@ To complete this tutorial you should be familiar with: [how-to-cut-fabric](./how
 
 ## Instructions
 
-<div class="responsive-iframe-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/1U-0yYVQ5X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/1U-0yYVQ5X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
 
 ### Pieces Needed
 

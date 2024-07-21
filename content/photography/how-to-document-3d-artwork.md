@@ -1,7 +1,7 @@
 ---
 title: How to Document 3D Artwork
 date: 2023-05-30T00:41:39
-lastmod: 2024-01-17T04:07:05
+lastmod: 2024-07-21T08:37:48
 ---
 
 ## Can I Use my Cellphone?
@@ -60,7 +60,7 @@ Shoot in JPG and RAW and post process the images. All photos can be improved thr
 
 Below is a camera setting cheat sheet that shows how ISO, Aperture and Shutter Speed change the image. There are also videos about [White Balance](https://youtu.be/m0yZEWUSahk) and [Adobe Camera Raw](https://youtu.be/11jwSwUu2WI). Email if you have any questions about the cameras or any part of the project. You can also ask the equipment checkout about the camera settings.
 
-[![Camera Settings Cheat Sheet](./2021-09-22-Camera-Cheat-Sheet-Whatmakeart.png)](./2021-09-22-Camera-Cheat-Sheet-Whatmakeart.png)
+[![Camera Settings Cheat Sheet](./attachments/2021-09-22-Camera-Cheat-Sheet-Whatmakeart.png)](./attachments/2021-09-22-Camera-Cheat-Sheet-Whatmakeart.png)
 
 ## Camera and Photo Editing Tutorial Videos
 

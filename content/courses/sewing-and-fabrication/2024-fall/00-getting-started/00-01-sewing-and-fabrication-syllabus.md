@@ -1,7 +1,7 @@
 ---
 title: 00.01 Sewing and Fabrication Syllabus
 date: 2024-07-18T10:18:39
-lastmod: 2024-07-18T15:02:34
+lastmod: 2024-07-19T04:54:59
 ---
 
 ## Sewing and Fabrication Syllabus
@@ -119,28 +119,32 @@ Students only have access to the sewing room while they are actively taking a Se
 Students who wish for access while not actively enrolled in the Sewing Course must contact the SEM Chair for policy details.
 The Sewing Room has a prox lock. The door should never be propped open. Students are responsible to have their ID Cards on them at all times.
 
+### SEM Room Reservations
+
+[SEM Room Reservations](https://cia-sem.youcanbook.me/)
+
 ## Course Schedule
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**     | **Topic**                        |
-| -------- | ------------ | -------------------------------- |
-| 1        | August 26    | Introduction                     |
-| 2        | September 2  | Labor Day - No Class             |
-| 3        | September 9  | Lecture / Workshop / Studio Work |
-| 4        | September 16 | Lecture / Workshop / Studio Work |
-| 5        | September 23 | Lecture / Workshop / Studio Work |
-| 6        | September 30 | Lecture / Workshop / Studio Work |
-| 7        | October 7    | Lecture / Workshop / Studio Work |
-| 8        | October 14   | Lecture / Workshop / Studio Work |
-| 9        | October 21   | Fall Break                       |
-| 10       | October 28   | Lecture / Workshop / Studio Work |
-| 11       | November 4   | Lecture / Workshop / Studio Work |
-| 12       | November 11  | Lecture / Workshop / Studio Work |
-| 13       | November 18  | Lecture / Workshop / Studio Work |
-| 14       | November 25  | Lecture / Workshop / Studio Work |
-| 15       | December 2   | Lecture / Workshop / Studio Work |
-| 16       | December 9   | Final Crit                       |
+| **Week**   | **Date**     | **Topic**                        |
+| ---------- | ------------ | -------------------------------- |
+| 1          | August 26    | Introduction                     |
+| 2          | September 2  | Labor Day - No Class             |
+| 3          | September 9  | Lecture / Workshop / Studio Work |
+| 4          | September 16 | Lecture / Workshop / Studio Work |
+| 5          | September 23 | Lecture / Workshop / Studio Work |
+| 6          | September 30 | Lecture / Workshop / Studio Work |
+| 7          | October 7    | Lecture / Workshop / Studio Work |
+| 8          | October 14   | Lecture / Workshop / Studio Work |
+| Fall Break | October 21   | No Class                         |
+| 09         | October 28   | Lecture / Workshop / Studio Work |
+| 10         | November 4   | Lecture / Workshop / Studio Work |
+| 11         | November 11  | Lecture / Workshop / Studio Work |
+| 12         | November 18  | Lecture / Workshop / Studio Work |
+| 13         | November 25  | Lecture / Workshop / Studio Work |
+| 14         | December 2   | Lecture / Workshop / Studio Work |
+| 15         | December 9   | Final Crit                       |
 
 </div>
 

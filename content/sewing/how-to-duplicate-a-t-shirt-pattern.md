@@ -1,18 +1,18 @@
 ---
 title: How to Duplicate a T-Shirt Pattern
+date: 2023-05-23T21:59:40
+lastmod: 2024-07-21T06:58:34
 ---
-
-# How to Duplicate a T-Shirt Pattern
 
 This tutorial will show you how to make a copy of a t-shirt pattern from an existing shirt.
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with
+To complete this tutorial you should be familiar with basic pattern drafting tools and the names of the pieces of garments.
 
 ## Instructions
 
-<div class="responsive-iframe-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/quZHvzsZHwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/quZHvzsZHwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### T-Shirt Torso Pattern Drafting
 
@@ -52,16 +52,34 @@ To complete this tutorial you should be familiar with
 27. Label the pattern pieces in pen on the front of the pattern center line down to the right on the grainline
 28. Label the back void piece ( Do not lose this piece )
 
-## T-Shirt Sleeve Pattern Drafting
+### T-Shirt Sleeve Pattern Drafting
 
-1.     Draw a 90 degrees L that is about 10” x 10” 2.     Put shirt upside down with top fold of sleeve on line. The top of the arm hole should be in the corner 3.     Pin through arm hole seam every ½” 4.     Measure sleeve cap armhole seam with flexible ruler. It should be the same as the torso pattern 5.     Halfway up put a notch on armhole seam 6.     Straighten lower sleeve with ruler 7.     Does not have to be 90 degrees under the arm 8.     Draw grainline perpendicular to the top 9.     Cut out the sleeve 10.  Measure the height of the rib collar 11.  Draw square rectangle double the length of front neck and void piece square off the ends – should be 15-20% smaller than the neck
+1. Draw a 90 degrees L that is about 10” x 10”
+2. Put shirt upside down with top fold of sleeve on line. The top of the arm hole should be in the corner
+3. Pin through arm hole seam every ½”
+4. Measure sleeve cap armhole seam with flexible ruler. It should be the same as the torso pattern
+5. Halfway up put a notch on armhole seam
+6. Straighten lower sleeve with ruler
+7. Does not have to be 90 degrees under the arm
+8. Draw grainline perpendicular to the top
+9. Cut out the sleeve
+10. Measure the height of the rib collar
+11. Draw square rectangle double the length of front neck and void piece square off the ends – should be 15-20% smaller than the neck
 
-## Drafting Full Pattern Pieces
+### Drafting Full Pattern Pieces
 
-1.     Get new piece of Paper 2.     Lay torso piece on paper and trace around 3.     Flip over the center to mirror and trace full pattern 4.     Turn up lines and transfer armhole notches 5.     Center line becomes the grainline 6.     Add seam allowances with your clear ruler a.     ½” seam allowance is safe, add 5/8” if you want more option to change fit b.     ¼” seam allowance on neckline c.     Add ⅞” to ¾” at bottom for hem 7.     Use back void piece to draw back pattern 8.     Draw sleeve pattern, repeating the steps above
+1. Get new piece of Paper
+2. Lay torso piece on paper and trace around
+3. Flip over the center to mirror and trace full pattern
+4. Turn up lines and transfer armhole notches
+5. Center line becomes the grainline
+6. Add seam allowances with your clear ruler
+   - ½” seam allowance is safe, add 5/8” if you want more option to change fit
+   - ¼” seam allowance on neckline
+   - Add ⅞” to ¾” at bottom for hem
+7. Use back void piece to draw back pattern
+8. Draw sleeve pattern, repeating the steps above
 
 ## Further Reading
 
-[How-to-Copy-a-Pants-Pattern](./how-to-copy-a-pants-pattern.md)
-
-### External Links
+- [How to Copy a Pants Pattern](./how-to-duplicate-a-pants-pattern.md)

@@ -1,7 +1,7 @@
 ---
 title: "07.05 3D Test Print Photo Documentation"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2024-07-21T08:37:48
 ---
 
 ## Assignment Deliverables
@@ -24,7 +24,7 @@ You can set up lights and a clean backdrop. You can check out lights and a camer
 
 There is a photo stand at the think[box]that is perfect for documenting small objects. You can also take your model to the think[box] and use the soft boxes and flashes already set up. Follow the [instructions](https://case.edu/thinkbox/equipment/other-equipment/photography-studio) provided by the think[box]. Do not use your cell phone with this setup.
 
-![thinkbox photo stand](../../../../photography/2021-thinkbox-photo-stand.jpg)
+![thinkbox photo stand](../../../../photography/attachments/2021-thinkbox-photo-stand.jpg)
 
 ## Grading Rubric
 

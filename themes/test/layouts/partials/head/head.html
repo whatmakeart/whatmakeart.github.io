@@ -23,12 +23,12 @@
   {{- end -}}
 </title>
 
-{{ partial "head/favicons" . }}
+{{ partialCached "head/favicons" . }}
 {{ partial "head/rel-me" . }}
 {{ partial "head/microformats" . }}
 
 
 <link rel="canonical" href="{{ .Permalink }}" />
 
-{{ partial "head/stylesheet" . }}
+{{ partialCached "head/stylesheet" . }}
 {{ partial "head/analytics" . }}

@@ -93,18 +93,18 @@ then the index is kept track of for forward and next buttons on the bottom of co
 
 {{ if ge $prevIndex 0 }}
   {{ $prevPage := index $pagesInGrandparent $prevIndex }}
-     <li class="btn btn-lg btn-outline-dark align-items-center">
-                    <a href="{{ $prevPage.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ $prevPage.Title}}">&larr; {{ $prevPage.Title}} </a>
-                </li> 
+    
+                    <a class="back" href="{{ $prevPage.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ $prevPage.Title}}">&larr; {{ $prevPage.Title}} </a>
+                
 {{ else }}
    <!-- Start of Course -->
 {{ end }}
 
 {{ if lt $nextIndex (len $pagesInGrandparent) }}
   {{ $nextPage := index $pagesInGrandparent $nextIndex }}
-   <li class="btn btn-lg btn-outline-dark align-items-center">
-                    <a href="{{ $nextPage.RelPermalink  }}" data-toggle="tooltip" data-placement="top" title="{{ $nextPage.Title}}"> {{ $nextPage.Title}} &rarr;</a>
-                </li> 
+
+                    <a class="next" href="{{ $nextPage.RelPermalink  }}" data-toggle="tooltip" data-placement="top" title="{{ $nextPage.Title}}"> {{ $nextPage.Title}} &rarr;</a>
+                
 {{ else }}
  <!-- End of Course -->
 {{ end }}  

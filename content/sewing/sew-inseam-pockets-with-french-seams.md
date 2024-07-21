@@ -1,12 +1,10 @@
 ---
 title: Sew Inseam Pockets with French Seams
-tags:
-  - stub
+date: 2023-05-23T21:59:40
+lastmod: 2024-07-20T04:54:35
 ---
 
-# Sew Inseam Pockets with French Seams
-
-This tutorial will show you how to sew simple inseam pockets and finish the seams with french seams
+This tutorial will show you how to sew simple inseam pockets and finish the seams with french seams.
 
 ## Prerequisites
 
@@ -14,12 +12,8 @@ To complete this tutorial you should be familiar with how to thread a sewing mac
 
 ## Instructions
 
-<div class="responsive-iframe-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/aAtHwDDE5mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-The first step
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/aAtHwDDE5mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Further Reading
 
-- [History of Pockets](./history-of-pockets-&-missing-pockets.md)
-
-### External Links
+- [History of Pockets and Missing Pockets](./history-of-pockets-&-missing-pockets.md)

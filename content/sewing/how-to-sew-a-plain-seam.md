@@ -1,10 +1,8 @@
 ---
 title: How to Sew a Plain Seam
 date: 2023-05-23T21:59:40
-lastmod: 2023-10-01T06:06:38
+lastmod: 2024-07-21T06:38:51
 ---
-
-# How to Sew a Plain Seam
 
 This tutorial video will show you how to sew a basic plain seam with a sewing machine. This is a fundamental [sewing](./sewing.md) skill that you will use for many different projects.
 

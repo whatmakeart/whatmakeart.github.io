@@ -1,7 +1,7 @@
 ---
 title: How to Sew a Cargo Pocket
-tags:
-  - stub
+date: 2023-05-23T21:59:41
+lastmod: 2024-07-20T05:02:55
 ---
 
 ## Prerequisites
@@ -36,4 +36,4 @@ This technique uses a second piece of fabric to create the bellows part of the c
 
 ## Further Reading
 
-### External Links
+- [History of Pockets and Missing Pockets](./history-of-pockets-&-missing-pockets.md)

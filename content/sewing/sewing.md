@@ -154,14 +154,14 @@ List of [Inflatable Companies](../making/inflatable-companies.md) that fabricate
 
 ## Sewing Tutorials
 
-- [How to Sew a Tote Bag](./how-to-sew-a-tote-bag.md)
+- [How to Sew a Tote Bag](./how-to-sew-a-tote-bag-with-lining.md)
 - [how-to-cut-fabric](./how-to-cut-fabric.md)
 - [How to Duplicate a T-Shirt Pattern](./How-to-Duplicate-a-T-Shirt-Pattern.md)
 - [How to Use an Iron](./how-to-use-an-iron.md)
 - [How to Sew Sleeve Plackets](./how-to-sew-sleeve-plackets.md)
 - [How to Sew a Zipper Fly and Waistband](./how-to-sew-a-zipper-fly-and-waistband.md)
 - [How-to-Sew-Six-Basic-Seams](./How-to-Sew-Six-Basic-Seams.md)
-- [How-to-Copy-a-Pants-Pattern](./how-to-copy-a-pants-pattern.md)
+- [How-to-Copy-a-Pants-Pattern](./how-to-duplicate-a-pants-pattern.md)
 - [How to Sew a Button](./how-to-sew-a-button.md)
 - [How to Sew a Collar](./how-to-sew-a-collar.md)
 - [How to Sew a Rolled Hem](./how-to-sew-a-rolled-hem.md)

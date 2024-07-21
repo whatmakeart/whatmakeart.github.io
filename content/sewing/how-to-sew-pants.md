@@ -1,16 +1,15 @@
 ---
 title: How to Sew Pants
 date: 2023-05-23T21:59:40
-lastmod: 2024-01-17T03:15:34
+lastmod: 2024-07-21T08:46:05
 description: In this video, I will show you how to sew a pair of pants from start to finish. This is a beginner-friendly tutorial, so no prior sewing experience is required.
 featured image: /sewing/attachments/pants-sewing-tutorial.jpg
 tags:
   - Sewing
   - Tutorial
-aliases: /posts/how-to-sew-pants-tutorial/
 ---
 
-<div class="responsive-iframe-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/p0rsjeDyg6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/p0rsjeDyg6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 In this video, I will show you how to sew a pair of pants from start to finish. This is a beginner-friendly tutorial, so no prior sewing experience is required.
 
@@ -20,6 +19,7 @@ In this video, I will show you how to sew a pair of pants from start to finish. 
 ## Materials Needed
 
 - Fabric (for the pants)
+- Pants Pattern
 - Thread
 - Needle
 - Sewing machine
@@ -30,7 +30,7 @@ In this video, I will show you how to sew a pair of pants from start to finish. 
 
 ## Instructions
 
-1. Cut out the fabric pieces for your pants. You can find a pattern for pants online or in a sewing book.
+1. Cut out the fabric pieces for your pants. You can find a pattern for pants online or in a sewing book or [duplicate a pair of pants you own](./how-to-duplicate-a-pants-pattern.md)
 2. Sew the side seams of the pants together. Leave a 1/2-inch seam allowance.
 3. Turn the pants right side out.
 4. Sew the inseam of the pants together. Leave a 1/2-inch seam allowance.
@@ -55,5 +55,6 @@ In this video, I will show you how to sew a pair of pants from start to finish. 
 - If you are sewing a pair of pants with a zipper, make sure to use a zipper that is the correct size for the pants. You can find zippers at most fabric stores.
 - If you are sewing a pair of pants with buttons, make sure to use buttons that are the correct size and shape for the pants. You can find buttons at most fabric stores.
 - If you are sewing a pair of pants for the first time, it is a good idea to practice on a scrap of fabric before you start sewing the final seams. This will help you to get a feel for the process and to make sure that you are using the correct techniques.
+- Refer to [Pants Pattern Shape Notes](./pants-pattern-shape-notes.md)
 
 I hope this video tutorial has helped you to learn how to sew a pair of pants.

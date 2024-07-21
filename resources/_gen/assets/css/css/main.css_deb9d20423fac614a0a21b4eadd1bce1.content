@@ -11459,7 +11459,8 @@ main [tabindex="0"] {
   --text-max-width: 700px;
   --page-max-width: 1366px;
   --wide-max-width: 900px;
-  /* for wider items such as wide images or code or embeds */ }
+  /* for wider items such as wide images or code or embeds */
+  --theme-color: #4d4dff; }
 
 html {
   font-family: Lato, Helvetica, Arial, sans-serif;
@@ -11493,6 +11494,9 @@ h5 {
 h6 {
   font-size: 12px; }
 
+table {
+  margin-bottom: 1rem; }
+
 /* Parsed TOC Test Indent*/
 a.toc-item {
   display: block; }
@@ -11514,6 +11518,79 @@ a.toc-level-5 {
 
 a.toc-level-6 {
   margin-left: 5em; }
+
+main a {
+  text-decoration: none; }
+
+main a:hover {
+  text-decoration: underline; }
+
+/*** Block Quotes 888*/
+blockquote {
+  display: block;
+  background: #fff;
+  padding: 15px 20px 15px 45px;
+  margin: 0 0 20px;
+  position: relative;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #666;
+  text-align: justify;
+  /*Borders - (Optional)*/
+  border-left: 15px solid #666;
+  border-right: 2px solid #666; }
+
+blockquote::after {
+  /*Reset to make sure*/
+  content: ""; }
+
+blockquote a {
+  text-decoration: none;
+  background: #eee;
+  cursor: pointer;
+  padding: 0 3px; }
+
+blockquote a:hover {
+  color: #666; }
+
+blockquote em {
+  font-style: italic; }
+
+/* for student questions page to */
+/* keep ol vertically aligned in buttons */
+button > ol {
+  margin: 0.2rem; }
+
+/**** End block quotes
+
+/* Details and Summary for Video Transcript Fold Outs */
+details {
+  padding: 10px;
+  background-color: rgba(77, 77, 255, 0.1);
+  border-radius: 5px; }
+
+summary > h2 {
+  display: inline; }
+
+summary::marker {
+  color: #000;
+  font-size: 1.2em; }
+
+summary:hover {
+  color: #000;
+  /* update for rollover effect if desired */ }
+
+details {
+  transition: 0.2s background linear; }
+
+details:hover {
+  background: #eee; }
+
+details[open] {
+  background: #eee; }
+
+details[open] > summary {
+  margin-bottom: 1rem; }
 
 /* PageFind UI Variables */
 :root {
@@ -11594,15 +11671,34 @@ body.dark {
 .two-column-instructions-grid > ul {
   padding-left: 2rem; }
 
-.two-column-grid {
+.two-column-grid,
+.two-column-grid-wrapper > ul {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(2, 1fr);
   align-items: center;
-  grid-gap: 0px;
+  grid-gap: 1rem;
   padding-bottom: 1rem; }
+
+/* for wrapping markdown ul lists with dashes into a grid */
+.auto-grid-wrapper > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  align-items: top;
+  grid-gap: 1rem;
+  padding-bottom: 1rem;
+  list-style: none; }
+
+.list-no-style > ul {
+  list-style: none; }
 
 .text-card {
   align-self: start; }
+
+/* centers contents of the card vertically*/
+.center-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
 
 .tutorial-video-grid,
 .video-grid {
@@ -11619,6 +11715,13 @@ body.dark {
   height: 0px;
   padding-top: 56.25%; }
 
+.iframe-16-9-container + p,
+.iframe-16-9-container + h2,
+.iframe-16-9-container + h3,
+.iframe-16-9-container + ul,
+.iframe-16-9-container + table {
+  margin-top: 2rem; }
+
 /* tinker-cad iframes */
 .iframe-tinkercad-container {
   position: relative;
@@ -11627,6 +11730,19 @@ body.dark {
   padding-top: 62.48275862068966%;
   margin: 0 auto;
   max-width: var(--wide-max-width); }
+
+/*  4:3 ratio iframes used in algorithmic art */
+.iframe-4-3-container {
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-top: 75%; }
+
+.iframe-letter-size-container {
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-top: 122.22%; }
 
 .youTubeIframe,
 .vimeoIframe,
@@ -11642,10 +11758,8 @@ body.dark {
   display: flex;
   flex-direction: column;
   height: 100%;
-  /* width: 100%;
-  max-width: 400px;
-  */
-  justify-content: space-between; }
+  justify-content: space-between;
+  padding-bottom: 1rem; }
 
 /* summary on Hugo list pages */
 a.summary-link {
@@ -11657,15 +11771,10 @@ a.title-link {
   text-decoration: none; }
 
 /* from files */
-.gallery-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-gap: 10px; }
-
 .image-card {
   display: flex;
   flex-direction: column;
-  justify-content: stretch; }
+  justify-content: space-between; }
 
 .fit-img {
   object-fit: cover;
@@ -11678,36 +11787,77 @@ a.title-link {
   width: 300px;
   height: 300px; }
 
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-rows: auto auto;
+  grid-gap: 1rem; }
+
+.gallery-grid > figure {
+  display: grid;
+  row-gap: 0;
+  grid-template-rows: subgrid;
+  grid-row: span 2;
+  /* uses subgrid to align the captions */ }
+
+.gallery-grid > figure > figcaption {
+  font-size: 0.875rem; }
+
 /* for image gallery captions as lists */
 .gallery-grid > figure > figcaption > ul {
   list-style: none;
-  padding-left: 0; }
-
-/* gallery-grid caption font size */
-.gallery-grid > figure > figcaption {
-  font-size: 12px; }
-
-.gallery-grid > figure > figcaption > a > svg {
-  color: red; }
+  padding-left: 0;
+  font-size: 0.75rem; }
 
 /* Begin for footnote backlinks on hugo */
 .footnote-backref {
   visibility: hidden; }
   .footnote-backref::before {
-    content: "↑ return";
+    content: "  return↑";
     visibility: visible;
     font-size: 12px; }
 
-/* Endfor footnote backlinks on hugo */
+/* End for footnote backlinks on hugo */
+/*footnote number brackets*/
+a.footnote-ref::before {
+  content: "["; }
+
+a.footnote-ref::after {
+  content: "]"; }
+
+.footnotes {
+  font-size: 13px; }
+
+.footnotes > ol > li > p {
+  margin-bottom: 0.2rem; }
+
 /* site title on pages below nav menu */
 #top-prev-next,
 #bottom-prev-next {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-gap: 1rem;
-  padding: 1rem 0 1rem 0;
-  max-width: var(--text-max-width);
-  margin: 0 auto; }
+  display: flex;
+  justify-content: space-between; }
+
+#top-prev-next a,
+#bottom-prev-next a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 5px; }
+
+.back:hover,
+.next:hover {
+  background-color: #ddd;
+  color: black; }
+
+.back,
+.next {
+  background-color: var(--theme-color);
+  color: white; }
+
+.back:active,
+.next:active {
+  color: white;
+  background-color: #777; }
 
 /*********************************/
 /*********** For Tag Index *******/
@@ -11766,7 +11916,7 @@ path.MastodonM {
     min-width: var(--text-max-width);
     margin: 0 auto; }
   .gallery-grid {
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
   .two-column-instructions-grid {
     max-width: var(--page-max-width); } }
 
@@ -11784,22 +11934,44 @@ path.MastodonM {
     grid-gap: 6rem;
     padding: 2rem 0 2rem 0; } }
 
-@media only screen and (min-width: 1300px) {
-  /* Test for keeping wide main content from collapsing with container fluid on wide browsers */
+/* Test for keeping wide main content from collapsing with container fluid on wide browsers */
+.keep-wide-canvas-lms {
+  width: 100%;
+  min-width: 300px; }
+
+@media (min-width: 700px) {
   .keep-wide-canvas-lms {
-    min-width: 927px; } }
+    min-width: 600px !important; } }
+
+@media (min-width: 800px) {
+  .keep-wide-canvas-lms {
+    min-width: 700px !important; } }
+
+@media (min-width: 900px) {
+  .keep-wide-canvas-lms {
+    min-width: 800px !important; } }
+
+@media (min-width: 1000px) {
+  .keep-wide-canvas-lms {
+    min-width: 900px !important; } }
+
+@media (min-width: 1100px) {
+  .keep-wide-canvas-lms {
+    min-width: 927px !important; } }
 
 /* Code Blocks */
 /* used in code blocks to indent and have space at bottom for readability */
 pre {
   padding-left: 1rem;
-  padding-bottom: 1rem; }
+  padding-bottom: 1rem;
+  padding-top: 1rem; }
 
 .highlight-wrapper {
   max-width: var(--wide-max-width);
   margin: 0 auto;
   overflow-x: scroll;
-  display: block; }
+  display: block;
+  margin-bottom: 1rem; }
 
 .highlight {
   position: relative;

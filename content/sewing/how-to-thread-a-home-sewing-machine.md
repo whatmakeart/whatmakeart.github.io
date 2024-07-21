@@ -17,5 +17,3 @@ To complete this tutorial you should be familiar with
 The first step
 
 ## Further Reading
-
-### External Links

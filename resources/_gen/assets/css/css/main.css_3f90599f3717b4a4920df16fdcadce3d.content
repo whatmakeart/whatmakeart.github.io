@@ -11459,7 +11459,8 @@ main [tabindex="0"] {
   --text-max-width: 700px;
   --page-max-width: 1366px;
   --wide-max-width: 900px;
-  /* for wider items such as wide images or code or embeds */ }
+  /* for wider items such as wide images or code or embeds */
+  --theme-color: #4d4dff; }
 
 html {
   font-family: Lato, Helvetica, Arial, sans-serif;
@@ -11833,12 +11834,30 @@ a.footnote-ref::after {
 /* site title on pages below nav menu */
 #top-prev-next,
 #bottom-prev-next {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-gap: 1rem;
-  padding: 1rem 0 1rem 0;
-  max-width: var(--text-max-width);
-  margin: 0 auto; }
+  display: flex;
+  justify-content: space-between; }
+
+#top-prev-next a,
+#bottom-prev-next a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 5px; }
+
+.back:hover,
+.next:hover {
+  background-color: #ddd;
+  color: black; }
+
+.back,
+.next {
+  background-color: var(--theme-color);
+  color: white; }
+
+.back:active,
+.next:active {
+  color: white;
+  background-color: #777; }
 
 /*********************************/
 /*********** For Tag Index *******/
