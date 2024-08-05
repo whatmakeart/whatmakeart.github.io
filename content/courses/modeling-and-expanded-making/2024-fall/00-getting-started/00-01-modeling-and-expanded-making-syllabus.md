@@ -1,7 +1,7 @@
 ---
 title: 00.01 Modeling and Expanded Making Syllabus
 date: 2024-08-21T12:00:00
-lastmod: 2024-07-18T12:12:47
+lastmod: 2024-08-05T10:36:40
 ---
 
 ## Modeling and Expanded Making Syllabus
@@ -22,7 +22,7 @@ Office Hours: By appointment
 
 Semester: Fall 2024
 
-[Canvas Course Page]()
+[Canvas Course Page](https://cia.instructure.com/courses/1300)
 
 [Course Website](https://whatmakeart.com/courses/modeling-and-expanded-making/2024-fall/)
 
@@ -66,37 +66,37 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 ### File Management
 
-- We will use [Canvas to turn in assignments](). If issues arise with Canvas’ file submission process then we will use Google Drive to turn in assignments.
+- We will use [Canvas to turn in assignments](https://cia.instructure.com/courses/1300). If issues arise with Canvas’ file submission process then we will use Google Drive to turn in assignments.
 - The class will have a Google Drive folder specific to this course.
 - Use this format for naming all your Programming for Artists class digital files:
   - YYYYMMDD Smith Lane Project 1
   - 20240821 Smith Lane First Day Project 1
 
-[Canvas Course Page]()
+[Canvas Course Page](https://cia.instructure.com/courses/1300)
 
 ## Course Schedule & Requirements
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**     | **Topic**                        |
-| -------- | ------------ | -------------------------------- |
-| 1        | August 21    | Introduction                     |
-| 2        | August 28    | Lecture / Workshop / Studio Work |
-| 3        | September 4  | Lecture / Workshop / Studio Work |
-| 4        | September 11 | Lecture / Workshop / Studio Work |
-| 5        | September 18 | Lecture / Workshop / Studio Work |
-| 6        | September 25 | Lecture / Workshop / Studio Work |
-| 7        | October 2    | Lecture / Workshop / Studio Work |
-| 8        | October 9    | Lecture / Workshop / Studio Work |
-| 9        | October 16   | Lecture / Workshop / Studio Work |
-| 10       | October 23   | Lecture / Workshop / Studio Work |
-| 11       | October 30   | Lecture / Workshop / Studio Work |
-| 12       | November 6   | Lecture / Workshop / Studio Work |
-| 13       | November 13  | Lecture / Workshop / Studio Work |
-| 14       | November 20  | Lecture / Workshop / Studio Work |
-| 15       | November 27  | Thanksgiving Break               |
-| 16       | December 4   | Mid-Year BFA Crits               |
-| 17       | December 11  | Final Crit                       |
+| **Week** | **Date**     | **Topic**                                                 |
+| -------- | ------------ | --------------------------------------------------------- |
+| 1        | August 21    | Introduction to 3D Modeling Tools and Digital Fabrication |
+| 2        | August 28    | Fundamentals of 3D Design Sketching and Basic Modeling    |
+| 3        | September 4  | 3D Printing Techniques and Applications                   |
+| 4        | September 11 | Laser Cutting Techniques                                  |
+| 5        | September 18 | CNC Machining with ShopBot                                |
+| 6        | September 25 | Advanced 3D Modeling and Rendering                        |
+| 7        | October 2    | 3D Scanning and Integration                               |
+| 8        | October 9    | Floor Plan to 3D Model Conversion                         |
+| 9        | October 16   | Real-World Scale 3D Scanning and Fitting                  |
+| 10       | October 23   | Preparing Submissions for Public Art RFPs                 |
+| 11       | October 30   | High-Quality Visual Documentation and Presentation        |
+| 12       | November 6   | Advanced Digital Fabrication Projects                     |
+| 13       | November 13  | Studio Work                                               |
+| 14       | November 20  | Studio Work                                               |
+| 15       | November 27  | Thanksgiving Break                                        |
+| 16       | December 4   | Mid-Year BFA Crits                                        |
+| 17       | December 11  | Final Crit                                                |
 
 </div>
 
@@ -112,16 +112,10 @@ Projects must be turned in on time. On time is before the beginning of class on 
 - Dec 3 – Final Day of Classes
 - Dec 16 – Final Grades DUE for all students
 
-## Credit Hour Definition
-
-The Cleveland Institute of Art operates on a semester system comprised of Fall and Spring terms. Each term is at least 16 weeks in length, which includes final examinations and studio critiques. A credit hour is formally defined as _1 one hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for a semester._ At CIA, this is further defined as:
-
-- A three-credit Studio course translates to 5 hours of scheduled class time per week plus 4-6 hours of preparation and homework.
-
 ### Required Textbooks and Readings
 
 - No required textbook
-- Course resources are available on [Canvas]() or [online](https://whatmakeart.com/courses/modeling-and-expanded-making/2024-fall/)
+- Course resources are available on [Canvas](https://cia.instructure.com/courses/1300) or [online](https://whatmakeart.com/courses/modeling-and-expanded-making/2024-fall/)
 
 ### Required Supplies
 
@@ -134,6 +128,12 @@ The Cleveland Institute of Art operates on a semester system comprised of Fall a
 - 3 button mouse
 
 ## Cleveland Institute of Art Recommended Policies
+
+### Credit Hour Definition
+
+The Cleveland Institute of Art operates on a semester system comprised of Fall and Spring terms. Each term is at least 16 weeks in length, which includes final examinations and studio critiques. A credit hour is formally defined as _1 one hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for a semester._ At CIA, this is further defined as:
+
+- A three-credit Studio course translates to 5 hours of scheduled class time per week plus 4-6 hours of preparation and homework.
 
 ### Accessibility Statement
 

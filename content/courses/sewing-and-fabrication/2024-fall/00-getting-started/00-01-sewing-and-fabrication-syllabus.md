@@ -1,7 +1,7 @@
 ---
 title: 00.01 Sewing and Fabrication Syllabus
 date: 2024-07-18T10:18:39
-lastmod: 2024-07-19T04:54:59
+lastmod: 2024-08-04T09:54:08
 ---
 
 ## Sewing and Fabrication Syllabus
@@ -22,7 +22,7 @@ Office Hours: By appointment
 
 Semester: Fall 2024
 
-[Canvas Course Page]()
+[Canvas Course Page](https://cia.instructure.com/courses/1527)
 
 [Course Website](https://whatmakeart.com/courses/sewing-and-fabrication/2024-fall/)
 
@@ -72,18 +72,18 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 ### File Management
 
-- We will use [Canvas to turn in assignments](). If issues arise with Canvas’ file submission process then we will use Google Drive to turn in assignments.
+- We will use [Canvas to turn in assignments](https://cia.instructure.com/courses/1527). If issues arise with Canvas’ file submission process then we will use Google Drive to turn in assignments.
 - The class will have a Google Drive folder specific to this course.
 - Use this format for naming all your Programming for Artists class digital files:
   - YYYYMMDD Smith Lane Project 1
   - 20240821 Smith Lane First Day Project 1
 
-[Canvas Course Page]()
+[Canvas Course Page](https://cia.instructure.com/courses/1527)
 
 ### Required Textbooks and Readings
 
 - No required textbook
-- Course resources are available on [Canvas]() or [online](https://whatmakeart.com/courses/sewing-and-fabrication/2024-fall/)
+- Course resources are available on [Canvas](https://cia.instructure.com/courses/1527) or [online](https://whatmakeart.com/courses/sewing-and-fabrication/2024-fall/)
 
 ### Materials
 
@@ -131,9 +131,9 @@ The Sewing Room has a prox lock. The door should never be propped open. Students
 | ---------- | ------------ | -------------------------------- |
 | 1          | August 26    | Introduction                     |
 | 2          | September 2  | Labor Day - No Class             |
-| 3          | September 9  | Lecture / Workshop / Studio Work |
-| 4          | September 16 | Lecture / Workshop / Studio Work |
-| 5          | September 23 | Lecture / Workshop / Studio Work |
+| 3          | September 9  | Pockets                          |
+| 4          | September 16 | Pattern Making                   |
+| 5          | September 23 | Garment Sewing                   |
 | 6          | September 30 | Lecture / Workshop / Studio Work |
 | 7          | October 7    | Lecture / Workshop / Studio Work |
 | 8          | October 14   | Lecture / Workshop / Studio Work |
@@ -142,8 +142,8 @@ The Sewing Room has a prox lock. The door should never be propped open. Students
 | 10         | November 4   | Lecture / Workshop / Studio Work |
 | 11         | November 11  | Lecture / Workshop / Studio Work |
 | 12         | November 18  | Lecture / Workshop / Studio Work |
-| 13         | November 25  | Lecture / Workshop / Studio Work |
-| 14         | December 2   | Lecture / Workshop / Studio Work |
+| 13         | November 25  | Runway Project                   |
+| 14         | December 2   | Studio Work                      |
 | 15         | December 9   | Final Crit                       |
 
 </div>
@@ -160,13 +160,13 @@ The Sewing Room has a prox lock. The door should never be propped open. Students
 - Dec 3 – Final Day of Classes
 - Dec 16 – Final Grades DUE for all students
 
-## Credit Hour Definition
+## Cleveland Institute of Art Recommended Policies
+
+### Credit Hour Definition
 
 The Cleveland Institute of Art operates on a semester system comprised of Fall and Spring terms. Each term is at least 16 weeks in length, which includes final examinations and studio critiques. A credit hour is formally defined as _1 one hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for a semester._ At CIA, this is further defined as:
 
 - A three-credit Studio course translates to 5 hours of scheduled class time per week plus 4-6 hours of preparation and homework.
-
-## Cleveland Institute of Art Recommended Policies
 
 ### Accessibility Statement
 

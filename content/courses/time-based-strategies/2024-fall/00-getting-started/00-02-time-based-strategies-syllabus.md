@@ -1,7 +1,7 @@
 ---
 title: 00.02 Time Based Practices Syllabus
 date: 2024-08-27T12:00:00
-lastmod: 2024-07-18T12:19:30
+lastmod: 2024-08-04T09:54:57
 ---
 
 ## Time Based Strategies Syllabus
@@ -22,7 +22,7 @@ Office Hours: By appointment
 
 Semester: Fall 2024
 
-[Canvas Course Page]()
+[Canvas Course Page](https://cia.instructure.com/courses/1523)
 
 [Course Website](https://whatmakeart.com/courses/time-based-strategies/2024-fall/)
 
@@ -82,13 +82,13 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 ### File Management
 
-- We will use [Canvas to turn in assignments](). If issues arise with Canvas’ file submission process then we will use Google Drive to turn in assignments.
+- We will use [Canvas to turn in assignments](https://cia.instructure.com/courses/1523). If issues arise with Canvas’ file submission process then we will use Google Drive to turn in assignments.
 - The class will have a Google Drive folder specific to this course.
 - Use this format for naming all your Programming for Artists class digital files:
   - YYYYMMDD Smith Lane Project 1
   - 20240821 Smith Lane First Day Project 1
 
-[Canvas Course Page]()
+[Canvas Course Page](https://cia.instructure.com/courses/1523)
 
 ## Course Schedule & Requirements
 
@@ -127,16 +127,10 @@ Projects must be turned in on time. On time is before the beginning of class on 
 - Dec 3 – Final Day of Classes
 - Dec 16 – Final Grades DUE for all students
 
-## Credit Hour Definition
-
-The Cleveland Institute of Art operates on a semester system comprised of Fall and Spring terms. Each term is at least 16 weeks in length, which includes final examinations and studio critiques. A credit hour is formally defined as _1 one hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for a semester._ At CIA, this is further defined as:
-
-- A three-credit Studio course translates to 5 hours of scheduled class time per week plus 4-6 hours of preparation and homework.
-
 ### Required Textbooks and Readings
 
 - No required textbook
-- Course resources are available on [Canvas]() or [online](https://whatmakeart.com/courses/time-based-strategies/2024-fall/)
+- Course resources are available on [Canvas](https://cia.instructure.com/courses/1523) or [online](https://whatmakeart.com/courses/time-based-strategies/2024-fall/)
 
 ### Required Supplies
 
@@ -149,6 +143,12 @@ The Cleveland Institute of Art operates on a semester system comprised of Fall a
 - 3 button mouse
 
 ## Cleveland Institute of Art Recommended Policies
+
+### Credit Hour Definition
+
+The Cleveland Institute of Art operates on a semester system comprised of Fall and Spring terms. Each term is at least 16 weeks in length, which includes final examinations and studio critiques. A credit hour is formally defined as _1 one hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for a semester._ At CIA, this is further defined as:
+
+- A three-credit Studio course translates to 5 hours of scheduled class time per week plus 4-6 hours of preparation and homework.
 
 ### Accessibility Statement
 
