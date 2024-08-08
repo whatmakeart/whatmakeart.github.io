@@ -1,7 +1,7 @@
 ---
 title: 00.01 Sewing and Fabrication Syllabus
 date: 2024-07-18T10:18:39
-lastmod: 2024-08-04T09:54:08
+lastmod: 2024-08-08T15:30:28
 ---
 
 ## Sewing and Fabrication Syllabus
@@ -33,22 +33,24 @@ This is a sewing and patternmaking class. The class will emphasize skills in mac
 ## Course Goals and Learning Objectives
 
 Students will be introduced to:
-• Industrial and domestic lock stitch sewing machines, special use commercial machines and their functions, such as the serger / marrow machine, chain stitch machine, post bed machines etc.
-• Basic seam types and their uses
-• Basic sewing applications and their uses
-• Traditional and non-traditional materials, processes and forms related to sewing as a construction process.
-• Identifying and sequencing the operations needed to fabricate a complex form
-• Flat pattern drafting
-• Visualizing three dimensional forms—and the attendant skills to analyze the relationship between a volumetric form and its surface/ skin.
+
+- Industrial and domestic lock stitch sewing machines, special use commercial machines and their functions, such as the serger / marrow machine, chain stitch machine, post bed machines etc.
+- Basic seam types and their uses
+- Basic sewing applications and their uses
+- Traditional and non-traditional materials, processes and forms related to sewing as a construction process.
+- Identifying and sequencing the operations needed to fabricate a complex form
+- Flat pattern drafting
+- Visualizing three dimensional forms—and the attendant skills to analyze the relationship between a volumetric form and its surface/ skin.
 
 Students will explore:
-• Sewing as a fabrication system and its uses in art
-• Using the sewing machine to invent and construct planar materials
-• The relationship between the cultural connotations of cloth and the intended meaning of a work of art.
-• Experimentation and risk taking in studio practice
-• The role of research in developing ideas
-• The role of critique in evaluating and refining their work/ideas
-• Expand their ability to articulate complex ideas in critiquing the work of others.
+
+- Sewing as a fabrication system and its uses in art
+- Using the sewing machine to invent and construct planar materials
+- The relationship between the cultural connotations of cloth and the intended meaning of a work of art.
+- Experimentation and risk taking in studio practice
+- The role of research in developing ideas
+- The role of critique in evaluating and refining their work/ideas
+- Expand their ability to articulate complex ideas in critiquing the work of others.
 
 ## Course Organization / Method of Instruction
 

@@ -1,24 +1,24 @@
 ---
 title: 00.02 Course Resources
 date: 2024-07-18T10:18:39
-lastmod: 2024-07-18T15:24:10
+lastmod: 2024-08-08T15:29:58
 ---
 
 ## External Sewing Links
 
 The sites below contain a wealth of information about sewing and pattern making and are worth browsing and reading.
 
-- https://www.allfreesewing.com/Basics-and-TutorialsLinks to an external site.
-- http://www.blueprintsforsewing.com/tutorialsLinks to an external site.
-- https://fashion-incubator.com/tutorials/Links to an external site.
-- https://www.threadsmagazine.com/Links to an external site.
+- [AllFreeSewing.com Tutorials](https://www.allfreesewing.com/Basics-and-Tutorials)
+- [BluePrintsforSewing.com Tutorials](http://www.blueprintsforsewing.com/tutorials)
+- [Fashion-Incubator.com Tutorials](https://fashion-incubator.com/tutorials/)
+- [ThreadsMagazine.com How To](https://www.threadsmagazine.com/how-to)
 
 ## Books
 
-· The Entrepreneur’s Guide to Sewn Product Manufacturing by Kathleen Fasanella 1997. ISBN 0-9663208-4-0
-· Metric Pattern Cutting by Winifred Aldrich. Book. Publisher: Blackwell Science. ISBN 0-632-03612-5
-· Pattern-making Made Easy Book. by Connie Crawford. ISBN 0-964-95167-3
-· Sewing for the Apparel Industry by Claire Schaeffer. (2nd Edition) Book. ISBN 0-131-88443-3
+- The Entrepreneur’s Guide to Sewn Product Manufacturing by Kathleen Fasanella 1997. ISBN 0-9663208-4-0
+- Metric Pattern Cutting by Winifred Aldrich. Book. Publisher: Blackwell Science. ISBN 0-632-03612-5
+- Pattern-making Made Easy Book. by Connie Crawford. ISBN 0-964-95167-3
+- Sewing for the Apparel Industry by Claire Schaeffer. (2nd Edition) Book. ISBN 0-131-88443-3
 
 ## Sewing Material Suppliers
 
@@ -26,7 +26,7 @@ We have most of the needed supplies to get started in the course and complete th
 
 ### Fabric
 
-Upcycle Parts Shop - [https://www.upcyclepartsshop.org/](https://www.upcyclepartsshop.org/) - Local Cleveland business that has all kinds of fabric, sewing supplies and other cool stuff at very low prices. Definitely check them out.
+[Upcycle Parts Shop](https://www.upcyclepartsshop.org/) - Local Cleveland business that has all kinds of fabric, sewing supplies and other cool stuff at very low prices. Definitely check them out.
 
 [Jo-Ann’s Fabrics](https://www.joann.com/) - 1533 Golden Gate Plaza #153 – (440) 684-1567 - Generally more expensive than many online retailers but has many items in stock. Also has fabric available on sale that can be good deals if you go hunting.
 
