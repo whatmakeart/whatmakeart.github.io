@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2024-01-18T09:18:17
+lastmod: 2024-08-08T12:20:47
 aliases:
   - 3D Modeling
 ---
@@ -49,9 +49,9 @@ In 2022 Google demonstrated DreamFusion that created 3D models from text prompts
 <div class="video-grid">
 
 <figure>
-<a href="/3d-modeling/attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4">
+<a href="./attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4">
 <video width="100%" height="auto" autoplay loop>
-  <source src="/3d-modeling/attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4" type="video/mp4">
+  <source src="./attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4" type="video/mp4">
  
 Your browser does not support the video tag.
 </video>
@@ -64,9 +64,9 @@ Google's DreamFusion in 2022 [^dreamfusion]
 </figure>
 
 <figure>
-<a href="/3d-modeling/attachments/2023-05-03-openai-shape-e-demo-models.mp4">
+<a href="./attachments/2023-05-03-openai-shape-e-demo-models.mp4">
 <video width="100%" height="auto" autoplay loop>
-  <source src="/3d-modeling/attachments/2023-05-03-openai-shape-e-demo-models.mp4" type="video/mp4">
+  <source src="./attachments/2023-05-03-openai-shape-e-demo-models.mp4" type="video/mp4">
  
 Your browser does not support the video tag.
 </video>

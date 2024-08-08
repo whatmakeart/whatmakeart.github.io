@@ -1,7 +1,7 @@
 ---
-title: 00.02 Time Based Practices Syllabus
+title: 00.02 Time Based Strategies Syllabus
 date: 2024-08-27T12:00:00
-lastmod: 2024-08-04T09:54:57
+lastmod: 2024-08-08T12:18:06
 ---
 
 ## Time Based Strategies Syllabus
