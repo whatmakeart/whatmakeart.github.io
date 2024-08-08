@@ -1,20 +1,20 @@
 ---
-title: 00.02 Time Based Strategies Syllabus
-date: 2024-08-27T12:00:00
-lastmod: 2024-08-08T12:18:06
+title: 00.00 Sewing and Fabrication Syllabus
+date: 2024-07-18T10:18:39
+lastmod: 2024-08-08T18:08:48
 ---
 
-## Time Based Strategies Syllabus
+## Sewing and Fabrication Syllabus
 
 ### Course Information
 
-Course Number: 236
+Course Number: 268
 
 Department: Sculpture + Expanded Media
 
-Room: 212H Cleveland Institute of Art
+Room: 212H & 212K Cleveland Institute of Art
 
-Time: Tuesdays 12:00 pm - 5:00 pm
+Time: Mondays 9:00 am - 11:00am & 12:00 pm - 2:30 pm
 
 Faculty: Jimmy Kuehnle - jkuehnle@cia.edu
 
@@ -22,43 +22,35 @@ Office Hours: By appointment
 
 Semester: Fall 2024
 
-[Canvas Course Page](https://cia.instructure.com/courses/1523)
+[Canvas Course Page](https://cia.instructure.com/courses/1527)
 
-[Course Website](https://whatmakeart.com/courses/time-based-strategies/2024-fall/)
+[Course Website](https://whatmakeart.com/courses/sewing-and-fabrication/2024-fall/)
 
-## Course description
+## Course Description
 
-This course investigates the concepts and practices of various time‐based media arts. This involves an introduction to artmaking as a process involving transactions between people, objects, technologies, and sites. Presentations focus on a range of contemporary artists and consider characteristics of recent production including simultaneity, immersion, duration, a collapsing of the distinction between art and life, and a realignment of the relationship between audience and artwork. A series of workshops explore a fundamental introduction to the processes of video art, sound art, media installation, 3D modeling and visualization, and digital fabrication. Knowledge and skills learned from experiments in workshops serve as the basis to produce several projects. The development of media literacy, media ethics, and dissemination techniques drive and ground the assignments. The course reinforces and emphasizes the production of high-quality documentation of time-based and ephemeral artwork for presentation at venues, portfolios, and proposals.
+This is a sewing and patternmaking class. The class will emphasize skills in machine sewing and related systems for fabrication using flexible materials. Constructing a garment will be the first project. Understanding the construction of a shirt and acquiring skills to assemble it is an ideal way to acquire hands on skills and also to understand the shape of a surface or skin of any volumetric form. The class will then move on to patternmaking and the techniques of expanding, adding to, subtracting from and morphing a preexisting pattern. These processes can then be used for constructing skins or shell structures for sculpture, clothing or costume. The emphasis will be on skills and practical information supplemented by images taken from the worlds of fashion, costume design, performance, and sculpture.
 
-## Learning Objectives
+## Course Goals and Learning Objectives
 
-Students will have the opportunity to:
+Students will be introduced to:
 
-- Examine the intricacies of using and integrating digital technologies in fine art practices.
-- Identify and discuss the history and theory associated with artists experimenting with digital and analog media.
-- Extend their skills with the software used to produce projects, including the Adobe Creative Suite, CNC toolpath software, 3D modeling software and other software oriented towards media art production and experimentation.
-- Produce creative projects by combining complex interdisciplinary processes.
-- Describe and demonstrate complicated digital file management and workflows.
-- Employ a multidisciplinary approach to the subject and content of a given project.
-- Develop a pattern of self‐learning and troubleshooting electronic and digital technology.
-- Apply video sequencing, sound sequencing, web media, 3D Modeling and digital fabrication toward creative production.
-- Illustrate and create sketches, project plans, concept visualizations of project ideation using digital 3D modeling tools and image editors, and analog techniques.
-- Operate digital cameras and microphones to capture high quality, visual documentation video and photographs of completed projects.
-- Use image editing and video editing software to produce images and video for presentation
+- Industrial and domestic lock stitch sewing machines, special use commercial machines and their functions, such as the serger / marrow machine, chain stitch machine, post bed machines etc.
+- Basic seam types and their uses
+- Basic sewing applications and their uses
+- Traditional and non-traditional materials, processes and forms related to sewing as a construction process.
+- Identifying and sequencing the operations needed to fabricate a complex form
+- Flat pattern drafting
+- Visualizing three dimensional forms—and the attendant skills to analyze the relationship between a volumetric form and its surface/ skin.
 
-## Course Topics
+Students will explore:
 
-- Historical Context
-- Contemporary Context
-- Media Study and Film Theory
-- Collaboration
-- Digital File Management and Workflow
-- Sound Art
-- Video Art
-- Interdisciplinary Art
-- Installation Art
-- Emerging Media
-- Digital Fabrication Processes
+- Sewing as a fabrication system and its uses in art
+- Using the sewing machine to invent and construct planar materials
+- The relationship between the cultural connotations of cloth and the intended meaning of a work of art.
+- Experimentation and risk taking in studio practice
+- The role of research in developing ideas
+- The role of critique in evaluating and refining their work/ideas
+- Expand their ability to articulate complex ideas in critiquing the work of others.
 
 ## Course Organization / Method of Instruction
 
@@ -82,36 +74,79 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 ### File Management
 
-- We will use [Canvas to turn in assignments](https://cia.instructure.com/courses/1523). If issues arise with Canvas’ file submission process then we will use Google Drive to turn in assignments.
+- We will use [Canvas to turn in assignments](https://cia.instructure.com/courses/1527). If issues arise with Canvas’ file submission process then we will use Google Drive to turn in assignments.
 - The class will have a Google Drive folder specific to this course.
 - Use this format for naming all your Programming for Artists class digital files:
   - YYYYMMDD Smith Lane Project 1
   - 20240821 Smith Lane First Day Project 1
 
-[Canvas Course Page](https://cia.instructure.com/courses/1523)
+[Canvas Course Page](https://cia.instructure.com/courses/1527)
 
-## Course Schedule & Requirements
+### Required Textbooks and Readings
+
+- No required textbook
+- Course resources are available on [Canvas](https://cia.instructure.com/courses/1527) or [online](https://whatmakeart.com/courses/sewing-and-fabrication/2024-fall/)
+
+### Materials
+
+SEM has a most of the supplies that you will need. Some materials will be provided to you and others will be available for purchase at reduced cost on the myCIA store. Depending on your creative intent specific and unique materials may not be available from SEM on the myCIA store and will need to be purchased by the student. An updated list of local and online suppliers is listed on the course website.
+
+Students can expect to spend between $50 - $200 for materials in the course depending on the specifics of their projects.
+
+#### Required Supplies Provided by Student
+
+- Sharp fabric scissors
+- Paper cutting scissors
+- Sharpies
+- Pencils
+- Fabric and other materials for projects
+- Additional materials / tools as needed for projects such as commercial patterns, tape, paper, and general making supplies.
+
+#### Required Supplies Provided by SEM
+
+- SEM Sewing Kit that includes a Seam Ripper, Pins, Needles, bobbins in addition to other needed sewing supplies.
+- Thread – SEM supplies black and white thread as well as a variety of heavy-duty thread. Specialty thread not in SEM needs to be provided by the student.
+- SEM has some fabric available to students at no cost. SEM also has some fabric available at highly reduced cost. Some fabric is sold at cost to students but is conveniently already in the studios.
+
+#### SEM Sewing Kits
+
+The SEM Studio Technician, will checkout a kit to each student on the first day of class. Students will sign an agreement stating they understand the cost and policy. Kits are required to be returned if a student withdraws from the course or the semester has ended. The SEM Technical Specialist will collect the kits on the final day of class. Items missing from the kits will be charged to the respective student’s account.
+
+When leaving the sewing room, students must pack up their kits and take them with them. If any SEM Faculty or Staff find items left in the machines, items or kits lying around, they will be confiscated. This is the same policy as the School Wide Checkout.
+
+### Sewing Room Access Policy
+
+Students only have access to the sewing room while they are actively taking a Sewing Course. Taking this course or other Sewing Courses by no means grants students future access.
+
+Students who wish for access while not actively enrolled in the Sewing Course must contact the SEM Chair for policy details.
+The Sewing Room has a prox lock. The door should never be propped open. Students are responsible to have their ID Cards on them at all times.
+
+### SEM Room Reservations
+
+[SEM Room Reservations](https://cia-sem.youcanbook.me/)
+
+## Course Schedule
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**     | **Topic**                        |
-| -------- | ------------ | -------------------------------- |
-| 1        | August 27    | Introduction                     |
-| 2        | September 3  | Lecture / Workshop / Studio Work |
-| 3        | September 10 | Lecture / Workshop / Studio Work |
-| 4        | September 17 | Lecture / Workshop / Studio Work |
-| 5        | September 24 | Lecture / Workshop / Studio Work |
-| 6        | October 1    | Lecture / Workshop / Studio Work |
-| 7        | October 8    | Lecture / Workshop / Studio Work |
-| 8        | October 15   | Lecture / Workshop / Studio Work |
-| 9        | October 22   | Fall Break                       |
-| 10       | October 29   | Lecture / Workshop / Studio Work |
-| 11       | November 5   | Lecture / Workshop / Studio Work |
-| 12       | November 12  | Lecture / Workshop / Studio Work |
-| 13       | November 19  | Lecture / Workshop / Studio Work |
-| 14       | November 26  | Lecture / Workshop / Studio Work |
-| 15       | December 3   | Lecture / Workshop / Studio Work |
-| 16       | December 10  | Final Crit                       |
+| **Week**   | **Date**     | **Topic**                        |
+| ---------- | ------------ | -------------------------------- |
+| 1          | August 26    | Introduction                     |
+| 2          | September 2  | Labor Day - No Class             |
+| 3          | September 9  | Pockets                          |
+| 4          | September 16 | Pattern Making                   |
+| 5          | September 23 | Garment Sewing                   |
+| 6          | September 30 | Lecture / Workshop / Studio Work |
+| 7          | October 7    | Lecture / Workshop / Studio Work |
+| 8          | October 14   | Lecture / Workshop / Studio Work |
+| Fall Break | October 21   | No Class                         |
+| 09         | October 28   | Lecture / Workshop / Studio Work |
+| 10         | November 4   | Lecture / Workshop / Studio Work |
+| 11         | November 11  | Lecture / Workshop / Studio Work |
+| 12         | November 18  | Lecture / Workshop / Studio Work |
+| 13         | November 25  | Runway Project                   |
+| 14         | December 2   | Studio Work                      |
+| 15         | December 9   | Final Crit                       |
 
 </div>
 
@@ -126,21 +161,6 @@ Projects must be turned in on time. On time is before the beginning of class on 
 - Nov 28 – 29 – Thanksgiving Break. No classes.
 - Dec 3 – Final Day of Classes
 - Dec 16 – Final Grades DUE for all students
-
-### Required Textbooks and Readings
-
-- No required textbook
-- Course resources are available on [Canvas](https://cia.instructure.com/courses/1523) or [online](https://whatmakeart.com/courses/time-based-strategies/2024-fall/)
-
-### Required Supplies
-
-- Laptop
-- sketching materials
-
-### Recommended Materials
-
-- external storage device for digital backups
-- 3 button mouse
 
 ## Cleveland Institute of Art Recommended Policies
 

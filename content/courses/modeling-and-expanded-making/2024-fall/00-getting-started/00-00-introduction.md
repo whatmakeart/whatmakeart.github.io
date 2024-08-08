@@ -1,5 +1,0 @@
----
-title: 00.00 Introduction
-date: 2024-08-21T12:00:00
-lastmod: 2024-07-18T10:42:11
----

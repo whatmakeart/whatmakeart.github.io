@@ -1,7 +1,7 @@
 ---
-title: 00.02 Course Resources
+title: 00.01 Course Resources
 date: 2024-07-18T10:18:39
-lastmod: 2024-08-08T15:29:58
+lastmod: 2024-08-08T18:08:48
 ---
 
 ## External Sewing Links

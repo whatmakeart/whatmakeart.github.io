@@ -1,7 +1,7 @@
 ---
 title: Fabrication
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-29T05:46:40
+lastmod: 2024-08-08T18:08:14
 ---
 
 Fabrication uses methods of attaching different [materials](../sculpture/materials-for-making.md) together such as screwing, glueing or [bolting](bolting.md).
@@ -12,7 +12,8 @@ Many different materials can be used in fabrication including metal, plastic, wo
 
 ### Triangles are Strong
 
-Triangles are strong, L's are lame and squares are okay, and circles are amazing but hard to use.
+Triangles are strong, L's are lame,
+squares are okay, and circles are amazing but hard to use.
 
 ### Common Types of Joints
 
@@ -24,7 +25,7 @@ Triangles are strong, L's are lame and squares are okay, and circles are amazing
 
 From design to final output, fabrication processes have numerous steps, many that must be completed in sequence. In complex projects multiple fabricators working in different locations will make specific pieces of a design that will be assembled at yet another location. All fabrication projects from the most simple to the most complex benefit from proper planning.
 
-The planning process begins with the initial concept and [Sketching](../drawing/sketching.md). Before any idea or design is committed to, iterative sketching can find potential problems and suggest solutions before any fabrication occurs. As sketches become more refined a 3D Model can be made to test assumptions and to see if pieces will fit together. A list of [materials](../sculpture/materials-for-making.md) can be estimated from the 3d models and sketches.
+The planning process begins with the initial concept and [sketching](../drawing/sketching.md). Before any idea or design is committed to, iterative sketching can find potential problems and suggest solutions before any fabrication occurs. As sketches become more refined a 3D Model can be made to test assumptions and to see if pieces will fit together. A list of [materials](../sculpture/materials-for-making.md) can be estimated from the 3d models and sketches.
 
 It is important to start to think about not only the form of the object but how it will be made. What [order of operations](../sculpture/order-of-operations.md) is required to make the pieces accurately and efficiently? For example in [Woodworking](../woodworking/woodworking.md) it is usually a good idea to run a board through the [jointer](../woodworking/jointer.md) before sending it through the thickness [planer](../woodworking/planer.md) or to sand a wood surface before applying finisher. Each project will be unique and have different constraints on the fabrication process. Sometimes the [budget](../art-faq/how-to-create-an-artist-budget.md) Will not allow a material or tool to be used, sometimes the time available is not enough to get desired parts or equipment, sometimes a structural limitation of a site will dictate the use of lightweight materials.
 
@@ -40,16 +41,12 @@ It is important to start to think about not only the form of the object but how 
 
 ## Wood Fabrication
 
-[Wood-Fasteners](../woodworking/wood-fasteners.md) [Woodworking](../woodworking/woodworking.md)
+- [Wood-Fasteners](../woodworking/wood-fasteners.md)
+- [Woodworking](../woodworking/woodworking.md)
 
 ## Digital Fabrication
 
-[Digital fabrication](../digital-fabrication/_index.md) uses [3D-Modeling](../3d-modeling/3d-modeling.md) to create digital designs and then outputs the digital model to a physical form. Digital fabrication machines use gcode to translate the shape and size of the 3D model into a specific set of instructions or operations for the machine to execute. Stepper motors, linear rails, proximity sensors, computer vision and other industrial controls keep track of the precise location on the machine and material being fabricated.
-
-### Types of Digital Fabrication
-
-[Laser-Cutting](../digital-fabrication/laser-cutting/laser-cutting.md) uses a high powered laser to cut through wood, metal and plastic. A laser cutter can also etch designs and images. [CNC](../digital-fabrication/cnc/cnc-basics.md) Machining uses spinning cutters that move along a precise coordinate system.  
-[3D-Printing](../digital-fabrication/3d-printing/3d-printing.md) builds up an object layer by layer. Vinyl Cutting cuts rolls of vinyl based on vector graphic input. [Water Jet Cutting](../digital-fabrication/water-jet-cutting.md) uses high powered streams of water carrying abrasive particles to cut through a wide variety of materials.
+[Digital fabrication](../digital-fabrication/digital-fabrication.md) uses [3D-Modeling](../3d-modeling/3d-modeling.md) to create digital designs and then outputs the digital model to a physical form. Digital fabrication machines use gcode to translate the shape and size of the 3D model into a specific set of instructions or operations for the machine to execute. Stepper motors, linear rails, proximity sensors, computer vision and other industrial controls keep track of the precise location on the machine and material being fabricated.
 
 ### Fabrication Tools
 

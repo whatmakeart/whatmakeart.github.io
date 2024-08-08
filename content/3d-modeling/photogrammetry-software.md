@@ -1,9 +1,7 @@
 ---
 title: Photogrammetry Software
 date: 2023-09-24T11:15:16
-lastmod: 2023-11-17T06:04:29
-tags:
-  - stub
+lastmod: 2024-08-08T17:40:35
 ---
 
 ## Free Photogrammetry Software
