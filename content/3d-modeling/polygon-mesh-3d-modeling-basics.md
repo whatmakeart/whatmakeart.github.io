@@ -1,7 +1,7 @@
 ---
 title: Polygon Mesh 3D Modeling Basics
 date: 2023-06-14T13:54:43
-lastmod: 2024-02-22T11:58:16
+lastmod: 2024-08-11T05:57:22
 ---
 
 ## Approaches to Making 3D Models
@@ -12,6 +12,8 @@ lastmod: 2024-02-22T11:58:16
 - Sculpting
 - 3D Scanning
 
+3D polygon meshes are similar to 2D raster images. Instead of the number of pixels determining the resolution, the number of polygons created by vertices and edges determine the resolution and level of detail of the 3D mesh.
+
 ## Polygon Mesh 3D Modeling Terms
 
 [![Polygon Mesh](./attachments/2024-02-21-polygon-mesh.png)](./attachments/2024-02-21-polygon-mesh.png)
@@ -20,7 +22,7 @@ lastmod: 2024-02-22T11:58:16
 
 A vertex is a single point with a x, y, and z coordinate in space.
 
-Below is part of the raw output of an OBJ file as viewed in a text editor. I lists the .mtl material file as well as the total number of vertices, 50,004 in this case. Then it starts to list the x, y, and z coordinates of each vertex one by one. When combined, these verticies represent a 3D object.
+Below is part of the raw output of an OBJ file as viewed in a text editor. I lists the .mtl material file as well as the total number of vertices, 50,004 in this case. Then it starts to list the x, y, and z coordinates of each vertex one by one. When combined, these vertices represent a 3D object.
 
 ```obj
 #

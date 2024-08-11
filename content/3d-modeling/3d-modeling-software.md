@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling Software
 date: 2023-05-26T02:50:47
-lastmod: 2024-08-08T17:38:50
+lastmod: 2024-08-09T15:44:40
 ---
 
 You can never learn all the software nor should that be your goal. [3D modeling](./3d-modeling.md) is a vast domain and you should try multiple 3D modeling software packages so you can choose ones that you prefer.
@@ -48,6 +48,7 @@ Many 3D programs could be in multiple or all of the categories below.
 
 ### 3D Painting and Texturing
 
+- [Substance Painter](https://www.adobe.com/products/substance3d/apps/painter.html)
 - [Mari](https://www.foundry.com/products/mari)
 
 ### Rendering Engines

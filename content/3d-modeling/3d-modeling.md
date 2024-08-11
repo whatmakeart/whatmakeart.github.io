@@ -1,12 +1,12 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2024-08-08T12:20:47
-aliases:
-  - 3D Modeling
+lastmod: 2024-08-11T06:59:47
 ---
 
 What is a model? What is a 3D model? What is the difference between an analog and a digital 3D model? How does 2D [technical sketching](../drawing/technical-sketching.md) relate to 3D modeling?
+
+A model is a simplified representation of reality. The standard model in Physics or describing earth's gravity as 9.8 m/s2 (32 ft/s2) are examples of models of reality. A two-dimensional drawing of how a door swings on an architectural floor plan is another example of a simplified model representing reality.
 
 ## Analog vs Digital
 
@@ -16,7 +16,7 @@ Digital 3D modeling uses software tools to create virtual representations of obj
 
 ### 3D Modeling Software
 
-[Software used for 3D-Modeling](3d-modeling-software.md) has multiple different types depending on the intended use of the 3D Model. Architects would use software that specializes in larger objects, photorealistic renderings and precise real world dimensions such as Sketch Up or . A machinist or industrial designer would use more traditional CAD (Computer Aided Design) software such as [Fusion 360](./fusion-360/fusion-360.md) that features precision, [Parametric-Modeling](parametric-modeling.md), and structural simulations. Fusion 360 and SketchUp can create basic animations, but animators may prefer software with robust animation timelines and tools that aid in character rigging and animation special effects, such as [Blender](./blender/blender.md) or [Maya](./maya/maya.md)
+[Software used for 3D-Modeling](3d-modeling-software.md) has multiple different types depending on the intended use of the 3D Model. Architects would use software that specializes in larger objects, photorealistic renderings and precise real world dimensions such as AutoCAD or SketchUp. A machinist or industrial designer would use more traditional CAD (Computer Aided Design) software such as [Fusion 360](./fusion-360/fusion-360.md) that features precision, [Parametric-Modeling](parametric-modeling.md), and structural simulations. Animators may prefer software with robust animation timelines and tools that aid in character rigging and animation special effects, such as [Blender](./blender/blender.md) or [Maya](./maya/maya.md). Visual effects artists may use Houdini or Cinema 4D.
 
 ## Types of 3D Models
 
@@ -24,7 +24,7 @@ Digital 3D modeling uses software tools to create virtual representations of obj
 
 The same looking object could be modeled with solid modeling techniques or shell modeling techniques. The solid object would be ready for digital fabrication such as 3D printing. For a shell object to be usable for 3D printing is must be "watertight" or manifold. This means that all parts of the shell of the object need to be aligned with no gaps. Otherwise the shell is just a conceptual, piece of digital wrapping paper that might look really cool in a digital render but won't work for a 3D print.
 
-Non-uniform rational basis spline (NURBS) use basis splines (B-splines) to describe curves and surfaces with math and control points. This is similar but different to creating vector art with Bezier Curves in a vector drawing program like Adobe Illustrator or Inkscape. U
+Non-uniform rational basis spline (NURBS) use basis splines (B-splines) to describe curves and surfaces with math and control points. This is similar but different to creating vector art with Bezier Curves in a vector drawing program like Adobe Illustrator or Inkscape.
 
 ### Approaching 3D Modeling
 
@@ -44,7 +44,8 @@ Digital 3D models are great for visualization, ideation, experimenting with form
 
 AI and the metaverse needs 3D Models. This article, _[The Pathway to the Metaverse Begins With 3D Modeling](https://www.entrepreneur.com/article/425643)_, in _The Entrepreneur_ examines the upcoming metaverse and how 3D modeled assets will be essential for the metaverse to work. 3D modelers will need to create the 3D digital objects for now, but soon [AI-Artificial-Intelligence](../coding/ai-artificial-intelligence.md) will likely play a bigger role in the automatic creation of 3D digital objects. Currently AI is able to produce realistic 2D images and make crude 3D models from photographs. This capability will exponentially grow in the future.
 
-In 2022 Google demonstrated DreamFusion that created 3D models from text prompts. OpenAI also demonstrated
+In 2022 Google demonstrated DreamFusion that created 3D models from text prompts. OpenAI also demonstrated Shape-E in 2023.
+[VFusion3D](https://junlinhan.github.io/projects/vfusion3d.html), released in July 2024 can generate 3D meshes from images in seconds.
 
 <div class="video-grid">
 
