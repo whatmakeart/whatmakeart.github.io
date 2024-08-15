@@ -1,7 +1,7 @@
 ---
 title: Rendering Basics - Maya
 date: 2023-06-14T13:49:46
-lastmod: 2024-02-22T06:45:54
+lastmod: 2024-08-15T07:35:12
 ---
 
 ## Maya Rendering
@@ -17,6 +17,16 @@ Often the power of lights needs to be turned up tremendously to be able light th
 - [Maya Basic Render](https://youtu.be/9RHh4OSPKQQ)
 - [Maya Infinite Photo Backdrop](https://youtu.be/y2ylWfbrC58)
 - [3 Point Lighting](https://youtu.be/1nYSVw6-GxA)
+
+## Render Tips
+
+- Set Camera AA and all indirect options to 1 for quick preview renders in Arnold
+- Avoid the temptation to simply increase the Camera AA to reduce noise this this can oversample and needlessly increase render times
+- Try increasing the samples on individual lights to help with reducing noise in shadows before increasing Camera AA, often 2 samples per light is a good place to start
+- Use the smaller render preview window when testing increased render settings so you don't need to render the entire image to see results
+- Avoid mesh lights if possible since they produce more noise than Arnold Area lights
+
+- If using an HDRI environment image, use as low of resolution as possible
 
 <div class="video-grid">
 

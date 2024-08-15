@@ -9,7 +9,7 @@
 {{ $bootstrapDocsCSS := resources.Get "css/bootstrap-docs.css" }}
 {{ $stylesCSS := resources.Get "css/styles.css" }}
 {{ $gutenbergCSS := resources.Get "css/gutenberg.css" | minify }}
-{{ $styles := slice $bootstrapCSS $stylesCSS | resources.Concat "css/main.css" }}
+{{ $styles := slice $bootstrapDocsCSS $bootstrapCSS $stylesCSS | resources.Concat "css/main.css" }}
 
 {{ $styles = $styles | resources.ToCSS $options }}
 {{ if hugo.IsProduction }}
