@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2024-08-11T06:59:47
+lastmod: 2024-08-11T08:03:45
 ---
 
 What is a model? What is a 3D model? What is the difference between an analog and a digital 3D model? How does 2D [technical sketching](../drawing/technical-sketching.md) relate to 3D modeling?
@@ -24,7 +24,7 @@ Digital 3D modeling uses software tools to create virtual representations of obj
 
 The same looking object could be modeled with solid modeling techniques or shell modeling techniques. The solid object would be ready for digital fabrication such as 3D printing. For a shell object to be usable for 3D printing is must be "watertight" or manifold. This means that all parts of the shell of the object need to be aligned with no gaps. Otherwise the shell is just a conceptual, piece of digital wrapping paper that might look really cool in a digital render but won't work for a 3D print.
 
-Non-uniform rational basis spline (NURBS) use basis splines (B-splines) to describe curves and surfaces with math and control points. This is similar but different to creating vector art with Bezier Curves in a vector drawing program like Adobe Illustrator or Inkscape.
+Non-uniform Rational Basis Spline (NURBS) use basis splines (B-splines) to describe curves and surfaces with math and control points. This is similar but different to creating vector art with Bezier Curves in a vector drawing program like Adobe Illustrator or Inkscape.
 
 ### Approaching 3D Modeling
 
@@ -38,7 +38,7 @@ Do tests and then evaluate and then do again.
 
 ### Physical Output from Digital 3D Models
 
-Digital 3D models are great for visualization, ideation, experimenting with forms, simulation, VR, AR, video games, animation, and for archiving but are still not physical objects. [Laser Cutting](../digital-fabrication/laser-cutting/laser-cutting.md), [CNC](../digital-fabrication/cnc/cnc-basics.md) machining, [3D Printing](../digital-fabrication/3d-printing/3d-printing.md), vinyl cutting, and water jet cutting are fabrication processes that create physical outputs and objects from digital 3D models.
+Digital 3D models are great for visualization, ideation, experimenting with forms, simulation, VR, AR, video games, animation, and for archiving but are still not physical objects. [Laser Cutting](../digital-fabrication/laser-cutting/laser-cutting.md), [CNC](../digital-fabrication/cnc/cnc-basics.md) machining, [3D Printing](../digital-fabrication/3d-printing/3d-printing.md), vinyl cutting, and water jet cutting are [digital fabrication](../digital-fabrication/digital-fabrication.md) processes that create physical outputs and objects from digital 3D models.
 
 ## AI
 
@@ -50,9 +50,9 @@ In 2022 Google demonstrated DreamFusion that created 3D models from text prompts
 <div class="video-grid">
 
 <figure>
-<a href="./attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4">
+<a href="../attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4">
 <video width="100%" height="auto" autoplay loop>
-  <source src="./attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4" type="video/mp4">
+  <source src="../attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4" type="video/mp4">
  
 Your browser does not support the video tag.
 </video>
@@ -65,9 +65,9 @@ Google's DreamFusion in 2022 [^dreamfusion]
 </figure>
 
 <figure>
-<a href="./attachments/2023-05-03-openai-shape-e-demo-models.mp4">
+<a href="../attachments/2023-05-03-openai-shape-e-demo-models.mp4">
 <video width="100%" height="auto" autoplay loop>
-  <source src="./attachments/2023-05-03-openai-shape-e-demo-models.mp4" type="video/mp4">
+  <source src="../attachments/2023-05-03-openai-shape-e-demo-models.mp4" type="video/mp4">
  
 Your browser does not support the video tag.
 </video>
