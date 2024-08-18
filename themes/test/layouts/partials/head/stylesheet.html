@@ -6,17 +6,16 @@
 
 {{ $bootstrapCSS := resources.Get "scss/styles.scss" }}
 {{ $bootstrapCSS = $bootstrapCSS | resources.ToCSS $options }}
-{{ $bootstrapDocsCSS := resources.Get "css/bootstrap-docs.css" }}
 {{ $stylesCSS := resources.Get "css/styles.css" }}
 {{ $gutenbergCSS := resources.Get "css/gutenberg.css" | minify }}
-{{ $styles := slice $bootstrapCSS $bootstrapDocsCSS $stylesCSS | resources.Concat "css/main.css" }}
+{{ $styles := slice $bootstrapCSS $stylesCSS | resources.Concat "css/main.css" }}
 
-{{ $styles = $styles | resources.ToCSS $options }}
+{{ $styles = $styles | resources.ToCSS $options | minify }}
 {{ if hugo.IsProduction }}
   {{ $styles = $styles | fingerprint }}
 {{ end }}
 
 
 <link href="{{ $styles.RelPermalink }}" rel="stylesheet" media="screen" />
-<link href="{{ $gutenbergCSS.RelPermalink }}" rel="stylesheet" media="print" />
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<link href="{{ $gutenbergCSS.RelPermalink }}" rel="stylesheet" media="print" />
