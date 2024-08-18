@@ -1,14 +1,14 @@
 ---
 title: 00.00 Sewing and Fabrication Syllabus
 date: 2024-07-18T10:18:39
-lastmod: 2024-08-08T18:08:48
+lastmod: 2024-08-18T11:30:04
 ---
 
 ## Sewing and Fabrication Syllabus
 
 ### Course Information
 
-Course Number: 268
+Course Number: SEM 268
 
 Department: Sculpture + Expanded Media
 

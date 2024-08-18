@@ -1,20 +1,20 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2024-08-21T12:00:00
-lastmod: 2024-08-08T17:42:18
+lastmod: 2024-08-18T11:29:34
 ---
 
 ## Modeling and Expanded Making Syllabus
 
 ### Course Information
 
-Course Number: 317
+Course Number: SEM 317
 
 Department: Sculpture + Expanded Media
 
 Room: 212H & 223F Cleveland Institute of Art
 
-Time: Wednesdays 12:00 pm - 5:00 pm
+Time: Wednesdays 9:00 am - 11:00 am + 12:00 pm - 2:30 pm
 
 Faculty: Jimmy Kuehnle - jkuehnle@cia.edu
 

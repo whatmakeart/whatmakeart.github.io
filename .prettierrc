@@ -1,4 +1,6 @@
 {
+  "htmlWhitespaceSensitivity": "ignore",
+  "plugins": ["prettier-plugin-go-template"],
   "overrides": [
     {
       "files": ["*.html"],

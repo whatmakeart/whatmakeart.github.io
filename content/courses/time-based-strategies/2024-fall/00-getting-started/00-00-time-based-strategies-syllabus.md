@@ -1,14 +1,14 @@
 ---
 title: 00.00 Time Based Strategies Syllabus
 date: 2024-08-27T12:00:00
-lastmod: 2024-08-08T17:46:05
+lastmod: 2024-08-18T11:29:44
 ---
 
 ## Time Based Strategies Syllabus
 
 ### Course Information
 
-Course Number: 236
+Course Number: SEM 236
 
 Department: Sculpture + Expanded Media
 

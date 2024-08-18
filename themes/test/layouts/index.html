@@ -14,18 +14,20 @@
       </div>
     </aside>
 
-    <main >
+    <main>
       <div class="bd-intro pt-2 ps-lg-2">
         <div class="d-md-flex flex-md-row-reverse align-items-center justify-content-between">
- 
-<script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
-<div id="search"></div>
-<script>
-  window.addEventListener("DOMContentLoaded", (event) => {
-    new PagefindUI({ element: "#search", showSubResults: true });
-  });
-</script>
+          <div class="mb-3 mb-md-0 d-flex text-nowrap">
+           <script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
 
+            <div id="search"></div>
+            <script>
+              window.addEventListener("DOMContentLoaded", (event) => {
+                new PagefindUI({ element: "#search", showSubResults: true });
+              });
+            </script>
+
+          </div>
           <h1 class="bd-title mb-0" id="content">{{ .Title | markdownify }}</h1>
         </div>
         <p class="bd-lead">{{ .Page.Params.Description | markdownify }}</p>
