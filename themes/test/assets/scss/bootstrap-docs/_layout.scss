@@ -6,7 +6,7 @@
   @include media-breakpoint-up(lg) {
     display: grid;
     grid-template-areas: "sidebar main";
-    grid-template-columns: 1fr 5fr;
+    grid-template-columns: 2fr 6fr;
     gap: $grid-gutter-width;
   }
 }
@@ -30,7 +30,7 @@
       "toc"
       "content";
     grid-template-rows: auto auto 1fr;
-    gap: inherit;
+    gap: 0.5rem;
   }
 
   @include media-breakpoint-up(lg) {
@@ -38,7 +38,7 @@
       "intro   toc"
       "content toc";
     grid-template-rows: auto 1fr;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 6fr 2fr;
   }
 }
 

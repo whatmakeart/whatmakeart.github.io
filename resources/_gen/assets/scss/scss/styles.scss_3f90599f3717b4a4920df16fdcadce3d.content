@@ -9778,13 +9778,13 @@ textarea.form-control-lg {
     color: rgba(0, 0, 0, 0.85); }
 
 .bd-gutter {
-  --bs-gutter-x: 3rem; }
+  --bs-gutter-x: 1rem; }
 
 @media (min-width: 992px) {
   .bd-layout {
     display: grid;
     grid-template-areas: "sidebar main";
-    grid-template-columns: 1fr 5fr;
+    grid-template-columns: 2fr 6fr;
     gap: 1.5rem; } }
 
 .bd-sidebar {
@@ -9801,12 +9801,12 @@ textarea.form-control-lg {
       display: grid;
       grid-template-areas: "intro" "toc" "content";
       grid-template-rows: auto auto 1fr;
-      gap: inherit; } }
+      gap: 0.5rem; } }
   @media (min-width: 992px) {
     .bd-main {
       grid-template-areas: "intro   toc" "content toc";
       grid-template-rows: auto 1fr;
-      grid-template-columns: 4fr 1fr; } }
+      grid-template-columns: 6fr 2fr; } }
 .bd-intro {
   grid-area: intro; }
 

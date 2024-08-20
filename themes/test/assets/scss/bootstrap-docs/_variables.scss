@@ -10,7 +10,7 @@ $bd-purple-light: lighten(
 ); // stylelint-disable-line function-disallowed-list
 $bd-accent: #ffe484;
 
-$bd-gutter-x: 3rem;
+$bd-gutter-x: 1rem; // changed from 3rem default
 $bd-callout-variants: info, warning, danger !default;
 
 :root,

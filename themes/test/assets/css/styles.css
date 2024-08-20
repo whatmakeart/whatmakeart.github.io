@@ -528,6 +528,8 @@ path.MastodonM {
 
 /* End SVG Icons styles*/
 
+/* mobile first Bootstrap container-xxl padding overide */
+
 /* For over text width size */
 
 @media only screen and (min-width: 700px) {
