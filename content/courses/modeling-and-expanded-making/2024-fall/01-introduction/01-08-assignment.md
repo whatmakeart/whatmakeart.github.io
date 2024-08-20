@@ -1,7 +1,8 @@
 ---
 title: 01.00 Modeling and Sculptural Exploration Assignment
 date: 2024-08-21T12:00:00
-lastmod: 2024-08-20T06:31:57
+lastmod: 2024-08-20T13:57:33
+draft: true
 ---
 
 ## Assignment Deliverables
