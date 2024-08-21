@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-21T07:00:37
+lastmod: 2024-08-21T07:04:24
 ---
 
 ## Modeling Guides
@@ -12,7 +12,7 @@ lastmod: 2024-08-21T07:00:37
 
 ## AI Mesh Generation
 
-- [VFusion3D Demo on Hugging Face](https://huggingface.co/spaces/facebook/VFusion3D)
+- [VFusion3D Demo on Hugging Face](https://huggingface.co/spaces/facebook/VFusion3D) - Makes good videos but the meshes are blocky
 - [VFusion3D Demo on Google Colab](https://github.com/whatmakeart/VFusion3D-colab) - Requires access to Google Drive
 - [StableVision123 Demo on Hugging Face](https://huggingface.co/spaces/p4vv37/Stable-Zero123)
 - [Luma Labs Genie](https://lumalabs.ai/genie?view=create) - Requires sign in
@@ -20,3 +20,7 @@ lastmod: 2024-08-21T07:00:37
 - [Meshy AI](https://www.meshy.ai/) - Requires sign in
 - [Spline AI Generate](https://spline.design/ai-generate) - Requires Sign in
 - [MasterpieceX](https://www.masterpiecex.com/) - Requires Sign in
+
+## AI Texture Generation
+
+- [Blender Stable Diffusion Render](https://github.com/neph1/blender-stable-diffusion-render) - "A Blender addon for using Stable Diffusion to render texture bakes for objects."
