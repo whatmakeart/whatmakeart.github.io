@@ -1,7 +1,7 @@
 ---
 title: 01.03 AI Mesh Generation Exercise
-date: 2024-08-21T12:00:00
-lastmod: 2024-08-21T06:39:27
+date: 2024-08-21T09:00:00
+lastmod: 2024-08-21T07:00:37
 toc: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 01.00 Modeling and Sculptural Exploration Assignment
-date: 2024-08-21T12:00:00
-lastmod: 2024-08-20T13:57:33
+title: 01.06 Modeling and Sculptural Ideation Assignment
+date: 2024-08-21T09:00:00
+lastmod: 2024-08-21T07:00:37
 draft: true
 ---
 

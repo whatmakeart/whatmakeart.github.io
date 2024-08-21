@@ -1,7 +1,7 @@
 ---
 title: 01.02 Digital Fabrication Introduction
-date: 2024-08-21T12:00:00
-lastmod: 2024-08-20T19:54:56
+date: 2024-08-21T09:00:00
+lastmod: 2024-08-21T07:00:37
 toc: true
 ---
 

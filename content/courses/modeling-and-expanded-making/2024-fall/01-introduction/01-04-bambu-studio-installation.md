@@ -1,7 +1,7 @@
 ---
 title: 01.04 Bambu Studio Installation
-date: 2024-08-20T18:11:35
-lastmod: 2024-08-21T04:58:44
+date: 2024-08-21T09:00:00
+lastmod: 2024-08-21T07:00:37
 ---
 
 [![Bambu Labs Website](./2024-bambu-labs-website-screenshot.jpg)](https://bambulab.com/en-us/download/studio)

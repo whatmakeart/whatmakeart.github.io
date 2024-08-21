@@ -1,7 +1,7 @@
 ---
 title: 01.05 3D Printing Exercise
-date: 2024-08-20T18:11:35
-lastmod: 2024-08-21T06:45:57
+date: 2024-08-21T09:00:00
+lastmod: 2024-08-21T07:00:37
 ---
 
 ## Option 1: Clean Up Generated Mesh for 3D Printing

@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
-date: 2024-08-21T12:00:00
-lastmod: 2024-08-18T11:29:34
+date: 2024-08-21T09:00:00
+lastmod: 2024-08-21T07:00:37
 ---
 
 ## Modeling and Expanded Making Syllabus
@@ -81,7 +81,7 @@ Projects must be turned in on time. On time is before the beginning of class on 
 | **Week** | **Date**     | **Topic**                                                 |
 | -------- | ------------ | --------------------------------------------------------- |
 | 1        | August 21    | Introduction to 3D Modeling Tools and Digital Fabrication |
-| 2        | August 28    | Fundamentals of 3D Design Sketching and Basic Modeling    |
+| 2        | August 28    | 3D Sketching and Basic Modeling                           |
 | 3        | September 4  | 3D Printing Techniques and Applications                   |
 | 4        | September 11 | Laser Cutting Techniques                                  |
 | 5        | September 18 | CNC Machining with ShopBot                                |

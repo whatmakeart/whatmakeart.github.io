@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
-date: 2024-08-21T12:00:00
-lastmod: 2024-08-21T06:46:16
+date: 2024-08-21T09:00:00
+lastmod: 2024-08-21T07:00:37
 ---
 
 ## Modeling Guides
