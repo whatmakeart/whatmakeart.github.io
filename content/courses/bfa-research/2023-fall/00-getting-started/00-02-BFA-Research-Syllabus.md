@@ -1,7 +1,7 @@
 ---
 title: 00.02 BFA Research Syllabus
 date: 2023-08-28T12:00:00
-lastmod: 2024-01-17T04:07:05
+lastmod: 2024-08-20T14:02:42
 ---
 
 ## BFA Research
@@ -22,17 +22,7 @@ Semester: Fall 2023
 
 ## Course Description
 
-As an extension of the Visual Arts and Technology Environment’s goal that students develop the
-ability to generate self-directed work, the Department of Sculpture seeks to provide each
-student with the opportunity to develop the skills and knowledge to identify and sustain an
-independent practice. This course is designed to increase student awareness of the current art
-discourse and the ability to use that knowledge as a means of awareness within the production
-of their own work. This educational process embraces a variety of approaches to basic problem
-solving skills measured against the contemporary practices of the discipline. In cooperation with
-a major-day faculty, students are expected to develop what is often their first significant
-independent work. For BFA students the focus of this course centers on artistic production,
-conditions of conveyance and Presentation. Required at the senior level for all sculpture majors
-for BFA development.
+This course is designed to increase student awareness of the current art discourse and the ability to use that knowledge as a means of awareness within the production of their own work. This educational process embraces a variety of approaches to basic problem-solving skills measured against the contemporary practices of the discipline. The students are expected to develop what is often their first significant independent work. Intermediate methods of ideation and research relevant to a professional visual art practice are employed throughout the course. The focus of this course centers on artistic production, conditions of conveyance and presentation. The course culminates in the fall BFA Midyear critique. Required at the senior level for all sculpture majors for BFA thesis work development.
 
 ## Course Goals and Learning Objectives
 
