@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-21T12:00:00
-lastmod: 2024-08-20T19:56:48
+lastmod: 2024-08-21T06:46:16
 ---
 
 ## Modeling Guides
@@ -13,6 +13,10 @@ lastmod: 2024-08-20T19:56:48
 ## AI Mesh Generation
 
 - [VFusion3D Demo on Hugging Face](https://huggingface.co/spaces/facebook/VFusion3D)
-- [Meshy AI](https://www.meshy.ai/)
-- [Spline AI Generate](https://spline.design/ai-generate)
-- [MasterpieceX](https://www.masterpiecex.com/)
+- [VFusion3D Demo on Google Colab](https://github.com/whatmakeart/VFusion3D-colab) - Requires access to Google Drive
+- [StableVision123 Demo on Hugging Face](https://huggingface.co/spaces/p4vv37/Stable-Zero123)
+- [Luma Labs Genie](https://lumalabs.ai/genie?view=create) - Requires sign in
+- [Rodin](https://hyperhuman.deemos.com/rodin) - Requires sign in
+- [Meshy AI](https://www.meshy.ai/) - Requires sign in
+- [Spline AI Generate](https://spline.design/ai-generate) - Requires Sign in
+- [MasterpieceX](https://www.masterpiecex.com/) - Requires Sign in
