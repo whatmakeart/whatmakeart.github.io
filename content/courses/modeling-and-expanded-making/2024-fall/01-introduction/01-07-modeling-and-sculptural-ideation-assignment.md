@@ -1,7 +1,7 @@
 ---
-title: 01.06 Modeling and Sculptural Ideation Assignment
+title: 01.07 Modeling and Sculptural Ideation Assignment
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-21T08:04:05
+lastmod: 2024-08-21T16:05:19
 ---
 
 ## Assignment Deliverables
