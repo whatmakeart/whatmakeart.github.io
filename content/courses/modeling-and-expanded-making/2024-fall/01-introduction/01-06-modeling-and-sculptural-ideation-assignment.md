@@ -1,7 +1,7 @@
 ---
 title: 01.06 Modeling and Sculptural Ideation Assignment
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-21T07:19:50
+lastmod: 2024-08-21T08:04:05
 ---
 
 ## Assignment Deliverables
@@ -34,7 +34,32 @@ This assignment challenges students to explore the creative possibilities of rep
 
 ## Grading Rubric
 
-- Accuracy and detail of the 3D model.
-- Creativity and variety in the explored arrangements.
-- Quality of renderings and effective use of the 3D software tools.
-- Depth of reflection and understanding of design principles.
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Objective                                           | Points |
+| --------------------------------------------------- | ------ |
+| Accuracy and detail of the 3D model object          | 20     |
+| Creativity and variety in the explored arrangements | 20     |
+| Minimum 5 arrangements                              | 20     |
+| Render Image 1 Uploaded                             | 20     |
+| Render Image 2 Uploaded                             | 20     |
+| 3D Model File Uploaded                              | 10     |
+| File Management                                     | 10     |
+
+</div>
+
+## Assignment Resources
+
+### 3D Modeling Resources
+
+- [Fusion 360 FAQ](../../../../3d-modeling/fusion-360/fusion-360-faq.md)
+- [Blender Modeling Basics](../../../../3d-modeling/blender/3d-modeling-basics-blender.md)
+- [Blender Rendering Basics](../../../../3d-modeling/blender/rendering-basics-blender.md)
+
+### Rendering Resources
+
+- [Maya Rendering Basics](../../../../3d-modeling/maya/rendering-basics-maya.md)
+- [Blender Rendering Basics](../../../../3d-modeling/blender/rendering-basics-blender.md)
+- [Fusion 360 Rendering Basics](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
