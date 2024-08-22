@@ -1,12 +1,12 @@
 ---
 title: 01.06 Modeling and Sculptural Ideation Assignment
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-21T16:05:12
+lastmod: 2024-08-21T16:08:05
 ---
 
 ## Assignment Deliverables
 
-1. Export an STL or OBJ of your cleaned up mesh from the in class mesh generation exercise.
+1. Export an STL or OBJ or STEP of your cleaned up mesh from the in class mesh generation exercise.
    - Label the file 20240821 Lastname Firstname name of mesh.stl
 
 If exporting an STL or OBJ from Blender, make sure to subdivide the mesh multiple times so there is enough geometry to make it smooth. Select shade flat in object mode to see how the mesh looks.

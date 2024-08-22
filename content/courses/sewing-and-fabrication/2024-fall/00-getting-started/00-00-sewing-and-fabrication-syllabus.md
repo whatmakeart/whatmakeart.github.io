@@ -1,7 +1,7 @@
 ---
 title: 00.00 Sewing and Fabrication Syllabus
 date: 2024-07-18T10:18:39
-lastmod: 2024-08-18T11:30:04
+lastmod: 2024-08-22T05:34:06
 ---
 
 ## Sewing and Fabrication Syllabus
@@ -101,6 +101,8 @@ Students can expect to spend between $50 - $200 for materials in the course depe
 - Pencils
 - Fabric and other materials for projects
 - Additional materials / tools as needed for projects such as commercial patterns, tape, paper, and general making supplies.
+- materials for projects
+- Estimated cost of project materials is $0 - $150
 
 #### Required Supplies Provided by SEM
 

@@ -1,7 +1,7 @@
 ---
 title: Photoshop
 date: 2023-05-23T21:59:41
-lastmod: 2024-01-17T04:08:30
+lastmod: 2024-08-22T05:41:45
 tags:
   - stub
 ---
@@ -13,6 +13,8 @@ Photoshop uses layers that stack on top of each other. Different adjustments can
 So much I spent sand filters can be made into smart filters that are non-destructive, meaning that they can continue to be edited without losing any image quality. You can't go back.
 
 ## Pixels vs Vectors
+
+Pixels are resolution dependent while vectors have infinite "resolution" since the visual output is derived from mathematical equations.
 
 ## Layers
 

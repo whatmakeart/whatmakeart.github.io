@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-21T07:00:37
+lastmod: 2024-08-22T05:33:32
 ---
 
 ## Modeling and Expanded Making Syllabus
@@ -121,6 +121,8 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 - Laptop
 - sketching materials
+- materials for projects
+- Estimated cost of project materials is $0 - $100
 
 ### Recommended Materials
 

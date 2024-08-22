@@ -1,7 +1,7 @@
 ---
 title: 00.00 Time Based Strategies Syllabus
 date: 2024-08-27T12:00:00
-lastmod: 2024-08-18T11:29:44
+lastmod: 2024-08-22T05:34:31
 ---
 
 ## Time Based Strategies Syllabus
@@ -136,6 +136,8 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 - Laptop
 - sketching materials
+- materials for projects
+- Estimated cost of project materials is $0 - $100
 
 ### Recommended Materials
 

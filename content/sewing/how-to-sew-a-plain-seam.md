@@ -1,7 +1,7 @@
 ---
 title: How to Sew a Plain Seam
 date: 2023-05-23T21:59:40
-lastmod: 2024-07-21T06:38:51
+lastmod: 2024-08-22T06:10:32
 ---
 
 This tutorial video will show you how to sew a basic plain seam with a sewing machine. This is a fundamental [sewing](./sewing.md) skill that you will use for many different projects.
@@ -46,7 +46,11 @@ A plain seam is a simple seam that is sewn right sides together. It is the most 
 - To finish a plain seam, you can zigzag stitch over the raw edges of the fabric. This can help prevent the fabric from fraying.
 - To create a French seam, sew a plain seam inside out, then trim the seam allowance and turn the seam right side out. Sew another plain seam on the right side of the fabric. This creates a finished seam that is enclosed on both sides.
 
+<details><summary>
+
 ## How to Sew a Plain Seam Video Transcript
+
+</summary>
 
 This tutorial video will show you how to sew a basic plain seam with a sewing machine. We're going to look at this fabric and notice that it has a right side and a wrong side. The right side is the more colorful side.
 
@@ -55,6 +59,8 @@ To get started with this plain seam we're going to put the right sides of the fa
 Then make sure the needle is all the way up and then we can raise the presser foot and pull the fabric away trimming the threads close. We need to press this open so it will lay flat. As you can see here we can see the right sides of the fabric in the middle this seam is unfinished but it still looks really nice from the other side. Now that we're at the ironing board we can open up this seam and press it open you can press it to the side if you want but usually it's pressed open like this. Grab your iron and then press it down applying heat and pressure as needed. This helps to remove bulk and have the fabric lay flat.
 
 Now remember this seam has unfinished edges so it can unravel but it still looks really nice from this side. There are other ways that you can finish seams but this would work if there's a lining on the garment or you're using fabric that doesn't fray too much so it's a nice simple and quick seam to put things together happy sewing.
+
+</details>
 
 ## Further Reading
 
