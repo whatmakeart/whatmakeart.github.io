@@ -109,9 +109,9 @@ To complete this tutorial you should be familiar with basic [Sewing](../Sewing/S
 ## Further Reading
 
 - [How to Select Needle and Thread Size](./how-to-select-needle-and-thread-size.md)
-- [How-to-Thread-a-Home-Sewing-Machine](./How-to-Thread-a-Home-Sewing-Machine.md)
+- [How to Thread a Home Sewing Machine](./How-to-Thread-a-Home-Sewing-Machine.md)
 - [How to thread a Serger](./how-to-thread-a-serger.md)
 
 ### External Links
 
-[Juki Corporate Site](https://juki.com/)
+- [Juki Corporate Site](https://juki.com/)
