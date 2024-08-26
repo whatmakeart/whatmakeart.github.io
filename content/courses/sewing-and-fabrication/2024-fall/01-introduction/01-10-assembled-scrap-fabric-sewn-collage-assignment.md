@@ -1,7 +1,7 @@
 ---
 title: 01.10 Assembled Scrap Fabric Sewn Collage Assignment
 date: 2024-08-26T09:00:00
-lastmod: 2024-08-26T11:29:36
+lastmod: 2024-08-26T11:57:17
 ---
 
 ## Assignment Deliverables
@@ -22,6 +22,49 @@ lastmod: 2024-08-26T11:29:36
 4. Reference the work of Tommy Nguyen who recent exhibit, [Tommy Nguyen: _may the PLUSH be with you_](https://sculpturecenter.org/tommy-nguyen/), featuring soft sculptural works at the [Sculpture Center](https://sculpturecenter.org/) in Cleveland, Ohio.
 
 ## Artist Reference
+
+### Tommy Nguyen: _may the PLUSH be with you_
+
+<div class="gallery-grid">
+
+<figure>
+
+[![Tommy Nguyen may the PLUSH be with you](./2024-08-23_Tommy_Nyguen_Sculpture-Center-1.jpg)](./2024-08-23_Tommy_Nyguen_Sculpture-Center-1.jpg)
+
+<figcaption>
+
+[Tommy Nguyen: _may the PLUSH be with you_](https://sculpturecenter.org/tommy-nguyen/) installation at the [Sculpture Center](https://sculpturecenter.org/) in Cleveland, Ohio.
+
+ </figcaption></figure>
+<figure>
+
+[![Tommy Nguyen may the PLUSH be with you](./2024-08-23_Tommy_Nyguen_Sculpture-Center-2.jpg)](./2024-08-23_Tommy_Nyguen_Sculpture-Center-2.jpg)
+
+<figcaption>
+
+[Tommy Nguyen: _may the PLUSH be with you_](https://sculpturecenter.org/tommy-nguyen/) installation at the [Sculpture Center](https://sculpturecenter.org/) in Cleveland, Ohio.
+
+ </figcaption></figure>
+ <figure>
+
+[![Tommy Nguyen may the PLUSH be with you](./2024-08-23_Tommy_Nyguen_Sculpture-Center-3.jpg)](./2024-08-23_Tommy_Nyguen_Sculpture-Center-3.jpg)
+
+<figcaption>
+
+[Tommy Nguyen: _may the PLUSH be with you_](https://sculpturecenter.org/tommy-nguyen/) installation at the [Sculpture Center](https://sculpturecenter.org/) in Cleveland, Ohio.
+
+ </figcaption></figure>
+
+ <figure>
+
+[![Tommy Nguyen may the PLUSH be with you](./2024-08-23_Tommy_Nyguen_Sculpture-Center-4.jpg)](./2024-08-23_Tommy_Nyguen_Sculpture-Center-4.jpg)
+
+<figcaption>
+
+[Tommy Nguyen: _may the PLUSH be with you_](https://sculpturecenter.org/tommy-nguyen/) installation at the [Sculpture Center](https://sculpturecenter.org/) in Cleveland, Ohio.
+
+ </figcaption></figure>
+</div>
 
 - [Tommy Nguyen: _may the PLUSH be with you_](https://sculpturecenter.org/tommy-nguyen/)
 - [Tommy Nguyen Website](https://tommynguyen.info/)
