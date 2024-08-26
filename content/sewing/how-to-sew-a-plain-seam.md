@@ -1,8 +1,14 @@
 ---
 title: How to Sew a Plain Seam
 date: 2023-05-23T21:59:40
-lastmod: 2024-08-22T06:10:32
+lastmod: 2024-08-26T06:44:29
 ---
+
+<div class="video-grid">
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/-2JlXlmGihk?si=6DqgztwyFTqZ1UgS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 This tutorial video will show you how to sew a basic plain seam with a sewing machine. This is a fundamental [sewing](./sewing.md) skill that you will use for many different projects.
 
@@ -15,12 +21,6 @@ This tutorial video will show you how to sew a basic plain seam with a sewing ma
 - Iron (optional)
 
 ## Instructions
-
-<div class="video-grid">
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/-2JlXlmGihk?si=6DqgztwyFTqZ1UgS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
 
 ### What is a Plain Seam?
 
