@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-07-18T10:18:39
-lastmod: 2024-08-08T18:08:48
+lastmod: 2024-08-26T08:35:18
 ---
 
 ## External Sewing Links
@@ -67,3 +67,7 @@ The online retailers below also have a wide selection of fabric but you must pla
 - [The Zipper Lady](https://www.thezipperlady.com/)
 - [Jo-Ann’s Fabrics](https://www.joann.com/)
 - [UpCycle Parts Shop](https://www.upcyclepartsshop.org/)
+
+## Scissors and Sharpening Tools
+
+- [Wolff Industries](https://wolffindustries.com/)
