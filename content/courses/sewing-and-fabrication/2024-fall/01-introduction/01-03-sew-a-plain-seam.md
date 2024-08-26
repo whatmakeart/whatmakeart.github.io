@@ -1,7 +1,7 @@
 ---
-title: 01.04 Sew a Plain Seam
+title: 01.03 Sew a Plain Seam
 date: 2024-08-26T09:00:00
-lastmod: 2024-08-22T06:01:28
+lastmod: 2024-08-26T06:01:43
 toc: true
 ---
 

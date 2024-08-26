@@ -1,13 +1,13 @@
 ---
 title: 01.07 Modeling and Sculptural Ideation Assignment
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-21T16:05:19
+lastmod: 2024-08-26T05:07:32
 ---
 
 ## Assignment Deliverables
 
-1. A 3D model of the found object (submitted as a .blend, .mb, .f3d, or another appropriate format).
-   - 3D model should show multiple arrangements of the modular forms.
+1. A 3D model file of the found object (submitted as a .blend, .mb, .f3d, or another appropriate format).
+   - 3D model file should show minimum of 5 different arrangements of 10 of the modular forms
 2. Minimum of 2 renders of selected sculptural arrangements (.png or .jpg)
 
 ## Assignment Overview
@@ -34,8 +34,6 @@ This assignment challenges students to explore the creative possibilities of rep
 
 ## Grading Rubric
 
-## Grading Rubric
-
 <div class="responsive-table-markdown">
 
 | Objective                                           | Points |
@@ -56,7 +54,7 @@ This assignment challenges students to explore the creative possibilities of rep
 
 - [Fusion 360 FAQ](../../../../3d-modeling/fusion-360/fusion-360-faq.md)
 - [Blender Modeling Basics](../../../../3d-modeling/blender/3d-modeling-basics-blender.md)
-- [Blender Rendering Basics](../../../../3d-modeling/blender/rendering-basics-blender.md)
+- [Maya Modeling Basics](../../../../3d-modeling/maya/3d-modeling-basics-maya.md)
 
 ### Rendering Resources
 

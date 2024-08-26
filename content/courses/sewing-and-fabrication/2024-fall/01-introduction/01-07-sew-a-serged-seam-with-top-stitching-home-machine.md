@@ -1,7 +1,7 @@
 ---
-title: 01.08 Sew a Serged Seam with Top Stitching with Home Machine
+title: 01.07 Sew a Serged Seam with Top Stitching with Home Machine
 date: 2024-08-26T09:00:00
-lastmod: 2024-08-23T06:05:42
+lastmod: 2024-08-26T05:29:24
 ---
 
 <div class="iframe-16-9-container">

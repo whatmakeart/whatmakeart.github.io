@@ -1,7 +1,7 @@
 ---
 title: Sergers
 date: 2023-05-23T21:59:41
-lastmod: 2023-12-13T05:30:35
+lastmod: 2024-08-26T05:56:22
 ---
 
 A serger, also known as an overlocker, is a sewing machine that trims the fabric edge, sews it together, and finishes the seam in one step. Sergers are often used for finishing seams on knit fabrics, as well as for sewing garments, home décor projects, and crafts.
@@ -48,7 +48,7 @@ Once your serger is threaded and you have selected the desired stitch, you are r
 
 ## Serger Video Tutorials
 
-- [Serged Seam](https://youtu.be/i-fqSmVhRjI)
+- [Serged Seam with Home Serger](https://youtu.be/i-fqSmVhRjI)
 - [Serged Seam with Topstiching](https://youtu.be/rRuVZhBen_k)
 
 <div class="video-grid">

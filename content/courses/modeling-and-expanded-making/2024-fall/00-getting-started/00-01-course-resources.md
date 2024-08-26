@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-21T07:04:24
+lastmod: 2024-08-25T07:27:18
 ---
 
 ## Modeling Guides
@@ -9,6 +9,11 @@ lastmod: 2024-08-21T07:04:24
 - [Fusion 360 FAQ](../../../../3d-modeling/fusion-360/fusion-360-faq.md)
 - [Blender 3D Modeling Basics](../../../../3d-modeling/blender/3d-modeling-basics-blender.md)
 - [Maya 3D Modeling Basics](../../../../3d-modeling/maya/3d-modeling-basics-maya.md)
+
+## Blender
+
+- [How to Install BlenderKit](https://youtu.be/DM2eyg3dxP4)
+- [Bridge Edge Loops 90 Degree Pipe Bend](../../../../3d-modeling/blender/bridge-edge-loops-90-degree-pipe-blender.md)
 
 ## AI Mesh Generation
 

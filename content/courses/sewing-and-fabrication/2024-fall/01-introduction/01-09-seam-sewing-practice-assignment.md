@@ -1,7 +1,7 @@
 ---
-title: 01.10 Seam Sewing Practice Assignment
+title: 01.09 Seam Sewing Practice Assignment
 date: 2024-08-26T09:00:00
-lastmod: 2024-07-19T05:01:26
+lastmod: 2024-08-26T06:00:13
 ---
 
 ## Assignment Deliverables
@@ -16,6 +16,8 @@ Sew a minimum of 2 each of the following seams.
 - Busted Seam
 
 Stitch all of the seams together in a line to form a strip as pictured below. Finish the edges of the strip with the serger or a folded hem. Each seam should be 7-9 inches long. The spacing between the seams should be at least an inch.
+
+- [Tommy Nguyen](https://tommynguyen.info)
 
 ## Grading Rubric
 

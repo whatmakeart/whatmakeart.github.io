@@ -1,7 +1,7 @@
 ---
-title: 01.06 Sew a Mock Flat Felled Seam
+title: 01.05 Sew a Mock Flat Felled Seam
 date: 2024-08-26T09:00:00
-lastmod: 2024-08-23T05:19:02
+lastmod: 2024-08-26T06:01:43
 toc: true
 ---
 
