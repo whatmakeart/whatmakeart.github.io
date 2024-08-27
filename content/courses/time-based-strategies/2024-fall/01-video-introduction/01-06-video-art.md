@@ -1,7 +1,7 @@
 ---
-title: 01.05 Video Art
+title: 01.06 Video Art
 date: 2023-08-27T12:00:00Z
-lastmod: 2024-08-27T11:25:28
+lastmod: 2024-08-27T11:37:20
 ---
 
 ## Early Video Art
