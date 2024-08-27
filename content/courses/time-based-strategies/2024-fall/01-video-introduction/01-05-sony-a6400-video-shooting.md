@@ -1,7 +1,7 @@
 ---
-title: 01.06 Sony a6400 Video Shooting
+title: 01.05 Sony a6400 Video Shooting
 date: 2024-08-27T10:06:20
-lastmod: 2024-08-27T11:24:58
+lastmod: 2024-08-27T11:31:06
 ---
 
 The Sony a6400 shoots video in 4k or HD and can save the video files in a variety of frame rates and bit-rates based on the selected video resolution. 4k video is limited to 24 frames per second (fps) or 30 fps, while HD video also has options for 60 fps and up to 120 fps.
