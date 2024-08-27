@@ -1,8 +1,13 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-27T12:00:00
-lastmod: 2024-08-27T12:42:01
+lastmod: 2024-08-27T15:40:44
 ---
+
+## Sound Effects
+
+- [Adobe Free Sound Effects](https://www.adobe.com/products/audition/offers/adobeauditiondlcsfx.html)
+- [Kevin McLeod's Music](https://incompetech.com/music/royalty-free/music.html) Remember to [credit](https://incompetech.com/music/royalty-free/faq.html) Kevin's music exactly as he requests.
 
 ## CIA Equipment Checkout
 
