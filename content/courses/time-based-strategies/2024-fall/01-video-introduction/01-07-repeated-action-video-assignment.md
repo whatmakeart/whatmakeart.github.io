@@ -1,7 +1,7 @@
 ---
-title: 01.05 Repeated Action Video Assignment
+title: 01.07 Repeated Action Video Assignment
 date: 2023-08-27T12:00:00Z
-lastmod: 2024-08-27T08:46:39
+lastmod: 2024-08-27T10:20:37
 ---
 
 ## Assignment Deliverables
@@ -74,7 +74,7 @@ Bring your laptop or computer with your Premiere project file and video footage 
 ### Import Video
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/kpsxbwX0Mps?si=LdrkKHze3b6bf5kB?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/kpsxbwX0Mpsrel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -83,7 +83,7 @@ Bring your laptop or computer with your Premiere project file and video footage 
 ### Change Workspace Premiere
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NL-oEPsBn6E?si=TIZiExoy-WBXB3zv?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NL-oEPsBn6E?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -92,7 +92,7 @@ Bring your laptop or computer with your Premiere project file and video footage 
 ### Add Keyframes Premiere
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B6MPRzztqjY?si=PILubU2awQSD-76_?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B6MPRzztqjY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
