@@ -1,7 +1,7 @@
 ---
 title: 01.08 Repeated Action Video Assignment
 date: 2023-08-27T12:00:00Z
-lastmod: 2024-08-27T13:38:11
+lastmod: 2024-08-27T16:56:54
 ---
 
 ## Assignment Deliverables
@@ -84,6 +84,13 @@ Bring your laptop or computer with a folder containing your Premiere project fil
 | File Management and Labeling    | 10 points |
 
 </div>
+
+## Assignment FAQ
+
+1. Do I need to be in the video?
+   - No, you do not need to be in the video doing the actions.
+2. Do I need to shoot the video? Can I "direct" the shooting?
+   - You can not have someone else do the project for you. But, ss long as you really are actively directing and composing the shots, you do not have to physically press the record button.
 
 ## Premiere Resources
 
