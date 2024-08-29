@@ -1,14 +1,14 @@
 ---
 title: How to Key Out Green Screen Footage in Adobe Premiere Pro with Ultra Key
 date: 2023-09-04T15:59:23
-lastmod: 2023-09-07T20:57:01
+lastmod: 2024-08-29T06:15:29
 tags:
   - Adobe Premiere
   - Tutorial
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/gkZMbMUo-f0?si=O4gjXeXNZp2QblF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/gkZMbMUo-f0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 In this tutorial, you will learn how to use the Ultra Key effect in Adobe Premiere Pro to key out green screen footage.

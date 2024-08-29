@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-25T07:27:18
+lastmod: 2024-08-27T20:10:21
 ---
 
 ## Modeling Guides
@@ -13,7 +13,24 @@ lastmod: 2024-08-25T07:27:18
 ## Blender
 
 - [How to Install BlenderKit](https://youtu.be/DM2eyg3dxP4)
+- [BlenderKit Website](https://www.blenderkit.com/)
 - [Bridge Edge Loops 90 Degree Pipe Bend](../../../../3d-modeling/blender/bridge-edge-loops-90-degree-pipe-blender.md)
+
+### Blender Addons
+
+- [Mesh Align Plus](https://extensions.blender.org/add-ons/mesh-mesh-align-plus/) - Move/align mesh parts+objects based on scene geometry/metrics.
+- [Auto Track](https://extensions.blender.org/add-ons/auto-track/) - VFX motion tracking automation.
+- [Import AutoCAD DXF Format](https://extensions.blender.org/add-ons/import-autocad-dxf-format-dxf/) - Import files in the Autocad DXF format (.dxf).
+- [Export AutoCAD DXF Format](https://extensions.blender.org/add-ons/export-autocad-dxf-format-dxf/) - The script exports Blender geometry to DXF format r12 version.
+- [Flatterer](https://extensions.blender.org/add-ons/flatterer/) - Flat mesh to SVG exporter for laser cutters.
+- [Incremental Auto Save](https://extensions.blender.org/add-ons/incremental-auto-save/) - Improvements to Blender's Autosave.
+- [Archimesh](https://extensions.blender.org/add-ons/archimesh/) - Generate rooms, doors, windows, and other architecture objects.
+- [Export After Effects (.jsx)](https://extensions.blender.org/add-ons/io-export-after-effects/) - Export cameras, images and empties to Adobe After Effects.
+- [Align Tools](https://extensions.blender.org/add-ons/align-tools/) - Align Selected Objects to Active Object.
+- [Maze Generator](https://extensions.blender.org/add-ons/maze-generator/) - A Maze generator extension for Blender.
+- [Export Paper Model](https://extensions.blender.org/add-ons/export-paper-model/) - Export printable net of the active mesh.
+- [Edit Mesh Tools](https://extensions.blender.org/add-ons/edit-mesh-tools/) - Mesh modelling toolkit. Several tools to aid modelling.
+- [fSpy Blender](https://github.com/stuffmatic/fSpy-Blender/tree/v1.0.3) - fSpy Blender importer.
 
 ## AI Mesh Generation
 

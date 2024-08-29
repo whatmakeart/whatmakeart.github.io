@@ -1,32 +1,34 @@
 ---
 date: 2023-04-26T8:30:00-04:00
-description: In this Blender tutorial, I will show you how to add an HDRI background environment to your scenes.
+description: How to add an HDRI background environment texture to your Blender 3D modeling scenes.
 featured_image: /posts/images/blender-hdri-background.jpg
 tags:
   - Blender
   - 3D Modeling
   - HDRI
+  - Tutorial
 title: HDRI Background - Blender
 ---
+
+<div class="video-grid">
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/AJLJyBdNJ0E?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/k-moDmBUrrI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+</div>
 
 ## How to Add an HDRI Background Environment in Blender
 
-In this Blender tutorial, I will show you how to add an HDRI background environment to your scenes. HDRIs are a great way to add a photorealistic look to your renders, and they can also be used to create interesting lighting effects.
+These Blender tutorials show you how to add an HDRI background environment to your scenes. HDRIs are a great way to add a photorealistic look to your renders, and they can also be used to create interesting lighting effects.
 
 We will start by creating a new scene and adding a cube to the scene. Then, we will add an HDRI to the background using the World settings. Finally, we will adjust the settings of the HDRI to make it look the way we want.
 
-By the end of this tutorial, you will be able to add an HDRI background environment to your scenes in Blender.
+You will be able to add an HDRI background environment to your scenes in Blender.
 
-## What You Will Learn
-
-- How to add an HDRI to the background of a scene in Blender
-- How to adjust the settings of an HDRI in Blender
-
-## What You Will Need\*\*
+## What You Will Need
 
 - Blender
 - A computer
@@ -47,11 +49,6 @@ By the end of this tutorial, you will be able to add an HDRI background environm
 
 ## Tips
 
-- Use a high-resolution HDRI image file for the best results.
+- Use the lowest resolution HDRI image for the level of detail needed in the scene to keep render times low.
 - Experiment with different HDRI image files to create different looks for your scenes.
-
-## Conclusion
-
-In this tutorial, you learned how to add an HDRI background environment to your scenes in Blender. You can now use this technique to add realistic and interesting backgrounds to your renders.
-
-I hope you found this tutorial helpful. Please let me know if you have any questions.
+- Use this technique to add realistic and interesting HDRI backgrounds to your renders.
