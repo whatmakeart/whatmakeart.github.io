@@ -1,7 +1,7 @@
 ---
 title: 02.06 Photo Matching Site Specific Render Assignment
 date: 2024-08-28T09:00:00
-lastmod: 2024-08-29T19:21:25
+lastmod: 2024-08-29T19:28:33
 toc: true
 ---
 
@@ -38,8 +38,16 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 1. Render and composite each site.
 2. Use Photoshop and other image editing tools to composite and touch up the renders.
 
-## Notes
+## Assignment Resources
+
+### Notes
 
 - Pay close attention to scale when placing your 3D models in the scene.
 - Experiment with different lighting setups to see how they impact the interaction between your sculpture and its environment.
 - Try using Blender's compositor to enhance the final render, adjusting color grading and exposure as needed.
+
+### Guides
+
+- [HDRI Background Blender](../../../../3d-modeling/blender/hdri-background-blender.md)
+- [Photo Matching with fSpy](../../../../3d-modeling/photo-matching-with-fspy.md)
+- [Photo Match Compositing Blender](https://youtu.be/qBePDl2l2hI)

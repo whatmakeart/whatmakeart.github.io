@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-27T20:10:21
+lastmod: 2024-08-29T19:25:13
 ---
 
 ## Modeling Guides
@@ -10,11 +10,13 @@ lastmod: 2024-08-27T20:10:21
 - [Blender 3D Modeling Basics](../../../../3d-modeling/blender/3d-modeling-basics-blender.md)
 - [Maya 3D Modeling Basics](../../../../3d-modeling/maya/3d-modeling-basics-maya.md)
 
-## Blender
+## Blender FAQ
 
 - [How to Install BlenderKit](https://youtu.be/DM2eyg3dxP4)
 - [BlenderKit Website](https://www.blenderkit.com/)
 - [Bridge Edge Loops 90 Degree Pipe Bend](../../../../3d-modeling/blender/bridge-edge-loops-90-degree-pipe-blender.md)
+- [HDRI Backgrounds Blender](../../../../3d-modeling/blender/hdri-background-blender.md)
+- [How to Move Objects Blender](../../../../3d-modeling/blender/how-to-move-blender.md)
 
 ### Blender Addons
 
