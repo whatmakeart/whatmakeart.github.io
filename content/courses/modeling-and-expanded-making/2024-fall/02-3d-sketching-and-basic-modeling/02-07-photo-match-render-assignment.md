@@ -1,8 +1,17 @@
 ---
 title: 02.07 Photo Matching Site Specific Render Assignment
 date: 2024-08-28T09:00:00
-lastmod: 2024-08-30T14:07:01
+lastmod: 2024-08-30T14:57:26
 ---
+
+## Assignment Deliverables
+
+1. Composite image of 3D model in outdoor location. (.jpg, .png)
+   - Label file YYYYMMDD Lastname Firstname 3D Composite outdoor.png
+2. Composite image of 3D model in indoor location. (.jpg, .png)
+   - Label file YYYYMMDD Lastname Firstname 3D Composite indoor.png
+3. Composite image of 3D model in location from Google Street View. (.jpg, .png)
+   - Label file YYYYMMDD Lastname Firstname 3D Composite street view.png
 
 ## Overview
 
@@ -34,7 +43,7 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 
 ### Rendering:
 
-1. Render and composite each site.
+1. Render and composite and image for each site.
 2. Use Photoshop and other image editing tools to composite and touch up the renders.
 
 ## Assignment Resources
@@ -49,4 +58,38 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 
 - [HDRI Background Blender](../../../../3d-modeling/blender/hdri-background-blender.md)
 - [Photo Matching with fSpy](../../../../3d-modeling/photo-matching-with-fspy.md)
-- [Photo Match Compositing Blender](https://youtu.be/qBePDl2l2hI)
+- [Place 3D Model in 2D Photo Blender](../../../../3d-modeling/blender/place-3d-model-in-2d-photo-blender-fspy.md)
+- [Reflections, Shadows, and Materials for fSpy Compositing](../../../../3d-modeling/blender/reflections-shadows-and-materials-for-fspy-compositing-blender.md)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Objective                                 | Points |
+| ----------------------------------------- | ------ |
+| Perspective match of outdoor photo        | 10     |
+| Reflections and shadows outdoor photo     | 10     |
+| 3D Model composite in outdoor photo       | 10     |
+| Perspective match of indoor photo         | 10     |
+| Reflections and shadows indoor photo      | 10     |
+| 3D Model composite in indoor photo        | 10     |
+| Perspective match of Street View photo    | 10     |
+| Reflections and shadows Street View photo | 10     |
+| 3D Model composite in Street View photo   | 10     |
+| File Management                           | 10     |
+
+</div>
+
+## Video Guides
+
+<div class="video-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/qBePDl2l2hI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/BSqLLKbcd24?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+</div>

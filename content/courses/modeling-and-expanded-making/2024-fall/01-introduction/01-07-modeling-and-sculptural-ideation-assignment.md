@@ -1,7 +1,7 @@
 ---
 title: 01.07 Modeling and Sculptural Ideation Assignment
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-30T14:07:01
+lastmod: 2024-08-30T14:48:08
 ---
 
 ## Assignment Deliverables
@@ -9,6 +9,7 @@ lastmod: 2024-08-30T14:07:01
 1. A 3D model file of the found object (submitted as a .blend, .mb, .f3d, or another appropriate format).
    - 3D model file should show minimum of 5 different arrangements of 10 of the modular forms
 2. Minimum of 2 renders of selected sculptural arrangements (.png or .jpg)
+3. Reflection uploaded as (.docx or .pdf)
 
 ## Assignment Overview
 
