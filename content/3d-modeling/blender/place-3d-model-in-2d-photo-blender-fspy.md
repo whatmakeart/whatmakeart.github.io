@@ -1,15 +1,60 @@
 ---
-title: 02.05 Place 3D Models in 2D Photos Using Blender & fSpy
-date: 2024-08-28T09:00:00
-lastmod: 2024-08-30T07:07:50
-toc: true
+title: Place 3D Models in 2D Photos Using Blender & fSpy
+date: 2024-08-30T13:53:33
+lastmod: 2024-08-30T14:06:31
 ---
-
-Cast reflections from the 3D environment on the mocked up 3d model inserted into the scene can contribute to a better sense of realism.
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/qBePDl2l2hI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+This tutorial provides a comprehensive guide on how to seamlessly integrate any 3D model into a 2D photograph using Blender and the fSpy tool. Below is a detailed step-by-step breakdown of the process, which includes setting up perspective with fSpy, importing that setup into Blender, modeling to match the environment, and adjusting lighting and materials to achieve realistic results.
+
+## Using fSpy to Set Up Perspective
+
+1. Begin by downloading fSpy, a tool that helps in setting up the correct perspective for the 2D image you want to use as a background. Refer to [fSpy installation instructions(https://youtu.be/0x2ZffQQNJY) and an [in-depth tutorial on fSpy photomatching](../photo-matching-with-fspy.md).
+2. Open the chosen 2D image in fSpy. Analyze the photograph to determine the best perspective to use.
+3. Use fSpy's guides to align with the floor or other prominent lines in the photograph. Hold the `Shift` key to zoom in for more precision while aligning the guides with the floor and ceiling. Adjust the guides to fit the room’s perspective, ensuring that it looks natural and aligned.
+4. Choose a point in the image to set as the origin (a reference point for the 3D space). Typically, a corner of a room or a door frame is a good choice. For scale, input an estimated real-world measurement, such as the height of a doorway (e.g., 2 meters), which helps Blender to accurately scale the 3D objects within the scene.
+5. Once satisfied with the perspective setup, save the fSpy file, which will be imported into Blender.
+
+## Importing fSpy Setup into Blender
+
+1. Open Blender and clear the default scene by pressing `A` to select all objects and then `X` to delete them.
+2. If not already installed, download and [install the fSpy add-on for Blender](https://youtu.be/1HOqnb1Uji4).
+3. Navigate to `File > Import > fSpy` in Blender, then select the saved fSpy project file. This action will import a camera aligned to the perspective of the original image, with the image set as a background.
+
+## Creating the 3D Environment
+
+1. With the camera and perspective set, create a plane (`Shift + A` to add a mesh, then select a plane). Move this plane to align with the floor using `G` (grab) and axis constraints (`G, Y`, `G, X`). Use edge and face mode to manipulate the plane to fit the walls and corners accurately.
+2. Use `Ctrl + R` to add edge loops that help define walls, doorways, and other architectural features. Select edges and faces, then extrude (`E`) along the appropriate axis to build walls and other vertical structures. This method creates a simple yet effective geometry that matches the photo's layout.
+3. To add realism, incorporate additional geometry for ceiling details or other significant architectural features by using edge loops and extrusions. This should remain simple and focus on large forms.
+
+## Projecting Textures from the Image
+
+1. Select the newly created 3D geometry and assign a new material. Use an `Emission Shader` to create reflections from the original photograph. Set the shader's color to an image texture, and load the original photo used in fSpy.
+2. Apply a `UV Project` modifier to the geometry. Set the `UV Map` to the default UV Map and set the `object` to the fSpy camera. Adjust the aspect ratio in the modifier to match the image’s resolution, ensuring that the photograph projects correctly onto the geometry.
+3. Apply a subdivision surface modifier. Make sure to choose `Simple` and make sure the modifier is above the UV Project modifier.
+
+## Adding a 3D Model to the Scene
+
+1. Press `Shift + A` and add a 3D model to the scene. Position it on the floor plane by using `G, Z` to move it up or down. Rotate and position the model to fit naturally within the scene using rotation (`R`) and grab (`G`) commands.
+2. Create a new material for the 3D model (e.g., make it metallic by setting `Metallic` to 1 and `Roughness` to 0). This setting ensures that the model reflects the environment. This can be adjusted to your desired material after the scene is set up.
+
+## Lighting and Rendering
+
+1. Change the rendering engine from Eevee to Cycles for realistic lighting and reflection effects. This adjustment allows the 3D model to reflect the environment accurately.
+2. To enhance the scene’s lighting, add an HDRI (High Dynamic Range Image) from a site like PolyHaven. In the World settings, select `Environment Texture` and load the HDRI file. This will provide general ambient lighting to the scene.
+3. For the 3D environment to interact correctly with the HDRI, adjust visibility settings. Deselect camera and shadow options for the walls to let more light in, while the floor can be separated and set as a shadow catcher to simulate realistic shadows.
+
+## Compositing and Final Adjustments
+
+1. In the Compositing tab, enable `Use Nodes` and add a `Viewer` node to see the output. Load the original image as a background using an `Alpha Over` node. Connect the render layers to the compositor and set the background image behind the render.
+2. Adjust the `Film` settings to make the render transparent, showing only the composite of the 3D model over the 2D photograph. Render the final image to see the 3D model realistically placed within the 2D photograph, with accurate lighting and shadows.
+3. If shadows appear too light, increase the emission strength of the ceiling light or add additional light sources to create stronger shadow effects. Use ambient occlusion to add realistic shadow effects at the base of the model.
+4. Rotate or move the 3D model as needed to fit within the scene perfectly, ensuring that the reflections and shadows enhance the illusion that the model is a part of the original photograph.
+
+This technique allows you to blend 3D models into real-world scenes seamlessly, making it useful for visualizations, concept art, or any creative project where you want to merge virtual objects with real environments. Happy 3D modeling!
 
 <details><summary>
 
