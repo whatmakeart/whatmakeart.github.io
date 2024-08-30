@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific Render Assignment
 date: 2024-08-28T09:00:00
-lastmod: 2024-08-30T14:57:26
+lastmod: 2024-08-30T16:06:04
 ---
 
 ## Assignment Deliverables
@@ -60,6 +60,7 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 - [Photo Matching with fSpy](../../../../3d-modeling/photo-matching-with-fspy.md)
 - [Place 3D Model in 2D Photo Blender](../../../../3d-modeling/blender/place-3d-model-in-2d-photo-blender-fspy.md)
 - [Reflections, Shadows, and Materials for fSpy Compositing](../../../../3d-modeling/blender/reflections-shadows-and-materials-for-fspy-compositing-blender.md)
+- [How to Rotate HDRI Environment Texture](../../../../3d-modeling/blender/rotate-hdri-blender.md)
 
 ## Grading Rubric
 
@@ -90,6 +91,10 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/BSqLLKbcd24?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div class="container-16-9-iframe">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B013GO9Xy1o?si=IrzJR1EB-Q_UQQwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </div>
