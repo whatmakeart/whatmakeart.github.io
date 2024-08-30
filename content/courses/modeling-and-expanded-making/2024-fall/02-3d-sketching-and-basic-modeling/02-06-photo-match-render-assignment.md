@@ -1,8 +1,7 @@
 ---
 title: 02.06 Photo Matching Site Specific Render Assignment
 date: 2024-08-28T09:00:00
-lastmod: 2024-08-29T19:28:33
-toc: true
+lastmod: 2024-08-29T19:28:55
 ---
 
 ## Overview
