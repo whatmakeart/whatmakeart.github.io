@@ -1,7 +1,7 @@
 ---
 title: 02.12 Public Domain
-date: 2024-09-04T12:00:00Z
-lastmod: 2024-09-03T06:40:12
+date: 2024-09-03T12:00:00Z
+lastmod: 2024-09-03T11:55:32
 toc: true
 ---
 

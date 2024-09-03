@@ -1,7 +1,7 @@
 ---
 title: 02.10 Green Screen Composite Video Exercise
-date: 2024-09-04T12:00:00Z
-lastmod: 2024-09-03T06:40:12
+date: 2024-09-03T12:00:00Z
+lastmod: 2024-09-03T14:26:42
 ---
 
 ## Assignment Deliverables
@@ -18,9 +18,13 @@ Plan out a sequence with a minimum of one each of the following [shot types](../
 - Medium Shot
 - Close Up
 
+Shoot the video in front of a green screen. When [shooting green screen footage], it is important to reduce motion blur as much as possible and get the best possible plate to make [chroma keying](../../../../video/chroma-key-basics.md) the footage as easy as possible.
+
 The backgrounds and environments for the shots can be related visually or unrelated. Think about the angle and composition of the background and lighting before framing the green screen shot. Key out the green screen and use Premiere Pro or After Effects to make the composite video.
 
-Edit the different shots together and export as a single video. Sound is not required.
+Background video and images should be created by you or sourced from the [public domain](../../../../copyright/public-domain.md). Cite any sources that you did not create.
+
+Edit the different shots together and export as a single video. Sound is not required but may be added.
 
 ### Possible Experiments with
 
@@ -29,7 +33,7 @@ Edit the different shots together and export as a single video. Sound is not req
 - [Rotoscope](../../../../video/after-effects/roto-brush-tool-after-effects.md) a character or object from [public domain](../../../../copyright/public-domain.md) found footage and have the chroma keyed subject interact with them
 - Have the subject move in the shot
 - Shoot your own background environments
-- Use rotoscoping to separate the layers of found footage so your green screen subject can be "in" the composite shot
+- Use rotoscoping to separate the layers of found footage so your green screen subject can be "in" the composite shot by placing objects from the background in front of the character.
 
 ## Grading Rubric
 
