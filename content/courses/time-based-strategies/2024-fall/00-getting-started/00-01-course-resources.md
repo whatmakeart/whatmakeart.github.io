@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-27T12:00:00
-lastmod: 2024-08-27T15:40:44
+lastmod: 2024-09-03T06:40:03
 ---
 
 ## Sound Effects
@@ -19,3 +19,11 @@ lastmod: 2024-08-27T15:40:44
 - [How to add music and sound in Adobe Premiere?](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
 - [How to add keyframes in Adobe Premiere?](../../../../video/adobe-premiere-pro/add-keyframes-adobe-premiere.md)
 - [How to change the workspace in Adobe Premiere?](../../../../video/adobe-premiere-pro/change-workspace-adobe-premiere.md)
+
+## After Effects Plugins
+
+-[FXAA](https://www.plugineverything.com/fxaa)
+
+## Misc
+
+- [Public Domain](../../../../copyright/public-domain.md)
