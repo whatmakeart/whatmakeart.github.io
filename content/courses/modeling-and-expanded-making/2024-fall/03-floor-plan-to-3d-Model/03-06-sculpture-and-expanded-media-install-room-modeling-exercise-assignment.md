@@ -1,7 +1,7 @@
 ---
 title: 03.06 Sculpture and Expanded Media Install Room Modeling Exercise Assignment
 date: 2024-09-04T09:00:00
-lastmod: 2024-09-04T11:50:43
+lastmod: 2024-09-04T11:59:51
 ---
 
 ## Assignment Deliverables
@@ -17,7 +17,7 @@ Use measurements taken from the physical space, photos, fSpy, and available floo
 
 <figure>
 
-[ ![CIA 2nd Floor Plan](./CIA-All-Floors-28-Oct-2022.jpg)](https://my.cia.edu/ICS/Portlets/ICS/Handoutportlet/viewhandler.ashx?handout_id=12c7143a-c6d1-4f6d-8e71-32e74f93d9a0)
+[![CIA 2nd Floor Plan](./CIA-All-Floors-28-Oct-2022.jpg)](https://my.cia.edu/ICS/Portlets/ICS/Handoutportlet/viewhandler.ashx?handout_id=12c7143a-c6d1-4f6d-8e71-32e74f93d9a0)
 
  <figcaption>
  
