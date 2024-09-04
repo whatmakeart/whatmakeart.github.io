@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-22T05:33:32
+lastmod: 2024-09-03T19:59:20
 ---
 
 ## Modeling and Expanded Making Syllabus
@@ -82,12 +82,12 @@ Projects must be turned in on time. On time is before the beginning of class on 
 | -------- | ------------ | --------------------------------------------------------- |
 | 1        | August 21    | Introduction to 3D Modeling Tools and Digital Fabrication |
 | 2        | August 28    | 3D Sketching and Basic Modeling                           |
-| 3        | September 4  | 3D Printing Techniques and Applications                   |
+| 3        | September 4  | Floor Plan to 3D Model Conversion                         |
 | 4        | September 11 | Laser Cutting Techniques                                  |
 | 5        | September 18 | CNC Machining with ShopBot                                |
 | 6        | September 25 | Advanced 3D Modeling and Rendering                        |
 | 7        | October 2    | 3D Scanning and Integration                               |
-| 8        | October 9    | Floor Plan to 3D Model Conversion                         |
+| 8        | October 9    | 3D Printing Techniques and Applications                   |
 | 9        | October 16   | Real-World Scale 3D Scanning and Fitting                  |
 | 10       | October 23   | Preparing Submissions for Public Art RFPs                 |
 | 11       | October 30   | High-Quality Visual Documentation and Presentation        |

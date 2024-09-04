@@ -1,13 +1,17 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-27T12:00:00
-lastmod: 2024-09-03T06:40:03
+lastmod: 2024-09-03T19:57:26
 ---
 
 ## Sound Effects
 
 - [Adobe Free Sound Effects](https://www.adobe.com/products/audition/offers/adobeauditiondlcsfx.html)
+
+## Music
+
 - [Kevin McLeod's Music](https://incompetech.com/music/royalty-free/music.html) Remember to [credit](https://incompetech.com/music/royalty-free/faq.html) Kevin's music exactly as he requests.
+- FTP of Adobe Music Loops and Beds (Must use FTP to download) - [ftp://ftp.adobe.com/pub/adobe/audition/Loops/](ftp://ftp.adobe.com/pub/adobe/audition/Loops/)
 
 ## CIA Equipment Checkout
 

@@ -1,7 +1,7 @@
 ---
-title: 01.07 Draw a Floor Plan with Blender
-date: 2023-08-25T09:30:00Z
-lastmod: 2024-09-03T20:50:09
+title: 03.03 Draw a Floor Plan in Blender
+date: 2024-09-04T09:00:00
+lastmod: 2024-09-03T20:50:56
 toc: true
 ---
 
