@@ -5,7 +5,7 @@ featured_image: /posts/images/sketchup-add-rooms-to-floor-plan.jpg
 tags:
   - SketchUp
   - 3D Modeling
-title: SketchUp Add Rooms to a Floor Plan
+title: Add Rooms to a Floor Plan in SketchUp
 ---
 
 <div class="iframe-16-9-container">

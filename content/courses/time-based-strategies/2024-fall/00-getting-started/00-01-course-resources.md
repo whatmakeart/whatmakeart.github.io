@@ -1,8 +1,12 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-27T12:00:00
-lastmod: 2024-09-03T19:57:26
+lastmod: 2024-09-04T05:26:00
 ---
+
+## Sketching
+
+- [Ideation Sketches](../../../../drawing/ideation-sketches.md)
 
 ## Sound Effects
 

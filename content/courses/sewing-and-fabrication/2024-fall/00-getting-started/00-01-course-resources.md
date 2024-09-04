@@ -1,8 +1,12 @@
 ---
 title: 00.01 Course Resources
 date: 2024-07-18T10:18:39
-lastmod: 2024-08-26T08:35:18
+lastmod: 2024-09-04T05:25:48
 ---
+
+## Sketching
+
+- [Ideation Sketches](../../../../drawing/ideation-sketches.md)
 
 ## External Sewing Links
 

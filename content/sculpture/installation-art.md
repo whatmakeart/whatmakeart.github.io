@@ -1,9 +1,7 @@
 ---
 title: Installation Art
 date: 2023-07-10T16:51:25
-lastmod: 2024-05-15T05:43:28
-tags:
-  - stub
+lastmod: 2024-09-04T05:40:51
 ---
 
 ## What is Installation Art?

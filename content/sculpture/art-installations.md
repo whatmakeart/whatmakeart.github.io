@@ -1,7 +1,7 @@
 ---
 title: Art Installations
 date: 2023-05-23T21:59:42
-lastmod: 2024-01-17T04:09:21
+lastmod: 2024-09-04T05:31:17
 tags:
   - stub
 ---
@@ -18,3 +18,7 @@ An installation considers the context of the display of the artwork. Instead of 
 ## Documentation of Installation Work
 
 Important to have compelling images and video that may not fully explain the installation but hook the viewer into wanting to see more.
+
+## Equipment
+
+Example of [Temporary-Power-Distribution](../electronics/temporary-power-distribution.md) for outdoor [art-installations](../sculpture/art-installations.md) that need electrical power.

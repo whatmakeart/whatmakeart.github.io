@@ -1,8 +1,12 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-29T19:25:13
+lastmod: 2024-09-04T05:24:55
 ---
+
+## Sketching
+
+- [Ideation Sketches](../../../../drawing/ideation-sketches.md)
 
 ## Modeling Guides
 
