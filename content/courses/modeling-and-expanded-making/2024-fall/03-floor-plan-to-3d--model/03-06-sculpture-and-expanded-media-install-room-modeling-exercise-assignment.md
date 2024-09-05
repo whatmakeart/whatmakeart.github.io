@@ -1,7 +1,7 @@
 ---
 title: 03.06 Sculpture and Expanded Media Install Room Modeling Exercise Assignment
 date: 2024-09-04T09:00:00
-lastmod: 2024-09-05T06:31:36
+lastmod: 2024-09-05T06:33:13
 ---
 
 ## Assignment Deliverables
