@@ -1,7 +1,7 @@
 ---
 title: 01.07 Modeling and Sculptural Ideation Assignment
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-30T14:48:08
+lastmod: 2024-09-06T06:48:04
 ---
 
 ## Assignment Deliverables
@@ -45,6 +45,7 @@ This assignment challenges students to explore the creative possibilities of rep
 | Render Image 1 Uploaded                             | 20     |
 | Render Image 2 Uploaded                             | 20     |
 | 3D Model File Uploaded                              | 10     |
+| Reflection                                          | 10     |
 | File Management                                     | 10     |
 
 </div>
