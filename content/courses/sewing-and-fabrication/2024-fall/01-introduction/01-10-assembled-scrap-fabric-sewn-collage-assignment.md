@@ -1,7 +1,7 @@
 ---
 title: 01.10 Assembled Scrap Fabric Sewn Collage Assignment
 date: 2024-08-26T09:00:00
-lastmod: 2024-08-26T11:57:17
+lastmod: 2024-09-06T10:32:47
 ---
 
 ## Assignment Deliverables
@@ -15,7 +15,7 @@ lastmod: 2024-08-26T11:57:17
    - [French Seam](../../../../sewing/how-to-sew-a-french-seam.md)
    - [Mock Flat Felled Seam](../../../../sewing/how-to-sew-a-mock-flat-felled-seam.md)
    - [Serged Seam](../../../../sewing/how-to-sew-a-serged-seam-with-home-serger.md)
-   - [Serged Seam with Top Stitching](../../../../sewing/)
+   - [Serged Seam with Top Stitching](../../../../sewing/how-to-sew-serged-seam-with-topstiching-home-serger.md)
    - [Busted Seam](../../../../sewing/how-to-sew-a-busted-seam.md)
 2. Use minimum of 6 different fabric selections
 3. Assemble rectilinear scrap fabric sewn collage ~17.25" x ~28.5"

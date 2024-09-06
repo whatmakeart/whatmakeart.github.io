@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific Render Assignment
 date: 2024-08-28T09:00:00
-lastmod: 2024-09-06T06:48:15
+lastmod: 2024-09-06T07:22:53
 ---
 
 ## Assignment Deliverables
@@ -43,7 +43,7 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 
 ### Rendering:
 
-1. Render and composite and image for each site.
+1. Render and composite an image for each site.
 2. Use Photoshop and other image editing tools to composite and touch up the renders.
 
 ## Assignment Resources
