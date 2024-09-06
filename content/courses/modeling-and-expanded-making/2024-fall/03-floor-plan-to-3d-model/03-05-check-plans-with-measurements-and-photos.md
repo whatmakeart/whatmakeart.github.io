@@ -1,7 +1,7 @@
 ---
 title: 03.05 Check Plans with Measurements and Photos
 date: 2024-09-04T09:00:00
-lastmod: 2024-09-06T05:55:44
+lastmod: 2024-09-06T13:27:47
 ---
 
 Floor plans and site plans of venues are not always accurate. Sometimes things change during the construction process and are not updated on a floor plan. Often a floor plan may be made for an exhibition venue but key details may be missing or incorrect. If a gallery generally shows 2D artwork then the focus of the dimensions on the floor plan will show usable wall space. This could be the actual length of the wall or it could be the approximate space between the fire extinguisher and a light switch with a buffer for space around paintings. While this is helpful for deciding were to hang 2D artwork, it is less helpful for using in space planning, visualization, ideation, and fabrication of 3D works.
@@ -24,5 +24,5 @@ Don't forget to measure diagonals of rooms. Most corner will not be true 90 degr
 ## Adam Savage's Quick Architectural Drawing Method
 
 <div class="iframe-16-9-container">
-<iframe class="youTubIframe" width="560" height="315" src="https://www.youtube.com/embed/XP7-fJPJx-Q&t=302" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/XP7-fJPJx-Q&t=302" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
