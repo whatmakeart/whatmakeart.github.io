@@ -1,7 +1,7 @@
 ---
 title: 03.06 Sculpture and Expanded Media Install Room Modeling Exercise Assignment
 date: 2024-09-04T09:00:00
-lastmod: 2024-09-05T06:33:13
+lastmod: 2024-09-06T05:57:52
 ---
 
 ## Assignment Deliverables
@@ -44,3 +44,8 @@ Use measurements taken from the physical space, photos, fSpy, and available floo
 | File Management                  | 10     |
 
 </div>
+
+## Additional Resources
+
+- [Model First Installation Room in SketchUp](https://youtu.be/7x6iT6GdIX8)
+- [Adding Second Installation Room in SketchUp](https://youtu.be/9neVB6ioeWo)

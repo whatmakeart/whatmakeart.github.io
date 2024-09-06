@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific Render Assignment
 date: 2024-08-28T09:00:00
-lastmod: 2024-08-31T09:58:20
+lastmod: 2024-09-06T06:35:22
 ---
 
 ## Assignment Deliverables
@@ -77,6 +77,7 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 | Perspective match of Street View photo    | 10     |
 | Reflections and shadows Street View photo | 10     |
 | 3D Model composite in Street View photo   | 10     |
+| Written Evaluation and Reflection         | 10     |
 | File Management                           | 10     |
 
 </div>
