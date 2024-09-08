@@ -1,7 +1,7 @@
 ---
-title: 02.00 Pocket Bag Assignment
-date: 2024-09-02T09:00:00
-lastmod: 2024-07-20T05:27:06
+title: 02.10 Pocket Bag Assignment
+date: 2024-09-09T09:00:00
+lastmod: 2024-09-08T19:40:22
 ---
 
 Sew a bag of your own design with a zipper closure and pockets.

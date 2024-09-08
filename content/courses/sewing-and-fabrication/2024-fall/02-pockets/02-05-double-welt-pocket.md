@@ -1,7 +1,7 @@
 ---
-title: 02.00 How to Sew Double Welt Pocket
-date: 2024-09-02T09:00:00
-lastmod: 2024-07-20T05:32:38
+title: 02.05 How to Sew Double Welt Pocket
+date: 2024-09-09T09:00:00
+lastmod: 2024-09-08T19:40:22
 toc: true
 ---
 

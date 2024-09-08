@@ -1,7 +1,7 @@
 ---
-title: 02.00 Pocket Sewing Exercise Assignment
-date: 2024-09-02T09:00:00
-lastmod: 2024-07-20T05:00:36
+title: 02.09 Pocket Sewing Exercise Assignment
+date: 2024-09-09T09:00:00
+lastmod: 2024-09-08T19:40:14
 ---
 
 Sew an additional Double Welt Pocket just like we did in class but using a 4"x7" piece of fabric for the welt (the green piece). This larger welt piece should give you enough fabric to properly crease the welt with the iron, sew the top of the pocket closed and finish it with the serger. Double Welt Pocket Sewing Instructions Link

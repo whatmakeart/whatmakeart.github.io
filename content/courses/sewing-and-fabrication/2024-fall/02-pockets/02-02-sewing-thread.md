@@ -1,7 +1,7 @@
 ---
-title: 02.00 Sewing Thread
-date: 2024-09-02T09:00:00
-lastmod: 2024-08-29T12:37:04
+title: 02.02 Sewing Thread
+date: 2024-09-09T09:00:00
+lastmod: 2024-09-08T19:40:22
 ---
 
 Sewing thread comes in different materials and thickness.
