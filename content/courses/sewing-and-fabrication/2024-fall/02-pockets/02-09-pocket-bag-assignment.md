@@ -1,7 +1,7 @@
 ---
-title: 02.10 Pocket Bag Assignment
+title: 02.09 Pocket Bag Assignment
 date: 2024-09-09T09:00:00
-lastmod: 2024-09-08T19:40:22
+lastmod: 2024-09-09T07:36:44
 ---
 
 Sew a bag of your own design with a zipper closure and pockets.
@@ -38,7 +38,7 @@ Sew a bag of your own design with a zipper closure and pockets.
 
 ## Considerations
 
-### Minimum of Two Pockets in Ba
+### Minimum of Two Pockets in Bag
 
 - Are the pockets orientated in the correct direction?
 - Does the placement of the pockets seam thought out and intentional?
