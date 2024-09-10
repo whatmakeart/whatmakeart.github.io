@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-27T12:00:00
-lastmod: 2024-09-04T05:26:00
+lastmod: 2024-09-10T06:13:06
 ---
 
 ## Sketching
@@ -28,7 +28,11 @@ lastmod: 2024-09-04T05:26:00
 - [How to add keyframes in Adobe Premiere?](../../../../video/adobe-premiere-pro/add-keyframes-adobe-premiere.md)
 - [How to change the workspace in Adobe Premiere?](../../../../video/adobe-premiere-pro/change-workspace-adobe-premiere.md)
 
-## After Effects Plugins
+## After Effects FAQ
+
+- [How to setup new project in After Effects](../../../../video/after-effects/new-project-setup-after-effects.md)
+
+### After Effects Plugins
 
 -[FXAA](https://www.plugineverything.com/fxaa)
 
