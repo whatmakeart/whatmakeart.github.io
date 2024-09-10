@@ -1,7 +1,7 @@
 ---
-title: 03.04 Tracking Video Footage
+title: 03.03 Tracking Video Footage
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-10T10:49:16
+lastmod: 2024-09-10T11:44:07
 ---
 
 <div class="video-grid">

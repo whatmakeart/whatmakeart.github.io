@@ -1,7 +1,7 @@
 ---
-title: 03.05 Motion Track Video Exercise
+title: 03.04 Motion Track Video Exercise
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-10T10:49:53
+lastmod: 2024-09-10T11:44:07
 ---
 
 ## Assignment Deliverables

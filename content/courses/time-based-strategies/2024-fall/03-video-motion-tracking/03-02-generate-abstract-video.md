@@ -1,7 +1,7 @@
 ---
-title: 03.03 Generate Abstract Video
+title: 03.02 Generate Abstract Video
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-10T10:08:09
+lastmod: 2024-09-10T11:44:07
 ---
 
 <div class="video-grid">

@@ -1,7 +1,7 @@
 ---
-title: 03.02 Green Screen Video Art
+title: 03.01 Green Screen Video Art
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-10T06:20:39
+lastmod: 2024-09-10T11:44:07
 ---
 
 ## Green Screen Video Art
