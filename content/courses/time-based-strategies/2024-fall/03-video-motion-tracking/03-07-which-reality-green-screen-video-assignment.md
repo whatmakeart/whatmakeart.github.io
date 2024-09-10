@@ -1,28 +1,32 @@
 ---
-title: 03.07 Which Reality Green Screen Video Assignment
+title: 03.07 Which Reality Video Assignment
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-10T14:26:24
+lastmod: 2024-09-10T18:10:27
 ---
 
 ## Assignment Deliverables
 
 - Exported H.264 .mp4 - maximum 30 - 60 seconds long video file of project (.mp4)
-  - label file YYYYMMDD Lastname Firstname Which Reality Video Project.mp4
+  - Label file YYYYMMDD Lastname Firstname Which Reality Video Project.mp4
 - Brief written description of the project and creative decisions made (.pdf)
-  - label file YYYYMMDD Lastname Firstname Which Reality Video Project Description.pdf
+  - Label file YYYYMMDD Lastname Firstname Which Reality Video Project Description.pdf
 
 ## Assignment Overview
 
+Answer the question, "Which reality?" Is this reality or is it an illusion? How do we know what is real when human perceptions are disconnected from the nature of the universe?
+
 Review the artists and videos on the [green screen video art](./03-01-green-screen-video-art.md) page. Watch the videos, visit the artists' websites, go down algorithmic rabbit holes on YouTube and Vimeo. Make notes about what you find interesting and why. Also, take a second look the artists and videos on the [Abstract Video](../02-video-selection-tools-and-effects/02-09-abstract-video.md) page in the previous module.
 
-Use a combination of [chroma keying](../../../../video/chroma-key-basics.md), rotoscoping, luma keys, generative video, found footage, sounds, 3D environments and other video compositing techniques to answer the question, "Which reality?" Is this reality or is it an illusion? How do we know what is real when human perceptions are disconnected from the nature of the universe?
+Use a combination of [chroma keying](../02-video-selection-tools-and-effects/02-02-chroma-key-basics.md), [rotoscoping](../02-video-selection-tools-and-effects/02-07-roto-brush-tool-after-effects.md), luma keys, [generative video](./03-02-generate-abstract-video.md), [found footage](../02-video-selection-tools-and-effects/02-12-public-domain.md), sounds, 3D environments and other video compositing techniques.
 
 ### Final Video Requirements
 
 - minimum 30 seconds to a maximum of 60 seconds
+- use at least one self generated analog abstract video, can use more
+- use at least one self generated digital abstract video, can use more
 - use at least one green screen shot, can use more
 - use at least one motion tracking shot, can use more
-- use a self generated abstract video, could be made with analog or digital means
+- use at least one portion of found footage from the public domain
 - use sounds created by you
 
 ## Concepts to Consider
@@ -42,7 +46,7 @@ Removing the original context by changing the depicted place or environment can 
 - Wear a green square on your shirt and suddenly there is a gap or "negative space" on your body that can be filled in with video.
 - Paint green circles on your face and fill each one with a different video.
 
-## Repeat Elements
+### Repeat Elements
 
 `Control C` or `Command C` followed by `Control V` & `Command V` is the quintessential action of digital workflows. Once something is digital, making copies is nearly costless. Multiple instances of keyed out green screen footage can be placed in the same seen. Repetition is a fundamental design principle that can add unity, structure, and emphasis to a visual composition.
 
