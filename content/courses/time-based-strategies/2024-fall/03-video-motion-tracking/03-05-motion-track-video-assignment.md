@@ -1,13 +1,13 @@
 ---
 title: 03.05 Motion Track Video Exercise
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-10T06:20:39
+lastmod: 2024-09-10T10:49:53
 ---
 
 ## Assignment Deliverables
 
-- Exported H.264 .mp4 - maximum 30 seconds long video file of project
-- Label file YYYYMMDD Lastname Firstname Motion Track Video.mp4
+1. Exported H.264 .mp4 - maximum 30 seconds long video file of project
+   - Label file YYYYMMDD Lastname Firstname Motion Track Video.mp4
 
 ## Overview
 

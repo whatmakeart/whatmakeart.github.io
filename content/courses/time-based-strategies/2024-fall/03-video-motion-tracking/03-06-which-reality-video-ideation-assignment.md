@@ -1,13 +1,13 @@
 ---
 title: 03.06 Which Reality Video Ideation Assignment
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-10T06:20:39
+lastmod: 2024-09-10T10:50:07
 ---
 
 ## Assignment Deliverables
 
-- Upload .pdf of research and ideation sketches
-- Label file YYYYMMDD Lastname Firstname Which Reality Video Ideation.pdf
+1. Upload .pdf of research and ideation sketches
+   - Label file YYYYMMDD Lastname Firstname Which Reality Video Ideation.pdf
 
 ## Overview
 
