@@ -1,7 +1,7 @@
 ---
 title: 03.07 Which Reality Video Assignment
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-10T18:10:27
+lastmod: 2024-09-10T19:50:06
 ---
 
 ## Assignment Deliverables
@@ -21,13 +21,13 @@ Use a combination of [chroma keying](../02-video-selection-tools-and-effects/02-
 
 ### Final Video Requirements
 
-- minimum 30 seconds to a maximum of 60 seconds
-- use at least one self generated analog abstract video, can use more
-- use at least one self generated digital abstract video, can use more
-- use at least one green screen shot, can use more
-- use at least one motion tracking shot, can use more
-- use at least one portion of found footage from the public domain
-- use sounds created by you
+- Minimum 30 seconds to a maximum of 60 seconds
+- At least one self generated analog abstract video, can use more
+- At least one self generated digital abstract video, can use more
+- At least one green screen shot, can use more
+- At least one camera tracking shot, can use more
+- At least one portion of found footage from the public domain
+- Use sounds created by you
 
 ## Concepts to Consider
 
@@ -48,8 +48,8 @@ Removing the original context by changing the depicted place or environment can 
 
 ### Repeat Elements
 
-`Control C` or `Command C` followed by `Control V` & `Command V` is the quintessential action of digital workflows. Once something is digital, making copies is nearly costless. Multiple instances of keyed out green screen footage can be placed in the same seen. Repetition is a fundamental design principle that can add unity, structure, and emphasis to a visual composition.
+`Control C` or `Command C` followed by `Control V` & `Command V` is the quintessential action of digital workflows. Once something is digital, making copies is nearly costless. Multiple instances of keyed out green screen footage can be placed in the same seen. Repetition is a [fundamental design principle](../../../../art-faq/design.md) that can add unity, structure, and emphasis to a visual composition.
 
 ### Use Motion Tracking and Camera Tracking
 
-Green screen shots are easiest to composite when done with a static camera on a tripod, but this can create less dynamic shots than if the camera was moving. One can simply have camera movement but this will likely make the footage bounce around in the viewport. A better way is to motion track the footage so that other objects and footage composited into the scene track along with the green screen footage. This can range in complexity from a simple pan track or a swirling 3D motion track.
+Green screen shots are easiest to composite when done with a static camera on a tripod, but this can create less dynamic shots than if the camera was moving. One can simply have camera movement but this will likely make the footage bounce around in the viewport. A better way is to 3D camera track the footage so that other objects and footage composited into the scene track along with the green screen footage. This can range in complexity from a simple 2D track or a swirling 3D camera track.

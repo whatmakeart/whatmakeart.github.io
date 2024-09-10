@@ -1,7 +1,7 @@
 ---
-title: 03.03 Tracking Video Footage
+title: 03.03 Camera Tracking Video Footage
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-10T11:44:07
+lastmod: 2024-09-10T19:50:06
 ---
 
 <div class="video-grid">
@@ -16,5 +16,4 @@ After Effects Camera Tracker
 
 </div>
 
-- [Normalize After Effects 3D Camera](https://workbench.tv/freebies/2020-05-28_NormalizeTrack)
-- [Blender Export Camera to After Effects Script](https://github.com/Squls/io-export-after-effects-2.9/blob/main/io_export_after_effects.py)
+- [Normalize After Effects 3D Camera](https://workbench.tv/freebies/2020-05-28_NormalizeTrack) This technique and plugin helps keep the sizes and positions of elements in a 3D camera track more manageable

@@ -1,7 +1,7 @@
 ---
 title: 04.01 Blender Motion Tracking
 date: 2024-09-17T12:00:00
-lastmod: 2024-09-10T18:10:33
+lastmod: 2024-09-10T19:48:13
 ---
 
 <div class="video-grid">
@@ -14,3 +14,5 @@ lastmod: 2024-09-10T18:10:33
 </div>
 
 </div>
+
+- [Blender Export Camera to After Effects Script](https://github.com/Squls/io-export-after-effects-2.9/blob/main/io_export_after_effects.py)
