@@ -1,7 +1,7 @@
 ---
 title: 03.07 Which Reality Green Screen Video Assignment
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-10T11:44:07
+lastmod: 2024-09-10T14:26:24
 ---
 
 ## Assignment Deliverables
@@ -13,9 +13,9 @@ lastmod: 2024-09-10T11:44:07
 
 ## Assignment Overview
 
-Review the examples of [abstract video](../02-video-selection-tools-and-effects/02-09-abstract-video.md) from the previous week as well as the [green screen video art examples](./03-01-green-screen-video-art.md) from this week. Note different techniques used in the videos to create new realities. Consider how the separation of a character or object from its original context allows for the construction of new visuals and constructed spaces.
+Review the artists and videos on the [green screen video art](./03-01-green-screen-video-art.md) page. Watch the videos, visit the artists' websites, go down algorithmic rabbit holes on YouTube and Vimeo. Make notes about what you find interesting and why. Also, take a second look the artists and videos on the [Abstract Video](../02-video-selection-tools-and-effects/02-09-abstract-video.md) page in the previous module.
 
-Use a combination of chroma keying, rotoscoping, luma keys, generative video, found footage, sounds, 3D environments and other video compositing techniques to answer the question, "Which reality?" Is this reality or is it an illusion? How do we know what is real when human perceptions are disconnected from the nature of the universe?
+Use a combination of [chroma keying](../../../../video/chroma-key-basics.md), rotoscoping, luma keys, generative video, found footage, sounds, 3D environments and other video compositing techniques to answer the question, "Which reality?" Is this reality or is it an illusion? How do we know what is real when human perceptions are disconnected from the nature of the universe?
 
 ### Final Video Requirements
 
