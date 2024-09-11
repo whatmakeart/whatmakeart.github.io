@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry Software
 date: 2023-09-24T11:15:16
-lastmod: 2024-08-08T17:40:35
+lastmod: 2024-09-11T06:46:38
 ---
 
 ## Free Photogrammetry Software
@@ -22,5 +22,10 @@ lastmod: 2024-08-08T17:40:35
 
 ## Paid Photogrammetry Software
 
-- Metashape
-- Substance Sampler
+- [Metashape](https://www.agisoft.com/)
+- [Substance Sampler](https://www.adobe.com/products/substance3d/apps/sampler.html)
+- [Reality Capture](https://www.capturingreality.com/)
+
+## Further Reading
+
+- [Gaussian Splatting](./gaussian-splatting.md)

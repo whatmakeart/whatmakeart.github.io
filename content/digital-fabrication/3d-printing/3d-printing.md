@@ -1,13 +1,10 @@
 ---
 title: 3D Printing
 date: 2023-05-23T21:59:42
-lastmod: 2024-03-09T06:22:47
+lastmod: 2024-09-11T05:31:59
 ---
 
 3D Printing is an [additive-processes](../../sculpture/additive-processes.md) of [fabrication](../../making/fabrication.md).
-
-- [Print in Place Hinge](print-in-place-hinge.md)
-- [3D Print in Place Ball and Socket Hinge](./3d-print-in-place-ball-and-socket-hinge-fusion-360.md)
 
 ## Types of 3D Printers
 
@@ -61,7 +58,12 @@ Plastic solvent glues used for acrylic and ABS may work but are less available, 
 
 - [3D Printing Terms](./3d-printing-terms.md)
 - [3D Print Design Guidelines](./3d-print-design-guidelines.md)
+
+### Example Modeling Tutorials
+
 - [3D Print Modeling in Fusion 360](./3d-print-modeling-fusion-360.md)
+- [Print in Place Hinge](print-in-place-hinge.md)
+- [3D Print in Place Ball and Socket Hinge](./3d-print-in-place-ball-and-socket-hinge-fusion-360.md)
 
 ### External Links
 
