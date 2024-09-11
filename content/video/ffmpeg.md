@@ -1,11 +1,25 @@
 ---
 title: ffmpeg
 date: 2024-02-26T08:51:07
-lastmod: 2024-02-26T08:51:37
+lastmod: 2024-09-11T08:21:35
 ---
 
-## ffmpeg snippets
+[FFMPEG](https://www.ffmpeg.org/) is a "A complete, cross-platform solution to record, convert and stream audio and video." [^ffmpeg]
+
+## Install ffmpeg
+
+While ffmpeg only provides the source code, there are installers for Windows, Mac, and Linux on the [ffmpeg.org download page](https://www.ffmpeg.org/download.html)
+
+## ffmpeg Snippets
 
 Export frames of video with 4 zeros
 
 `ffmpeg -i m.mp4 %04d.jpg`
+
+Convert mp4 to avi
+
+`ffmpeg -i input.mp4 output.avi`
+
+## References
+
+[^ffmpeg]: [ffmpeg.org](https://www.ffmpeg.org/)
