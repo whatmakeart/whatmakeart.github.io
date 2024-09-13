@@ -1,7 +1,7 @@
 ---
 title: 04.05 Assignment
 date: 2024-09-11T09:00:00
-lastmod: 2024-09-13T15:04:12
+lastmod: 2024-09-13T15:47:45
 ---
 
 ## Assignment Deliverables
@@ -57,6 +57,16 @@ lastmod: 2024-09-13T15:04:12
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/MUb7I4lBSZs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
+
+<div class="video-card">
+
+### Clean Up Photogrammetry Mesh in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/asyItetJkbU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
 <div class="video-card">
 
 ### 3D Print Toolbox Blender Add-On
