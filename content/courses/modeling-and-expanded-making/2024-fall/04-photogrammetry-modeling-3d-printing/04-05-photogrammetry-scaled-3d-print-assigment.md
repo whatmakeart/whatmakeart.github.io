@@ -1,7 +1,7 @@
 ---
 title: 04.05 Photogrammetry Scaled 3D Print Assignment
 date: 2024-09-11T09:00:00
-lastmod: 2024-09-13T16:18:54
+lastmod: 2024-09-13T17:24:12
 ---
 
 ## Assignment Deliverables
@@ -21,7 +21,7 @@ lastmod: 2024-09-13T16:18:54
 
 ## Assignment Resources
 
-- [#D Printing Design Guidelines](../../../../digital-fabrication/3d-printing/3d-print-design-guidelines.md)
+- [3D Printing Design Guidelines](../../../../digital-fabrication/3d-printing/3d-print-design-guidelines.md)
 - [How to Export STL from Blender](../../../../digital-fabrication/3d-printing/export-stl-blender.md)
 - [Export Frames from Video in Premiere](https://youtu.be/JCawZdzQgFA)
 - [Photogrammetry with Adobe Substance 3D Sampler](https://youtu.be/wUA6qzFK_FU)
