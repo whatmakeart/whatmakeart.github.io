@@ -1,7 +1,7 @@
 ---
 title: 04.05 Photogrammetry Scaled 3D Print Assignment
 date: 2024-09-11T09:00:00
-lastmod: 2024-09-13T17:24:12
+lastmod: 2024-09-14T04:39:14
 ---
 
 ## Assignment Deliverables
@@ -30,11 +30,17 @@ lastmod: 2024-09-13T17:24:12
 - [Clean Up Photogrammetry Mesh in Blender](https://youtu.be/asyItetJkbU)
 - [3D Print Tools Add-On Blender](https://youtu.be/_E-b6CENHms)
 
+### 3D Printers
+
+If using the Bambu X1 Carbon 3D printers, then use the [Bambu Studio Slicer](../01-introduction/01-04-bambu-studio-installation.md). If using Ultimaker Printers or Creality Ender Printers, then use the [Cura Slicer](../../../../digital-fabrication/3d-printing/cura-slicing-basics.md).
+
+### Video Guides
+
 <div class="video-grid">
 
 <div class="video-card">
 
-### Export Frames from Video
+#### Export Frames from Video
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/JCawZdzQgFA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -42,7 +48,7 @@ lastmod: 2024-09-13T17:24:12
 </div>
 <div class="video-card">
 
-### Photogrammetry with Adobe Substance 3D Sampler
+#### Photogrammetry with Adobe Substance 3D Sampler
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/wUA6qzFK_FU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -51,7 +57,7 @@ lastmod: 2024-09-13T17:24:12
 
 <div class="video-card">
 
-### Photogrammetry with Photocatch
+#### Photogrammetry with Photocatch
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/yMqH0GskhgY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -60,7 +66,7 @@ lastmod: 2024-09-13T17:24:12
 
 <div class="video-card">
 
-### Photogrammetry Scale in Blender
+#### Photogrammetry Scale in Blender
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/MUb7I4lBSZs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -69,7 +75,7 @@ lastmod: 2024-09-13T17:24:12
 
 <div class="video-card">
 
-### Clean Up Photogrammetry Mesh in Blender
+#### Clean Up Photogrammetry Mesh in Blender
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/asyItetJkbU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -78,7 +84,7 @@ lastmod: 2024-09-13T17:24:12
 
 <div class="video-card">
 
-### 3D Print Toolbox Blender Add-On
+#### 3D Print Toolbox Blender Add-On
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/_E-b6CENHms?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
