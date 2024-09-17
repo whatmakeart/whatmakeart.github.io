@@ -1,7 +1,7 @@
 ---
-title: 03.05 Which Reality Video Ideation Assignment
+title: 03.06 Which Reality Video Ideation Assignment
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-10T19:50:06
+lastmod: 2024-09-17T12:37:46
 ---
 
 ## Assignment Deliverables
