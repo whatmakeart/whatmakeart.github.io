@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2024-08-21T09:00:00
-lastmod: 2024-09-11T08:26:39
+lastmod: 2024-09-18T06:05:01
 ---
 
 ## Modeling and Expanded Making Syllabus
@@ -78,25 +78,25 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**     | **Topic**                                                 |
-| -------- | ------------ | --------------------------------------------------------- |
-| 1        | August 21    | Introduction to 3D Modeling Tools and Digital Fabrication |
-| 2        | August 28    | 3D Sketching and Basic Modeling                           |
-| 3        | September 4  | Floor Plan to 3D Model Conversion                         |
-| 4        | September 11 | Photogrammetry, Modeling, 3D Printing                     |
-| 5        | September 18 | CNC Machining with ShopBot                                |
-| 6        | September 25 | Advanced 3D Modeling and Rendering                        |
-| 7        | October 2    | 3D Scanning and Integration                               |
-| 8        | October 9    | Laser Cutting and 3D Printing Techniques and Applications |
-| 9        | October 16   | Real-World Scale 3D Scanning and Fitting                  |
-| 10       | October 23   | Preparing Submissions for Public Art RFPs                 |
-| 11       | October 30   | High-Quality Visual Documentation and Presentation        |
-| 12       | November 6   | Advanced Digital Fabrication Projects                     |
-| 13       | November 13  | Studio Work                                               |
-| 14       | November 20  | Studio Work                                               |
-| 15       | November 27  | Thanksgiving Break                                        |
-| 16       | December 4   | Mid-Year BFA Crits                                        |
-| 17       | December 11  | Final Crit                                                |
+| **Week** | **Date**     | **Topic**                                                                                                |
+| -------- | ------------ | -------------------------------------------------------------------------------------------------------- |
+| 1        | August 21    | [Introduction to 3D Modeling Tools and Digital Fabrication](../01-introduction/01-00-introduction.md)    |
+| 2        | August 28    | [3D Sketching and Basic Modeling](../02-3d-sketching-and-basic-modeling/02-00-introduction.md)           |
+| 3        | September 4  | [Floor Plan to 3D Model Conversion](../03-floor-plan-to-3d-model/03-00-introduction.md)                  |
+| 4        | September 11 | [Photogrammetry, Modeling, 3D Printing](../04-photogrammetry-modeling-3d-printing/04-00-introduction.md) |
+| 5        | September 18 | Laser Cutting and 3D Printing Techniques and Applications                                                |
+| 6        | September 25 | Advanced 3D Modeling and Rendering                                                                       |
+| 7        | October 2    | 3D Scanning and Integration                                                                              |
+| 8        | October 9    | CNC Machining with ShopBot                                                                               |
+| 9        | October 16   | Real-World Scale 3D Scanning and Fitting                                                                 |
+| 10       | October 23   | Preparing Submissions for Public Art RFPs                                                                |
+| 11       | October 30   | High-Quality Visual Documentation and Presentation                                                       |
+| 12       | November 6   | Advanced Digital Fabrication Projects                                                                    |
+| 13       | November 13  | Studio Work                                                                                              |
+| 14       | November 20  | Studio Work                                                                                              |
+| 15       | November 27  | Thanksgiving Break                                                                                       |
+| 16       | December 4   | Mid-Year BFA Crits                                                                                       |
+| 17       | December 11  | Final Crit                                                                                               |
 
 </div>
 
