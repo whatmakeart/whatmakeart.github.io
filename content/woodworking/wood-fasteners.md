@@ -1,9 +1,7 @@
 ---
 title: Wood Fasteners
 date: 2023-05-23T21:59:40
-lastmod: 2023-09-07T20:57:01
-tags:
-  - stub
+lastmod: 2024-09-19T15:04:02
 ---
 
 # Screws

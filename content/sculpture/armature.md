@@ -1,9 +1,7 @@
 ---
 title: Armature
 date: 2023-06-17T19:44:19
-lastmod: 2023-09-22T07:37:39
-tags:
-  - stub
+lastmod: 2024-09-19T15:18:36
 ---
 
 Armatures give support to a [sculpture](./sculpture.md) in progress. Sometimes armatures are removed and other times armatures remain a permanent piece of the finished work.

@@ -1,9 +1,7 @@
 ---
 title: How to Draw to Scale
 date: 2023-05-23T21:59:40
-lastmod: 2024-01-17T06:51:58
-tags:
-  - stub
+lastmod: 2024-09-19T15:16:00
 ---
 
 This tutorial will show how to make drawings to scale. Make scale drawings, or drawings that are a different size than what they depict, but accurately represent the proportional sizes of all the components. The ability to make accurate scale drawings is an essential sculpture and making skill.

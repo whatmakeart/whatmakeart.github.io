@@ -1,8 +1,7 @@
 ---
 title: Knitting Needles
 date: 2023-12-13T05:20:23
-lastmod: 2023-12-13T05:34:26
-tags: stub
+lastmod: 2024-09-19T15:18:36
 ---
 
 - [Beginner Knitting Guide from Sheep and Stitch](https://sheepandstitch.com/how-to-knit/)

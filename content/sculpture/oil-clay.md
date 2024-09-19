@@ -1,9 +1,7 @@
 ---
 title: Oil Clay
 date: 2023-05-23T21:59:41
-lastmod: 2024-01-17T04:09:21
-tags:
-  - stub
+lastmod: 2024-09-19T15:10:55
 ---
 
 Oil Clay is a [Sculpture](sculpture.md) material that stays pliable without water. The oil that binds the clay particles together becomes softer and easier to move as heat is applied either with an electric [how-to-use-a-heat-gun](../tools/how-to-use-a-heat-gun.md) or by manipulating the material. For cantilevered structures or large objects an [armature](armature.md) can be used under the oil clay to give it more strength and not require as much clay by making the object semi hollow.

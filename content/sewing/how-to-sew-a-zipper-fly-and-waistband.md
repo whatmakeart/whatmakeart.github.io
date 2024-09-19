@@ -1,16 +1,10 @@
 ---
 title: How to Sew a Zipper Fly and Waistband
-tags:
-  - stub
+date: 2023-05-23T21:59:40
+lastmod: 2024-09-19T15:09:06
 ---
 
-# How to Sew a Zipper Fly and Waistband
-
 This tutorial will show how to sew a zipper fly and waistband using a straight stitch sewing machine
-
-## Prerequisites
-
-To complete this tutorial you should be familiar with
 
 ## Instructions
 

@@ -1,7 +1,7 @@
 ---
 title: How to Write an Artist Resume
 date: 2023-05-23T21:59:40
-lastmod: 2023-09-07T20:37:35
+lastmod: 2024-09-19T15:03:36
 tags:
   - stub
 ---
@@ -17,9 +17,3 @@ To complete this tutorial you should be familiar with word processing and have a
 ## Instructions
 
 1. gather any and all of your accomplishments that are in any way related to your artistic practice. You may not end up including everything in your artist resume but you want to start with a comprehensive list.
-
-## Result
-
-After following these instructions you should
-
-## Further Reading

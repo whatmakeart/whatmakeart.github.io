@@ -1,9 +1,7 @@
 ---
 title: Time Management
 date: 2023-05-23T21:59:40
-lastmod: 2023-09-25T05:56:52
-tags:
-  - stub
+lastmod: 2024-09-19T15:18:36
 ---
 
 ## Time Management Software

@@ -1,9 +1,7 @@
 ---
 title: Media Competency vs Literacy
 date: 2023-06-06T16:52:02
-lastmod: 2023-09-07T20:38:27
-tags:
-  - stub
+lastmod: 2024-09-19T15:18:36
 ---
 
 ## Media Competency vs Literacy

@@ -1,9 +1,7 @@
 ---
 title: Artist Opportunities
 date: 2023-05-23T21:59:41
-lastmod: 2024-01-17T04:04:37
-tags:
-  - stub
+lastmod: 2024-09-19T15:03:12
 ---
 
 It is important to keep your [portfolio](../coding/artist-portfolio-website-how-to-guide.md) and [artist resume](how-to-write-an-artist-resume.md) up to date so you can submit competitive applications for artist opportunities. Applying for opportunities of part of a successful artist's [Professional-Practices-for-Artists](professional-practices-for-artists.md).

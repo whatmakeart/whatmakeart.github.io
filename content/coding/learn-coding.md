@@ -1,9 +1,7 @@
 ---
 title: Learn Coding
 date: 2023-07-01T19:30:16
-lastmod: 2024-01-16T05:11:06
-tags:
-  - stub
+lastmod: 2024-09-19T15:18:36
 ---
 
 - [HTML for Beginners](./html-crash-course.md)

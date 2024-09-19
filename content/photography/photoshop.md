@@ -1,9 +1,7 @@
 ---
 title: Photoshop
 date: 2023-05-23T21:59:41
-lastmod: 2024-08-22T05:41:45
-tags:
-  - stub
+lastmod: 2024-09-19T15:14:13
 ---
 
 Photoshop is a software tool for editing pixel based images. It can use vectors and some 3D information bit it is primarily aimed at manipulating 2D raster images.
@@ -30,4 +28,5 @@ Pixels are resolution dependent while vectors have infinite "resolution" since t
 
 ## Photoshop Tutorials
 
-[fix-photoshop-masks-with-dodge-and-burn](../software/fix-photoshop-masks-with-dodge-and-burn.md)
+- [Generative Fill](./photoshop-generative-fill.md)
+- [fix-photoshop-masks-with-dodge-and-burn](../software/fix-photoshop-masks-with-dodge-and-burn.md)

@@ -1,9 +1,7 @@
 ---
 title: Ring Roller
 date: 2023-12-13T06:08:53
-lastmod: 2023-12-13T06:09:11
-tags:
-  - stub
+lastmod: 2024-09-19T15:14:25
 ---
 
 <div class="video-grid">
