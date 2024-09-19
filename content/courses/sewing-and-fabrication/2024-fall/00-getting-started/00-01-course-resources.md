@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-07-18T10:18:39
-lastmod: 2024-09-04T05:25:48
+lastmod: 2024-09-19T17:51:12
 ---
 
 ## Sketching
@@ -75,3 +75,8 @@ The online retailers below also have a wide selection of fabric but you must pla
 ## Scissors and Sharpening Tools
 
 - [Wolff Industries](https://wolffindustries.com/)
+
+## Fabric Artists
+
+- Hanae Mori
+- [Sarah Zapata](https://www.sarah-zapata.com/)

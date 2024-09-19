@@ -54,6 +54,7 @@ This is a conceptual work in progress exploring better ways to exchange informat
 - [University of Montana - Creative Coding 1 - Michael Cassens](https://montana-media-arts.github.io/MART120-Fall2023/)
 - [Parsons Critical Computation](https://parsonsdt.github.io/critical-computation-2020/assignment/1.html)
 - [Very Interactive](https://veryinteractive.net/) - Laurel Schwulst's teaching website
+- [David Reiss - Townson University](https://www.davidreiss.com/academics.html)
 
 #### University of Washington Computer Science Courses
 

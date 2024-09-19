@@ -1,7 +1,7 @@
 ---
 title: Copyright for Artists
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:40:36
+lastmod: 2024-09-19T18:05:21
 ---
 
 ## Public Domain Cases
@@ -9,6 +9,8 @@ lastmod: 2023-09-07T20:40:36
 The [Public-Domain](public-domain.md) is a great resource for content creation but artists need to be careful that images are actually in the public domain. If you get an image from a reputable source such as the New York Public Library or the [Public-Domain](public-domain.md) or the prelinger archive, you can be reasonably assured that the content is really in the public domain. Domain. But if you use less reputable sources such as a search engine, you may find things that people have uploaded and claim to be in the public domain, but that are not really.
 
 An example of this is when an actor from the sitcom the office had their face added to a public domain repository and it was incorrectly tagged as public domain. Then many advertising agencies started to use their image without permission on products.
+
+- [ANDY WARHOL FOUNDATION FOR THE VISUAL ARTS, INC. v. GOLDSMITH ET AL.](https://www.supremecourt.gov/opinions/22pdf/21-869_87ad.pdf)
 
 ## Fair Use
 
@@ -50,6 +52,12 @@ Plagiarism is not just something that you learn not to do in school, it really h
 - [Elon-Musk-on-Disney-Copyright](elon-musk-on-disney-copyright.md)
 
 #### External Links
+
+[Google and YouTube are trying to have it both ways with AI and copyright - The Verge](https://www.theverge.com/2023/8/22/23841822/google-youtube-ai-copyright-umg-scraping-universal)
+
+[French Montana Backed Out of Sample Deal But Released Song Anyway: Suit – Billboard](https://www.billboard.com/business/legal/french-montana-copyright-lawsuit-over-blue-chills-sample-1235395263/)
+
+[MrBeast’s lost at sea video hit with copyright claim over unlicensed animation - Dexerto](https://www.dexerto.com/entertainment/mrbeasts-lost-at-sea-video-hit-with-copyright-claim-over-unlicensed-animation-2254667/)
 
 [Getty sues Stability AI for copying 12M photos and imitating famous watermark | Ars Technica](https://arstechnica.com/tech-policy/2023/02/getty-sues-stability-ai-for-copying-12m-photos-and-imitating-famous-watermark/)
 
@@ -152,3 +160,5 @@ https://www.cnn.com/2019/03/20/tech/peloton-lawsuit-music-licensing-infringement
 [Lizzo Sued Back by Songwriters Over ‘Truth Hurts’ ](https://nyti.ms/39bTn67)
 
 [‘This Land Is Your Land’ Is Still Private Property, Court Rules](https://nyti.ms/2Pwmz00)
+
+[Logan Square Artist Says Local Chamber Of Commerce Board Member Copied Her Work](https://blockclubchicago.org/2024/07/17/logan-square-artist-says-local-chamber-of-commerce-board-member-copied-her-work/)

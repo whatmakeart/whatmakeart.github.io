@@ -1,7 +1,7 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-05-15T05:42:50
+lastmod: 2024-09-19T17:59:26
 ---
 
 ## Artists
@@ -41,3 +41,7 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Lee Tusman](https://leetusman.com/)
 - [Langdon Graves](https://news.artnet.com/art-world/brooklyn-artist-langdon-graves-up-next-2429936)
 - [Benediktas Gylys](https://benediktas.com/)
+- [Ben Fry](https://x.com/benfryc/status/1821569186398720324) - slick 3D animations
+- [Nancy Holt](https://holtsmithsonfoundation.org/biography-nancy-holt)
+
+-[Ed Ruscha’s ‘Chocolate Room’ Still Tantalizes - The New York Times](https://www.nytimes.com/2023/09/01/arts/design/ed-ruscha-chocolate-room-moma.html)

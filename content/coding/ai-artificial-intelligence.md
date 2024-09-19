@@ -1,7 +1,7 @@
 ---
 title: AI
 date: 2023-05-23T21:59:42
-lastmod: 2024-04-22T05:43:27
+lastmod: 2024-09-19T17:31:01
 ---
 
 ## AI Creation
@@ -27,10 +27,9 @@ I read "Computer Algorithms Analyzing Paintings" in the November 19, 2014 _Artfo
 
 ## AI Links
 
-https://www.nytimes.com/interactive/2024/01/25/business/ai-image-generators-openai-microsoft-midjourney-copyright.html
-
+- [OpenAI won’t watermark ChatGPT text because its users could get caught - The Verge](https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool)
+- [AI Image Generators - New York Times](https://www.nytimes.com/interactive/2024/01/25/business/ai-image-generators-openai-microsoft-midjourney-copyright.html)
 - [How AI is Expanding Art History](https://www.nature.com/articles/d41586-023-03604-3)
-
 - [MIT’s AI can train neural networks faster than ever before](https://www.engadget.com/2019/03/22/mit-ai-automated-neural-network-design/)
 - [The ethics of AI Art - Reddit](https://www.reddit.com/r/CGPGrey/comments/x6ec45/the_ethics_of_ai_art/)
 - [AI Art isn't art - Reddit](https://www.reddit.com/r/ArtistLounge/comments/x2uy7j/ai_art_isnt_art/)
