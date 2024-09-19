@@ -1,7 +1,7 @@
 ---
 title: 04.02 Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2024-01-10T10:09:58
+lastmod: 2024-09-19T14:37:46
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -28,7 +28,7 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | [Heat Gun ](../../../../tools/how-to-use-a-heat-gun.md)                                                     |       |             |             |             |             |
 | [Serger](../../../../sewing/serger.md)                                                                      |       |             |             |             |             |
 | Sandblaster                                                                                                 |       |             |             |             |             |
-| Laser Cutter                                                                                                |       |             |             |             |             |
+| [Laser Cutter](../../../../digital-fabrication/laser-cutting/laser-cutting.md)                              |       |             |             |             |             |
 | [Mig Welder](../../../../metalworking/mig-welding.md)                                                       |       |             |             |             |             |
 | Barbed Needles                                                                                              |       |             |             |             |             |
 | [Wood File](../../../../woodworking/how-to-use-wood-files.md)                                               |       |             |             |             |             |
@@ -42,7 +42,7 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | Hydraulic Press                                                                                             |       |             |             |             |             |
 | Spinning Wheel                                                                                              |       |             |             |             |             |
 | Steam Iron                                                                                                  |       |             |             |             |             |
-| Digital Calipers                                                                                            |       |             |             |             |             |
+| [Digital Calipers](../../../../making/how-to-use-digital-calipers.md)                                       |       |             |             |             |             |
 | Protractor                                                                                                  |       |             |             |             |             |
 | Disc Sander                                                                                                 |       |             |             |             |             |
 | [Stone Chisels](../../../../sculpture/stone-chisels.md)                                                     |       |             |             |             |             |
@@ -155,7 +155,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | Documented Performance                                                                                          |       |             |             |             |             |
 | Pattern Making                                                                                                  |       |             |             |             |             |
 | Spinning                                                                                                        |       |             |             |             |             |
-| Third Angle Projection Drawing                                                                                  |       |             |             |             |             |
+| [Third Angle Projection Drawing](../../../../drawing/third-angle-projection.md)                                 |       |             |             |             |             |
 | [Metal Finishing](../../../../metalworking/metal-finishing.md)                                                  |       |             |             |             |             |
 | Armature Building                                                                                               |       |             |             |             |             |
 | [Writing](../../../../art-faq/writing.md)                                                                       |       |             |             |             |             |
