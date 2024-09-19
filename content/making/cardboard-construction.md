@@ -1,10 +1,10 @@
 ---
 title: Cardboard Construction
 date: 2023-06-14T05:51:08
-lastmod: 2023-09-27T08:24:04
+lastmod: 2024-09-19T07:40:36
 ---
 
-Cardboard is a great material for making prototypes. As a material, it is relatively cheap, easy to find, strong and lightweight. In fabrication it can be cut, sanded, bent, fastened and glued. Multiple layers of cardboard can be built up to make a panel a desired thickness or to build a [cardboard model to scale](./scale-cardboard-to-plywood.md).
+Cardboard is a great material for making prototypes and models. As a [material for making](../sculpture/materials-for-making.md), it is relatively cheap, easy to find, strong and lightweight. During [fabrication](../making/fabrication.md) it can be cut, sanded, bent, fastened and glued. Multiple layers of cardboard can be built up to make a panel a desired thickness or to build a [scale cardboard to plywood](./scale-cardboard-to-plywood.md).
 
 Tab and slot cardboard construction techniques allow a design to assemble and disassemble without glue. This can be helpful when a design might be changed or when the final design may also use slot and tab construction such as in laser cutting.
 
@@ -14,11 +14,11 @@ With a small amount of practice you can make detailed an intricate test pieces w
 
 ## Cutting Techniques
 
-- Laser Cutter - cuts cardboard very well, can make shapes in graphics program like Adobe Illustrator and send to cutter. [Fusion 360](../3d-modeling/fusion-360/fusion-360.md) can also be used. We will learn how to make panel constructed objects next week.
+- Laser Cutter - cuts cardboard very well. You can make shapes in graphics program like Adobe Illustrator or 3D modeling programs such as[Fusion 360](../3d-modeling/fusion-360/fusion-360.md).
 - Box Cutter - Always use a new blade and a cutting mat
 - Metal Straight Edge - useful for cutting clean edges
 - Remember that often you need to run the box cutter multiple times to cut all of the cardboard
-- serrated cutters - good for cutting curves
+- Serrated cutters - good for cutting curves
 
 ## Assembly Techniques
 
