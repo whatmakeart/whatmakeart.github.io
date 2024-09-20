@@ -1,7 +1,7 @@
 ---
 title: 04.02 Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2024-09-19T14:37:46
+lastmod: 2024-09-19T18:09:53
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -118,6 +118,7 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | [Spray Gun](../../../../tools/spray-gun.md)                                                                 |       |             |             |             |             |
 | Beaverly Shear                                                                                              |       |             |             |             |             |
 | Rasp                                                                                                        |       |             |             |             |             |
+| captive nut insert rivet                                                                                    |       |             |             |             |             |
 
 </div>
 
