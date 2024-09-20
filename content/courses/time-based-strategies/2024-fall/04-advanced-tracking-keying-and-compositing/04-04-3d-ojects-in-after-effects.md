@@ -1,7 +1,7 @@
 ---
-title: 04.03 3D Objects in After Effects
+title: 04.04 3D Objects in After Effects
 date: 2024-09-17T12:00:00
-lastmod: 2024-09-18T06:15:16
+lastmod: 2024-09-20T13:05:26
 toc: true
 ---
 
