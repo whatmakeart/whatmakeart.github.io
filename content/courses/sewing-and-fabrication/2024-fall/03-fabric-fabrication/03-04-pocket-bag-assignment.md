@@ -1,10 +1,12 @@
 ---
 title: 03.04 Pocket Bag Assignment
 date: 2024-09-16T09:00:00
-lastmod: 2024-09-16T11:57:44
+lastmod: 2024-09-20T16:29:07
 ---
 
-Sew a bag of your own design with a zipper closure and pockets.
+## Assignment Deliverables
+
+1. Sew a bag of your own design with a zipper closure and a minimum of 2 pockets. Bring the sewn bag to class.
 
 ## Requirements
 
