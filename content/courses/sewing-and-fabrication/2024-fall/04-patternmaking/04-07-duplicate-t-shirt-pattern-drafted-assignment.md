@@ -1,7 +1,7 @@
 ---
-title: 03.06 Duplicate T-Shirt Pattern Drafted Assignment
+title: 04.07 Duplicate T-Shirt Pattern Drafted Assignment
 date: 2024-09-23T09:00:00
-lastmod: 2024-09-16T11:57:04
+lastmod: 2024-09-21T07:26:45
 ---
 
 Follow the instructions in the video, [starting at 6:54](https://youtu.be/quZHvzsZHwc&t=414) and the [written instructions]() to trace the T-Shirt pattern block onto a new sheet of paper and add seam allowances. Use a clear ruler to add seam allowances as indicated in the instructions and video. You can use a 5/8" seam allowance rather than 1/2" so you have more room for seam finishes.

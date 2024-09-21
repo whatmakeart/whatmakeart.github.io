@@ -1,7 +1,7 @@
 ---
 title: 03.04 Pocket Bag Assignment
 date: 2024-09-16T09:00:00
-lastmod: 2024-09-20T16:29:07
+lastmod: 2024-09-21T07:26:45
 ---
 
 ## Assignment Deliverables
@@ -13,6 +13,7 @@ lastmod: 2024-09-20T16:29:07
 - Incorporate a minimum of 2 pockets (You can use the pockets that you have already sewn or you can sew new pockets.)
 - Use a zipper to close the interior of the bag _(Use the provided zipper from class or a zipper supplied by you. If you need a different size zipper for your design, email your instructor to get a longer or shorter zipper.)_
 - Add a lining to the interior of the bag to conceal all raw edges of fabric. (The lining will basically be the same shape as the exterior of the bag and will conceal raw edges of fabric. You can also use the serger to finish interior seams before making the lining.)
+- Add straps or handles or other way to carry the bag
 
 ## Additional Notes
 

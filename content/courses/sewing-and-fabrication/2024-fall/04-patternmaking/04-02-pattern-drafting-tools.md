@@ -1,7 +1,7 @@
 ---
-title: 03.01 Pattern Drafting Tools
+title: 04.02 Pattern Drafting Tools
 date: 2024-09-23T09:00:00
-lastmod: 2024-09-16T11:57:54
+lastmod: 2024-09-21T07:26:45
 ---
 
 - Hipcurve

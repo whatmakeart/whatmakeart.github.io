@@ -1,8 +1,14 @@
 ---
-title: 03.07 Duplicate Pants Pattern Drafted Assignment
+title: 04.09 Shirt and Pants to Jumpsuit Pattern Assignment
 date: 2024-09-23T09:00:00
-lastmod: 2024-09-16T11:57:54
+lastmod: 2024-09-21T07:26:32
 ---
+
+## Assignment Deliverables
+
+## Overview
+
+Add at least 2 inches of length for movement
 
 ## Assignment Deliverables
 
@@ -28,27 +34,3 @@ _The below blocks are needed to sew pants but not needed for pattern assignment_
 - Rear Pocket
 - Belt loop Block
 - Front Pocket Piece Block - (small piece between front pocket edge and outseam)
-
-## Pattern Pieces with Seam Allowances Needed
-
-1. Front of Pants
-2. Back of Pants
-3. Fly Facing
-4. Waistband
-
-## Grading Rubric
-
-<div class="responsive-table-markdown">
-
-| Assessment                         | Weight    |
-| ---------------------------------- | --------- |
-| Front Block                        | 10 points |
-| Back Block                         | 10 points |
-| Fly Facing Block                   | 10 points |
-| Waitsband Block                    | 10 points |
-| Front of Pants with Seam Allowance | 15 points |
-| Back of Pants with Seam Allowance  | 15 points |
-| Fly Facing with Seam Allowance     | 15 points |
-| Waistband with Seam Allowance      | 15 points |
-
-</div>

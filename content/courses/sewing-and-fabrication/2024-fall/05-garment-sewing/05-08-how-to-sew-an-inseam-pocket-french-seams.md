@@ -1,7 +1,8 @@
 ---
 title: 04.02 How to Sew an Inseam Pocket with French Seams
-date: 2024-09-23T09:00:00
-lastmod: 2024-09-16T11:57:54
+date: 2024-09-30T09:00:00
+
+lastmod: 2024-09-21T07:26:45
 toc: true
 ---
 
