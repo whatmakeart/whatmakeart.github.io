@@ -1,7 +1,7 @@
 ---
 title: AI
 date: 2023-05-23T21:59:42
-lastmod: 2024-09-19T17:31:01
+lastmod: 2024-09-21T06:26:17
 ---
 
 ## AI Creation
@@ -52,5 +52,6 @@ I read "Computer Algorithms Analyzing Paintings" in the November 19, 2014 _Artfo
 - [paper of 1988 biased algorithm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2545288/?page=1)
 - [Google article about text embedded bias in news articles especially related to gender stereotypes](https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html?m=1)
 - https://architizer.com/blog/inspiration/stories/element-architectural-visualization-ai/
+- [Why AI image editing isn’t ‘just like Photoshop’ - The Verge](https://www.theverge.com/24242800/ai-image-editing-photoshop-misinformation-deepfakes-elon-musk-grok-decoder-interview)
 
 [^1]: Brunton, Finn. "The Hidden Variable." Artforum. November 2014. 119-120.
