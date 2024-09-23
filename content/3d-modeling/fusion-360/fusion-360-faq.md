@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 FAQ
 date: 2023-06-15T15:27:02
-lastmod: 2024-02-21T09:49:19
+lastmod: 2024-09-23T08:32:28
 tags:
   - Fusion 360
 ---
@@ -44,6 +44,10 @@ tags:
 ### Advanced Modeling
 
 - [How to make a knurled texture like a handlebar grip?](https://youtu.be/xHas0R5-6uc)
+
+## Mesh Workspace
+
+- [STL to Solid](./stl-to-solid-fusion-360.md)
 
 ## Form Workspace
 

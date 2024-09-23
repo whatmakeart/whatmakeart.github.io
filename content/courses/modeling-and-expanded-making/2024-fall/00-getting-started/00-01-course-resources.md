@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-21T09:00:00
-lastmod: 2024-09-04T05:24:55
+lastmod: 2024-09-23T08:31:39
 ---
 
 ## Sketching
@@ -37,6 +37,10 @@ lastmod: 2024-09-04T05:24:55
 - [Export Paper Model](https://extensions.blender.org/add-ons/export-paper-model/) - Export printable net of the active mesh.
 - [Edit Mesh Tools](https://extensions.blender.org/add-ons/edit-mesh-tools/) - Mesh modelling toolkit. Several tools to aid modelling.
 - [fSpy Blender](https://github.com/stuffmatic/fSpy-Blender/tree/v1.0.3) - fSpy Blender importer.
+
+## Fusion 360 FAQ
+
+![Link to included file content](../../../../3d-modeling/fusion-360/fusion-360-faq.md)
 
 ## AI Mesh Generation
 

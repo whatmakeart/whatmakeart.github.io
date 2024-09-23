@@ -1,40 +1,24 @@
 ---
 title: 00.01 Course Resources
 date: 2024-07-18T10:18:39
-lastmod: 2024-09-19T17:51:12
+lastmod: 2024-09-23T05:34:56
 ---
-
-## Sketching
-
-- [Ideation Sketches](../../../../drawing/ideation-sketches.md)
-
-## External Sewing Links
-
-The sites below contain a wealth of information about sewing and pattern making and are worth browsing and reading.
-
-- [AllFreeSewing.com Tutorials](https://www.allfreesewing.com/Basics-and-Tutorials)
-- [BluePrintsforSewing.com Tutorials](http://www.blueprintsforsewing.com/tutorials)
-- [Fashion-Incubator.com Tutorials](https://fashion-incubator.com/tutorials/)
-- [ThreadsMagazine.com How To](https://www.threadsmagazine.com/how-to)
-
-## Books
-
-- The Entrepreneur’s Guide to Sewn Product Manufacturing by Kathleen Fasanella 1997. ISBN 0-9663208-4-0
-- Metric Pattern Cutting by Winifred Aldrich. Book. Publisher: Blackwell Science. ISBN 0-632-03612-5
-- Pattern-making Made Easy Book. by Connie Crawford. ISBN 0-964-95167-3
-- Sewing for the Apparel Industry by Claire Schaeffer. (2nd Edition) Book. ISBN 0-131-88443-3
 
 ## Sewing Material Suppliers
 
 We have most of the needed supplies to get started in the course and complete the technical exercises. Later in the semester based on the content of your projects, you may need materials that are not available in SEM. Some materials are available for purchase on the [CIA Store](https://my.cia.edu/ICS/Departments/CIA_Store/Sculpture__Expanded_Media/). Below are some local and online retailers for sewing supplies, fabric and notions. If you have an idea and are not sure what material to use or if you want to use a material but are not sure how to get it, please ask your faculty.
 
-### Fabric
+### Local Fabric Suppliers
 
-[Upcycle Parts Shop](https://www.upcyclepartsshop.org/) - Local Cleveland business that has all kinds of fabric, sewing supplies and other cool stuff at very low prices. Definitely check them out.
+- [Upcycle Parts Shop](https://www.upcyclepartsshop.org/) - Local Cleveland business that has all kinds of fabric, sewing supplies and other cool stuff at very low prices. Definitely check them out.
+- [Schindler's Fabric Shops](https://schindlersfabrics.com/) - 9933 Lorain Ave, Cleveland, OH 44102
+- [The Quilting Bee LLC](http://www.thequiltingbeeonline.com/) - 15709 Detroit Avenue Lakewood, OH 44107
+- [Carol's Fabric Shop](http://www.carolsfabric.com/) - 1325 N Carpenter Rd, Brunswick, OH 44212
+- [Jo-Ann’s Fabrics](https://www.joann.com/) - 1533 Golden Gate Plaza #153 – (440) 684-1567 - Generally more expensive than many online retailers but has many items in stock. Also has fabric available on sale that can be good deals if you go hunting.
+- Thrift Stores such as Goodwill, Salvation Army, the Cache are good places to get unique materials for projects.
+- [Bolt & Spool](http://www.boltandspool.com/) - 2026 Murray Hill Rd Room 104, Cleveland, OH 44106 - In little Italy near campus.
 
-[Jo-Ann’s Fabrics](https://www.joann.com/) - 1533 Golden Gate Plaza #153 – (440) 684-1567 - Generally more expensive than many online retailers but has many items in stock. Also has fabric available on sale that can be good deals if you go hunting.
-
-Thrift Stores such as Goodwill, Salvation Army, the Cache are good places to get unique materials for projects.
+### Online Fabric Suppliers
 
 The online retailers below also have a wide selection of fabric but you must plan ahead due to shipping times.
 
