@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2024-08-21T09:00:00
-lastmod: 2024-09-23T08:37:07
+lastmod: 2024-09-25T10:31:43
 ---
 
 ## Modeling and Expanded Making Syllabus
@@ -86,14 +86,14 @@ Projects must be turned in on time. On time is before the beginning of class on 
 | 4        | September 11 | [Photogrammetry, Modeling, 3D Printing](../04-photogrammetry-modeling-3d-printing/04-00-introduction.md) |
 | 5        | September 18 | [Laser Cutting and 3D Printing](../05-laser-cutting-and-3d-printing/05-00-introduction.md)               |
 | 6        | September 25 | [Modeling for Digital Fabrication](../06-modeling-for-digital-fabrication/06-00-introduction.md)         |
-| 7        | October 2    | 3D Scanning and Integration                                                                              |
-| 8        | October 9    | CNC Machining with ShopBot                                                                               |
+| 7        | October 2    | Studio Work                                                                                              |
+| 8        | October 9    | 3D Scanning and Integration                                                                              |
 | 9        | October 16   | Real-World Scale 3D Scanning and Fitting                                                                 |
 | 10       | October 23   | Preparing Submissions for Public Art RFPs                                                                |
 | 11       | October 30   | High-Quality Visual Documentation and Presentation                                                       |
 | 12       | November 6   | Advanced Digital Fabrication Projects                                                                    |
 | 13       | November 13  | Advanced 3D Modeling and Rendering                                                                       |
-| 14       | November 20  | Studio Work                                                                                              |
+| 14       | November 20  | CNC Machining with ShopBot                                                                               |
 | 15       | November 27  | Thanksgiving Break                                                                                       |
 | 16       | December 4   | Mid-Year BFA Crits                                                                                       |
 | 17       | December 11  | Final Crit                                                                                               |

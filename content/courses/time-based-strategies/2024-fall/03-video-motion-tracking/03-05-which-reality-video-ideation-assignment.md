@@ -1,12 +1,12 @@
 ---
 title: 03.06 Which Reality Video Ideation Assignment
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-17T12:37:46
+lastmod: 2024-09-25T05:11:03
 ---
 
 ## Assignment Deliverables
 
-1. Upload .pdf of research and ideation sketches
+1. Upload .pdf of research and [ideation sketches](../../../../drawing/ideation-sketches.md)
    - Label file YYYYMMDD Lastname Firstname Which Reality Video Ideation.pdf
 
 ## Overview
@@ -15,7 +15,7 @@ Review the artists and videos on the [green screen video art](./03-01-green-scre
 
 Review the criteria for the [Which Reality Video Assignment](./03-07-which-reality-video-assignment.md). Use your video research as the basis for developing your own ideas and ideation about future abstract video creations a created reality video that uses abstract video, motion tracking and green screens.
 
-It can be helpful to draw [storyboards](../../../../video/storyboards.md) to make ideas and [ideation sketches](../../../../drawing/ideation-sketches.md) about the [Which Reality Video Assignment](./03-07-which-reality-video-assignment.md).
+It can be helpful to draw [storyboards](../../../../video/storyboards.md) to make ideas and ideation sketches about the [Which Reality Video Assignment](./03-07-which-reality-video-assignment.md).
 
 ## Grading Rubric
 
@@ -23,9 +23,9 @@ It can be helpful to draw [storyboards](../../../../video/storyboards.md) to mak
 
 | Assessment                   | Weight    |
 | ---------------------------- | --------- |
-| Notes About Artists          | 15 points |
-| Which Reality Video Ideation | 15 points |
-| Sketches                     | 10 points |
+| Notes About Artists          | 30 points |
+| Which Reality Video Ideation | 30 points |
+| Sketches                     | 30 points |
 | File Management              | 10 points |
 
 </div>
