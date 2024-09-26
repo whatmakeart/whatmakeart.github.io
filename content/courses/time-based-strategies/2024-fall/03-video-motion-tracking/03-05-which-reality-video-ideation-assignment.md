@@ -1,7 +1,7 @@
 ---
 title: 03.06 Which Reality Video Ideation Assignment
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-25T05:11:03
+lastmod: 2024-09-26T15:37:55
 ---
 
 ## Assignment Deliverables
@@ -21,11 +21,11 @@ It can be helpful to draw [storyboards](../../../../video/storyboards.md) to mak
 
 <div class="responsive-table-markdown">
 
-| Assessment                   | Weight    |
-| ---------------------------- | --------- |
-| Notes About Artists          | 30 points |
-| Which Reality Video Ideation | 30 points |
-| Sketches                     | 30 points |
-| File Management              | 10 points |
+| Assessment                           | Weight    |
+| ------------------------------------ | --------- |
+| Notes About Artists                  | 30 points |
+| Which Reality Video Ideation Variety | 30 points |
+| Ideation Sketches and Depth          | 30 points |
+| File Management                      | 10 points |
 
 </div>
