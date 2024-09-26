@@ -1,7 +1,7 @@
 ---
 title: 02.11 Abstract Video Research and Ideation Assignment
 date: 2024-09-03T12:00:00Z
-lastmod: 2024-09-04T05:27:08
+lastmod: 2024-09-26T17:01:07
 ---
 
 ## Assignment Deliverables
@@ -23,11 +23,11 @@ Draw frames and compositions of potential abstract videos. Think about abstract 
 
 <div class="responsive-table-markdown">
 
-| Assessment              | Weight    |
-| ----------------------- | --------- |
-| Notes About Artists     | 15 points |
-| Abstract Video Ideation | 15 points |
-| Sketches                | 10 points |
-| File Management         | 10 points |
+| Assessment                      | Weight    |
+| ------------------------------- | --------- |
+| Notes About Artists             | 20 points |
+| Abstract Video Ideation Variety | 20 points |
+| Ideation Sketches, Depth        | 20 points |
+| File Management                 | 10 points |
 
 </div>
