@@ -1,7 +1,7 @@
 ---
 title: After Effects
 date: 2023-09-04T20:42:04
-lastmod: 2024-09-19T20:06:10
+lastmod: 2024-09-26T21:30:51
 ---
 
 After Effects is a 2D and 3D video compositing program made by Adobe
@@ -23,8 +23,12 @@ After Effects is a 2D and 3D video compositing program made by Adobe
 
 - [3D Camera Tracking](./how-to-track-3d-camera-after-effects.md)
 - [Normalize 3D Camera Track](normalize-3d-camera-track-after-effects.md)
-- [Mocha AE Planar Tracking](./mocha-ae-planar-tracking-generative-fill.md)
 - [3D Objects in After Effects](./3d-objects-in-after-effects.md)
+
+### Planar Tracking with Boris FX Mocha
+
+- [Mocha AE Planar Tracking](./mocha-ae-planar-tracking-generative-fill.md)
+- [Track Glasses](./track-glasses-boris-fx-mocha-after-effects.md)
 
 ### Abstract Video
 
