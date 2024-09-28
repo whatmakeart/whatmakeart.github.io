@@ -1,7 +1,7 @@
 ---
 title: 05.06 Laser Cut and 3D Print Ideation Assignment
 date: 2024-09-18T09:00:00
-lastmod: 2024-09-19T11:43:11
+lastmod: 2024-09-28T08:38:42
 ---
 
 ## Assignment Deliverables
@@ -29,3 +29,16 @@ Using your sketches as a guide, fabricate a proportionate physical model of your
 - [Ideation Sketches](../../../../drawing/ideation-sketches.md)
 - [Technical Sketching](../../../../drawing/technical-sketching.md)
 - [Cardboard Construction](../../../../making/cardboard-construction.md)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Ideation Sketches Variety    | 35 points |
+| Ideation Sketches and Depth  | 35 points |
+| Sketch Documentation Quality | 20 points |
+| File Management              | 10 points |
+
+</div>
