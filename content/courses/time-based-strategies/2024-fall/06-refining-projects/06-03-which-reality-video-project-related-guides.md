@@ -1,8 +1,18 @@
 ---
 title: 06.03 Which Reality Video Project Related Guides
 date: 2024-10-01T12:00:00
-lastmod: 2024-09-26T21:30:41
+lastmod: 2024-09-29T21:18:19
 ---
+
+## Project Related Resources
+
+### Datamoshing
+
+- [Supermosh](https://supermosh.github.io/) - Browser based datamoshing
+- [ffmpeg Datamosh](https://github.com/whatmakeart/ffmpeg-datamosh) - Datamoshing video with ffmpeg
+- [ffmpeg Audio Mosh](https://github.com/whatmakeart/ffmpeg-audio-mosh) - Datamoshing video with ffmpeg audio filters
+
+## Project Related Tutorials
 
 <div class="video-grid">
 
