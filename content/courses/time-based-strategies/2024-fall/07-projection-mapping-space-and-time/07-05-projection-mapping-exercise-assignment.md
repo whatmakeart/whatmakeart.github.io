@@ -1,7 +1,7 @@
 ---
-title: 06.06 Projection Mapping Exercise Assignment
+title: 07.05 Projection Mapping Exercise Assignment
 date: 2024-10-08T12:00:00
-lastmod: 2024-09-24T05:54:42
+lastmod: 2024-10-01T20:12:00
 ---
 
 ## Assignment Deliverables

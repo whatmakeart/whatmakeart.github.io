@@ -1,7 +1,7 @@
 ---
-title: 06.04 Projection Mapping Software
+title: 07.03 Projection Mapping Software
 date: 2024-10-08T12:00:00
-lastmod: 2024-09-24T05:54:42
+lastmod: 2024-10-01T20:12:00
 ---
 
 ## Projection Mapping Content Creation Resources

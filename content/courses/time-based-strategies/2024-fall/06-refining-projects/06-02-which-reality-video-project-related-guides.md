@@ -1,7 +1,7 @@
 ---
-title: 06.03 Which Reality Video Project Related Guides
+title: 06.02 Which Reality Video Project Related Guides
 date: 2024-10-01T12:00:00
-lastmod: 2024-09-30T06:58:43
+lastmod: 2024-10-01T20:12:00
 ---
 
 ## Project Related Resources

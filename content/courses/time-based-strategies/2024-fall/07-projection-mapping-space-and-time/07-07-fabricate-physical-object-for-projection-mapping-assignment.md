@@ -1,7 +1,7 @@
 ---
-title: 06.08 Fabricate Physical Object for Projection Mapping
+title: 07.07 Fabricate Physical Object for Projection Mapping
 date: 2024-10-08T12:00:00
-lastmod: 2024-09-24T05:54:42
+lastmod: 2024-10-01T20:12:00
 ---
 
 ## Assignment Deliverables

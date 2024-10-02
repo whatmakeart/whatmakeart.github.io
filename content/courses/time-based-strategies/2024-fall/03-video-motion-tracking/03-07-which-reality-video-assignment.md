@@ -1,7 +1,7 @@
 ---
 title: 03.08 Which Reality Video Assignment
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-17T12:37:29
+lastmod: 2024-10-01T20:12:00
 ---
 
 ## Assignment Deliverables
@@ -17,12 +17,12 @@ Answer the question, "Which reality?" Is this reality or is it an illusion? How 
 
 Review the artists and videos on the [green screen video art](./03-01-green-screen-video-art.md) page. Watch the videos, visit the artists' websites, go down algorithmic rabbit holes on YouTube and Vimeo. Make notes about what you find interesting and why. Also, take a second look the artists and videos on the [Abstract Video](../02-video-selection-tools-and-effects/02-09-abstract-video.md) page in the previous module.
 
-Use a combination of [chroma keying](../02-video-selection-tools-and-effects/02-02-chroma-key-basics.md), [rotoscoping](../02-video-selection-tools-and-effects/02-07-roto-brush-tool-after-effects.md), luma keys, [generative video](./03-02-generate-abstract-video.md), [found footage](../02-video-selection-tools-and-effects/02-12-public-domain.md), sounds, 3D environments and other video compositing techniques.
+Use a combination of [chroma keying](../02-video-selection-tools-and-effects/02-02-chroma-key-basics.md), [rotoscoping](../02-video-selection-tools-and-effects/02-07-roto-brush-tool-after-effects.md), [generative video](./03-02-generate-abstract-video.md), [found footage](../02-video-selection-tools-and-effects/02-12-public-domain.md), sounds, 3D environments and other video compositing techniques.
 
 ### Final Video Requirements
 
 - Minimum 30 seconds to a maximum of 60 seconds
-- At least one self generated analog abstract video, can use more
+- At least one self generated abstract video created in camera
 - At least one self generated digital abstract video, can use more
 - At least one green screen shot, can use more
 - At least one camera tracking shot, can use more
@@ -53,3 +53,57 @@ Removing the original context by changing the depicted place or environment can 
 ### Use Motion Tracking and Camera Tracking
 
 Green screen shots are easiest to composite when done with a static camera on a tripod, but this can create less dynamic shots than if the camera was moving. One can simply have camera movement but this will likely make the footage bounce around in the viewport. A better way is to 3D camera track the footage so that other objects and footage composited into the scene track along with the green screen footage. This can range in complexity from a simple 2D track or a swirling 3D camera track.
+
+## Project Resources
+
+### Generate Abstract Video
+
+<div class="video-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/C9RFlNOnGk8?si=KK2Xmp64FfcUSAEc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Vgd1twRj2cA?si=Tl-Z8r2wvXIK_tN3?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/S9Iyd2gYnOk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/oDwx-MjtmPM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+</div>
+
+### Camera Tracking
+
+<div class="video-grid">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/V2V9s4ESw2s?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ueKyJXWq_cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/O7In76r9nV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+</div>
+
+### Planar Tracking with Mocha in After Effects
+
+<div class="video-grid">
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/muZPsS9sqnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/gRVs-A9XqCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+</div>
