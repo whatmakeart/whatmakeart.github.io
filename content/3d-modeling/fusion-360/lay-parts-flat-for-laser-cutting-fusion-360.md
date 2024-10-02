@@ -1,9 +1,10 @@
 ---
-title: Fusion 360 Lay Parts Flat for Laser Cutting
+title: Lay Parts Flat for Laser Cutting in Fusion 360
 date: 2023-06-14T13:04:03
-lastmod: 2024-01-25T05:33:11
+lastmod: 2024-10-01T20:51:11
 tags:
   - Fusion 360
+  - Laser Cutting
 ---
 
 Once your model is complete and each piece is a separate and labeled component, you are ready to lay your pieces flat to create a DXF toolpath file for the laser cutter.
