@@ -1,10 +1,10 @@
 ---
 title: Photogrammetry
 date: 2024-09-25T05:06:07
-lastmod: 2024-09-25T05:06:39
+lastmod: 2024-10-04T10:29:56
 ---
 
-Photogrammetry uses multiple 2D images takes from different yet overlapping angles to create a 3D mesh with textures.
+Photogrammetry uses multiple 2D images takes from different yet overlapping angles to create a 3D mesh with textures. To achieve the highest detail and most accurate 3D model from the real world, [3D scanning](./3d-scanning.md) is recommended.
 
 ## Photogrammetry Software Tutorials
 
