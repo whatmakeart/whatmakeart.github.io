@@ -1,7 +1,7 @@
 ---
 title: 03.08 Which Reality Video Assignment
 date: 2024-09-10T12:00:00
-lastmod: 2024-10-05T21:03:04
+lastmod: 2024-10-05T21:12:48
 ---
 
 ## Assignment Deliverables
@@ -53,6 +53,33 @@ Removing the original context by changing the depicted place or environment can 
 ### Use Motion Tracking and Camera Tracking
 
 Green screen shots are easiest to composite when done with a static camera on a tripod, but this can create less dynamic shots than if the camera was moving. One can simply have camera movement but this will likely make the footage bounce around in the viewport. A better way is to 3D camera track the footage so that other objects and footage composited into the scene track along with the green screen footage. This can range in complexity from a simple 2D track or a swirling 3D camera track.
+
+- Minimum 30 seconds to a maximum of 60 seconds
+- At least one self created abstract video created in camera
+- At least one self generated digital abstract video, can use more
+- At least one green screen shot, can use more
+- At least one camera tracking shot, can use more
+- At least one portion of found footage from the public domain
+- Use sounds created by you
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                                  | Weight    |
+| ------------------------------------------- | --------- |
+| 30 - 60 seconds long                        | 25 points |
+| Has Self Created Abstract Video From Camera | 25 points |
+| Has Self Generated Digital Abstract Video   | 25 points |
+| Has Green Screen Shot                       | 25 points |
+| Has Camera Tracking Shot                    | 25 points |
+| Has Found Footage From the Public Domain    | 25 points |
+| Has Self Created Sound                      | 25 points |
+| Creative Concept                            | 30 points |
+| Editing and Post Production                 | 30 points |
+| File Management                             | 10 points |
+
+</div>
 
 ## Project Resources
 
