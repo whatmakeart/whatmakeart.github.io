@@ -1,7 +1,7 @@
 ---
 title: 03.08 Which Reality Video Assignment
 date: 2024-09-10T12:00:00
-lastmod: 2024-10-01T20:55:53
+lastmod: 2024-10-05T21:03:04
 ---
 
 ## Assignment Deliverables
@@ -81,6 +81,8 @@ Green screen shots are easiest to composite when done with a static camera on a 
 ### Camera Tracking
 
 <div class="video-grid">
+
+<div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/V2V9s4ESw2s?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
