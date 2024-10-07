@@ -1,7 +1,7 @@
 ---
 title: 04.08 Duplicate Pants Pattern BlocksAssignment
 date: 2024-09-23T09:00:00
-lastmod: 2024-09-22T20:23:03
+lastmod: 2024-10-07T06:13:49
 ---
 
 ## Assignment Deliverables
@@ -21,11 +21,11 @@ Follow the [instructions](./04-05-how-to-duplicate-pants-pattern.md) to create p
 
 <div class="responsive-table-markdown">
 
-| Assessment       | Weight    |
-| ---------------- | --------- |
-| Front Block      | 25 points |
-| Back Block       | 25 points |
-| Fly Facing Block | 25 points |
-| Waitsband Block  | 25 points |
+| Assessment        | Weight    |
+| ----------------- | --------- |
+| Front Pants Block | 25 points |
+| Back Pants Block  | 25 points |
+| Fly Facing Block  | 25 points |
+| Waitsband Block   | 25 points |
 
 </div>

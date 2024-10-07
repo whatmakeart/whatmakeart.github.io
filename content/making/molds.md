@@ -1,7 +1,7 @@
 ---
-title: Mold
+title: Molds
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-27T08:22:11
+lastmod: 2024-10-07T08:56:35
 ---
 
 A mold is a negative space container that is used in [Casting](../metalworking/casting.md).
@@ -59,7 +59,7 @@ Mold keys have many different designs, but should be made to simply snap togethe
 
 ## Simple Cheap Molds
 
-- [Paper Tape Molds](../sculpture/paper-tape-molds.md) use paper tape wrapped around a form similar to [Paper-Maché](../sculpture/paper-mach%C3%A9.md). After enough layers are added the paper can be cut along desired seams and removed from the form. This is a way to make a custom sized body form for use in designing patterns and garments for [Sewing](../sewing/sewing.md).
+- [Paper Tape Molds](../sculpture/paper-tape-molds.md) use paper tape wrapped around a form similar to [Paper-Maché](../sculpture/paper-maché.md). After enough layers are added the paper can be cut along desired seams and removed from the form. This is a way to make a custom sized body form for use in designing patterns and garments for [Sewing](../sewing/sewing.md).
 - [Hot Glue Gun Molds](hot-glue-gun-molds.md) can make quick detailed molds of objects that can withstand the heat of the glue. Hot melt glue may have air pockets if not applied carefully in the first layer.
 - [Silicone Tube Molds](../sculpture/silicone-tube-molds.md) use 100% silicone caulking to make an inexpensive rubber mold. Silicone needs exposure to moisture or a way for evaporation to take place to cure. If it is applied too thick then the out later will cure and not allow the inside to cure. Mix with a bit of acrylic paint to dry thick pieces.
 

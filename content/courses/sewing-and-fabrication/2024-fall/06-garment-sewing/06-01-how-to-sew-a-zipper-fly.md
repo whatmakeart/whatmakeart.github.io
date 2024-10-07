@@ -1,7 +1,7 @@
 ---
-title: 04.01 How to Sew a Zipper Fly
-date: 2024-09-30T09:00:00
-lastmod: 2024-09-21T07:26:45
+title: 06.01 How to Sew a Zipper Fly
+date: 2024-10-07T09:00:00
+lastmod: 2024-10-07T08:56:35
 toc: true
 ---
 
