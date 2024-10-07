@@ -1,14 +1,14 @@
 ---
 title: Sew Inseam Pockets with French Seams
 date: 2023-05-23T21:59:40
-lastmod: 2024-07-20T04:54:35
+lastmod: 2024-10-07T11:43:56
 ---
 
-This tutorial will show you how to sew simple inseam pockets and finish the seams with french seams.
+This tutorial will show you how to sew simple inseam pockets and finish the seams with [french seams](./how-to-sew-a-french-seam.md).
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with how to thread a sewing maching and how to sew inseam pockets.
+To complete this tutorial you should be familiar with how to thread a sewing machine and how to sew inseam pockets.
 
 ## Instructions
 
