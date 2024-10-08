@@ -1,10 +1,12 @@
 ---
 title: Projection Mapping Basics
 date: 2023-09-29T05:58:32
-lastmod: 2023-10-09T05:54:00
+lastmod: 2024-10-08T06:15:15
 ---
 
 Specialized [projection mapping software](./projection-mapping-software.md) offers the best solution for projection mapping, many graphics programs such as After Effects or Davinci Resolve, can be used to get started with projection mapping. Although After Effects, a general use motion graphics and visual effects program, is not intended for projection mapping, it can be used for simple setups with simple masking. Once you start using dedicated projection mapping software, animations and other video content used in the projection may still be created in a program like After Effects or Davinci Resolve, yet be projected via a dedicated projection mapping program.
+
+- [Projection Mapping Examples](./projection-mapping-examples.md)
 
 ## Projection Mapping Setup
 

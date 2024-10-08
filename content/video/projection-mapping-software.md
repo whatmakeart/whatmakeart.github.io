@@ -1,22 +1,32 @@
 ---
 title: Projection Mapping Software
 date: 2023-09-29T06:00:14
-lastmod: 2023-10-09T05:53:33
+lastmod: 2024-10-08T06:15:04
 ---
 
-## Projection Mapping Software Resources
+## Projection Mapping Content Creation Resources
+
+### Open Source Projection Mapping Software
+
+- [Mapmap](https://mapmapteam.github.io/) - Free and open source
+- [VPT 8](https://hcgilje.wordpress.com/vpt/) - Free and open source realtime projection mapping
+- [OFX Pi Mapper](https://ofxpimapper.com/) - Runs on the Raspberry Pi to display content produced in [openFrameworks](https://openframeworks.cc/) a C++ creative coding toolkit
+
+### Commercial Projection Mapping Software
 
 - [HeavyM](https://www.heavym.net/) - projection mapping content creation tool
-- [Madmapper](https://madmapper.com/) - projection and LED mapping software. [Madmapper projection mapping basics](./madmapper-basics.md)
+- [Madmapper](https://madmapper.com/) - projection and LED mapping software
 - [Touchdesigner](https://derivative.ca/) - is an interactive driven software that can also host projection mapping projects, it offers a resolution limited trial version to learn the software
 - [Splash](https://projection-mapping.org/splash/) - open source multi projector software
 - [Luma](https://www.lumabox.com/lumamap/) - AI powered projection mapping image generator
+- [Mapio](https://visution.com/)
 
 ### Live Performance Software Resources
 
 - [Arkaos](https://vj.arkaos.com/grandvj/about) - VJ liver performance software
 - [Resolume](https://resolume.com/) - node based live playback software
 - [Notch](https://www.notch.one/) - Real time motion graphics and VFX
+- [QLab](https://qlab.app/overview/) - For live playback of sound and show cues
 
 ### LED and Light Mapping
 
@@ -30,3 +40,5 @@ lastmod: 2023-10-09T05:53:33
 - [dataton](https://www.dataton.com/) - multi channel playback software and media servers
 - [Scalable Display Technologies](https://www.scalabledisplay.com/) - multi projector automated alignment software
 - [Mapping Matter](https://www.mappingmatter.com/) - projection mapping simulation and iteration software rather than for content creation
+
+- [Projection Mapping Examples](./projection-mapping-examples.md)
