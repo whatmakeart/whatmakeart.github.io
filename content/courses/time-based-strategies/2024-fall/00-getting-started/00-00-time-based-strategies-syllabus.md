@@ -1,7 +1,7 @@
 ---
 title: 00.00 Time Based Strategies Syllabus
 date: 2024-08-27T12:00:00
-lastmod: 2024-08-22T05:34:31
+lastmod: 2024-10-09T06:37:58
 ---
 
 ## Time Based Strategies Syllabus
@@ -94,24 +94,24 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**     | **Topic**                        |
-| -------- | ------------ | -------------------------------- |
-| 1        | August 27    | Introduction                     |
-| 2        | September 3  | Lecture / Workshop / Studio Work |
-| 3        | September 10 | Lecture / Workshop / Studio Work |
-| 4        | September 17 | Lecture / Workshop / Studio Work |
-| 5        | September 24 | Lecture / Workshop / Studio Work |
-| 6        | October 1    | Lecture / Workshop / Studio Work |
-| 7        | October 8    | Lecture / Workshop / Studio Work |
-| 8        | October 15   | Lecture / Workshop / Studio Work |
-| 9        | October 22   | Fall Break                       |
-| 10       | October 29   | Lecture / Workshop / Studio Work |
-| 11       | November 5   | Lecture / Workshop / Studio Work |
-| 12       | November 12  | Lecture / Workshop / Studio Work |
-| 13       | November 19  | Lecture / Workshop / Studio Work |
-| 14       | November 26  | Lecture / Workshop / Studio Work |
-| 15       | December 3   | Lecture / Workshop / Studio Work |
-| 16       | December 10  | Final Crit                       |
+| **Week** | **Date**     | **Topic**                                                                                                        |
+| -------- | ------------ | ---------------------------------------------------------------------------------------------------------------- |
+| 1        | August 27    | [Video Introduction](../01-video-introduction/01-00-introduction.md)                                             |
+| 2        | September 3  | [Video Selection Tools and Effects](../02-video-selection-tools-and-effects/02-00-introduction.md)               |
+| 3        | September 10 | [Video Motion Tracking](../03-video-motion-tracking/03-00-introduction.md)                                       |
+| 4        | September 17 | [Advanced Tracking Keying and Compositing](../04-advanced-tracking-keying-and-compositing/04-00-introduction.md) |
+| 5        | September 24 | [Project Production](../05-project-production/05-00-introduction.md)                                             |
+| 6        | October 1    | [Refining Projects](../06-refining-projects/06-00-introduction.md)                                               |
+| 7        | October 8    | [Projection Mapping Space and Time](../07-projection-mapping-space-and-time/)                                    |
+| 8        | October 15   | [Projection Mapping 3D Objects](../08-projection-mapping-3d-objects/08-00-introduction.md)                       |
+| 9        | October 22   | Fall Break                                                                                                       |
+| 10       | October 29   | Digtial Fabrication 3D Printing                                                                                  |
+| 11       | November 5   | Digital Fabrication Laser Cutting                                                                                |
+| 12       | November 12  | Sonic Arts Workshop or Multitrack Audio                                                                          |
+| 13       | November 19  | Sonic Arts Workshop                                                                                              |
+| 14       | November 26  | Time Based Synthesis                                                                                             |
+| 15       | December 3   | Time Based Synthesis Studio Work                                                                                 |
+| 16       | December 10  | Final Crit                                                                                                       |
 
 </div>
 
