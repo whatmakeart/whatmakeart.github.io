@@ -1,10 +1,11 @@
 ---
 title: Camera Follow Path in Blender
 date: 2023-12-07T10:49:25
-lastmod: 2024-03-28T06:05:47
+lastmod: 2024-10-15T06:34:51
 tags:
   - Blender
   - Tutorial
+  - 3D Modeling
 ---
 
 <div class="iframe-16-9-container">

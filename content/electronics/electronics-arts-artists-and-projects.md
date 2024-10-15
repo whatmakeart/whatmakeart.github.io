@@ -312,4 +312,13 @@ There is an embedded video of an example of each artist's work. Each artist make
 </div>
 </div>
 
+<div class="video-card">
+
+### [Emma Shannon](https://emmashannon.is/me/)
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/811853461?h=0861f278eb" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+
 </div>

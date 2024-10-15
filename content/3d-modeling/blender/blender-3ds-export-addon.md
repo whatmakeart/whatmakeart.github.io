@@ -1,7 +1,10 @@
 ---
 title: .3ds Export Addon - Blender
 date: 2023-10-10T09:00:00
-lastmod: 2024-02-22T06:45:54
+lastmod: 2024-10-15T06:34:20
+tags:
+  - Blender
+  - 3D Modeling
 ---
 
 ## Go to Edit > Preferences
