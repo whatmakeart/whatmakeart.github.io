@@ -1,7 +1,7 @@
 ---
 title: 04.02 Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2024-09-19T18:09:53
+lastmod: 2024-10-14T20:32:39
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -108,7 +108,7 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | Hot Glue Gun                                                                                                |       |             |             |             |             |
 | Rasp                                                                                                        |       |             |             |             |             |
 | Isadora                                                                                                     |       |             |             |             |             |
-| [Madmapper](../../../../video/madmapper-basics.md)                                                          |       |             |             |             |             |
+| [Madmapper](../../../../video/projection-mapping/madmapper-basics.md)                                       |       |             |             |             |             |
 | Handheld CNC Router                                                                                         |       |             |             |             |             |
 | Hammer                                                                                                      |       |             |             |             |             |
 | [Hand Held Drill](../../../../woodworking/how-to-use-a-hand-drill.md)                                       |       |             |             |             |             |
@@ -141,7 +141,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | [Paper Maché](../../../../sculpture/paper-maché.md)                                                             |       |             |             |             |             |
 | [Motion Capture](../../../../3d-modeling/motion-capture-basics.md)                                              |       |             |             |             |             |
 | [Plastic Bending](../../../../making/plastic-bending-basics.md)                                                 |       |             |             |             |             |
-| [Projection Mapping](../../../../video/projection-mapping-basics.md)                                            |       |             |             |             |             |
+| [Projection Mapping](../../../../video/projection-mapping/projection-mapping-basics.md)                         |       |             |             |             |             |
 | Isometric Sketching                                                                                             |       |             |             |             |             |
 | [Plaster Mixing](../../../../sculpture/plaster.md)                                                              |       |             |             |             |             |
 | [Laser Cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md)                                 |       |             |             |             |             |

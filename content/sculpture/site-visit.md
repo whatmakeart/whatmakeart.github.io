@@ -1,10 +1,10 @@
 ---
 title: Site Visit
 date: 2023-08-25T09:30:00Z
-lastmod: 2024-09-04T05:42:47
+lastmod: 2024-10-14T20:32:39
 ---
 
-A site visit is an important step in planning a [public art](./public-art.md) proposal, a gallery exhibition layout, a custom sculpture fro a client, a [site specific](./site-specific.md) artwork, an [installation art](./installation-art.md) project, or designing for [projection mapping](../video/projection-mapping-basics.md). Before a site visit one will likely have floor plans and / or site plans for the space or location, but that may not be the case if you are drafting a proposal or are creating a visualization for consideration by a client. Plans accompanied by photographs, video, and potentially 3D models can give a good sense of the space but there is no substitute to physically visiting a location.
+A site visit is an important step in planning a [public art](./public-art.md) proposal, a gallery exhibition layout, a custom sculpture fro a client, a [site specific](./site-specific.md) artwork, an [installation art](./installation-art.md) project, or designing for [projection mapping](../video/projection-mapping/projection-mapping-basics.md). Before a site visit one will likely have floor plans and / or site plans for the space or location, but that may not be the case if you are drafting a proposal or are creating a visualization for consideration by a client. Plans accompanied by photographs, video, and potentially 3D models can give a good sense of the space but there is no substitute to physically visiting a location.
 
 When you look at a floor plan, you may not know the height of the ceilings. Or if the ceiling height is indicated for one section, the plans may omit dramatic changes in ceiling height. A site visit can correct these types of omissions. Floor plans for exhibition spaces regularly focus on wall length for the purposes of hanging 2D artwork on the walls. These dimensions are often accurate for determining the spacing of 2D art but may not be accurate enough for planning the fabrication of a large site specific sculpture or installation. It is important to double check measurements on a floor plan with reality when on a site visit.
 

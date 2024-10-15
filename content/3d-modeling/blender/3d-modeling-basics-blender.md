@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling Basics - Blender
 date: 2023-06-14T13:46:52
-lastmod: 2024-02-22T06:45:54
+lastmod: 2024-10-14T20:46:41
 ---
 
 ## Blender User Interface Quick Start
@@ -61,6 +61,7 @@ Blender Default Scene with cube
 </figure>
 
 - [Blender User Interface](https://youtu.be/d54uJufn1pA)
+- [Change Units in Blender](./change-units-blender.md)
 - [Blender Modeling Tools](https://docs.blender.org/manual/en/latest/modeling/index.html)
 - [Blender Hole in Cube](https://youtu.be/COyvicPBTSA)
 - [Blender Beginner Polygon Modeling Tutorial](https://youtu.be/L5e7ysUUI7A)
