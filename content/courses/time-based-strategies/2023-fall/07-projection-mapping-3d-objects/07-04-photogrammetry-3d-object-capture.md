@@ -1,7 +1,8 @@
 ---
 title: 07.04 Photogrammetry 3D Object Capture
 date: 2023-10-10T09:00:00
-lastmod: 2023-10-15T16:43:51
+lastmod: 2024-10-14T21:10:23
+toc: true
 ---
 
-- [Photogrammetry Software](../../../../3d-modeling/photogrammetry-software.md)
+![Link to included file content](../../../../3d-modeling/photogrammetry.md)

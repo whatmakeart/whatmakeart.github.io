@@ -1,7 +1,7 @@
 ---
-title: 08.08 Projection Mapping 3D Modeled Object Assignment
+title: 08.06 Projection Mapping 3D Modeled Object Assignment
 date: 2024-10-15T12:00:00
-lastmod: 2024-10-01T20:12:00
+lastmod: 2024-10-14T21:12:18
 ---
 
 ## Assignment Deliverables
