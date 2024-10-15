@@ -1,7 +1,7 @@
 ---
-title: 08.01 Import Artec LEO Scan to Blender
+title: 09.01 Import Artec LEO Scan to Blender
 date: 2024-10-16T09:00:00
-lastmod: 2024-10-13T18:45:56
+lastmod: 2024-10-14T21:17:20
 toc: true
 ---
 
