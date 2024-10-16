@@ -1,14 +1,14 @@
 ---
 title: 09.04 Laser Cut and 3D Print Project Photo Documentation Assignment
 date: 2024-02-22T12:00:00Z
-lastmod: 2024-10-16T06:09:18
+lastmod: 2024-10-16T06:41:26
 ---
 
 ## Assignment Deliverables
 
 1. Minimum of 2 post processed photographs of laser cut and 3D priny project. (png,jpg)
    - Label files YYYYMMDD Lastname Firstname Laser Cut 3D Print Photo
-2. Original RAW photo files (dng, cr2, arw)
+2. Original RAW photo files (dng, cr2, arw, etc)
    - Label files YYYYMMDD Lastname Firstname Laser Cut 3D Print Raw Photo
 
 ## Assignment Overview
@@ -19,10 +19,19 @@ High quality photos can be taken with a bare minimum photography setup. This set
 
 ## Assignment Resources
 
-- [How to Document 3D Artwork](../../../../photography/how-to-document-3d-artwork.md)
+### Seamless Backdrop & Photography Resources
+
 - [How to Setup Seamless Paper Backdrop - Superspec Blog](https://superspec.com/blog/how-to-setup-seamless-paper-backdrop/)
+- [Product Photography Lighting Guide - John Mak Photography](https://johnmakphotography.com/product-photography-lighting-guide/)
+- [The ONLY Product Photography Tutorial you NEED to watch - Luke Ayers](https://youtu.be/f_vF3J1ayww)
+- [Essential Guide to Backdrops - Westcottu](https://westcottu.com/the-essential-guide-to-backdrops)
+
+### Documentation Resources
+
+- [How to Document 3D Artwork](../../../../photography/how-to-document-3d-artwork.md)
 - [Think[box] Photo Documentation Instructions](../../../../photography/thinkbox-photo-documentation-instructions.md)
 - [How to Edit Photos in Camera RAW](../../../../photography/how-to-edit-photos-in-adobe-camera-raw.md)
+- [Basic Camera Settings](../../../../photography/basic-camera-settings.md)
 
 ## Camera and Photo Editing Tutorial Videos
 

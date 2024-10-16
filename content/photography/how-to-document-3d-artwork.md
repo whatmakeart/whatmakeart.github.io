@@ -1,7 +1,7 @@
 ---
 title: How to Document 3D Artwork
 date: 2023-05-30T00:41:39
-lastmod: 2024-10-16T06:00:09
+lastmod: 2024-10-16T06:22:31
 ---
 
 <figure>
