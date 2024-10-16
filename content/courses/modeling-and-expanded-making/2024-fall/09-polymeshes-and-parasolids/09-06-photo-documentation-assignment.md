@@ -1,7 +1,7 @@
 ---
 title: 09.04 Laser Cut and 3D Print Project Photo Documentation Assignment
 date: 2024-02-22T12:00:00Z
-lastmod: 2024-10-16T06:41:26
+lastmod: 2024-10-16T06:49:06
 ---
 
 ## Assignment Deliverables
@@ -36,6 +36,15 @@ High quality photos can be taken with a bare minimum photography setup. This set
 ## Camera and Photo Editing Tutorial Videos
 
 <div class="video-grid">
+
+<div class="video-card">
+
+### The ONLY Product Photography Tutorial you NEED to watch - Luke Ayers
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/f_vF3J1ayww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="video-card">
 
