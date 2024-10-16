@@ -1,8 +1,19 @@
 ---
 title: How to Document 3D Artwork
 date: 2023-05-30T00:41:39
-lastmod: 2024-07-21T08:37:48
+lastmod: 2024-10-16T06:00:09
 ---
+
+<figure>
+
+[![Seamless Paper Backdrop 3D Render](./attachments/2024-10-16-seamless-paper-backdrop-3d-render.jpg)](./attachments/2024-10-16-seamless-paper-backdrop-3d-render.jpg)
+
+<figcaption>
+
+Seamless Paper Backdrop for photographing 3D objects
+
+</figcaption>
+</figure>
 
 ## Can I Use my Cellphone?
 
