@@ -43,6 +43,15 @@ There is an embedded video of an example of each artist's work. Each artist make
 
 <div class="video-card">
 
+### I Made Flowers That Dance to Your Hand Gestures (AI + ESP32)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/iklbZA33VHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
 ### [Nelo Akamatsu](http://www.neloakamatsu.jp/chijikinkutsu-eng.html)
 
 <div class="iframe-16-9-container">

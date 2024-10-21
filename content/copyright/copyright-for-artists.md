@@ -1,7 +1,7 @@
 ---
 title: Copyright for Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-09-19T18:05:21
+lastmod: 2024-10-21T15:01:45
 ---
 
 ## Public Domain Cases
@@ -162,3 +162,5 @@ https://www.cnn.com/2019/03/20/tech/peloton-lawsuit-music-licensing-infringement
 [‘This Land Is Your Land’ Is Still Private Property, Court Rules](https://nyti.ms/2Pwmz00)
 
 [Logan Square Artist Says Local Chamber Of Commerce Board Member Copied Her Work](https://blockclubchicago.org/2024/07/17/logan-square-artist-says-local-chamber-of-commerce-board-member-copied-her-work/)
+
+[Art Collective Behind Viral Image of Kamala Harris Sues for Copyright Infringement](https://news.artnet.com/art-world/kamala-harris-image-lawsuit-2551867)

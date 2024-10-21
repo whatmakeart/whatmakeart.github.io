@@ -1,7 +1,7 @@
 ---
 title: Video Wall
 date: 2023-05-23T21:59:40
-lastmod: 2023-10-09T06:06:59
+lastmod: 2024-10-21T14:22:07
 ---
 
 Video walls and synced video to multiple monitors or projectors is a common task for video and multimedia [art-installations](../sculpture/art-installations.md). More powerful computers and single board computers like the [Raspberry-Pi](../raspberry-pi/raspberry-pi.md) make this process much easier but it is still complex.
@@ -37,3 +37,7 @@ For a bit more DIY but still commercial product, use Raspberry Pi's set up as vi
 ### VLC on a Single Computer with Multiple Monitors
 
 You can also use VLC player on a laptop or computer with both projectors connected to it. It has a feature to split into a video wall but may not have perfect frame sync.
+
+### Other Options
+
+[HowTo Sync – MP4MUSEUM](https://mp4museum.org/howto-sync/)

@@ -37,6 +37,10 @@ title: Electronics Soldering Basics
 
 ## Soldering Safety
 
+- [Little foam fume extractors do nothing](https://pubmed.ncbi.nlm.nih.gov/9838864/)
+- [EHS Guideline - Soldering Safety - Carnegie Mellon University](https://www.cmu.edu/ehs/Laboratory-Safety/chemical-safety/documents/ehs-guideline---soldering-safety.pdf)
+- [Pace Soldering Videos](https://www.youtu.be/vIT4ra6Mo0s)
+
 Soldering poses a number of risks ranging from hazardous materials, production of particulate matter and fumes, and potential burns from the hot soldering iron. Simple common sense precautions can keep you safe while soldering. Safety glasses should be worn to prev ent hot solder from splashing into your eyes.
 
 ### Fumes and Smoke

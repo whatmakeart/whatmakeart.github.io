@@ -1,7 +1,7 @@
 ---
 title: AI
 date: 2023-05-23T21:59:42
-lastmod: 2024-09-21T06:26:17
+lastmod: 2024-10-21T15:01:29
 ---
 
 ## AI Creation
@@ -10,7 +10,6 @@ lastmod: 2024-09-21T06:26:17
 - [GitHub - shaoanlu/fewshot-face-translation-GAN: Generative adversarial networks integrating modules from FUNIT and SPADE for face-swapping](https://github.com/shaoanlu/fewshot-face-translation-GAN)
 - [AI Art Experiments with Blind Users - Artnet](https://news.artnet.com/art-world/ai-art-experiments-blind-users-2368599)
 - [Stable Diffusion](stable-diffusion.md) is an open source AI image generator
-- [AI Video Generation](../courses/time-based-strategies/2023-fall/drafts/ai-video-generation.md)
 
 ### Google Collab Links
 
@@ -53,5 +52,6 @@ I read "Computer Algorithms Analyzing Paintings" in the November 19, 2014 _Artfo
 - [Google article about text embedded bias in news articles especially related to gender stereotypes](https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html?m=1)
 - https://architizer.com/blog/inspiration/stories/element-architectural-visualization-ai/
 - [Why AI image editing isn’t ‘just like Photoshop’ - The Verge](https://www.theverge.com/24242800/ai-image-editing-photoshop-misinformation-deepfakes-elon-musk-grok-decoder-interview)
+- [Arizona law school embraces ChatGPT use in student applications | Ars Technica](https://arstechnica.com/information-technology/2023/07/ai-assisted-law-school-applications-get-green-light-at-arizona-state/)
 
 [^1]: Brunton, Finn. "The Hidden Variable." Artforum. November 2014. 119-120.
