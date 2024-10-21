@@ -1,7 +1,7 @@
 ---
 title: Mocha AE Planar Tracking and Generative Fill
 date: 2023-09-04T21:23:08
-lastmod: 2024-09-19T20:02:42
+lastmod: 2024-10-21T13:58:54
 ---
 
 <div class="iframe-16-9-container">
@@ -13,3 +13,10 @@ Planar tracking with the Mocha plugin in [After Effects](./after-effects.md) off
 To access the plugin in After Effects:
 
 Animation > Boris FX Mocha AE
+
+## Boris FX Resources
+
+
+
+
+- [Training Series | Boris FX](https://borisfx.com/free-training/mocha-essentials/)

@@ -1,7 +1,7 @@
 ---
 title: Track Glasses with Boris FX Mocha in After Effects
 date: 2024-09-26T21:26:32
-lastmod: 2024-09-27T04:24:16
+lastmod: 2024-10-21T14:03:19
 ---
 
 <div class="iframe-16-9-container">
@@ -88,3 +88,7 @@ This Adobe After Effects tutorial walks through the process of using Boris FX Mo
 - **Preview and Adjust**: Play back your composition to ensure the reflections track correctly and adjust any final settings like feathering, transparency, or mask positions.
 
 By following these steps, you can seamlessly replace the glass in the glasses with any creative effect of your choice. The tutorial uses a colorful LED reflection, but you can swap this with any visual element that fits your project! Happy planar tracking!
+
+## Boris FX Resources
+
+- [Training Series | Boris FX](https://borisfx.com/free-training/mocha-essentials/)
