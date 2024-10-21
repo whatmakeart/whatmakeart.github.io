@@ -1,7 +1,7 @@
 ---
 title: 09.04 Laser Cut and 3D Print Project Photo Documentation Assignment
 date: 2024-02-22T12:00:00Z
-lastmod: 2024-10-16T06:49:06
+lastmod: 2024-10-21T08:34:17
 ---
 
 ## Assignment Deliverables
