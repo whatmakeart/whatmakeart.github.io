@@ -1,7 +1,7 @@
 ---
 title: Blender
 date: 2023-05-26T02:54:03
-lastmod: 2024-10-15T06:34:36
+lastmod: 2024-10-26T06:38:47
 tags:
   - Blender
   - 3D Modeling
@@ -16,11 +16,17 @@ tags:
 - [Blender Add Materials](./blender-add-materials.md)
 - [Blender 3D Animation](./3d-animation-blender.md)
 
+## Blender Modifiers
+
+- [Flat Bottom with Boolean Intersect Tool in Blender](./flat-bottom-3d-scan-boolean-intersect-blender.md)
+
 ## Blender Physics
 
 - [Blender Cloth](./cloth-quick-start-tutorial-blender.md)
 - [Blender Fluid Simulation Basics](./fluid-simulation-basics-blender.md)
 - [Blender Rigid Body Physics Basics](./rigid-body-physics-quick-start-tutorial-blender.md)
+
+## Blender Rendering
 
 - [Blender Simple Render](./simple-render-blender.md)
 

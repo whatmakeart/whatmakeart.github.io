@@ -1,7 +1,7 @@
 ---
 title: 09.07 3D Scan Mesh Cleanup Assignment
 date: 2024-02-22T12:00:00Z
-lastmod: 2024-10-16T06:19:02
+lastmod: 2024-10-26T06:54:33
 ---
 
 ## Assignment Deliverables
