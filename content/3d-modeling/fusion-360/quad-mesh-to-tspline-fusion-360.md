@@ -1,7 +1,10 @@
 ---
-title: 10.04 Quad Mesh to T-Spline Fusion 360
-date: 2024-10-23T09:00:00
-lastmod: 2024-10-26T08:01:49
+title: Quad Mesh to T-Spline in Fusion 360
+date: 2024-10-27T10:50:30
+lastmod: 2024-10-27T10:51:07
+tags:
+  - 3D Modeling
+  - Fusion 360
 ---
 
 <div class="iframe-16-9-container">

@@ -1,7 +1,7 @@
 ---
 title: Export STL Blender
 date: 2023-06-16T05:41:56
-lastmod: 2023-11-01T08:13:57
+lastmod: 2024-10-27T06:40:59
 ---
 
 [Blender](../../3d-modeling/blender/blender.md)'s default unit scale is 1:1 meter. The default cube in a new Blender file is 2 units large, so it is a 2 x 2 x 2 meter cube. Scale is important for 3D prints. You can either model in meters, then scale the object to the correct size before export, or you can change the unit scale in Blender and work in millimeters. Sometimes it is easier to work larger and scale down but you may prefer to work at the exact size of the final object.
@@ -20,13 +20,11 @@ Smooth preview can trick you in to thinking that you have a smoother model than 
 
 [![Blender Import-Export STL Add-on](attachments/2023-blender-import-export-stl-add-on.png)](attachments/2023-blender-import-export-stl-add-on.png)
 
-Blender also has a "Mesh: 3D-Print Toolbox" add-on, but it is not enabled by default. You can find the add-on by typing "print" into the add-on search bar. Enabling this add-on, adds a tab to the mesh modeling screen.
+Blender also has a [3D-Print Toolbox add-on](../../3d-modeling/blender/3d-print-toolbox-addon-blender.md) that has many useful features for 3D printing but it is not enabled by default.
 
-[![Blender Mesh: 3D Print Toolbox](attachments/2023-blender-mesh-3d-print-toolbox.png)](attachments/2023-blender-mesh-3d-print-toolbox.png)
+[![Blender Mesh: 3D Print Toolbox](attachments/2023-blender-mesh-3d-print-toolbox.png)](../../3d-modeling/blender/3d-print-toolbox-addon-blender.md)
 
-This add-on has features for solid inspection, and repairing non-manifold geometry. It also can display statistics about the mesh that you want to 3D print, such as its volume and thickness for hollow parts, overhang angle, and edge sharpness. This add-on can be quite useful for making models for 3D printed output in Blender. This add-on has an export feature, but it will use the default name of the mesh you are working on. Unless you renamed the mesh it likely has an unhelpful name such as Cube.001 or Sphere.004. Make sure you rename your mesh before exporting so you know which file is which.
-
-[![Blender Mesh: 3D Print Toolbox](attachments/2023-blender-mesh-3d-print-toolbox-options.png)](attachments/2023-blender-mesh-3d-print-toolbox-options.png)
+[![Blender Mesh: 3D Print Toolbox](attachments/2023-blender-mesh-3d-print-toolbox-options.png)](../../3d-modeling/blender/3d-print-toolbox-addon-blender.md)
 
 ## Exporting STL from the Blender File Menu
 
