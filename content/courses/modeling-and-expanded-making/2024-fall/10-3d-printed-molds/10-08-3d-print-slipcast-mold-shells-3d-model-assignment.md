@@ -1,7 +1,7 @@
 ---
 title: 10.08 3D Print Slipcast Mold Shells 3D Model Assignment
 date: 2024-10-23T09:00:00
-lastmod: 2024-10-27T10:49:58
+lastmod: 2024-10-27T12:06:38
 ---
 
 ## Assignment Deliverables
