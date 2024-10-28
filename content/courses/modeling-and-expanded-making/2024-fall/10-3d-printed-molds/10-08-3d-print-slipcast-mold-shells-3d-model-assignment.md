@@ -1,7 +1,7 @@
 ---
 title: 10.08 3D Print Slipcast Mold Shells 3D Model Assignment
 date: 2024-10-23T09:00:00
-lastmod: 2024-10-27T20:50:06
+lastmod: 2024-10-27T22:02:27
 ---
 
 ## Assignment Deliverables
@@ -33,6 +33,10 @@ Use 3D modeling tools to identify undercuts, simplify undercuts, create parting 
 **Tutorial Video for removing undercuts in progress**
 
 <div class="video-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/lYRb60kpHak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/jZhWRZBb05c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
