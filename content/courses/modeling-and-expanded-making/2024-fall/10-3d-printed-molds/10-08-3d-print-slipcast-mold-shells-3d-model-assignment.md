@@ -1,7 +1,7 @@
 ---
 title: 10.08 3D Print Slipcast Mold Shells 3D Model Assignment
 date: 2024-10-23T09:00:00
-lastmod: 2024-10-27T12:11:45
+lastmod: 2024-10-27T20:50:06
 ---
 
 ## Assignment Deliverables
@@ -20,7 +20,7 @@ Use 3D modeling tools to identify undercuts, simplify undercuts, create parting 
 1. [Install 3D Print Toolkit](../../../../3d-modeling/blender/3d-print-toolbox-addon-blender.md) Blender Addon to assist with the detection and removal of undercuts.
 2. Add parting lines to separate mold into multiple parts. You can [add parting lines in Blender](./10-04-add-mold-parting-lines-blender.md) or [add parting lines in Fusion 360](./10-06-add-mold-parting-lines-fusion-360.md).
 3. Separate the parts of the mold along the parting lines.
-   - Use the `Boolean Modifier` in Blender
+   - [Use the `Boolean Modifier` in Blender]
    - Use `Modify > Combine` in Fusion 360
 4. Hollow out the mold to make a negative space for the plaster to fill. Thickness of the walls should be ~1.6 mm - 2.0mm or a multiple of the diameter of the 3D Printer nozzle, often 0.4mm.
    - Use the `Solidify Modifier` in Blender. First remove the top and bottom of the mold piece to make a tube like structure, then solidify it.
@@ -30,9 +30,13 @@ Use 3D modeling tools to identify undercuts, simplify undercuts, create parting 
 
 ## Assignment Resources
 
-**Tutorial Videos for adding parting lines and removing undercuts in progress**
+**Tutorial Video for removing undercuts in progress**
 
 <div class="video-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/jZhWRZBb05c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/GHersJCQUVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
