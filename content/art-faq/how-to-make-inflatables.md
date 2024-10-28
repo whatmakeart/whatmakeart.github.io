@@ -1,7 +1,7 @@
 ---
 title: How to Make Inflatables
 date: 2021-04-05T13:10:48
-lastmod: 2023-09-07T20:37:31
+lastmod: 2024-10-28T06:08:22
 ---
 
 # How to Make Inflatables
@@ -52,13 +52,7 @@ Bouncy houses are made of PVC coated polyethylene mesh. This can be sewn or heat
 
 PVC coated polyester can be glued with HH-66 vinyl cement or hot air welded together. This requires proper ventilation and safety equipment.
 
-## Inflatable Artists
-
-- [Jimmy Kuehnle](https://jimmykuehnle.com/)
-- [Pnuehaus](https://www.pneu.haus/)
-- [Inflatabill](https://inflatabill.com/)
-- [Designs in Air (Filthy Luker)](https://www.designsinair.com/)
-
 ## Additional Resources
 
+- [Inflatable Artists](../artists/inflatable-artists.md)
 - [Inflatable Companies](../making/inflatable-companies.md)
