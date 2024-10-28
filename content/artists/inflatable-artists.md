@@ -1,13 +1,13 @@
 ---
 title: Inflatable Artists
 date: 2024-10-28T06:07:28
-lastmod: 2024-10-28T09:44:02
+lastmod: 2024-10-28T19:54:03
 ---
 
 <div class="auto-grid-wrapper">
 
-- Alex Schweder
-- Atelier Sisu
+- [Alex Schweder](http://www.alexschweder.com/category/inflatables/)
+- [Atelier Sisu](https://www.ateliersisu.com/)
 - Camilla Falsini
 - Christopher Bauder
 - Cyril Lancelin
@@ -69,6 +69,15 @@ lastmod: 2024-10-28T09:44:02
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NuH6MJ7OjU8)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Atelier Sisu](https://www.ateliersisu.com/)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/XRn5K6dmDUc)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
