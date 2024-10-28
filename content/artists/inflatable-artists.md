@@ -1,18 +1,53 @@
 ---
 title: Inflatable Artists
 date: 2024-10-28T06:07:28
-lastmod: 2024-10-28T06:16:57
+lastmod: 2024-10-28T09:44:02
 ---
 
 <div class="auto-grid-wrapper">
 
+- Alex Schweder
+- Atelier Sisu
+- Camilla Falsini
+- Christopher Bauder
+- Cyril Lancelin
+- ENESS
+- Geraldo Zamproni
+- Hyperstudio
+- Jason Wilsher-Mills
+- Kalman Pool
+- Karina Smigla-Bobinski
+- Katefina Blahulova
+- Lindsay Glatz and Curious Form
+- Lucas Zanotto
+- MOTOREFISCO
+- Mac Streicher
+- Michael Shaw
+- Michela Picchi
+- Miranda Makaroff
+- Momoyo Torimitsu
+- Motomichi Nakamura
+- MyeongBeom Kim
+- Ouchhh
+- Penique Productions
+- Pepper's Ghoskt
+- Plastique Fantastique
+- Quiet Ensemble
+- Rub Kandy
+- Sasha Frolova
+- Sila Sveta
+- SpY
+- Stefano Rossetti
+- Steve Messam
+- Tado Cern
+- Thom Kubli
+- Ultravioletto
 - [Architects of Air](https://www.architects-of-air.com/)
 - [Claire Ashley](https://clairehelenashley.com/)
 - [Designs in Air (Filthy Luker)](https://www.designsinair.com/)
 - [Inflatabill](https://inflatabill.com/)
 - [Jimmy Kuehnle](https://jimmykuehnle.com/)
 - [Pnuehaus](https://www.pneu.haus/)
-
 </div>
 
 ## Inflatable Artist Videos
