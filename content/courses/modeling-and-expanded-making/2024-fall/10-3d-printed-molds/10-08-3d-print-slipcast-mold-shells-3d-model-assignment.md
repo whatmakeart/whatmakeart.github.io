@@ -1,7 +1,7 @@
 ---
 title: 10.08 3D Print Slipcast Mold Shells 3D Model Assignment
 date: 2024-10-23T09:00:00
-lastmod: 2024-10-27T22:02:27
+lastmod: 2024-10-27T22:11:06
 ---
 
 ## Assignment Deliverables
@@ -14,6 +14,8 @@ lastmod: 2024-10-27T22:02:27
 ## Assignment Overview
 
 Use 3D modeling tools to identify undercuts, simplify undercuts, create parting lines, and ultimately make hollow forms for 3D printing to cast plaster inside to make a multipart slip cast mold.
+
+**Blender works better than Fusion 360 for high poly meshes.** Although Fusion 360 has parametric features, for this application, Blender is likely the better choice. The complete process can be done in Blender and the mesh can be kept high poly. There is no need to reduce polygons with instant meshes if using Blender but it is ok to if desired.
 
 ## Process
 
