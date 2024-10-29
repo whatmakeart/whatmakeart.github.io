@@ -1,7 +1,7 @@
 ---
 title: 09.05 Inflatable Ideation Assignment
 date: 2024-10-28T09:00:00
-lastmod: 2024-10-28T19:54:13
+lastmod: 2024-10-28T20:18:27
 ---
 
 ## Assignment Deliverables

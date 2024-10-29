@@ -1,7 +1,7 @@
 ---
 title: Inflatable Artists
 date: 2024-10-28T06:07:28
-lastmod: 2024-10-28T20:07:43
+lastmod: 2024-10-28T20:29:03
 ---
 
 <div class="auto-grid-wrapper">
@@ -14,9 +14,9 @@ lastmod: 2024-10-28T20:07:43
 - [Designs in Air (Filthy Luker)](https://www.designsinair.com/)
 - [ENESS](https://www.eness.com/)
 - [Geraldo Zamproni](https://www.zamproni.com/en)
-- Hyperstudio
+- [Hyperstudio](https://hyperstudio.world/)
 - [Inflatabill](https://inflatabill.com/)
-- Jason Wilsher-Mills
+- [Jason Wilsher-Mills](https://www.jwmartist.co.uk/)
 - [Jimmy Kuehnle](https://jimmykuehnle.com/)
 - Kalman Pool
 - Karina Smigla-Bobinski
@@ -64,37 +64,19 @@ lastmod: 2024-10-28T20:07:43
 
 <div class="video-card">
 
-[Claire Ashley](https://clairehelenashley.com/)
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NuH6MJ7OjU8)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-[Architects of Air](https://www.architects-of-air.com/)
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/IQGqwPxToc)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
 [Atelier Sisu](https://www.ateliersisu.com/)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/XRn5K6dmDUc)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/XRn5K6dmDUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="video-card">
 
-[Jimmy Kuehnle](https://jimmykuehnle.com/)
+[Claire Ashley](https://clairehelenashley.com/)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/jdBg4Ub8JHE)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NuH6MJ7OjU8?si=WEV0DW9Iwp7KQBs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -103,7 +85,16 @@ lastmod: 2024-10-28T20:07:43
 [Cyril Lancelin](https://www.townandconcrete.com/works)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/0DexLclSG3c)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/0DexLclSG3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Designs in Air (Filthy Luker)](https://www.designsinair.com/)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/MIwjKvyeLGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -112,7 +103,34 @@ lastmod: 2024-10-28T20:07:43
 [ENESS](https://www.eness.com/)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/i099nYDq658)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/i099nYDq658" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Inflatabill](https://inflatabill.com/)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/MfRQnTWwhmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Jason Wilsher-Mills](https://www.jwmartist.co.uk/)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Tafm8wGPfts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Jimmy Kuehnle](https://jimmykuehnle.com/)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/jdBg4Ub8JHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
