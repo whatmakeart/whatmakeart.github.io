@@ -1,7 +1,7 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-10-28T21:29:41
+lastmod: 2024-10-29T08:59:21
 ---
 
 - [Inflatable Artists](./inflatable-artists.md)
@@ -57,5 +57,6 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Tim Hawkinson](https://art21.org/artist/tim-hawkinson/)
 - [Anish Kappoor](https://anishkapoor.com/)
 - [Chad Person](https://chadperson.com/index.html)
+- [Moon Papas Art](https://www.moonpapasart.com/)
 
 </div>
