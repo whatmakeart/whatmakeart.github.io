@@ -1,20 +1,22 @@
 ---
 title: Inflatable Artists
 date: 2024-10-28T06:07:28
-lastmod: 2024-10-28T21:22:03
+lastmod: 2024-10-28T21:31:05
 ---
 
 <div class="auto-grid-wrapper">
 
 - [Google - inflatable art](https://www.google.com/search?q=inflatable+art&udm=2)
 - [AKA Airways](https://www.akairways.com/)
+- [Aeolian Ride](http://www.aeolian-ride.info/)
 - [Alex Schweder](http://www.alexschweder.com/category/inflatables/)
+- [Ant Farm](<https://en.wikipedia.org/wiki/Ant_Farm_(group)>)
 - [Architects of Air](https://www.architects-of-air.com/)
 - [Atelier Sisu](https://www.ateliersisu.com/)
 - [Claire Ashley](https://clairehelenashley.com/)
 - [Cyril Lancelin](https://www.townandconcrete.com/works)
-- [Designs in Air (Filthy Luker)](https://www.designsinair.com/)
 - [ENESS](https://www.eness.com/)
+- [Filthy Luker](https://www.designsinair.com/)
 - [Florentijn Hofman](https://florentijnhofman.com/)
 - [Geraldo Zamproni](https://www.zamproni.com/en)
 - [Hyperstudio](https://hyperstudio.world/)
@@ -39,10 +41,6 @@ lastmod: 2024-10-28T21:22:03
 - [Steve Messam](https://www.stevemessam.co.uk/)
 - [Tado Cern](http://www.tadaocern.com/)
 - [Thom Kubli](https://thomkubli.net/)
-- Chad Person
-- Ant Farm
-- Graham Stevens
-- Aeolian Ride
 
 </div>
 
