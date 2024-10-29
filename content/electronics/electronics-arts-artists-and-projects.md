@@ -34,6 +34,7 @@ title: Electronic Arts Artists and Projects
 - [Tobias Bradford](https://www.tobiasbradford.com/)
 - [Verena Friedrich](http://heavythinking.org/)
 - [Zimooun](https://www.zimoun.net/)
+- [Ultravioletto](https://ultraviolet.to/)
 
 </div- >
 

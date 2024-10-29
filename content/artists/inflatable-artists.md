@@ -1,12 +1,13 @@
 ---
 title: Inflatable Artists
 date: 2024-10-28T06:07:28
-lastmod: 2024-10-28T20:58:31
+lastmod: 2024-10-28T21:22:03
 ---
 
 <div class="auto-grid-wrapper">
 
 - [Google - inflatable art](https://www.google.com/search?q=inflatable+art&udm=2)
+- [AKA Airways](https://www.akairways.com/)
 - [Alex Schweder](http://www.alexschweder.com/category/inflatables/)
 - [Architects of Air](https://www.architects-of-air.com/)
 - [Atelier Sisu](https://www.ateliersisu.com/)
@@ -14,41 +15,30 @@ lastmod: 2024-10-28T20:58:31
 - [Cyril Lancelin](https://www.townandconcrete.com/works)
 - [Designs in Air (Filthy Luker)](https://www.designsinair.com/)
 - [ENESS](https://www.eness.com/)
+- [Florentijn Hofman](https://florentijnhofman.com/)
 - [Geraldo Zamproni](https://www.zamproni.com/en)
 - [Hyperstudio](https://hyperstudio.world/)
 - [Inflatabill](https://inflatabill.com/)
+- [Jason Hackenwerth](https://www.instagram.com/hackenwerth/?hl=en)
 - [Jason Wilsher-Mills](https://www.jwmartist.co.uk/)
 - [Jimmy Kuehnle](https://jimmykuehnle.com/)
+- [Joshua Allen Harris](https://www.joshuaallenharris.com/)
 - [Kalman Pool](https://kalmanpool.com/)
 - [Karina Smigla-Bobinski](https://smigla-bobinski.com/)
+- [Kurt Perschke](https://redballproject.com/about/)
+- [Mariana Manhães](https://www.marianamanhaes.com/)
 - [Max Streicher](https://www.maxstreicher.com/)
 - [Michael Shaw](https://michaelshaw.art/)
 - [Michela Picchi](http://michelapicchi.com/)
 - [Momoyo Torimitsu](https://www.momoyotorimitsu.com/)
-- [Penique Productions](https://www.peniqueproductions.com/)
-- Pepper's Ghoskt
-- Plastique Fantastique
-- [Pnuehaus](https://www.pneu.haus/)
-- Quiet Ensemble
-- Rub Kandy
-- Sasha Frolova
-- Sila Sveta
-- SpY
-- Stefano Rossetti
-- Steve Messam
-- Tado Cern
-- Thom Kubli
-- Ultravioletto
-- Kurt Perschke
-- Joshua Allen Harris
-- Tim Hawkinson
 - [Paul McCarthy](https://www.hauserwirth.com/artists/2796-paul-mccarthy/)
-- Anish Kappoor
-- Florentijn Hofman
-- Mariana Manhães
-- Jason Hackenwerth
-- Alan Parkinson
-- AKA Airways
+- [Penique Productions](https://www.peniqueproductions.com/)
+- [Plastique Fantastique](https://plastique-fantastique.de/)
+- [Pnuehaus](https://www.pneu.haus/)
+- [Sasha Frolova](https://www.instagram.com/sashafrolova/?hl=en)
+- [Steve Messam](https://www.stevemessam.co.uk/)
+- [Tado Cern](http://www.tadaocern.com/)
+- [Thom Kubli](https://thomkubli.net/)
 - Chad Person
 - Ant Farm
 - Graham Stevens
@@ -116,15 +106,6 @@ lastmod: 2024-10-28T20:58:31
 
 <div class="video-card">
 
-[Inflatabill](https://inflatabill.com/)
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/MfRQnTWwhmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
 [Jason Wilsher-Mills](https://www.jwmartist.co.uk/)
 
 <div class="iframe-16-9-container">
@@ -174,6 +155,24 @@ lastmod: 2024-10-28T20:58:31
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/XPBPMviXJkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Plastique Fantastique](https://plastique-fantastique.de/)
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/729984214?h=67e912dec5" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Pnuehaus](https://www.pneu.haus/)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/hWnoD9IhWAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 

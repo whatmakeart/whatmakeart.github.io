@@ -1,12 +1,17 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-10-28T20:55:27
+lastmod: 2024-10-28T21:22:03
 ---
 
-## Artists
+- [Inflatable Artists](./inflatable-artists.md)
+- [Electronic Arts Artists and Projects](../electronics/electronics-arts-artists-and-projects.md)
+- [Fabric Artists](./fabric-artists.md)
+- [Video Art](../video/video-art.md)
 
 It is important to look at the work of other artists to learn and be inspired.
+
+<div class="auto-grid-wrapper">
 
 - [Naomi Schipher](https://noemischipfer.me/)
 - [Susan Philipz](https://en.wikipedia.org/wiki/Susan_Philipsz)
@@ -47,3 +52,9 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Lucas Zanotto](https://www.lucaszanotto.com/)
 - [Ed Ruscha’s ‘Chocolate Room’ Still Tantalizes - The New York Times](https://www.nytimes.com/2023/09/01/arts/design/ed-ruscha-chocolate-room-moma.html)
 - [MyeongBeom Kim](https://www.myeongbeomkim.com/en/)
+- [Quiet Ensemble](https://www.quietensemble.com/)
+- [Sila Sveta](https://www.silasveta.com/)
+- [Tim Hawkinson](https://art21.org/artist/tim-hawkinson/)
+- [Anish Kappoor](https://anishkapoor.com/)
+
+</div>

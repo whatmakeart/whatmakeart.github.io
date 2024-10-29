@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-07-18T10:18:39
-lastmod: 2024-10-15T05:40:40
+lastmod: 2024-10-28T21:22:03
 ---
 
 ## Sewing Material Suppliers
@@ -59,9 +59,3 @@ The online retailers below also have a wide selection of fabric but you must pla
 ## Scissors and Sharpening Tools
 
 - [Wolff Industries](https://wolffindustries.com/)
-
-## Fabric Artists
-
-- Hanae Mori
-- [Sarah Zapata](https://www.sarah-zapata.com/)
-- [Emma Shannon](https://emmashannon.is/me/) - digital e-textiles and interactive wearables
