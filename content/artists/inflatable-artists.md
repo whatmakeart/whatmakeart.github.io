@@ -1,20 +1,23 @@
 ---
 title: Inflatable Artists
 date: 2024-10-28T06:07:28
-lastmod: 2024-10-28T19:54:03
+lastmod: 2024-10-28T20:07:43
 ---
 
 <div class="auto-grid-wrapper">
 
 - [Alex Schweder](http://www.alexschweder.com/category/inflatables/)
+- [Architects of Air](https://www.architects-of-air.com/)
 - [Atelier Sisu](https://www.ateliersisu.com/)
-- Camilla Falsini
-- Christopher Bauder
-- Cyril Lancelin
-- ENESS
-- Geraldo Zamproni
+- [Claire Ashley](https://clairehelenashley.com/)
+- [Cyril Lancelin](https://www.townandconcrete.com/works)
+- [Designs in Air (Filthy Luker)](https://www.designsinair.com/)
+- [ENESS](https://www.eness.com/)
+- [Geraldo Zamproni](https://www.zamproni.com/en)
 - Hyperstudio
+- [Inflatabill](https://inflatabill.com/)
 - Jason Wilsher-Mills
+- [Jimmy Kuehnle](https://jimmykuehnle.com/)
 - Kalman Pool
 - Karina Smigla-Bobinski
 - Katefina Blahulova
@@ -32,6 +35,7 @@ lastmod: 2024-10-28T19:54:03
 - Penique Productions
 - Pepper's Ghoskt
 - Plastique Fantastique
+- [Pnuehaus](https://www.pneu.haus/)
 - Quiet Ensemble
 - Rub Kandy
 - Sasha Frolova
@@ -42,12 +46,7 @@ lastmod: 2024-10-28T19:54:03
 - Tado Cern
 - Thom Kubli
 - Ultravioletto
-- [Architects of Air](https://www.architects-of-air.com/)
-- [Claire Ashley](https://clairehelenashley.com/)
-- [Designs in Air (Filthy Luker)](https://www.designsinair.com/)
-- [Inflatabill](https://inflatabill.com/)
-- [Jimmy Kuehnle](https://jimmykuehnle.com/)
-- [Pnuehaus](https://www.pneu.haus/)
+
 </div>
 
 ## Inflatable Artist Videos
@@ -74,10 +73,46 @@ lastmod: 2024-10-28T19:54:03
 
 <div class="video-card">
 
+[Architects of Air](https://www.architects-of-air.com/)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/IQGqwPxToc)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
 [Atelier Sisu](https://www.ateliersisu.com/)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/XRn5K6dmDUc)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Jimmy Kuehnle](https://jimmykuehnle.com/)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/jdBg4Ub8JHE)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Cyril Lancelin](https://www.townandconcrete.com/works)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/0DexLclSG3c)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[ENESS](https://www.eness.com/)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/i099nYDq658)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
