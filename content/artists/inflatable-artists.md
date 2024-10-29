@@ -1,11 +1,12 @@
 ---
 title: Inflatable Artists
 date: 2024-10-28T06:07:28
-lastmod: 2024-10-28T20:29:03
+lastmod: 2024-10-28T20:58:31
 ---
 
 <div class="auto-grid-wrapper">
 
+- [Google - inflatable art](https://www.google.com/search?q=inflatable+art&udm=2)
 - [Alex Schweder](http://www.alexschweder.com/category/inflatables/)
 - [Architects of Air](https://www.architects-of-air.com/)
 - [Atelier Sisu](https://www.ateliersisu.com/)
@@ -18,21 +19,13 @@ lastmod: 2024-10-28T20:29:03
 - [Inflatabill](https://inflatabill.com/)
 - [Jason Wilsher-Mills](https://www.jwmartist.co.uk/)
 - [Jimmy Kuehnle](https://jimmykuehnle.com/)
-- Kalman Pool
-- Karina Smigla-Bobinski
-- Katefina Blahulova
-- Lindsay Glatz and Curious Form
-- Lucas Zanotto
-- MOTOREFISCO
-- Mac Streicher
-- Michael Shaw
-- Michela Picchi
-- Miranda Makaroff
-- Momoyo Torimitsu
-- Motomichi Nakamura
-- MyeongBeom Kim
-- Ouchhh
-- Penique Productions
+- [Kalman Pool](https://kalmanpool.com/)
+- [Karina Smigla-Bobinski](https://smigla-bobinski.com/)
+- [Max Streicher](https://www.maxstreicher.com/)
+- [Michael Shaw](https://michaelshaw.art/)
+- [Michela Picchi](http://michelapicchi.com/)
+- [Momoyo Torimitsu](https://www.momoyotorimitsu.com/)
+- [Penique Productions](https://www.peniqueproductions.com/)
 - Pepper's Ghoskt
 - Plastique Fantastique
 - [Pnuehaus](https://www.pneu.haus/)
@@ -46,6 +39,20 @@ lastmod: 2024-10-28T20:29:03
 - Tado Cern
 - Thom Kubli
 - Ultravioletto
+- Kurt Perschke
+- Joshua Allen Harris
+- Tim Hawkinson
+- [Paul McCarthy](https://www.hauserwirth.com/artists/2796-paul-mccarthy/)
+- Anish Kappoor
+- Florentijn Hofman
+- Mariana Manhães
+- Jason Hackenwerth
+- Alan Parkinson
+- AKA Airways
+- Chad Person
+- Ant Farm
+- Graham Stevens
+- Aeolian Ride
 
 </div>
 
@@ -131,6 +138,42 @@ lastmod: 2024-10-28T20:29:03
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/jdBg4Ub8JHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Kalman Pool](https://kalmanpool.com/)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/_GGUZSknlp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Karina Smigla-Bobinski](https://smigla-bobinski.com/)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/o6RtcbI1Ytg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Max Streicher](https://www.maxstreicher.com/)
+
+<div class="iframe-16-9-container">
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/157203362?h=c6715a7a82" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Penique Productions](https://www.peniqueproductions.com/)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/XPBPMviXJkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 

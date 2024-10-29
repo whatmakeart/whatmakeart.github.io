@@ -1,7 +1,7 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-10-28T19:58:32
+lastmod: 2024-10-28T20:55:27
 ---
 
 ## Artists
@@ -44,5 +44,6 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Ben Fry](https://x.com/benfryc/status/1821569186398720324) - slick 3D animations
 - [Nancy Holt](https://holtsmithsonfoundation.org/biography-nancy-holt)
 - [Christopher Bauder](https://www.christopherbauder.com/)
-
--[Ed Ruscha’s ‘Chocolate Room’ Still Tantalizes - The New York Times](https://www.nytimes.com/2023/09/01/arts/design/ed-ruscha-chocolate-room-moma.html)
+- [Lucas Zanotto](https://www.lucaszanotto.com/)
+- [Ed Ruscha’s ‘Chocolate Room’ Still Tantalizes - The New York Times](https://www.nytimes.com/2023/09/01/arts/design/ed-ruscha-chocolate-room-moma.html)
+- [MyeongBeom Kim](https://www.myeongbeomkim.com/en/)
