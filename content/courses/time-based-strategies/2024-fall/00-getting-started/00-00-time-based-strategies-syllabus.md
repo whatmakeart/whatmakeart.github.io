@@ -1,7 +1,7 @@
 ---
 title: 00.00 Time Based Strategies Syllabus
 date: 2024-08-27T12:00:00
-lastmod: 2024-10-09T06:37:58
+lastmod: 2024-10-29T05:39:26
 ---
 
 ## Time Based Strategies Syllabus
@@ -105,13 +105,13 @@ Projects must be turned in on time. On time is before the beginning of class on 
 | 7        | October 8    | [Projection Mapping Space and Time](../07-projection-mapping-space-and-time/)                                    |
 | 8        | October 15   | [Projection Mapping 3D Objects](../08-projection-mapping-3d-objects/08-00-introduction.md)                       |
 | 9        | October 22   | Fall Break                                                                                                       |
-| 10       | October 29   | Digtial Fabrication 3D Printing                                                                                  |
+| 10       | October 29   | Digital Fabrication 3D Printing                                                                                  |
 | 11       | November 5   | Digital Fabrication Laser Cutting                                                                                |
 | 12       | November 12  | Sonic Arts Workshop or Multitrack Audio                                                                          |
 | 13       | November 19  | Sonic Arts Workshop                                                                                              |
 | 14       | November 26  | Time Based Synthesis                                                                                             |
 | 15       | December 3   | Time Based Synthesis Studio Work                                                                                 |
-| 16       | December 10  | Final Crit                                                                                                       |
+| 16       | December 10  | [Final Crit](../15-final-critique/15-00-introduction.md)                                                         |
 
 </div>
 
