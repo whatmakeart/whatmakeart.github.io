@@ -1,7 +1,7 @@
 ---
-title: 09.05 Blender SImple Render
+title: 09.04 Blender SImple Render
 date: 2024-10-29T12:00:00
-lastmod: 2024-10-29T07:18:30
+lastmod: 2024-10-30T07:12:03
 toc: true
 ---
 
