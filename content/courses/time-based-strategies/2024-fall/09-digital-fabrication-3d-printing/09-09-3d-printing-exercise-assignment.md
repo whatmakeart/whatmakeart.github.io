@@ -1,42 +1,27 @@
 ---
-title: 09.09 3D Printing Exercise Assignment
+title: 09.09 3D Printing Exercise Model File Assignment
 date: 2024-10-29T12:00:00
-lastmod: 2024-10-29T07:18:30
+lastmod: 2024-11-01T11:10:54
 ---
 
 ## Assignment Deliverables
 
-1. Exported STL File of 3D print model (.stl)
-   - Label file YYYYMMDD Lastname Firstname STL File.stl
-2. Rendered image of 3D model (.png, .jpg, .tiff)
-   - Label file YYYYMMDD Lastname Firstname Rendering of 3D Print.png
-3. Physical 3D printed object
+1. Exported 3D Model File (.blend, .ma, mb, .skp, .f3d)
+   - Label file YYYYMMDD Lastname Firstname 3D Print Model
 
 ## Overview
 
-1. Model an object in [Blender](../../../../3d-modeling/blender/blender.md) for 3D printing output. Think about objects and forms that could be used as elements in videos or performance. Having a physical representation and a fully accurate digital 3D model of the same object opens up possibilities for content creation. You could use [physics simulation](../../../../3d-modeling/blender/rigid-body-physics-quick-start-tutorial-blender.md) to have the digital model tumble through space and then motion track the real object into it. **(No extra video or peformance is due for this project. This is to stimulate potential content ideas for your 3D printed object)**
+1. Model an object in [Blender](../../../../3d-modeling/blender/blender.md), [Maya](../../../../3d-modeling/maya/maya.md), or [Fusion 360](../../../../3d-modeling/fusion-360/fusion-360.md) for [3D printing](./09-01-3d-printing.md) output.
+2. Think about objects and forms that could be used as elements in videos or performance. Having a physical representation and a fully accurate digital 3D model of the same object opens up possibilities for content creation. You could use [physics simulation](../../../../3d-modeling/blender/rigid-body-physics-quick-start-tutorial-blender.md) to have the digital model tumble through space and then motion track the real object into it. **(No extra video or performance is due for this project. This is to stimulate potential content ideas for your 3D printed object)**
+3. [Photogrammetry](../../../../3d-modeling/photogrammetry.md) can be a useful tool to get started with 3D forms rather than starting from a default cube.
+4. Experiment and be creative, but keep in mind [3D Print Design Guidelines](./09-03-3d-print-design-guidelines.md). It is ok to go against these guidelines but you should have a creative and intentional reason to.
 
 ## Helpful Guides
 
-2. Make a rendering of the object in Blender or other software. Add a background. You could use the [infinite background](<(../../../../3d-modeling/blender/blender-infinite-background.md)>>) from the demo or create your own background. Save the rendering as an image and upload it.
-3. Size the 3D model to an appropriate size. Use the bounding option in the 3D Print toolbox. Export an STL file for 3D printing.
-4. Use Cura to slice the 3D print and save the gcode file.
-5. 3D print the object on the SEM 3D Printer or the 3D printers at the think\[box\].
-
 ### Blender 3D Printing Resources
 
-- [Blender Infinite Backdrop](../../../../3d-modeling/blender/infinite-background-blender.md)
-- [Blender Simpler Render](../../../../3d-modeling/blender/simple-render-blender.md)
+- [Blender Basic 3D Modeling](../../../../3d-modeling/blender/3d-modeling-basics-blender.md)
 - [Blender Export STL](../../../../digital-fabrication/3d-printing/export-stl-blender.md)
-
-### 3D Printing Slicing
-
-- [Cura Slicing Basics](../../../../digital-fabrication/3d-printing/cura-slicing-basics.md)
-
-### 3D Printer Resources
-
-- [Ender 3 S1 Printing Guide]()
-- [Ultimaker 2+ think/[box/] Guide](../../../../digital-fabrication/3d-printing/ultimaker-2-tutorial-thinkbox.md)
 
 ## Grading Rubric
 
@@ -44,10 +29,9 @@ lastmod: 2024-10-29T07:18:30
 
 | Assessment                   | Weight    |
 | ---------------------------- | --------- |
-| 3D Print Printed             | 25 points |
-| STL File Uploaded            | 25 points |
-| Render Image Uploaded        | 25 points |
-| Render Image Composition     | 15 points |
+| 3D Model File Uploaded       | 30 points |
+| Object Modeled               | 30 points |
+| Design of Object             | 30 points |
 | File Management and Labeling | 10 points |
 
 </div>
