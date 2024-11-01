@@ -1,7 +1,7 @@
 ---
 title: 11.01 Solidify Modifier Non-Manifold Geometry Fix
 date: 2024-10-30T09:00:00
-lastmod: 2024-10-31T11:27:57
+lastmod: 2024-10-31T11:50:19
 ---
 
 <div class="iframe-16-9-container">
@@ -29,7 +29,3 @@ Now everything is back together but there's a hidden face inside. So press 3 for
 Now if I press 2 for Edge mode, go to select, select by trait, non- manifold. Now there are no non-manifold edges. So that's how you can fix the solidified modifier when you have three planes joining at a single edge and you solidify it and it doesn't create manifold geometry.
 
 </details>
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/v4WXZjwB9tY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
