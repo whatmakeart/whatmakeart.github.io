@@ -1,7 +1,7 @@
 ---
 title: 3 Point Lighting Addon - Blender
 date: 2023-04-12T8:30:00-04:00
-lastmod: 2024-03-28T07:10:00
+lastmod: 2024-11-01T11:24:29
 description: In this Blender tutorial, I will show you how to use the Tri Lighting add-on.
 featured_image: /3d-modeling/blender/attachments/blender-three-point-lighting-add-on.jpg
 tags:
@@ -14,9 +14,11 @@ aliases:
 ---
 
 <div class="video-grid">
+
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/SbMuowrbKe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
 </div>
 
 ## How to Use the Tri Lighting Add-on in Blender
