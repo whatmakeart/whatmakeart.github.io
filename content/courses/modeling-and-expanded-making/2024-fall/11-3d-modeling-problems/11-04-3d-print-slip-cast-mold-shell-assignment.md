@@ -1,7 +1,7 @@
 ---
 title: 11.04 3D Print Slip Cast Mold Shell Assignment
 date: 2024-10-30T09:00:00
-lastmod: 2024-11-01T09:07:37
+lastmod: 2024-11-03T18:23:30
 ---
 
 ## Assignment Deliverables
@@ -29,17 +29,25 @@ Clean up and fix any remaining problems with your 3D print slip cast mold 3D mod
 
 ## Assignment Resources
 
-### Creating Manifold Solid Parting Lines Easy Way
+### Creating Manifold Solid Parting Lines Fastest and Easiest Way
 
-The video below shows a relatively streamlined process to fix problems with parting lines and solidiby them so they are completely manifold and have all normals facing to the outside. It shows 3 different example parting lines from class.
+[Fastest Way to Solidify Parting Lines](https://youtu.be/0GSKckejrkw)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/0GSKckejrkw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Thanks to [@WWS3D's](https://www.youtube.com/@WWS3D) comment on a video using the Boolean Modify, to make manifold parting lines, there is now the [fastest and easiest way](https://youtu.be/0GSKckejrkw) to make thin parting lines for 3D printed slip cast molds in Blender. Per the comment suggestion, this video shows you how to use the complex mode of the solidify modifier to create perfect parting lines every time. It is important to check for and fix flipped normals and non-flat faces, ensuring your models are ready for boolean operations.
+
+### Manual Methods to Create Solid Parting Lines
+
+Use the above method to make manifold and solidified parting lines. These videos show previous workflows and techniques that may be useful if the above recommended method does not work on a particular model.
+
+<div class="video-grid">
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/HZAVFpYvAoo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-### Manual Method to Create Solid Parting Lines
-
-<div class="video-grid">
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/OeGvo_zpz74?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
