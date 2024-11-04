@@ -1,7 +1,7 @@
 ---
 title: 10.01 Inflatable Sewing Assignment
 date: 2024-11-04T09:00:00
-lastmod: 2024-11-04T08:54:14
+lastmod: 2024-11-04T09:02:25
 ---
 
 ## Assignment Deliverables
@@ -19,11 +19,15 @@ Choose a minimum of 2 of the following:
 - No Dimension Larger than 4 feet
 - An Entrance for an Occupant
 - Internal Baffling
-- > 70% of Form Elevated off Ground
+- greater than 70% of Form Elevated off Ground
 - Contain a Transformation of (form, color, size, experience)
 - Have a Cantilevered Section
 - Multiple Indentations
 - Other (feel free to add as you wish)
+
+## Material
+
+You will have access to at least 6 yards of fabric of your choice. You may need additional fabric for your concept and it is available for purchace.
 
 ## Technical Tips
 
