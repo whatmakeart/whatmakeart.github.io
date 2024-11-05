@@ -1,7 +1,7 @@
 ---
 title: 10.05 Laser Cutting Exercise Assignment
 date: 2024-11-05T12:00:00
-lastmod: 2024-10-30T07:10:16
+lastmod: 2024-11-05T10:50:19
 ---
 
 ## Assignment Deliverables
@@ -21,6 +21,19 @@ lastmod: 2024-10-30T07:10:16
 5. Prepare the DXF file according to the instructions.
 6. Cut out the parts at the think\[box\]
 7. Assemble the project and bring to class
+
+## Requirements
+
+- minimum two pieces cut on laser cutter
+- use minimum 1 joint more complex than a butt joint
+
+## Assignment Resources
+
+### Fusion 360 Laser Cutting
+
+- [Install DXF Post Processor](../../../../3d-modeling/fusion-360/install-dxf-post-processor-fusion-360.md)
+- [Lay Parts Flat for Laser Cutting](../../../../3d-modeling/fusion-360/lay-parts-flat-for-laser-cutting-fusion-360.md)
+- [Export Laser Cut Toolpaths to DXF](../../../../3d-modeling/fusion-360/export-laser-cut-toolpaths-to-dxf-fusion-360.md)
 
 ## Grading Rubric
 
