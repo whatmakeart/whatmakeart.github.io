@@ -1,7 +1,7 @@
 ---
-title: 10.04 3D Modeling for Laser Cutting with Fusion 360
+title: 10.03 3D Modeling for Laser Cutting with Fusion 360
 date: 2024-11-05T12:00:00
-lastmod: 2024-11-05T10:32:08
+lastmod: 2024-11-05T10:58:57
 toc: true
 ---
 
