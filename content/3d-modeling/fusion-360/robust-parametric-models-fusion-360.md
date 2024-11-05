@@ -1,7 +1,7 @@
 ---
 title: Robust Parametric Models Fusion 360
 date: 2023-03-28T8:30:00-04:00
-lastmod: 2024-02-21T09:49:19
+lastmod: 2024-11-05T11:12:46
 description: In this Fusion 360 tutorial, I will show you how to make more robust parametric models for CNC Machining.
 featured_image: /3d-modeling/fusion-360/attachments/robust-parametric-models-fusion-360.jpg
 tags:
@@ -17,7 +17,7 @@ Often it is important that your 3D Digital Model is robust. What does that mean 
 
 ## How to Make More Robust Parametric Models for CNC Machining in Fusion 360
 
-In this [Fusion 360](./fusion-360.md) tutorial, I will show you how to make more robust parametric models for [CNC](../../courses/time-based-strategies/2023-fall/drafts/cnc.md) Machining. A robust parametric model is one that can be easily updated without causing errors or warnings. This is important for CNC Machining because it allows you to quickly and easily make changes to your designs without having to start over from scratch.
+In this [Fusion 360](./fusion-360.md) tutorial, I will show you how to make more robust parametric models for [CNC](../../digital-fabrication/cnc/cnc-basics.md) Machining. A robust parametric model is one that can be easily updated without causing errors or warnings. This is important for CNC Machining because it allows you to quickly and easily make changes to your designs without having to start over from scratch.
 
 Here are some tips for making more robust parametric models in Fusion 360:
 
