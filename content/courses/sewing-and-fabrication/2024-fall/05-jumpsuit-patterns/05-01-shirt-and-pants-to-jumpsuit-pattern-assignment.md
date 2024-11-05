@@ -1,7 +1,7 @@
 ---
-title: 04.09 Shirt and Pants to Jumpsuit Pattern Assignment
+title: 05.01 Shirt and Pants to Jumpsuit Pattern Assignment
 date: 2024-09-23T09:00:00
-lastmod: 2024-09-22T20:22:51
+lastmod: 2024-11-04T08:21:23
 ---
 
 ## Assignment Deliverables
@@ -14,8 +14,6 @@ lastmod: 2024-09-22T20:22:51
 In this assignment, you will draft pattern blocks for both a shirt and a pair of pants from your own clothing. After creating accurate pattern blocks, you will combine these blocks to create a custom jumpsuit pattern. The final deliverable will be a completed jumpsuit pattern with seam allowances that can be sewn. This assignment integrates skills in copying existing garment patterns, drafting custom pattern blocks, and adding seam allowances.
 
 ## Assignment Instructions
-
-Now that you have individual shirt and pants pattern blocks:
 
 ### Create the Jumpsuit Pattern Block
 

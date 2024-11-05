@@ -1,7 +1,7 @@
 ---
 title: 09.05 Inflatable Ideation Assignment
 date: 2024-10-28T09:00:00
-lastmod: 2024-10-28T20:18:27
+lastmod: 2024-11-04T08:23:17
 ---
 
 ## Assignment Deliverables
@@ -29,7 +29,7 @@ Upload your ideation sketches and object form studies to Canvas.
 
 ## Assignment Resources
 
-- [Ideation Sketches](../../../../drawing/ideation-sketches.md)
+- [Ideation Sketches Guide](../../../../drawing/ideation-sketches.md)
 
 ## Grading Rubric
 
