@@ -1,7 +1,7 @@
 ---
 title: 10.05 Laser Cutting Assignment
 date: 2024-11-05T12:00:00
-lastmod: 2024-11-06T17:16:59
+lastmod: 2024-11-06T18:10:01
 ---
 
 ## Assignment Deliverables
@@ -14,13 +14,14 @@ lastmod: 2024-11-06T17:16:59
 
 ## Overview
 
-1. Model the parts of your design paying attention to joints and how thick the material is
-2. Lay all of the parts flat
-3. Prepare a tool path that takes into account the width or kerf of the laser
-4. Export a DXF file for cutting
-5. Prepare the DXF file according to the instructions.
+1. [Model the parts in Fusion 360](../../../../digital-fabrication/laser-cutting/3d-modeling-for-laser-cutting-fusion-360.md) paying attention to joints and how thick the material is.
+2. [Lay the parts flat](../../../../3d-modeling/fusion-360/lay-parts-flat-for-laser-cutting-fusion-360.md)
+3. [Prepare a tool path](../../../../3d-modeling/fusion-360/export-laser-cut-toolpaths-to-dxf-fusion-360.md) that takes into account the width or kerf of the laser
+4. [Export a DXF file](../../../../3d-modeling/fusion-360/export-laser-cut-toolpaths-to-dxf-fusion-360.md) for cutting
+5. [Prepare the DXF file](../../../../digital-fabrication/laser-cutting/thinkbox-laser-cut-file-prep.md) according to the instructions.
 6. Cut out the parts at the think\[box\]
 7. Assemble the project and bring to class
+8. Export a [Render Image](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md) from Fusion 360
 
 ## Requirements
 
@@ -29,11 +30,13 @@ lastmod: 2024-11-06T17:16:59
 
 ## Assignment Resources
 
-### Fusion 360 Laser Cutting
+### Materials
 
-- [Install DXF Post Processor](../../../../3d-modeling/fusion-360/install-dxf-post-processor-fusion-360.md)
-- [Lay Parts Flat for Laser Cutting](../../../../3d-modeling/fusion-360/lay-parts-flat-for-laser-cutting-fusion-360.md)
-- [Export Laser Cut Toolpaths to DXF](../../../../3d-modeling/fusion-360/export-laser-cut-toolpaths-to-dxf-fusion-360.md)
+think\[box\] sells small pieces of plywood for laser cutting at reasonable prices. Fab Studios at CIA also has plywood available.
+
+### Fusion 360 Rendering
+
+- [Fusion 360 Basic Rendering](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
 
 ## Grading Rubric
 

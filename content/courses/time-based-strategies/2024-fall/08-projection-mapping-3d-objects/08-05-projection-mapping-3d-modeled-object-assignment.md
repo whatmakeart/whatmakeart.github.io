@@ -1,7 +1,7 @@
 ---
 title: 08.05 Projection Mapping 3D Modeled Object Assignment
 date: 2024-10-15T12:00:00
-lastmod: 2024-11-01T11:11:10
+lastmod: 2024-11-06T17:27:58
 ---
 
 ## Assignment Deliverables
@@ -35,3 +35,18 @@ Use a projector and make a mapping of selected objects and the environment. One 
 
 - [Basic UV Unwrapping Blender](../../../../3d-modeling/blender/uv-mapping-blender.md)
 - [Basic UV Unwrapping Maya](../../../../3d-modeling/maya/uv-mapping-maya.md)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                                  | Weight    |
+| ------------------------------------------- | --------- |
+| Fabricate 3D Object                         | 15 points |
+| 3D Model Object to Scale                    | 25 points |
+| Import Model to Projection Mapping Software | 25 points |
+| Add Original Media                          | 15 points |
+| Upload ~ 30 Second Documentation Video      | 10 points |
+| File Management and Labeling                | 10 points |
+
+</div>
