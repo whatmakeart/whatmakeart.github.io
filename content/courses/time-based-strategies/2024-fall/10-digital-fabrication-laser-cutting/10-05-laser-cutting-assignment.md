@@ -1,7 +1,7 @@
 ---
-title: 10.04 Laser Cutting Exercise Assignment
+title: 10.05 Laser Cutting Assignment
 date: 2024-11-05T12:00:00
-lastmod: 2024-11-05T10:58:57
+lastmod: 2024-11-06T17:16:59
 ---
 
 ## Assignment Deliverables

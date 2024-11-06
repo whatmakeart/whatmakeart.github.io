@@ -1,7 +1,7 @@
 ---
 title: 09.09 3D Printing Exercise Model File Assignment
 date: 2024-10-29T12:00:00
-lastmod: 2024-11-01T11:30:19
+lastmod: 2024-11-06T17:03:56
 ---
 
 ## Assignment Deliverables
@@ -35,9 +35,9 @@ lastmod: 2024-11-01T11:30:19
 | ---------------------------- | --------- |
 | 3D Model File Uploaded       | 20 points |
 | Render Image Uploaded        | 20 points |
-| Object Visible in Render     | 30 points |
-| Object Modeled               | 30 points |
-| Design of Object             | 30 points |
+| Object Visible in Render     | 20 points |
+| Object Modeled               | 10 points |
+| Design of Object             | 20 points |
 | File Management and Labeling | 10 points |
 
 </div>
