@@ -1,7 +1,7 @@
 ---
 title: 10.05 Laser Cutting Assignment
 date: 2024-11-05T12:00:00
-lastmod: 2024-11-06T18:10:01
+lastmod: 2024-11-06T19:54:26
 ---
 
 ## Assignment Deliverables
@@ -21,7 +21,7 @@ lastmod: 2024-11-06T18:10:01
 5. [Prepare the DXF file](../../../../digital-fabrication/laser-cutting/thinkbox-laser-cut-file-prep.md) according to the instructions.
 6. Cut out the parts at the think\[box\]
 7. Assemble the project and bring to class
-8. Export a [Render Image](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md) from Fusion 360
+8. Export a [Render Image](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md) from Fusion 360 with a 16:9 or 3:4 or 1:1 aspect ratio.
 
 ## Requirements
 
