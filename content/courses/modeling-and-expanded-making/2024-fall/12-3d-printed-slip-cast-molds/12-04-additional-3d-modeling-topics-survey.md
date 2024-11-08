@@ -1,7 +1,7 @@
 ---
 title: 12.04 Additional 3D Modeling Topics Survey
 date: 2024-11-06T09:00:00
-lastmod: 2024-11-06T06:59:26
+lastmod: 2024-11-08T12:30:32
 draft: true
 ---
 
@@ -36,3 +36,5 @@ draft: true
 - Hard Surface Modeling
 - Rigging basics for simple models
 - Keyframe animation for basic motion
+
+- [3D Print in Place Hinge]()
