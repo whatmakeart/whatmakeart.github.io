@@ -1,12 +1,12 @@
 ---
 title: Maya Animation Time Slider Tutorial
-lastmod: 2024-11-09T16:04:06
+lastmod: 2024-11-10T06:45:52
 date: 2021-04-02T8:30:00-04:00
 description: Change the setting on the Maya Animation Time Slider to Suit Your Workflow
 featured_image: /3d-modeling/maya/attachments/maya-animation-time-slider-settings.jpg
 tags:
   - Maya
-alias: /posts/maya-animation-time-slider-settings/
+aliases: /posts/maya-animation-time-slider-settings/
 ---
 
 <div class="iframe-16-9-container">

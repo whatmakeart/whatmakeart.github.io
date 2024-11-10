@@ -1,12 +1,12 @@
 ---
 title: Multiple Renderable Cameras in Maya
 date: 2021-04-11T8:30:00-04:00
-lastmod: 2024-11-09T16:23:51
+lastmod: 2024-11-10T06:45:52
 description: Set multiple cameras as renderable in Maya
 featured_image: /3d-modeling/maya/attachments/multiple-renderable-cameras-maya.jpg
 tags:
   - Maya
-alias: /posts/multiple-renderable-cameras-maya-tutorial/
+aliases: /posts/multiple-renderable-cameras-maya-tutorial/
 ---
 
 <div class="iframe-16-9-container">

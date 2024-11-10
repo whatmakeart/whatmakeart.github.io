@@ -1,12 +1,12 @@
 ---
 title: Maya Polygon Modeling Tools for Beginners
 date: 2021-03-20T8:30:00-04:00
-lastmod: 2024-11-09T16:46:08
+lastmod: 2024-11-10T06:45:52
 description: Learn the basics of the polygon modeling tool in Autodesk Maya
 featured_image: /3d-modeling/maya/attachments/maya-intro-polygon-modeling-tools.jpg
 tags:
   - Maya
-alias: /posts/maya-polygon-modeling-tools-for-beginners-tutorial/
+aliases: /posts/maya-polygon-modeling-tools-for-beginners-tutorial/
 ---
 
 <div class="iframe-16-9-container">

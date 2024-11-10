@@ -1,12 +1,12 @@
 ---
 title: Maya Three Point Lighting Tutorial
 date: 2021-03-21T8:30:00-04:00
-lastmod: 2024-11-09T16:40:17
+lastmod: 2024-11-10T06:45:52
 description: Use the principles of three point lighting to make more realistic renders in Maya
 featured_image: /3d-modeling/maya/attachments/maya-three-point-lighting-tutorial.jpg
 tags:
   - Maya
-alias: /posts/maya-three-point-lighting-tutorial/
+aliases: /posts/maya-three-point-lighting-tutorial/
 ---
 
 <div class="iframe-16-9-container">

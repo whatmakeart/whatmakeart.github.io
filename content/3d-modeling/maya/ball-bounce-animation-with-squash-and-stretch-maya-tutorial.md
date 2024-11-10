@@ -1,13 +1,13 @@
 ---
 title: Ball Bounce with Squash and Stretch Animation Tutorial
 date: 2021-04-03T8:30:00-04:00
-lastmod: 2024-11-09T16:46:08
+lastmod: 2024-11-10T06:45:52
 description: Use a ball animation rig to animate a bounce with squash and stretch
 featured_image: /3d-modeling/maya/attachments/maya-ball-bounce-animation-with-squash-and-stretch-tutorial.jpg
 tags:
   - Maya
   - Tutorial
-alias: /posts/simple-ball-bounce-animation-with-squash-and-stretch-maya-tutorial/
+aliases: /posts/simple-ball-bounce-animation-with-squash-and-stretch-maya-tutorial/
 ---
 
 <div class="iframe-16-9-container">

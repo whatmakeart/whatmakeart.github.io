@@ -1,10 +1,10 @@
 ---
 title: How to Orbit in Ultimaker Cura
 date: 2022-02-22T8:30:00-04:00
-lastmod: 2024-11-07T04:52:23
+lastmod: 2024-11-10T06:45:52
 description: How to Orbit in Ultimaker Cura
 featured_image: /digital-fabrication/3d-printing/attachments/how-to-orbit-in-ultimaker-cura.jpg
-alias: /posts/how-to-orbit-in-ultimaker-cura/
+aliases: /posts/how-to-orbit-in-ultimaker-cura/
 tags:
   - 3D Printing
 ---

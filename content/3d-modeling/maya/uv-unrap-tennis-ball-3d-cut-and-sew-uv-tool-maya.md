@@ -1,7 +1,7 @@
 ---
 title: UV Unrap a Tennis Ball with 3D Cut and Sew Tool in Maya Tutorial
 date: 2021-04-01T8:30:00-04:00
-lastmod: 2024-11-09T16:46:08
+lastmod: 2024-11-10T06:45:52
 description: In this Maya tutorial, I will guide you through the process of UV mapping a tennis ball.
 featured_image: /3d-modeling/maya/attachments/maya-3d-cut-and-sew-uv-tool-tutorial.jpg
 tags:
@@ -9,7 +9,7 @@ tags:
   - Maya
   - UV Unrwapping
   - tutorial
-alias: /posts/uv-unrap-tennis-ball-3d-cut-and-sew-uv-tool-maya/
+aliases: /posts/uv-unrap-tennis-ball-3d-cut-and-sew-uv-tool-maya/
 ---
 
 <div class="iframe-16-9-container">
@@ -34,7 +34,7 @@ Now, let's distribute the UVs using the Arrange and Layout tool. By default, the
 
 To center the UV shell perfectly, select all the UVs, press W to select the middle, hold down the X key, and move to the left. This will snap the UVs to the center. If any shell is still flipped, click on that shell, go to Transform, and select Flip.
 
-Once everything is flipped correctly (displayed in blue), it's time to export our UV snapshot. Right-click in UV Shell mode, drag-select the UVs you want to export, and click the camera icon. Choose the image format as IFF and decide whether to enable anti-alias lines or not. Label the snapshot and click Apply and Close.
+Once everything is flipped correctly (displayed in blue), it's time to export our UV snapshot. Right-click in UV Shell mode, drag-select the UVs you want to export, and click the camera icon. Choose the image format as IFF and decide whether to enable anti-aliases lines or not. Label the snapshot and click Apply and Close.
 
 Open the exported snapshot in Photoshop. If it's exported as an IFF file, it will have a transparent layer. However, if exported as a target, it will have a black background. Duplicate the layer and fill in the background with the desired color. To avoid blending with the UVs, uncheck anti-aliasing and set the tolerance to 1 before using the Paint Bucket tool.
 

@@ -1,12 +1,12 @@
 ---
 title: Ball Rig with Squash and Stretch Maya Tutorial
 date: 2021-03-30T8:30:00-04:00
-lastmod: 2024-11-09T16:05:48
+lastmod: 2024-11-10T06:45:52
 description: Learn how to rig a bouncing ball with squash and stretch in Autodesk Maya
 featured_image: /3d-modeling/maya/attachments/maya-ball-rig-tutorial.jpg
 tags:
   - Maya
-alias: /posts/ball-rig-with-squash-and-stretch-maya-tutorial/
+aliases: /posts/ball-rig-with-squash-and-stretch-maya-tutorial/
 ---
 
 <div class="iframe-16-9-container">

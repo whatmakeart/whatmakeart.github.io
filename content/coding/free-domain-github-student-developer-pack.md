@@ -1,13 +1,13 @@
 ---
 title: Setup Free Domain with GitHub Student Developer Pack
 date: 2021-08-26T8:30:00-04:00
-lastmod: 2024-11-09T16:35:49
+lastmod: 2024-11-10T06:45:52
 description: Setup Free Domain with GitHub Student Developer Pack
 featured_image: /3d-modeling/maya/attachments/free-domain-github-student-developer-pack.jpg"
 tags:
   - GitHub
   - Coding
-alias: /posts/set-up-free-domain-github-sudent-developer-pack/
+aliases: /posts/set-up-free-domain-github-sudent-developer-pack/
 ---
 
 <div class="iframe-16-9-container">

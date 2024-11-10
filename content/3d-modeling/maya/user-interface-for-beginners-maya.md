@@ -1,12 +1,12 @@
 ---
 title: Maya User Interface for Beginners
 date: 2021-03-20T8:30:00-04:00
-lastmod: 2024-11-09T16:46:08
+lastmod: 2024-11-10T06:45:52
 description: Learn the basics about the user interface of Autodesk Maya
 featured_image: /3d-modeling/maya/attachments/maya-user-interface-for-beginners.jpg
 tags:
   - Maya
-alias: /posts/maya-user-interface-for-beginners/
+aliases: /posts/maya-user-interface-for-beginners/
 ---
 
 <div class="iframe-16-9-container">
