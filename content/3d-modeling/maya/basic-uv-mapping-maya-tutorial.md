@@ -1,9 +1,9 @@
 ---
 title: Basic UV Mapping Maya Tutorial
 date: 2021-03-28T8:30:00-04:00
-lastmod: 2024-11-10T06:45:52
+lastmod: 2024-11-10T06:56:03
 description: Learn how to UV map a non symmetrical object in Maya
-featured_image: "/3d-modeling/maya/attachments/basic-uv-mapping-maya-tutorial.jpg
+featured_image: /3d-modeling/maya/attachments/basic-uv-mapping-maya-tutorial.jpg
 tags:
   - Maya
 aliases: /posts/basic-uv-mapping-maya-tutorial/
