@@ -1,13 +1,14 @@
 ---
+title: Create the Google Chrome Logo in Adobe Illustrator
 date: 2021-10-04T8:30:00-04:00
+lastmod: 2024-11-10T07:16:54
 description: Adobe Illustrator tutorial showing how to create the Google Chrome Logo
-featured_image: /posts/how-to-create-google-chrome-logo-adobe-illustrator/Chrome-Logo-made-in-Adobe-Illustrator.jpg
+featured_image: /software/adobe-illustrator/attachments/Chrome-Logo-made-in-Adobe-Illustrator.jpg
 tags:
   - Illustrator
   - tutorial
-title: Create the Google Chrome Logo in Adobe Illustrator
 aliases:
-  - /posts/how-to-creat-google-chrome-logo-adobe-illustrator/
+  - /posts/how-to-create-google-chrome-logo-adobe-illustrator/
 ---
 
 <div class="iframe-16-9-container">

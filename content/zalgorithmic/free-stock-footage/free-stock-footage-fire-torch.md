@@ -1,10 +1,11 @@
 ---
+title: Free Stock Footage Fire Torch
 date: 2021-04-17T8:30:00-04:00
+lastmod: 2024-11-10T07:13:20
 description: Free Looping Stock Footage of a Fire Torch
-featured_image: /posts/images/free-stock-footage-fire-torch.jpg
+featured_image: /zalgorithmic/free-stock-footage/attachments/free-stock-footage-fire-torch.jpg
 tags:
   - Free Stock Footage
-title: Free Stock Footage Fire Torch
 ---
 
 <div class="iframe-16-9-container">

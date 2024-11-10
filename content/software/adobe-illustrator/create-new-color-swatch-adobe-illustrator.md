@@ -1,9 +1,12 @@
 ---
+title: How to Create a New Color Swatch in Adobe Illustrator
 date: 2021-10-03T8:30:00-04:00
-description: "How to create a new color swatch in Adobe Illustrator"
-featured_image: "/posts/create-new-color-swatch-adobe-illustrator/Create-New-Color-Swatch-in-Adobe-Illustrator.jpg"
-tags: ["Illustrator"]
-title: "How to Create a New Color Swatch in Adobe Illustrator"
+lastmod: 2024-11-10T07:15:26
+description: How to create a new color swatch in Adobe Illustrator
+featured_image: /software/adobe-illustrator/attachments/Create-New-Color-Swatch-in-Adobe-Illustrator.jpg
+tags:
+  - Illustrator
+aliases: /posts/create-new-color-swatch-adobe-illustrator/
 ---
 
 <div class="iframe-16-9-container">

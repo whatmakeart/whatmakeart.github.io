@@ -1,9 +1,12 @@
 ---
+title: How to restore the default color swatches in Adobe Illustrator
 date: 2021-10-03T8:30:00-04:00
-description: "How to restore the default color swatches in Adobe Illustrator"
-featured_image: "/posts/restore-default-color-swatches-adobe-illustrtor/Restore-Defalut-Swatches-Adobe-Illustrator.jpg"
-tags: ["Illustrator"]
-title: "How to restore the default color swatches in Adobe Illustrator"
+lastmod: 2024-11-10T07:23:28
+description: How to restore the default color swatches in Adobe Illustrator
+featured_image: /software/adobe-illustrator/attachments/Restore-Default-Swatches-Adobe-Illustrator.jpg
+tags:
+  - Illustrator
+aliases: /posts/restore-default-color-swatches-adobe-illustrtor/
 ---
 
 <div class="iframe-16-9-container">
