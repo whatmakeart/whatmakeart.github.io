@@ -1,7 +1,7 @@
 ---
 title: Photoshop
 date: 2023-05-23T21:59:41
-lastmod: 2024-09-19T15:14:13
+lastmod: 2024-11-11T07:37:36
 ---
 
 Photoshop is a software tool for editing pixel based images. It can use vectors and some 3D information bit it is primarily aimed at manipulating 2D raster images.
@@ -30,3 +30,4 @@ Pixels are resolution dependent while vectors have infinite "resolution" since t
 
 - [Generative Fill](./photoshop-generative-fill.md)
 - [fix-photoshop-masks-with-dodge-and-burn](../software/fix-photoshop-masks-with-dodge-and-burn.md)
+- [Photoshop Brush Crosshairs not a Circle Fix](./photoshop-brush-crosshairs-not-a-circle.md)
