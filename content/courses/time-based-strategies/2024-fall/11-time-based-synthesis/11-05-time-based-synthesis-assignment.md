@@ -1,7 +1,7 @@
 ---
 title: 11.05 Time Based Synthesis Assignment
 date: 2024-11-12T12:00:00
-lastmod: 2024-11-12T05:28:40
+lastmod: 2024-11-12T11:48:25
 ---
 
 ## Assignment Deliverables
@@ -26,6 +26,7 @@ For this project, students are challenged to create an integrated media sculptur
 10. Creating parametric models in Fusion 360 for laser cutting.
 11. Kinetic sound installations using synchronous motors.
 12. Multi-channel audio with more than 2 channels.
+13. 3D Scanning and / or Photogrammetry
 
 ## Creative Prompts (Choose 1 or create your own):
 

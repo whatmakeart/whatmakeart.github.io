@@ -1,7 +1,7 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-10-29T08:59:21
+lastmod: 2024-11-12T10:17:13
 ---
 
 - [Inflatable Artists](./inflatable-artists.md)

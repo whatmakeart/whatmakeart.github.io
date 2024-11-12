@@ -1,7 +1,7 @@
 ---
 title: Video Art
 date: 2024-10-28T21:07:49
-lastmod: 2024-10-28T21:08:00
+lastmod: 2024-11-12T10:17:44
 ---
 
 ## Early Video Art
@@ -123,6 +123,8 @@ Pipilotti Rist - _I'm Not the Girl Who Misses Much_
 </div>
 
 ## Later Video Art
+
+- [Hito Steyerl - How Not to be seen a Fucking Didactic Educational mov File](https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-165845/)
 
 <div class="video-grid">
 
