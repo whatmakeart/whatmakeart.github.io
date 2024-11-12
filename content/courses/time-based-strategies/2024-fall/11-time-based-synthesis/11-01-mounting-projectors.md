@@ -1,7 +1,7 @@
 ---
-title: 11.00 Introduction
+title: 11.01 Mounting Projectors
 date: 2024-11-12T12:00:00
-lastmod: 2024-11-12T05:34:35
+lastmod: 2024-11-12T11:49:39
 ---
 
 ## Projector Mounting Resources and Guides
