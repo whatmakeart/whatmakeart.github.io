@@ -1,10 +1,10 @@
 ---
 title: 11.03 Sonic Arts Workshop References
 date: 2023-11-14T09:00:00
-lastmod: 2023-11-16T06:33:01
+lastmod: 2024-11-12T05:23:47
 ---
 
-This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) Sonic Arts Workshop [^1] in the fall 2023 [Time Based Strategies course](../../2023-fall/) in the [Sculpture + Expanded Media Department](https://www.cia.edu/academics/sculpture-expanded-media) at the [Cleveland Institute of Art](https://www.cia.edu/).
+This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) Sonic Arts Workshop [^1] in the fall 2023 [Time Based Strategies course](../00-getting-started/00-02-time-based-strategies-syllabus.md) in the [Sculpture + Expanded Media Department](https://www.cia.edu/academics/sculpture-expanded-media) at the [Cleveland Institute of Art](https://www.cia.edu/).
 
 ## Listening
 

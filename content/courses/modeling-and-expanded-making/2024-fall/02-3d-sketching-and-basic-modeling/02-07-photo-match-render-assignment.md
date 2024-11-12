@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific Render Assignment
 date: 2024-08-28T09:00:00
-lastmod: 2024-09-06T07:22:53
+lastmod: 2024-11-12T05:23:47
 ---
 
 ## Assignment Deliverables
@@ -57,7 +57,7 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 ### Guides
 
 - [HDRI Background Blender](../../../../3d-modeling/blender/hdri-background-blender.md)
-- [Photo Matching with fSpy](../../../../3d-modeling/photo-matching-with-fspy.md)
+- [Photo Matching with fSpy](../../../../3d-modeling/photo-perspective-matching-with-fspy.md)
 - [Place 3D Model in 2D Photo Blender](../../../../3d-modeling/blender/place-3d-model-in-2d-photo-blender-fspy.md)
 - [Reflections, Shadows, and Materials for fSpy Compositing](../../../../3d-modeling/blender/reflections-shadows-and-materials-for-fspy-compositing-blender.md)
 - [How to Rotate HDRI Environment Texture](../../../../3d-modeling/blender/rotate-hdri-blender.md)

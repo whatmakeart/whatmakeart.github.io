@@ -1,7 +1,7 @@
 ---
 title: 13.03 Time Based Synthesis Ideation Assignment
 date: 2023-11-28T09:00:00
-lastmod: 2023-12-05T08:40:10
+lastmod: 2024-11-12T06:31:24
 ---
 
 ## Assignment Deliverables

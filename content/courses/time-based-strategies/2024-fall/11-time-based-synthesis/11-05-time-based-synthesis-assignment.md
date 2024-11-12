@@ -1,7 +1,7 @@
 ---
 title: 11.05 Time Based Synthesis Assignment
 date: 2024-11-12T12:00:00
-lastmod: 2024-10-30T07:10:16
+lastmod: 2024-11-12T05:28:40
 ---
 
 ## Assignment Deliverables
@@ -10,7 +10,7 @@ lastmod: 2024-10-30T07:10:16
 
 ## Assignment Overview
 
-For this project, students are challenged to create an integrated media sculpture that combines multiple techniques learned during the semester. This assignment is an opportunity to synthesize skills in digital media and physical sculpture, creating an artwork that could reflects contemporary issues, personal narratives or other conceptural content.
+For this project, students are challenged to create an integrated media sculpture that combines multiple techniques learned during the semester. This assignment is an opportunity to synthesize skills in digital media and physical sculpture, creating an artwork that could reflects contemporary issues, personal narratives or other conceptual content.
 
 ### Techniques to Choose From (Minimum 3):
 
@@ -19,11 +19,13 @@ For this project, students are challenged to create an integrated media sculptur
 3. Chroma keying and abstract visual effects in After Effects.
 4. Motion and camera tracking in After Effects and Blender.
 5. Basic 3D modeling and rendering in Blender.
-6. Projection mapping with MadMapper and Isadora.
-7. Synchronizing music with video.
-8. 3D modeling for 3D printing.
-9. Creating parametric models in Fusion 360 for laser cutting.
-10. Kinetic sound installations using synchronous motors.
+6. Projection mapping with MadMapper or Touch Designer.
+7. Interactive projection / media with Touch Designer.
+8. Synchronizing music with video.
+9. 3D modeling for 3D printing.
+10. Creating parametric models in Fusion 360 for laser cutting.
+11. Kinetic sound installations using synchronous motors.
+12. Multi-channel audio with more than 2 channels.
 
 ## Creative Prompts (Choose 1 or create your own):
 
@@ -76,10 +78,10 @@ Create a sculpture or installation that explores the concept of information over
 | Assessment                         | Weight    |
 | ---------------------------------- | --------- |
 | Creative Synthesis                 | 50 points |
-| Technique 1                        | 30 points |
-| Technique 2                        | 30 points |
-| Technique 3                        | 30 points |
-| Creative Prompt                    | 30 points |
-| Written Self Assessment (in class) | 30 points |
+| Technique 1                        | 50 points |
+| Technique 2                        | 50 points |
+| Technique 3                        | 50 points |
+| Creative Prompt                    | 50 points |
+| Written Self Assessment (in class) | 50 points |
 
 </div>

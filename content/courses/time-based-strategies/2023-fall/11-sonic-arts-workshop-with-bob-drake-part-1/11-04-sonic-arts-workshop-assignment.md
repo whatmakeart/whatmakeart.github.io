@@ -1,7 +1,7 @@
 ---
 title: 11.04 Sonic Arts Workshop Assignment
 date: 2023-11-14T09:00:00
-lastmod: 2024-05-17T14:47:08
+lastmod: 2024-11-12T05:23:44
 ---
 
 ## Assignment Deliverables

@@ -1,7 +1,7 @@
 ---
 title: 13.02 Time Based Synthesis
 date: 2023-11-28T09:00:00
-lastmod: 2023-11-28T06:13:35
+lastmod: 2024-11-12T06:31:24
 ---
 
 What is synthesis?

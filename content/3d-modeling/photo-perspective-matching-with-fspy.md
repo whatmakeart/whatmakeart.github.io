@@ -1,7 +1,9 @@
 ---
 title: Photo Matching with fSpy
 date: 2024-08-20T13:54:16
-lastmod: 2024-08-28T08:49:45
+lastmod: 2024-11-12T05:23:47
+aliaes:
+  - /3d-modeling/photo-matching-with-fspy/
 ---
 
 fSpy is a perspective and camera matching program. It is an open source program that uses the [principles of perspective](../art-faq/perspective.md) to determine where the camera was located to take a particular 2D image. This information can then be imported into a 3D Modeling program such as [Blender](./blender/blender.md) or [Maya](./maya/maya.md) to place 3D assets into the photo to make a composite photography or to use the photo as a guide to make a scale model of the objects in the image.

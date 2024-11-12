@@ -1,12 +1,12 @@
 ---
 title: 01.00 Introduction
 date: 2024-08-21T12:00:00
-lastmod: 2024-08-21T07:59:12
+lastmod: 2024-11-12T05:23:47
 ---
 
 ## Overview
 
-This course introduces students to a wide range of 3D content creation processes including, [3D modeling](../../../../3d-modeling/3d-modeling.md), [photogrammetry](../../../../3d-modeling/photogrammetry-software.md), lidar scanning, AI mesh creation, [mesh modeling](../../../../3d-modeling/polygon-mesh-3d-modeling-basics.md) [parametric solid modeling](../../../../3d-modeling/parametric-modeling.md), rendering, animation, [3D printing](../../../../digital-fabrication/3d-printing/3d-printing.md), [laser cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md), [CNC machining](../../../../digital-fabrication/cnc/cnc-basics.md), [photo matching](../../../../3d-modeling/photo-matching-with-fspy.md), and prototyping.
+This course introduces students to a wide range of 3D content creation processes including, [3D modeling](../../../../3d-modeling/3d-modeling.md), [photogrammetry](../../../../3d-modeling/photogrammetry-software.md), lidar scanning, AI mesh creation, [mesh modeling](../../../../3d-modeling/polygon-mesh-3d-modeling-basics.md) [parametric solid modeling](../../../../3d-modeling/parametric-modeling.md), rendering, animation, [3D printing](../../../../digital-fabrication/3d-printing/3d-printing.md), [laser cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md), [CNC machining](../../../../digital-fabrication/cnc/cnc-basics.md), [photo matching](../../../../3d-modeling/photo-perspective-matching-with-fspy.md), and prototyping.
 
 Beginning with a brief survey of various 3D modeling programs students then make a small 3D model to 3D print in class. Students explore how to use 3D modeling for ideation and rendering mock up proposal images for artwork.
 
