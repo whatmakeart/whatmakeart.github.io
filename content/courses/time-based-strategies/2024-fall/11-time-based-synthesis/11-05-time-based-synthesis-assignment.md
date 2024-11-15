@@ -1,7 +1,7 @@
 ---
 title: 11.05 Time Based Synthesis Assignment
 date: 2024-11-12T12:00:00
-lastmod: 2024-11-12T11:48:25
+lastmod: 2024-11-13T05:01:24
 ---
 
 ## Assignment Deliverables
@@ -14,7 +14,7 @@ For this project, students are challenged to create an integrated media sculptur
 
 ### Techniques to Choose From (Minimum 3):
 
-1. Camera use (ISO, shutter speed, aperture).
+1. Camera use (ISO, shutter speed, aperture) - [Basic Camera Settings](../01-video-introduction/01-02-basic-camera-settings.md)
 2. Video editing and abstract video creation.
 3. Chroma keying and abstract visual effects in After Effects.
 4. Motion and camera tracking in After Effects and Blender.
@@ -27,6 +27,7 @@ For this project, students are challenged to create an integrated media sculptur
 11. Kinetic sound installations using synchronous motors.
 12. Multi-channel audio with more than 2 channels.
 13. 3D Scanning and / or Photogrammetry
+14. Export 3D Camera Movement from Blender to After Effects with Rendered 3D Scene
 
 ## Creative Prompts (Choose 1 or create your own):
 
