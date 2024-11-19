@@ -1,7 +1,7 @@
 ---
 title: 12.04 Mechanical 3D Prints Reference
 date:date: 2024-11-19T12:00:00
-lastmod: 2024-11-12T06:22:52
+lastmod: 2024-11-19T08:02:27
 ---
 
 [#131- mechanical movements](https://www.thingiverse.com/thing:6815157)
