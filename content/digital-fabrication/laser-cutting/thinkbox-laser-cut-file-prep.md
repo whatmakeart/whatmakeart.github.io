@@ -1,5 +1,7 @@
 ---
 title: Laser Cut File Prep think[box]
+date: 2024-11-10T16:01:01
+lastmod: 2024-11-20T19:34:55
 ---
 
 The think\[box\] at Case Western Reserve University uses Epilog Laser cutters that can "print" from an [Adobe Illustrator](../../software/adobe-illustrator/illustrator.md) file. Before cutting a complex project on is is a good idea to make a small test cut file to confirm settings and not waste material. After successfully cutting a test then you can begin a more intentional project. This file should be made before going to the think[box]. There are specific instructions to prepare the file in Adobe Illustrator. If you do not follow the directions then your file will not work properly on the laser cutters.

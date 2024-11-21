@@ -1,5 +1,7 @@
 ---
 title: Laser Cut Joints
+date: 2024-11-10T16:01:01
+lastmod: 2024-11-20T19:35:09
 ---
 
 There are many ways to join a laser cut project together ranging from gravity to glue to bolts to snap pieces. You can use a variety of ways to connect. Here are some example images of different methods of joining pieces together. There are many more ways. Search the internet for other methods of making laser cut joints.

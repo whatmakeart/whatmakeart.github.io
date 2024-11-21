@@ -1,5 +1,7 @@
 ---
 title: Laser Cut Living Hinge
+date: 2024-11-10T16:01:01
+lastmod: 2024-11-20T19:34:25
 ---
 
 A living hinge uses the same material as the container or board to bend. This can be down with plastic by making the hinge thinner than the surrounding plastic. In less pliable materials like wood, a living hing can be made by removing material in a pattern than makes the material more flexible. There are many [different patterns](https://www.google.com/search?rlz&q=living+hinge+laser+cut&tbm=isch) to use with living hinges. A simple alternating brick pattern of incisions is a straightforward and predictable way to make living hinges with a laser cutter.

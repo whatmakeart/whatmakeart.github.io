@@ -1,7 +1,7 @@
 ---
 title: Prepare DXF File for Laser Cutting
 date: 2023-06-14T13:02:24
-lastmod: 2024-02-15T14:30:28
+lastmod: 2024-11-20T19:33:02
 ---
 
 ## Open DXF in Illustrator and Adjust Stroke
@@ -13,3 +13,5 @@ You need to change the stroke weight of the red strokes in Illustrator. Also you
 Example of each part of the stand as a separate component at the top level assembly in Fusion 360.
 
 Change the strokes to the correct weight and color in Illustrator. In Illustrator change the weight of the cut paths (cut with red stroke .001 weight and engraving with blue stroke .5 weight)
+
+[think\[box\] laser cut file prep](./thinkbox-laser-cut-file-prep.md)
