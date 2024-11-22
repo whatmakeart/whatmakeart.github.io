@@ -1,7 +1,7 @@
 ---
 title: 12.02 Sound Art Workshop
 date: 2024-11-19T12:00:00
-lastmod: 2024-11-19T12:10:52
+lastmod: 2024-11-22T10:38:17
 ---
 
 ## Sound Art Workshop Session Notes [^drake-notes]
@@ -79,6 +79,10 @@ Discuss sources of motion driving animation, the use of simple machines to trans
 </div>
 
 </div>
+
+Additional Notes
+
+Skatch Boxes
 
 ## References
 
