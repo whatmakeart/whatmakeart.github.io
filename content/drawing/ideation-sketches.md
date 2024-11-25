@@ -1,12 +1,12 @@
 ---
 title: Ideation Sketches
 date: 2023-06-13T16:11:02
-lastmod: 2024-01-31T20:56:56
+lastmod: 2024-11-25T06:04:31
 ---
 
 ## What is Ideation Sketching?
 
-Ideation [sketching](./sketching.md) is an important part of the creative process. There are many ways to make and generate ideas. The simplest way is with small thumbnail sketches with a pencil on paper.
+Ideation [sketching](./sketching.md) is an important part of the creative process. There are many ways to make and generate ideas. The simplest way is with small thumbnail sketches with a pencil on paper. One of the most important skills you can develop is idea generation. Even more important is the ability to develop and refine initial ideas.
 
 Draw sketches that convey your idea and excite the viewer. Also draw sketches that explore how your concept could possibly be assembled and made.
 

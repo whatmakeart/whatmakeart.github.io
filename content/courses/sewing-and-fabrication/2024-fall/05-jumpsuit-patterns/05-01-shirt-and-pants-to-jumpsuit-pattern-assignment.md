@@ -1,7 +1,7 @@
 ---
 title: 05.01 Shirt and Pants to Jumpsuit Pattern Assignment
 date: 2024-09-23T09:00:00
-lastmod: 2024-11-04T08:21:23
+lastmod: 2024-11-25T05:44:42
 ---
 
 ## Assignment Deliverables
@@ -86,9 +86,9 @@ As you transition from a shirt and pants pattern to a custom jumpsuit, you’ll 
 
 #### Finalize the Jumpsuit Block
 
-- **Smooth Seams**: Ensure all seams transition smoothly and are free of sharp angles.
-- **Mark Key Points**: Indicate notches, grainlines, and match points on your pattern.
-- **Adjust Lengths**: Verify that inseams and outseams match on both front and back pieces.
+- Ensure all seams transition smoothly and are free of sharp angles.
+- In can be a good idea to indicate notches, grainlines, to more easily match points on your pattern when sewing.
+- Verify that inseams and outseams match on both front and back pieces.
 
 **Label Pattern Pieces**:
 
@@ -100,10 +100,8 @@ As you transition from a shirt and pants pattern to a custom jumpsuit, you’ll 
 
 | Assessment                       | Weight    |
 | -------------------------------- | --------- |
-| Accurate Combination of Patterns | 10 points |
-| Inclusion of Design Adjustments  | 10 points |
-| Accuracy of Seam Allowances      | 10 points |
-| Correct Labeling                 | 5 points  |
-| Neatness and Clarity             | 5 points  |
+| Accurate Combination of Patterns | 25 points |
+| Inclusion of Design Adjustments  | 25 points |
+| Smooth Transitions               | 25 points |
 
 </div>

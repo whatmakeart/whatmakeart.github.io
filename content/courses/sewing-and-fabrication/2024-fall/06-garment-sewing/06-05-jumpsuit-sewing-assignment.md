@@ -1,15 +1,26 @@
 ---
 title: 06.05 Jumpsuit Sewing Assignment
 date: 2024-10-07T09:00:00
-lastmod: 2024-11-04T08:19:32
+lastmod: 2024-11-25T06:17:22
 ---
+
+## Assignment Deliverables
+
+1. Sewn Jumpsuit
 
 ## Grading Rubric
 
 <div class="responsive-table-markdown">
 
-| Assessment | Weight |
-| ---------- | ------ |
-|            | points |
+| Assessment                           | Weight    |
+| ------------------------------------ | --------- |
+| Sleeves Attached or Sleveless Finish | 20 points |
+| Seams Sewn / Finished                | 20 points |
+| Jumpsuit Top Sewn                    | 20 points |
+| Jumpsuit Bottom Sewn                 | 20 points |
+| Concept                              | 50 points |
+| Overall Craft                        | 50 points |
+| Material Use                         | 30 points |
+| Effort                               | 30 points |
 
 </div>
