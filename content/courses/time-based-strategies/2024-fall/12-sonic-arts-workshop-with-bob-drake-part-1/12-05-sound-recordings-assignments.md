@@ -1,7 +1,7 @@
 ---
-title: 12.04 Sound Recordings Assignment
+title: 12.05 Sound Recordings Assignment
 date: 2024-11-19T12:00:00
-lastmod: 2024-11-25T18:42:15
+lastmod: 2024-11-25T18:44:20
 ---
 
 ## Assignment Deliverables
