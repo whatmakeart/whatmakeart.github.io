@@ -1,7 +1,7 @@
 ---
 title: 13.02 Your way, My way, Runway Project Assignment
 date: 2024-11-25T09:00:00
-lastmod: 2024-11-25T06:06:53
+lastmod: 2024-11-25T07:45:48
 ---
 
 ## Assignment Deliverables
