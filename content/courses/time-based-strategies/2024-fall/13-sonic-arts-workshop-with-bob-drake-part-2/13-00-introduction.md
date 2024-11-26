@@ -1,7 +1,7 @@
 ---
-title: 13 Sonic Arts Workshop with Bob Drake Part 2
+title: 13.00 Introduction
 date: 2024-11-26T12:00:00
-lastmod: 2024-11-26T06:58:58
+lastmod: 2024-11-26T09:51:32
 ---
 
 ## Overview [^drake-workshop]

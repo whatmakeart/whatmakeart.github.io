@@ -1,7 +1,7 @@
 ---
-title: 13 Sonic Arts Workshop with Bob Drake Part 2
+title: 13.01 Sound Art Workshop Resources
 date: 2024-11-26T12:00:00
-lastmod: 2024-11-26T07:06:12
+lastmod: 2024-11-26T09:51:03
 ---
 
 - [Demolition of a Wall by Lucy Raven at Lisson Gallery](https://www.lissongallery.com/artists/lucy-raven/artworks/demolition-of-a-wall-album-2?image_id=23939)
