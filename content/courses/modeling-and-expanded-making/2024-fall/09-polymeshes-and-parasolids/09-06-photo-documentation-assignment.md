@@ -1,7 +1,7 @@
 ---
 title: 09.04 Laser Cut and 3D Print Project Photo Documentation Assignment
 date: 2024-02-22T12:00:00Z
-lastmod: 2024-10-21T08:34:17
+lastmod: 2024-11-27T06:38:23
 ---
 
 ## Assignment Deliverables
@@ -79,13 +79,13 @@ High quality photos can be taken with a bare minimum photography setup. This set
 
 <div class="responsive-table-markdown">
 
-| Assessment                          | Weight    |
-| ----------------------------------- | --------- |
-| Composition Fill Frame              | 30 points |
-| Lighting Dynamic Range              | 20 points |
-| Post Process Background Paper Edges | 20 points |
-| White Balance                       | 10 points |
-| Photo Uploaded                      | 10 points |
-| File Management                     | 10 points |
+| Assessment             | Weight    |
+| ---------------------- | --------- |
+| Composition Fill Frame | 30 points |
+| Lighting Dynamic Range | 20 points |
+| Post Process           | 20 points |
+| White Balance          | 10 points |
+| Photo Uploaded         | 10 points |
+| File Management        | 10 points |
 
 </div>

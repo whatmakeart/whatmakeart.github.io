@@ -1,19 +1,17 @@
 ---
-title: 10.08 3D Print Slipcast Mold Shells 3D Model Assignment
+title: 10.08 3D Print Slipcast Mold Undercut Preparation Assignment
 date: 2024-10-23T09:00:00
-lastmod: 2024-10-28T05:33:58
+lastmod: 2024-11-27T06:54:28
 ---
 
 ## Assignment Deliverables
 
 1. 3D model file of prepared mold pieces, divided and shelled (.blend, .f3d, .ma, .mb)
    - Label file YYYYMMDD Lastname Firstname prepared mold model file
-2. Exported OBJs or STLs of prepared mold pieces ready for 3D Printing (.obj, .stl, 3mf)
-   - Label files YYYYMMDD Lastname Firstname mold piece for 3D printing
 
 ## Assignment Overview
 
-Use 3D modeling tools to identify undercuts, simplify undercuts, create parting lines, and ultimately make hollow forms for 3D printing to cast plaster inside to make a multipart slip cast mold.
+Use 3D modeling tools to identify undercuts, simplify undercuts, and create a smoother ready to mold form.
 
 **Blender works better than Fusion 360 for high poly meshes.** Although Fusion 360 has parametric features, for this application, Blender is likely the better choice. The complete process can be done in Blender and the mesh can be kept high poly. There is no need to reduce polygons with instant meshes if using Blender but it is ok to if desired.
 
