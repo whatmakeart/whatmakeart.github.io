@@ -1,7 +1,7 @@
 ---
 title: 11.04 Time Based Synthesis Ideation Assignment
 date: 2024-11-12T12:00:00
-lastmod: 2024-11-14T09:43:32
+lastmod: 2024-11-27T05:44:50
 ---
 
 ## Assignment Deliverables
@@ -17,10 +17,11 @@ Continue the ideation and project development ideas began in class. Make sketche
 
 <div class="responsive-table-markdown">
 
-| Assessment         | Weight    |
-| ------------------ | --------- |
-| Synthesis Ideation | 45 points |
-| Sketches           | 45 points |
-| File Management    | 10 points |
+| Assessment                 | Weight    |
+| -------------------------- | --------- |
+| Synthesis Ideation Variety | 35 points |
+| Synthesis Ideation Depth   | 35 points |
+| Documentation Quality      | 20 points |
+| File Management            | 10 points |
 
 </div>
