@@ -1,7 +1,7 @@
 ---
 title: 11.04 3D Print Slip Cast Mold Shell Assignment
 date: 2024-10-30T09:00:00
-lastmod: 2024-11-03T18:23:30
+lastmod: 2024-11-27T07:01:12
 ---
 
 ## Assignment Deliverables
@@ -17,15 +17,19 @@ Clean up and fix any remaining problems with your 3D print slip cast mold 3D mod
 ## Process
 
 1. Fix any remaining [undercuts](../10-3d-printed-molds/10-03-remove-undercuts-blender.md) in your model if needed.
-2. Add any needed parting lines.
-3. [Solidify the parting lines](./11-03-fix-non-manifold-edges-on-solidify-modifier-examples.md) in preparation for separating the mold block.
+2. Create a mesh to be the form of your mold. This can be a cube but can also be a more contoured shape related to your model.
+3. Add parting lines to separate mold into multiple parts. You can [add parting lines in Blender](../10-3d-printed-molds//10-04-add-mold-parting-lines-blender.md)
+4. [Solidify the parting lines](./11-03-fix-non-manifold-edges-on-solidify-modifier-examples.md) in preparation for separating the mold block.
    - Make sure solidified parting line is completely manifold and all normals are facing outside.
    - Double check that the parting lines are not creating new undercuts that might prevent the mold pieces from separating.
-4. Subtract the head from the mold block with a difference Boolean.
-5. Subtract the parting line from the mold block with a difference Boolean.
-6. Separate the Mold Parts.
-7. [Shell out the mold parts](https://youtu.be/jZhWRZBb05c?&t=991) and solidify the sides to the outside of the shells.
-8. 3D Print at least 1 mold shell. Print all shells if time allows.
+5. First subtract the head from the mold block with a difference Boolean.
+   - Use the `Boolean Modifier` in Blender.
+6. After subtracting the head from the block, then subtract the parting line from the mold block with a difference Boolean.
+7. Separate the Mold Parts.
+8. [Hollow out the mold](https://youtu.be/jZhWRZBb05c?&t=991) to make a negative space for the plaster to fill. Thickness of the walls should be ~1.6 mm - 2.0mm or a multiple of the diameter of the 3D Printer nozzle, often 0.4mm.
+9. Save your 3D modeling file from Blender.
+10. Export each part of the mold. Label the parts.
+11. 3D Print at least 1 mold shell. Print all shells if time allows.
 
 ## Assignment Resources
 
