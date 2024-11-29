@@ -8,4 +8,8 @@ tags:
 
 Area of Circle
 
+Area = 𝛑r²
+
 Circumference of a Circle
+
+C = 2𝛑r

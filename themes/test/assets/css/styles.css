@@ -419,6 +419,14 @@ a.title-link {
   }
 }
 
+/* Begin Plaster Calculator CSS */
+/* Custom styles to prevent page jumping */
+.result {
+  min-height: 1.5em;
+  font-weight: bold;
+}
+/* End Plaster Calculator CSS */
+
 /* End for footnote backlinks on hugo */
 
 /*footnote number brackets*/

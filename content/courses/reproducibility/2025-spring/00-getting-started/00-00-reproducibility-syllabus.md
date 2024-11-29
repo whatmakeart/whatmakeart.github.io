@@ -1,7 +1,7 @@
 ---
 title: Reproducibility Syllabus
 date: 2025-01-15T09:00:00
-lastmod: 2024-11-26T06:30:47
+lastmod: 2024-11-29T08:33:44
 ---
 
 ## Reproducibility Syllabus
@@ -31,6 +31,32 @@ Semester: Spring 2025
 Though we often think of artworks as unique, this is not an intrinsic or inherent quality of the work itself, but the result of the choice of media. Consequently, since the Renaissance and the advent of Printmaking, the printing press, and bronze casting, multiplicity and reproduction have been a part of Western culture. The machine age, photo-reproduction, lithography, industrial standardization, modularity, fabrication, and multiplicity became part of artistic practice. Prints, posters, ready-mades, objects, books, comics, and designed utilitarian objects editions, multiples, modules, and reproductions are now a significant aspect of contemporary art making which abandons the notion of the unique work. Making works of this kind requires the artist to take into consideration how the act of reproduction, or replication constitutes part of their work’s form and content. Pre-requisite: VAT 200
 
 ## Course Goals and Learning Objectives
+
+## Course Schedule & Requirements
+
+<div class="responsive-table-markdown">
+
+| **Week** | **Date**    | **Topic**                                                       |
+| -------- | ----------- | --------------------------------------------------------------- |
+| 1        | January 15  | [01](../01/01-00-introduction.md)                               |
+| 2        | January 22  | [02](../02/02-00-introduction.md)                               |
+| 3        | January 29  | [03](../03/03-00-introduction.md)                               |
+| 4        | February 5  | [04](../04/04-00-introduction.md)                               |
+| 5        | February 12 | [05](../05/05-00-introduction.md)                               |
+| 6        | February 19 | [06](../06/06-00-introduction.md)                               |
+| 7        | February 26 | [07](../07/07-00-introduction.md)                               |
+| 8        | March 5     | [08](../08/08-00-introduction.md)                               |
+|          | March 12    | Spring Break                                                    |
+| 9        | March 19    | [09](../09/09-00-introduction.md)                               |
+| 10       | March 26    | [10](../10/10-00-introduction.md)                               |
+| 11       | April 2     | [11](../11/11-00-introduction.md)                               |
+| 12       | April 9     | [12](../12/12-00-introduction.md)                               |
+| 13       | April 16    | [13](../13/13-00-introduction.md)                               |
+| 14       | April 23    | [14](../14/14-00-introduction.md)                               |
+| 16       | April 30    | [15 Final Critique](../15-final-critique/15-00-introduction.md) |
+|          | May 6 - 9   | BFA Week                                                        |
+
+</div>
 
 ## Cleveland Institute of Art Recommended Policies
 

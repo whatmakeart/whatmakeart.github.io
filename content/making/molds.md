@@ -1,10 +1,10 @@
 ---
 title: Molds
 date: 2023-05-23T21:59:41
-lastmod: 2024-10-07T08:56:35
+lastmod: 2024-11-27T11:26:56
 ---
 
-A mold is a negative space container that is used in [Casting](../metalworking/casting.md).
+A mold is a negative space container that is used in [casting](../metalworking/casting.md).
 
 Material is poured into the mold and then removed after it solidifies.
 
@@ -43,11 +43,11 @@ A special type of multi-part mold is a mother mold. This is a mold that has a so
 
 Mold making is a technical process that can be improved by considering the materials and intent of the final casting. A single use mold is much different than a mold designed to make hundreds of castings.
 
-#### Undercuts
+### Undercuts
 
 When making any mold, it is important to pay attention to undercuts. Undercuts are part of that cannot pull out cleanly without breaking the mold. For complex shapes more than two piece molds maybe necessary. Another way to contend with undercuts is to use a flexible mold material for the mold that can bend around the final cast pieces.
 
-Single use molds can also be used and broken away from the final casting as is often done in metal casting.
+Single use molds can be used and broken away from the final casting as is often done in metal casting.
 
 Complex shapes can also be broken up into smaller shapes that do not have undercuts and then joined together after all the cast pieces are made.
 
@@ -65,5 +65,6 @@ Mold keys have many different designs, but should be made to simply snap togethe
 
 ## Elaborate Expensive Molds
 
+- [Slip Casting Molds]() are made of plaster and suck moisture out of clay slip, leaving behind a hollow shell that can be fired in a kiln.
 - [Ceramic Shell Molds](../metalworking/ceramic-shell-molds.md) are used in metal casting and can make complex shapes molds with high levels of detail.
 - [Multi-part Rubber Molds](../sculpture/multi-part-rubber-molds.md) can help with small undercuts since the rubber is more flexible than the material being cast and can pull out of the undercut without breaking the mold or casting.
