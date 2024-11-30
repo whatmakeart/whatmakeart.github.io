@@ -1,17 +1,36 @@
 ---
 title: Fair Use
 date: 2023-05-23T21:59:41
-lastmod: 2024-09-19T17:48:36
+lastmod: 2024-11-30T08:40:17
 ---
 
-In the United States, fair use allows people to use copyright works under certain circumstances. In this course you will only use your own content and public domain content but it is important for you to be familiar with fair use for future creative projects.  The only way to ultimately determine if using a copyrighted work is fair use is to find out in a court of law.  Courts use a four-part test to determine fair use.
+In the United States, fair use allows people to use copyright works under certain circumstances. It is generally best to only use your own content and [public domain](./public-domain.md) content but it is important for to be familiar with fair use for creative projects or ideas that may require the use of copyrighted works made by others. In regards to fair use, someone might say, "5 under fives seconds of a song is ok to use." or "Less than 50% of a chapter is ok to use." but the law never mentions these often misquoted copyright myths. The only way to ultimately determine if using a copyrighted work is fair use is to find out in a court of law.  Courts use a four-part test to determine fair use. [^section-107]
 
 1. Is the use commercial or for non-profit education purposes?
 2. Is the original work creative or factual in nature?
 3. Is the use transformative of the original? Is the use proportionate?
 4. Does the use effect the potential market or value of the original?
 
-- [U.S. Copyright Office Fair Use Index](http://copyright.gov/fair-use/)
+Discussions of fair use quickly fallback to anecdotes and specific examples without examining the literal text governing copyright law. Section 107 of Chapter 1 of Title 17 of the _United States Code_ covers copyright law and lays out the 4 factors to be considered in determining fair use as quoted below.
+
+> #### 107. Limitations on exclusive rights: Fair use[⁴¹](https://copyright.gov/title17/92chap1.html)
+>
+> Notwithstanding the provisions of sections [106](https://copyright.gov/title17/92chap1.html#106) and [106A](https://copyright.gov/title17/92chap1.html#106a), the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include—
+>
+> (1) the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;
+>
+> (2) the nature of the copyrighted work;
+>
+> (3) the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and
+>
+> (4) the effect of the use upon the potential market for or value of the copyrighted work.
+>
+> The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
+>
+> [Section 107 of Chapter 1 of Title 17 of the _United States Code_](https://copyright.gov/title17/92chap1.html#107)
+
+The [U.S. Copyright Office Fair Use Index](http://copyright.gov/fair-use/) provides further explanation of the plaintext of the copyright law.
+
 - [What is Fair Use?](http://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/)
 - [Copyright, Permissions, and Fair Use among Visual Artists and the Academic and Museum Visual Arts Communities](http://www.collegeart.org/pdf/FairUseIssuesReport.pdf)
 - https://fairuse.stanford.edu/overview/fair-use/cases/
@@ -31,3 +50,7 @@ In the United States, fair use allows people to use copyright works under certai
 - [Cathy Smith on Fair Use the Right of Integrity ](https://shows.acast.com/ipse-dixit/episodes/cathay-smith-on-fair-use-the-right-of-integrity)
 - [Jacob Victor on Utility Expanding Fair Use](https://shows.acast.com/ipse-dixit/episodes/jacob-victor-on-utility-expanding-fair-use)
 - [Cathay Smith on Political Fair Use](https://shows.acast.com/ipse-dixit/episodes/cathay-smith-on-political-fair-use)
+
+## References
+
+[^section-107]: [Section 107 of Chapter 1 of Title 17 of the _United States Code_](https://copyright.gov/title17/92chap1.html#107)

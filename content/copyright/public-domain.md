@@ -1,7 +1,7 @@
 ---
 title: Public Domain
 date: 2023-05-23T21:59:41
-lastmod: 2024-03-09T06:18:54
+lastmod: 2024-11-30T09:00:00
 ---
 
 The public domain is a collection of creative works that are not protected by intellectual property laws, such as [copyright](../copyright/copyright-for-artists.md), trademark, or patent laws. This means that anyone can use, reproduce, distribute, or modify these works without obtaining permission from the original copyright holder.
@@ -66,6 +66,7 @@ The [Smithsonian Open Access](https://www.si.edu/openaccess) archives has high r
 - [Copyright Law in the United States](https://www.copyright.gov/title17/)
 - [Creative Commons Certificate for Educators, Academic Librarians and GLAM](https://certificates.creativecommons.org/cccertedu/chapter/1-what-is-creative-commons/)
 - [Public Domain Day 2023 - Duke Law School](https://web.law.duke.edu/cspd/publicdomainday/2023/)
+- [Copyright just lifted on lots of neat stuff](https://www.futurity.org/1923-copyright-protections-1973062-2/)
 
 [^1]: [Section 105 of US Copyright Law](https://www.copyright.gov/title17/92chap1.html#105)
 [^2]: [Global Aspects of Copyright - Creative Commons](https://certificates.creativecommons.org/cccertedu/chapter/2-2-global-aspects-of-copyright/)
