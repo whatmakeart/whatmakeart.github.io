@@ -1,7 +1,7 @@
 ---
 title: Fair Use
 date: 2023-05-23T21:59:41
-lastmod: 2024-11-30T08:40:17
+lastmod: 2024-11-30T10:57:55
 ---
 
 In the United States, fair use allows people to use copyright works under certain circumstances. It is generally best to only use your own content and [public domain](./public-domain.md) content but it is important for to be familiar with fair use for creative projects or ideas that may require the use of copyrighted works made by others. In regards to fair use, someone might say, "5 under fives seconds of a song is ok to use." or "Less than 50% of a chapter is ok to use." but the law never mentions these often misquoted copyright myths. The only way to ultimately determine if using a copyrighted work is fair use is to find out in a court of law.  Courts use a four-part test to determine fair use. [^section-107]
@@ -29,16 +29,16 @@ Discussions of fair use quickly fallback to anecdotes and specific examples with
 >
 > [Section 107 of Chapter 1 of Title 17 of the _United States Code_](https://copyright.gov/title17/92chap1.html#107)
 
-The [U.S. Copyright Office Fair Use Index](http://copyright.gov/fair-use/) provides further explanation of the plaintext of the copyright law.
+Since each case of fair use must be decided in court and there are no guaranteed rules, it can be difficult for artists to determine ahead of time what will be fair use. The [U.S. Copyright Office Fair Use Index](http://copyright.gov/fair-use/) provides further explanation of the plaintext of the copyright law. [Brian Frye](https://en.wikipedia.org/wiki/Brian_L._Frye), the Spears-Gilbert Professor of Law at the University of Kentucky, basically says for artists and scholars to stop asking for permission when it is not needed such as public domain artworks or when working on scholarship since that perpetuates the idea the permission is needed for clear situations of fair use.[^frye-fair-use]
 
 - [What is Fair Use?](http://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/)
 - [Copyright, Permissions, and Fair Use among Visual Artists and the Academic and Museum Visual Arts Communities](http://www.collegeart.org/pdf/FairUseIssuesReport.pdf)
-- https://fairuse.stanford.edu/overview/fair-use/cases/
-- https://libraryguides.missouri.edu/findingimages/images
+- [Summaries of Fair Use Cases - Stanford Library](https://fairuse.stanford.edu/overview/fair-use/cases/)
+- [Journalism - Finding and Using Images, Maps, Video & Audio: Copyright and Images](https://libraryguides.missouri.edu/findingimages/images)
 
 ## Articles
 
-- [AI Music RIAA Copyright Lawsuts Fair Use - The Verge](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use)
+- [AI Music RIAA Copyright Lawsuits Fair Use - The Verge](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use)
 - [CAA News | College Art Association » Blog Archive » An Interview with Suzanne Preston Blier on CAA’s Code of Best Practices and Publishing with Fair Use | CAA](http://www.collegeart.org/news/2020/05/19/suzanne-preston-blier-on-code-of-best-practices-and-fair-use/)
 
 ## Books
@@ -54,3 +54,4 @@ The [U.S. Copyright Office Fair Use Index](http://copyright.gov/fair-use/) provi
 ## References
 
 [^section-107]: [Section 107 of Chapter 1 of Title 17 of the _United States Code_](https://copyright.gov/title17/92chap1.html#107)
+[^frye-fair-use]: Frye, Brian L., Image Reproduction Rights in a Nutshell for Art Historians (December 27, 2020). IDEA: The IP Law Review, Vol. 62, No. 175, 2022, Available at SSRN: [Abstract](https://ssrn.com/abstract=3755966) or [Paper](http://dx.doi.org/10.2139/ssrn.3755966)
