@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-07-18T10:18:39
-lastmod: 2024-11-26T13:35:15
+lastmod: 2024-12-01T06:30:11
 ---
 
 ## Sewing Material Suppliers
@@ -63,3 +63,9 @@ The online retailers below also have a wide selection of fabric but you must pla
 ## Fabric Artists
 
 ![Link to included file content](../../../../artists/fabric-artists.md)
+
+## Articles
+
+- [The Most Influential Jeans Guy You’ve Never Heard Of](https://www.nytimes.com/2024/05/28/style/benjamin-talley-smith-denim-jeans.html)
+- [The Crochet Coral Reef Keeps Spawning, Hyperbolically - The New York Times](https://www.nytimes.com/2024/01/15/science/mathematics-crochet-coral.html)
+- [Why Don’t Women’s Clothes Have More Pockets?](https://www.nytimes.com/2023/11/06/style/pockets-womens-clothing.html)

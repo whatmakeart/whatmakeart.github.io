@@ -1,7 +1,7 @@
 ---
 title: Fair Use
 date: 2023-05-23T21:59:41
-lastmod: 2024-11-30T10:57:55
+lastmod: 2024-11-30T18:23:24
 ---
 
 In the United States, fair use allows people to use copyright works under certain circumstances. It is generally best to only use your own content and [public domain](./public-domain.md) content but it is important for to be familiar with fair use for creative projects or ideas that may require the use of copyrighted works made by others. In regards to fair use, someone might say, "5 under fives seconds of a song is ok to use." or "Less than 50% of a chapter is ok to use." but the law never mentions these often misquoted copyright myths. The only way to ultimately determine if using a copyrighted work is fair use is to find out in a court of law.  Courts use a four-part test to determine fair use. [^section-107]
@@ -40,6 +40,7 @@ Since each case of fair use must be decided in court and there are no guaranteed
 
 - [AI Music RIAA Copyright Lawsuits Fair Use - The Verge](https://www.theverge.com/2024/8/2/24211842/ai-music-riaa-copyright-lawsuit-suno-udio-fair-use)
 - [CAA News | College Art Association » Blog Archive » An Interview with Suzanne Preston Blier on CAA’s Code of Best Practices and Publishing with Fair Use | CAA](http://www.collegeart.org/news/2020/05/19/suzanne-preston-blier-on-code-of-best-practices-and-fair-use/)
+- [A fight to protect the dignity of Michelangelo's David raises questions about freedom of expression | AP News](https://apnews.com/article/michelangelo-david-statue-italy-protection-heritage-3fa1b7185fea36003e064fa6e2c309fd)
 
 ## Books
 

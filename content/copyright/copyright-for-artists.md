@@ -1,7 +1,7 @@
 ---
 title: Copyright for Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-11-30T10:58:55
+lastmod: 2024-12-01T17:11:25
 ---
 
 ## Public Domain Cases
@@ -23,6 +23,18 @@ An example of this is when an actor from the sitcom the office had their face ad
 [CAA Interview with Suzanne Preston Blier on Fair Use](http://www.collegeart.org/news/2020/05/19/suzanne-preston-blier-on-code-of-best-practices-and-fair-use/) - Used images of Picasso's Demoiselles in a book and relied on fair use rather than image rights permissions.
 
 [Picasso images French vs US Court rulings](https://www.courthousenews.com/wp-content/uploads/2019/09/Picasso-ruling.pdf) French courts found that the use of the photographs of Picasso's work was infringing but US courts said that it was fair use.
+
+## What Is Not Protected by Copyright?
+
+Copyright does not protect
+"• Ideas, procedures, methods, systems, processes, concepts, principles, or discoveries
+• Works that are not fixed in a tangible form (such as a choreographic work that has not been
+notated or recorded or an improvisational speech that has not been written down)
+• Titles, names, short phrases, and slogans
+• Familiar symbols or designs
+• Mere variations of typographic ornamentation, lettering, or coloring
+• Mere listings of ingredients or contents"
+For more information, see Works Not Protected by Copyright (Circular 33).
 
 ### Photos of Artwork Copyright Cases
 
@@ -73,6 +85,10 @@ Plagiarism is not just something that you learn not to do in school, it really h
 - [US court sides with photographer in fight over Warhol art](https://apnews.com/article/entertainment-new-york-copyright-music-prince-aea4afa0b71e816149476804e601555a)
 - [Kat Von D Sued Over Tattoo Of Miles Davis](https://www.stereogum.com/2115814/miles-davis-photographer-sues-tattoo-artist-kat-von-d-for-copyright-infringement/news/)
 - [Gun-Toting Couple Billed by Photog for Using Viral Photo on Greeting Cards](https://petapixel.com/2020/11/07/gun-toting-couple-billed-by-photog-for-using-viral-photo-on-greeting-cards/)
+- [Photographer Sues Gannett for $34 Million For Copyright Infringement | PetaPixel](https://petapixel.com/2022/12/15/photographer-sues-gannett-for-34-million-for-copyright-infringement/)
+- [Miley Cyrus Sued by Paparazzi For Sharing Photo Without Permission | PetaPixel](https://petapixel.com/2022/09/12/miley-cyrus-sued-by-paparazzi-for-sharing-photo-without-permission/)
+- [$1.2m for a photo of a pigeon? | Creative Bloq](https://www.creativebloq.com/news/pigeon-photo)
+- [Richard Prince to Pay Photographers Over $650,000 In Copyright Lawsuits | PetaPixel](https://petapixel.com/2024/01/29/richard-prince-to-pay-photographers-over-650000-in-copyright-lawsuits/)
 
 ### Art Copyright Articles
 
@@ -90,9 +106,12 @@ Plagiarism is not just something that you learn not to do in school, it really h
 - [Solo Cup Company Got Artist’s Instagram Nuked for Using Famous Jazz Pattern - VICE](https://www.vice.com/en/article/3aq955/solo-cup-company-got-artists-instagram-nuked-for-using-famous-jazz-pattern)
 - [Tintin heirs lose legal battle over artist’s Edward Hopper mashups | Comics and graphic novels | The Guardian](https://www.theguardian.com/books/2021/may/12/tintin-heirs-lose-legal-battle-over-artists-edward-hopper-mashups)
 - [Romanian politician gears up to sue Brancusi's heir over longstanding copyright battle | The Art Newspaper](https://www.theartnewspaper.com/news/brancusi-copyright-rule-faces-romanian-challenge)
+- [Did Kith's Shoe Campaign Copy a Felix Gonzalez-Torres Artwork?](https://hyperallergic.com/839439/did-kith-shoe-campaign-copy-a-felix-gonzalez-torres-artwork/)
+- [Manistee mural painted over amid claim of copyright infringement](https://www.manisteenews.com/news/article/manistee-mural-painted-amid-claim-copyright-18512740.php)
 
 ### Copyright Articles
 
+- [Influencer responds to lawsuit claiming she copied another creator’s ‘aesthetic'](https://www.nbcnews.com/tech/tiktoker-lawsuit-copyright-claims-alyssa-sheil-sydney-nicole-gifford-rcna165407)
 - [MrBeast’s lost at sea video hit with copyright claim over unlicensed animation - Dexerto](https://www.dexerto.com/entertainment/mrbeasts-lost-at-sea-video-hit-with-copyright-claim-over-unlicensed-animation-2254667/)
 - [Disney's Pixar sued by artist over alleged stolen art in 'Onward' movie - Business Insider](https://www.businessinsider.com/disney-pixar-onward-movie-san-francisco-art-unicorn-van-2020-2)
 - [Elon Musk Takes a Stand in Controversial Disney Copyright Case | TheStreet](https://www.thestreet.com/technology/elon-musk-takes-a-stand-in-controversial-disney-copyright-case)
@@ -105,3 +124,49 @@ Plagiarism is not just something that you learn not to do in school, it really h
 - [Hershey wants NYC artist to stop selling ‘Kill Kats’ and ‘Kisses of Death’](https://nypost.com/2020/08/08/hershey-engaged-in-trademark-battle-with-brooklyn-artist/)
 - [Apple Takes Legal Action Against This Small Company’s Pear Logo](https://www.iphoneincanada.ca/news/apple-legal-action-pear-logo/)
 - [You See Pepsi, I See Coke: New Tricks in Product Placement](https://www.nytimes.com/2019/12/20/business/media/streaming-product-placement.html)
+- [Internet Archive’s legal woes mount as record labels sue for $400M | Ars Technica](https://arstechnica.com/tech-policy/2023/08/record-labels-sue-internet-archive-for-digitizing-obsolete-vintage-records/)
+- [An Artist Sued Maurizio Cattelan for Allegedly Copying His Duct-Taped Banana. A Miami Judge Just Allowed the Case to Proceed | Artnet News](https://news.artnet.com/art-world/an-artist-sued-maurizio-cattelan-banana-2144524)
+- [Maurizio Cattelan Wins His Legal Case Against His Disgruntled Fabricator. But for Some, Key Questions Remain Unanswered | Artnet News](https://news.artnet.com/art-world/maurizio-cattelan-narrowly-wins-a-legal-case-against-his-disgruntled-fabricator-but-key-questions-remain-unanswered-2144591)
+- [Amazon and Tolkien Estate Win Copyright Lawsuit Against 'Fellowship of the King' Author - IGN](https://www.ign.com/articles/amazon-and-tolkien-estate-win-copyright-lawsuit-against-fellowship-of-the-king-author)
+
+- [To Criticize 'Excessive' Copyright Protection, a Law Professor Minted NFTs of a Warhol Work That's Now the Subject of a Supreme Court Case | Artnet News](https://news.artnet.com/art-world/warhol-nft-brian-frye-2143449)
+
+- [Copyright small claims court : The Indicator from Planet Money : NPR](https://www.npr.org/2022/07/11/1110928086/copyright-small-claims-court)
+
+[An Artist Suing Meow Wolf for $1 Million Is on the Hook to Pay the Experiential Art Giant's Legal Fees | Artnet News](https://news.artnet.com/art-world/meow-wolf-wins-sanctions-from-lauren-adele-oliver-who-sued-2240749?utm_content=from_newscta&utm_source=Sailthru&utm_medium=email&utm_campaign=1%2F12%20US%20AM&utm_term=US%20Daily%20Newsletter%20%5BMORNING%5D)
+
+[The Italian Museum That Owns Leonardo’s ‘Vitruvian Man’ Has Successfully Sued to Stop Production of a 1,000-Piece Puzzle Based on the Work](https://news.artnet.com/art-world/ravensburger-da-vinci-vitruvian-man-puzzle-ruling-gallerie-dell-accademia-2276738)
+
+Hollister residents calling for the removal of a sculpture that resembles a 'phallic symbol'
+https://www.ksbw.com/article/hollister-residents-call-for-removal-of-rock-sculpture-resembles-phallic-symbol/43570931
+
+Peter Doig Awarded $2.5 Million in Dispute Over Painting He Denied
+https://www.nytimes.com/2023/01/17/arts/design/peter-doig-painter-lawsuit.html
+
+Lakewood art installation draws community ire | king5.com
+https://www.king5.com/article/news/local/lakewood-art-installation-community-ire/281-0e0134ef-731b-4d6f-96fd-5beff6650fa2
+
+Getty sues Stability AI for copying 12M photos and imitating famous watermark | Ars Technica
+https://arstechnica.com/tech-policy/2023/02/getty-sues-stability-ai-for-copying-12m-photos-and-imitating-famous-watermark/
+
+GitHub is Sued, and We May Learn Something About Creative Commons Licensing - The Scholarly Kitchen
+https://scholarlykitchen.sspnet.org/2023/01/05/github-is-sued-and-we-may-learn-something-about-creative-commons-licensing/
+
+YouTube Fraud Led to $23 Million in Royalties for 2 Men, IRS Says – Billboard
+https://www.billboard.com/pro/youtube-fraud-royalties-scam-irs-latin-chenel-yenddi-mediamuv-adrev/
+
+White Artist Slammed Online for Copying the Work of a Black Photographer
+https://hyperallergic.com/746899/white-artist-slammed-online-for-copying-the-work-of-a-black-photographer/
+
+Court Overturns Prior Ruling that Photos of Picasso's Art Was Fair Use | PetaPixel
+https://petapixel.com/2022/07/22/court-overturns-prior-ruling-that-photos-of-picassos-art-was-fair-use/
+
+Photographer Says Artist Copied Her Iconic Photo | PetaPixel
+https://petapixel.com/2023/02/14/photographer-says-artist-copied-her-iconic-photo/
+
+Publishers File for Summary Judgment Against the Internet Archive
+https://publishingperspectives.com/2022/07/american-publishers-file-for-summary-judgment-against-the-internet-archive/
+
+[I think flouting the Joker’s copyright is funny, and I’m tired of pretending it isn’t - The Verge](https://www.theverge.com/2022/9/16/23354819/the-peoples-joker-copyright-dc-tiff)
+
+[Artist Michael Moebius Is Suing Fast Fashion Retailer Shein in a Landmark Case for Artists Going After Multinational Companies](https://news.artnet.com/art-world/michael-moebius-shein-lawsuit-2338224)

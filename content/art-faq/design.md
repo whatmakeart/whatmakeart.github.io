@@ -1,7 +1,7 @@
 ---
 title: Design
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-12T06:17:21
+lastmod: 2024-12-01T16:58:08
 ---
 
 Design is an important process in making anything. Design can be good or bad. The term has different meanings depending on the context. It can refer to the process of making a design or designing an object. It can also mean the final design of the image or object.
@@ -46,3 +46,7 @@ A [Charrette](charrette.md) is a collaborative design process often used in urba
 - Text can be transparent as well.
 - High contrast, high detail images can make text hard to read.
 - Don't forget about color so there is enough contrast to make the text readable
+
+## Perception
+
+- [Akiyoshi's illusion pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)

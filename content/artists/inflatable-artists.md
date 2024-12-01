@@ -1,7 +1,7 @@
 ---
 title: Inflatable Artists
 date: 2024-10-28T06:07:28
-lastmod: 2024-10-28T21:31:05
+lastmod: 2024-12-01T17:11:25
 ---
 
 <div class="auto-grid-wrapper">
@@ -9,12 +9,15 @@ lastmod: 2024-10-28T21:31:05
 - [Google - inflatable art](https://www.google.com/search?q=inflatable+art&udm=2)
 - [AKA Airways](https://www.akairways.com/)
 - [Aeolian Ride](http://www.aeolian-ride.info/)
+- Alan Parkinson
 - [Alex Schweder](http://www.alexschweder.com/category/inflatables/)
 - [Ant Farm](<https://en.wikipedia.org/wiki/Ant_Farm_(group)>)
 - [Architects of Air](https://www.architects-of-air.com/)
 - [Atelier Sisu](https://www.ateliersisu.com/)
 - [Claire Ashley](https://clairehelenashley.com/)
+- [Clive Murphy](https://collabcubed.com/2011/08/11/clive-murphy-inflatable-sculptures-plus/)
 - [Cyril Lancelin](https://www.townandconcrete.com/works)
+- David Cross
 - [ENESS](https://www.eness.com/)
 - [Filthy Luker](https://www.designsinair.com/)
 - [Florentijn Hofman](https://florentijnhofman.com/)
@@ -29,11 +32,14 @@ lastmod: 2024-10-28T21:31:05
 - [Karina Smigla-Bobinski](https://smigla-bobinski.com/)
 - [Kurt Perschke](https://redballproject.com/about/)
 - [Mariana Manhães](https://www.marianamanhaes.com/)
+- Maurice Agis
 - [Max Streicher](https://www.maxstreicher.com/)
 - [Michael Shaw](https://michaelshaw.art/)
 - [Michela Picchi](http://michelapicchi.com/)
+- Nancy Davidson
 - [Momoyo Torimitsu](https://www.momoyotorimitsu.com/)
 - [Paul McCarthy](https://www.hauserwirth.com/artists/2796-paul-mccarthy/)
+- Patricia Piccinini
 - [Penique Productions](https://www.peniqueproductions.com/)
 - [Plastique Fantastique](https://plastique-fantastique.de/)
 - [Pnuehaus](https://www.pneu.haus/)
@@ -122,6 +128,15 @@ lastmod: 2024-10-28T21:31:05
 
 <div class="video-card">
 
+[Joshua Allen Harris](https://www.joshuaallenharris.com/)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/PH6xCT2aTSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
 [Kalman Pool](https://kalmanpool.com/)
 
 <div class="iframe-16-9-container">
@@ -171,6 +186,33 @@ lastmod: 2024-10-28T21:31:05
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/hWnoD9IhWAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Tim Hawkinson](https://en.wikipedia.org/wiki/Tim_Hawkinson)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/D5aOUJ0QXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+Ant Farm Video Inflatables
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/AZ9uIDP-o-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+David Cross - Level Playing Field
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/AZ9uIDP-o-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 

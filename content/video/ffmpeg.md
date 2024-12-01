@@ -1,7 +1,7 @@
 ---
 title: ffmpeg
 date: 2024-02-26T08:51:07
-lastmod: 2024-09-26T19:37:36
+lastmod: 2024-12-01T17:08:27
 ---
 
 [FFMPEG](https://www.ffmpeg.org/) is a "A complete, cross-platform solution to record, convert and stream audio and video." [^ffmpeg]
@@ -22,6 +22,13 @@ Convert mp4 to avi
 
 Export only Keyframes
 `ffmpeg -skip_frame nokey -i input.mp4 -vsync 0 -r 30 -f image2 keyframes-%02d.png`
+
+Export every n frames
+`ffmpeg -i input.mp4 -select=not(mod(n\,13) -q:v 2 -vframes -o frame%03d.jpg`
+`ffmpeg -i input.mp4 -vf "select=not(mod(n\,30))" -fps_mode vfr img_%03d.jpg`
+
+Trim Video
+`ffmpeg -ss 00:01:00 -to 00:05:00 -i input.MP4 -c copy output.mp4`
 
 ## References
 

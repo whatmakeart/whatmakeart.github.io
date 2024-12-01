@@ -1,7 +1,7 @@
 ---
 title: AI
 date: 2023-05-23T21:59:42
-lastmod: 2024-10-21T15:01:29
+lastmod: 2024-12-01T06:49:20
 ---
 
 ## AI Creation
@@ -24,8 +24,13 @@ lastmod: 2024-10-21T15:01:29
 
 I read "Computer Algorithms Analyzing Paintings" in the November 19, 2014 _Artforum_ about computer algorithms analyzing Van Gogh paintings and being able to tell the difference between the brushstrokes of forgeries in real paintings. [^1] The author of the piece suggested that these new algorithms could be used by artists to find out what is the best part of a still life, then using the information gained from the deep learning of the machine and big data the artist could amp up the level to what the author calls "uncanny" levels. They could then crossbreed this with other particular styles and let genetic algorithms go through and find out new and unimaginable works of art. They also talked about finding statistical probability to determine the difference between forgeries of signatures. Computers and machines will continue to enhance and extend and externalize our memories just as I'm reading in the Organized Mind book.
 
+[Why Machine Learning Is Not Made for Causal Estimation | by Quentin Gallea, PhD | Jul, 2024 | Towards Data Science](https://towardsdatascience.com/why-machine-learning-is-not-made-for-causal-estimation-f2add4a36e85)
+
 ## AI Links
 
+- [Google pauses Gemini’s ability to generate AI images of people after diversity errors - The Verge](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause)
+- [A Keith Haring Painting ‘Completed’ Using A.I. Generates Backlash](https://news.artnet.com/art-world/keith-haring-unfinished-painting-completed-with-ai-2418058)
+- [Movie Editors and Animators Fear A.I. Will Kill Jobs - The New York Times](https://www.nytimes.com/2024/07/30/business/economy/artificial-intelligence-hollywood-unions.html)
 - [OpenAI won’t watermark ChatGPT text because its users could get caught - The Verge](https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool)
 - [AI Image Generators - New York Times](https://www.nytimes.com/interactive/2024/01/25/business/ai-image-generators-openai-microsoft-midjourney-copyright.html)
 - [How AI is Expanding Art History](https://www.nature.com/articles/d41586-023-03604-3)

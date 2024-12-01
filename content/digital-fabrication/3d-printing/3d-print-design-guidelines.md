@@ -1,7 +1,7 @@
 ---
 title: 3D Print Design Guidelines
 date: 2023-06-15T05:23:20
-lastmod: 2023-11-01T08:13:57
+lastmod: 2024-12-01T16:51:16
 ---
 
 ## General 3D Print Rules for FFF Printing without Dissolvable Supports
@@ -9,6 +9,27 @@ lastmod: 2023-11-01T08:13:57
 - Keep thin and small parts multiples of the nozzle size. The nozzle at the think[box] is .4mm, therefore absolute minimum size of fine objects is 1.2mm. A better size for thin walls and supports is 1.6mm. 1.5mm or 1.7 mm are not good. 2.0mm or 2.4mm are even better.
 - Keep overhanging parts extending out less than 45 degrees. This allows layers to overlap a bit and slowly extend out wider. 45 degrees is the max otherwise the printer tries to print in mid air and all the filament falls to the ground.
 - Objects must be fully connected and "manifold" or "watertight" You can't have pieces floating in the air or close but not touching. Don't have small voids. Make the pieces solid and uniform. You can have a hollow vase or container but all its parts and walls should be connected and solid.
+
+Print text on the side because it takes advantage of layer height and doesn't have the extruder concentrating on an island and being limited to the extruder diameter
+
+Chamfer the bottoms of prints don't fill it them. He wanted to be a 45° chamfer
+
+Chamfer and fillet it everything
+
+Make sure to fillet it any vertical lines to make prints go faster and be more consistent
+
+You can prevent sag, in horizontal holes by changing the top
+
+Best to print something with a flat side and vertical whenever possible
+
+Print flat lids and panel covers vertical, add triangle fins for stability that connects at thin point on inside lip to break off easily
+
+For strength keep parts think and the infill is strong
+For strength keep layers wrapping around a part on the outside continuously
+Keep layer lines in plane with tension direction
+Try to print parts at angles to keep layers wrapping around the part
+
+Chamfers are often better than fillets because no over hang and can be printed in multiple orientation
 
 <div class="gallery-grid">
 

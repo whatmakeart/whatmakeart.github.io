@@ -1,8 +1,10 @@
 ---
 title: Contracts for Artists
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:35:39
+lastmod: 2024-12-01T06:19:27
 ---
+
+[Mike Monteiro: F\*ck You, Pay Me - from CreativeMornings](https://youtube.com/watch?v=jVkLVRt6c1U)
 
 ## Requirements of a Contract
 

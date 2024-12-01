@@ -81,6 +81,8 @@ Switching Power Supply
 
 The [Arduino](../arduino/arduino-introduction.md)Arduino and other microcontroller can control addressable LEDs with the help of libraries.
 
+[Night Driver Strip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) allows the controll of 8 channels of LEDs with the ESP32 chip.
+
 ### FastLED Library
 
 A widely used library [FastLED](https://fastled.io/) is compatible with most addressable LED chips and protocols. According to the documentation, "FastLED supports popular LEDs including NeoPixel, WS2801, WS2811, WS2812B, LPD8806, TM1809, and more. The library runs on a wide range of Arduino and compatible boards, including both AVR- and ARM- based microcontrollers." [^2] The library can be installed directly in the Arduino IDE.

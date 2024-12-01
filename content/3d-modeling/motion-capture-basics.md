@@ -1,7 +1,7 @@
 ---
 title: Motion Capture Basics
 date: 2023-10-02T06:40:49
-lastmod: 2024-08-11T07:00:04
+lastmod: 2024-12-01T06:07:30
 ---
 
 With the advent of computer vision and machine learning, dedicated motion capture suits are no longer required to get motion capture data for 3D character animation.
@@ -25,3 +25,7 @@ With the advent of computer vision and machine learning, dedicated motion captur
 ## Interesting Motion Capture Applications
 
 - [dr_formalyst](https://www.instagram.com/dr_formalyst/p/C2xR3ycNMep/)
+
+## Articles
+
+- [Cartwheel generates 3D animations from scratch to power up creators | TechCrunch](https://techcrunch.com/2024/06/05/cartwheel-generates-3d-animations-from-scratch-to-power-up-creators/)

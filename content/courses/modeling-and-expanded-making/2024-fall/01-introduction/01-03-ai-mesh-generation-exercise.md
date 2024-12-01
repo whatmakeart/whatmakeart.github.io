@@ -1,7 +1,7 @@
 ---
 title: 01.03 AI Mesh Generation Exercise
 date: 2024-08-21T09:00:00
-lastmod: 2024-08-21T07:00:37
+lastmod: 2024-12-01T16:54:58
 toc: true
 ---
 
@@ -46,3 +46,7 @@ Boxing Bunny image made with Google Gemini
 1. Use images and photos of objects and the mesh generation tools above to create 3D .obj meshes and videos.
 2. Try images made with AI image generators for different results.
 3. Save and label your mesh and video files.
+
+## Further Reading
+
+[LRM: Large Reconstruction Model for Single Image to 3D](https://yiconghong.me/LRM/)
