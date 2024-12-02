@@ -1,7 +1,7 @@
 ---
 title: Rephotography
 date: 2024-11-29T10:17:20
-lastmod: 2024-12-02T17:41:23
+lastmod: 2024-12-02T17:48:12
 ---
 
 Rephotography can refer to the photographing of the same object or location at different times.
@@ -34,9 +34,12 @@ Mark Klett and JoAnn Verburg for the Rephotographic Survey Project, Gateway of t
 </figure>
 </div>
 
+Rephotography has become ubiquitous with the increase of photography powered by small portable electronic devices such as cell phones and machine learning computer vision algorithms. Many photo applications will automatically scan a library of images for similar subjects and framing to create "then and now" parings showing a variety of subject matter from different times, similar to the original concept of rephotography.
+
 ## Further Reading
 
-[History Pin](https://www.historypin.org/en/) crowdsources matching historical and contemporary photos to locations using street view and GPS
+- [History Pin](https://www.historypin.org/en/) crowdsources matching historical and contemporary photos to locations using street view and GPS.
+- [Time Travel Rephotography](https://github.com/Time-Travel-Rephotography/Time-Travel-Rephotography.github.io) uses a unique unified image processing method to enhance and colorize historical photographs.
 
 ## References
 
