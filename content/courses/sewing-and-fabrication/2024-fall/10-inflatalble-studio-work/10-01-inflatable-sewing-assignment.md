@@ -1,7 +1,7 @@
 ---
 title: 10.01 Inflatable Sewing Assignment
 date: 2024-11-04T09:00:00
-lastmod: 2024-12-02T08:21:17
+lastmod: 2024-12-02T08:24:57
 ---
 
 ## Assignment Deliverables
@@ -65,10 +65,9 @@ A trash bag or duffle bag is a great way to store and transport inflatables. Mak
 | Inflatable Sewn         | 20 points |
 | Inflatable Inflates     | 20 points |
 | Tube or Air Inlet       | 20 points |
-| Achieves 3 Requirements | 50 points |
+| Achieves 3 Requirements | 40 points |
 | Concept / Design        | 50 points |
 | Overall Craft           | 50 points |
-| Material Use            | 30 points |
-| Effort                  | 30 points |
+| Effort / Challenge      | 50 points |
 
 </div>
