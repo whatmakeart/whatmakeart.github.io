@@ -1,14 +1,14 @@
 ---
 title: Copyright for Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-12-02T05:57:13
+lastmod: 2024-12-02T06:45:43
 ---
 
 ## Public Domain Cases
 
 The [Public Domain](public-domain.md) is a great resource for content creation but artists need to be careful that images are actually in the public domain. If you get an image from a reputable source such as the New York Public Library or the public domain or the [Prelinger Archives](https://archive.org/details/prelinger), you can be reasonably assured that the content is really in the public domain. But if you use less reputable sources such as a search engine, you may find things that people have uploaded and claim to be in the public domain, but that are really copyrighted works created by others.
 
-An example of this is when an actor from the sitcom the office had their face added to a public domain repository and it was incorrectly tagged as public domain. Then many advertising agencies started to use their image without permission on products.
+An example of this is when, B.J. Novak, an actor from the sitcom _The Office_ had an image of their face added to a public domain repository and it was incorrectly tagged as public domain. Then many advertising agencies started to use their image without permission on products.[^novak-nytimes]
 
 - [ANDY WARHOL FOUNDATION FOR THE VISUAL ARTS, INC. v. GOLDSMITH ET AL.](https://www.supremecourt.gov/opinions/22pdf/21-869_87ad.pdf)
 
@@ -26,17 +26,26 @@ An example of this is when an actor from the sitcom the office had their face ad
 
 ## What Is Not Protected by Copyright?
 
-Copyright does not protect
-"
+Copyright does not protect ideas. Anyone can make a collector's card game that features mythical creatures, with magical powers. These powers could be written down as stats or attributes on the cards. Players could use the cards to pit their collection of creatures against another player. One of the goals could be to gather as many creatures as possible by using a spherical device to trap them. there could be television and merchandising spin offs featuring some of the popular creatures from the card game. Anyone can use this idea, since ideas are not protected by copyright, they just can't call it "Pokémon" or use any of the specific "tangible" or "fixed" forms of ideas from "Pokémon".
 
-- Ideas, procedures, methods, systems, processes, concepts, principles, or discoveries
-- Works that are not fixed in a tangible form (such as a choreographic work that has not been
-  notated or recorded or an improvisational speech that has not been written down)
-- Titles, names, short phrases, and slogans
-- Familiar symbols or designs
-- Mere variations of typographic ornamentation, lettering, or coloring
-- Mere listings of ingredients or contents"
-  For more information, see Works Not Protected by Copyright (Circular 33).
+Additionally, copyright also does not offer protections for:
+
+> § 202.1 Material not subject to copyright.
+> The following are examples of works not subject to copyright and applications for registration of such works cannot be entertained:
+>
+> (a) Words and short phrases such as names, titles, and slogans; familiar symbols or designs; mere variations of typographic ornamentation, lettering or coloring; mere listing of ingredients or contents;
+>
+> (b) Ideas, plans, methods, systems, or devices, as distinguished from the particular manner in which they are expressed or described in a writing;
+>
+> (c) Blank forms, such as time cards, graph paper, account books, diaries, bank checks, scorecards, address books, report forms, order forms and the like, which are designed for recording information and do not in themselves convey information;
+>
+> (d) Works consisting entirely of information that is common property containing no original authorship, such as, for example: Standard calendars, height and weight charts, tape measures and rulers, schedules of sporting events, and lists or tables taken from public documents or other common sources.
+>
+> (e) Typeface as typeface.
+>
+> [^not-protected-202]
+
+For more information about what is not protected by copyright, see "Works Not Protected by Copyright" (Circular 33).[^circular-33]
 
 ### Photos of Artwork Copyright Cases
 
@@ -131,47 +140,25 @@ Plagiarism is not just something that you learn not to do in school, it really h
 - [An Artist Sued Maurizio Cattelan for Allegedly Copying His Duct-Taped Banana. A Miami Judge Just Allowed the Case to Proceed | Artnet News](https://news.artnet.com/art-world/an-artist-sued-maurizio-cattelan-banana-2144524)
 - [Maurizio Cattelan Wins His Legal Case Against His Disgruntled Fabricator. But for Some, Key Questions Remain Unanswered | Artnet News](https://news.artnet.com/art-world/maurizio-cattelan-narrowly-wins-a-legal-case-against-his-disgruntled-fabricator-but-key-questions-remain-unanswered-2144591)
 - [Amazon and Tolkien Estate Win Copyright Lawsuit Against 'Fellowship of the King' Author - IGN](https://www.ign.com/articles/amazon-and-tolkien-estate-win-copyright-lawsuit-against-fellowship-of-the-king-author)
-
 - [To Criticize 'Excessive' Copyright Protection, a Law Professor Minted NFTs of a Warhol Work That's Now the Subject of a Supreme Court Case | Artnet News](https://news.artnet.com/art-world/warhol-nft-brian-frye-2143449)
-
 - [Copyright small claims court : The Indicator from Planet Money : NPR](https://www.npr.org/2022/07/11/1110928086/copyright-small-claims-court)
+- [An Artist Suing Meow Wolf for $1 Million Is on the Hook to Pay the Experiential Art Giant's Legal Fees | Artnet News](https://news.artnet.com/art-world/meow-wolf-wins-sanctions-from-lauren-adele-oliver-who-sued-2240749?utm_content=from_newscta&utm_source=Sailthru&utm_medium=email&utm_campaign=1%2F12%20US%20AM&utm_term=US%20Daily%20Newsletter%20%5BMORNING%5D)
+- [The Italian Museum That Owns Leonardo’s ‘Vitruvian Man’ Has Successfully Sued to Stop Production of a 1,000-Piece Puzzle Based on the Work](https://news.artnet.com/art-world/ravensburger-da-vinci-vitruvian-man-puzzle-ruling-gallerie-dell-accademia-2276738)
+- [Hollister residents calling for the removal of a sculpture that resembles a 'phallic symbol'](https://www.ksbw.com/article/hollister-residents-call-for-removal-of-rock-sculpture-resembles-phallic-symbol/43570931)
+- [Peter Doig Awarded $2.5 Million in Dispute Over Painting He Denied](https://www.nytimes.com/2023/01/17/arts/design/peter-doig-painter-lawsuit.html)
+- [Lakewood art installation draws community ire | king5.com](https://www.king5.com/article/news/local/lakewood-art-installation-community-ire/281-0e0134ef-731b-4d6f-96fd-5beff6650fa2)
+- [GitHub is Sued, and We May Learn Something About Creative Commons Licensing - The Scholarly Kitchen](https://scholarlykitchen.sspnet.org/2023/01/05/github-is-sued-and-we-may-learn-something-about-creative-commons-licensing/)
+- [YouTube Fraud Led to $23 Million in Royalties for 2 Men, IRS Says – Billboard](https://www.billboard.com/pro/youtube-fraud-royalties-scam-irs-latin-chenel-yenddi-mediamuv-adrev/)
+- [White Artist Slammed Online for Copying the Work of a Black Photographer](https://hyperallergic.com/746899/white-artist-slammed-online-for-copying-the-work-of-a-black-photographer/)
+- [Court Overturns Prior Ruling that Photos of Picasso's Art Was Fair Use | PetaPixel](https://petapixel.com/2022/07/22/court-overturns-prior-ruling-that-photos-of-picassos-art-was-fair-use/)
+- [Photographer Says Artist Copied Her Iconic Photo | PetaPixel](https://petapixel.com/2023/02/14/photographer-says-artist-copied-her-iconic-photo/)
+- [Publishers File for Summary Judgment Against the Internet Archive](https://publishingperspectives.com/2022/07/american-publishers-file-for-summary-judgment-against-the-internet-archive/)
+- [I think flouting the Joker’s copyright is funny, and I’m tired of pretending it isn’t - The Verge](https://www.theverge.com/2022/9/16/23354819/the-peoples-joker-copyright-dc-tiff)
+- [Artist Michael Moebius Is Suing Fast Fashion Retailer Shein in a Landmark Case for Artists Going After Multinational Companies](https://news.artnet.com/art-world/michael-moebius-shein-lawsuit-2338224)
+- [Japanese YouTuber convicted of copyright violation after uploading Let’s Play videos](https://www.theverge.com/2023/9/7/23863271/japanese-youtuber-lets-play-copyright-infringement-steins-gate)
 
-[An Artist Suing Meow Wolf for $1 Million Is on the Hook to Pay the Experiential Art Giant's Legal Fees | Artnet News](https://news.artnet.com/art-world/meow-wolf-wins-sanctions-from-lauren-adele-oliver-who-sued-2240749?utm_content=from_newscta&utm_source=Sailthru&utm_medium=email&utm_campaign=1%2F12%20US%20AM&utm_term=US%20Daily%20Newsletter%20%5BMORNING%5D)
+## References
 
-[The Italian Museum That Owns Leonardo’s ‘Vitruvian Man’ Has Successfully Sued to Stop Production of a 1,000-Piece Puzzle Based on the Work](https://news.artnet.com/art-world/ravensburger-da-vinci-vitruvian-man-puzzle-ruling-gallerie-dell-accademia-2276738)
-
-Hollister residents calling for the removal of a sculpture that resembles a 'phallic symbol'
-https://www.ksbw.com/article/hollister-residents-call-for-removal-of-rock-sculpture-resembles-phallic-symbol/43570931
-
-Peter Doig Awarded $2.5 Million in Dispute Over Painting He Denied
-https://www.nytimes.com/2023/01/17/arts/design/peter-doig-painter-lawsuit.html
-
-Lakewood art installation draws community ire | king5.com
-https://www.king5.com/article/news/local/lakewood-art-installation-community-ire/281-0e0134ef-731b-4d6f-96fd-5beff6650fa2
-
-Getty sues Stability AI for copying 12M photos and imitating famous watermark | Ars Technica
-https://arstechnica.com/tech-policy/2023/02/getty-sues-stability-ai-for-copying-12m-photos-and-imitating-famous-watermark/
-
-GitHub is Sued, and We May Learn Something About Creative Commons Licensing - The Scholarly Kitchen
-https://scholarlykitchen.sspnet.org/2023/01/05/github-is-sued-and-we-may-learn-something-about-creative-commons-licensing/
-
-YouTube Fraud Led to $23 Million in Royalties for 2 Men, IRS Says – Billboard
-https://www.billboard.com/pro/youtube-fraud-royalties-scam-irs-latin-chenel-yenddi-mediamuv-adrev/
-
-White Artist Slammed Online for Copying the Work of a Black Photographer
-https://hyperallergic.com/746899/white-artist-slammed-online-for-copying-the-work-of-a-black-photographer/
-
-Court Overturns Prior Ruling that Photos of Picasso's Art Was Fair Use | PetaPixel
-https://petapixel.com/2022/07/22/court-overturns-prior-ruling-that-photos-of-picassos-art-was-fair-use/
-
-Photographer Says Artist Copied Her Iconic Photo | PetaPixel
-https://petapixel.com/2023/02/14/photographer-says-artist-copied-her-iconic-photo/
-
-Publishers File for Summary Judgment Against the Internet Archive
-https://publishingperspectives.com/2022/07/american-publishers-file-for-summary-judgment-against-the-internet-archive/
-
-[I think flouting the Joker’s copyright is funny, and I’m tired of pretending it isn’t - The Verge](https://www.theverge.com/2022/9/16/23354819/the-peoples-joker-copyright-dc-tiff)
-
-[Artist Michael Moebius Is Suing Fast Fashion Retailer Shein in a Landmark Case for Artists Going After Multinational Companies](https://news.artnet.com/art-world/michael-moebius-shein-lawsuit-2338224)
-
-[Japanese YouTuber convicted of copyright violation after uploading Let’s Play videos](https://www.theverge.com/2023/9/7/23863271/japanese-youtuber-lets-play-copyright-infringement-steins-gate)
+[^novak-nytimes]: Lukpat, Alyssa. [B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why](https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html) New York Times. October 27, 2021.
+[^circular-33]: [Works Not Protected by Copyright](https://www.copyright.gov/circs/circ33.pdf) Circular 33. United States Copyright Office.
+[^not-protected-202]: [§ 202.1 Material not subject to copyright.](https://www.copyright.gov/title37/202/37cfr202-1.html) US Copyright Office. GPO Electronic Code of Federal Regulations (e-CFR) [ecfr.gov](https://www.ecfr.gov/)
