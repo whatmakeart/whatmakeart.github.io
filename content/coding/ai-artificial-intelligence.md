@@ -1,7 +1,7 @@
 ---
 title: AI
 date: 2023-05-23T21:59:42
-lastmod: 2024-12-01T06:49:20
+lastmod: 2024-12-02T05:14:28
 ---
 
 ## AI Creation
@@ -10,6 +10,8 @@ lastmod: 2024-12-01T06:49:20
 - [GitHub - shaoanlu/fewshot-face-translation-GAN: Generative adversarial networks integrating modules from FUNIT and SPADE for face-swapping](https://github.com/shaoanlu/fewshot-face-translation-GAN)
 - [AI Art Experiments with Blind Users - Artnet](https://news.artnet.com/art-world/ai-art-experiments-blind-users-2368599)
 - [Stable Diffusion](stable-diffusion.md) is an open source AI image generator
+
+[Musician's Union Outlaw Synthesisers](https://faroutmagazine.co.uk/musicians-union-outlaw-synthesisers/)
 
 ### Google Collab Links
 

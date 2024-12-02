@@ -1,7 +1,7 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-11-12T10:17:13
+lastmod: 2024-12-02T06:07:57
 ---
 
 - [Inflatable Artists](./inflatable-artists.md)
@@ -60,3 +60,5 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Moon Papas Art](https://www.moonpapasart.com/)
 
 </div>
+
+[Hans Noë, Architect, Restaurateur and Maker of Intriguing Sculptures - The New York Times](https://www.nytimes.com/2023/10/03/arts/design/hans-noe-sculptures-mathematics-museum.html)

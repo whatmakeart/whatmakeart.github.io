@@ -1,7 +1,7 @@
 ---
 title: Copyright for Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-12-01T17:11:25
+lastmod: 2024-12-02T05:57:13
 ---
 
 ## Public Domain Cases
@@ -27,14 +27,16 @@ An example of this is when an actor from the sitcom the office had their face ad
 ## What Is Not Protected by Copyright?
 
 Copyright does not protect
-"• Ideas, procedures, methods, systems, processes, concepts, principles, or discoveries
-• Works that are not fixed in a tangible form (such as a choreographic work that has not been
-notated or recorded or an improvisational speech that has not been written down)
-• Titles, names, short phrases, and slogans
-• Familiar symbols or designs
-• Mere variations of typographic ornamentation, lettering, or coloring
-• Mere listings of ingredients or contents"
-For more information, see Works Not Protected by Copyright (Circular 33).
+"
+
+- Ideas, procedures, methods, systems, processes, concepts, principles, or discoveries
+- Works that are not fixed in a tangible form (such as a choreographic work that has not been
+  notated or recorded or an improvisational speech that has not been written down)
+- Titles, names, short phrases, and slogans
+- Familiar symbols or designs
+- Mere variations of typographic ornamentation, lettering, or coloring
+- Mere listings of ingredients or contents"
+  For more information, see Works Not Protected by Copyright (Circular 33).
 
 ### Photos of Artwork Copyright Cases
 
@@ -54,6 +56,7 @@ Plagiarism is not just something that you learn not to do in school, it really h
 - [Former German Minister Drops Her Fight to Reclaim Ph.D.](https://www.science.org/content/article/former-german-minister-drops-her-fight-reclaim-phd)
 - [CORRECTING THE RECORD; Times Reporter Who Resigned Leaves Long Trail of Deception](https://www.nytimes.com/2003/05/11/us/correcting-the-record-times-reporter-who-resigned-leaves-long-trail-of-deception.html)
 - [Harvard’s Claudine Gay was ousted for ‘plagiarism’. How serious was it really?](https://www.theguardian.com/education/2024/jan/06/harvard-claudine-gay-plagiarism)
+- [A Renowned Chinese Artist Has Been Found Guilty of Brazen Plagiarism After He Made Millions From Copying a Belgian Artist’s Work](https://news.artnet.com/art-world/ye-yongqing-christian-silvain-plagiarism-2358025)
 
 ## Examples of Artists' Copyright Cases
 
@@ -170,3 +173,5 @@ https://publishingperspectives.com/2022/07/american-publishers-file-for-summary-
 [I think flouting the Joker’s copyright is funny, and I’m tired of pretending it isn’t - The Verge](https://www.theverge.com/2022/9/16/23354819/the-peoples-joker-copyright-dc-tiff)
 
 [Artist Michael Moebius Is Suing Fast Fashion Retailer Shein in a Landmark Case for Artists Going After Multinational Companies](https://news.artnet.com/art-world/michael-moebius-shein-lawsuit-2338224)
+
+[Japanese YouTuber convicted of copyright violation after uploading Let’s Play videos](https://www.theverge.com/2023/9/7/23863271/japanese-youtuber-lets-play-copyright-infringement-steins-gate)
