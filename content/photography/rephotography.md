@@ -1,7 +1,7 @@
 ---
 title: Rephotography
 date: 2024-11-29T10:17:20
-lastmod: 2024-12-02T17:31:32
+lastmod: 2024-12-02T17:41:23
 ---
 
 Rephotography can refer to the photographing of the same object or location at different times.
@@ -13,7 +13,7 @@ Later in 1998 Klett revisited sites in the west to rephotograph them again for a
 <div class="gallery-grid">
 <figure>
 
-[![William Henry Jackson Gateway of the Garden of the Gods](./attachments/William%20Henry-Jackson_Gateway-of-the-Garden-of-the-Gods_Colorado-1873.jpg)](./attachments/William%20Henry-Jackson_Gateway-of-the-Garden-of-the-Gods_Colorado-1873.jpg)
+[![William Henry Jackson Gateway of the Garden of the Gods](./attachments/William-Henry-Jackson_Gateway-of-the-Garden-of-the-Gods_Colorado-1873.jpg)](./attachments/William-Henry-Jackson_Gateway-of-the-Garden-of-the-Gods_Colorado-1873.jpg)
 
 <figcaption>
 
