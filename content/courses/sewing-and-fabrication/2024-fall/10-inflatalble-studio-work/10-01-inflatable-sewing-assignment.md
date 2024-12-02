@@ -1,7 +1,7 @@
 ---
 title: 10.01 Inflatable Sewing Assignment
 date: 2024-11-04T09:00:00
-lastmod: 2024-11-04T09:02:25
+lastmod: 2024-12-02T08:21:17
 ---
 
 ## Assignment Deliverables
@@ -55,3 +55,20 @@ When laying out large sheets of material g, space becomes an issue. Working on t
 ### Transporting & Storing Your Project
 
 A trash bag or duffle bag is a great way to store and transport inflatables. Make sure that you label any bag with large, clear type. A bag of plastic may be mistaken for trash and accidentally thrown away.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment              | Weight    |
+| ----------------------- | --------- |
+| Inflatable Sewn         | 20 points |
+| Inflatable Inflates     | 20 points |
+| Tube or Air Inlet       | 20 points |
+| Achieves 3 Requirements | 50 points |
+| Concept / Design        | 50 points |
+| Overall Craft           | 50 points |
+| Material Use            | 30 points |
+| Effort                  | 30 points |
+
+</div>
