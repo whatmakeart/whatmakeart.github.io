@@ -1,7 +1,7 @@
 ---
 title: Reproducibility Syllabus
 date: 2025-01-15T09:00:00
-lastmod: 2024-11-29T08:33:44
+lastmod: 2024-12-03T06:17:55
 ---
 
 ## Reproducibility Syllabus
@@ -32,27 +32,51 @@ Though we often think of artworks as unique, this is not an intrinsic or inheren
 
 ## Course Goals and Learning Objectives
 
+### Major Learning Outcomes
+
+Students will be introduced to the importance of thinking about the choice of media and format for their ideas, and how those choices inform content. Students will be introduced to the issues that circumscribe the production of artworks intended to be realized as multiples, to be reproduced, replicated, or translated into another media. The goal of this course is to advance alternative approaches and understandings to the conventions associated with the artwork and its media and forms. The course will address technical issues as well as those of theory and history of art.
+
+### Specific Course Objectives:
+
+Through demonstrations of technical processes, lectures supplemented by works from the departments’ collections, and through individual and group critiques, the successful student will develop skill and demonstrate knowledge related to the core learning outcomes:
+
+### Studio and Seminar
+
+1. In the Seminar section of the course, lectures and discussions will review the history relating to “reproducibility” and how the topics of the class operate in the contemporary practice of the artist. Students are expected to participate in class discussion supported by presentation and assigned readings and are expected to respond to writing assignments based on class content.
+2. In the Studio section of the course, students will use course content from the seminars to support investigations of in-class and homework projects. Students will be challenged to make connections between the ideas presented in the assignments and the images and objects each student creates. (The student's work should demonstrate the evolution of their critical decision-making process and exploration through the display of related sketches, maquettes, and related works.)
+3. After successful completion of this course, the student will:
+   - Understand the concept of a matrix, and be able to use matrices (in both 2D + 3D) to successfully produce multiples at an introductory/intermediate level
+   - Be able to demonstrate through discussion, critique and fabricated work, a working knowledge of the relevance and contemporary use of concepts of Reproducibility, including;
+     - Appropriation
+     - Multiple vs. Singular
+     - Iteration
+     - Found Object
+     - Collection
+   - At an introductory level, experiment with various material and process approaches relative to their assignment responses
+   - At an intermediate level, create conceptually and materially resolved projects informed by experiments with materials and processes
+   - Demonstrate the evolution of their critical decision-making process and exploration through the thoughtful display of projects created
+
 ## Course Schedule & Requirements
 
 <div class="responsive-table-markdown">
 
 | **Week** | **Date**    | **Topic**                                                       |
 | -------- | ----------- | --------------------------------------------------------------- |
-| 1        | January 15  | [01](../01/01-00-introduction.md)                               |
-| 2        | January 22  | [02](../02/02-00-introduction.md)                               |
-| 3        | January 29  | [03](../03/03-00-introduction.md)                               |
-| 4        | February 5  | [04](../04/04-00-introduction.md)                               |
-| 5        | February 12 | [05](../05/05-00-introduction.md)                               |
-| 6        | February 19 | [06](../06/06-00-introduction.md)                               |
-| 7        | February 26 | [07](../07/07-00-introduction.md)                               |
-| 8        | March 5     | [08](../08/08-00-introduction.md)                               |
+| 1        | January 15  | [01 Project 1](../01-project-1/01-00-introduction.md)           |
+| 2        | January 22  | [02 Project 1](../02-project-1/02-00-introduction.md)           |
+| 3        | January 29  | [03 Project 1](../03-project-1/03-00-introduction.md)           |
+| 4        | February 5  | [04 Project 1](../04-project-1/04-00-introduction.md)           |
+| 5        | February 12 | [05 Project 1](../05-project-1/05-00-introduction.md)           |
+| 6        | February 19 | [06 Project 2](../06-project-2/06-00-introduction.md)           |
+| 7        | February 26 | [07 Project 2](../07-project-2/07-00-introduction.md)           |
+| 8        | March 5     | [08 Project 2](../08-project-2/08-00-introduction.md)           |
 |          | March 12    | Spring Break                                                    |
-| 9        | March 19    | [09](../09/09-00-introduction.md)                               |
-| 10       | March 26    | [10](../10/10-00-introduction.md)                               |
-| 11       | April 2     | [11](../11/11-00-introduction.md)                               |
-| 12       | April 9     | [12](../12/12-00-introduction.md)                               |
-| 13       | April 16    | [13](../13/13-00-introduction.md)                               |
-| 14       | April 23    | [14](../14/14-00-introduction.md)                               |
+| 9        | March 19    | [09 Project 2](../09-project-2/09-00-introduction.md)           |
+| 10       | March 26    | [10 Project 2](../10-project-2/10-00-introduction.md)           |
+| 11       | April 2     | [11 Project 3](../11-project-3/11-00-introduction.md)           |
+| 12       | April 9     | [12 Project 3](../12-project-3/12-00-introduction.md)           |
+| 13       | April 16    | [13 Project 3](../13-project-3/13-00-introduction.md)           |
+| 14       | April 23    | [14 Project 3](../14-project-3/14-00-introduction.md)           |
 | 16       | April 30    | [15 Final Critique](../15-final-critique/15-00-introduction.md) |
 |          | May 6 - 9   | BFA Week                                                        |
 
