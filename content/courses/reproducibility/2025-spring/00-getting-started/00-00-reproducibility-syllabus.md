@@ -1,7 +1,7 @@
 ---
 title: Reproducibility Syllabus
 date: 2025-01-15T09:00:00
-lastmod: 2024-12-05T11:03:46
+lastmod: 2024-12-05T12:05:55
 ---
 
 ## Reproducibility Syllabus
@@ -62,7 +62,7 @@ Through demonstrations of technical processes, lectures supplemented by works fr
 
 | **Week** | **Date**    | **Topic**                                                                 |
 | -------- | ----------- | ------------------------------------------------------------------------- |
-| 1        | January 15  | [01 Project 1](../01-moldmaking/01-00-introduction.md)                    |
+| 1        | January 15  | [01 Project 1](../01-mold-making/01-00-introduction.md)                   |
 | 2        | January 22  | [02 Project 1](../02-slip-casting/02-00-introduction.md)                  |
 | 3        | January 29  | [03 Project 1](../03-slip-casting-production/03-00-introduction.md)       |
 | 4        | February 5  | [04 Project 1](../04-alternative-casting-materials/04-00-introduction.md) |
