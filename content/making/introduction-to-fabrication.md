@@ -1,7 +1,7 @@
 ---
 title: Introduction to Fabrication
 date: 2023-05-23T21:59:41
-lastmod: 2023-10-01T06:05:26
+lastmod: 2024-12-05T16:49:20
 ---
 
 [Fabrication](../making/fabrication.md) is a fundamental method of making objects. After an initial ideation, planning, and design phase eventually materials must be manipulated, transformed, and assembled into the intended form. This process is called fabrication.
@@ -14,7 +14,7 @@ If you have ever used tape or glue to attach something together or used a paper 
 
 One of the best ways to learn how to make a fabricate objects is to simply make and fabricate many objects. You will learn from success and failures.
 
-The first step of making to to have an idea. Ideas in your head are less useful than ideas that have been put into words with writing or made visual with [Sketching](../drawing/sketching.md). As an idea develops begin to think about what [materials]..(/sculpture/materials-for-making.md) will give the desired outcome of your idea. The specific materials and design will start to narrow down what [Tools](tools.md) and methods that you could use. It may be necessary to make small mock-ups or prototypes of your design to test out how forms and materials will interact. A mock-up or maquette can me made of cardboard, [Paper-Maché](../sculpture/paper-mach%C3%A9.md), or virtually with [3D-Modeling](../3d-modeling/3d-modeling.md).
+The first step of making to to have an idea. Ideas in your head are less useful than ideas that have been put into words with writing or made visual with [Sketching](../drawing/sketching.md). As an idea develops begin to think about what [materials]..(/sculpture/materials-for-making.md) will give the desired outcome of your idea. The specific materials and design will start to narrow down what [Tools](tools.md) and methods that you could use. It may be necessary to make small mock-ups or prototypes of your design to test out how forms and materials will interact. A mock-up or maquette can me made of cardboard, [Paper-Maché](./paper-maché.md), or virtually with [3D-Modeling](../3d-modeling/3d-modeling.md).
 
 The [tools](./tools.md) available for fabrication are simply too numerous for anyone to have a full understanding of them. It is best to start with gaining familiarity with making things with your hands, then using simple hand tools, progressing to larger and more complex fabrication machinery, and ultimately exploring digital fabrication techniques.
 

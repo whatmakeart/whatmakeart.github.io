@@ -2,7 +2,7 @@
 title: Casting
 ---
 
-Casting takes a material that is in a flowing or liquid state and puts that material into a container or [Mold](../making/molds.md) that restricts its flow until it stops flowing. The method for stopping the flow can be either temperature or chemical based.
+Casting takes a material that is in a flowing or liquid state and puts that material into a container or [Mold](./molds.md) that restricts its flow until it stops flowing. The method for stopping the flow can be either temperature or chemical based.
 
 For example, in slip casting of clay, when the clay dries it no longer flows and can be removed from the mold.
 
@@ -14,7 +14,7 @@ Various metals can be cast into molds using a variety of processes. Common metal
 
 #### Bronze Casting
 
-[Bronze-Casting](bronze-casting.md) is a common form of metal casting because of its lower melting point than iron. Bronze is melted in a crucible in a blast furnace as shown in the image below.
+[Bronze-Casting](../metalworking/bronze-casting.md) is a common form of metal casting because of its lower melting point than iron. Bronze is melted in a crucible in a blast furnace as shown in the image below.
 
 ![Molten Bronze in Blast Furnace University Alabama in Hunstville](../attachments/20101109_134223_Molten_Bronze_in_Blast_Furnace_University_Alabama_in_Hunstville.jpg)
 
@@ -24,7 +24,7 @@ Iron Casting requires much hirer heat than bronze or aluminum casting.
 
 ### Plaster Casting
 
-Plaster casting is a reliable method of making a positive cast of a form. [Plaster](../sculpture/plaster.md) is also often used as a [mold making](../making/molds.md) material.
+Plaster casting is a reliable method of making a positive cast of a form. [Plaster](./plaster.md) is also often used as a [mold making](./molds.md) material.
 
 ### Materials Used in Casting
 

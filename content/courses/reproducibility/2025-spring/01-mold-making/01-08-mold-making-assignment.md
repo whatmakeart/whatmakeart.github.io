@@ -1,7 +1,7 @@
 ---
 title: 01.08 Mold Making Assignment
 date: 2025-01-15T09:00:00
-lastmod: 2024-12-05T06:19:50
+lastmod: 2024-12-05T16:49:20
 ---
 
 ## Assignment Deliverables
@@ -14,4 +14,4 @@ Imagine that you are an alien visitor arriving on earth long after humans have d
 
 For this assignment you will select a mass produced object, preferably one that used casting or a mold in its production.
 
-- [Plaster Mixing ratio Calculator](../../../../sculpture/plaster-calculator.md)
+- [Plaster Mixing ratio Calculator](../../../../making/plaster-calculator.md)

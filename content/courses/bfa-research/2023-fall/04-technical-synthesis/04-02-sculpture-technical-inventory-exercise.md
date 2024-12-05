@@ -1,7 +1,7 @@
 ---
 title: 04.02 Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2024-10-14T20:32:39
+lastmod: 2024-12-05T16:49:20
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -138,12 +138,12 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | Wood Fabrication                                                                                                |       |             |             |             |             |
 | [Garment Construction](../../../../sewing/garment-construction-basics.md)                                       |       |             |             |             |             |
 | [3D Printing ](../../../../digital-fabrication/3d-printing/3d-printing.md)                                      |       |             |             |             |             |
-| [Paper Maché](../../../../sculpture/paper-maché.md)                                                             |       |             |             |             |             |
+| [Paper Maché](../../../../making/paper-maché.md)                                                                |       |             |             |             |             |
 | [Motion Capture](../../../../3d-modeling/motion-capture-basics.md)                                              |       |             |             |             |             |
 | [Plastic Bending](../../../../making/plastic-bending-basics.md)                                                 |       |             |             |             |             |
 | [Projection Mapping](../../../../video/projection-mapping/projection-mapping-basics.md)                         |       |             |             |             |             |
 | Isometric Sketching                                                                                             |       |             |             |             |             |
-| [Plaster Mixing](../../../../sculpture/plaster.md)                                                              |       |             |             |             |             |
+| [Plaster Mixing](../../../../making/plaster.md)                                                                 |       |             |             |             |             |
 | [Laser Cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md)                                 |       |             |             |             |             |
 | [Mesh 3D Modeling (Blender, Maya, SketchUp, Rhino](../../../../3d-modeling/polygon-mesh-3d-modeling-basics.md)) |       |             |             |             |             |
 | Wet Felting                                                                                                     |       |             |             |             |             |
@@ -172,7 +172,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | 3D Animation                                                                                                    |       |             |             |             |             |
 | Weaving                                                                                                         |       |             |             |             |             |
 | [Sewing](../../../../sewing/sewing.md)                                                                          |       |             |             |             |             |
-| [Casting](../../../../metalworking/casting.md)                                                                  |       |             |             |             |             |
+| [Casting](../../../../making/casting.md)                                                                        |       |             |             |             |             |
 | [Metal Fabrication](../../../../metalworking/metal-fabrication.md)                                              |       |             |             |             |             |
 | Mold Making                                                                                                     |       |             |             |             |             |
 | [Welding](../../../../metalworking/welding.md)                                                                  |       |             |             |             |             |
@@ -191,7 +191,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | Trapunto                                                                                                        |       |             |             |             |             |
 | Gelli Plate Printing                                                                                            |       |             |             |             |             |
 | Wheel Throwing                                                                                                  |       |             |             |             |             |
-| [Plaster Molds](../../../../sculpture/plaster-molds.md)                                                         |       |             |             |             |             |
+| [Plaster Molds](../../../../making/plaster-molds.md)                                                            |       |             |             |             |             |
 | Ceramic Clay Sculpture                                                                                          |       |             |             |             |             |
 | Coil Pots                                                                                                       |       |             |             |             |             |
 | [Dying Wool](../../../../fibers/dying-wool.md)                                                                  |       |             |             |             |             |
@@ -210,7 +210,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 
 ## Sculpture Materials Inventory
 
-Review the list of [sculpture materials](../../../../sculpture/materials-for-making.md) below. Mark a check in the appropriate column for each item.
+Review the list of [sculpture materials](../../../../making/materials-for-making.md) below. Mark a check in the appropriate column for each item.
 
 <div class="responsive-table-markdown">
 

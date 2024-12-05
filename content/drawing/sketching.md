@@ -1,12 +1,12 @@
 ---
 title: Sketching
 date: 2023-05-23T21:59:41
-lastmod: 2024-01-31T20:29:24
+lastmod: 2024-12-05T16:49:20
 ---
 
 Sketching is a great process for visualizing ideas and refining your ideas before committing to making. Pencils and paper are relatively cheap and with practice it only takes a few minutes to sketch out an idea in order to begin to evaluate it.
 
-Once you sketch out multiple ideas, then you can compare and edit them through a constant process of improvement. Detailed sketches can explore different parts of an idea or concept before making three dimensional mockups either in a computer or with analog means such as [Paper-Maché](../sculpture/paper-mach%C3%A9.md) or cardboard.
+Once you sketch out multiple ideas, then you can compare and edit them through a constant process of improvement. Detailed sketches can explore different parts of an idea or concept before making three dimensional mockups either in a computer or with analog means such as [Paper-Maché](../making/paper-maché.md) or cardboard.
 
 ## Ideation Sketching
 

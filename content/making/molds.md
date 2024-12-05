@@ -1,10 +1,10 @@
 ---
 title: Molds
 date: 2023-05-23T21:59:41
-lastmod: 2024-11-27T11:26:56
+lastmod: 2024-12-05T16:47:36
 ---
 
-A mold is a negative space container that is used in [casting](../metalworking/casting.md).
+A mold is a negative space container that is used in [casting](./casting.md).
 
 Material is poured into the mold and then removed after it solidifies.
 
@@ -19,7 +19,7 @@ Molds can either be designed to be reusable or just for a single use. All molds 
 
 ### One Part Mold
 
-A one part mold is the simplest type of mold. It can be easily made with some wet mud and your hand. Simply press your hand into the wet mud and remove it. You can then pour [plaster](../sculpture/plaster.md) or other material into the negative space left by your hand and let it set. This would give you a copy of the positive form of one side of your hand.
+A one part mold is the simplest type of mold. It can be easily made with some wet mud and your hand. Simply press your hand into the wet mud and remove it. You can then pour [plaster](./plaster.md) or other material into the negative space left by your hand and let it set. This would give you a copy of the positive form of one side of your hand.
 
 One part molds are often used in the making of plaques, signs and other flat planer and decorative objects.
 
@@ -45,11 +45,7 @@ Mold making is a technical process that can be improved by considering the mater
 
 ### Undercuts
 
-When making any mold, it is important to pay attention to undercuts. Undercuts are part of that cannot pull out cleanly without breaking the mold. For complex shapes more than two piece molds maybe necessary. Another way to contend with undercuts is to use a flexible mold material for the mold that can bend around the final cast pieces.
-
-Single use molds can be used and broken away from the final casting as is often done in metal casting.
-
-Complex shapes can also be broken up into smaller shapes that do not have undercuts and then joined together after all the cast pieces are made.
+When making any mold, it is important to pay attention to [undercuts](./undercuts.md).
 
 ### Mold Keys
 
@@ -59,12 +55,12 @@ Mold keys have many different designs, but should be made to simply snap togethe
 
 ## Simple Cheap Molds
 
-- [Paper Tape Molds](../sculpture/paper-tape-molds.md) use paper tape wrapped around a form similar to [Paper-Maché](../sculpture/paper-maché.md). After enough layers are added the paper can be cut along desired seams and removed from the form. This is a way to make a custom sized body form for use in designing patterns and garments for [Sewing](../sewing/sewing.md).
+- [Paper Tape Molds](./paper-tape-molds.md) use paper tape wrapped around a form similar to [Paper-Maché](./paper-maché.md). After enough layers are added the paper can be cut along desired seams and removed from the form. This is a way to make a custom sized body form for use in designing patterns and garments for [Sewing](../sewing/sewing.md).
 - [Hot Glue Gun Molds](hot-glue-gun-molds.md) can make quick detailed molds of objects that can withstand the heat of the glue. Hot melt glue may have air pockets if not applied carefully in the first layer.
-- [Silicone Tube Molds](../sculpture/silicone-tube-molds.md) use 100% silicone caulking to make an inexpensive rubber mold. Silicone needs exposure to moisture or a way for evaporation to take place to cure. If it is applied too thick then the out later will cure and not allow the inside to cure. Mix with a bit of acrylic paint to dry thick pieces.
+- [Silicone Tube Molds](./silicone-tube-molds.md) use 100% silicone caulking to make an inexpensive rubber mold. Silicone needs exposure to moisture or a way for evaporation to take place to cure. If it is applied too thick then the out later will cure and not allow the inside to cure. Mix with a bit of acrylic paint to dry thick pieces.
 
 ## Elaborate Expensive Molds
 
 - [Slip Casting Molds]() are made of plaster and suck moisture out of clay slip, leaving behind a hollow shell that can be fired in a kiln.
 - [Ceramic Shell Molds](../metalworking/ceramic-shell-molds.md) are used in metal casting and can make complex shapes molds with high levels of detail.
-- [Multi-part Rubber Molds](../sculpture/multi-part-rubber-molds.md) can help with small undercuts since the rubber is more flexible than the material being cast and can pull out of the undercut without breaking the mold or casting.
+- [Multi-part Rubber Molds](./multi-part-rubber-molds.md) can help with small undercuts since the rubber is more flexible than the material being cast and can pull out of the undercut without breaking the mold or casting.

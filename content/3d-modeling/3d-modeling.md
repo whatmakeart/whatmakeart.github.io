@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2024-08-11T08:03:45
+lastmod: 2024-12-05T16:49:20
 ---
 
 What is a model? What is a 3D model? What is the difference between an analog and a digital 3D model? How does 2D [technical sketching](../drawing/technical-sketching.md) relate to 3D modeling?
@@ -10,7 +10,7 @@ A model is a simplified representation of reality. The standard model in Physics
 
 ## Analog vs Digital
 
-Physical or analog, and virtual or digital, 3D modeling create representations of three dimensional objects. Analog 3D modeling can use a variety of materials including clay, paper, cardboard, paper mache, foam board, metal and any other [making materials](../sculpture/materials-for-making.md). Larger physical 3D models may use an armature or support structure. The goal is to make an accurate representation of the forms and structure of the object and learn how these forms relate to one another. Often, physical 3D models will be prototypes of things that don't exist yet. For example, when designing a new handle for a product, a large number of variations of the handle could be physically made and then held by prospective user's to determine which handel design and shape has the most promise.
+Physical or analog, and virtual or digital, 3D modeling create representations of three dimensional objects. Analog 3D modeling can use a variety of materials including clay, paper, cardboard, paper mache, foam board, metal and any other [making materials](../making/materials-for-making.md). Larger physical 3D models may use an armature or support structure. The goal is to make an accurate representation of the forms and structure of the object and learn how these forms relate to one another. Often, physical 3D models will be prototypes of things that don't exist yet. For example, when designing a new handle for a product, a large number of variations of the handle could be physically made and then held by prospective user's to determine which handel design and shape has the most promise.
 
 Digital 3D modeling uses software tools to create virtual representations of objects. The software describes the location, shape, size, surface, and physical qualities of the objects. 3D modeling software can create models in many different ways. Software can mimic the manipulating of physical materials like clay to create a model through a digital sculpting process. It can use parameters and variables to create models through a generative, parametric process. Software can use exact dimensions and specifications from technical drawings to create precise machinable surfaces. [Photogrammetry software](./photogrammetry-software.md) can stitch photos of an object taken from multiple angles together into a 3D model with applied visual textures. 3D scanners with built in gyroscopes and calibration tools can capture accurate information to create detailed 3D models from objects. Neural Radiance Fields (NeRFs) use deep learning to create 3d models from just a few 2D images or sometimes even a single 2D image. Generative AI can synthesize 3D models from text prompts and 2d images by estimating a depth map from the image.
 

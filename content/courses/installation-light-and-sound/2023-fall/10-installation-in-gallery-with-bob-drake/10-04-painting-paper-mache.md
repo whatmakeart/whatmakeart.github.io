@@ -1,10 +1,10 @@
 ---
 title: 10.04 Painting Paper Maché
 date: 2023-10-27T09:30:00
-lastmod: 2023-10-21T06:31:52
+lastmod: 2024-12-05T16:49:20
 ---
 
-To paint [paper maché](../../../../sculpture/paper-maché.md), follow these steps:
+To paint [paper maché](../../../../making/paper-maché.md), follow these steps:
 
 1. **Prepare your workspace.** Cover your work area with a drop cloth or old newspapers to protect it from paint.
 2. **Make sure your paper mache is completely dry.** If it is still wet, the paint will not adhere properly.

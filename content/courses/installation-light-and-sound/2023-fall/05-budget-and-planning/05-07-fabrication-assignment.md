@@ -1,7 +1,7 @@
 ---
 title: 05.07 Installation Fabrication Assignment
 date: 2023-09-22T09:30:00
-lastmod: 2023-10-04T05:10:45
+lastmod: 2024-12-05T16:49:20
 ---
 
 ## Assignment Deliverables
@@ -25,7 +25,7 @@ Post updates and photos to the [class group fabrication discussion thread](https
 
 - Bushes with seat?
 - Benches?
-- Roots - can start adding [paper-maché](../../../../sculpture/paper-maché.md)but leave hole for steel
+- Roots - can start adding [paper-maché](../../../../making/paper-maché.md)but leave hole for steel
 - Human Elements
   - Benches
   - Wall facade

@@ -6,7 +6,7 @@ tags:
 
 # Metal Fabrication
 
-There are multiple ways to [Fabrication](../making/fabrication.md) metal including [Cutting](../making/cutting.md),[bending](bending.md), [Welding](welding.md), [Bolting](../making/bolting.md), [forging](forging.md), [Casting](casting.md) and more. Working with mental can be hazardous so it it essential to follow basic [Safety](../making/safety.md) best practices as well as additional safety precautions depending on the equipment, materials, or techniques being used to fabricate metal.
+There are multiple ways to [Fabrication](../making/fabrication.md) metal including [Cutting](../making/cutting.md),[bending](bending.md), [Welding](welding.md), [Bolting](../making/bolting.md), [forging](forging.md), [Casting](../making/casting.md) and more. Working with mental can be hazardous so it it essential to follow basic [Safety](../making/safety.md) best practices as well as additional safety precautions depending on the equipment, materials, or techniques being used to fabricate metal.
 
 ## Bending and Cutting Metal
 

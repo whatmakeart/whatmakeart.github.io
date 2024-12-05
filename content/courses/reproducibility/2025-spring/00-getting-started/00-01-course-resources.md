@@ -1,12 +1,12 @@
 ---
 title: 00.01 Course Resources
 date: 2025-01-15T09:00:00
-lastmod: 2024-12-03T06:17:55
+lastmod: 2024-12-05T16:49:20
 ---
 
 ## Mold Making and Slip Casting
 
-- [Plaster Mixing ratio Calculator](../../../../sculpture/plaster-calculator.md)
+- [Plaster Mixing ratio Calculator](../../../../making/plaster-calculator.md)
 - [Molds](../../../../making/molds.md)
 
 ## Copyright and Fair Use
