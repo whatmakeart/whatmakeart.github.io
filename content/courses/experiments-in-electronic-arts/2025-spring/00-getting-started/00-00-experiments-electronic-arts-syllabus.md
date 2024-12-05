@@ -45,7 +45,15 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 ## Documentation
 
-Students should maintain regular, on-going and timely documentation of work in progress. Required Supplies Loose Paper to Draw on (Can use printer paper or other loose paper, not paper in a sketchbook) Pencil Eraser Safety Goggles (not needed on first day) Hearing Protection (not needed on first day) Laptop
+Students should maintain regular, on-going and timely documentation of work in progress. 
+
+Required Supplies 
+- Loose Paper to Draw on (Can use printer paper or other loose paper, not paper in a sketchbook) 
+- Pencil 
+- Eraser 
+- Safety Goggles (not needed on first day) 
+- Hearing Protection (not needed on first day) 
+- Laptop
 
 ## Required Textbooks and Readings
 
