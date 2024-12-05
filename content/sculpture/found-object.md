@@ -1,8 +1,12 @@
 ---
 title: Found Object
 date: 2024-12-02T17:56:33
-lastmod: 2024-12-05T13:12:34
+lastmod: 2024-12-05T13:41:22
 ---
+
+In art found objects are materials used mostly as is or as they were found. This is in contrast to using raw materials manipulated into a new form such. If one "find" a coffee cup in the trash or at a store and then uses it as is as an art making material then it is a found object. If one uses ceramic clay to make a coffee cup, then it would not be considered a found object since it was make from raw materials.
+
+## Found Object Origins and the "Readymade"
 
 Marcel Duchamp brought focus to using found objects in art with the concept of the "Readymade" as demonstrated with his sculpture, _Fountain_, a standard ceramic urinal modified by the addition of the artist's signature and presented as art. Duchamp wrote the word "Readymade" in English in a letter written in French he sent to his sister Suzanne Duchamp.[^duchamp-letter] Art historians credit this letter as the first use of the word in the context of found objects as art but also point out that the term has existed in various spellings since 1440 and often referred to ready made clothing.[^readymade-history]
 
