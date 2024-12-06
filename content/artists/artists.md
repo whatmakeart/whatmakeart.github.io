@@ -1,11 +1,11 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-12-02T06:07:57
+lastmod: 2024-12-06T12:00:21
 ---
 
 - [Inflatable Artists](./inflatable-artists.md)
-- [Electronic Arts Artists and Projects](../electronics/electronics-arts-artists-and-projects.md)
+- [Electronic Arts Artists and Projects](./electronics-arts-artists-and-projects.md)
 - [Fabric Artists](./fabric-artists.md)
 - [Video Art](../video/video-art.md)
 

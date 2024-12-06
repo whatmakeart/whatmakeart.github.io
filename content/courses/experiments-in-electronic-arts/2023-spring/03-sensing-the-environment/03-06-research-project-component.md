@@ -1,7 +1,7 @@
 ---
 title: 03.06 Research Project Component
 date: 2023-02-03T09:30:00Z
-lastmod: 2024-12-04T06:11:27
+lastmod: 2024-12-06T12:00:30
 ---
 
 ## Assignment Deliverables
@@ -39,4 +39,4 @@ Keep taking little bites out of the unknowns and before you realize it you will 
 ## Resources
 
 - [Electronics Research Resources](../../../../electronics/electronics-research-sources.md)
-- [Electronic Arts Reference Artists and Projects](../../../../electronics/electronics-arts-artists-and-projects.md)
+- [Electronic Arts Reference Artists and Projects](../../../../artists/electronics-arts-artists-and-projects.md)
