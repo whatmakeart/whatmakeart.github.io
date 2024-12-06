@@ -1,5 +1,6 @@
 ---
 date: 2023-03-13T8:30:00-04:00
+lastmod: 2024-12-05T20:09:06
 description: In this video, I will show you how to load a solder spool with new solder. This is a quick and easy process that can be done in just a few minutes
 featured_image: /posts/images/how-to-load-a-solder-spool.jpg
 tags:

@@ -1,5 +1,6 @@
 ---
 date: 2023-03-17T8:30:00-04:00
+lastmod: 2024-12-05T20:09:06
 description:
 featured_image: /posts/images/what-is-a-slip-ring.jpg
 tags:

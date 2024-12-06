@@ -1,5 +1,7 @@
 ---
 title: High Power LEDs
+lastmod: 2024-12-05T20:09:06
+date: 2024-11-10T16:01:02
 ---
 
 LEDs need constant current or they wil be damaged or destroyed. FOr low power single LEDs, a simple resistor can be used to limit current. As power increases for high power LEDs a more reliable current limiting circuit is required. The LM317-N voltage regulator can be repurposed as a constant current device. This [Texas Instruments Article](https://e2e.ti.com/blogs_/b/powerhouse/posts/flashback-design-create-a-simple-led-driver) describes how to use a LM317-N as a constant current LED driver. This type of current limiting circuit is also detailed in the [LM317-N datasheet](https://www.ti.com/lit/ds/symlink/lm317.pdf).

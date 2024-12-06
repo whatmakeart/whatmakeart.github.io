@@ -1,5 +1,7 @@
 ---
 title: Sewing
+date: 2024-11-10T16:01:02
+lastmod: 2024-12-05T20:09:06
 ---
 
 Sewing is the process to use thread to mechanically attach to print planer pieces of [Fabric](fabric.md) together. Generally, the pieces are cut in specific shapes that after so together will create a three-dimensional form. Often these forms are to fit around the shape of the human body or a piece of architecture.
@@ -9,7 +11,7 @@ To get started sewing you only need a few basic supplies. The following supplies
 ### Minimum Sewing Supplies
 
 - [Hand-Needles](hand-needles.md)
-- thread
+- [thread](./sewing-thread.md)
 - scissors
 - pins
 

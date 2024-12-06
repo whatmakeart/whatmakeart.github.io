@@ -1,5 +1,7 @@
 ---
 title: Welding
+date: 2024-11-10T16:01:02
+lastmod: 2024-12-05T19:52:24
 ---
 
 Welding is the process of fusing metal together at high temperatures so that individual pieces of metal become a simgle piece of metal. Thermoplastics that can also be fused together with welding processes.

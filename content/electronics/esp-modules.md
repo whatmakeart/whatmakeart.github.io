@@ -1,5 +1,7 @@
 ---
 title: ESP Modules
+lastmod: 2024-12-05T20:09:06
+date: 2024-11-10T16:01:02
 ---
 
 Espressif created a series of Wi-Fi and Bluetooth enabled boards. These are often used in "Internet of Things" devices. The modules are compatible with the Arduino IDE and many pre assembled development boards are available for custom projects. This allow for quick integration of Wi-Fi into an Arduino Project. The boards also have much more memory and processing power than a standard Arduino Uno at the cost of less GPIO pins.

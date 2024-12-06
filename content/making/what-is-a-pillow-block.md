@@ -1,5 +1,6 @@
 ---
 date: 2023-03-18T8:30:00-04:00
+lastmod: 2024-12-05T20:09:06
 description: A pillow block bearing is a type of bearing that is used to support a rotating shaft.
 featured_image: /posts/images/what-is-a-pillow-block.jpg
 tags:

@@ -1,5 +1,7 @@
 ---
 title: How to Use a Multimeter
+lastmod: 2024-12-05T20:09:06
+date: 2024-11-10T16:01:02
 ---
 
 A multimeter can be used to measure voltage, resistance, current, and continuity. It is helpful in in electronics for diagnosing problems in projects as well as the specific attributes of an electronic component. Multimeters range from the very cheap to the very expensive but for the basic functions, any inexpensive multimeter will work fine.

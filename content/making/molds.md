@@ -1,7 +1,7 @@
 ---
 title: Molds
 date: 2023-05-23T21:59:41
-lastmod: 2024-12-05T16:47:36
+lastmod: 2024-12-05T19:50:20
 ---
 
 A mold is a negative space container that is used in [casting](./casting.md).
@@ -15,15 +15,13 @@ Material is poured into the mold and then removed after it solidifies.
 - Multi part mold
 - Mother mold
 
-Molds can either be designed to be reusable or just for a single use. All molds have a finite lifespan but with care can be made to make numerous castings.
+Molds can either be designed to be reusable or just for a single use. All molds have a finite lifespan but with care can be used to make numerous castings.
 
 ### One Part Mold
 
 A one part mold is the simplest type of mold. It can be easily made with some wet mud and your hand. Simply press your hand into the wet mud and remove it. You can then pour [plaster](./plaster.md) or other material into the negative space left by your hand and let it set. This would give you a copy of the positive form of one side of your hand.
 
-One part molds are often used in the making of plaques, signs and other flat planer and decorative objects.
-
-The downside of one part mold is that the back side of the casting will be dictated by how the material settles into the mold rather than buy a defined shape as in a two-part mold.
+One part molds are often used in the making of plaques, signs and other flat planer and decorative objects. The downside of one part mold is that the back side of the casting will be dictated by how the material settles into the mold rather than buy a defined shape as in a two-part mold.
 
 ### Two Part Mold
 
@@ -61,6 +59,6 @@ Mold keys have many different designs, but should be made to simply snap togethe
 
 ## Elaborate Expensive Molds
 
-- [Slip Casting Molds]() are made of plaster and suck moisture out of clay slip, leaving behind a hollow shell that can be fired in a kiln.
+- [Slip Casting Molds](./two-part-slip-cast-mold.md) are made of plaster and suck moisture out of clay slip, leaving behind a hollow shell that can be fired in a kiln.
 - [Ceramic Shell Molds](../metalworking/ceramic-shell-molds.md) are used in metal casting and can make complex shapes molds with high levels of detail.
 - [Multi-part Rubber Molds](./multi-part-rubber-molds.md) can help with small undercuts since the rubber is more flexible than the material being cast and can pull out of the undercut without breaking the mold or casting.

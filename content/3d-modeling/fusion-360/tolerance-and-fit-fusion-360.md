@@ -1,5 +1,6 @@
 ---
 date: 2023-03-27T8:30:00-04:00
+lastmod: 2024-12-05T20:09:06
 description: In this Autodesk Fusion 360 tutorial, I will show you how to add tolerance to models for CNC Machining.
 featured_image: /3d-modeling/fusion-360/attachments/tolerance-and-fit-fusion-360-intro.jpg
 tags:

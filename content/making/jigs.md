@@ -1,9 +1,7 @@
 ---
 title: Jigs
 date: 2023-05-26T03:10:09
-lastmod: 2023-10-02T05:16:45
-tags:
-  - stub
+lastmod: 2024-12-05T20:09:06
 ---
 
 Jigs allow for consistent and repeatable fabrication processes.

@@ -1,5 +1,6 @@
 ---
 date: 2023-01-23T8:30:00-04:00
+lastmod: 2024-12-05T20:09:06
 description: "Fusion 360 Rectangular Pattern Tutorial for 3D modeling beginners"
 featured_image: /3d-modeling/fusion-360/attachments/fusion-360-rectangular-pattern-title.jpg
 tags:

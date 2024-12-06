@@ -1,5 +1,7 @@
 ---
 title: Sewing Machine Needles
+date: 2024-11-10T16:01:02
+lastmod: 2024-12-05T20:09:06
 ---
 
 Successful [Sewing](Sewing.md) with a sewing machine requires matching up materials, equipment, and intended task. important to have the correct needle for your sewing machine. Sewing machine needles differ in materials, size, and intended purpose.

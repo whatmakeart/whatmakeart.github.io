@@ -1,5 +1,7 @@
 ---
 title: Electrical Wire Basics
+lastmod: 2024-12-05T20:09:06
+date: 2024-11-10T16:01:02
 ---
 
 Wires come in different sizes. They can be thick or thin, stranded or solid, copper or aluminum, the insulation can be PVC or silicone or other material. Depending on application. It is important to to choose the proper wire for your application. As a general rule of thumb, thicker wire will have a lower resistance and be able to carry more current or longer distance without voltage drop, while a thinner wire will have more resistance, heat up faster, and have more voltage drop when it is used over distances.

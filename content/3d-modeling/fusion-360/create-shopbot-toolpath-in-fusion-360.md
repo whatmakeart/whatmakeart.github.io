@@ -1,5 +1,6 @@
 ---
 date: 2021-03-11T8:30:00-04:00
+lastmod: 2024-12-05T20:09:06
 description: "Use Fusion 360 Manufacture Workspace to Make a Toolpath for ShopBot"
 featured_image: "/3d-modeling/fusion-360/attachments//create-shopbot-tool-path-in-fusion-360.jpg"
 tags: ["Fusion 360", "Shopbot"]
