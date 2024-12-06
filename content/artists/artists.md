@@ -1,7 +1,7 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-12-06T12:01:38
+lastmod: 2024-12-06T12:03:26
 ---
 
 - [Creative Coding Artists](../courses/programming-for-artists/2024-spring/00-getting-started/00-03-artist-references.md)
@@ -11,8 +11,6 @@ lastmod: 2024-12-06T12:01:38
 - [Video Art](../video/video-art.md)
 
 It is important to look at the work of other artists to learn and be inspired.
-
-<div class="auto-grid-wrapper">
 
 - [Naomi Schipher](https://noemischipfer.me/)
 - [Susan Philipz](https://en.wikipedia.org/wiki/Susan_Philipsz)
@@ -59,7 +57,5 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Anish Kappoor](https://anishkapoor.com/)
 - [Chad Person](https://chadperson.com/index.html)
 - [Moon Papas Art](https://www.moonpapasart.com/)
-
-</div>
 
 [Hans Noë, Architect, Restaurateur and Maker of Intriguing Sculptures - The New York Times](https://www.nytimes.com/2023/10/03/arts/design/hans-noe-sculptures-mathematics-museum.html)
