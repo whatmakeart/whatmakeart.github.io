@@ -1,10 +1,10 @@
 ---
 title: Charette
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:35:35
+lastmod: 2024-12-06T13:15:55
 ---
 
-A charrette is an temporary but intensive design collaboration session.
+A charette is an temporary but intensive design collaboration session.
 
 ## Charette Links
 

@@ -1,10 +1,8 @@
 ---
 title: Art School Critique No Nos
 date: 2021-04-05T08:35:50
-lastmod: 2023-09-07T20:35:06
+lastmod: 2024-12-06T12:24:56
 ---
-
-# Critique No, No’s
 
 (Not allowed without an explanation, give a reason why you think what you do)
 
@@ -32,13 +30,13 @@ Analyze the good and the bad. Keep personal feelings out of the way. Look at the
 - It reminds me of …
 - It is missing something …
 
-## Overused Terms
+## Overused Critique Terms
 
 - Campy
 - Kitsch
 - Index
 
-## Etiquette
+## Critique Etiquette
 
 - Give all a chance to talk. No stage hogging.
 - Break the silence but once broken raise your hand.

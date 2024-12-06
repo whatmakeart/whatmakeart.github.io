@@ -1,7 +1,7 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-12-06T12:03:26
+lastmod: 2024-12-06T12:20:50
 ---
 
 - [Creative Coding Artists](../courses/programming-for-artists/2024-spring/00-getting-started/00-03-artist-references.md)
@@ -9,16 +9,16 @@ lastmod: 2024-12-06T12:03:26
 - [Electronic Arts Artists and Projects](./electronics-arts-artists-and-projects.md)
 - [Fabric Artists](./fabric-artists.md)
 - [Video Art](../video/video-art.md)
+- [Animation Artists](./animation-artists.md)
 
 It is important to look at the work of other artists to learn and be inspired.
 
 - [Naomi Schipher](https://noemischipfer.me/)
 - [Susan Philipz](https://en.wikipedia.org/wiki/Susan_Philipsz)
-- Sarah Zapata - textile Artist
 - Abigail DeVille
 - [Julie Schenkelberg](http://www.julieschenkelberg.com/)
 - [Kate Gilmore](http://www.kategilmore.com/projects)
-- https://sunnyasmith.com/
+- [Sunny Smith](https://sunnyasmith.com/)
 - [Violet Maimbourg](http://www.violetmaimbourg.com/) - Violet graduated from CIA’s Sculpture + Expanded Media program in 2021. Violet's interdisciplinary practice includes installation, video, and object-based work, which has been exhibited nationally and internationally.
 - [Zeera Kahmed](https://zeerakahmed.squarespace.com/)
 - [Valeria Tizol Vivas](https://www.valeriatizolvivas.com/)
@@ -45,11 +45,9 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Lee Tusman](https://leetusman.com/)
 - [Langdon Graves](https://news.artnet.com/art-world/brooklyn-artist-langdon-graves-up-next-2429936)
 - [Benediktas Gylys](https://benediktas.com/)
-- [Ben Fry](https://x.com/benfryc/status/1821569186398720324) - slick 3D animations
 - [Nancy Holt](https://holtsmithsonfoundation.org/biography-nancy-holt)
 - [Christopher Bauder](https://www.christopherbauder.com/)
 - [Lucas Zanotto](https://www.lucaszanotto.com/)
-- [Ed Ruscha’s ‘Chocolate Room’ Still Tantalizes - The New York Times](https://www.nytimes.com/2023/09/01/arts/design/ed-ruscha-chocolate-room-moma.html)
 - [MyeongBeom Kim](https://www.myeongbeomkim.com/en/)
 - [Quiet Ensemble](https://www.quietensemble.com/)
 - [Sila Sveta](https://www.silasveta.com/)
@@ -58,4 +56,7 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Chad Person](https://chadperson.com/index.html)
 - [Moon Papas Art](https://www.moonpapasart.com/)
 
-[Hans Noë, Architect, Restaurateur and Maker of Intriguing Sculptures - The New York Times](https://www.nytimes.com/2023/10/03/arts/design/hans-noe-sculptures-mathematics-museum.html)
+## Articles
+
+- [Hans Noë, Architect, Restaurateur and Maker of Intriguing Sculptures - The New York Times](https://www.nytimes.com/2023/10/03/arts/design/hans-noe-sculptures-mathematics-museum.html)
+- [Ed Ruscha’s ‘Chocolate Room’ Still Tantalizes - The New York Times](https://www.nytimes.com/2023/09/01/arts/design/ed-ruscha-chocolate-room-moma.html)

@@ -1,10 +1,8 @@
 ---
 title: How to Make Inflatables
 date: 2021-04-05T13:10:48
-lastmod: 2024-10-28T06:08:22
+lastmod: 2024-12-06T12:25:52
 ---
-
-# How to Make Inflatables
 
 There are a number of techniques and materials that you can use to make inflatables ranging from the relatively inexpensive to quite costly.
 

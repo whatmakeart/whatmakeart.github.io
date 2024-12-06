@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2025-01-15T09:00:00
-lastmod: 2024-12-06T08:29:09
+lastmod: 2024-12-06T12:31:39
 ---
 
 ## Mold Making and Slip Casting
@@ -14,6 +14,16 @@ lastmod: 2024-12-06T08:29:09
 - [Copyright for Artists](../../../../copyright/copyright-for-artists.md)
 - [Fair Use](../../../../copyright/fair-use.md)
 - [Public Domain](../../../../copyright/public-domain.md)
+
+## Artist Practices
+
+- [How to Critique Art](../../../../art-faq/how-to-critique-art.md)
+- [Art School Critique No, No's](../../../../art-faq/art-school-critique-no-nos.md)
+- [How to Write an Artist Statement](../../../../art-faq/how-to-write-an-artist-statement.md)
+
+## Laser Cutting
+
+- [Laser Cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md)
 
 ## Readings
 
