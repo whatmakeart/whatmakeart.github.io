@@ -1,7 +1,7 @@
 ---
-title: Reproducibility Syllabus
+title: 00.00 Reproducibility Syllabus
 date: 2025-01-15T09:00:00
-lastmod: 2024-12-05T12:05:55
+lastmod: 2024-12-06T06:25:52
 ---
 
 ## Reproducibility Syllabus
@@ -66,17 +66,17 @@ Through demonstrations of technical processes, lectures supplemented by works fr
 | 2        | January 22  | [02 Project 1](../02-slip-casting/02-00-introduction.md)                  |
 | 3        | January 29  | [03 Project 1](../03-slip-casting-production/03-00-introduction.md)       |
 | 4        | February 5  | [04 Project 1](../04-alternative-casting-materials/04-00-introduction.md) |
-| 5        | February 12 | [05 Project 1](../05-moldmaking/05-00-introduction.md)                    |
-| 6        | February 19 | [06 Project 2](../06-printmaking/06-00-introduction.md)                   |
-| 7        | February 26 | [07 Project 2](../07-printmaking/07-00-introduction.md)                   |
+| 5        | February 12 | [05 Project 1](../05-studio-work/05-00-introduction.md)                   |
+| 6        | February 19 | [06 Project 2](../06-zines/06-00-introduction.md)                         |
+| 7        | February 26 | [07 Project 2](../07-screenprint-screen-coating/07-00-introduction.md)    |
 | 8        | March 5     | [08 Project 2](../08-printmaking/08-00-introduction.md)                   |
 |          | March 12    | Spring Break                                                              |
 | 9        | March 19    | [09 Project 2](../09-printmaking/09-00-introduction.md)                   |
 | 10       | March 26    | [10 Project 2](../10-printmaking/10-00-introduction.md)                   |
 | 11       | April 2     | [11 Project 3](../11-rephotography/11-00-introduction.md)                 |
-| 12       | April 9     | [12 Project 3](../12-rephotography/12-00-introduction.md)                 |
-| 13       | April 16    | [13 Project 3](../13-rephotography/13-00-introduction.md)                 |
-| 14       | April 23    | [14 Project 3](../14-rephotography/14-00-introduction.md)                 |
+| 12       | April 9     | [12 Project 3](../12-laser-etching-and-cutting/12-00-introduction.md)     |
+| 13       | April 16    | [13 Project 3](../13-transfer-processes/13-00-introduction.md)            |
+| 14       | April 23    | [14 Project 3](../14-studio-work/14-00-introduction.md)                   |
 | 16       | April 30    | [15 Final Critique](../15-final-critique/15-00-introduction.md)           |
 |          | May 6 - 9   | BFA Week                                                                  |
 

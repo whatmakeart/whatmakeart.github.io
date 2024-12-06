@@ -1,8 +1,7 @@
 ---
-title: Appropriation
-date: 2025-01-15T09:00:00
-lastmod: 2024-12-02T06:07:32
-draft: true
+title: 11.02 Appropriation
+date: 2025-04-02T09:00:00
+lastmod: 2024-12-06T05:57:38
 ---
 
 To appropriate means to take something for your own and as often synonymous with theft, stealing, taking, or poaching.[^cambridge-appropriation] It can also mean a specific amount of money set aside for a specific use such as Appropriations or Budget Bills in Congress.[^cbo] In both cases appropriation has connotations of acquiring and or use of a thing, sometimes with permission and sometimes without.

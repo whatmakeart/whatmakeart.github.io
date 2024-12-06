@@ -1,7 +1,7 @@
 ---
 title: 01.00 Introduction
 date: 2025-01-15T09:00:00
-lastmod: 2024-12-05T16:49:20
+lastmod: 2024-12-06T05:48:04
 ---
 
 ## Overview
@@ -18,7 +18,6 @@ lastmod: 2024-12-05T16:49:20
 ## Keywords
 
 - undercuts
--
 - slip
 - parting line
 - mold key
