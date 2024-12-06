@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2025-01-15T09:00:00
-lastmod: 2024-12-06T05:48:04
+lastmod: 2024-12-06T08:29:09
 ---
 
 ## Mold Making and Slip Casting
@@ -19,3 +19,13 @@ lastmod: 2024-12-06T05:48:04
 
 - Benjamin, Walter. [The Work of Art in the Age of Mechanical Reproduction](https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm) 1936. Translated by Harry Zohn. [maxists.org](https://www.marxists.org/) [(Archive Link)](https://web.archive.org/web/20240418175200/https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm)
 - Benjamin, Walter. [The Work of Art in the Age of Mechanical Reproduction](https://web.mit.edu/allanmc/www/benjamin.pdf) 1936. Translated by Harry Zohn. [web.mit.edu](https://web.mit.edu/) [(Archive Link)](https://web.archive.org/web/20240622141032/https://web.mit.edu/allanmc/www/benjamin.pdf)
+
+## Media
+
+<div class="video-grid">
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/t1axnba_Ueg?si=adjl9cxo1CEHvsaZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+</div>
