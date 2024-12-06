@@ -1,5 +1,6 @@
 ---
 date: 2022-10-19T8:30:00-04:00
+lastmod: 2024-12-06T05:35:12
 description: Fast strobe light video for turning a screen into a strobe light.
 featured_image: /posts/images/strobe-light-fast.jpg
 tags:

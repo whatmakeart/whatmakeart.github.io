@@ -1,5 +1,7 @@
 ---
 title: Casting
+date: 2024-11-10T16:01:02
+lastmod: 2024-12-06T05:35:12
 ---
 
 Casting takes a material that is in a flowing or liquid state and puts that material into a container or [Mold](./molds.md) that restricts its flow until it stops flowing. The method for stopping the flow can be either temperature or chemical based.

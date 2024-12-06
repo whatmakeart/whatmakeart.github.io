@@ -1,5 +1,6 @@
 ---
 date: 2023-04-26T8:30:00-04:00
+lastmod: 2024-12-06T05:31:11
 description: In this Blender tutorial, I will show you how to make a simple ball rig that you can use to animate squash and stretch. This can help you make your balls that you animate look more realistic by having them react to the environment.
 featured_image: /posts/images/blender-ball-rigging.jpg
 tags:

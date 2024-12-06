@@ -1,5 +1,6 @@
 ---
 date: 2023-02-05T8:30:00-04:00
+lastmod: 2024-12-06T05:36:42
 description: Simplify your Arduino program by putting blocks of code into functions that are called in the loop. This way your Arduino sketch stays more organized and is easier to use.
 featured_image: /posts/images/make arduino functions.jpg
 tags:

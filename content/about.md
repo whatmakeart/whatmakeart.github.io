@@ -1,17 +1,16 @@
 ---
 title: About
+date: 2024-11-10T16:01:01
+lastmod: 2024-12-06T05:43:41
 ---
 
-<div>
+What? Make Art is a repository of open access college art [course materials](./courses/_index.md), art making videos, tutorials and [art making faq's](./art-faq/_index.md). Tutorials cover a wide range of topics including making, electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
 
-<p>What? Make Art is a repository of open access college art course materials, art making videos, tutorials and art making faq's. Tutorials cover a wide range of topics including making, electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.</p>
+Art making tutorial videos start from a beginner level an progress to more advanced topics.
 
-<p>Art making tutorial videos start from a beginner level an progress to more advanced topics.</p>
+What? Make Art aims to share knowledge about the creative process and how to go about making art to the world. The project was created by <[Jimmy Kuehnle](https://www.jimmykuehnle.com), an artist and educator.
 
-<p>What? Make Art aims to share knowledge about the creative process and how to go about making art to the world. The project was created by <a href="https://www.jimmykuehnle.com">Jimmy Kuehnle</a>, an artist and educator.</p>
-
-<p>Just the tutorials about making art. Visit on <a href="https://www.youtube.com/channel/UCmGXH-jy0o2CuhqtpxbaQgA">YouTube</a>.</p>
-</div>
+Just the tutorials about making art. Visit on [YouTube](https://www.youtube.com/channel/UCmGXH-jy0o2CuhqtpxbaQgA).
 
 ## Whatmakeart Open Making Wiki Project Introduction
 
@@ -90,9 +89,9 @@ A private wiki will likely atrophy and die. This is the least ideal option and i
 
 ### Hybrid?
 
-A hybrid approch to public and private information would make just about everything on the wiki publicly accessible but some links may go to private school resources. This isn't much different that what would happen with the public model.
+A hybrid approach to public and private information would make just about everything on the wiki publicly accessible but some links may go to private school resources. This isn't much different that what would happen with the public model.
 
-A true hybrid approach would have an authentication system so some information was only viewable to certain users. This will add uneeded friction and complexity
+A true hybrid approach would have an authentication system so some information was only viewable to certain users. This will add unneeded friction and complexity
 
 ## Single Editor or multiple
 
@@ -102,9 +101,9 @@ If only a single editor has control then it is more of a public digital garden. 
 
 ### Multiple Editors
 
-If there are multiple editors there likely needs to be an approval process of edits, although this could be combersome. Ideally if the wiki grows to have enough valuable resources then the more people that contribute the better. This is a long term goal of the project.
+If there are multiple editors there likely needs to be an approval process of edits, although this could be cumbersome. Ideally if the wiki grows to have enough valuable resources then the more people that contribute the better. This is a long term goal of the project.
 
-There could be a handful of approved editors that are able to make changes. Ifthere are mulitple editors, it limits the backend software to those that can verify credentials and have user accounts.
+There could be a handful of approved editors that are able to make changes. If there are multiple editors, it limits the backend software to those that can verify credentials and have user accounts.
 
 [Markdown Editors](https://www.oberlo.com/blog/markdown-editors)
 
@@ -114,7 +113,7 @@ There could be a handful of approved editors that are able to make changes. Ifth
 
 ### Flat Files vs Database
 
-So far everything in this project is written in simple markdown files. These are relatively human deciferable text files that can easily be converted into static HTML documents and viewed on the web.
+So far everything in this project is written in simple markdown files. These are relatively human decipherable text files that can easily be converted into static HTML documents and viewed on the web.
 
 The benefit of using multiple markdown files is that computers should be able to read them forever and it is possible to switch to other platforms. The downside of using markdown is it is not WYSIWYG so if there are multiple editors then the editors must learn markdown. [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)and [Wiki.js](https://js.wiki/) solve this problem by having visual editors for users that do not know markdown.
 
@@ -124,9 +123,9 @@ Both of these use a database to keep track of the content and the media. That is
 
 The main choice is between a Static Site Generator like [Jekyll](https://jekyllrb.com/) or [Hugo](https://gohugo.io/) and an actual [wiki software](https://www.wikimatrix.org/).
 
-The platform should be easy to edit on mobile and desktop. It should be designed mobile first and accessible. Needs to be able to support lots of embeded images, videos and sounds. Needs wikilinks and backlinks. Needs to be easily skinnable and customizalbe. It must use open formats for all data storage so migration to different hosting and or platforms in the future is possible.
+The platform should be easy to edit on mobile and desktop. It should be designed mobile first and accessible. Needs to be able to support lots of embedded images, videos and sounds. Needs wikilinks and backlinks. Needs to be easily skinnable and customizable. It must use open formats for all data storage so migration to different hosting and or platforms in the future is possible.
 
-### Potential Platforms
+### Wiki Software
 
 - [Wiki.js](https://js.wiki/)
 - [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)

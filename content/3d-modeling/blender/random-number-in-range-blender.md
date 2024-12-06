@@ -1,5 +1,6 @@
 ---
 date: 2022-11-12T8:30:00-04:00
+lastmod: 2024-12-06T05:31:11
 description: In this Blender tutorial, I will show you how to get random numbers that exist within a specific range rather than just the default zero to one range.
 featured_image: /posts/images/random-number-in-range-blender.jpg
 tags:

@@ -1,5 +1,7 @@
 ---
 title: Tig Welding
+date: 2024-11-10T16:01:02
+lastmod: 2024-12-06T05:35:12
 ---
 
 Unlike Mig or Stick welding, Tig welding always moves in the forward or push direction, not in a reverse or pull direction. It also uses a torch as a heat source and a separate filler rod to complete the weld.
