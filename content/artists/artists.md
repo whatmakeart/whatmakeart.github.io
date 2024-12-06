@@ -1,9 +1,10 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-12-06T12:00:21
+lastmod: 2024-12-06T12:01:38
 ---
 
+- [Creative Coding Artists](../courses/programming-for-artists/2024-spring/00-getting-started/00-03-artist-references.md)
 - [Inflatable Artists](./inflatable-artists.md)
 - [Electronic Arts Artists and Projects](./electronics-arts-artists-and-projects.md)
 - [Fabric Artists](./fabric-artists.md)
