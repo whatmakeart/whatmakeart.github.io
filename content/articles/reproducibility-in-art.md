@@ -1,10 +1,10 @@
 ---
 title: Reproducibility in Art
 date: 2024-12-07T07:12:43
-lastmod: 2024-12-07T08:05:16
+lastmod: 2024-12-07T08:11:39
 ---
 
-What is reproducibility? Does the original matter? Is a "reproduced" reproduction just as valuable? Why do museums care if their art objects were really made by famous artists or are copies? The Cleveland Museum of Art spent time and resources restoring a painting that they claim was painted by Caravaggio. The museum even displayed their "real" painting next to a "fake" painting of the same composition to show how real their was. [^caravaggio-cma]
+What is reproducibility? Does the original matter? Is a "reproduced" reproduction just as valuable? Why do museums care if their art objects were really made by famous artists or are copies? The Cleveland Museum of Art spent time and resources restoring a painting that they claim was painted by Caravaggio. The museum even displayed their "real" painting next to a "fake" painting of the same composition to show how real their painting was. [^caravaggio-cma]
 
 <div class="gallery-grid">
 <figure>
@@ -33,6 +33,8 @@ Black-Vega _Crucifixion of St Andrew_, identified as a copy after Caravaggio. Ca
 
 [![Seeing Double Caravaggio at the Cleveland Museum of Art](./attachments/20171202-Seeing-Double-Cleveland-Museum-of-Art.jpg)](./attachments/20171202-Seeing-Double-Cleveland-Museum-of-Art.jpg)
 
-## Reference
+## References
 
 [^caravaggio-cma]: [Seeing Double at the CMA: Caravaggio’s Crucifixion of Saint Andrew and the “Back-Vega” Copy](https://www.clevelandart.org/events/seeing-double-cma-caravaggios-crucifixion-saint-andrew-and-back-vega-copy) [(Web Archive)](https://web.archive.org/web/20240622233249/https://www.clevelandart.org/events/seeing-double-cma-caravaggios-crucifixion-saint-andrew-and-back-vega-copy)
+
+Osorio, Luiz Camillo. [Shifts in Reproducibility in Art: More on Duchamp](https://www.pipaprize.com/2022/07/shifts-in-reproducibility-in-art-more-on-duchamp-by-luiz-camillo-osorio/) PIPA Institute. July 13, 2022. [(Web Archive)][text](https://web.archive.org/web/20221002191749/https://www.pipaprize.com/2022/07/shifts-in-reproducibility-in-art-more-on-duchamp-by-luiz-camillo-osorio/)
