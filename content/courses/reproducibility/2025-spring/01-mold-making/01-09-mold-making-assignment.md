@@ -1,7 +1,7 @@
 ---
-title: 01.08 Mold Making Assignment
+title: 01.09 Mold Making Assignment
 date: 2025-01-15T09:00:00
-lastmod: 2024-12-05T16:49:20
+lastmod: 2024-12-07T07:15:11
 ---
 
 ## Assignment Deliverables
