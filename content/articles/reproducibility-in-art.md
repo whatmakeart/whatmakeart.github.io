@@ -1,7 +1,7 @@
 ---
 title: Reproducibility in Art
 date: 2024-12-07T07:12:43
-lastmod: 2024-12-07T07:14:26
+lastmod: 2024-12-07T08:05:16
 ---
 
 What is reproducibility? Does the original matter? Is a "reproduced" reproduction just as valuable? Why do museums care if their art objects were really made by famous artists or are copies? The Cleveland Museum of Art spent time and resources restoring a painting that they claim was painted by Caravaggio. The museum even displayed their "real" painting next to a "fake" painting of the same composition to show how real their was. [^caravaggio-cma]
