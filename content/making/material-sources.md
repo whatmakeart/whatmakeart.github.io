@@ -1,7 +1,7 @@
 ---
 title: Material Sources
 date: 2023-05-23T21:59:41
-lastmod: 2024-09-19T17:46:01
+lastmod: 2024-12-09T05:36:12
 ---
 
 ## Metal
@@ -13,3 +13,13 @@ lastmod: 2024-09-19T17:46:01
 ## Fabric
 
 [Top Value Fabrics](https://www.tvfinc.com/)
+
+## Electrical
+
+- [Skycraft surplus](https://skycraftsurplus.com/marine/)
+- [Bntechgo](https://bntechgo.com/)
+- [Newark](https://www.newark.com/)
+
+## Electronics
+
+- [Adafruit](https://www.adafruit.com/)
