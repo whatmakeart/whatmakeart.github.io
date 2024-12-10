@@ -2,7 +2,7 @@
 title: 
 Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2024-12-10T11:52:17
+lastmod: 2024-12-10T11:54:52
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -242,8 +242,57 @@ Review the list of [sculpture materials](../making/materials-for-making.md) belo
 </div>
 
 <script>
-
 document.addEventListener("DOMContentLoaded", function() {
+    // Make table headers sticky
+    // This will apply sticky positioning to all table heads in responsive-table-markdown
+    const style = document.createElement('style');
+    style.innerHTML = `
+        .responsive-table-markdown table {
+            border-collapse: collapse;
+            width: 100%;
+            table-layout: fixed;
+        }
+
+        .responsive-table-markdown table th, 
+        .responsive-table-markdown table td {
+            border: 1px solid #ccc;
+            padding: 8px;
+        }
+
+        .responsive-table-markdown table thead th {
+            position: sticky;
+            top: 0;
+            background: #f9f9f9;
+            z-index: 2;
+            text-align: center;
+        }
+
+        .responsive-table-markdown table td label {
+            display: block;
+            text-align: center;
+            margin: 0 auto;
+        }
+
+        .responsive-table-markdown table td input[type="radio"] {
+            margin: 0 auto;
+            display: block;
+        }
+        
+        /* Optional: Make sure tables are scrollable if large */
+        .responsive-table-markdown {
+            overflow-x: auto;
+            width: 100%;
+        }
+
+        button#download-csv {
+            margin-top: 20px;
+            padding: 10px 20px;
+            cursor: pointer;
+            display: block;
+        }
+    `;
+    document.head.appendChild(style);
+
     // Identify all tables within .responsive-table-markdown
     const tables = document.querySelectorAll('.responsive-table-markdown table');
 
@@ -255,7 +304,7 @@ document.addEventListener("DOMContentLoaded", function() {
         // Get the column headers
         const headers = Array.from(thead.querySelectorAll('th')).map(th => th.innerText.trim());
 
-        // We assume the first header is the item name, and the rest are categories
+        // The first header is the item name, and the rest are categories
         const categories = headers.slice(1);
 
         // For each row (item), create radio buttons
@@ -263,8 +312,7 @@ document.addEventListener("DOMContentLoaded", function() {
             const cells = tr.querySelectorAll('td');
             if (cells.length < 2) return;
 
-            // The first cell contains the item name. Extract text
-            // If there's a link, use the link's text; otherwise use cell text
+            // Extract item name
             let itemName = '';
             const firstCellLink = cells[0].querySelector('a');
             if (firstCellLink) {
@@ -273,10 +321,10 @@ document.addEventListener("DOMContentLoaded", function() {
                 itemName = cells[0].innerText.trim();
             }
 
-            // For each subsequent cell (except the first), insert radio buttons
+            // Insert radio buttons into empty cells
             for (let i = 1; i < cells.length; i++) {
                 const category = categories[i - 1]; 
-                cells[i].innerHTML = ''; // Clear existing (empty) content
+                cells[i].innerHTML = ''; // Clear existing cell content
                 const label = document.createElement('label');
                 const input = document.createElement('input');
                 input.type = 'radio';
@@ -288,16 +336,19 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     });
 
-    // Create a Download CSV button at the bottom
+    // Create and append the Download CSV button at the bottom of the page
     const downloadButton = document.createElement('button');
     downloadButton.type = 'button';
+    downloadButton.id = 'download-csv';
     downloadButton.innerText = 'Download CSV';
-    downloadButton.style.marginTop = '20px';
-    downloadButton.style.padding = '10px 20px';
-    downloadButton.style.cursor = 'pointer';
 
-    // Append the button after all the content
-    document.body.appendChild(downloadButton);
+    // Insert the button after the last responsive-table-markdown section or at the bottom of the body
+    const lastTableContainer = document.querySelectorAll('.responsive-table-markdown');
+    if (lastTableContainer.length > 0) {
+        lastTableContainer[lastTableContainer.length - 1].insertAdjacentElement('afterend', downloadButton);
+    } else {
+        document.body.appendChild(downloadButton);
+    }
 
     downloadButton.addEventListener('click', function() {
         // Collect data from all tables
@@ -308,9 +359,7 @@ document.addEventListener("DOMContentLoaded", function() {
             const tbody = table.querySelector('tbody');
             if (!thead || !tbody) return;
 
-            // Determine category from the heading before the table if needed
-            // In this scenario, we don't have a defined category. We can guess based on h2/h3 headings.
-            // Let's find the closest heading above the table as a category or default to empty.
+            // Determine category from a heading above the table if possible
             let category = '';
             let prev = table.previousElementSibling;
             while (prev) {
@@ -334,7 +383,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     itemName = cells[0].innerText.trim();
                 }
 
-                // Find the chosen radio button for this item
+                // Find chosen radio button for this item
                 const radios = tr.querySelectorAll('input[type=radio]');
                 let chosen = '';
                 radios.forEach(radio => {
