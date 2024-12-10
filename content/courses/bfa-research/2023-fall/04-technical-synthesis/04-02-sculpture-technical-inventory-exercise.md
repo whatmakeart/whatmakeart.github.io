@@ -1,7 +1,7 @@
 ---
 title: 04.02 Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2024-12-05T16:49:20
+lastmod: 2024-12-10T11:45:45
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -239,3 +239,118 @@ Review the list of [sculpture materials](../../../../making/materials-for-making
 | Wire                                    |       |             |             |             |             |
 
 </div>
+
+<script>
+
+document.addEventListener("DOMContentLoaded", function() {
+    // Identify all tables within .responsive-table-markdown
+    const tables = document.querySelectorAll('.responsive-table-markdown table');
+
+    tables.forEach((table) => {
+        const thead = table.querySelector('thead');
+        const tbody = table.querySelector('tbody');
+        if (!thead || !tbody) return;
+
+        // Get the column headers
+        const headers = Array.from(thead.querySelectorAll('th')).map(th => th.innerText.trim());
+
+        // We assume the first header is the item name, and the rest are categories
+        const categories = headers.slice(1);
+
+        // For each row (item), create radio buttons
+        Array.from(tbody.querySelectorAll('tr')).forEach((tr) => {
+            const cells = tr.querySelectorAll('td');
+            if (cells.length < 2) return;
+
+            // The first cell contains the item name. Extract text
+            // If there's a link, use the link's text; otherwise use cell text
+            let itemName = '';
+            const firstCellLink = cells[0].querySelector('a');
+            if (firstCellLink) {
+                itemName = firstCellLink.innerText.trim();
+            } else {
+                itemName = cells[0].innerText.trim();
+            }
+
+            // For each subsequent cell (except the first), insert radio buttons
+            for (let i = 1; i < cells.length; i++) {
+                const category = categories[i - 1]; 
+                cells[i].innerHTML = ''; // Clear existing (empty) content
+                const label = document.createElement('label');
+                const input = document.createElement('input');
+                input.type = 'radio';
+                input.name = itemName;
+                input.value = category;
+                label.appendChild(input);
+                cells[i].appendChild(label);
+            }
+        });
+    });
+
+    // Create a Download CSV button at the bottom
+    const downloadButton = document.createElement('button');
+    downloadButton.type = 'button';
+    downloadButton.innerText = 'Download CSV';
+    downloadButton.style.marginTop = '20px';
+    downloadButton.style.padding = '10px 20px';
+    downloadButton.style.cursor = 'pointer';
+
+    // Append the button after all the content
+    document.body.appendChild(downloadButton);
+
+    downloadButton.addEventListener('click', function() {
+        // Collect data from all tables
+        let csvContent = "data:text/csv;charset=utf-8,Category,Item,Response\n";
+
+        tables.forEach((table) => {
+            const thead = table.querySelector('thead');
+            const tbody = table.querySelector('tbody');
+            if (!thead || !tbody) return;
+
+            // Determine category from the heading before the table if needed
+            // In this scenario, we don't have a defined category. We can guess based on h2/h3 headings.
+            // Let's find the closest heading above the table as a category or default to empty.
+            let category = '';
+            let prev = table.previousElementSibling;
+            while (prev) {
+                if ((prev.tagName === 'H2' || prev.tagName === 'H3') && prev.innerText.trim().length > 0) {
+                    category = prev.innerText.trim();
+                    break;
+                }
+                prev = prev.previousElementSibling;
+            }
+
+            const rows = tbody.querySelectorAll('tr');
+            rows.forEach((tr) => {
+                const cells = tr.querySelectorAll('td');
+                if (cells.length < 2) return;
+
+                let itemName = '';
+                const firstCellLink = cells[0].querySelector('a');
+                if (firstCellLink) {
+                    itemName = firstCellLink.innerText.trim();
+                } else {
+                    itemName = cells[0].innerText.trim();
+                }
+
+                // Find the chosen radio button for this item
+                const radios = tr.querySelectorAll('input[type=radio]');
+                let chosen = '';
+                radios.forEach(radio => {
+                    if (radio.checked) chosen = radio.value;
+                });
+
+                csvContent += `"${category}","${itemName}","${chosen}"\n`;
+            });
+        });
+
+        const encodedUri = encodeURI(csvContent);
+        const link = document.createElement("a");
+        link.setAttribute("href", encodedUri);
+        link.setAttribute("download", "inventory_responses.csv");
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    });
+});
+</script>
