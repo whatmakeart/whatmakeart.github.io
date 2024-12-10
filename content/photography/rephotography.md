@@ -1,7 +1,7 @@
 ---
 title: Rephotography
 date: 2024-11-29T10:17:20
-lastmod: 2024-12-10T06:31:52
+lastmod: 2024-12-10T07:12:20
 ---
 
 Rephotography can refer to the photographing of the same object or location at different times.
@@ -34,13 +34,15 @@ Mark Klett and JoAnn Verburg for the Rephotographic Survey Project, Gateway of t
 </figure>
 </div>
 
-In 1981, Sherrie Levine "rephotographed" an image of Allie Mae Burroughs[^jca-levine], a share cropper in Alabama, originally photographed by Walker Evans in 1936.[^evans-met] By [appropriating](../art-faq/appropriation.md) the images of Walker Evans and presenting them as her own, Levine deemphasized the concept of precious originality.
+In 1981, Sherrie Levine "rephotographed" an image of Allie Mae Burroughs[^jca-levine], a share cropper in Alabama, originally photographed by Walker Evans in 1936.[^evans-met] By [appropriating](../art-faq/appropriation.md) the images of Walker Evans and presenting them as her own, Levine deemphasized the concept of precious originality. Levine later reproduced famous paintings as paintings.
 
-Richard Prince's early photographic work used rephotography to rephotograph cropped versions of advertisements. Prince once wrote that "Rephotography is a technique for stealing (pirating) already existing images, ..."[^prince-without-license] Prince has matter of fact view of appropriation as theft and focuses on the possibilities and "satisfying" possibilities. He made conceptual statements about the bouncing of light from original photo to camera and then throughout the rephotography process. The physical labor of creating a photo from a photo seems to become a work of art akin to a performance. Prince also questions the nature of information and what it means to reproduce or transmit imagery by encoding picture data on computer readable tapes. H refered to sending these photos, tapes, "halfway around the world" as "photoshperes."[^prince-photospheres] Prince continued early investigations of authorship, originality, and authenticity into the social media age by appropriating images from Instagram and displaying them on gallery walls. His view of appropriation and rephotography is not universally held since some rights holders have won judgments against the artist in court.
+Richard Prince's early photographic work used rephotography to rephotograph cropped versions of advertisements. Prince once wrote that "Rephotography is a technique for stealing (pirating) already existing images, ..."[^prince-without-license] Prince has matter of fact view of appropriation as theft and focuses on the possibilities and "satisfying" possibilities. He made conceptual statements about the bouncing of light from original photo to camera and then throughout the rephotography process. The physical labor of creating a photo from a photo seems to become a work of art akin to a performance. Prince also questions the nature of information and what it means to reproduce or transmit imagery by encoding picture data on computer readable tapes. He referred to sending these photos, tapes, "halfway around the world" as "photoshperes."[^prince-photospheres] Prince continued early investigations of authorship, originality, and authenticity into the social media age by appropriating images from Instagram and displaying them on gallery walls. His view of appropriation and rephotography is not universally held since some rights holders have won judgments against the artist in court.
 
 Is rephotography a form of [fair use](../copyright/fair-use.md)? Is cropping an image transformative? Does the physical act of taking a picture of a photograph create a new author?
 
 ## Contemporary Rephotography
+
+Michael Mandiberg rephotographed rephotography by creating the website [aftersherrielevine.com](https://www.aftersherrielevine.com/) that includes high resolution copies of photographs, for download and printing by the public, from Sherrie Levine's _After Walker Evans_ series.
 
 Rephotography has become ubiquitous with the increase of photography powered by small portable electronic devices such as cell phones and machine learning computer vision algorithms. Many photo applications will automatically scan a library of images for similar subjects and framing to create "then and now" parings showing a variety of subject matter from different times, similar to the original concept of rephotography.
 
