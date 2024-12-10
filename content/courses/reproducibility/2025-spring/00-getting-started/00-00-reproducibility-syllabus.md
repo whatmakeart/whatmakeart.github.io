@@ -1,7 +1,7 @@
 ---
 title: 00.00 Reproducibility Syllabus
 date: 2025-01-15T09:00:00
-lastmod: 2024-12-06T06:25:52
+lastmod: 2024-12-10T06:00:20
 ---
 
 ## Reproducibility Syllabus
@@ -66,7 +66,7 @@ Through demonstrations of technical processes, lectures supplemented by works fr
 | 2        | January 22  | [02 Project 1](../02-slip-casting/02-00-introduction.md)                  |
 | 3        | January 29  | [03 Project 1](../03-slip-casting-production/03-00-introduction.md)       |
 | 4        | February 5  | [04 Project 1](../04-alternative-casting-materials/04-00-introduction.md) |
-| 5        | February 12 | [05 Project 1](../05-studio-work/05-00-introduction.md)                   |
+| 5        | February 12 | [05 Project 1](../05-display-methods/05-00-introduction.md)               |
 | 6        | February 19 | [06 Project 2](../06-zines/06-00-introduction.md)                         |
 | 7        | February 26 | [07 Project 2](../07-screenprint-screen-coating/07-00-introduction.md)    |
 | 8        | March 5     | [08 Project 2](../08-printmaking/08-00-introduction.md)                   |

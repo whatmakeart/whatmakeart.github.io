@@ -1,7 +1,7 @@
 ---
 title: Rephotography
 date: 2024-11-29T10:17:20
-lastmod: 2024-12-02T17:50:30
+lastmod: 2024-12-10T05:46:39
 ---
 
 Rephotography can refer to the photographing of the same object or location at different times.
@@ -34,9 +34,15 @@ Mark Klett and JoAnn Verburg for the Rephotographic Survey Project, Gateway of t
 </figure>
 </div>
 
+In 1981, Sherrie Levine "rephotographed" an image of Allie Mae Burroughs[^jca-levine], a share cropper in Alabama, originally photographed by Walker Evans in 1936.[^evans-met] By [appropriating](../art-faq/appropriation.md) the images of Walker Evans and presenting them as her own, Levine deemphasized the concept of precious originality.
+
+Richard Prince used rephotography to rephotograph cropped versions of advertisements. Prince once said that advertisements do not have authors so there is no one to steal from.
+
+## Contemporary Rephotography
+
 Rephotography has become ubiquitous with the increase of photography powered by small portable electronic devices such as cell phones and machine learning computer vision algorithms. Many photo applications will automatically scan a library of images for similar subjects and framing to create "then and now" parings showing a variety of subject matter from different times, similar to the original concept of rephotography.
 
-## Further Reading
+## Resources / Further Reading
 
 - [History Pin](https://www.historypin.org/en/) crowdsources matching historical and contemporary photos to locations using street view and GPS.
 - [Time Travel Rephotography](https://github.com/Time-Travel-Rephotography/Time-Travel-Rephotography.github.io) uses a unique unified image processing method to enhance and colorize historical photographs.
@@ -45,3 +51,5 @@ Rephotography has become ubiquitous with the increase of photography powered by 
 
 [^klett-rephotography]: Klett, Mark. [Rephotographic-Survey-Project 1977-1979](https://www.markklett.com/projects/rephotographic-survey-project) [(Archive Link)](https://web.archive.org/web/20241129152939/https://www.markklett.com/projects/rephotographic-survey-project)
 [^fox-third-view]: Fox, William L. [Mark Klett RephotographyLook Again: Mark Klett's Rephotography of the American West - National Gallery of Art](https://www.nga.gov/stories/west-to-east/mark-klett-rephotography-american-west.html) [(Archive Link)](https://web.archive.org/web/20241006091839/https://www.nga.gov/stories/west-to-east/mark-klett-rephotography-american-west.html)
+[^evans-met]: [Metropolitain Museum of Art Collection Search](https://www.metmuseum.org/art/collection/search/284685) _Alabama Tenant Farmer Wife_ Walker Evans, American 1936. [(Web Archive)](https://web.archive.org/web/20240716202322/https://www.metmuseum.org/art/collection/search/284685)
+[^jca-levine]: [Constance Lewallen and Sherrie Levine](https://www.jca-online.com/slevine.html) Journal of Contemporary Art. 1993. [(Web Archive)](https://web.archive.org/web/20020802095936/http://www.jca-online.com/slevine.html)
