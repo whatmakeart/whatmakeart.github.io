@@ -1,7 +1,7 @@
 ---
 title: 13.01 Runway Project Ideation Sketches Assignment
 date: 2024-11-25T09:00:00
-lastmod: 2024-11-25T07:46:00
+lastmod: 2024-12-11T06:44:35
 ---
 
 ## Assignment Deliverables
@@ -26,3 +26,15 @@ It is important that you generate many different ideas and concepts that are uni
 - Straighten and crop the images as necessary so nothing but the paper and sketches show in the images.
 - Combine the images as a PDF or upload as jpgs.
 - Upload your ideation sketches and object form studies to Canvas.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment            | Weight    |
+| --------------------- | --------- |
+| Ideation Variety      | 45 points |
+| Ideation Depth        | 45 points |
+| Documentation Quality | 10 points |
+
+</div>
