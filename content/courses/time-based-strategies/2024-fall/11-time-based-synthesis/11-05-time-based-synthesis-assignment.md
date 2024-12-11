@@ -1,7 +1,7 @@
 ---
 title: 11.05 Time Based Synthesis Assignment
 date: 2024-11-12T12:00:00
-lastmod: 2024-11-13T05:01:24
+lastmod: 2024-12-11T06:07:52
 ---
 
 ## Assignment Deliverables
@@ -77,13 +77,13 @@ Create a sculpture or installation that explores the concept of information over
 
 <div class="responsive-table-markdown">
 
-| Assessment                         | Weight    |
-| ---------------------------------- | --------- |
-| Creative Synthesis                 | 50 points |
-| Technique 1                        | 50 points |
-| Technique 2                        | 50 points |
-| Technique 3                        | 50 points |
-| Creative Prompt                    | 50 points |
-| Written Self Assessment (in class) | 50 points |
+| Assessment          | Weight    |
+| ------------------- | --------- |
+| Creative Synthesis  | 50 points |
+| Technique 1         | 50 points |
+| Technique 2         | 50 points |
+| Technique 3         | 50 points |
+| Creative Concept    | 50 points |
+| Demonstrated Effort | 50 points |
 
 </div>

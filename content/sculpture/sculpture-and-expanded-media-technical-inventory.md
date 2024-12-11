@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2024-12-10T11:59:47
+lastmod: 2024-12-11T05:49:56
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -160,7 +160,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | [Metal Finishing](../metalworking/metal-finishing.md)                                                  |       |             |             |             |             |
 | Armature Building                                                                                      |       |             |             |             |             |
 | [Writing](../art-faq/writing.md)                                                                       |       |             |             |             |             |
-| Parametric 3D Modeling (Fusion 360, Solidworks, Inventor)                                              |       |             |             |             |             |
+| [Parametric 3D Modeling](../3d-modeling/parametric-modeling.md) (Fusion 360, Solidworks, Inventor)     |       |             |             |             |             |
 | Motion Graphics                                                                                        |       |             |             |             |             |
 | Camera Tracking                                                                                        |       |             |             |             |             |
 | Needle Felting                                                                                         |       |             |             |             |             |
@@ -174,7 +174,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | [Sewing](../sewing/sewing.md)                                                                          |       |             |             |             |             |
 | [Casting](../making/casting.md)                                                                        |       |             |             |             |             |
 | [Metal Fabrication](../metalworking/metal-fabrication.md)                                              |       |             |             |             |             |
-| Mold Making                                                                                            |       |             |             |             |             |
+| [Mold Making](../making/molds.md)                                                                      |       |             |             |             |             |
 | [Welding](../metalworking/welding.md)                                                                  |       |             |             |             |             |
 | Interactive Electronics                                                                                |       |             |             |             |             |
 | Generative AI                                                                                          |       |             |             |             |             |
@@ -214,29 +214,29 @@ Review the list of [sculpture materials](../making/materials-for-making.md) belo
 
 <div class="responsive-table-markdown">
 
-| Material                       | What? | Heard of It | Used Before | Comfortable | Well Versed |
-| ------------------------------ | ----- | ----------- | ----------- | ----------- | ----------- |
-| Fabric                         |       |             |             |             |             |
-| 2 Part Epoxy Resin             |       |             |             |             |             |
-| Plaster                        |       |             |             |             |             |
-| Felt                           |       |             |             |             |             |
-| Steel                          |       |             |             |             |             |
-| Aluminum                       |       |             |             |             |             |
-| Cardboard                      |       |             |             |             |             |
-| Wool                           |       |             |             |             |             |
-| Thread                         |       |             |             |             |             |
-| Olive Oil Soap                 |       |             |             |             |             |
-| 2 Part Silicone                |       |             |             |             |             |
-| Wire Mesh                      |       |             |             |             |             |
-| [LEDs](../electronics/leds.md) |       |             |             |             |             |
-| Polycarbonate                  |       |             |             |             |             |
-| Acrylic                        |       |             |             |             |             |
-| Oil Clay                       |       |             |             |             |             |
-| Stoneware Clay                 |       |             |             |             |             |
-| Glass                          |       |             |             |             |             |
-| Fiberglass                     |       |             |             |             |             |
-| Found Objects                  |       |             |             |             |             |
-| Wire                           |       |             |             |             |             |
+| Material                                       | What? | Heard of It | Used Before | Comfortable | Well Versed |
+| ---------------------------------------------- | ----- | ----------- | ----------- | ----------- | ----------- |
+| Fabric                                         |       |             |             |             |             |
+| 2 Part Epoxy Resin                             |       |             |             |             |             |
+| [Plaster](../making/plaster.md)                |       |             |             |             |             |
+| Felt                                           |       |             |             |             |             |
+| Steel                                          |       |             |             |             |             |
+| Aluminum                                       |       |             |             |             |             |
+| Cardboard                                      |       |             |             |             |             |
+| Wool                                           |       |             |             |             |             |
+| Thread                                         |       |             |             |             |             |
+| Olive Oil Soap                                 |       |             |             |             |             |
+| 2 Part Silicone                                |       |             |             |             |             |
+| Wire Mesh                                      |       |             |             |             |             |
+| [LEDs](../electronics/leds.md)                 |       |             |             |             |             |
+| Polycarbonate                                  |       |             |             |             |             |
+| Acrylic                                        |       |             |             |             |             |
+| Oil Clay                                       |       |             |             |             |             |
+| Stoneware Clay                                 |       |             |             |             |             |
+| Glass                                          |       |             |             |             |             |
+| Fiberglass                                     |       |             |             |             |             |
+| [Found Objects](../sculpture/found-objects.md) |       |             |             |             |             |
+| Wire                                           |       |             |             |             |             |
 
 </div>
 
