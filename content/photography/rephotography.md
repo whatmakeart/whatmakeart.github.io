@@ -1,7 +1,7 @@
 ---
 title: Rephotography
 date: 2024-11-29T10:17:20
-lastmod: 2024-12-10T07:12:20
+lastmod: 2024-12-12T17:38:38
 ---
 
 Rephotography can refer to the photographing of the same object or location at different times.
@@ -36,7 +36,53 @@ Mark Klett and JoAnn Verburg for the Rephotographic Survey Project, Gateway of t
 
 In 1981, Sherrie Levine "rephotographed" an image of Allie Mae Burroughs[^jca-levine], a share cropper in Alabama, originally photographed by Walker Evans in 1936.[^evans-met] By [appropriating](../art-faq/appropriation.md) the images of Walker Evans and presenting them as her own, Levine deemphasized the concept of precious originality. Levine later reproduced famous paintings as paintings.
 
+<div class="gallery-grid">
+<figure>
+
+[![Walker Evans Alabama Tenant Farmers Wife 1936](./attachments/1936_Walker-Evans_Alabama-Tenant-Famer-Wife.jpg)](./attachments/1936_Walker-Evans_Alabama-Tenant-Famer-Wife.jpg)
+
+<figcaption>
+
+Walker Evans, _Alabama Tenant Farmer Wife_, 1936, Gelatin silver print, 20.9 x 14.4 cm (8 1/4 x 5 11/16 in.) © Walker Evans Archive, [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/284685). _(This image is included on the basis of fair use.)_
+
+</figcaption>
+</figure>
+<figure>
+
+[![Sherrie Levine After Walker Evans 4](./attachments/1981_Sherrie-Levine_After-Walker-Evans-4.jpg)](./attachments/1981_Sherrie-Levine_After-Walker-Evans-4.jpg)
+
+<figcaption>
+
+Sherrie Levin, _After Walker Evans: 4_, 1981, Gelatin silver print, 12.8 x 9.8 cm (5 1/16 x 3 7/8 in.) [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/267214) and [Zwirner Gallery](https://www.davidzwirner.com/artists/sherrie-levine). _(This image is included on the basis of fair use.)_
+
+</figcaption>
+</figure>
+</div>
+
 Richard Prince's early photographic work used rephotography to rephotograph cropped versions of advertisements. Prince once wrote that "Rephotography is a technique for stealing (pirating) already existing images, ..."[^prince-without-license] Prince has matter of fact view of appropriation as theft and focuses on the possibilities and "satisfying" possibilities. He made conceptual statements about the bouncing of light from original photo to camera and then throughout the rephotography process. The physical labor of creating a photo from a photo seems to become a work of art akin to a performance. Prince also questions the nature of information and what it means to reproduce or transmit imagery by encoding picture data on computer readable tapes. He referred to sending these photos, tapes, "halfway around the world" as "photoshperes."[^prince-photospheres] Prince continued early investigations of authorship, originality, and authenticity into the social media age by appropriating images from Instagram and displaying them on gallery walls. His view of appropriation and rephotography is not universally held since some rights holders have won judgments against the artist in court.
+
+<div class="gallery-grid">
+<figure>
+
+[![Tear Sheet Original Marlboro Ad](./attachments/Tear-Sheat_Original-Marlboro-Ad.jpg)](./attachments/Tear-Sheat_Original-Marlboro-Ad.jpg)
+
+<figcaption>
+
+Tear Sheet, Original Marlboro Ad _(This image is included on the basis of fair use.)_
+
+</figcaption>
+</figure>
+<figure>
+
+[![Richard Prince Untitled (Cowboy) 1989](./attachments/1989_Richard-Prince-Cowboys-Untitled.jpg)](./attachments/1989_Richard-Prince-Cowboys-Untitled.jpg)
+
+<figcaption>
+
+Richard Prince, Untitled (Cowboy), Ektacolor photograph, (50 x 75 inches, 127 x 190.5 cm) Used with permission courtesy of Fulton Ryder. [richardprince.com](http://www.richardprince.com/photographs/cowboys/)
+
+</figcaption>
+</figure>
+</div>
 
 Is rephotography a form of [fair use](../copyright/fair-use.md)? Is cropping an image transformative? Does the physical act of taking a picture of a photograph create a new author?
 
