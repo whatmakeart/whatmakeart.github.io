@@ -1,7 +1,7 @@
 ---
 title: Rephotography
 date: 2024-11-29T10:17:20
-lastmod: 2024-12-12T17:38:38
+lastmod: 2024-12-13T06:41:07
 ---
 
 Rephotography can refer to the photographing of the same object or location at different times.
@@ -61,6 +61,8 @@ Sherrie Levin, _After Walker Evans: 4_, 1981, Gelatin silver print, 12.8 x 9.8 c
 
 Richard Prince's early photographic work used rephotography to rephotograph cropped versions of advertisements. Prince once wrote that "Rephotography is a technique for stealing (pirating) already existing images, ..."[^prince-without-license] Prince has matter of fact view of appropriation as theft and focuses on the possibilities and "satisfying" possibilities. He made conceptual statements about the bouncing of light from original photo to camera and then throughout the rephotography process. The physical labor of creating a photo from a photo seems to become a work of art akin to a performance. Prince also questions the nature of information and what it means to reproduce or transmit imagery by encoding picture data on computer readable tapes. He referred to sending these photos, tapes, "halfway around the world" as "photoshperes."[^prince-photospheres] Prince continued early investigations of authorship, originality, and authenticity into the social media age by appropriating images from Instagram and displaying them on gallery walls. His view of appropriation and rephotography is not universally held since some rights holders have won judgments against the artist in court.
 
+The iconic image of the cowboy in front of the clouds was reportedly shot by Jim Brady.[^time-video]
+
 <div class="gallery-grid">
 <figure>
 
@@ -84,7 +86,13 @@ Richard Prince, Untitled (Cowboy), Ektacolor photograph, (50 x 75 inches, 127 x 
 </figure>
 </div>
 
-Is rephotography a form of [fair use](../copyright/fair-use.md)? Is cropping an image transformative? Does the physical act of taking a picture of a photograph create a new author?
+Is rephotography a form of [fair use](../copyright/fair-use.md)? Is cropping an image transformative? Does the physical act of taking a picture of a photograph create a new author? What if it was your photography that was rephotographed? Norm Clasen shot some of the original photographs used in Richard Prince's work. Clasen shot photos of cowboys for Marlboro from approximately 1978 to 1992. He rode and traveled with the cowboy subjects of his photos in order to capture what are now iconic images of American mythology and fantasy. In 2018 he exhibited some of his original cowboy photos in an exhibition called _Titled (Cowboy)_ as a reference to Prince's _Untitled (Cowboy)_. Clasen has referred to appropriation of others' photography as "artistic piracy."[^clasen-mb]
+
+<div class="video-grid">
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/bxySP5R-IWs?si=XYngT0vSjWUHZdXK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 ## Contemporary Rephotography
 
@@ -105,3 +113,6 @@ Rephotography has become ubiquitous with the increase of photography powered by 
 [^jca-levine]: [Constance Lewallen and Sherrie Levine](https://www.jca-online.com/slevine.html) Journal of Contemporary Art. 1993. [(Web Archive)](https://web.archive.org/web/20020802095936/http://www.jca-online.com/slevine.html)
 [^prince-without-license]: Prince, Richard. [Practicing Without A License 1977](http://www.richardprince.com/writings/practicing-without-a-license-1977/) [(Web Archive)](https://web.archive.org/web/20111007135329/http://www.richardprince.com/writings/practicing-without-a-license-1977/)
 [^prince-photospheres]: Prince, Richard. [Photospheres](http://www.richardprince.com/writings/photospheres/) [(Web Archive)](https://web.archive.org/web/20111007135708/http://www.richardprince.com/writings/photospheres/)
+[^clasen-mb]: [Norm Clasen: Titled (Cowboy)](https://www.mbphoto.com/exhibitions/124/overview/) exhibition at [M+B Photo](https://www.mbphoto.com/) March 2 to April 21, 2018. [(Web Archive)](https://web.archive.org/web/20240623071217/https://www.mbphoto.com/exhibitions/124/overview/)
+[^appel-prince-interview]: Appel, Brian. [Money, Paint and Jokes – An Interview with Richard Prince (2007)](http://americansuburbx.com/2013/03/interview-richard-prince-2007.html) AMERICAN SUBURB X / ASX. 2007 [(Web Archive)](https://web.archive.org/web/20130503172119/http://www.americansuburbx.com/2013/03/interview-richard-prince-2007.html)
+[^time-video]: Time Video
