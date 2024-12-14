@@ -1,10 +1,8 @@
 ---
-title: "00.01 Syllabus"
+title: "00.01 Digital II: Modeling and Fabrication Syllabus"
 date: 2025-01-16T12:00:00Z
-lastmod: 2024-12-11T08:09:04
+lastmod: 2024-12-14T07:29:34
 ---
-
-## Digital II: Modeling and Fabrication Syllabus
 
 ### Course Information
 
@@ -12,7 +10,7 @@ Course Number: FNDN 121.08
 
 Department: Foundation
 
-Room: 327B Cleveland Institute of Art
+Room: 201 + 203 Cleveland Institute of Art
 
 Time: Thursdays 12:00 pm - 5:00 pm
 
@@ -20,11 +18,11 @@ Faculty: Jimmy Kuehnle - jkuehnle@cia.edu
 
 Office Hours: By appointment
 
-Semester: Spring 2024
+Semester: Spring 2025
 
-[Canvas Course Page](https://cia.instructure.com/courses/1202)
+[Canvas Course Page]()
 
-[Course Website](https://whatmakeart.com/courses/modeling-and-fabrication/2024-spring/)
+[Course Website](https://whatmakeart.com/courses/modeling-and-fabrication/2025-spring/)
 
 [Syllabus PDF Download]()
 
@@ -158,6 +156,20 @@ The following materials are not required for the course but may be useful to you
 - Digital Calipers - May purchase your own or use the [digital calipers](../../../../making/how-to-use-digital-calipers.md) in the Fab Studios
 - Isometric Graph Paper (Has triangles instead of squares)
 - Square Graph Paper
+
+## How to Succeed in this Course
+
+- Come to class.
+- Read the course materials before class.
+- Take physical notes. Smart people write things down. Be smart.
+- Pay attention. Make sure to stay engaged.
+- Study your notes and course materials.
+- Take breaks from studying and pace yourself.
+- Read the documentation and online information.
+- Keep your files and digital assets organized.
+- Ask questions. Don’t worry about interrupting.
+- Don’t fall behind - we progress quickly and steadily!
+- Don't wait until the last minute to begin your projects.
 
 ## Cleveland Institute of Art Required Policy Language
 

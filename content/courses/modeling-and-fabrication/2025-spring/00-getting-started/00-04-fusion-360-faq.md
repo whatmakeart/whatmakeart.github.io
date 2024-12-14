@@ -1,7 +1,7 @@
 ---
-title: "00.04 Fusion 360 FAQ"
+title: 00.02 Fusion 360 FAQ
 date: 2025-01-16T12:00:00Z
-lastmod: 2024-12-11T08:09:13
+lastmod: 2024-12-14T07:22:39
 toc: true
 ---
 

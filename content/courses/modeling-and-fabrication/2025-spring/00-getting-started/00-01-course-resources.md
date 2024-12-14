@@ -1,14 +1,14 @@
 ---
-title: "00.03 Course Links"
+title: 00.01 Course Resources
 date: 2025-01-16T12:00:00Z
-lastmod: 2024-12-11T08:09:13
+lastmod: 2024-12-14T07:29:34
 ---
 
 ## Course Introduction
 
 This course is intended for first year college students studying art and [design](../../../../art-faq/design.md).
 
-The course introduces basic technical sketching, third angle projections, 3D modeling in Fusion 360, laser cutting, 3D printing, CNC fabrication, mesh / polygon modeling in Blender and Maya, and basic 3D animation and rendering, non linear video editing.
+The course introduces basic technical sketching, third angle projections, 3D modeling in Fusion 360, laser cutting, 3D printing, CNC fabrication, mesh / polygon modeling in Blender and Maya, and basic 3D animation and rendering, non-linear video editing.
 
 ## Course Materials
 
