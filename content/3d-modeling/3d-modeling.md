@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2024-12-05T16:49:20
+lastmod: 2024-12-14T08:12:09
 ---
 
 What is a model? What is a 3D model? What is the difference between an analog and a digital 3D model? How does 2D [technical sketching](../drawing/technical-sketching.md) relate to 3D modeling?
@@ -36,6 +36,17 @@ The testing of our ideas and concepts whether aesthetic or physical is important
 
 Do tests and then evaluate and then do again.
 
+## Essential 3D Modeling Concepts
+
+- Orbit - how to move a virtual camera or view around a 3D model in space on a computer screen
+- Pan
+- Zoom
+- x y z axis
+- mesh
+- polygon
+- nurbs
+-
+
 ### Physical Output from Digital 3D Models
 
 Digital 3D models are great for visualization, ideation, experimenting with forms, simulation, VR, AR, video games, animation, and for archiving but are still not physical objects. [Laser Cutting](../digital-fabrication/laser-cutting/laser-cutting.md), [CNC](../digital-fabrication/cnc/cnc-basics.md) machining, [3D Printing](../digital-fabrication/3d-printing/3d-printing.md), vinyl cutting, and water jet cutting are [digital fabrication](../digital-fabrication/digital-fabrication.md) processes that create physical outputs and objects from digital 3D models.
@@ -50,9 +61,9 @@ In 2022 Google demonstrated DreamFusion that created 3D models from text prompts
 <div class="video-grid">
 
 <figure>
-<a href="../attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4">
+<a href="https://whatmakeart.com/3d-modeling/attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4">
 <video width="100%" height="auto" autoplay loop>
-  <source src="../attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4" type="video/mp4">
+  <source src="https://whatmakeart.com/3d-modeling/attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4" type="video/mp4">
  
 Your browser does not support the video tag.
 </video>
@@ -65,9 +76,9 @@ Google's DreamFusion in 2022 [^dreamfusion]
 </figure>
 
 <figure>
-<a href="../attachments/2023-05-03-openai-shape-e-demo-models.mp4">
+<a href="https://whatmakeart.com/3d-modeling/attachments/2023-05-03-openai-shape-e-demo-models.mp4">
 <video width="100%" height="auto" autoplay loop>
-  <source src="../attachments/2023-05-03-openai-shape-e-demo-models.mp4" type="video/mp4">
+  <source src="https://whatmakeart.com/3d-modeling/attachments/2023-05-03-openai-shape-e-demo-models.mp4" type="video/mp4">
  
 Your browser does not support the video tag.
 </video>
