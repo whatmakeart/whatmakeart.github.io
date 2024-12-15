@@ -1,7 +1,7 @@
 ---
-title: 12.03 Self Directed 3D Modeling Assignment
+title: 12.03 Slip Cast Production Assignment
 date: 2024-11-06T09:00:00
-lastmod: 2024-12-15T16:58:00
+lastmod: 2024-12-15T17:10:02
 ---
 
 ## Assignment Deliverables
