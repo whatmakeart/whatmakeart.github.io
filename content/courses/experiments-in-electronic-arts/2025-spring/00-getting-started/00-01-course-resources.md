@@ -1,7 +1,7 @@
 ---
 title: 00.02 Course Resources
 date: 2025-01-13T12:00:00Z
-lastmod: 2024-12-04T05:33:04
+lastmod: 2024-12-15T07:15:08
 ---
 
 ## Stuff to Read
@@ -16,12 +16,17 @@ lastmod: 2024-12-04T05:33:04
 
 - [Sparkfun](https://www.sparkfun.com/)
 - [Adafruit](https://www.adafruit.com/)
+- [DigiKey](https://www.digikey.com/)
+- [Mouser](https://www.mouser.com/)
+- [RS Americas](https://us.rs-online.com/)
+- [McMaster-Carr](https://www.mcmaster.com/)
 - [Superbright LEDs](https://www.superbrightleds.com/)
 - [AliExpress](https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US)
 
 ### Mail Order Custom PCBs
 
-[Jlcpcb](https://jlcpcb.com/)
+- [PCBWay](https://www.pcbway.com/)
+- [Jlcpcb](https://jlcpcb.com/)
 
 ## Programming for Artists
 

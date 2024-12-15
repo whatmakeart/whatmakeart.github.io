@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2024-12-11T05:49:56
+lastmod: 2024-12-15T07:23:38
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -117,7 +117,6 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | [Airbrush](../tools/airbrushing-basics.md)                                                         |       |             |             |             |             |
 | [Spray Gun](../tools/spray-gun.md)                                                                 |       |             |             |             |             |
 | Beaverly Shear                                                                                     |       |             |             |             |             |
-| Rasp                                                                                               |       |             |             |             |             |
 | captive nut insert rivet                                                                           |       |             |             |             |             |
 
 </div>
@@ -182,7 +181,8 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | [Chroma Keying](../video/chroma-key-basics.md)                                                         |       |             |             |             |             |
 | [Multi Channel Audio](../sound/multichannel-audio.md)                                                  |       |             |             |             |             |
 | [Paper Making](../making/paper-making.md)                                                              |       |             |             |             |             |
-| Stop Motion                                                                                            |       |             |             |             |             |
+| Stop Motion Animation                                                                                  |       |             |             |             |             |
+| Creative Coding                                                                                        |       |             |             |             |             |
 | Glass Blowing                                                                                          |       |             |             |             |             |
 | Glass Cold Working                                                                                     |       |             |             |             |             |
 | Lampwork for Glass                                                                                     |       |             |             |             |             |
@@ -204,7 +204,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | Embroidery                                                                                             |       |             |             |             |             |
 | Powder Coating                                                                                         |       |             |             |             |             |
 | [Cyanotype](../photography/cyanotype-basics.md)                                                        |       |             |             |             |             |
-| [Pnuematic structure ](../art-faq/how-to-make-inflatables.md)                                          |       |             |             |             |             |
+| [Pnuematic structure (inflatable)](../art-faq/how-to-make-inflatables.md)                              |       |             |             |             |             |
 
 </div>
 
@@ -237,6 +237,20 @@ Review the list of [sculpture materials](../making/materials-for-making.md) belo
 | Fiberglass                                     |       |             |             |             |             |
 | [Found Objects](../sculpture/found-objects.md) |       |             |             |             |             |
 | Wire                                           |       |             |             |             |             |
+
+</div>
+
+## Sculpture Concepts Inventory
+
+<div class="responsive-table-markdown">
+
+| Concept         | What? | Heard of It | Used Before | Comfortable | Well Versed |
+| --------------- | ----- | ----------- | ----------- | ----------- | ----------- |
+| In the Round    |       |             |             |             |             |
+| Appropriation   |       |             |             |             |             |
+| Media Literacy  |       |             |             |             |             |
+| Materiality     |       |             |             |             |             |
+| Reproducibility |       |             |             |             |             |
 
 </div>
 

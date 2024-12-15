@@ -1,7 +1,7 @@
 ---
-title: 12 3D Printed Slip Cast Molds
+title: 12.00 Introduction
 date: 2024-11-06T09:00:00
-lastmod: 2024-11-05T07:05:09
+lastmod: 2024-12-15T07:28:33
 ---
 
 ## Overview
