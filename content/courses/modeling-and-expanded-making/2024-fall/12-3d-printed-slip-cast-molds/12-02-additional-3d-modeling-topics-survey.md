@@ -1,7 +1,7 @@
 ---
 title: 12.04 Additional 3D Modeling Topics Survey
 date: 2024-11-06T09:00:00
-lastmod: 2024-12-15T07:17:18
+lastmod: 2024-12-15T07:45:21
 draft: true
 ---
 

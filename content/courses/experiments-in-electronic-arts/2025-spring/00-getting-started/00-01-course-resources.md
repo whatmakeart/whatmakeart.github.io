@@ -1,7 +1,7 @@
 ---
 title: 00.02 Course Resources
 date: 2025-01-13T12:00:00Z
-lastmod: 2024-12-15T07:15:08
+lastmod: 2024-12-15T07:36:47
 ---
 
 ## Stuff to Read
@@ -21,7 +21,9 @@ lastmod: 2024-12-15T07:15:08
 - [RS Americas](https://us.rs-online.com/)
 - [McMaster-Carr](https://www.mcmaster.com/)
 - [Superbright LEDs](https://www.superbrightleds.com/)
+- [Automation Direct](https://www.automationdirect.com/adc/home/home)
 - [AliExpress](https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US)
+- [Electro Mage](https://shop.electromage.com/)
 
 ### Mail Order Custom PCBs
 
