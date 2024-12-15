@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2024-12-14T08:12:09
+lastmod: 2024-12-15T05:35:45
 ---
 
 What is a model? What is a 3D model? What is the difference between an analog and a digital 3D model? How does 2D [technical sketching](../drawing/technical-sketching.md) relate to 3D modeling?
@@ -64,8 +64,7 @@ In 2022 Google demonstrated DreamFusion that created 3D models from text prompts
 <a href="https://whatmakeart.com/3d-modeling/attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4">
 <video width="100%" height="auto" autoplay loop>
   <source src="https://whatmakeart.com/3d-modeling/attachments/2022-09-29-google-dreamfusion-wipe_opposite_6x4_smoothstep.mp4" type="video/mp4">
- 
-Your browser does not support the video tag.
+  Your browser does not support the video tag.
 </video>
  </a>
 <figcaption>
@@ -79,7 +78,6 @@ Google's DreamFusion in 2022 [^dreamfusion]
 <a href="https://whatmakeart.com/3d-modeling/attachments/2023-05-03-openai-shape-e-demo-models.mp4">
 <video width="100%" height="auto" autoplay loop>
   <source src="https://whatmakeart.com/3d-modeling/attachments/2023-05-03-openai-shape-e-demo-models.mp4" type="video/mp4">
- 
 Your browser does not support the video tag.
 </video>
  </a>
