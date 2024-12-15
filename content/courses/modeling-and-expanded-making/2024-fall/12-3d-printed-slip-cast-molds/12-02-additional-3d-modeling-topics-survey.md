@@ -1,7 +1,7 @@
 ---
-title: 12.04 Additional 3D Modeling Topics Survey
+title: 12.02 Additional 3D Modeling Topics Survey
 date: 2024-11-06T09:00:00
-lastmod: 2024-12-15T07:52:45
+lastmod: 2024-12-15T08:02:07
 ---
 
 - 3 Axis CNC
