@@ -1,7 +1,7 @@
 ---
-title: 00.01 Experiments in Electronic Arts Syllabus
+title: 00.00 Experiments in Electronic Arts Syllabus
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-04T16:04:59
+lastmod: 2025-01-04T16:12:14
 ---
 
 ### Course Information

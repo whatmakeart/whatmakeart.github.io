@@ -1,7 +1,7 @@
 ---
-title: 00.01 Digital II Modeling and Fabrication Syllabus
+title: 00.00 Digital II Modeling and Fabrication Syllabus
 date: 2025-01-16T12:00:00Z
-lastmod: 2025-01-04T16:01:15
+lastmod: 2025-01-04T16:12:14
 ---
 
 ### Course Information
