@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2024-11-10T16:01:01
-lastmod: 2024-12-09T07:01:55
+lastmod: 2024-12-24T05:41:54
 ---
 
 What? Make Art is a repository of open access college art [course materials](./courses/_index.md), art making videos, tutorials and [art making faq's](./art-faq/_index.md). Tutorials cover a wide range of topics including making, electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
@@ -54,6 +54,7 @@ This is a conceptual work in progress exploring better ways to exchange informat
 - [Parsons Critical Computation](https://parsonsdt.github.io/critical-computation-2020/assignment/1.html)
 - [Very Interactive](https://veryinteractive.net/) - Laurel Schwulst's teaching website
 - [David Reiss - Townson University](https://www.davidreiss.com/academics.html)
+- [Julia Ebert's Docs](https://docs.juliaebert.com/)
 
 #### University of Washington Computer Science Courses
 
