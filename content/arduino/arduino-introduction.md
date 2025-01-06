@@ -1,14 +1,29 @@
 ---
 title: Arduino Introduction
 date: 2023-06-17T06:43:14
-lastmod: 2023-09-07T20:33:24
+lastmod: 2025-01-06T17:36:27
 ---
+
+<figure>
+
+[![Arduino Uno and a Breadboard](./attachments/2025-01-06-arduino-uno-and-breadboard.jpg)](./attachments/2025-01-06-arduino-uno-and-breadboard.jpg)
+
+<figcaption>
+
+An Arduino Uno and a breadboard for electronics prototyping
+
+</figcaption>
+
+</figure>
+
 Arduino is an open-source electronics platform. It consists of a physical programmable circuit board, often referred to as a microcontroller, and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.
 
-The Arduino microcontroller is a small, low-cost computer used in [physical-computing](../coding/physical-computing.md),  programming a computer to "interact" with the world around it. Arduino boards have a number of input and output pins, which can be used to connect to sensors, motors, and other electronic devices. The Arduino can be programmed to read inputs from these devices and control the outputs based on the inputs.
+The Arduino microcontroller is a small, low-cost computer used in [physical-computing](../coding/physical-computing.md), programming a computer to "interact" with the world around it. Arduino boards have a number of input and output pins, which can be used to connect to sensors, motors, and other electronic devices. The Arduino can be programmed to read inputs from these devices and control the outputs based on the inputs.
+
 ## Download and Install the Arduino IDE 2
 
 This [online guide](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-downloading-and-installing) on the Arduino website provides the Arduino Integrated Development Environment design specifically for working with the Arduino board. The new IDE 2 allows syncing sketches with the cloud. To use this feature, you will need to register for an Arduino account.
+
 ## What is a Breadboard?
 
 A breadboard allow simple and quick electrical connections between the Arduino and electronic components like resistors and LEDs. It is used for prototyping since the connections are temporary unlike soldered connections. Breadboards usually have two power rails running down the sides and then two rows of 4 connected pins for laying out components.

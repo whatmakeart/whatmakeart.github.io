@@ -1,6 +1,6 @@
 ---
 title: Electricity Basics
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-01-06T17:20:16
 date: 2024-11-10T16:01:02
 ---
 
@@ -26,6 +26,18 @@ Electricity doesn't just flow freely, it is slowed down by resistance. Your hand
 
 The following famous equation known as Ohm's Law calculates electricity current flow. The Current is the voltage, potential for flow, divided by the resistance in the circuit. The resistance measures how well or not well the current flows through the object. For example copper has low resistance while rubber has a high resistance.
 
-I = V/R
+I = V / R
 
 Current = Voltage / Resistance
+
+or
+
+V = I \* R
+
+Voltage = Current \* Resistance
+
+or
+
+R = V / I
+
+Resistance = Voltage / Current

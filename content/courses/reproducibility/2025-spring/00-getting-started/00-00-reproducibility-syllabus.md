@@ -1,14 +1,14 @@
 ---
 title: 00.00 Reproducibility Syllabus
 date: 2025-01-15T09:00:00
-lastmod: 2025-01-04T15:58:46
+lastmod: 2025-01-04T16:33:19
 ---
 
 ## Reproducibility Syllabus
 
 ### Course Information
 
-Course Number: VAT 202
+Course Number: VAT 202.01
 
 Department: Visual Arts
 
