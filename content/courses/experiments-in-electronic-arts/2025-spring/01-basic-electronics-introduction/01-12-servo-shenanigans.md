@@ -1,18 +1,17 @@
 ---
 title: 01.10 Servo Shenaigans
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-06T17:36:51
+lastmod: 2025-01-06T17:46:15
 ---
 
 ## Assignment Deliverables
 
-Upload a 5 second to 30 second video of your servo motor interacting with the environment.
-
-Label the file YYYYMMDD Lastname Firstname Servo Video.mp4
+1. Upload a 5 second to 30 second video of your servo motor interacting with the environment.
+   - Label the file YYYYMMDD Lastname Firstname Servo Video.mp4
 
 ## Process
 
-Servo motors can move in precise arcs differently than a free spinning motor like an electric drill. This control ability offers unique possibilities for projects.
+Review the [Arduino Servo Example](./01-08-arduino-servo.md).
 
 1. Attach your servo motor to the Arduino and upload the example sketch.
 2. Modify the parameters to change the behavior of the servo motor.
@@ -20,5 +19,3 @@ Servo motors can move in precise arcs differently than a free spinning motor lik
 4. Use your imagination and have fun.
 5. Take a brief video to show the servo shenanigans. You can use a mobile device for the video. Make sure there is good lighting, (daytime window or a couple desk lamps)
 6. Save the video as an mp4 and upload it.
-
-![Link to included file content](../../../../arduino/arduino-servo-example.md)

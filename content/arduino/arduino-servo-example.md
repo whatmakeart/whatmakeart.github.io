@@ -1,8 +1,10 @@
 ---
 title: Arduino Servo Example
 date: 2023-06-17T07:03:19
-lastmod: 2023-09-07T20:33:39
+lastmod: 2025-01-06T17:49:07
 ---
+
+Servo motors can move in precise arcs differently than a free spinning motor like an electric drill. This control ability offers unique possibilities for projects.
 
 ## Servo Example Circuit
 
@@ -29,9 +31,10 @@ The servo motor in this example has 3 wires.
 
 We will use the example Arduino Servo Sweep sketch by [BARRAGAN](http://barraganstudio.com). This code introduces a few new concepts that we will present briefly here but will investigate in more depth later in the semester.
 
-```
+```C
 
 #include <Servo.h>
+
 ```
 
 The line at the top is including a library that has commands and functions for the servo motor. By using this include line we have access to code to control the servo that we do not have to write ourselves.
@@ -129,6 +132,12 @@ The included [servo library](https://www.arduino.cc/reference/en/libraries/servo
 - `read()` - "Reads" the last value the `write()` function sent to the servo.
 - `attached()` - Check to see if an Arduino pin is being used by the servo.
 - `detach()` - Removes the servo from the Arduino pin.
+
+### Removing the `delay()`
+
+`dealy()` is blocking and prevents the code for doing anything else.
+
+## References
 
 [^1]: https://docs.arduino.cc/learn/electronics/servo-motors
 [^2]: https://www.arduino.cc/reference/en/libraries/servo/
