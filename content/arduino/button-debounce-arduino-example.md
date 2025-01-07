@@ -1,7 +1,7 @@
 ---
-title: Arduino Button Debounce
+title: Button Debounce Arduino Example
 date: 2023-06-17T10:29:39
-lastmod: 2023-09-07T20:33:02
+lastmod: 2025-01-07T04:24:32
 ---
 
 ## Button Too Fast?
@@ -115,5 +115,7 @@ void loop() {
   lastButtonState = reading;
 }
 ```
+
+## References
 
 [^1]: https://docs.arduino.cc/built-in-examples/digital/Debounce

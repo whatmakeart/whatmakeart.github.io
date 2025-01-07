@@ -1,7 +1,7 @@
 ---
 title: 01.10 Servo Shenaigans
 date: 2023-01-20T09:30:00Z
-lastmod: 2024-12-04T06:11:27
+lastmod: 2025-01-07T05:02:04
 ---
 
 ## Assignment Deliverables
@@ -21,4 +21,4 @@ Servo motors can move in precise arcs differently than a free spinning motor lik
 5. Take a brief video to show the servo shenanigans. You can use a mobile device for the video. Make sure there is good lighting, (daytime window or a couple desk lamps)
 6. Save the video as an mp4 and upload it.
 
-![Link to included file content](../../../../arduino/arduino-servo-example.md)
+![Link to included file content](../../../../arduino/servo-sweep-arduino-example.md)

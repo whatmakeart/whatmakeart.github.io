@@ -1,10 +1,14 @@
 ---
-title: Arduino Servo Example
+title: Servo Sweep with Arduino Example
 date: 2023-06-17T07:03:19
-lastmod: 2025-01-06T17:49:07
+lastmod: 2025-01-07T04:18:47
 ---
 
 Servo motors can move in precise arcs differently than a free spinning motor like an electric drill. This control ability offers unique possibilities for projects.
+
+The basic servo example circuits from Arduino show hooking the servo motor up directly to the Arduino pins for power. WHile this will work for the simple examples with the mini servos, it is not recommended since servo motors can draw a lot of current at peak times and damage the Arduino.
+
+The servo motor should be powered from an external power supply or a dedicated and separately powered servo control module.
 
 ## Servo Example Circuit
 

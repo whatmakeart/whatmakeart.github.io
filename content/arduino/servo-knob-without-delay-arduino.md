@@ -1,19 +1,22 @@
 ---
-title: Arduino Servo Knob Without Delay
+title: Servo Knob Without Delay - Arduino
 date: 2023-06-17T10:30:53
-lastmod: 2023-09-07T20:33:43
+lastmod: 2025-01-07T05:02:04
 ---
 
-We now have an [Arduino](arduino-introduction.md) with an LED that can blink without a `delay();` function and a button that works to debounce without `delay();` but the servo examples, sweep and knob, both use `delay();`. This section shows how to remove the delay from the knob example but could be applied to sweep as well.
+The first step to removing unecessary `delay();` from [Arduino](arduino-introduction.md) programs is to make a project with an LED that [can blink without a `delay();` function](./blink-led-without-delay-arduino.md). That example can be extended to add a button that works to debounce without `delay();`
+
+The servo examples from the Arduino documentation, [sweep](./servo-sweep-arduino-example.md) and [knob](./servo-knob-arduino.md), both use `delay();`. This section shows how to remove the delay from the knob example but could be applied to sweep as well by following the principles of [how to remove `delay();` from an Arduino sketch](./how-to-remove-delay-from-arduino-sketch.md) instructions.
 
 ## Wrap the Task in a Millisecond Timer
 
-This sketch simply takes the servo knob example from Arduino and wraps it inside the millisecond timer function from blink without delay. [^1] For simple functions and timers this will work for most sketches.
+This sketch simply takes the servo knob example from Arduino and wraps it inside the millisecond timer function from blink without delay. [^1] For simple functions and timers this will work to replace delay for most sketches.
 
-Now another separate task such as playing a sound, reading a sensor (like a button), flashing an LED can happen on their own timers.
+Now that the micro controller is not blocked by the `delay();` other separate tasks such as playing a sound, reading a sensor (like a button), flashing an LED can happen on their own timers.
+
 ## Servo Knob Without Delay Circuit
 
-[![Servo Know without Delay Circuit](attachments/2023-servo-knob-without-delay.png)](attachments/2023-servo-knob-without-delay.png)
+[![Servo Know without Delay Circuit](attachments/2025-servo-knob-without-delay.png)](attachments/2025-servo-knob-without-delay.png)
 
 ## Servo Know without Delay Sketch
 

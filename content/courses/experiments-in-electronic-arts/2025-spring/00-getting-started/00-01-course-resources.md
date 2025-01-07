@@ -1,7 +1,7 @@
 ---
 title: 00.02 Course Resources
 date: 2025-01-13T12:00:00Z
-lastmod: 2024-12-15T07:36:47
+lastmod: 2025-01-07T05:02:04
 ---
 
 ## Stuff to Read
@@ -12,27 +12,13 @@ lastmod: 2024-12-15T07:36:47
 - [Hi Fructose](https://hifructose.com/)
 - [Creative Applications](https://www.creativeapplications.net/)
 
-## Places to Shop
-
-- [Sparkfun](https://www.sparkfun.com/)
-- [Adafruit](https://www.adafruit.com/)
-- [DigiKey](https://www.digikey.com/)
-- [Mouser](https://www.mouser.com/)
-- [RS Americas](https://us.rs-online.com/)
-- [McMaster-Carr](https://www.mcmaster.com/)
-- [Superbright LEDs](https://www.superbrightleds.com/)
-- [Automation Direct](https://www.automationdirect.com/adc/home/home)
-- [AliExpress](https://www.aliexpress.us/?gatewayAdapt=glo2usa&_randl_shipto=US)
-- [Electro Mage](https://shop.electromage.com/)
-
-### Mail Order Custom PCBs
-
-- [PCBWay](https://www.pcbway.com/)
-- [Jlcpcb](https://jlcpcb.com/)
+![Link to included file content](../../../../electronics/where-to-source-electronics-components.md)
 
 ## Programming for Artists
 
 - [Tinkercad - Circuits](https://www.tinkercad.com/circuits) - Visual electronics experimentation in a web browser for testing and writing code with visual coding blocks.
+- [Makecode from Microsoft](https://maker.makecode.com/#) - Visual coding and electronics simulator
+- [Wokwi](https://wokwi.com/) - Super fast Arduino and ESP32 code and circuit simulator
 - [Piper Make](https://make.playpiper.com/) - Visual Programming for the Raspberry Pi
 - [PureData](https://puredata.info/) - Visual programming without any code
 - [Processing](https://processing.org/) - "Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping."

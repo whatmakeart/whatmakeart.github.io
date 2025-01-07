@@ -1,7 +1,7 @@
 ---
-title: Arduino Blink Without Delay
+title: Blink Without Delay - Arduino
 date: 2023-06-17T10:28:31
-lastmod: 2023-09-07T20:32:55
+lastmod: 2025-01-07T05:02:04
 ---
 
 ## What is Wrong with `delay();`?

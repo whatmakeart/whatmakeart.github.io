@@ -1,7 +1,7 @@
 ---
-title: Arduino Potentiometer Servo
+title: Servo Knob Arduino
 date: 2023-06-17T10:27:29
-lastmod: 2023-09-07T20:33:34
+lastmod: 2025-01-07T05:02:04
 ---
 
 ## Do Something with the Input
@@ -14,7 +14,7 @@ This circuit is similar to the sweep servo example but adds a potentiometer to c
 
 <figure>
 
-[![Servo Knob Circuit Example](./attachments/2023-servo-knob-circuit-from-arduino-docs.png)](./attachments/2023-servo-knob-circuit-from-arduino-docs.png)
+[![Servo Knob Circuit Example](./attachments/2025-servo-knob-circuit-from-arduino-docs.png)](./attachments/2025-servo-knob-circuit-from-arduino-docs.png)
 
 <figcaption>
 
