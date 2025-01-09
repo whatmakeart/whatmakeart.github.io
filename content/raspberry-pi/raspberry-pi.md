@@ -1,13 +1,13 @@
 ---
 title: Raspberry Pi
 date: 2023-05-23T21:59:41
-lastmod: 2024-09-19T15:18:36
+lastmod: 2025-01-09T07:13:26
 
 aliases:
   - Raspberry Pi
 ---
 
-A Raspberry Pi is a single board computer that is often used for low power on-site computing applications. It is also used for [Physical-Computing](../coding/physical-computing.md) and art installations as well as industrial applications. It has more processing power that the [Arduino](../arduino/arduino-introduction.md) microcontroller
+A Raspberry Pi is a single board computer that is often used for low power on-site computing applications. It is also used for [Physical-Computing](../electronics/physical-computing.md) and art installations as well as industrial applications. It has more processing power that the [Arduino](../arduino/arduino-introduction.md) microcontroller
 
 ## Raspberry Pi Tutorials
 

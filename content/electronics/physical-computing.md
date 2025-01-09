@@ -1,7 +1,7 @@
 ---
 title: Physical Computing
 date: 2023-05-23T21:59:41
-lastmod: 2023-10-23T05:59:34
+lastmod: 2025-01-09T07:13:26
 ---
 
 Physical computing is the field of study and practice that combines computer science with electronics and mechanics to create interactive systems that can sense and respond to the physical world. It is also known as embedded systems design, interactive electronics, or DIY electronics.
@@ -17,7 +17,7 @@ Physical computing projects are typically programmed using a variety of software
 - Wire crimping connections
 - Heat shrink tape
 - Fuses
-- Wire gauge [electrical wire basics](../electronics/electrical-wire-basics.md)
+- Wire gauge [electrical wire basics](./electrical-wire-basics.md)
 - Stranded vs solid
 - Solder vs crimped
 

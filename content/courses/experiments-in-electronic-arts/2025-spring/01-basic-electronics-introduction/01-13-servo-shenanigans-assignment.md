@@ -1,7 +1,7 @@
 ---
-title: 01.10 Servo Shenaigans
+title: 01.13 Servo Shenaigans Assignment
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-06T17:46:15
+lastmod: 2025-01-09T07:14:45
 ---
 
 ## Assignment Deliverables

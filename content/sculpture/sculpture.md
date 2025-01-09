@@ -1,7 +1,7 @@
 ---
 title: Sculpture
 date: 2023-05-23T21:59:41
-lastmod: 2024-12-05T16:49:20
+lastmod: 2025-01-09T07:13:26
 ---
 
 In the past sculpture was limited to using a few materials such as stone, clay, metal and focused on representational depiction. Now sculpture has expanded to encompass all forms of making ranging from previously used stone and clay to electronics, welding, organic foods, fur, glass, performance, [Video](../video/video.md), computers, and Virtual Reality. Other than focusing on 3D dimensional space versus the 2D concerns of drawing, painting, and [Photography](../photography/photography.md) there are no real limits or boundaries for sculpture. This was famously described by Rosalind Krauss in the 1979 _October_ article "Sculpture in the Expanded Field". [^1] The wide array of materials and processes available to a sculptor is great because it allows any concept and idea to be realized. This wide field of possibilities is also a burden because so many techniques and ways of making must be learned in order to successfully realize different ideas.
@@ -32,7 +32,7 @@ Sculptural [art installations](art-installations.md) can be site-specific or non
 
 ### Interactive Sculpture
 
-Some sculptures or art installations become more alive or complete once an audience engages withe the art. This audience interaction can be as simple as being in the same spaces, the artwork can be as complex as a computer vision driven people tracking device using [Physical-Computing](../coding/physical-computing.md).
+Some sculptures or art installations become more alive or complete once an audience engages withe the art. This audience interaction can be as simple as being in the same spaces, the artwork can be as complex as a computer vision driven people tracking device using [Physical-Computing](../electronics/physical-computing.md).
 
 ### Representational Sculpture
 
@@ -90,7 +90,7 @@ Generally it is a good idea to start with [Sketching](../drawing/sketching.md) o
 - Crochet
 - [Armatures](../sculpture/armature.md)
 - Skinning
-- [Physical-Computing](../coding/physical-computing.md)
+- [Physical-Computing](../electronics/physical-computing.md)
 
 #### Ways of Making Objects
 

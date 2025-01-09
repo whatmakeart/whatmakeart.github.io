@@ -1,8 +1,8 @@
 ---
-title: 01.09 Project Proposals
+title: 01.12 Project Proposals Assignment
 date: 2025-01-13T12:00:00Z
 
-lastmod: 2025-01-06T17:49:17
+lastmod: 2025-01-09T07:14:45
 ---
 
 ## Assignment Deliverables

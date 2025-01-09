@@ -1,7 +1,7 @@
 ---
 title: Arduino Introduction
 date: 2023-06-17T06:43:14
-lastmod: 2025-01-07T05:02:04
+lastmod: 2025-01-09T07:13:26
 ---
 
 <figure>
@@ -18,7 +18,7 @@ An Arduino Uno and a breadboard for electronics prototyping
 
 Arduino is an open-source electronics platform. It consists of a physical programmable circuit board, often referred to as a microcontroller, and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.
 
-The Arduino microcontroller is a small, low-cost computer used in [physical-computing](../coding/physical-computing.md), programming a computer to "interact" with the world around it. Arduino boards have a number of input and output pins, which can be used to connect to sensors, motors, and other electronic devices. The Arduino can be programmed to read inputs from these devices and control the outputs based on the inputs.
+The Arduino microcontroller is a small, low-cost computer used in [physical-computing](../electronics/physical-computing.md), programming a computer to "interact" with the world around it. Arduino boards have a number of input and output pins, which can be used to connect to sensors, motors, and other electronic devices. The Arduino can be programmed to read inputs from these devices and control the outputs based on the inputs.
 
 ## Download and Install the Arduino IDE 2
 
