@@ -1,7 +1,7 @@
 ---
 title: Servo Sweep with Arduino Example
 date: 2023-06-17T07:03:19
-lastmod: 2025-01-09T07:03:20
+lastmod: 2025-01-09T12:07:10
 ---
 
 Servo motors can move in precise arcs differently than a free spinning motor like an electric drill. This control ability offers unique possibilities for projects.
@@ -14,11 +14,11 @@ The servo motor should be powered from an external power supply or a dedicated a
 
 <figure>
 
-[![Servo Motor Wiring](./attachments/2023-servo-sweep-circuit.png)](./attachments/2023-servo-sweep-circuit.png)
+[![Servo Motor Sweep Wiring](./attachments/2025-servo-sweep-circuit.png)](./attachments/2025-servo-sweep-circuit.png)
 
 <figcaption>
 
-[The Sweep Circuit](https://docs.arduino.cc/learn/electronics/servo-motors) by [Arduino](https://www.arduino.cc/) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) [^1]
+Servo hooked up to Arduino with power supply based on [the Sweep Circuit](https://docs.arduino.cc/learn/electronics/servo-motors) by [Arduino](https://www.arduino.cc/)
 
 </figcaption>
 </figure>
@@ -28,8 +28,9 @@ The servo motor should be powered from an external power supply or a dedicated a
 The servo motor in this example has 3 wires.
 
 - The yellow wire is the control wire. This goes to pin 9 on the Arduino.
-- The red wire is the + wire and it goes to the positive rail on the breadboard or to 5V on the Arduino.
-- The brown wire is the - wire and it goes to the negative rail on the breadboard or to GND on the Arduino.
+- The red wire is the + wire and it goes to the positive rail on the breadboard that is supplied by the external power supply.
+- The brown wire is the - wire and it goes to the negative rail on the breadboard that is supplied by the external power supply.
+- The GND pin of the Arduino needs to be connected to the - rail of the breadboard to be tied together.
 
 ## Servo Sweep Example Sketch
 
