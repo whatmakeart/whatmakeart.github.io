@@ -1,6 +1,6 @@
 ---
 title: Electricity Basics
-lastmod: 2025-01-06T17:20:16
+lastmod: 2025-01-10T07:07:07
 date: 2024-11-10T16:01:02
 ---
 
@@ -26,18 +26,43 @@ Electricity doesn't just flow freely, it is slowed down by resistance. Your hand
 
 The following famous equation known as Ohm's Law calculates electricity current flow. The Current is the voltage, potential for flow, divided by the resistance in the circuit. The resistance measures how well or not well the current flows through the object. For example copper has low resistance while rubber has a high resistance.
 
-I = V / R
+<div class="responsive-table-markdown">
 
-Current = Voltage / Resistance
+| Unknown Value  | Equation   | Equation Description            |
+| -------------- | ---------- | ------------------------------- |
+| Current (I)    | I = V / R  | Current = Voltage / Resistance  |
+| Voltage (V)    | V = I \* R | Voltage = Current \* Resistance |
+| Resistance (R) | R = V / I  | Resistance = Voltage / Current  |
 
-or
+</div>
 
-V = I \* R
+What does this mean in practice? Consider a couple extreme examples.
 
-Voltage = Current \* Resistance
+<div class="gallery-grid">
+<figure>
 
-or
+[![Battery circuit with infinite resistance](./attachments/2025-01-10-battery-infinite-resistance-whatmakeart.png)](./attachments/2025-01-10-battery-infinite-resistance-whatmakeart.png)
 
-R = V / I
+<figcaption>
 
-Resistance = Voltage / Current
+Battery with the near infinite resistance of the surrounding air
+
+</figcaption>
+</figure>
+<figure>
+
+[![Battery circuit with infinite current](./attachments/2025-01-10-battery-infinite-current-whatmakeart.png)](./attachments/2025-01-10-battery-infinite-current-whatmakeart.png)
+
+<figcaption>
+
+Battery with near infinite current due to a wired short circuit condition
+
+</figcaption>
+</figure>
+</div>
+
+If you have a charged battery that is not connected to anything, then it has the voltage potential written on its label, often 1.5 volts. What about the resistance? The resistance is nearly infinite since electrical current does not efficiently travel through the air. That means we can now calculate the Current (I) as I = 1.5v / ∞ and therefore the current (I) is zero. You already intuitively knew the current of the unconnected battery was zero but it is neat to see how Ohm's law can derive the answer and matched observed reality.
+
+Conversely, if you take the same charged battery and connect the + and - ends of the battery with a highly conductive (low resistance) copper wire, then you practically lower the resistance to 0. Since the voltage is still 1.5 volts, we can now calculate the Current (I) as I = 1.5v /0 and therefore the current (I) is ∞ at least until the battery drains or the wire melts.
+
+## References
