@@ -1,6 +1,6 @@
 ---
 title: Electricity Basics
-lastmod: 2025-01-10T07:07:07
+lastmod: 2025-01-11T06:01:32
 date: 2024-11-10T16:01:02
 ---
 
@@ -36,7 +36,7 @@ The following famous equation known as Ohm's Law calculates electricity current 
 
 </div>
 
-What does this mean in practice? Consider a couple extreme examples.
+What does this mean in practice? Consider a couple extreme examples. [^petzold-1]
 
 <div class="gallery-grid">
 <figure>
@@ -66,3 +66,5 @@ If you have a charged battery that is not connected to anything, then it has the
 Conversely, if you take the same charged battery and connect the + and - ends of the battery with a highly conductive (low resistance) copper wire, then you practically lower the resistance to 0. Since the voltage is still 1.5 volts, we can now calculate the Current (I) as I = 1.5v /0 and therefore the current (I) is ∞ at least until the battery drains or the wire melts.
 
 ## References
+
+[^petzold-1]: Petzold, CHarles. _Code: The Hidden Language of Computers._ p29-30.

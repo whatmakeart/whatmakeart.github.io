@@ -1,7 +1,7 @@
 ---
 title: Arduino Introduction
 date: 2023-06-17T06:43:14
-lastmod: 2025-01-09T07:13:26
+lastmod: 2025-01-11T05:55:34
 ---
 
 <figure>
@@ -25,10 +25,6 @@ The Arduino microcontroller is a small, low-cost computer used in [physical-comp
 This [online guide](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-downloading-and-installing) on the Arduino website provides the Arduino Integrated Development Environment design specifically for working with the Arduino board. The new IDE 2 allows syncing sketches with the cloud. To use this feature, you will need to register for an Arduino account.
 
 ## Arduino Code and Circuit Simulators
-
-## What is a Breadboard?
-
-A breadboard allow simple and quick electrical connections between the Arduino and electronic components like resistors and LEDs. It is used for prototyping since the connections are temporary unlike soldered connections. Breadboards usually have two power rails running down the sides and then two rows of 4 connected pins for laying out components.
 
 ## Arduino References
 

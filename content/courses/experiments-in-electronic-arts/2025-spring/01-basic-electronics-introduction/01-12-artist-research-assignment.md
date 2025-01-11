@@ -1,7 +1,7 @@
 ---
-title: 01.11 Artist Research Assignment
+title: 01.12 Artist Research Assignment
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-09T07:14:45
+lastmod: 2025-01-11T11:20:05
 ---
 
 ## Assignment Deliverables
