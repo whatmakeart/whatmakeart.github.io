@@ -1,7 +1,7 @@
 ---
-title: 01.09 - Basic Coding Concepts
+title: 01.10 - Basic Coding Concepts
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-11T11:20:05
+lastmod: 2025-01-12T05:23:51
 toc: true
 ---
 
@@ -10,6 +10,7 @@ toc: true
 - Math Operators
 - Conditional Statements
 - Comparative Operators
+- Loops
 - Arrays
 - Objects
 - Classes

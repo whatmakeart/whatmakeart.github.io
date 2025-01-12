@@ -1,6 +1,6 @@
 ---
 title: Electricity Basics
-lastmod: 2025-01-11T06:01:32
+lastmod: 2025-01-12T05:22:14
 date: 2024-11-10T16:01:02
 ---
 
@@ -12,15 +12,25 @@ Two common types of electrical circuits are AC, alternating current, and DC, dir
 
 ## Measuring Electricity
 
-Voltage can be thought of as the potential for electrical flow. The higher the voltage, the higher the energy in the electrons. In order for electricity to flow there needs to be a voltage difference, often referred to as a gradient. The same is true for water. If water is spread out on a flat surface it has no gradient or difference so it stays put. If you collect the same water in a cup and then tip the cup there is a difference in water pressure and the water flows out of the cup until all the differences in water pressure even out and a flat puddle is left on the floor.
+Multiple units and concepts are used to measure electricity. The major units are Ohms, Amps, Watts, and Volts.
 
-Electricity voltage potentials or gradients work in a similar way. For example if you rub you hands on a carpet a voltage potential in relation to a metal door knob not touching the carpet is created. When you touch the door knob and feel a static electricity shock the voltage potential or difference between your hand and the door knob is equalled out. The spark can be thought of as the light in a light bulb or the work of motor. One there is no remaining voltage potential then current can't flow. If you're hand was a cell phone battery it would now be out of juice and no current would flow to the phone to use that sweet, sweet internet.
+### Volts
+
+Voltage can be thought of as the potential for electrical flow. The higher the voltage, the higher the energy in the electrons. In order for electricity to flow there needs to be a voltage difference, often referred to as a gradient. The same is true for water. If water is spread out on a flat surface it has no gradient or difference so it stays put. If you collect the same water in a cup and then tip the cup, then there is a difference in water pressure and the water flows out of the cup until all the differences in water pressure even out and a flat puddle is left on the floor.
+
+Electricity voltage potentials or gradients work in a similar way. For example, if you rub you hands on a carpet a voltage potential in relation to a metal door knob not touching the carpet is created. When you touch the door knob and feel a static electricity shock the voltage potential or difference between your hand and the door knob is equalled out. The spark can be thought of as the light in a light bulb or the current supplied to a motor. Once there is no remaining voltage potential then current can't flow. If you're hand was a cell phone battery it would now be out of juice and no current would flow to the phone to use that sweet, sweet internet.
 
 The phone needs to be charged to keep working and the power plant needs to be "charged" to keep sending electricity to the wall receptacle to charge the phone. Fuel or an energy source is converted to a voltage potential at the power plant to keep everything going. If a higher voltage potential isn't created then there won't be any current flow and we will just have electricity "puddles" on the ground and now more cat videos.
 
-Current can flow through solids or liquids. Liquids need something to transfer the electron for current to flow. Your body uses electric current flow to stay alive and you need salts and electrolytes to function properly. This is also why you shouldn't dry your hair I'm the shower, for multiple reasons.
+### Amps
 
-Electricity doesn't just flow freely, it is slowed down by resistance. Your hand and the door knob has resistance. Metal wires generally have low resistance so current flows well through wires. As a general rule, a thinner wire has more resistance than a thick wire, and a longer wire has more resistance than a shorter wire
+Volts just measure the potential for current to flow. Amps measure the rate of the flow of current in a circuit.
+
+Current can flow through solids or impure liquids. Liquids need something to transfer the electrons for current to flow such as ions. Your body uses electric current flow to stay alive and you need salts and electrolytes to function properly. This is also why you shouldn't dry your hair in the shower, for multiple reasons.
+
+### Ohms
+
+Electricity doesn't just flow freely, it is slowed down by resistance. Ohms measure the resistance of an object to the flow of electrons. Your hand and the door knob has resistance. Metal wires generally have low resistance so current flows well through wires. As a general rule, a thinner wire has more resistance than a thick wire, and a longer wire has more resistance than a shorter wire
 
 ### Ohm's Law
 
@@ -65,6 +75,27 @@ If you have a charged battery that is not connected to anything, then it has the
 
 Conversely, if you take the same charged battery and connect the + and - ends of the battery with a highly conductive (low resistance) copper wire, then you practically lower the resistance to 0. Since the voltage is still 1.5 volts, we can now calculate the Current (I) as I = 1.5v /0 and therefore the current (I) is ∞ at least until the battery drains or the wire melts.
 
+## What About Watts?
+
+Watts is a unit that measures power used over a certain period of time.
+
+The formula for Watts is P = V \* I or Power (P) = Volts (V) x Current (I)
+
+<div class="gallery-grid">
+
+<figure>
+
+[![Ohms and Watts Formula Circle](./attachments/2025-01-11-ohms-watts-circle-whatmakeart.png)](./attachments/2025-01-11-ohms-watts-circle-whatmakeart.png)
+
+<figcaption>
+
+Visual depiction of the relationship between Ohms, Volts, Amps and Watts
+
+</figcaption>
+
+</figure>
+
+</div>
 ## References
 
-[^petzold-1]: Petzold, CHarles. _Code: The Hidden Language of Computers._ p29-30.
+[^petzold-1]: Petzold, Charles. _Code: The Hidden Language of Computers._ Microsoft Press. 2000. pp. 29-30.
