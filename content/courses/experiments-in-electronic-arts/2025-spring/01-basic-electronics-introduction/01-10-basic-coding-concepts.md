@@ -1,7 +1,7 @@
 ---
 title: 01.10 - Basic Coding Concepts
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-12T05:23:51
+lastmod: 2025-01-12T12:08:12
 toc: true
 ---
 
