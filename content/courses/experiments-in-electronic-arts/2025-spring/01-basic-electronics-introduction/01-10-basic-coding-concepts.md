@@ -1,16 +1,8 @@
 ---
 title: 01.10 - Basic Coding Concepts
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-12T12:08:12
+lastmod: 2025-01-13T04:47:42
 toc: true
 ---
 
-- Variables
-- Functions
-- Math Operators
-- Conditional Statements
-- Comparative Operators
-- Loops
-- Arrays
-- Objects
-- Classes
+![Link to included file content](../../../../coding/basic-coding-concepts.md)

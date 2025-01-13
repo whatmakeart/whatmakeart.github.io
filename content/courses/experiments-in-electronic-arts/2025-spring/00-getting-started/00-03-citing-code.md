@@ -1,7 +1,7 @@
 ---
-title: 00.06 Citing Code
-date: 2024-01-19T09:30:00Z
-lastmod: 2025-01-13T04:52:03
+title: 00.03 Citing Code
+date: 2025-01-13T12:00:00Z
+lastmod: 2025-01-13T05:03:23
 toc: true
 ---
 
