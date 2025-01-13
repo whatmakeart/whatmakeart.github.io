@@ -1,7 +1,7 @@
 ---
 title: 01.00 - Introduction
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-06T17:36:51
+lastmod: 2025-01-13T07:38:17
 ---
 
 ## Overview
@@ -16,6 +16,8 @@ This module introduces electricity, electronics, circuits, safety, LEDs, resisto
 - Wire up an LED to an Arduino with a breadboard and a resistor
 - Upload a sketch to the Arduino to blink an LED
 - Modify a sketch to change the blink rate of the LED
+- Hook up a servo motor with external power and a capacitor
+- Control the motion of a servo motor
 
 ## Keywords / Terms
 
