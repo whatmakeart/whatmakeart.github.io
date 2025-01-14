@@ -1,7 +1,7 @@
 ---
 title: 00.02 Course Resources
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-13T05:01:35
+lastmod: 2025-01-14T05:26:46
 ---
 
 ## Stuff to Read
@@ -11,6 +11,7 @@ lastmod: 2025-01-13T05:01:35
 - [Rhizome](https://rhizome.org/)
 - [Hi Fructose](https://hifructose.com/)
 - [Creative Applications](https://www.creativeapplications.net/)
+- [Scan Lime](https://scanlime.org/)
 
 ![Link to included file content](../../../../electronics/where-to-source-electronics-components.md)
 

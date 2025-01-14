@@ -1,6 +1,6 @@
 ---
 title: Electronic Arts Artists and Projects
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-01-14T05:32:31
 date: 2024-11-10T16:01:02
 ---
 
@@ -8,19 +8,26 @@ date: 2024-11-10T16:01:02
 
 - [Adam Cole](https://linktr.ee/adamcole.studio)
 - [Anne Mariemaes](https://annemariemaes.net/home/)
-- [anne-f jacques](https://anne-fff.tumblr.com/)
+- [Anouk Wipprecht FashionTech](https://www.anoukwipprecht.nl/#intro-1)
 - [Audio Pixel](https://audiopixel.com/)
+- [Becky Stern](https://beckystern.com/)
 - [Behnaz Farahi](https://behnazfarahi.com/)
+- [Breakfast Studio](https://breakfaststudio.com/)
+- [Caitlin Morris](http://www.caitlinmorris.net/)
 - [Daniel Simu](https://danielsimu.com/acrobotics/)
+- [Darsha Hewitt](http://www.darsha.org/artwork/)
 - [Devicist](https://www.devicist.com/)
 - [Elise Migraine](https://www.instagram.com/elisemigraine/?hl=en)
 - [Engineered Artworks](https://www.engineeredartworks.com/)
 - [Jacob Tonski](https://jacobtonski.com/)
 - [Jasna Dimitrovska](https://digitalmedia-bremen.de/project/three-machines-on-transparency/)
+- [Kaho Abe](http://kahoabe.net/)
+- [Keri Elmsly](http://cargocollective.com/elmsly)
+- [Leah Buechley](http://leahbuechley.com/)
 - [Liebl & Schmid-Pfähler](https://radiate.fish/)
 - [Marc de Pape](https://www.marcdepape.com/)
-- [mo H. zareei](https://millihertz.net/)
 - [Monica Cook](https://www.monicacook.com/)
+- [Mouna Andraos & Melissa Mongiat](http://dailytouslesjours.com/)
 - [Neil Mendoza](https://www.neilmendoza.com/)
 - [Nelo Akamatsu](http://www.neloakamatsu.jp/chijikinkutsu-eng.html)
 - [Niklas Roy](https://niklasroy.com/deflektron/)
@@ -34,15 +41,26 @@ date: 2024-11-10T16:01:02
 - [Siebren Versteeg](http://www.siebrenversteeg.com/)
 - [Thibault Brevet](https://www.thibault.io/)
 - [Tobias Bradford](https://www.tobiasbradford.com/)
+- [Ultravioletto](https://ultraviolet.to/)
 - [Verena Friedrich](http://heavythinking.org/)
 - [Zimooun](https://www.zimoun.net/)
-- [Ultravioletto](https://ultraviolet.to/)
+- [anne-f jacques](https://anne-fff.tumblr.com/)
+- [mo H. zareei](https://millihertz.net/)
 
-</div- >
+  </div>
 
 There is an embedded video of an example of each artist's work. Each artist makes so much more work than one example so their name links to their website. Make sure to watch the videos and then click on the name of the artist to see more of their work.
 
 <div class="video-grid">
+
+<div class="video-card">
+
+### Flip-Disc Kinetic Art — Jumeirah Tide
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/iNiFSnoJQU7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="video-card">
 
@@ -330,6 +348,15 @@ There is an embedded video of an example of each artist's work. Each artist make
 
 <div class="iframe-16-9-container">
 <iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/811853461?h=0861f278eb" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### This PS4 Controller is a Music Sequencer (Secret Santa 2024)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/CRdxB8WJUWU?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 

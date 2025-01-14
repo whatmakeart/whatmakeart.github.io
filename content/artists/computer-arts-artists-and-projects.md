@@ -1,12 +1,10 @@
 ---
 title: Computer Arts Artists and Projects
 date: 2024-01-19T09:30:00Z
-lastmod: 2025-01-13T04:50:09
+lastmod: 2025-01-14T05:29:51
 ---
 
 Below are artists who have made work involving computers, code, technology, generative art, new media, algorithms, and an entire cosmic bucket full of nearly innumerable genres, techniques, types of creative output. Peruse the list, go down glow in the dark rabbit holes, pick artists at random, take notes, save images, be inspired. It is important to not work in a "studio silo" without knowing what others are doing in the field.
-
-If you come across artists not on the list that you think should be, let me know an I will add them.
 
 ## Reference Artists
 
@@ -214,6 +212,7 @@ This list was originally compiled by [Golan Levin](http://www.flong.com/) and is
 
 <div class="list-no-style">
 
+- [Jen Lewin](https://www.jenlewinstudio.com/)
 - [Amanda Ghassei](http://www.amandaghassaei.com/), innovative creator of tangible/computational media
 - [Anouk Wipprecht](http://www.anoukwipprecht.nl/), computational/speculative coutour designer
 - [Ayah Bdeir](http://ayahbdeir.com/), designer/entrepreneur, creator of LittleBits
