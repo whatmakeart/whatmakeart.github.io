@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus
 date: 2025-01-16T12:00:00Z
-lastmod: 2025-01-04T16:12:14
+lastmod: 2025-01-14T06:35:55
 ---
 
 ### Course Information
@@ -131,25 +131,25 @@ The following materials are not required for the course but may be useful to you
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**    | **Topic**                        |
-| -------- | ----------- | -------------------------------- |
-| 1        | January 16  | Introduction                     |
-| 2        | January 23  | Lecture / Workshop / Studio Work |
-| 3        | January 30  | Lecture / Workshop / Studio Work |
-| 4        | February 6  | Project 1 Crit                   |
-| 5        | February 13 | Lecture / Workshop / Studio Work |
-| 6        | February 20 | Lecture / Workshop / Studio Work |
-| 7        | February 27 | Project 2 Crit                   |
-| 8        | March 6     | Lecture / Workshop / Studio Work |
-| 9        | March 13    | **No Class Spring Break**        |
-| 10       | March 20    | Lecture / Workshop / Studio Work |
-| 11       | March 27    | Lecture / Workshop / Studio Work |
-| 12       | April 3     | Project 3 Crit                   |
-| 13       | April 10    | Lecture / Workshop / Studio Work |
-| 14       | April 17    | Lecture / Workshop / Studio Work |
-| 15       | April 24    | Lecture / Workshop / Studio Work |
-| 16       | May 1       | Final Crits                      |
-| 17       | May 5 - 9   | BFA Reviews and Exhibitions      |
+| **Week** | **Date**    | **Topic**                                 |
+| -------- | ----------- | ----------------------------------------- |
+| 1        | January 16  | Introduction                              |
+| 2        | January 23  | Lecture / Workshop / Studio Work          |
+| 3        | January 30  | Lecture / Workshop / Studio Work          |
+| 4        | February 6  | Project 1 Crit                            |
+| 5        | February 13 | Lecture / Workshop / Studio Work          |
+| 6        | February 20 | Lecture / Workshop / Studio Work          |
+| 7        | February 27 | Project 2 Crit                            |
+| 8        | March 6     | Lecture / Workshop / Studio Work          |
+| 9        | March 13    | **No Class Spring Break**                 |
+| 10       | March 20    | Lecture / Workshop / Studio Work          |
+| 11       | March 27    | Lecture / Workshop / Studio Work          |
+| 12       | April 3     | Project 3 Crit                            |
+| 13       | April 10    | Lecture / Workshop / Studio Work          |
+| 14       | April 17    | Line Project Due for April 22 Spring Show |
+| 15       | April 24    | Lecture / Workshop / Studio Work          |
+| 16       | May 1       | Final Crits                               |
+| 17       | May 5 - 9   | BFA Reviews and Exhibitions               |
 
 </div>
 

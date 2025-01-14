@@ -1,7 +1,7 @@
 ---
 title: 01.03 Technical Sketching Assignment
 date: 2025-01-16T12:00:00Z
-lastmod: 2024-12-14T07:29:34
+lastmod: 2025-01-14T17:14:09
 ---
 
 ## Assignment Deliverables
@@ -14,8 +14,6 @@ You will upload three separate, scanned, and labeled JPEGs, PNGs, or PDFs of the
     - Label the scanned image as: YYYYMMDD Lastname Firstname freehand isometric cube and circles.jpg
 3.  Isometric Cube with three isometric circles drawn with T-Square and Compass
     - Label the scanned image as: YYYYMMDD Lastname Firstname isometric cube and circles t-square and compass.jpg
-
----
 
 ## Assignment Instructions
 
