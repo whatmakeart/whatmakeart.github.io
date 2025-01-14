@@ -1,18 +1,17 @@
 ---
 title: 01.12 - Artist Research Assignment
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-13T05:20:14
+lastmod: 2025-01-14T17:40:17
 ---
 
 ## Assignment Deliverables
 
-Upload a 3-9 slide presentation.
-
-Label the presentation YYYYMMDD Lastname Firstname Artist Research.pptx
+1. Upload a 3-6 slide presentation.
+   - Label the presentation YYYYMMDD Lastname Firstname Artist Research.pptx
 
 ## Process
 
-Review the list of reference artists in the previous module. Take notes and make a list of things that you find interesting. Also make a list of things you didn't like. In both cases briefly elaborate on your reasons. Go through all the artists to see a wide variety of work. Some you will be more engaged with than others.
+Review the [list of reference artists](./01-11-electronic-arts-artists-and-projects.md) in the previous module. Take notes and make a list of things that you find interesting. Also make a list of things you didn't like. In both cases briefly elaborate on your reasons. Go through all the artists to see a wide variety of work. Some you will be more engaged with than others.
 
 Part of the challenge of learning new media and techniques is deciding what to do. It is difficult because you may not be aware of what can be done so can't imagine it. Use these reference artists as inspiration and information on possibilities that can be accomplished with electronic art.
 

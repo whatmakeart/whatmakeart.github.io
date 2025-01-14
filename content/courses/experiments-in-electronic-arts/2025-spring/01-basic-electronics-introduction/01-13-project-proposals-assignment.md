@@ -1,16 +1,14 @@
 ---
 title: 01.13 - Project Proposals Assignment
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-13T05:20:14
+lastmod: 2025-01-14T17:40:39
 ---
 
 ## Assignment Deliverables
 
-Upload scanned sketches and writing about 3 different project ideas.
-
-Label files in sequence YYYYMMDD Lastname Firstname project idea 1.jpg
-
-You may also compile all the information into a single PDF.
+1. Upload scanned sketches and writing about 3 different project ideas.
+   - Label files in sequence YYYYMMDD Lastname Firstname project idea 1.jpg
+   - You may also compile all the information into a single PDF.
 
 ## Description
 

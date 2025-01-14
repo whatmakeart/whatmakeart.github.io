@@ -1,7 +1,7 @@
 ---
 title: 00.00 Experiments in Electronic Arts Syllabus
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-04T16:12:14
+lastmod: 2025-01-14T17:41:04
 ---
 
 ### Course Information
@@ -61,7 +61,7 @@ You’re required to contribute to all critiques, even if your own project is no
 
 ## Late Work
 
-Projects must be turned in on time. On time is before the beginning of class on the day that they are due or other time as specified by the instructor. Late projects will automatically drop 2% per day late.
+Projects must be turned in on time. On time is before the beginning of class on the day that they are due or other time as specified by the instructor. Late projects will automatically drop 1% per day late up to a maximum total reduction of 40% per assignment.
 
 ## Documentation
 
