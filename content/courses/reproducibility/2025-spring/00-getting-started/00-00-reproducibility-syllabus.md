@@ -1,7 +1,7 @@
 ---
 title: 00.00 Reproducibility Syllabus
 date: 2025-01-15T09:00:00
-lastmod: 2025-01-04T16:33:19
+lastmod: 2025-01-15T06:16:34
 ---
 
 ## Reproducibility Syllabus
@@ -56,6 +56,21 @@ Through demonstrations of technical processes, lectures supplemented by works fr
    - At an intermediate level, create conceptually and materially resolved projects informed by experiments with materials and processes
    - Demonstrate the evolution of their critical decision-making process and exploration through the thoughtful display of projects created
 
+## Critiques
+
+You’re required to contribute to all critiques, even if your own project is not complete. Successful crits depend on each student’s generosity in sharing their honest thoughts, opinions and suggestions.
+
+- [How to Critique Art](../../../../art-faq/how-to-critique-art.md)
+- [Art School Critique No, No's](../../../../art-faq/art-school-critique-no-nos.md)
+
+## Late Work
+
+Projects must be turned in on time. On time is before the beginning of class on the day that they are due or other time as specified by the instructor. Late projects will automatically drop 1% per day late up to a maximum total reduction of 40% per assignment.
+
+## Documentation
+
+Students should maintain regular, on-going and timely documentation of work in progress.
+
 ## Course Schedule & Requirements
 
 <div class="responsive-table-markdown">
@@ -81,7 +96,7 @@ Through demonstrations of technical processes, lectures supplemented by works fr
 |          | May 5 - 9   | BFA Reviews and Exhibitions                                                                   |
 
 </div>
-_\* Course schedule subject to change._
+_* Course schedule subject to change._
 
 ### Key Dates:
 
@@ -115,8 +130,8 @@ Students are expected to attend all sessions of the classes in which they are re
 | Independent Study           | Participation and attendance expectations are at the discretion of the faculty member. |
 
 </div>
-_\* Faculty may factor tardiness into determining if a student is absent. Tardiness policies should be stated on the course syllabus._
-_\*\*note: for studio courses that meet in 2 sessions over 1 day, missing one of the two sessions will be counted as 0.5 absence_
+_* Faculty may factor tardiness into determining if a student is absent. Tardiness policies should be stated on the course syllabus._
+_**note: for studio courses that meet in 2 sessions over 1 day, missing one of the two sessions will be counted as 0.5 absence_
 
 **To uphold the integrity of the educational content and curricula, absences exceeding the limits as outlined above will result in failure of the course in which the absences occurred.** A student who exceeds the absence limit in any class should meet with their Academic Advisor to discuss the impact of the course failure on their academic progress.
 

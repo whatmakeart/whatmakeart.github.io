@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2025-01-15T09:00:00
-lastmod: 2025-01-14T05:33:12
+lastmod: 2025-01-15T06:16:10
 ---
 
 ## Mold Making and Slip Casting
@@ -24,6 +24,11 @@ lastmod: 2025-01-14T05:33:12
 ## Laser Cutting
 
 - [Laser Cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md)
+
+## Documentation
+
+- [How to Document 2D Artrwork](../../../../photography/how-to-document-2d-artwork.md)
+- [How to Document 3D Artrwork](../../../../photography/how-to-document-3d-artwork.md)
 
 ## Readings
 

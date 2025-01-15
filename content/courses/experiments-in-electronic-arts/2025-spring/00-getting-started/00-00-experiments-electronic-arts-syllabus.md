@@ -1,7 +1,7 @@
 ---
 title: 00.00 Experiments in Electronic Arts Syllabus
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-14T17:41:04
+lastmod: 2025-01-15T06:16:47
 ---
 
 ### Course Information
@@ -57,7 +57,10 @@ Class sessions will be a combination of lecture/discussion, hands-on lab exercis
 
 ## Critiques
 
-You’re required to contribute to all critiques, even if your own project is not complete. Successful crits depend on each student’s generosity in sharing their honest thoughts, opinions and suggestions!
+You’re required to contribute to all critiques, even if your own project is not complete. Successful crits depend on each student’s generosity in sharing their honest thoughts, opinions and suggestions.
+
+- [How to Critique Art](../../../../art-faq/how-to-critique-art.md)
+- [Art School Critique No, No's](../../../../art-faq/art-school-critique-no-nos.md)
 
 ## Late Work
 
