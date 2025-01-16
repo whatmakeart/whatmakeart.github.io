@@ -1,6 +1,6 @@
 ---
 title: Electronic Arts Artists and Projects
-lastmod: 2025-01-14T05:32:31
+lastmod: 2025-01-16T06:37:58
 date: 2024-11-10T16:01:02
 ---
 
@@ -52,6 +52,24 @@ date: 2024-11-10T16:01:02
 There is an embedded video of an example of each artist's work. Each artist makes so much more work than one example so their name links to their website. Make sure to watch the videos and then click on the name of the artist to see more of their work.
 
 <div class="video-grid">
+
+<div class="video-card">
+
+### bezicron a flexidigit clock
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/_p6RKjwEwpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### G34 Smart Table, Overview
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ZTX3dG22A-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="video-card">
 
@@ -131,6 +149,15 @@ There is an embedded video of an example of each artist's work. Each artist make
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ktxAcvddsTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Led Table - Tetris
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/_74hIv6vHGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -245,6 +272,24 @@ There is an embedded video of an example of each artist's work. Each artist make
 
 <div class="video-card">
 
+### My typewriter computer makes works of art
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6669n1Uo2vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### A cube that balances on its corner
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/zGclFqkZBsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
 ### [Ralf Baecker](https://rlfbckr.io/)
 
 <div class="iframe-16-9-container">
@@ -330,6 +375,15 @@ There is an embedded video of an example of each artist's work. Each artist make
 
 <div class="iframe-16-9-container">
 <iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/60475086?h=9b8e57e07f" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### The Octo-Bouncer
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/lYyAMDYzJQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
