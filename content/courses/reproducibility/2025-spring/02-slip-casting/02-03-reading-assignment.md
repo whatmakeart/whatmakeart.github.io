@@ -1,7 +1,7 @@
 ---
 title: 02.03 Reading Assignment
 date: 2025-01-22T09:00:00
-lastmod: 2025-01-20T17:19:57
+lastmod: 2025-01-20T17:34:03
 ---
 
 ## Assignment Deliverables
@@ -21,7 +21,10 @@ lastmod: 2025-01-20T17:19:57
 
 ### Text Source
 
-- Benjamin, Walter. [The Work of Art in the Age of Mechanical Reproduction](https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm) 1936. Translated by Harry Zohn. [maxists.org](https://www.marxists.org/) [(Archive Link)](https://web.archive.org/web/20240418175200/https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm) or [web.mit.edu](https://web.mit.edu/) [(Archive Link)](https://web.archive.org/web/20240622141032/https://web.mit.edu/allanmc/www/benjamin.pdf)
+- Benjamin, Walter. [The Work of Art in the Age of Mechanical Reproduction](https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm) 1936. Translated by Harry Zohn.
+  - **Available From:**
+  - [maxists.org](https://www.marxists.org/) [(Archive Link)](https://web.archive.org/web/20240418175200/https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm)
+  - [web.mit.edu](https://web.mit.edu/) [(Archive Link)](https://web.archive.org/web/20240622141032/https://web.mit.edu/allanmc/www/benjamin.pdf)
 
 ## Process
 
@@ -33,9 +36,11 @@ Above all, remember that your ability to form, remember, and express creative an
 
 ## LLM Completed Examples
 
-Do your best to get good at things that machines are not. Writing a response to a reading is a solved problem, so don't maximize for that skill. Rather, maximize for creative and critical thought. One way to do that is to analyze texts with all available tools, including LLMs, and then challenge your assumptions through dialogue and debate with others.
+Do your best to get good at things that machines are not. Focus on developing the skills that make you uniquely human—skills that machines can’t yet easily replicate. Tasks like summarizing a reading or generating straightforward responses have become easily completable by technology, like large language models (LLMs).
 
-The race to create text is over before you even begin.
+Instead of aiming to perfect skills that are now routine for machines, strive to maximize your capacity for creative thinking and critical analysis. Look at texts, ideas, and problems from multiple perspectives and engaging with them deeply and thoughtfully. Use all the tools at your disposal, including LLMs, to analyze texts, uncover patterns, and generate insights. Question the conclusions you’ve drawn and test your ideas through dialogue, debate, and collaboration with others.
+
+The race to simply create text is over before you even start—it’s a challenge machines have already nearly mastered. What matters now is what you bring to the process: your ability to challenge assumptions, navigate complexity, and offer nuanced perspectives that machines cannot.
 
 <details>
 <summary>
