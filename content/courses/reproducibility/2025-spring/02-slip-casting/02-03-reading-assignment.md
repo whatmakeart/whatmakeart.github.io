@@ -1,7 +1,7 @@
 ---
 title: 02.03 Reading Assignment
 date: 2025-01-22T09:00:00
-lastmod: 2025-01-20T17:34:03
+lastmod: 2025-01-20T17:35:09
 ---
 
 ## Assignment Deliverables
@@ -45,7 +45,7 @@ The race to simply create text is over before you even start—it’s a challeng
 <details>
 <summary>
 
-ChatGPT 4o Example Response 2
+ChatGPT 4o Example Writing Response 1
 
 </summary>
 
@@ -91,11 +91,11 @@ Reading Benjamin’s essay emphasized how art's function has shifted from ritual
 This reading pushed me to think critically about how new technologies (such as AI) continue to reshape our cultural and artistic landscape, both democratizing access and raising questions about the value of originality.
 
 </details>
-
+<br>
 <details>
 <summary>
 
-ChatGPT 4o Example Response 2
+ChatGPT 4o Example Writing Response 2
 
 </summary>
 
@@ -141,3 +141,4 @@ Benjamin’s essay resonated with contemporary concerns about the role of techno
 The parallels between Benjamin’s historical context and today’s digital landscape suggest that issues of authenticity, political impact, and cultural relevance continue to evolve but remain deeply intertwined with technology.
 
 </details>
+<br>
