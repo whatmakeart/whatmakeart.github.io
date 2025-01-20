@@ -1,7 +1,7 @@
 ---
 title: 01.10 Digital Catalog Assignment Overview
 date: 2025-01-15T09:00:00
-lastmod: 2025-01-15T06:25:15
+lastmod: 2025-01-20T15:39:43
 ---
 
 ## Assignment Overview
@@ -16,6 +16,13 @@ This assignment is **due weekly**. Some weeks may have specific prompts, such as
 2. Write down what you plan to do in the studio at the beginning of the week.
 3. At the end of the week comment on what you accomplished. Explain which parts went according to plan and which parts did not work out.
 4. Include in progress and working sketches of projects you are working on.
+
+### Acceptable File Formats
+
+- While images, video,and other media my be included in the Digital Catalog, writing assignments should be formatted as `.docx` or `.pdf` It is best to type any hand written notes directly in the document. At a minimum handwritten notes should be clearly scanned an included as an inline image in the document
+- Avoid photographing documents. use a scanner to capture well exposed and in focus scans of works on paper.
+- Export any video files as `.mp4` with the h.264 compression codec.
+- Images can be included as `.png` or `.jpg`. PNG is a "lossless" file format and will create a larger file size than a compresses "lossy" JPG.
 
 ### Additional Writing to Include
 

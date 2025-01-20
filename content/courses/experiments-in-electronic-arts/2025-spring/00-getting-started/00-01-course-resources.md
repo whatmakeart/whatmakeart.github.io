@@ -1,7 +1,7 @@
 ---
 title: 00.02 Course Resources
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-14T05:26:46
+lastmod: 2025-01-17T12:18:20
 ---
 
 ## Stuff to Read
@@ -12,6 +12,7 @@ lastmod: 2025-01-14T05:26:46
 - [Hi Fructose](https://hifructose.com/)
 - [Creative Applications](https://www.creativeapplications.net/)
 - [Scan Lime](https://scanlime.org/)
+- [Critical Code](https://criticalcode.recipes/)
 
 ![Link to included file content](../../../../electronics/where-to-source-electronics-components.md)
 
@@ -65,3 +66,9 @@ lastmod: 2025-01-14T05:26:46
 - [HTML Crash Course](../../../../coding/html-crash-course.md)
 - [CSS Crash Course](../../../../coding/css-crash-course.md)
 - [How to Add CSS to a Webpage](../../../../coding/how-to-add-css-to-a-webpage.md)
+
+## Music Tools
+
+- [Supercollidr](https://supercollider.github.io)
+- [Sonic-Pi](https://sonic-pi.net)
+- [Strudel](https://strudel.cc/workshop/getting-started/)

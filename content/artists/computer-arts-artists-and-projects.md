@@ -1,7 +1,7 @@
 ---
 title: Computer Arts Artists and Projects
 date: 2024-01-19T09:30:00Z
-lastmod: 2025-01-14T05:29:51
+lastmod: 2025-01-17T12:17:16
 ---
 
 Below are artists who have made work involving computers, code, technology, generative art, new media, algorithms, and an entire cosmic bucket full of nearly innumerable genres, techniques, types of creative output. Peruse the list, go down glow in the dark rabbit holes, pick artists at random, take notes, save images, be inspired. It is important to not work in a "studio silo" without knowing what others are doing in the field.
@@ -140,6 +140,7 @@ Below are artists who have made work involving computers, code, technology, gene
 - [Wimer Hazenberg - Monokai](https://monokai.nl/)
 - [Yoko Sen](http://www.sensound.space/)
 - [Zimoun](https://www.zimoun.net/)
+- [Kit Kuksenok](https://xnze.ro/)
 
 </div>
 

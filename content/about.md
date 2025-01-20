@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2024-11-10T16:01:01
-lastmod: 2024-12-24T05:41:54
+lastmod: 2025-01-17T13:32:53
 ---
 
 What? Make Art is a repository of open access college art [course materials](./courses/_index.md), art making videos, tutorials and [art making faq's](./art-faq/_index.md). Tutorials cover a wide range of topics including making, electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
@@ -35,6 +35,7 @@ This is a conceptual work in progress exploring better ways to exchange informat
 
 ### Examples of Coursework and Research Publicly Accessible
 
+- [The Art of Gathering! - De Angela L. Duff](https://deangela.gitbook.io/the-art-of-gathering-sp-2024-duff)
 - [Introduction to Engineering Design by Dr. James F. Young](https://www.clear.rice.edu/elec201/index.html)
 - [MIT Rapid Prototyping Course](http://fab.cba.mit.edu/classes/865.18/index.html)
 - [MIT Center for Bits and Atoms](http://cba.mit.edu/)

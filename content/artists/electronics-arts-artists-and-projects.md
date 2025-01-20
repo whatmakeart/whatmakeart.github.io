@@ -1,6 +1,6 @@
 ---
 title: Electronic Arts Artists and Projects
-lastmod: 2025-01-16T06:47:28
+lastmod: 2025-01-17T10:13:14
 date: 2024-11-10T16:01:02
 ---
 
@@ -46,6 +46,7 @@ date: 2024-11-10T16:01:02
 - [Zimooun](https://www.zimoun.net/)
 - [anne-f jacques](https://anne-fff.tumblr.com/)
 - [mo H. zareei](https://millihertz.net/)
+- [Yuguang (YG) Zhang](https://www.ygzhang.com/)
 
   </div>
 
