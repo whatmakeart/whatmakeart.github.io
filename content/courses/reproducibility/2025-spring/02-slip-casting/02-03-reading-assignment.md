@@ -1,7 +1,7 @@
 ---
 title: 02.03 Reading Assignment
 date: 2025-01-22T09:00:00
-lastmod: 2025-01-20T17:39:38
+lastmod: 2025-01-20T17:53:27
 ---
 
 ## Assignment Deliverables
@@ -49,7 +49,7 @@ The race to simply create text is over before you even start—it’s a challeng
 
 </summary>
 
-_This ChatGPT 4o example response was generated from merely pasting the content of thr assignment as the prompt. The text of the reading was not included. The simple prompt of "do the assignment" was enough to burp out plenty of text._
+_This ChatGPT 4o example response was generated from merely pasting the content of the assignment above as the prompt. The text of the reading was not included. The simple prompt of "do the assignment" was enough to burp out plenty of text._
 
 **Name:** [Your Name]  
 **Date:** [Today's Date]
