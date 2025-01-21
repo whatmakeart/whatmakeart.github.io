@@ -1,7 +1,7 @@
 ---
 title: ffmpeg
 date: 2024-02-26T08:51:07
-lastmod: 2025-01-21T13:30:05
+lastmod: 2025-01-21T14:28:46
 ---
 
 [FFMPEG](https://www.ffmpeg.org/) is a "A complete, cross-platform solution to record, convert and stream audio and video." [^ffmpeg]
@@ -19,13 +19,16 @@ While ffmpeg only provides the source code, there are installers for Windows, Ma
 
 ## ffmpeg Snippets
 
-Export all frames of video with 4 zeros
+### Export all frames of video with 4 zeros
+
 `ffmpeg -i input.mp4 %04d.jpg`
 
-Export only Keyframes
+### Export only Keyframes
+
 `ffmpeg -skip_frame nokey -i input.mp4 -vsync 0 -r 30 -f image2 keyframes-%02d.png`
 
-Export every nᵗʰ frames (Change 30 to the frequency of frames, currently extracts every 30ᵗʰ frame)
+### Export every nᵗʰ frames (Change 30 to the frequency of frames, currently extracts every 30ᵗʰ frame)
+
 `ffmpeg -i input.mp4 -vf "select=eq(mod(n\,30)\,0)" -fps_mode vfr -vsync vfr -q:v 2 img_%03d.jpg`
 
 - `-vf "select=eq(n\,30)"` Selects frames where the frame number (n) modulo 30 equals 0. This effectively picks every 30th frame.
@@ -34,10 +37,11 @@ Export every nᵗʰ frames (Change 30 to the frequency of frames, currently extr
 - `q:v 2` Ensures high-quality JPEG images. (1 = highest quality & 31 = lowest quality)
 - `img_%03d.jpg` Saves extracted frames with a sequential naming convention like img_001.jpg, img_002.jpg, etc.
 
-Trim Video
+### Trim Video
+
 `ffmpeg -ss 00:01:00 -to 00:05:00 -i input.MP4 -c copy output.mp4`
 
-Convert mp4 to avi
+### Convert mp4 to avi
 
 `ffmpeg -i input.mp4 output.avi`
 
