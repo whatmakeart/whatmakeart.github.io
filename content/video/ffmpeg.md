@@ -1,7 +1,7 @@
 ---
 title: ffmpeg
 date: 2024-02-26T08:51:07
-lastmod: 2025-01-21T14:40:56
+lastmod: 2025-01-21T14:46:17
 ---
 
 [FFMPEG](https://www.ffmpeg.org/) is a "A complete, cross-platform solution to record, convert and stream audio and video." [^ffmpeg]
@@ -31,7 +31,7 @@ While ffmpeg only provides the source code, there are installers for Windows, Ma
 - `-fps_mode passthrough` tells FFmpeg to maintain the original frame timing without attempting to alter the frame rate.
 - `-f image2` explicitly sets the output format to an image sequence
 
-### Export every nᵗʰ frames (Change 30 to the frequency of frames, currently extracts every 30ᵗʰ frame)
+### Export every nᵗʰ frames
 
 `ffmpeg -i input.mp4 -vf "select=eq(mod(n\,30)\,0)" -fps_mode vfr -vsync vfr -q:v 2 img_%03d.jpg`
 
