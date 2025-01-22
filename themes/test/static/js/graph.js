@@ -35,7 +35,6 @@ document.addEventListener("DOMContentLoaded", function () {
         ) // Increase link distance
         .force("charge", d3.forceManyBody().strength(-50)) // Weaken charge strength
         .force("center", d3.forceCenter(width / 2, height / 2));
-
       // --- Create Links ---
       const link = svg
         .append("g")
@@ -45,7 +44,6 @@ document.addEventListener("DOMContentLoaded", function () {
         .data(graph.links)
         .join("line")
         .attr("stroke-width", 2);
-
       // --- Arrowheads ---
       svg
         .append("defs")
@@ -57,6 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
         .attr("viewBox", "0 -5 10 10")
         .attr("refX", 15) // Adjust arrowhead position
         .attr("refY", 0)
+
         .attr("markerWidth", 6)
         .attr("markerHeight", 6)
         .attr("orient", "auto")
@@ -76,6 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
         .call(
           d3
             .drag()
+
             .on("start", dragstarted)
             .on("drag", dragged)
             .on("end", dragended)
