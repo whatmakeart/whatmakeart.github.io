@@ -1,0 +1,6 @@
+{{/* themes/test/layouts/partials/functions/linkable-pages.html */}}
+{{- $pages := where site.RegularPages ".Section" "!=" "" -}}
+{{- range $pages -}}
+  {{- $noop := .Content -}}
+{{- end -}}
+{{- return $pages -}}

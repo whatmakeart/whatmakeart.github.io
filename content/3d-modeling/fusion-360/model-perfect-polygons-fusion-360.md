@@ -1,9 +1,11 @@
 ---
-date: 2021-00-00T8:30:00-04:00
-lastmod: 2024-12-05T20:09:06
-description: "Model Perfect polygons in Fusion 360"
-tags: ["Fusion 360", "3D Modeling"]
-title: "Model Perfect polygons in Fusion 360"
+title: Model Perfect polygons in Fusion 360
+date: 2021-01-01T09:55:27
+lastmod: 2025-01-22T10:03:42
+description: Model Perfect polygons in Fusion 360
+tags:
+  - Fusion 360
+  - 3D Modeling
 ---
 
 Use sketch constraints in [Fusion 360](fusion-360.md) to create perfect regular polygons.

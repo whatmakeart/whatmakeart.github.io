@@ -4,15 +4,15 @@ title = "What Make Art"
 theme = "test"
 enableGitInfo = "true"               # allows to get information such as dates from git
 timeout = 600000
-Paginate = 18
+pagination.pagerSize = 18
 googleAnalytics = "G-S4CF1KSMYD"
 enableRobotsTXT = true
 pluralizelisttitles = false
 buildFuture = true # publish pages with a frontmatter date: in the future
 
-[author]
+[params.author]
+email = 'whatmakeart@gmail.com'
 name = "Jimmy Kuehnle"
-location = "Cleveland"
 
 [sitemap]
 changefreq = "daily"
@@ -35,13 +35,13 @@ minNumHeadings = 1 # default is 2
 
 
 
+
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
 lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 [markup.goldmark.renderer]
 unsafe = true
-
 
 [markup.highlight]
       style = "friendly"

@@ -1,0 +1,38 @@
+{{/* layouts/page/graph.json */}}
+{{- $pages := partialCached "functions/linkable-pages" . -}}
+{{- $allLinks := site.Home.Scratch.Get "links" | uniq -}}
+
+{{/* Count occurrences of each page to calculate node size */}}
+{{- $nodeCounts := dict -}}
+{{- range $allLinks -}}
+  {{- if and .source .target -}} 
+    {{- $nodeCounts = merge $nodeCounts (dict .source 0) (dict .target 0) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- range $allLinks -}}
+  {{- if and .source .target -}}
+    {{- $nodeCounts = merge $nodeCounts (dict .source (add (index $nodeCounts .source) 1)) (dict .target (add (index $nodeCounts .target) 1)) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $nodes := slice -}}
+{{- range $pages -}}
+  {{- $count := 0 -}}
+  {{- with (index $nodeCounts .RelPermalink) -}}
+    {{- $count = . -}}
+  {{- end -}}
+  {{/* Add 1 to the count to avoid zero size for nodes with no links */}}
+  {{- $nodes = $nodes | append (dict "id" .RelPermalink "title" .Title "count" (add $count 1) "section" .Section) -}} 
+{{- end -}}
+
+{{- $links := slice -}}
+{{- range $allLinks -}}
+  {{/* Only process links that have both source and target */}}
+  {{- if and .source .target -}}
+    {{- $links = $links | append (dict "source" .source "target" .target) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $graphData := dict "nodes" $nodes "links" $links -}}
+{{- jsonify $graphData -}}
