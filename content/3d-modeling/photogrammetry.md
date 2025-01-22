@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry
 date: 2024-09-25T05:06:07
-lastmod: 2025-01-21T14:26:02
+lastmod: 2025-01-22T07:08:50
 ---
 
 Photogrammetry uses multiple 2D images takes from different yet overlapping angles to create a 3D mesh with textures. To achieve the highest detail and most accurate 3D model from the real world, [3D scanning](./3d-scanning.md) is recommended.
@@ -38,3 +38,7 @@ Photogrammetry uses multiple 2D images takes from different yet overlapping angl
 - Add multiple scale references. Lay down rulers, markers and other scale calibration devices near the object or location to scan. Make sure to capture the scale devices in detail so they can be used to tell the software what the real world scale and dimensions are. It is best to use long scale distances to improve accuracy. If you lay down a 2 meter measuring stick, then use the full 2 meters to set scale, rather than just a few millimeters or centimeters, even if the object is small.
 
 - [Calibrate Photogrammetry Scanned Object Sçale in Blender](./photogrammetry-with-photocatch.md)
+- [Place 3D Models in 2d Photos with Blender](./blender/place-3d-model-in-2d-photo-blender-fspy.md)
+- [Export Image Sequence from Adobe Premiere](../video/adobe-premiere-pro/adobe-premiere.md)
+- [Export only Keyframes with ffmpeg Video Tutorial](../video/export-only-keyframes-from-video-as-images-ffmpeg.md)
+- [Export Frames from Video as Images with ffmpeg](../video/export-frames-from-video-as-images-ffmpeg.md)

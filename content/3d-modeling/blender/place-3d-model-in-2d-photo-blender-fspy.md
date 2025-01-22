@@ -1,7 +1,7 @@
 ---
 title: Place 3D Models in 2D Photos Using Blender & fSpy
 date: 2024-08-30T13:53:33
-lastmod: 2024-11-12T05:23:47
+lastmod: 2025-01-21T17:25:00
 ---
 
 <div class="iframe-16-9-container">
@@ -12,7 +12,7 @@ This tutorial provides a comprehensive guide on how to seamlessly integrate any 
 
 ## Using fSpy to Set Up Perspective
 
-1. Begin by downloading fSpy, a tool that helps in setting up the correct perspective for the 2D image you want to use as a background. Refer to [fSpy installation instructions(https://youtu.be/0x2ZffQQNJY) and an [in-depth tutorial on fSpy photomatching](../photo-perspective-matching-with-fspy.md).
+1. Begin by downloading fSpy, a tool that helps in setting up the correct perspective for the 2D image you want to use as a background. Refer to [fSpy installation instructions](https://youtu.be/0x2ZffQQNJY) and an [in-depth tutorial on fSpy photomatching](../photo-perspective-matching-with-fspy.md).
 2. Open the chosen 2D image in fSpy. Analyze the photograph to determine the best perspective to use.
 3. Use fSpy's guides to align with the floor or other prominent lines in the photograph. Hold the `Shift` key to zoom in for more precision while aligning the guides with the floor and ceiling. Adjust the guides to fit the room’s perspective, ensuring that it looks natural and aligned.
 4. Choose a point in the image to set as the origin (a reference point for the 3D space). Typically, a corner of a room or a door frame is a good choice. For scale, input an estimated real-world measurement, such as the height of a doorway (e.g., 2 meters), which helps Blender to accurately scale the 3D objects within the scene.

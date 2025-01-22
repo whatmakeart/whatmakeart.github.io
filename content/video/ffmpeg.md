@@ -1,7 +1,7 @@
 ---
 title: ffmpeg
 date: 2024-02-26T08:51:07
-lastmod: 2025-01-21T14:46:17
+lastmod: 2025-01-22T06:26:02
 ---
 
 [FFMPEG](https://www.ffmpeg.org/) is a "A complete, cross-platform solution to record, convert and stream audio and video." [^ffmpeg]
@@ -26,6 +26,8 @@ While ffmpeg only provides the source code, there are installers for Windows, Ma
 ### Export only Keyframes
 
 `ffmpeg -skip_frame nokey -i input.mp4 -fps_mode passthrough -f image2 keyframes-%02d.png`
+
+[Export only Keyframes with ffmpeg Video Tutorial](./export-only-keyframes-from-video-as-images-ffmpeg.md)
 
 - `-skip_frame nokey` skips all frames that are not keyframes
 - `-fps_mode passthrough` tells FFmpeg to maintain the original frame timing without attempting to alter the frame rate.
@@ -52,3 +54,5 @@ While ffmpeg only provides the source code, there are installers for Windows, Ma
 ## References
 
 [^ffmpeg]: [ffmpeg.org](https://www.ffmpeg.org/)
+
+[text](https://youtu.be/qBePDl2l2hI)

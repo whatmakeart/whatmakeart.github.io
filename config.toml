@@ -33,6 +33,8 @@ startLevel = 1     # default is 2
 endLevel = 6       # default is 3
 minNumHeadings = 1 # default is 2
 
+
+
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
 lastmod = ["lastmod", ":git", "date", "publishDate"]
