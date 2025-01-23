@@ -1,8 +1,0 @@
-<div id="graph-container" class="{{ .class | default "h-96" }}"></div>
-
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script src="{{ "js/graph.js" | relURL }}"></script>
-<script>
-  // Pass the endpoint URL to the graph.js script
-  window.graphDataEndpoint = "{{ "graph/index.json" | relURL }}";
-</script>
