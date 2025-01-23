@@ -1,7 +1,7 @@
 ---
-title: 02.10 Model Objects in Fusion 360 and Export Render Images
+title: 02.10 Model Object from Sketch in Fusion 360 and Export Render Image
 date: 2025-01-23T12:00:00Z
-lastmod: 2025-01-22T19:19:43
+lastmod: 2025-01-23T14:18:06
 ---
 
 ## Assignment Deliverables

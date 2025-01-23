@@ -1,7 +1,7 @@
 ---
-title: 02.09 Model Example Objects from Sketches in Fusion 360
+title: 02.09 Model Example Object in Fusion 360 and Export Render Image
 date: 2025-01-23T12:00:00Z
-lastmod: 2025-01-22T19:38:37
+lastmod: 2025-01-23T14:17:43
 ---
 
 ## Assignment Deliverables
@@ -71,13 +71,13 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 
 <div class="responsive-table-markdown">
 
-| Assessment                                            | Weight    |
-| ----------------------------------------------------- | --------- |
-| Object Form and Proportions compared to example model | 30 points |
-| Material Applied                                      | 20 points |
-| Render Exported                                       | 10 points |
-| Render Composition                                    | 10 points |
-| File Management                                       | 10 points |
+| Assessment                                      | Weight    |
+| ----------------------------------------------- | --------- |
+| Object Form and Proportions match example model | 30 points |
+| Material Applied                                | 20 points |
+| Render Exported                                 | 10 points |
+| Render Composition                              | 10 points |
+| File Management                                 | 10 points |
 
 </div>
 
