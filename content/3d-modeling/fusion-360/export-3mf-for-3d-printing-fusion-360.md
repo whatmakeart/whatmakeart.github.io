@@ -1,12 +1,18 @@
 ---
 title: Export 3mf File From Fusion 360
 date: 2025-01-22T19:31:58
-lastmod: 2025-01-22T19:36:47
+lastmod: 2025-01-23T07:36:16
 description: "Export STL File From Fusion 360"
 tags:
   - Fusion 360
   - 3D Printing
 ---
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NyXJhfod6_8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+- [Export 3mf File Fusion 360](https://youtu.be/NyXJhfod6_8)
 
 <figure>
 
