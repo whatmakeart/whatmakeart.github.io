@@ -1,66 +1,40 @@
-{{ $link := .Destination }}
-{{ $isRemote := strings.HasPrefix .Destination "http" }}
+{{- $link := .Destination -}}
+{{- $isRemote := strings.HasPrefix .Destination "http" -}}
 
 {{- if not $isRemote -}}
-  {{ $url := urls.Parse .Destination }}
+  {{- $url := urls.Parse .Destination -}}
   {{- $linkFileBase := path.Base $url -}}
-  <!-- get last part of $url likely the filename -->
   {{- $linkFileDir := path.Dir $url -}}
-
-  {{- $searchedFile := $url -}}
-  {{- $linkExt := $url -}}
-  {{- if $url.Path -}}
-    {{- $fragment := "" -}}
-    {{- with $url.Fragment -}}
-      {{ $fragment = printf "#%s" . }}
+  {{- $fragment := "" -}}
+  {{- with $url.Fragment -}}
+    {{ $fragment = printf "#%s" . -}}
+  {{- end -}}
+  {{- with .Page.GetPage $url.Path -}}
+    {{ $link = printf "%s%s" .RelPermalink $fragment -}}
+  {{- end -}}
+  {{- if not (os.FileExists $link) -}}
+    {{- with .Page.File -}}
+      {{- $searchedFile := (path.Join (path.Dir .Path) $linkFileDir $linkFileBase) -}}
+      {{- if os.FileExists $searchedFile -}}
+        {{- $linkExt := urls.Parse $searchedFile -}}
+        {{ $link = $searchedFile }}
+        {{- if strings.HasSuffix $linkExt.Path ".md" -}}
+          {{ $link = replace $link ".md" "/" -}}
+        {{- end -}}
+        {{ $link = path.Join "/" $link }}
+        {{ $link = path.Clean $link }}
+      {{- end -}}
     {{- end -}}
-    <!-- end with $url.Fragment -->
-    {{- with .Page.GetPage $url.Path }}
-      {{ $link = printf "%s%s" .RelPermalink $fragment }}
-    {{- end -}}
-    {{- if os.FileExists $link -}}
-      <!-- Original Link Exists -->
-      {{ $link = $link }}
-    {{ else }}
-      {{- range .Page.Site.Pages -}}
-        <!-- set range of all pages need to use .Page in front since in render hook -->
-        {{- $linkFileDir := replace $linkFileDir "../" "" -}}
-        {{- $linkFileDir := replace $linkFileDir "./" "" -}}
-        {{ with .File }}
-          {{- $searchedFile = (path.Join (path.Dir .Path) $linkFileDir $linkFileBase) -}}
-        {{- end -}}
-        {{- if os.FileExists $searchedFile -}}
-          {{- $linkExt = urls.Parse $searchedFile -}}
-          <!-- Get file extension -->
-        {{- else -}}
-          {{- $searchedFile = path.Join "/" $searchedFile -}}
-          <!-- add front slash to make a root relative link -->
-          {{- if os.FileExists $searchedFile -}}
-            {{- $linkExt = urls.Parse $link -}}
-            <!-- Get file extension -->
-          {{- end -}}
-        {{- end -}}
-        {{ if os.FileExists $searchedFile }}
-          {{ $link = $searchedFile }}
-          {{- if strings.HasSuffix $linkExt.Path ".md" -}}
-            <!-- Check if a markdown file extension -->
-            {{ $link = replace $link ".md" "/" }}
-          {{ end }}
-          {{ $link = path.Join "/" $link }}
-          <!-- add front slash to make a root relative link -->
-          {{ $link = path.Clean $link }}
-        {{- end -}}
-      {{ end }}
-    {{ end }}
-  {{ end }}
+  {{- end -}}
 {{- end -}}
-<!-- end if not $isRemote -->
-{{- /**/ -}}
+
+
 <a
   href="{{- $link | safeURL -}}"
   {{- with .Title -}}title="{{- . -}}"{{- end -}}
 >
-  {{- .Text | safeHTML -}}{{- if $isRemote -}}
+  {{- .Text | safeHTML -}}
+  {{- if $isRemote -}}
     <span style="white-space: nowrap;">
       &thinsp;
       <svg

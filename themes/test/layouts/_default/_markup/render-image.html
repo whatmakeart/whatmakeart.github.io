@@ -2,16 +2,12 @@
 {{- $includeFileBase := path.Base $includeUrl.Path }}
 {{- $includeFileDir := path.Dir $includeUrl.Path }}
 {{- $includePath := "" }}
-{{- $searchedFile := "" }}
 
 {{- if strings.HasSuffix $includeUrl.Path ".md" }}
   {{- $withoutPrefix := replace (replace .Destination "../" "" ) "./" "" }}
   {{- $pathPrefix := path.Join "../" .Destination }}
-
   {{- $candidatePaths := slice .Destination $withoutPrefix $pathPrefix }}
 
-
-  <!-- Check candidate paths -->
   {{- range $candidate := $candidatePaths }}
     {{- if and (ne $candidate "") (os.FileExists $candidate) }}
       {{- $includePath = $candidate }}
@@ -19,22 +15,6 @@
     {{- end }}
   {{- end }}
 
-
-  <!-- If not found in candidate paths -->
-  {{- if eq $includePath "" }}
-    {{- range .Page.Site.Pages }}
-      {{- with .File }}
-        {{- $searchedFile = path.Join "/" (path.Join (path.Dir .Path) $includeFileDir $includeFileBase) }}
-      {{- end }}
-      {{- if and (ne $searchedFile "") (os.FileExists $searchedFile) }}
-        {{- $includePath = $searchedFile }}
-        {{- break }}
-      {{- end }}
-    {{- end }}
-  {{- end }}
-
-
-  <!-- Only attempt to include if we found a non-empty path -->
   {{- if ne $includePath "" }}
     {{- if os.FileExists $includePath }}
       <div data-pagefind-ignore>
@@ -56,12 +36,9 @@
       <li>$pathPrefix = {{ $pathPrefix }}</li>
       <li>$includeFileBase = {{ $includeFileBase }}</li>
       <li>$includeFileDir = {{ $includeFileDir }}</li>
-      <li>$searchedFile = {{ $searchedFile }}</li>
     </ul>
   {{- end }}
-
 {{- else }}
-  <!-- Image handling -->
   {{- $img := .Page.Resources.GetMatch .Destination }}
   {{- if and (not $img) .Page.File }}
     {{- $img = resources.Get (path.Join .Page.File.Dir .Destination) }}
@@ -91,31 +68,18 @@
       />
       <figcaption>{{ with $.Title | safeHTML }}{{ . }}{{ end }}</figcaption>
     </figure>
-  {{- else }}
-    {{- $pageFolder := path.Dir .Page.RelPermalink }}
-    {{- $pageFolderUp := path.Dir $pageFolder }}
-    {{- $imgPath := path.Join $pageFolderUp .Destination }}
-    {{- $finalPath := "" }}
-
-    {{- if and (ne $imgPath "") (os.FileExists $imgPath) }}
-      {{- $finalPath = $imgPath }}
-    {{- else }}
-      {{- range .Page.Site.Pages }}
-        {{- with .File }}
-          {{- $searchedFile = path.Join "/" (path.Join (path.Dir .Path) $includeFileDir $includeFileBase) }}
-        {{- end }}
-        {{- if and (ne $searchedFile "") (os.FileExists $searchedFile) }}
-          {{- $finalPath = $searchedFile }}
-          {{- break }}
-        {{- end }}
-      {{- end }}
-    {{- end }}
-
-
-    <img
-      class="img-fluid"
-      src="{{ $finalPath | safeURL }}"
-      alt="{{ $.Text }}"
-    />
+  {{- else if .Page.File }}
+    {{- $imgPath := path.Join (path.Dir .Page.File.RelPermalink) .Destination -}}
+    {{- if os.FileExists $imgPath -}}
+      <img
+        class="img-fluid"
+        src="{{ $imgPath | safeURL }}"
+        alt="{{ $.Text }}"
+      />
+    {{- else -}}
+      <p>Image not found: {{ $imgPath }}</p>
+    {{- end -}}
+  {{- else -}}
+    <p>Image not found (no Page.File): {{ .Destination }}</p>
   {{- end }}
 {{- end }}
