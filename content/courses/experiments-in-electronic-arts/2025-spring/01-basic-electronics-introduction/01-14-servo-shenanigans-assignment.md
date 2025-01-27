@@ -1,7 +1,7 @@
 ---
-title: 01.14 - Servo Shenaigans Assignment
+title: 01.14 - Servo Shenanigans Assignment
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-13T05:20:14
+lastmod: 2025-01-27T07:03:37
 ---
 
 ## Assignment Deliverables

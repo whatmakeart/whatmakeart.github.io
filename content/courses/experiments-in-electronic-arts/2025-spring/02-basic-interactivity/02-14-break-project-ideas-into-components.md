@@ -1,12 +1,13 @@
 ---
-title: 2.09 Break Project Idea into Components
+title: 2.14 Break Project Idea into Components
 date: 2025-01-27T12:00:00Z
-lastmod: 2025-01-06T17:36:51
+lastmod: 2025-01-27T07:03:37
 ---
 
 ## Assignment Deliverables
 
-A list of the main different components of your project concept at this time. Each item should have a sentence or two description of what it is and how it fits into the project.
+1. A list of the main different components of your project concept at this time. Each item should have a sentence or two description of what it is and how it fits into the project. (.docx, .pdf)
+   - Label file YYYYMMDD Lastname Firstname Break Project Into Components
 
 ## Overview
 
@@ -34,5 +35,8 @@ There will be many parts of your project you might have no idea how to do. No pr
 The final projects must at a minimum:
 
 - Have user input
+- Connect to something via wireless communication
+- Make light
+- Make sound
 - Sense the environment
 - Do something based on this information

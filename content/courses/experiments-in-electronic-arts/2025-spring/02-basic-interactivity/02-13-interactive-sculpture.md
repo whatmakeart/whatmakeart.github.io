@@ -1,13 +1,13 @@
 ---
-title: 02.08 Interactive Sculpture
+title: 02.13 Interactive Sculpture
 date: 2025-01-27T12:00:00Z
-lastmod: 2025-01-06T17:36:51
+lastmod: 2025-01-27T07:03:37
 ---
 
 ## Assignment Deliverables
 
-1. Upload a 5 second to 30 second video of an interactive sculpture reacting to user input. Label the file YYYYMMDD Lastname Firstname Interactive Sculpture Video.mp4
-
+1. Upload a 5 second to 30 second video of an interactive sculpture reacting to user input.
+   - Label the file YYYYMMDD Lastname Firstname Interactive Sculpture Video.mp4
 2. Bring a version of the interactive sculpture to class for everyone to try.
 
 ## Overview
