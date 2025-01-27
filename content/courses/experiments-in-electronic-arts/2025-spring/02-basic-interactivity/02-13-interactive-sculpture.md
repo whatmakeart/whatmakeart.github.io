@@ -1,7 +1,7 @@
 ---
 title: 02.13 Interactive Sculpture
 date: 2025-01-27T12:00:00Z
-lastmod: 2025-01-27T07:03:37
+lastmod: 2025-01-27T18:13:42
 ---
 
 ## Assignment Deliverables
@@ -12,17 +12,15 @@ lastmod: 2025-01-27T07:03:37
 
 ## Overview
 
-Now that we can capture basic user input with buttons and knobs we will use this input to create simple interactive sculptures or experiences. Turning the knob might decide when to move the motor or pressing the button might make a sound or blink a light.
+Now that we can capture basic user input with buttons, potentiometer knobs, and potential WiFi connected devicers, we will use this input to create simple interactive sculptures or experiences. Turning the potentiometer knob might decide when to move the servo motor or pressing the button might make a sound or blink a LED.
 
-You can use the example sketches with user input from this lesson. Below are some additional ideas and concepts to try out. Don't hesitate to ask questions about this or adding additional actions / inputs.
-
-This can be an expansion and refinement of your original "Servo Shenanigans". It could add additional servos or LEDs.
+You can use the example sketches with user input from this lesson. You can build from the work you did on the previous [Servo Shenanigans Assignment]. It can be an expansion and refinement of your original, such as adding LEDs.
 
 ## Instructions
 
-While these are experiments and kinetic sketches, we still want to add enough structure and other materials to make them interesting and useable. Remember that the combination of electronics with other techniques tends to make more interesting and creative output.
+While these are experiments with kinetic sculpture, we still want to add enough structure and other materials to make them interesting and useable. Remember that the combination of electronics with other techniques tends to make more interesting and creative output. For example, simple attaching your potentiometer knob through a hole in sheet material makes it appear more robust and inviting to the user. If your servo motor is securely attached, then it will me more predictable and responsive.
 
-Additional servo motors, stronger servo motors, longer wires, extra potentiometers and LEDs are available. Your instructor can help your set up additional devices.
+Additional servo motors, stronger servo motors, longer wires, extra potentiometers and LEDs are available. Your instructor can help your set up additional devices. Below are some additional ideas and concepts to try out. Don't hesitate to ask questions about this or adding additional actions / inputs.
 
 ### Consider
 
@@ -33,6 +31,7 @@ Additional servo motors, stronger servo motors, longer wires, extra potentiomete
 
 ## Things to Try
 
+- Use the ESP32 WROOM modules to make a web interface to control the sculptures. This will likely require the assistance of an LLM but it well within reach.
 - Use random numbers to introduce "unpredictability" to make it seem more alive or real. When the knob turns it could turn the servo 2 degrees plus a random number that could even make it go backwards. `random()` + `randomSeed()` with `min() max()` can accomplish this.
 - Use button to switch between the the Potentiometer controlling LEDs or a servo.
 - Add translucent materials over LEDs
