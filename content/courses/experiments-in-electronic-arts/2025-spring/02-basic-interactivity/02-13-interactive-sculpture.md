@@ -1,7 +1,7 @@
 ---
 title: 02.13 Interactive Sculpture
 date: 2025-01-27T12:00:00Z
-lastmod: 2025-01-27T19:53:37
+lastmod: 2025-01-27T20:08:15
 ---
 
 ## Assignment Deliverables
@@ -66,10 +66,11 @@ Which produces the code below:
   2. Point your web browser to http://192.168.4.1/
   3. Control the LED and Servo through the webpage
 
-  Created for arduino-esp32 on 04 July, 2018
+  Originally Created for arduino-esp32 on 04 July, 2018
   by Elochukwu Ifediora (fedy0)
+
   Modified to include Servo control and webpage on 2023-10-27
-  by Bard
+  by Gemini 2.0 Experimental Model
 */
 
 #include <WiFi.h>

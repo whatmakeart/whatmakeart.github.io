@@ -1,7 +1,7 @@
 ---
 title: 02.12 Wireless Button LED
 date: 2025-01-27T12:00:00Z
-lastmod: 2025-01-27T19:54:23
+lastmod: 2025-01-27T20:08:33
 ---
 
 ## ESP 32 Wifi Interaction
@@ -136,10 +136,12 @@ Which produces the code below:
   2. Point your web browser to http://192.168.4.1/
   3. Click on buttons to control LEDs
 
-  Created for arduino-esp32 on 04 July, 2018
+
+  Originally Created for arduino-esp32 on 04 July, 2018
   by Elochukwu Ifediora (fedy0)
 
-  Modified to include multiple LEDs and enhanced functionality
+  Modified to include Servo control and webpage on 2023-10-27
+  by Gemini 2.0 Experimental Model
 */
 
 #include <WiFi.h>
