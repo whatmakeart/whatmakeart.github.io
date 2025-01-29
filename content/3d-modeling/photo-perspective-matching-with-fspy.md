@@ -1,7 +1,7 @@
 ---
 title: Photo Matching with fSpy
 date: 2024-08-20T13:54:16
-lastmod: 2024-11-12T05:23:47
+lastmod: 2025-01-29T04:12:48
 aliaes:
   - /3d-modeling/photo-matching-with-fspy/
 ---
@@ -31,6 +31,23 @@ fSpy is a perspective and camera matching program. It is an open source program 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/1HOqnb1Uji4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+</div>
+
+<div class="video-card">
+
+### Perfect Camera Match - Scale fSpy Camera to 3D Model
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/1HOqnb1Uji4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Place 3D Model in 2D Photo Blender and fSpy
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/qBePDl2l2hI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </div>
