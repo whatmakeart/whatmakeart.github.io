@@ -1,15 +1,16 @@
 ---
 title: 02.08 Photogrammetry Assignment
 date: 2025-01-22T09:00:00
-lastmod: 2025-01-29T12:39:25
+lastmod: 2025-01-29T13:46:36
 ---
 
 ## Assignment Deliverables
 
-1. Upload `.obj` file of photogrammetry scan
-2. Upload texture image file from photogrammetry scan (.jpg or .png)
-3. Upload `.mtl' file of photogrammetry scan
-4. Upload render image from Blender or Maya of Photogrammetry scan (.jpg or png)
+1. Upload Photogrametry Scan 3D Model file
+   - If using Photocatch: 2. Upload `.obj` file of photogrammetry scan 3. Upload texture image file from photogrammetry scan (.jpg or .png) 4. Upload `.mtl' file of photogrammetry scan
+   - If using Adobe Substance Sampler
+     1. Upload the .usd file (Universal Scene Description)
+2. Upload render image from Blender or Maya of Photogrammetry scan (.jpg or png)
 
 ## Process
 
