@@ -1,12 +1,12 @@
 ---
 title: 02.02 Slip Cast Assignment
 date: 2025-01-22T09:00:00
-lastmod: 2025-01-28T19:07:37
+lastmod: 2025-01-29T03:57:52
 ---
 
 ## Assignment Deliverables
 
-- 15 Slipcast copies of an object pulled from a plaster slip cast mold of that object
+- 15 Slip cast copies of an object pulled from a plaster slip cast mold of that object
 
 ## Overview
 
