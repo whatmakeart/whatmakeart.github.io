@@ -1,7 +1,7 @@
 ---
-title: 02.04 How to Slip Cast
+title: 02.04 Photogrammetry
 date: 2025-01-22T09:00:00
-lastmod: 2025-01-20T17:42:10
+lastmod: 2025-01-29T08:40:05
 toc: true
 ---
 
