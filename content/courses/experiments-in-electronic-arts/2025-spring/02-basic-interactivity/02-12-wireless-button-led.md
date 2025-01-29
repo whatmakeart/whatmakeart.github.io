@@ -14,6 +14,7 @@ After getting your ESP32 dev board set up, and you are able to successfully uplo
 
 Make sure to set your own credentials, `const char *ssid = "yourAP";` and `const char *password = "yourPassword";` This will be the name of the WiFI network on the ESP32 and the password that you will enter to access it. Once you you upload the sketch, then you should see the wifi network available.
 
+WiFiAccessPoint.ino example sketch is licencsed under the GNU Lesse Public Licencse from 
 ```C
 /*
   WiFiAccessPoint.ino creates a WiFi access point and provides a web server on it.
