@@ -1,7 +1,7 @@
 ---
 title: 02.08 Photogrammetry Assignment
 date: 2025-01-22T09:00:00
-lastmod: 2025-01-29T06:56:27
+lastmod: 2025-01-29T07:30:37
 ---
 
 ## Assignment Deliverables
@@ -14,7 +14,12 @@ lastmod: 2025-01-29T06:56:27
 ## Process
 
 1. Select an object for photogrammetry. This can be the original object that you made a mold of or a pulled slip-cast of from the mold.
-2.
+
+<div class="video-grid">
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/XLAeTAi-2gI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 ## Assignment Resources
 
