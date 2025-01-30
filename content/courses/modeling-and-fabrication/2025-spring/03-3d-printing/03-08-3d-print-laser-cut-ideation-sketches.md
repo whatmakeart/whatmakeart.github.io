@@ -1,7 +1,7 @@
 ---
 title: 03.08 3D Print and Laser Cut Ideation Sketches Assignment
 date: 2024-04-11T12:00:00Z
-lastmod: 2025-01-30T14:29:18
+lastmod: 2025-01-30T18:06:35
 ---
 
 ## Assignment Deliverables
@@ -11,6 +11,7 @@ lastmod: 2025-01-30T14:29:18
 2. Minimum 3 larger refined ideations
    - Label files YYYYMMDD Lastname Firstname refined sketches
 3. Upload a series of labeled images or a compiled pdf (png, jpg, pdf)
+4. Cardboard model of 1 of the refined ideas at 1:1 scale (actual size)
 
 ## Sketch Requirements
 
@@ -20,12 +21,13 @@ lastmod: 2025-01-30T14:29:18
 
 ## Assignment Overview
 
-You will tackle specific design challenges using the 3D printing fabrication process in combination with laser cutting.
+You will tackle specific design challenges using the 3D printing fabrication process in combination with [Laser Cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md).
 
 ### Project Minimum Design Requirements
 
+- Use 3D Printed Clamping Mechanism
 - Use 1/8" - 1/4" plywood or clear acrylic
-- Have a minimum of 1 slot joint
+- Have a minimum of 1 [laser cut joint](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md)
 - Have a minimum of 1 fastener joint
 - Have a minimum of 1 3D printed thread joint
 - Have a minimum of 1 surface with laser engraving or etching
@@ -35,17 +37,20 @@ You will tackle specific design challenges using the 3D printing fabrication pro
 
 Often creative work has arbitrary restrictions on the creative process. There may be challenges based on material availability, budget, time, aesthetic criteria and countless other constraints on what you can make. Part of your job as an artist and designer is to work around these restraints and still create new and compelling creative works of culture.
 
-For this project you are requried to design a 3D printed clamping mechanism that attches to a specific object such as a desk or a workbench. The clamp base will be designed to accomodate planar forms cut from a laser cutter. While a3D printer could print a flat retangle of plastic, it would be slow, wasteful, weak, and not very flat. Plywood and acrylic sheet are aleady flat and are goo planar bulding materials. How can you use the relative strengths of each material to create something better than using one material alone?
+For this project you are required to design a 3D printed clamping mechanism that attaches to a specific object such as a desk or a workbench. The clamp base will be designed to accommodate planar forms cut from a laser cutter. While a3D printer could print a flat rectangle of plastic, it would be slow, wasteful, weak, and not very flat. Plywood and acrylic sheet are already flat and are goo planar building materials. How can you use the relative strengths of each material to create something better than using one material alone?
 
 ## Grading Rubric
 
 <div class="responsive-table-markdown">
 
-| Assessment                 | Weight    |
-| -------------------------- | --------- |
-| Minimum 5 thumbnails       | 40 points |
-| Minimum 3 revised sketches | 40 points |
-| Sketch Documentation       | 10 points |
-| File Management            | 10 points |
+| Assessment                      | Weight    |
+| ------------------------------- | --------- |
+| Minimum 5 thumbnails            | 40 points |
+| Minimum 3 revised sketches      | 40 points |
+| Sketch Documentation            | 10 points |
+| File Management                 | 10 points |
+| Cardboard Model Assembled       | 20 points |
+| Cardboard Model Craft / Quality | 30 points |
+| Cardboard Model Design / Form   | 50 points |
 
 </div>
