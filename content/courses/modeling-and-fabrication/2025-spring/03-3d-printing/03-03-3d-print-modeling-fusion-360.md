@@ -1,7 +1,7 @@
 ---
-title: 10.03 3D Print Modeling Fusion 360
+title: 03.03 3D Print Modeling Fusion 360
 date: 2025-01-30T12:00:00Z
-lastmod: 2025-01-30T09:03:17
+lastmod: 2025-01-30T11:48:10
 toc: true
 ---
 

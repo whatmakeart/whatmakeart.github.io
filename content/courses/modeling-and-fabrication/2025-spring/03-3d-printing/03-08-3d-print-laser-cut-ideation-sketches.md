@@ -1,7 +1,7 @@
 ---
-title: 12.02 CNC + 3D Print Ideation Sketches Assignment
+title: 03.08 3D Print and Laser Cut Ideation Sketches Assignment
 date: 2024-04-11T12:00:00Z
-lastmod: 2024-04-11T14:30:52
+lastmod: 2025-01-30T11:53:20
 ---
 
 ## Assignment Deliverables
@@ -18,22 +18,22 @@ lastmod: 2024-04-11T14:30:52
 
 ## Assignment Overview
 
-Now that you have made a test 3D print and are more familiar with the opportunities and challenges of 3D printing, we will tackle specific design challenges using the 3D printing fabrication process in combination with CNC milling.
+Now that you have made a test 3D print and are more familiar with the opportunities and challenges of 3D printing, we will tackle specific design challenges using the 3D printing fabrication process in combination with laser cutting.
 
 ### Project Minimum Design Requirements
 
 - Use 3/8", 1/2", or 3/4" plywood
 - Have a minimum of 1 pocket cut
 - Have a minimum of 1 contour or through cut
-- Create a joint or connection between the 3D print and the CNC milled piece(s)
+- Create a joint or connection between the 3D print and the laser cut piece(s)
 
 ## Design Challenges
 
 Often creative work has arbitrary restrictions on the creative process. There may be challenges based on material availability, budget, time, aesthetic criteria and countless other constraints on what you can make. Part of your job as an artist and designer is to work around these restraints and still create new and compelling creative works of culture. For this project choose one or more of the design challenges below. How can you meet the criteria of the challenge(s) and still make unique and exciting objects?
 
-### CNC Milling Design Challenges
+### Laser Milling Design Challenges
 
-- Support the weight of a person or the intended item
+- Support the weight of the intended item
 - **Use more than 1 type of joint** - Combine lap joints with mortise and tennon joints or use a custom 3D printed bracket to make joints at an angle
 - Have a considered and designed top surface, this could have engraving or decorative joints
 - Use all of the space of the provided plywood
