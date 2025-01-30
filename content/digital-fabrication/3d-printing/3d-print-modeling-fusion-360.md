@@ -1,7 +1,7 @@
 ---
 title: 3D Print Modeling Fusion 360
 date: 2023-06-15T14:51:51
-lastmod: 2024-04-23T05:52:12
+lastmod: 2025-01-30T06:41:25
 ---
 
 Leveraging the parametric modeling features of [Fusion 360](../../3d-modeling/fusion-360/fusion-360.md) can create detailed and precise 3D models for 3D printing quickly. Then if a part or screw hole needs to be adjusted after making a test print, it can easily be changed in the design timeline or by simple updating a parameter value. For mechanical and semi regular parts, this modeling workflow is tough to beat.
@@ -11,6 +11,10 @@ They key to a successful 3D model for 3D printing in Fusion 360 is having a plan
 For example, one could create a sketch on the origin and extrude out a form symmetrically in both directions 1/2 of the width of the object. Other approach would be to create an offset plane from the origin 1/2 of the width away. Then create a sketch on this plane and extrude toward the origin the full width, or half the width and then create a mirror. Neither method is "correct." Both offer different ways of modifying the design and continuing the model depending on what parameters and features are most important to the design.
 
 The examples below show different approaches to creating various objects for 3D printing in Fusion 360.
+
+## Fusion 360 3D Print Resouces
+
+- [Check Model Bounding Box Size](../../3d-modeling/fusion-360/check-model-bounding-box-size-fusion-360.md)
 
 ## Example Models for 3D Printing in Fusion 360
 

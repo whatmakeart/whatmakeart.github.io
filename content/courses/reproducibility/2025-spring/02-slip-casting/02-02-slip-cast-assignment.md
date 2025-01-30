@@ -1,7 +1,7 @@
 ---
 title: 02.02 Slip Cast Assignment
-date: 2025-01-22T09:00:00
-lastmod: 2025-01-29T12:12:05
+date: 2025-01-29T09:00:00
+lastmod: 2025-01-30T09:03:17
 ---
 
 ## Assignment Deliverables

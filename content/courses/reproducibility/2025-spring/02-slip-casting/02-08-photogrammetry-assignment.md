@@ -1,7 +1,7 @@
 ---
 title: 02.08 Photogrammetry Assignment
-date: 2025-01-22T09:00:00
-lastmod: 2025-01-29T13:53:45
+date: 2025-01-29T09:00:00
+lastmod: 2025-01-30T09:00:09
 ---
 
 ## Assignment Deliverables
@@ -25,7 +25,7 @@ lastmod: 2025-01-29T13:53:45
 1. Select an object for photogrammetry. This can be the original object that you made a mold of or a pulled slip-cast of from the mold.
 2. Set you object on an approximately waist hig platform in a bright but flatly lit room. If a well lit room with even lighting is not available, then noon on a cloudy day outside works well.
 3. Capture the object for photogrammetry:
-   - Each part of the object must be taken from a minimum of two angles with overlapping infomation from other images.
+   - Each part of the object must be taken from a minimum of two angles with overlapping information from other images.
    - A video from 360 degrees around the object. One pass should be a low angle, one pass should be perpendicular, and one pass should be from a high angle. Move steady, keeping the object in focus.
    - A series of photos taken from around the object works well. Fill the frame and make sure the object is in focus. One 360 pass from a low angle, one from perpendicular, and one from a high angle. You can take additional detail shots from closer in.
 4. Use photogrammetry software to create a textured 3D mesh of your object.
@@ -43,6 +43,16 @@ lastmod: 2025-01-29T13:53:45
 </div>
 
 ## Assignment Resources
+
+### FAQ
+
+1. Hoq do I move an object in Blender? [Move objects in Blender](../../../../3d-modeling/blender/how-to-move-blender.md)
+2. How do I rotate the object in Blender? [Rotate Video Guide](https://youtu.be/XLAeTAi-2gI&t=92)
+3. How do I scale the object in Blender? [Scale Video Guide](https://youtu.be/XLAeTAi-2gI?&t=124)
+4. How do I duplicate the object in Blender?
+5. How do I see the textures on the object in Blender?
+6. How do I move the camera in Blender? [Move Camera Video Guide](https://youtu.be/XLAeTAi-2gI?si=_BcabZNWRrZp9Yrf&t=163)
+7. How do I change the lights in Blender? [Change Lights Video Guide](https://youtu.be/XLAeTAi-2gI&t=197)
 
 ### Photogrammetry 3D Model Creation
 
