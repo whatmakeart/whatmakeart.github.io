@@ -1,7 +1,7 @@
 ---
 title: 02.08 Photogrammetry Assignment
 date: 2025-01-29T09:00:00
-lastmod: 2025-01-30T09:00:09
+lastmod: 2025-01-31T07:19:33
 ---
 
 ## Assignment Deliverables
@@ -49,10 +49,14 @@ lastmod: 2025-01-30T09:00:09
 1. Hoq do I move an object in Blender? [Move objects in Blender](../../../../3d-modeling/blender/how-to-move-blender.md)
 2. How do I rotate the object in Blender? [Rotate Video Guide](https://youtu.be/XLAeTAi-2gI&t=92)
 3. How do I scale the object in Blender? [Scale Video Guide](https://youtu.be/XLAeTAi-2gI?&t=124)
-4. How do I duplicate the object in Blender?
-5. How do I see the textures on the object in Blender?
+4. How do I duplicate the object in Blender? [Duplicate objects in Blender](../../../../3d-modeling/blender/display-textures-on-objects-blender.md)
+5. How do I see the textures on the object in Blender? [Display Textures on objects in Blender](../../../../3d-modeling/blender/display-textures-on-objects-blender.md)
 6. How do I move the camera in Blender? [Move Camera Video Guide](https://youtu.be/XLAeTAi-2gI?si=_BcabZNWRrZp9Yrf&t=163)
 7. How do I change the lights in Blender? [Change Lights Video Guide](https://youtu.be/XLAeTAi-2gI&t=197)
+
+- [How to Move Objects in Blender](https://youtu.be/t4MtOUyOkPM)
+- [How to Duplicate Objects in Blender](https://youtu.be/XtumSUXtkHY)
+- [How to See Textures on Objects in Blender](https://youtu.be/6j0aGrgFCcs)
 
 ### Photogrammetry 3D Model Creation
 

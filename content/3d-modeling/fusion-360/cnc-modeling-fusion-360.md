@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 CNC Modeling
 date: 2023-06-14T13:25:50
-lastmod: 2024-01-25T05:33:11
+lastmod: 2025-01-31T05:20:58
 tags:
   - Fusion 360
   - CNC
@@ -17,9 +17,9 @@ This [video](https://youtu.be/9utpuieg5lI) shows the process of creating a simpl
 
 ![CNC Hex Stool Rendering](attachments/2021-hex-stool-rendering.jpg)
 
-![CNC Hex Stool Parts Layed Flat](attachments/2021-hex-stool-rendering-parts-flat.jpg)
+![CNC Hex Stool Parts Laid Flat](attachments/2021-hex-stool-rendering-parts-flat.jpg)
 
-![CNC Hex Stool Parts Layed Flat Screenshot](attachments/2021-hex-stool-screenshot-parts-flat.png)
+![CNC Hex Stool Parts Laid Flat Screenshot](attachments/2021-hex-stool-screenshot-parts-flat.png)
 
 </div>
 

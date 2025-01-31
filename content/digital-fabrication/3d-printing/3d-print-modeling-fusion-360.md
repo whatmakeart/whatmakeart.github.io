@@ -1,7 +1,7 @@
 ---
 title: 3D Print Modeling Fusion 360
 date: 2023-06-15T14:51:51
-lastmod: 2025-01-30T06:41:25
+lastmod: 2025-01-31T05:19:49
 ---
 
 Leveraging the parametric modeling features of [Fusion 360](../../3d-modeling/fusion-360/fusion-360.md) can create detailed and precise 3D models for 3D printing quickly. Then if a part or screw hole needs to be adjusted after making a test print, it can easily be changed in the design timeline or by simple updating a parameter value. For mechanical and semi regular parts, this modeling workflow is tough to beat.
@@ -44,6 +44,25 @@ The examples below show different approaches to creating various objects for 3D 
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/lAX7XAcrvL4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Box with Lid
+
+<div class="iframe-16-9-container">
+
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/CD1XSw5toJk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Jar with Threaded Lid
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/t4nlmDIpVxs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
