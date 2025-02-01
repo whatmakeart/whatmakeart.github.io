@@ -1,7 +1,7 @@
 ---
 title: 02.08 Photogrammetry Assignment
 date: 2025-01-29T09:00:00
-lastmod: 2025-01-31T07:19:33
+lastmod: 2025-02-01T07:17:00
 ---
 
 ## Assignment Deliverables
@@ -32,31 +32,34 @@ lastmod: 2025-01-31T07:19:33
 5. Download the [prepared render scene for Blender](./02-07-import-3d-model-into-pedestal-render-scene-blender.md).
 6. Import the mesh into Blender.
 7. Scale and position the object on the virtual pedestal.
-8. Clean up the mesh of unwated parts as needed.
+8. Clean up the mesh of unwanted parts as needed.
 9. Adjust the camera and lights.
 10. Render and save an image.
 
 <div class="video-grid">
+<div class="video-card">
+
+### Render Photogrammetry Model on Pedestal in Blender
+
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/XLAeTAi-2gI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+</div>
+
 </div>
 
 ## Assignment Resources
 
 ### FAQ
 
-1. Hoq do I move an object in Blender? [Move objects in Blender](../../../../3d-modeling/blender/how-to-move-blender.md)
-2. How do I rotate the object in Blender? [Rotate Video Guide](https://youtu.be/XLAeTAi-2gI&t=92)
-3. How do I scale the object in Blender? [Scale Video Guide](https://youtu.be/XLAeTAi-2gI?&t=124)
+1. How do I move an object in Blender? [Move objects in Blender](../../../../3d-modeling/blender/how-to-move-blender.md)
+2. How do I rotate the object in Blender? [Rotate objects in Blender](../../../../3d-modeling/blender/rotate-objects-blender.md)
+3. How do I scale the object in Blender? [Scale objects in Blender](../../../../3d-modeling/blender/scale-objects-blender.md)
 4. How do I duplicate the object in Blender? [Duplicate objects in Blender](../../../../3d-modeling/blender/display-textures-on-objects-blender.md)
 5. How do I see the textures on the object in Blender? [Display Textures on objects in Blender](../../../../3d-modeling/blender/display-textures-on-objects-blender.md)
 6. How do I move the camera in Blender? [Move Camera Video Guide](https://youtu.be/XLAeTAi-2gI?si=_BcabZNWRrZp9Yrf&t=163)
 7. How do I change the lights in Blender? [Change Lights Video Guide](https://youtu.be/XLAeTAi-2gI&t=197)
-
-- [How to Move Objects in Blender](https://youtu.be/t4MtOUyOkPM)
-- [How to Duplicate Objects in Blender](https://youtu.be/XtumSUXtkHY)
-- [How to See Textures on Objects in Blender](https://youtu.be/6j0aGrgFCcs)
+8. How do I render in Blender? [Rendering Basics in Blender](../../../../3d-modeling/blender/rendering-basics-blender.md)
 
 ### Photogrammetry 3D Model Creation
 
@@ -66,8 +69,30 @@ lastmod: 2025-01-31T07:19:33
 
 ### Working with Photogrammetry Models in Blender
 
+- [Clean up Photogrammetry Mesh in Blender](https://youtu.be/asyItetJkbU)
 - [Calibrate size of 3D Scanned Photogrammetry Mesh in Blender](https://youtu.be/MUb7I4lBSZs)
-- [Rendering Basics in Blender](../../../../3d-modeling/blender/rendering-basics-blender.md)
+
+<div class="video-grid">
+
+<div class="video-card">
+
+#### Clean up Photogrammetry Mesh in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/asyItetJkbU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Calibrate size of 3D Scanned Photogrammetry Mesh in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/MUb7I4lBSZs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+</div>
 
 ### Exporting Frames from Video for Photogrammetry
 
@@ -79,3 +104,80 @@ lastmod: 2025-01-31T07:19:33
 - [Install Homebrew Mac](../../../../coding/install-homebrew.md)
 - [Export Video Frames with ffmpeg](../../../../video/export-frames-from-video-as-images-ffmpeg.md)
 - [Export Only Keyframes from Video with ffmpeg](../../../../video/export-only-keyframes-from-video-as-images-ffmpeg.md)
+
+### Blender Video Tutorials
+
+- [How to Move Objects in Blender](https://youtu.be/t4MtOUyOkPM)
+- [How to Scale Objects in Blender](https://youtu.be/EGn3BvyRVlY)
+- [How to Rotate Objects in Blender](https://youtu.be/y6nwGRkL1k4)
+- [How to Duplicate Objects in Blender](https://youtu.be/XtumSUXtkHY)
+- [How to See Textures on Objects in Blender](https://youtu.be/6j0aGrgFCcs)
+- [Blender Basic Render](https://youtu.be/Qw8jl8mKEsY)
+- [Blender User Interface](https://youtu.be/d54uJufn1pA)
+
+<div class="video-grid">
+
+<div class="video-card">
+
+#### How to Move Objects in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/t4MtOUyOkPM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### How to Scale Objects in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/EGn3BvyRVlY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### How to Rotate Objects in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/y6nwGRkL1k4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### How to Duplicate Objects in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/XtumSUXtkHY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### How to See Textures on Objects in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6j0aGrgFCcs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Blender Basic Render
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Qw8jl8mKEsY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Blender User Interface
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/d54uJufn1pA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+</div>
