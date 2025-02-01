@@ -1,7 +1,7 @@
 ---
 title: 02.08 Photogrammetry Assignment
 date: 2025-01-29T09:00:00
-lastmod: 2025-02-01T07:37:25
+lastmod: 2025-02-01T08:20:06
 ---
 
 ## Assignment Deliverables
@@ -14,14 +14,14 @@ lastmod: 2025-02-01T07:37:25
         - Label file YYYYMMDD Lastname Firstname texture.png
      3. Upload `.mtl` file of photogrammetry scan
         - Label file YYYYMMDD Lastname Firstname material.mtl
-   - _If using Adobe Substance Sampler, make sure to select `obj` export format_
+   - _If using Adobe Substance Sampler, make sure to select `obj` export format_ [Export obj Substance Sampler](https://youtu.be/lhC0Wv8bi6Q)
 2. Upload render image from Blender or Maya of Photogrammetry scan (`.jpg` or `.png`)
    - Label file YYYYMMDD Lastname Firstname render image.png
 
 ## Process
 
 1. Select an object for photogrammetry. This can be the original object that you made a mold of or a pulled slip-cast of from the mold.
-2. Set you object on an approximately waist hig platform in a bright but flatly lit room. If a well lit room with even lighting is not available, then noon on a cloudy day outside works well.
+2. Set you object on an approximately waist high platform in a bright but flatly lit room. If a well lit room with even lighting is not available, then noon on a cloudy day outside works well.
 3. Capture the object for photogrammetry:
    - Each part of the object must be taken from a minimum of two angles with overlapping information from other images.
    - A video from 360 degrees around the object. One pass should be a low angle, one pass should be perpendicular, and one pass should be from a high angle. Move steady, keeping the object in focus.
@@ -58,6 +58,7 @@ lastmod: 2025-02-01T07:37:25
 6. How do I move the camera in Blender? [Move Camera Video Guide](https://youtu.be/XLAeTAi-2gI?si=_BcabZNWRrZp9Yrf&t=163)
 7. How do I change the lights in Blender? [Change Lights Video Guide](https://youtu.be/XLAeTAi-2gI&t=197)
 8. How do I render in Blender? [Rendering Basics in Blender](../../../../3d-modeling/blender/rendering-basics-blender.md)
+9. How do I export an `.obj` from Adobe Substance Sampler? [Export obj from Substance Sampler](../../../../3d-modeling/export-obj-from-adobe-substance-sampler.md)
 
 ### Photogrammetry 3D Model Creation
 
@@ -175,6 +176,15 @@ lastmod: 2025-02-01T07:37:25
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/d54uJufn1pA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Export .obj from Adobe Substance Sampler
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/lhC0Wv8bi6Q?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
