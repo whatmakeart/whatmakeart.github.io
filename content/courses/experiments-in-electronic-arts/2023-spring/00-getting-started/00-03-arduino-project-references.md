@@ -1,7 +1,7 @@
 ---
 title: "00.03 Arduino Project Reference"
 date: 2023-01-20T09:30:00Z
-lastmod: 2024-12-04T05:33:04
+lastmod: 2025-02-03T05:55:36
 ---
 
 ## Arduino Code

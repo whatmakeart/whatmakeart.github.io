@@ -1,7 +1,7 @@
 ---
 title: 00.02 Arduino Project Reference
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-13T05:47:40
+lastmod: 2025-02-03T05:56:07
 ---
 
 ## Arduino Code
@@ -38,5 +38,10 @@ void loop()  { digitalWrite(13, !(millis() & 640)); }
 - [Pulse Heart Sensor Headband](https://pulsesensor.com/blogs/news/6327710-heartbeat-headband-dyi-video)
 - [Pulse Heart Sensor Headband Article on Makezine](https://makezine.com/projects/beating-heart-headband/)
 - [Use Raspberry Pi or Arduino: DIY LED Matrix Colored Lights](https://www.hackster.io/wieselly/use-raspberry-pi-or-arduino-diy-led-matrix-colored-lights-b0a79a)
+
+## Electronics Creator Websites
+
+- [Jeremy Fielding](https://jeremyfielding.com/) - Engineer, tinkerer, user of treadmill motors, and all around maker
+- [The Electronic Engineer](https://www.theelectronicengineer.nl/) - Mark Donners from the Netherlands making cool electronics projects
 
 [^1]: First made by user dlloyd and then shortened by user nickgammon in this [Arduino Forum Post](https://forum.arduino.cc/t/trying-to-create-an-asymmetrical-blink-without-delay-please-help/294231/30)
