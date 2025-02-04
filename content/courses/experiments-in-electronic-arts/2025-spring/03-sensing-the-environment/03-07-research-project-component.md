@@ -1,7 +1,7 @@
 ---
-title: 03.06 Research Project Component
+title: 03.07 Research Project Component
 date: 2025-02-03T12:00:00Z
-lastmod: 2025-02-03T08:08:07
+lastmod: 2025-02-04T05:37:42
 ---
 
 ## Assignment Deliverables
