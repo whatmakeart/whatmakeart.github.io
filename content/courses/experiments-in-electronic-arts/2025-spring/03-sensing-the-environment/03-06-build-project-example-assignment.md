@@ -1,7 +1,7 @@
 ---
 title: 03.06 Build Project Example Assignment
 date: 2025-02-03T12:00:00Z
-lastmod: 2025-02-04T10:11:28
+lastmod: 2025-02-04T10:58:50
 ---
 
 ## Assignment Deliverables
@@ -34,20 +34,30 @@ These examples were mostly created using large language models and plain languag
 
 <div style="left: 0; width: 100%; height: 400px; position: relative;"><iframe class="responsiveIframe" src="https://wokwi.com/share/embed/421951964700589057" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
-### Joystick Servo Motor Foosball
+[Robot Arm Demo Arduino Mega - Wokwi Simulation](https://wokwi.com/projects/421951964700589057)
+
+### Joystick Servo Motor Foosball ESP32
 
 <div style="left: 0; width: 100%; height: 400px; position: relative;"><iframe class="responsiveIframe" src="https://wokwi.com/share/embed/421966858463279105" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+
+[Joystick Servo Motor Foosball ESP32 - Wokwi Simulation](https://wokwi.com/projects/421966858463279105)
 
 ### LED Sound Spectrum Visualizer ESP32
 
 <div style="left: 0; width: 100%; height: 400px; position: relative;"><iframe class="responsiveIframe" src="https://wokwi.com/share/embed/421277870994093057" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
-### Servo Motor Seaweed
+[LED Sound Spectrum Visualizer ESP32 - Wokwi Simulation](https://wokwi.com/projects/421277870994093057)
+
+### Servo Motor Seaweed ESP32
 
 <div style="left: 0; width: 100%; height: 400px; position: relative;"><iframe class="responsiveIframe" src="https://wokwi.com/share/embed/421968913287885825" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+
+[Servo Motor Seaweed ESP32 - Wokwi Simulation](https://wokwi.com/projects/421968913287885825)
 
 ### LED Traffic Light Demo Arduino
 
 <div class="iframe-tinkercad-container">
 <iframe class="responsiveIframe" width="725" height="453" src="https://www.tinkercad.com/embed/7bc8ETRwlql?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 </div>
+
+[LED Traffic Light Demo Arduino - Tinkercad Simulation](https://www.tinkercad.com/things/7bc8ETRwlql-state-machine-traffic-light)
