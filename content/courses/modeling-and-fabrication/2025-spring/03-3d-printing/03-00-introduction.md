@@ -1,7 +1,7 @@
 ---
 title: 03.00 Introduction
 date: 2025-01-30T12:00:00Z
-lastmod: 2025-01-30T11:45:06
+lastmod: 2025-02-06T09:31:56
 ---
 
 ## Overview
@@ -20,6 +20,7 @@ Before working on a final version of a project it is important to understand the
 - Scale a model to a desired size
 - Measure a model in software
 - Export an STL file for 3D printing
+- Fabricate scale models in cardboard
 
 ## Key Terms
 
