@@ -1,7 +1,7 @@
 ---
-title: 04.09 Laser Cut Joints
+title: 04.03 Laser Cut Joints
 date: 2025-02-06T12:00:00Z
-lastmod: 2025-02-05T21:14:11
+lastmod: 2025-02-06T11:57:59
 toc: true
 ---
 
