@@ -1,7 +1,7 @@
 ---
 title: 04.12 Model 3D Print and Laser Cut Project in Fusion 360 Assignment
 date: 2025-02-06T12:00:00Z
-lastmod: 2025-02-06T18:17:34
+lastmod: 2025-02-07T06:24:07
 ---
 
 ## Assignment Deliverables
@@ -68,45 +68,48 @@ A selection of fasteners are available for your use in the project. Your are not
 
 <div class="responsive-table-markdown">
 
-| Size      | Length  | Type                                                             |
-| --------- | ------- | ---------------------------------------------------------------- |
-| M2        | 8mm     | Hex Head Socket Cap Bolt                                         |
-| M2        | 12mm    | Hex Head Socket Cap Bolt                                         |
-| M2        | 16mm    | Hex Head Socket Cap Bolt                                         |
-| M2        | 20mm    | Hex Head Socket Cap Bolt                                         |
-| M2        |         | Flat Washers                                                     |
-| M2        |         | Hex Nut                                                          |
-| M3 x 0.5  | 5mm     | Hex Head Socket Cap Bolt                                         |
-| M3 x 0.5  | 8mm     | Hex Head Socket Cap Bolt                                         |
-| M3 x 0.5  | 10mm    | Hex Head Socket Cap Bolt                                         |
-| M3 x 0.5  | 12mm    | Hex Head Socket Cap Bolt                                         |
-| M3 x 0.5  | 14mm    | Hex Head Socket Cap Bolt                                         |
-| M3 x 0.5  | 16mm    | Hex Head Socket Cap Bolt                                         |
-| M3 x 0.5  | 20mm    | Hex Head Socket Cap Bolt                                         |
-| M3 x 0.5  | 25mm    | Hex Head Socket Cap Bolt                                         |
-| M3 x 0.5  | 40mm    | Hex Head Socket Cap Bolt                                         |
-| M3 x 0.5  | 50mm    | Hex Head Socket Cap Bolt                                         |
-| M3 x 0.5  | 60mm    | Hex Head Socket Cap Bolt                                         |
-| M3        |         | Square Nut                                                       |
-| M3        |         | Flat Washers                                                     |
-| M3        |         | Hex Nut                                                          |
-| M3 x 0.5  |         | Brass Tapping Inserts for Hardwood                               |
-| M3 x 0.5  | 3mm     | Slotted Low-Profile Steel Shoulder Screw, 4 mm Shoulder Diameter |
-| M4        | 8mm     | Hex Head Socket Cap Bolt                                         |
-| M4        | 12mm    | Hex Head Socket Cap Bolt                                         |
-| M4        | 16mm    | Hex Head Socket Cap Bolt                                         |
-| M4        | 20mm    | Hex Head Socket Cap Bolt                                         |
-| M4        |         | Square Nut                                                       |
-| M4        |         | Flat Washers                                                     |
-| M4        |         | Hex Nut                                                          |
-| M5        | 8mm     | Hex Head Socket Cap Bolt                                         |
-| M5        | 12mm    | Hex Head Socket Cap Bolt                                         |
-| M5        | 16mm    | Hex Head Socket Cap Bolt                                         |
-| M5        | 20mm    | Hex Head Socket Cap Bolt                                         |
-| M5        |         | Square Nut                                                       |
-| M5        |         | Flat Washers                                                     |
-| M5        |         | Hex Nut                                                          |
-| 1/4" x 20 | various | Square Nut                                                       |
+| Size      | Length                              | Type                                     |
+| --------- | ----------------------------------- | ---------------------------------------- |
+| M2        | 8mm                                 | Hex Head Socket Cap Bolt                 |
+| M2        | 12mm                                | Hex Head Socket Cap Bolt                 |
+| M2        | 16mm                                | Hex Head Socket Cap Bolt                 |
+| M2        | 20mm                                | Hex Head Socket Cap Bolt                 |
+| M2        |                                     | Flat Washers                             |
+| M2        |                                     | Hex Nut                                  |
+| M3 x 0.5  | 5mm                                 | Hex Head Socket Cap Bolt                 |
+| M3 x 0.5  | 8mm                                 | Hex Head Socket Cap Bolt                 |
+| M3 x 0.5  | 10mm                                | Hex Head Socket Cap Bolt                 |
+| M3 x 0.5  | 12mm                                | Hex Head Socket Cap Bolt                 |
+| M3 x 0.5  | 14mm                                | Hex Head Socket Cap Bolt                 |
+| M3 x 0.5  | 16mm                                | Hex Head Socket Cap Bolt                 |
+| M3 x 0.5  | 20mm                                | Hex Head Socket Cap Bolt                 |
+| M3 x 0.5  | 25mm                                | Hex Head Socket Cap Bolt                 |
+| M3 x 0.5  | 40mm                                | Hex Head Socket Cap Bolt                 |
+| M3 x 0.5  | 50mm                                | Hex Head Socket Cap Bolt                 |
+| M3 x 0.5  | 60mm                                | Hex Head Socket Cap Bolt                 |
+| M3        |                                     | Square Nut                               |
+| M3        |                                     | Flat Washers                             |
+| M3        |                                     | Hex Nut                                  |
+| M3 x 0.5  |                                     | Brass Tapping Inserts for Hardwood       |
+| M3 x 0.5  | 3.8 mm Installed Length             | Brass Tapping Inserts for Plastic        |
+| M3 x 0.5  | 5.25 mm Installed Length            | Brass Tapping Inserts for Plastic        |
+| M3 x 0.5  | 6.4 mm Installed Length             | Brass Tapping Inserts for Plastic        |
+| M3 x 0.5  | 3mm length / 4 mm Shoulder Diameter | Slotted Low-Profile Steel Shoulder Screw |
+| M4        | 8mm                                 | Hex Head Socket Cap Bolt                 |
+| M4        | 12mm                                | Hex Head Socket Cap Bolt                 |
+| M4        | 16mm                                | Hex Head Socket Cap Bolt                 |
+| M4        | 20mm                                | Hex Head Socket Cap Bolt                 |
+| M4        |                                     | Square Nut                               |
+| M4        |                                     | Flat Washers                             |
+| M4        |                                     | Hex Nut                                  |
+| M5        | 8mm                                 | Hex Head Socket Cap Bolt                 |
+| M5        | 12mm                                | Hex Head Socket Cap Bolt                 |
+| M5        | 16mm                                | Hex Head Socket Cap Bolt                 |
+| M5        | 20mm                                | Hex Head Socket Cap Bolt                 |
+| M5        |                                     | Square Nut                               |
+| M5        |                                     | Flat Washers                             |
+| M5        |                                     | Hex Nut                                  |
+| 1/4" x 20 | various                             | Square Nut                               |
 
 </div>
 
@@ -126,5 +129,36 @@ A selection of fasteners are available for your use in the project. Your are not
 | Render Image Composition                 | 20 points |
 | Render Aspect Ratio not set to Viewport  | 10 points |
 | File Management                          | 10 points |
+
+</div>
+
+## Related Video Tutorials
+
+<div class="video-grid">
+
+<div class="video-card">
+
+### 3D Printed Captive Nut
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/_pjQFfPgM3Q?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+
+<div class="video-card">
+
+### Insert McMaster-Carr Component
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/8fbk9jAjV-grel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Laser Cut Finger Joints
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ZrcqauNvt0M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 </div>
