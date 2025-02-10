@@ -1,7 +1,7 @@
 ---
-title: 03.04 Mashup Slip Cast 2D Ideation Sketch Assignment
+title: 03.03 Mashup Slip Cast 2D Ideation Sketch Assignment
 date: 2025-01-29T09:00:00
-lastmod: 2025-02-08T13:40:09
+lastmod: 2025-02-09T20:29:58
 ---
 
 ## Assignment Deliverables

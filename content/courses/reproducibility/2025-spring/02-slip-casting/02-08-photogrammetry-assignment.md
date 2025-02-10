@@ -1,7 +1,7 @@
 ---
 title: 02.08 Photogrammetry Assignment
 date: 2025-01-29T09:00:00
-lastmod: 2025-02-01T08:42:22
+lastmod: 2025-02-09T20:29:07
 ---
 
 ## Assignment Deliverables
@@ -62,7 +62,7 @@ lastmod: 2025-02-01T08:42:22
 ### Photogrammetry 3D Model Creation
 
 - [Photogrammetry with Adobe Substance Sampler](./02-05-photogrammetry-adobe-substance-sampler.md) - needs a folder of images
-- [Photogrammetry with Photocatch](./02-05-photogrammetry-adobe-substance-sampler.md) - works with a video or a folder of images
+- [Photogrammetry with Photocatch](./02-06-photogrammetry-photocatch.md) - works with a video or a folder of images
 - [Additional Photogrammetry Software](../../../../3d-modeling/photogrammetry-software.md)
 
 ### Working with Photogrammetry Models in Blender
