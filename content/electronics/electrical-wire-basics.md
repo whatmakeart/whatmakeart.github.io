@@ -1,10 +1,10 @@
 ---
 title: Electrical Wire Basics
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-02-09T20:38:28
 date: 2024-11-10T16:01:02
 ---
 
-Wires come in different sizes. They can be thick or thin, stranded or solid, copper or aluminum, the insulation can be PVC or silicone or other material. Depending on application. It is important to to choose the proper wire for your application. As a general rule of thumb, thicker wire will have a lower resistance and be able to carry more current or longer distance without voltage drop, while a thinner wire will have more resistance, heat up faster, and have more voltage drop when it is used over distances.
+Wires come in different sizes. They can be thick or thin, stranded or solid, copper or aluminum, the insulation can be PVC or silicone or other material. Depending on application. It is important to to choose the proper wire for your application. As a general [electricity basics](./electricity-basics.md) rule of thumb, thicker wire will have a lower resistance and be able to carry more current or longer distance without voltage drop, while a thinner wire will have more resistance, heat up faster, and have more voltage drop when it is used over distances.
 
 ## AWG American Wire Gauge
 
@@ -56,6 +56,6 @@ A solid wire will have less resistance then stranded wire and has more structura
 
 ## Strain Relief
 
-Wires are flexible and will hang from the locations that they are secured. This is especially true where wires terminate with crimp terminals or soldered connections. Chords coming from devices also receive a lot of stress. It is important to add strain relief to these connection points to prevent the wire from prematurely becoming damaged. Sometimes it can be as simple as the wire insulation crimped in the crimped terminal. For power supply cords, there are specific rubber strain relief devices that can be put around the cord. For smaller size wires, heat shrink tubing can be used to add some strain relief to wire connections.
+Wires are flexible and will hang from the locations that they are secured. This is especially true where wires terminate with crimp terminals or soldered connections. Chords coming from devices also receive a lot of stress. It is important to add strain relief to these connection points to prevent the wire from prematurely becoming damaged. Sometimes it can be as simple as the wire insulation crimped in the crimped terminal. For power supply cords, there are specific rubber strain relief devices that can be put around the cord. For smaller size wires, [heat shrink tubing](./heat-shrink-tubing.md) can be used to add some strain relief to wire connections.
 
 [^1]: Handbook of Electronic Tables and Formulas

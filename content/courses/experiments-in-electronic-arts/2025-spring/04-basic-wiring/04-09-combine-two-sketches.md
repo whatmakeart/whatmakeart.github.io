@@ -1,7 +1,7 @@
 ---
-title: 03.05 Combine Two Sketches
-date: 2025-02-03T12:00:00Z
-lastmod: 2025-02-03T08:08:07
+title: 04.09 Combine Two Sketches
+date: 2025-02-10T12:00:00Z
+lastmod: 2025-02-09T20:31:58
 ---
 
 ## Assignment Deliverables

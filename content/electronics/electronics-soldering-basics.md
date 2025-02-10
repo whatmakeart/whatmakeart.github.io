@@ -1,12 +1,13 @@
 ---
 title: Electronics Soldering Basics
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-02-09T20:47:39
 date: 2024-11-10T16:01:02
 ---
 
 ## Soldering Equipment
 
 - solder
+- [solder spool](./how-to-use-a-solder-spool.md)
 - soldering iron
 - soldering iron tips ( point, chisel, knife )
 - solder wick
@@ -63,5 +64,7 @@ Use lead-free solder unless your specific application won't allow it. Lead vapor
 - [Arduino Guide to Soldering](https://docs.arduino.cc/learn/electronics/soldering-basics)
 - [Circuit Technology Center Soldering Basics](https://www.circuitrework.com/guides/7-1-1.html) [(Web Archive)](https://web.archive.org/web/20230111095549/https://www.circuitrework.com/guides/7-1-1.html)
 - [Wikipedia Soldering Article](https://en.wikipedia.org/wiki/Soldering)
+
+## References
 
 [^1]: https://learn.adafruit.com/assets/1978
