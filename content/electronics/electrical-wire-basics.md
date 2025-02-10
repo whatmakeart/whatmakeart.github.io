@@ -1,6 +1,6 @@
 ---
 title: Electrical Wire Basics
-lastmod: 2025-02-09T20:38:28
+lastmod: 2025-02-10T05:30:06
 date: 2024-11-10T16:01:02
 ---
 
@@ -8,7 +8,23 @@ Wires come in different sizes. They can be thick or thin, stranded or solid, cop
 
 ## AWG American Wire Gauge
 
-In the AWG system a smaller number indicates a bigger wire, so a #1 wire is much, much larger than a #30 wire. For every three sizes the cross section of the wire and its current carrying capacity doubles. 12 AWG has double the current capacity of 15 AWG.
+In the AWG system a smaller number indicates a bigger wire, so a #1 wire is much, much larger than a #30 wire. For every three sizes the cross section of the wire and its current carrying capacity doubles. 12 AWG has double the current capacity of 15 AWG. Refer to wire guage table below.
+
+## Home Wiring
+
+In the United States, household wiring is typically 14 AWG or 12 AWG. This is commonly denoted by the outside installation color of yellow for 12 AWG and white for 14 AWG but that has not always been the case. Always check the writing on the insulation of a particular wire or measure it with [digital calipers](../making/how-to-use-digital-calipers.md) to determine it's size.
+
+## Electronics Wiring
+
+Electronics projects use much thinner wire than household wiring for DC circuits. For transmitting power to LEDs or motors often. 16 or 18 gauge wire is more than sufficient. When hooking up small circuits to a breadboard, 22 gauge wire is often used. When using small wires over long distances. It's important to consider voltage drop, especially in DC circuits. Using a larger gauge wire can help with voltage drop over long distances by reducing resistance in the wire.
+
+## Solid vs Stranded / Multi-core Wiring
+
+A solid wire will have less resistance then stranded wire and has more structural integrity, but does not do well with vibration or movement. Solid wire is made up of a single copper or aluminum conductor inside the insulation, while stranded wire is made up of multiple strands of copper or aluminum inside the wiring insulation. Solid core wire can be attached to screw terminals directly with a secure connection, but stranded wire needs to be crimped into into a connector to have structural support and strain relief. If stranded wire is inserted into a screw terminal it will compress and become flat and not have a good connection. Stranded wire can also be soldered, but this often will wick solder up the strands, converting it to a solid core wire and negating the effects of the flexibility of the stranded wire. Wire. In any project that will have vibration or motion. It is generally better to use crimped connections rather than soldered connections unless the wire will not be moving.
+
+## Strain Relief
+
+Wires are flexible and will hang from the locations that they are secured. This is especially true where wires terminate with crimp terminals or soldered connections. Chords coming from devices also receive a lot of stress. It is important to add strain relief to these connection points to prevent the wire from prematurely becoming damaged. Sometimes it can be as simple as the wire insulation crimped in the crimped terminal. For power supply cords, there are specific rubber strain relief devices that can be put around the cord. For smaller size wires, [heat shrink tubing](./heat-shrink-tubing.md) can be used to add some strain relief to wire connections.
 
 ### Wire Gauge Table [^1]
 
@@ -41,21 +57,5 @@ In the AWG system a smaller number indicates a bigger wire, so a #1 wire is much
 | 30  | 10.025          | 100.5                   | 0.05092   | 103.2             |
 
 </div>
-
-## Home Wiring
-
-In the United States, household wiring is typically 14 AWG or 12 AWG. This is commonly denoted by the outside installation color of yellow for 12 AWG and white for 14 AWG but that has not always been the case. Always check the writing on the insulation of a particular wire or measure it with [digital calipers](../making/how-to-use-digital-calipers.md) to determine it's size.
-
-## Electronics Wiring
-
-Electronics projects use much thinner wire than household wiring for DC circuits. For transmitting power to LEDs or motors often. 16 or 18 gauge wire is more than sufficient. When hooking up small circuits to a breadboard, 22 gauge wire is often used. When using small wires over long distances. It's important to consider voltage drop, especially in DC circuits. Using a larger gauge wire can help with voltage drop over long distances by reducing resistance in the wire.
-
-## Solid vs Stranded / Multi-core Wiring
-
-A solid wire will have less resistance then stranded wire and has more structural integrity, but does not do well with vibration or movement. Solid wire is made up of a single copper or aluminum conductor inside the insulation, while stranded wire is made up of multiple strands of copper or aluminum inside the wiring insulation. Solid core wire can be attached to screw terminals directly with a secure connection, but stranded wire needs to be crimped into into a connector to have structural support and strain relief. If stranded wire is inserted into a screw terminal it will compress and become flat and not have a good connection. Stranded wire can also be soldered, but this often will wick solder up the strands, converting it to a solid core wire and negating the effects of the flexibility of the stranded wire. Wire. In any project that will have vibration or motion. It is generally better to use crimped connections rather than soldered connections unless the wire will not be moving.
-
-## Strain Relief
-
-Wires are flexible and will hang from the locations that they are secured. This is especially true where wires terminate with crimp terminals or soldered connections. Chords coming from devices also receive a lot of stress. It is important to add strain relief to these connection points to prevent the wire from prematurely becoming damaged. Sometimes it can be as simple as the wire insulation crimped in the crimped terminal. For power supply cords, there are specific rubber strain relief devices that can be put around the cord. For smaller size wires, [heat shrink tubing](./heat-shrink-tubing.md) can be used to add some strain relief to wire connections.
 
 [^1]: Handbook of Electronic Tables and Formulas
