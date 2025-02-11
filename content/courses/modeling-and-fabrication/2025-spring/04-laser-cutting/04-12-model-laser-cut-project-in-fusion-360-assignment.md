@@ -1,7 +1,7 @@
 ---
 title: 04.12 Model 3D Print and Laser Cut Project in Fusion 360 Assignment
 date: 2025-02-06T12:00:00Z
-lastmod: 2025-02-07T06:24:07
+lastmod: 2025-02-11T07:28:10
 ---
 
 ## Assignment Deliverables
@@ -64,7 +64,64 @@ Instead of having your model exist in a void, it is better to model a basic envi
 
 ### Available Fasteners
 
-A selection of fasteners are available for your use in the project. Your are not required to use these particular fasteners but if you choose another fastener, then you may have to source it yourself.
+A selection of fasteners are available for your use in the project. Your are not required to use these particular fasteners but if you choose another fastener, then you may have to source it yourself. See the table below for a list.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                               | Weight    |
+| ---------------------------------------- | --------- |
+| Design of Project                        | 30 points |
+| Use "ply" user parameter                 | 20 points |
+| Use Separate Components for Pieces       | 30 points |
+| Use of laser cut joints to Connect Parts | 30 points |
+| Fastener included                        | 30 points |
+| 3D Printing and Laser Cut Integration    | 30 points |
+| Materials Applied                        | 10 points |
+| Render Image Composition                 | 20 points |
+| Render Aspect Ratio not set to Viewport  | 10 points |
+| File Management                          | 10 points |
+
+</div>
+
+## Related Video Tutorials
+
+<div class="video-grid">
+
+<div class="video-card">
+
+### 3D Printed Clamp
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/HenImRbfuZg?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+
+<div class="video-card">
+
+### 3D Printed Captive Nut
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/_pjQFfPgM3Q?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+
+<div class="video-card">
+
+### Insert McMaster-Carr Component
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/8fbk9jAjV-grel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Laser Cut Finger Joints
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ZrcqauNvt0M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+</div>
 
 <div class="responsive-table-markdown">
 
@@ -110,55 +167,5 @@ A selection of fasteners are available for your use in the project. Your are not
 | M5        |                                     | Flat Washers                             |
 | M5        |                                     | Hex Nut                                  |
 | 1/4" x 20 | various                             | Square Nut                               |
-
-</div>
-
-## Grading Rubric
-
-<div class="responsive-table-markdown">
-
-| Assessment                               | Weight    |
-| ---------------------------------------- | --------- |
-| Design of Project                        | 30 points |
-| Use "ply" user parameter                 | 20 points |
-| Use Separate Components for Pieces       | 30 points |
-| Use of laser cut joints to Connect Parts | 30 points |
-| Fastener included                        | 30 points |
-| 3D Printing and Laser Cut Integration    | 30 points |
-| Materials Applied                        | 10 points |
-| Render Image Composition                 | 20 points |
-| Render Aspect Ratio not set to Viewport  | 10 points |
-| File Management                          | 10 points |
-
-</div>
-
-## Related Video Tutorials
-
-<div class="video-grid">
-
-<div class="video-card">
-
-### 3D Printed Captive Nut
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/_pjQFfPgM3Q?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-</div>
-
-<div class="video-card">
-
-### Insert McMaster-Carr Component
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/8fbk9jAjV-grel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Laser Cut Finger Joints
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ZrcqauNvt0M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
 
 </div>
