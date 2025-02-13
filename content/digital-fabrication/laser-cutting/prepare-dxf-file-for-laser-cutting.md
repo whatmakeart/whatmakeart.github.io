@@ -1,8 +1,10 @@
 ---
 title: Prepare DXF File for Laser Cutting
 date: 2023-06-14T13:02:24
-lastmod: 2024-11-20T19:33:02
+lastmod: 2025-02-13T07:28:19
 ---
+
+- [Illustrator DXF to Epilog Laser Cutter Prep](https://youtu.be/FhIUHIMpJMY)
 
 ## Open DXF in Illustrator and Adjust Stroke
 
