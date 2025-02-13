@@ -1,7 +1,7 @@
 ---
 title: 04.12 Model 3D Print and Laser Cut Project in Fusion 360 Assignment
 date: 2025-02-06T12:00:00Z
-lastmod: 2025-02-13T05:53:14
+lastmod: 2025-02-13T08:23:32
 ---
 
 ## Assignment Deliverables
@@ -88,6 +88,13 @@ A selection of fasteners are available for your use in the project. Your are not
 ## Related Video Tutorials
 
 <div class="video-grid">
+
+<div class="video-card">
+
+### Laser Cut box Added to 3D Printed Clamp
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/0mCZvQgD5Ek?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
 
 <div class="video-card">
 
