@@ -1,8 +1,8 @@
 ---
 title: 05.06 Lay Out Parts Flat for Laser Cutting
 date: 2024-02-16T12:00:00Z
-lastmod: 2024-02-21T09:22:35
+lastmod: 2025-02-13T19:49:00
 toc: true
 ---
 
-![Link to included file content](../../../../3d-modeling/fusion-360/lay-parts-flat-for-laser-cutting-fusion-360.md)
+![Link to included file content](../../../../digital-fabrication/laser-cutting/lay-parts-flat-for-laser-cutting-fusion-360.md)

@@ -1,7 +1,7 @@
 ---
 title: Export Laser Cut Toolpaths to DXF in Fusion 360
 date: 2023-06-14T12:58:56
-lastmod: 2024-10-01T20:53:36
+lastmod: 2025-02-13T19:49:00
 tags:
   - Fusion 360
 ---
@@ -10,13 +10,13 @@ tags:
 
 Follow the steps in this tutorial video to create a new setup in Fusion 360\. This is done in the Manufacture Workspace. You need to create the laser cutter tool first. It is important to create a new "Cutting" setup so you can make a new 2D Profile to cut out.
 
-[![Laser Cut Stand Toolpaths](attachments/2021-Laser-Cut-Stand-CAM-Toolpaths.png)](attachments/2021-Laser-Cut-Stand-CAM-Toolpaths.png)
+[![Laser Cut Stand Toolpaths](../../3d-modeling/fusion-360/attachments/2021-Laser-Cut-Stand-CAM-Toolpaths.png)](../../3d-modeling/fusion-360/attachments/2021-Laser-Cut-Stand-CAM-Toolpaths.png)
 
 ## Save your Tool Paths as a DXF via Post Process
 
 Select the tool path from your setup and then click on post process. Use the DXF post process that you installed earlier to export a DXF file. Make sure to add the .dxf file extension.
 
-[![Laser Cut Stand Post Process](attachments/2021-Laser-Cut-Stand-Post-Process.png)](attachments/2021-Laser-Cut-Stand-Post-Process.png)
+[![Laser Cut Stand Post Process](../../3d-modeling/fusion-360/attachments/2021-Laser-Cut-Stand-Post-Process.png)](../../3d-modeling/fusion-360/attachments/2021-Laser-Cut-Stand-Post-Process.png)
 
 Example of each part of the stand as a separate component at the top level assembly in Fusion 360.
 

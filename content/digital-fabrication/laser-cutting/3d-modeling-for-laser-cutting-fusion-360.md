@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling for Laser Cutting in Fusion 360
 date: 2024-11-05T10:30:48
-lastmod: 2024-11-05T10:31:42
+lastmod: 2025-02-13T19:49:00
 ---
 
 ## Create Laser Cut Design with Fusion 360
@@ -23,8 +23,8 @@ lastmod: 2024-11-05T10:31:42
 ## Fusion 360 Laser Cutting
 
 - [Install DXF Post Processor](../../3d-modeling/fusion-360/install-dxf-post-processor-fusion-360.md)
-- [Lay Parts Flat for Laser Cutting](../../3d-modeling/fusion-360/lay-parts-flat-for-laser-cutting-fusion-360.md)
-- [Export Laser Cut Toolpaths to DXF](../../3d-modeling/fusion-360/export-laser-cut-toolpaths-to-dxf-fusion-360.md)
+- [Lay Parts Flat for Laser Cutting](./lay-parts-flat-for-laser-cutting-fusion-360.md)
+- [Export Laser Cut Toolpaths to DXF](./export-laser-cut-toolpaths-to-dxf-fusion-360.md)
 
 <div class="video-grid">
 

@@ -1,7 +1,7 @@
 ---
 title: 10.04 3D Modeling for Laser Cutting with Fusion 360
 date: 2023-11-07T09:00:00
-lastmod: 2024-05-17T14:45:34
+lastmod: 2025-02-13T19:49:00
 ---
 
 ## Fusion 360 Quick Start
@@ -13,8 +13,8 @@ lastmod: 2024-05-17T14:45:34
 ## Fusion 360 Laser Cutting
 
 - [Install DXF Post Processor](../../../../3d-modeling/fusion-360/install-dxf-post-processor-fusion-360.md)
-- [Lay Parts Flat for Laser Cutting](../../../../3d-modeling/fusion-360/lay-parts-flat-for-laser-cutting-fusion-360.md)
-- [Export Laser Cut Toolpaths to DXF](../../../../3d-modeling/fusion-360/export-laser-cut-toolpaths-to-dxf-fusion-360.md)
+- [Lay Parts Flat for Laser Cutting](../../../../digital-fabrication/laser-cutting/lay-parts-flat-for-laser-cutting-fusion-360.md)
+- [Export Laser Cut Toolpaths to DXF](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-fusion-360.md)
 
 <div class="video-grid">
 

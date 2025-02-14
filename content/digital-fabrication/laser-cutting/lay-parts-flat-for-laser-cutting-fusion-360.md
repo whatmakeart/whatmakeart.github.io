@@ -1,7 +1,7 @@
 ---
 title: Lay Parts Flat for Laser Cutting in Fusion 360
 date: 2023-06-14T13:04:03
-lastmod: 2024-10-01T20:51:11
+lastmod: 2025-02-13T19:49:00
 tags:
   - Fusion 360
   - Laser Cutting
@@ -17,7 +17,7 @@ Once your model is complete and each piece is a separate and labeled component, 
 
 <figure>
 
-[![Laser Cut Stand CAM Layout](attachments/2021-Laser-Cut-Stand-CAM-Layout-Top.png)](attachments/2021-Laser-Cut-Stand-CAM-Layout-Top.png)
+[![Laser Cut Stand CAM Layout](../../3d-modeling/fusion-360/attachments/2021-Laser-Cut-Stand-CAM-Layout-Top.png)](../../3d-modeling/fusion-360/attachments/2021-Laser-Cut-Stand-CAM-Layout-Top.png)
 
 <figcaption>
 
