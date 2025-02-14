@@ -1,7 +1,7 @@
 ---
-title: 04.02 Laser Cut File Generators
-date: 2025-02-06T12:00:00Z
-lastmod: 2025-02-05T21:14:11
+title: Laser Cut File Generators
+date: 2024-02-01T12:00:00Z
+lastmod: 2025-02-14T05:19:37
 ---
 
 think\[box\] laser cutter kerf is ~0.127 millimeters.

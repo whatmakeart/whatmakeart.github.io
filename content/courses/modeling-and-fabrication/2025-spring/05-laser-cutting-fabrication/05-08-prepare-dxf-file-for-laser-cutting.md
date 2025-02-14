@@ -1,7 +1,7 @@
 ---
-title: 03.01 think[box] Laser Cut File Prep
-date: 2020-01-26T23:11:13Z
-lastmod: 2025-02-14T05:55:35
+title: 05.08 Prepare DXF for Laser Cutting
+date: 2025-02-14T12:00:00Z
+lastmod: 2025-02-14T05:48:27
 toc: true
 ---
 
