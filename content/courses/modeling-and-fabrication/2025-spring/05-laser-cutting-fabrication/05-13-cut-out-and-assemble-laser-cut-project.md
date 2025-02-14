@@ -1,16 +1,18 @@
 ---
 title: 05.13 Cut Out and Assemble Laser Cut Project
 date: 2025-02-14T12:00:00Z
-lastmod: 2025-02-14T06:01:57
+lastmod: 2025-02-14T06:06:25
 ---
 
 ## Assignment Deliverables
 
-1. Upload an updated render image of 3D model with design changes (png, jpg)
-2. Upload a written description of the changes you made to your design and why (docx, pdf)
-3. Bring assembled laser cut project to class
-
-Label files YYYYMMDD Lastname Firstname Project Name.ext
+1. Upload an updated and revised Fusion 360 Model file (.f3d)
+   - Label file YYYYMMDD Lastname Firstname Updated Model.f3d
+2. Upload an updated render image of 3D model with design changes (png, jpg)
+   - Label file YYYYMMDD Lastname Firstname Updated Render image
+3. Laser cut a minimum of 1 piece of your project as modeled in Fusion 360
+4. 3D Print a minimum of 1 piece of your project as modeled in Fusion 360
+5. Bring assembled 3D Print & laser cut project to class
 
 ## Assignment Overview
 
@@ -26,10 +28,6 @@ Using your written self assessment and comments from the pair and group discussi
 - Where can the design be made more interesting and appealing?
 - Are there places to add geometric or organic contours, rather than just rectangles?
 - Is each piece an individual component?
-
-## Write Summary of Changes to Model
-
-Write down what you changed in your model and why. Be specific and descriptive. What did you think about the changes? Describe the before state, identify the problem, then explain how your addressed your desired outcome. Your self assessment can be used as a guide to get started with changing your model and with documenting the changes that you make.
 
 ## Make Updated Renders of Your Project
 
@@ -60,13 +58,12 @@ The laser cutters can cut acrylic plastic. Make sure you leave the protective pa
 
 <div class="responsive-table-markdown">
 
-| Assessment                     | Weight    |
-| ------------------------------ | --------- |
-| Design                         | 30 points |
-| Fit of Parts                   | 20 points |
-| Finish of Surface              | 20 points |
-| Written Description of Changes | 30 points |
-| Render Image                   | 20 points |
-| File Management                | 10 points |
+| Assessment        | Weight    |
+| ----------------- | --------- |
+| Design            | 30 points |
+| Fit of Parts      | 20 points |
+| Finish of Surface | 20 points |
+| Render Image      | 20 points |
+| File Management   | 10 points |
 
 </div>
