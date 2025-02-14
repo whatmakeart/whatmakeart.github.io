@@ -1,7 +1,7 @@
 ---
 title: 05.13 Laser Cut, 3D Print and Assemble Project Version 1 Assignment
 date: 2025-02-14T12:00:00Z
-lastmod: 2025-02-14T06:37:26
+lastmod: 2025-02-14T09:32:20
 ---
 
 ## Assignment Deliverables
@@ -16,7 +16,7 @@ lastmod: 2025-02-14T06:37:26
 
 ## Assignment Overview
 
-Using your written self assessment and comments from the pair and group discussion of the laser cut digital models, make changes to your Fusion 360 model to improve your design. Sometimes it is best to go back in the timeline to make changes, other times it is easier to edit from the end of the timeline. The goal is to have a better 3D model than what you started with.
+Make changes to your Fusion 360 model to improve your design. Sometimes it is best to go back in the timeline to make changes, other times it is easier to edit from the end of the timeline. The goal is to have a better 3D model than what you started with.
 
 ### Points to consider?
 
@@ -28,6 +28,8 @@ Using your written self assessment and comments from the pair and group discussi
 - Where can the design be made more interesting and appealing?
 - Are there places to add geometric or organic contours, rather than just rectangles?
 - Is each piece an individual component?
+- How does the fastener work?
+- Do the 3D Printed Threads have enough clearance with offset faces?
 
 ## Make Updated Renders of Your Project
 
@@ -40,9 +42,9 @@ Go to the think[box] and cut out your project. If something doesn't work out rig
 ## Assemble Project
 
 1. Use sandpaper or a sander to remove burn marks on the flat planar surfaces and discoloration from ash. The burn marks on the thin edges are fine as is.
-2. Then use a combination of friction fit, glue, and fasteners to assemble your laser cut project.
+2. Then use a combination of friction fit, glue, and fasteners to assemble your laser cut and 3D Print clamp project.
 3. Remove any excess glue.
-4. Sand any remaining rough edges.
+4. Sand any rough edges.
 5. Bring project to class.
 
 ## Using Acrylic
@@ -117,3 +119,43 @@ The laser cutters can cut acrylic plastic. Make sure you leave the protective pa
 </div>
 
 ### 3D Printing
+
+<div class="video-grid">
+
+<div class="video-card">
+
+### Export 3mf from Fusion 360
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NyXJhfod6_8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Export Directly to Bambu Studio from Fusion 360
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/IQRAddzsP8U?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Export Directly to Cura from Fusion 360
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/z-hJ3_zSiww?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Export STL Fusion 360
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/I-ltiZdUFOA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div>
