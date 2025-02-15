@@ -16,36 +16,41 @@ lastmod: 2025-02-14T09:32:20
 
 ## Assignment Overview
 
-Make changes to your Fusion 360 model to improve your design. Sometimes it is best to go back in the timeline to make changes, other times it is easier to edit from the end of the timeline. The goal is to have a better 3D model than what you started with.
+Make changes to your Fusion 360 model to improve the design of your 3D printed clamp and laser cut project. Sometimes it is best to go back in the timeline to make changes, other times it is easier to edit from the end of the timeline. The goal is to have a better 3D model than what you started with.
 
 ### Points to consider?
 
-- Do you have connection joints that interlock and are easy to align?
-- Do you have "feet" on the bottom corners of the design to add stability?
-- Are all the ply dimensions correct?
+- Do you have connection joints that interlock so the laser cut pieces are easy to align?
+- Do you have "feet" on the bottom corners of the design that rest on surfaces to add stability?
+- Are all the `ply` dimensions correct? Did you use `ply` for every dimension referring to the plywood or acrylic sheet thickness?
 - Are negative space cutouts used to enhance the design?
 - Do you have enough support pieces and braces for strength?
 - Where can the design be made more interesting and appealing?
 - Are there places to add geometric or organic contours, rather than just rectangles?
 - Is each piece an individual component?
-- How does the fastener work?
-- Do the 3D Printed Threads have enough clearance with offset faces?
+- How does the fastener work? Did you make a slot for a captive nut?
+- Do the 3D Printed threads have enough clearance created with offset faces?
 
 ## Make Updated Renders of Your Project
 
-After you make changes to your design, make sure that materials are applied to all the parts. Make a new render image of the updated model. Use a 1:1, 2:3, 4:6, 16:9 aspect ratio, not the viewport ratio. Make the long dimension 4000px. Make sure to have a good composition and to have the rendered object large in the frame.
+After you make changes to your design, make sure that materials are applied to all the parts. Make a new render image of the updated model. Use a 1:1, 2:3, 4:6, 16:9 aspect ratio, not the viewport ratio.Set the longer dimension of the render to 4000px. Make sure to have a good composition and to have the rendered object large in the frame.
 
 ## Cut out your Project
 
-Go to the think[box] and cut out your project. If something doesn't work out right, modify your model and try to cut it out again. If you need additional plywood or plywood of a different thickness, contact your instructor.
+Go to the think[box] and cut out your project's laser cut pieces .If something doesn't work out right, modify your model and try to cut it out again. If you need additional plywood, plywood of a different thickness, or acrylic sheet then contact your instructor.
+
+## 3D Print Your Project 
+
+Use the 3D printers in Fab Studios, in Foundation Studios,or at the thinkbox to print the 3D printed parts of your project. Print as soon as you can since the 3D printing takes more time then laser cutting.
 
 ## Assemble Project
 
-1. Use sandpaper or a sander to remove burn marks on the flat planar surfaces and discoloration from ash. The burn marks on the thin edges are fine as is.
-2. Then use a combination of friction fit, glue, and fasteners to assemble your laser cut and 3D Print clamp project.
-3. Remove any excess glue.
-4. Sand any rough edges.
-5. Bring project to class.
+1. Remove the supports from the 3D printed parts. Use sandpaper or a sander to remove burn marks on the flat planar surfaces and discoloration from ash. The burn marks on the thin edges are fine as is.
+2. Then use a combination of friction fit, glue, and fasteners to assemble your laser cut and 3D Print clamp project as much as possible. Put together the pieces that fit Nd make note of pieces that don't.
+3.If time permits then reprint any parts that were the wrong size and re-cut any laser cut parts that were incorrect.
+4. Remove any excess glue.
+5. Sand any rough edges.
+6. Bring project to class.
 
 ## Using Acrylic
 
@@ -61,7 +66,7 @@ The laser cutters can cut acrylic plastic. Make sure you leave the protective pa
 | Laser cut part cut         | 20 points |
 | 3D Print part printed      | 20 points |
 | Fit of Parts               | 20 points |
-| Fusion Model File Uplaoded | 20 points |
+| Fusion Model File Uploaded | 20 points |
 | Render Image Uploaded      | 20 points |
 | Render Image Aspect Ratio  | 20 points |
 | File Management            | 10 points |
