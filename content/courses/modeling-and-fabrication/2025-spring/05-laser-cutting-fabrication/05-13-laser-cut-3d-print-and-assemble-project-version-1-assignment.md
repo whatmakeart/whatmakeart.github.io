@@ -1,7 +1,7 @@
 ---
 title: 05.13 Laser Cut, 3D Print and Assemble Project Version 1 Assignment
 date: 2025-02-14T12:00:00Z
-lastmod: 2025-02-14T09:32:20
+lastmod: 2025-02-17T05:49:01
 ---
 
 ## Assignment Deliverables
@@ -12,7 +12,7 @@ lastmod: 2025-02-14T09:32:20
    - Label file YYYYMMDD Lastname Firstname Updated Render image
 3. Laser cut a minimum of 1 piece of your project as modeled in Fusion 360
 4. 3D Print a minimum of 1 piece of your project as modeled in Fusion 360
-5. Bring assembled 3D Print & laser cut project to class
+5. Bring assembled (as possible) 3D print & laser cut project to class
 
 ## Assignment Overview
 
@@ -37,17 +37,23 @@ After you make changes to your design, make sure that materials are applied to a
 
 ## Cut out your Project
 
-Go to the think[box] and cut out your project's laser cut pieces .If something doesn't work out right, modify your model and try to cut it out again. If you need additional plywood, plywood of a different thickness, or acrylic sheet then contact your instructor.
+You are only required to have a minimum of 1 laser cut piece from your Fusion 360 project file and a minimum of 3D printed piece from your Fusion 360 project file, but it makes sense to laser cut all the pieces and to 3D print all the pieces os you an test the fit and size of your design.
 
-## 3D Print Your Project 
+### Laser Cutting
 
-Use the 3D printers in Fab Studios, in Foundation Studios,or at the thinkbox to print the 3D printed parts of your project. Print as soon as you can since the 3D printing takes more time then laser cutting.
+Go to the think\[box\] and cut out your project's laser cut pieces .If something doesn't work out right, modify your model and try to cut it out again. If you need additional plywood, plywood of a different thickness, or acrylic sheet then contact your instructor.
+
+### 3D Printing
+
+Use the 3D printers in Fab Studios, in Foundation Studios,or at the think\[box\] to print the 3D printed parts of your project. Print as soon as you can since the 3D printing takes more time then laser cutting.
 
 ## Assemble Project
 
+Assemble the pieces that you laser cut and 3D printed. If you only have 2 pieces, do you best to test how the scale of the laser cut piece and the 3D printed piece relate.
+
 1. Remove the supports from the 3D printed parts. Use sandpaper or a sander to remove burn marks on the flat planar surfaces and discoloration from ash. The burn marks on the thin edges are fine as is.
 2. Then use a combination of friction fit, glue, and fasteners to assemble your laser cut and 3D Print clamp project as much as possible. Put together the pieces that fit Nd make note of pieces that don't.
-3.If time permits then reprint any parts that were the wrong size and re-cut any laser cut parts that were incorrect.
+3. If time permits then reprint any parts that were the wrong size and re-cut any laser cut parts that were incorrect.
 4. Remove any excess glue.
 5. Sand any rough edges.
 6. Bring project to class.

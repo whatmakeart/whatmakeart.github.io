@@ -1,7 +1,7 @@
 ---
 title: 00.00 Experiments in Electronic Arts Syllabus
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-15T06:16:47
+lastmod: 2025-02-17T07:43:17
 ---
 
 ### Course Information
@@ -94,25 +94,25 @@ Concurrently with work on the final project, a range of smaller learning modules
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**    | **Topic**                        |
-| -------- | ----------- | -------------------------------- |
-| 1        | January 13  | Introduction                     |
-| 2        | January 20  | **MLK Day - No Classes**         |
-| 3        | January 27  | Lecture / Workshop / Studio Work |
-| 4        | February 3  | Project 1 Crit                   |
-| 5        | February 10 | Lecture / Workshop / Studio Work |
-| 6        | February 17 | Lecture / Workshop / Studio Work |
-| 7        | February 24 | Project 2 Crit                   |
-| 8        | March 3     | Lecture / Workshop / Studio Work |
-| 9        | March 10    | **No Class Spring Break**        |
-| 10       | March 17    | Lecture / Workshop / Studio Work |
-| 11       | March 24    | Lecture / Workshop / Studio Work |
-| 12       | March 31    | Project 3 Crit                   |
-| 13       | April 7     | Lecture / Workshop / Studio Work |
-| 14       | April 14    | Lecture / Workshop / Studio Work |
-| 15       | April 21    | Spring Show + Film Festival      |
-| 16       | April 28    | Final Crits                      |
-| 17       | May 5 - 9   | BFA Reviews and Exhibitions      |
+| **Module** | **Date**    | **Topic**                                                                                                      |
+| ---------- | ----------- | -------------------------------------------------------------------------------------------------------------- |
+| 1          | January 13  | [Basic Electronics Introduction](../01-basic-electronics-introduction/01-00-basic-electronics-introduction.md) |
+|            | January 20  | **MLK Day - No Classes**                                                                                       |
+| 2          | January 27  | [Basic Interactivity](../02-basic-interactivity/02-00-introduction-basic-interactivity.md)                     |
+| 3          | February 3  | [Sensing the Environment](../03-sensing-the-environment/03-00-introduction.md)                                 |
+| 4          | February 10 | [Basic Wiring](../04-basic-wiring/04-0-introduction.md)                                                        |
+| 5          | February 17 | [Prototyping Circuits and Code](../05-prototyping-circuits-and-code/05-00-introduction.md)                     |
+| 6          | February 24 | [Breadboard to Perfboard](../06-breadboard-to-perfboard/06-00-introduction.md)                                 |
+| 7          | March 3     | Project 1 Crit                                                                                                 |
+|            | March 10    | **No Class Spring Break**                                                                                      |
+| 8          | March 17    | Lecture / Workshop / Studio Work                                                                               |
+| 9          | March 24    | Lecture / Workshop / Studio Work                                                                               |
+| 10         | March 31    | Lecture / Workshop / Studio Work                                                                               |
+| 11         | April 7     | Lecture / Workshop / Studio Work                                                                               |
+| 12         | April 14    | Lecture / Workshop / Studio Work                                                                               |
+| 13         | April 21    | Lecture / Workshop / Studio Work - Spring Show + Film Festival                                                 |
+| 14         | April 28    | Final Project 2 Crit                                                                                           |
+|            | May 5 - 9   | BFA Reviews and Exhibitions                                                                                    |
 
 </div>
 

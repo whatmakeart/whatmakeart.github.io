@@ -1,12 +1,13 @@
 ---
 title: 04.08 Soldering Practice Assignment
 date: 2025-02-10T12:00:00Z
-lastmod: 2025-02-09T20:48:29
+lastmod: 2025-02-17T07:43:17
 ---
 
 ## Assignment Deliverables
 
-- Photograph(s) of your soldering practice (.jpg)
+1. Photograph(s) of your soldering practice (.jpg)
+   - Label file(s) YYYYMMDD Lastname Firstname
 
 ## Assignment Overview
 

@@ -1,19 +1,23 @@
 ---
 title: 04.07 Project Component Proof of Concept Prototype Assignment
 date: 2025-02-10T12:00:00Z
-lastmod: 2025-02-09T20:31:58
+lastmod: 2025-02-17T07:48:53
 ---
 
 ## Assignment Deliverables
 
 1. Arduino.ino file of code you attempted with comments of what works and what doesn't (.ino)
+   - Label file \_YYYYMMDD Lastname Firstname Component Prototype Code.ino
 2. Photos of physical prototypes and tests, regardless if successful or not (.jpg, .png)
+   - Label file YYYYMMDD Lastname Firstname Component Prototype Image
 3. 5-30 second video of physical parts working, partially working, or not working at all (.mp4, mov)
+   - Label file YYYYMMDD Lastname Firstname Component Prototype Video
 4. Brief written report of what you tried, what happened, what your next goals are. (.docx, .pptx, or .pdf)
+   - Label file YYYYMMDD Lastname Firstname Component Prototype Brief Report
 
 ## Assignment Overview
 
-After refining an initial idea through ideation and iteration, we broke our projects into multiple bit sized components. Then we researched how to accomplish one of the components needed to complete the project. Now we will attempt to make a proof of concept prototype for this portion of our projects.
+After refining an initial idea through ideation and iteration, we broke our projects into multiple bite sized components. Then we researched how to accomplish one of the components needed to complete the project. Now we will attempt to make a proof of concept prototype for this portion of our projects.
 
 We want to learn as quickly as possible:
 
@@ -24,7 +28,7 @@ We want to learn as quickly as possible:
 
 Then we can eliminate parts of our project that are not possible. This may require modifying concepts and ideas, but that it far better than basing an entire project on something that is not possible.
 
-Each of you will have different assignment details but the studio actions are the same. Read the initial suggestions for how to proceed and give it your best shot. Ask lots of questions along the way. If you find that another approach is better, you are not required to do the specific approach in the disscussion comments but you do need to work on the concept as best you can.
+Each of you will have different assignment details but the studio actions are the same. Read the initial suggestions for how to proceed and give it your best shot. Ask lots of questions along the way. If you find that another approach is better, you are not required to do the specific approach in the discussion comments but you do need to work on the concept as best you can.
 
 ## Experiment and Be Open to Unknowns
 
