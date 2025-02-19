@@ -1,7 +1,7 @@
 ---
 title: 04.03 Digital Catalog Week 4 Assignment
 date: 2025-02-12T09:00:00
-lastmod: 2025-02-12T17:22:44
+lastmod: 2025-02-19T06:46:53
 ---
 
 ## Assignment Deliverables

@@ -1,5 +1,0 @@
----
-title: 12.00 Introduction
-date: 2025-04-09T09:00:00
-lastmod: 2024-11-29T08:21:07
----

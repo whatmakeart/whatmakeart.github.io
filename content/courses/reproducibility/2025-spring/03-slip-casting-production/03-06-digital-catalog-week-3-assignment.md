@@ -1,7 +1,7 @@
 ---
 title: 03.06 Digital Catalog Week 3 Assignment
-date: 2025-01-29T09:00:00
-lastmod: 2025-02-09T20:29:58
+date: 2025-02-05T09:00:00
+lastmod: 2025-02-19T06:46:22
 ---
 
 ## Assignment Deliverables
