@@ -1,7 +1,7 @@
 ---
 title: 05.02 Digital Catalog Week 5 Assignment
 date: 2025-02-19T09:00:00
-lastmod: 2025-02-19T13:25:26
+lastmod: 2025-02-19T13:36:05
 ---
 
 ## Assignment Deliverables
