@@ -1,7 +1,7 @@
 ---
 title: 00.00 Reproducibility Syllabus
 date: 2025-01-15T09:00:00
-lastmod: 2025-02-19T07:31:45
+lastmod: 2025-02-20T05:49:32
 ---
 
 ## Reproducibility Syllabus
@@ -75,25 +75,25 @@ Students should maintain regular, on-going and timely documentation of work in p
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**    | **Topic**                                                                                     |
-| -------- | ----------- | --------------------------------------------------------------------------------------------- |
-| 1        | January 15  | [01 Mold Making](../01-mold-making/01-00-introduction.md)                                     |
-| 2        | January 22  | [02 Slip Casting](../02-slip-casting/02-00-introduction.md)                                   |
-| 3        | January 29  | [03 Slip Casting Production](../03-slip-casting-production/03-00-introduction.md)             |
-| 4        | February 5  | [04 Alternative Casting Materials](../04-alternative-casting-materials/04-00-introduction.md) |
-| 5        | February 12 | [05 Display Methods](../05-display-methods/05-00-introduction.md)                             |
-| 6        | February 19 | [06 Zines](../10-rephotography-critique-zine-intro/10-00-introduction.md)                     |
-| 7        | February 26 | [07 Printmaking](../07-screenprint-screen-coating/07-00-introduction.md)                      |
-| 8        | March 5     | [08 Printmaking](../08-portable-press-and-reading-discussion/08-00-introduction.md)           |
-|          | March 12    | **No Class Spring Break**                                                                     |
-| 9        | March 19    | [09 Printmaking](../09-portable-press-studio-time/09-00-introduction.md)                      |
-| 10       | March 26    | [10 Printmaking](../10-printmaking/10-00-introduction.md)                                     |
-| 11       | April 2     | [11 Rephotography](../06-moldmaking-critque-rephotography-intro/06-00-introduction.md)        |
-| 12       | April 9     | [12 Laser Etching and Cutting](../07-laser-etching-and-cutting/07-00-introduction.md)         |
-| 13       | April 16    | [13 Transfer Processes](../10-rephotography-critique-zine-intro/13-00-introduction.md)        |
-| 14       | April 23    | [14 Studio Work](../13-studio-work-zine-and-reading-discussion/13-00-introduction.md)         |
-| 15       | April 30    | [15 Final Critique](../14-final-critique/14-00-introduction.md)                               |
-|          | May 5 - 9   | BFA Reviews and Exhibitions                                                                   |
+| **Week** | **Date**    | **Topic**                                                                                                        |
+| -------- | ----------- | ---------------------------------------------------------------------------------------------------------------- |
+| 1        | January 15  | [01 Mold Making](../01-mold-making/01-00-introduction.md)                                                        |
+|          | January 22  | **No Class Cold Weather**                                                                                        |
+| 2        | January 29  | [02 Slip Casting](../02-slip-casting/02-00-introduction.md)                                                      |
+| 3        | February 5  | [03 Slip Casting Production](../03-slip-casting-production/03-00-introduction.md)                                |
+| 4        | February 12 | [04 Alternative Casting Materials](../04-alternative-casting-materials/04-00-introduction.md)                    |
+| 5        | February 19 | [05 Display Methods](../05-display-methods/05-00-introduction.md)                                                |
+| 6        | February 26 | [06 Moldmaking Critique Rephotography Intro](../06-moldmaking-critque-rephotography-intro/06-00-introduction.md) |
+| 7        | March 5     | [07 Laser Etching and Cutting](../07-laser-etching-and-cutting/07-00-introduction.md)                            |
+|          | March 12    | **No Class Spring Break**                                                                                        |
+| 8        | March 19    | [08 Portable Press and Reading Discussion](../08-portable-press-and-reading-discussion/08-00-introduction.md)    |
+| 9        | March 26    | [09 Portable Press and Studio Time](../09-portable-press-studio-time/09-00-introduction.md)                      |
+| 10       | April 2     | [10 Rephotography Critique Zine Intro](../10-rephotography-critique-zine-intro/10-00-introduction.md)            |
+| 11       | April 9     | [11 Expose Screenprint Screens](../11-expose-screenprint-screens/11-00-introduction.md)                          |
+| 12       | April 16    | [12 Sceenprint Studio Work](../12-screenprint-studio-work/)                                                      |
+| 13       | April 23    | [13 Studio Work Zine and Reading Discusion](../13-studio-work-zine-and-reading-discussion/13-00-introduction.md) |
+| 14       | April 30    | [14 Final Critique](../14-final-critique/14-00-introduction.md)                                                  |
+|          | May 5 - 9   | BFA Reviews and Exhibitions                                                                                      |
 
 </div>
 

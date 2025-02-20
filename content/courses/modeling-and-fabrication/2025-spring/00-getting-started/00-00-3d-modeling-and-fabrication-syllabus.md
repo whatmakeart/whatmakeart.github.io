@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus
 date: 2025-01-16T12:00:00Z
-lastmod: 2025-01-14T06:35:55
+lastmod: 2025-02-20T06:41:38
 ---
 
 ### Course Information
@@ -131,25 +131,25 @@ The following materials are not required for the course but may be useful to you
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**    | **Topic**                                 |
-| -------- | ----------- | ----------------------------------------- |
-| 1        | January 16  | Introduction                              |
-| 2        | January 23  | Lecture / Workshop / Studio Work          |
-| 3        | January 30  | Lecture / Workshop / Studio Work          |
-| 4        | February 6  | Project 1 Crit                            |
-| 5        | February 13 | Lecture / Workshop / Studio Work          |
-| 6        | February 20 | Lecture / Workshop / Studio Work          |
-| 7        | February 27 | Project 2 Crit                            |
-| 8        | March 6     | Lecture / Workshop / Studio Work          |
-| 9        | March 13    | **No Class Spring Break**                 |
-| 10       | March 20    | Lecture / Workshop / Studio Work          |
-| 11       | March 27    | Lecture / Workshop / Studio Work          |
-| 12       | April 3     | Project 3 Crit                            |
-| 13       | April 10    | Lecture / Workshop / Studio Work          |
-| 14       | April 17    | Line Project Due for April 22 Spring Show |
-| 15       | April 24    | Lecture / Workshop / Studio Work          |
-| 16       | May 1       | Final Crits                               |
-| 17       | May 5 - 9   | BFA Reviews and Exhibitions               |
+| **Module** | **Date**    | **Topic**                                                                                                                    |
+| ---------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1          | January 16  | [Technical Sketching and 3D Modeling](../01-technical-sketching-and-3d-modeling/01-00-introduction.md)                       |
+| 2          | January 23  | [Fusion 360 Sketching and Modeling Basics](../02-fusion-360-sketching-modeling-basics/02-00-introduction-modeling-basics.md) |
+| 3          | January 30  | [3D Printing](../03-3d-printing/03-00-introduction.md)                                                                       |
+| 4          | February 6  | [Laser Cutting](../04-laser-cutting/04-00-introduction.md)                                                                   |
+| 5          | February 13 | [Laser Cutting Fabrication](../05-laser-cutting-fabrication/05-00-introduction.md)                                           |
+| 6          | February 20 | Project Revisions and 3D Scanning                                                                                            |
+| 7          | February 27 | Clamp Critique and 3D Scan Cleanup                                                                                           |
+| 8          | March 6     | Polygon Mesh 3D Modeling                                                                                                     |
+|            | March 13    | **No Class Spring Break**                                                                                                    |
+| 9          | March 20    | 3D Animation                                                                                                                 |
+| 10         | March 27    | Polygon Texturing                                                                                                            |
+| 11         | April 3     | CNC                                                                                                                          |
+| 12         | April 10    | CNC                                                                                                                          |
+| 13         | April 17    | Line Animation Crit and CNC Fabrication                                                                                      |
+| 14         | April 24    | Photo Documentation and Studio Work                                                                                          |
+| 15         | May 1       | [Final Crit](../15-final-critique/15-00-introduction.md)                                                                     |
+|            | May 5 - 9   | BFA Reviews and Exhibitions                                                                                                  |
 
 </div>
 
