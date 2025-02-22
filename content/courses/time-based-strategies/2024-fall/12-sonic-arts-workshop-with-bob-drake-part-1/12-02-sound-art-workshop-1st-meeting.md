@@ -1,12 +1,19 @@
 ---
-title: 12.02 Sound Art Workshop
+title: 12.02 Sound Art Workshop 1st Meeting
 date: 2024-11-19T12:00:00
-lastmod: 2024-11-22T10:38:17
+lastmod: 2025-02-22T15:13:43
 ---
 
 ## Sound Art Workshop Session Notes [^drake-notes]
 
-“Sound art prioritizes space; music prioritizes time.” – from Sonic Genealogies podcast: [Thomas Ankersmit on Maryanne Amacher](https://radio.museoreinasofia.es/en/genealogies)
+^ “Sound art prioritizes space; music prioritizes time.” – from Sonic Genealogies podcast: [Thomas Ankersmit on Maryanne Amacher](https://radio.museoreinasofia.es/en/genealogies)
+
+## Activity - Listening to Objects:
+
+Students demonstrate their sound making objects, solo. Discuss after each one, focusing on:
+
+- Identifying and describing the sounds themselves (avoiding analogy or affect, i.e. “it sounds like a….” or “it makes me feel…”)
+- Imagine strategies/mechanisms for translating your approach to activating your sound objects – from a manual/performative process, to a sculptural/automatic one.
 
 ## Presentation - Sound Sculptures:
 
@@ -60,8 +67,6 @@ Discuss sources of motion driving animation, the use of simple machines to trans
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/UEaHS6EqT1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
---
-
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6-D9ofCURUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -80,10 +85,12 @@ Discuss sources of motion driving animation, the use of simple machines to trans
 
 </div>
 
-Additional Notes
+Discuss sources of motion driving animation, the use of simple machines to transform or guide that motion, and interactivity.
 
-Skatch Boxes
+## Group activity - Automating Sound Objects:
+
+Prototype sculptural devices which simulate the playing / sounding actions students performed with their sound making objects. Emphasis on the qualities of sounds themselves, and on structural designs/engineering to create robust mechanisms (setting aside for the moment visual aesthetic concerns). Substantial portion of class will be devoted to this work, emphasizing group problem solving & collaboration.
 
 ## References
 
-[^drake-notes]: Content written by [Bob Drake](./12-01-bob-drake.md)
+[^drake-notes]: All content written by [Bob Drake](./12-01-bob-drake.md), included with permission and slightly modified to fit into course formatting.

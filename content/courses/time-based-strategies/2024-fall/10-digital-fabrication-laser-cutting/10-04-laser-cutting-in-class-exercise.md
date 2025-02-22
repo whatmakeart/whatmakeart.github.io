@@ -1,12 +1,12 @@
 ---
 title: 10.04 Laser Cutting In Class Exercise
 date: 2024-11-05T12:00:00
-lastmod: 2024-11-06T17:16:50
+lastmod: 2025-02-22T15:12:13
 ---
 
 ## Overview
 
-Students learn the Basics of [laser cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md) and digital ouput using Fusion 360.
+Students learn the Basics of [laser cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md) and digital output using [Fusion 360](../../../../3d-modeling/fusion-360/fusion-360.md).
 
 ## Grading Rubric
 

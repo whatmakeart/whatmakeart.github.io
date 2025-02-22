@@ -1,7 +1,7 @@
 ---
 title: 04.12 Model 3D Print and Laser Cut Project in Fusion 360 Assignment
 date: 2025-02-06T12:00:00Z
-lastmod: 2025-02-13T08:23:32
+lastmod: 2025-02-21T05:25:52
 ---
 
 ## Assignment Deliverables
@@ -76,12 +76,12 @@ A selection of fasteners are available for your use in the project. Your are not
 | Use "ply" user parameter                 | 20 points |
 | Use Separate Components for Pieces       | 30 points |
 | Use of laser cut joints to Connect Parts | 30 points |
-| Fastener included                        | 30 points |
-| 3D Printing and Laser Cut Integration    | 30 points |
-| Materials Applied                        | 10 points |
+| Fastener included                        | 20 points |
+| 3D Printing and Laser Cut Integration    | 20 points |
+| Materials Applied                        | 20 points |
 | Render Image Composition                 | 20 points |
 | Render Aspect Ratio not set to Viewport  | 10 points |
-| File Management                          | 10 points |
+| File Management and Labeling             | 10 points |
 
 </div>
 

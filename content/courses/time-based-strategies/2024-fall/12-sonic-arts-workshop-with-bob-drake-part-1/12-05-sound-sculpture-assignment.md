@@ -1,7 +1,7 @@
 ---
-title: 12.06 Sound Sculpture Assignment
+title: 12.05 Sound Sculpture Assignment
 date: 2024-11-19T12:00:00
-lastmod: 2024-11-25T18:44:11
+lastmod: 2025-02-22T15:13:43
 ---
 
 ## Assignment Deliverables
