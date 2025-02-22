@@ -1,7 +1,7 @@
 ---
 title: Video Art
 date: 2024-10-28T21:07:49
-lastmod: 2025-02-22T16:11:08
+lastmod: 2025-02-22T16:13:40
 ---
 
 ## Early Video Art
@@ -196,7 +196,7 @@ Jennifer Steinkamp - _Impeach_ 2019
 
 Tabita Rezaire - _Deep Down Tidal_ 2017
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/V9EIywuH-LM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/V9EIywuH-LM?si=cvbyeMYUx3Nc8OIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
