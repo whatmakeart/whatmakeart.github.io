@@ -41,9 +41,11 @@ document.addEventListener("DOMContentLoaded", function () {
         link.appendChild(img);
         iframe.parentNode.replaceChild(link, iframe);
       } else if (vimeoID) {
-        // Fetch the Vimeo thumbnail via the oEmbed endpoint
+        // Encode the Vimeo video URL
+        const videoUrl = encodeURIComponent(`https://vimeo.com/${vimeoID}`);
+        // Fetch the Vimeo thumbnail via the oEmbed endpoint using the encoded URL
         const response = await fetch(
-          `https://vimeo.com/api/oembed.json?url=https%3A//vimeo.com/${vimeoID}`
+          `https://vimeo.com/api/oembed.json?url=${videoUrl}`
         );
         const data = await response.json();
         const thumbnailURL = data.thumbnail_url;
@@ -51,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const link = document.createElement("a");
         link.href = `https://vimeo.com/${vimeoID}`;
         link.target = "_blank";
-        link.classList.add("replaced-video-thumbnail"); // Add class
+        link.classList.add("replaced-video-thumbnail");
 
         const img = document.createElement("img");
         img.src = thumbnailURL;
