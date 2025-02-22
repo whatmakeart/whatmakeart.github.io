@@ -1,7 +1,7 @@
 ---
-title: 01.07 Video Shot Shooting in Class Exercise
+title: 01.06 Video Shot Shooting in Class Exercise
 date: 2023-08-27T12:00:00Z
-lastmod: 2024-08-27T13:58:51
+lastmod: 2025-02-22T15:19:57
 ---
 
 ## Assignment Deliverables

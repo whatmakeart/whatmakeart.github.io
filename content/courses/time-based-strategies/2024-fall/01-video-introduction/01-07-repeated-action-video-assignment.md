@@ -1,7 +1,7 @@
 ---
-title: 01.08 Repeated Action Video Assignment
+title: 01.07 Repeated Action Video Assignment
 date: 2023-08-27T12:00:00Z
-lastmod: 2024-08-27T16:56:54
+lastmod: 2025-02-22T15:19:57
 ---
 
 ## Assignment Deliverables
