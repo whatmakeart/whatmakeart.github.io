@@ -1,7 +1,7 @@
 ---
 title: Video Art
 date: 2024-10-28T21:07:49
-lastmod: 2024-11-12T10:17:44
+lastmod: 2025-02-22T15:52:51
 ---
 
 ## Early Video Art
@@ -28,7 +28,7 @@ Carolee Schneemann - _Snows_ 1967
 
 Bruce Nauman - _Bouncing in a Corner_ 1968
 
-<div class="iframe-16-9-container"><iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/121815710?h=940131e828" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/121815710?h=940131e828" width="640" height="360" frameborder="0"  allowfullscreen></iframe>
 </div>
 </div>
 
@@ -116,7 +116,7 @@ Howardena Pindell - _FREE, WHITE AND 21_ 1980
 
 Pipilotti Rist - _I'm Not the Girl Who Misses Much_
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/hjvWXiUp1hI title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/hjvWXiUp1hI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -186,17 +186,17 @@ Jon Rafman _Oh, the humanity!_ 2015
 
 <div class="video-card">
 
-Tabita Rezaire - _Deep Down Tidal_ 2017
+Jennifer Steinkamp - _Impeach_ 2019
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/V9EIywuH-LM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/m8WjGW9nDHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="video-card">
 
-Jennifer Steinkamp - _Impeach_ 2019
+Tabita Rezaire - _Deep Down Tidal_ 2017
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/m8WjGW9nDHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/V9EIywuH-LM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
