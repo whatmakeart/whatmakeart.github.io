@@ -713,23 +713,3 @@ pre {
   /* Avoid pushing up the copy buttons. */
   margin: 0;
 }
-
-/* vimeo thumbnail print test */
-
-/* CSS for hiding/showing elements during print */
-@media print {
-  .screen-only {
-    display: none !important;
-  }
-  .print-only {
-    display: block !important;
-  }
-}
-
-@media screen {
-  .print-only {
-    display: none !important;
-  }
-}
-
-/* end thumbnail print test*/
