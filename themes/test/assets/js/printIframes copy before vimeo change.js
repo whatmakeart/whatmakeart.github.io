@@ -16,11 +16,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const websiteTitle = document.title;
 
-  // Array to store iframe replacement data
-  const iframeReplacements = [];
-
-  // Fetch and prepare thumbnails on DOMContentLoaded
-  async function prepareThumbnails() {
+  // Replace YouTube and Vimeo iframes with thumbnails
+  async function replaceIframesWithThumbnails() {
     const iframes = document.querySelectorAll("iframe");
 
     for (const iframe of iframes) {
@@ -28,70 +25,46 @@ document.addEventListener("DOMContentLoaded", function () {
       const vimeoID = getVimeoVideoID(iframe.src);
 
       if (youtubeID) {
-        // YouTube: Generate thumbnail URL synchronously
+        // Replace with YouTube thumbnail
         const thumbnailURL = `https://img.youtube.com/vi/${youtubeID}/0.jpg`;
-        iframeReplacements.push({
-          iframe: iframe,
-          type: "youtube",
-          thumbnailURL: thumbnailURL,
-          videoURL: `https://www.youtube.com/watch?v=${youtubeID}`,
-        });
-      } else if (vimeoID) {
-        // Vimeo: Fetch thumbnail URL asynchronously
-        try {
-          const response = await fetch(
-            `https://vimeo.com/api/oembed.json?url=https%3A//vimeo.com/${vimeoID}`
-          );
-          if (!response.ok) {
-            throw new Error(`Vimeo API error: ${response.status}`);
-          }
-          const data = await response.json();
-          const thumbnailURL = data.thumbnail_url;
+        const link = document.createElement("a");
+        link.className = "replaced-video-thumbnail"; // Add class
+        link.href = `https://www.youtube.com/watch?v=${youtubeID}`;
+        link.target = "_blank";
 
-          iframeReplacements.push({
-            iframe: iframe,
-            type: "vimeo",
-            thumbnailURL: thumbnailURL,
-            videoURL: `https://vimeo.com/${vimeoID}`,
-          });
-        } catch (error) {
-          console.error("Error fetching Vimeo thumbnail:", error);
-          // Handle the error gracefully.  Maybe add a placeholder image.
-          iframeReplacements.push({
-            iframe: iframe,
-            type: "vimeo",
-            thumbnailURL: "placeholder.jpg", //  A placeholder image
-            videoURL: `https://vimeo.com/${vimeoID}`,
-            error: true, // Flag the error
-          });
-        }
+        const img = document.createElement("img");
+        img.src = thumbnailURL;
+        img.style.width = "100%";
+        img.style.height = "auto";
+        img.alt = "YouTube Video Thumbnail";
+
+        link.appendChild(img);
+        iframe.parentNode.replaceChild(link, iframe);
+      } else if (vimeoID) {
+        // Fetch the Vimeo thumbnail via the oEmbed endpoint
+        const response = await fetch(
+          `https://vimeo.com/api/oembed.json?url=https%3A//vimeo.com/${vimeoID}`
+        );
+        const data = await response.json();
+        const thumbnailURL = data.thumbnail_url;
+
+        const link = document.createElement("a");
+        link.href = `https://vimeo.com/${vimeoID}`;
+        link.target = "_blank";
+        link.classList.add("replaced-video-thumbnail"); // Add class
+
+        const img = document.createElement("img");
+        img.src = thumbnailURL;
+        img.style.width = "100%";
+        img.style.height = "auto";
+        img.alt = "Vimeo Video Thumbnail";
+
+        link.appendChild(img);
+        iframe.parentNode.replaceChild(link, iframe);
       }
     }
   }
 
-  // Apply the pre-calculated replacements in beforeprint
-  function replaceIframesWithThumbnails() {
-    for (const replacement of iframeReplacements) {
-      const link = document.createElement("a");
-      link.className = "replaced-video-thumbnail";
-      link.href = replacement.videoURL;
-      link.target = "_blank";
-
-      const img = document.createElement("img");
-      img.src = replacement.thumbnailURL;
-      img.style.width = "100%";
-      img.style.height = "auto";
-      img.alt =
-        replacement.type === "youtube"
-          ? "YouTube Video Thumbnail"
-          : "Vimeo Video Thumbnail";
-
-      link.appendChild(img);
-      replacement.iframe.parentNode.replaceChild(link, replacement.iframe);
-    }
-  }
-
-  // ... (rest of your functions: addTitleToPrint, addLinksOnPrint) ...
   // Save the original state to restore later
   let originalHTML;
 
@@ -201,14 +174,11 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  // Call prepareThumbnails when the DOM is ready
-  prepareThumbnails();
-
   // Store the current state before printing and reset afterward
   window.addEventListener("beforeprint", () => {
     // Save the original HTML structure
     originalHTML = document.body.innerHTML;
-    //Apply changes that were prepared.
+
     replaceIframesWithThumbnails();
     addLinksOnPrint();
     addTitleToPrint();
@@ -217,7 +187,7 @@ document.addEventListener("DOMContentLoaded", function () {
   window.addEventListener("afterprint", () => {
     // Restore the original HTML structure
     document.body.innerHTML = originalHTML;
-    // Optionally, refresh the page to ensure script execution starts over.  This is usually best.
+    // Optionally, refresh the page to ensure script execution starts over
     window.location.reload();
   });
 });
