@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  // Function to get YouTube video ID from a URL
+  // ... (getYoutubeVideoID and getVimeoVideoID functions remain the same) ...
   function getYoutubeVideoID(url) {
     const regExp =
       /^.*(youtu\.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
@@ -15,29 +15,24 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   const websiteTitle = document.title;
+  // Array to store promises for iframe replacements
+  const iframeReplacementPromises = [];
 
-  // Array to store iframe replacement data
-  const iframeReplacements = [];
-
-  // Fetch and prepare thumbnails on DOMContentLoaded
-  async function prepareThumbnails() {
-    const iframes = document.querySelectorAll("iframe");
-
-    for (const iframe of iframes) {
+  // Fetch and prepare thumbnails, returning a promise for each
+  function prepareThumbnail(iframe) {
+    return new Promise(async (resolve, reject) => {
       const youtubeID = getYoutubeVideoID(iframe.src);
       const vimeoID = getVimeoVideoID(iframe.src);
 
+      let thumbnailURL;
+      let videoURL;
+      let type;
+
       if (youtubeID) {
-        // YouTube: Generate thumbnail URL synchronously
-        const thumbnailURL = `https://img.youtube.com/vi/${youtubeID}/0.jpg`;
-        iframeReplacements.push({
-          iframe: iframe,
-          type: "youtube",
-          thumbnailURL: thumbnailURL,
-          videoURL: `https://www.youtube.com/watch?v=${youtubeID}`,
-        });
+        thumbnailURL = `https://img.youtube.com/vi/${youtubeID}/0.jpg`;
+        videoURL = `https://www.youtube.com/watch?v=${youtubeID}`;
+        type = "youtube";
       } else if (vimeoID) {
-        // Vimeo: Fetch thumbnail URL asynchronously
         try {
           const response = await fetch(
             `https://vimeo.com/api/oembed.json?url=https%3A//vimeo.com/${vimeoID}`
@@ -46,55 +41,55 @@ document.addEventListener("DOMContentLoaded", function () {
             throw new Error(`Vimeo API error: ${response.status}`);
           }
           const data = await response.json();
-          const thumbnailURL = data.thumbnail_url;
-
-          iframeReplacements.push({
-            iframe: iframe,
-            type: "vimeo",
-            thumbnailURL: thumbnailURL,
-            videoURL: `https://vimeo.com/${vimeoID}`,
-          });
+          thumbnailURL = data.thumbnail_url;
+          videoURL = `https://vimeo.com/${vimeoID}`;
+          type = "vimeo";
         } catch (error) {
           console.error("Error fetching Vimeo thumbnail:", error);
-          // Handle the error gracefully.  Maybe add a placeholder image.
-          iframeReplacements.push({
-            iframe: iframe,
-            type: "vimeo",
-            thumbnailURL: "placeholder.jpg", //  A placeholder image
-            videoURL: `https://vimeo.com/${vimeoID}`,
-            error: true, // Flag the error
-          });
+          thumbnailURL = "placeholder.jpg"; // Use a placeholder
+          videoURL = `https://vimeo.com/${vimeoID}`;
+          type = "vimeo";
+          reject(error); // Reject the promise on error
+          return; // Important: return after rejecting
         }
+      } else {
+        resolve(); // No replacement needed, resolve immediately
+        return;
       }
-    }
-  }
 
-  // Apply the pre-calculated replacements in beforeprint
-  function replaceIframesWithThumbnails() {
-    for (const replacement of iframeReplacements) {
       const link = document.createElement("a");
       link.className = "replaced-video-thumbnail";
-      link.href = replacement.videoURL;
+      link.href = videoURL;
       link.target = "_blank";
 
       const img = document.createElement("img");
-      img.src = replacement.thumbnailURL;
+      img.src = thumbnailURL;
       img.style.width = "100%";
       img.style.height = "auto";
       img.alt =
-        replacement.type === "youtube"
+        type === "youtube"
           ? "YouTube Video Thumbnail"
           : "Vimeo Video Thumbnail";
 
-      link.appendChild(img);
-      replacement.iframe.parentNode.replaceChild(link, replacement.iframe);
-    }
+      // Crucial: Wait for the image to load before resolving
+      img.onload = () => {
+        link.appendChild(img);
+        iframe.parentNode.replaceChild(link, iframe);
+        resolve(); // Resolve the promise *after* the image is loaded and replaced
+      };
+
+      img.onerror = () => {
+        //handle image load errors
+        console.error("Error loading image:", thumbnailURL);
+        link.appendChild(img); //append even if it errors, prevents stalling
+        iframe.parentNode.replaceChild(link, iframe);
+        resolve(); //resolve anyway, don't block printing on a failed image.
+      };
+    });
   }
 
-  // ... (rest of your functions: addTitleToPrint, addLinksOnPrint) ...
-  // Save the original state to restore later
+  // ... (addTitleToPrint, addLinksOnPrint functions remain the same) ...
   let originalHTML;
-
   function addTitleToPrint() {
     // Get the current page URL
     const pageUrl = window.location.href;
@@ -201,23 +196,22 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  // Call prepareThumbnails when the DOM is ready
-  prepareThumbnails();
+  // Prepare all thumbnails *before* the beforeprint event
+  const iframes = document.querySelectorAll("iframe");
+  for (const iframe of iframes) {
+    iframeReplacementPromises.push(prepareThumbnail(iframe));
+  }
 
-  // Store the current state before printing and reset afterward
-  window.addEventListener("beforeprint", () => {
-    // Save the original HTML structure
+  window.addEventListener("beforeprint", async () => {
     originalHTML = document.body.innerHTML;
-    //Apply changes that were prepared.
-    replaceIframesWithThumbnails();
-    addLinksOnPrint();
+    // Wait for ALL thumbnail replacements to complete
+    await Promise.all(iframeReplacementPromises);
+    addLinksOnPrint(); // These are synchronous, so they can go here
     addTitleToPrint();
   });
 
   window.addEventListener("afterprint", () => {
-    // Restore the original HTML structure
     document.body.innerHTML = originalHTML;
-    // Optionally, refresh the page to ensure script execution starts over.  This is usually best.
     window.location.reload();
   });
 });
