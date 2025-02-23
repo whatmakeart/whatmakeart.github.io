@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  // ... (getYoutubeVideoID and getVimeoVideoID functions remain the same) ...
+  // ... (getYoutubeVideoID and getVimeoVideoID functions - same as before) ...
   function getYoutubeVideoID(url) {
     const regExp =
       /^.*(youtu\.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
@@ -13,25 +13,24 @@ document.addEventListener("DOMContentLoaded", function () {
     const match = url.match(regExp);
     return match ? match[2] : null;
   }
-
   const websiteTitle = document.title;
-  // Array to store promises for iframe replacements
-  const iframeReplacementPromises = [];
 
-  // Fetch and prepare thumbnails, returning a promise for each
-  function prepareThumbnail(iframe) {
-    return new Promise(async (resolve, reject) => {
+  const iframeData = []; // Store iframe and thumbnail URL data
+
+  // Pre-fetch thumbnail URLs on DOMContentLoaded
+  async function prepareThumbnails() {
+    const iframes = document.querySelectorAll("iframe");
+
+    for (const iframe of iframes) {
       const youtubeID = getYoutubeVideoID(iframe.src);
       const vimeoID = getVimeoVideoID(iframe.src);
 
-      let thumbnailURL;
-      let videoURL;
-      let type;
+      let thumbnailURL = null;
+      let videoURL = null;
 
       if (youtubeID) {
         thumbnailURL = `https://img.youtube.com/vi/${youtubeID}/0.jpg`;
         videoURL = `https://www.youtube.com/watch?v=${youtubeID}`;
-        type = "youtube";
       } else if (vimeoID) {
         try {
           const response = await fetch(
@@ -43,53 +42,24 @@ document.addEventListener("DOMContentLoaded", function () {
           const data = await response.json();
           thumbnailURL = data.thumbnail_url;
           videoURL = `https://vimeo.com/${vimeoID}`;
-          type = "vimeo";
         } catch (error) {
           console.error("Error fetching Vimeo thumbnail:", error);
           thumbnailURL = "placeholder.jpg"; // Use a placeholder
           videoURL = `https://vimeo.com/${vimeoID}`;
-          type = "vimeo";
-          reject(error); // Reject the promise on error
-          return; // Important: return after rejecting
         }
-      } else {
-        resolve(); // No replacement needed, resolve immediately
-        return;
       }
 
-      const link = document.createElement("a");
-      link.className = "replaced-video-thumbnail";
-      link.href = videoURL;
-      link.target = "_blank";
-
-      const img = document.createElement("img");
-      img.src = thumbnailURL;
-      img.style.width = "100%";
-      img.style.height = "auto";
-      img.alt =
-        type === "youtube"
-          ? "YouTube Video Thumbnail"
-          : "Vimeo Video Thumbnail";
-
-      // Crucial: Wait for the image to load before resolving
-      img.onload = () => {
-        link.appendChild(img);
-        iframe.parentNode.replaceChild(link, iframe);
-        resolve(); // Resolve the promise *after* the image is loaded and replaced
-      };
-
-      img.onerror = () => {
-        //handle image load errors
-        console.error("Error loading image:", thumbnailURL);
-        link.appendChild(img); //append even if it errors, prevents stalling
-        iframe.parentNode.replaceChild(link, iframe);
-        resolve(); //resolve anyway, don't block printing on a failed image.
-      };
-    });
+      if (thumbnailURL) {
+        iframeData.push({
+          originalIframe: iframe,
+          thumbnailURL: thumbnailURL,
+          videoURL: videoURL,
+        });
+      }
+    }
   }
 
-  // ... (addTitleToPrint, addLinksOnPrint functions remain the same) ...
-  let originalHTML;
+  // ... (addTitleToPrint and addLinksOnPrint functions - same as before) ...
   function addTitleToPrint() {
     // Get the current page URL
     const pageUrl = window.location.href;
@@ -100,6 +70,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Create a parent div to contain all individual title lines
     const printTitleContainer = document.createElement("div");
     printTitleContainer.style.marginBottom = "10px";
+    printTitleContainer.classList.add("print-only");
 
     // Create a link element to wrap the title and link back to the original page
     const titleLink = document.createElement("a");
@@ -146,15 +117,17 @@ document.addEventListener("DOMContentLoaded", function () {
     // Create the heading and assign an ID to it
     const referencesHeading = document.createElement("h2");
     referencesHeading.id = "printed-urls-heading";
-
+    referencesHeading.classList.add("print-only");
     referencesHeading.textContent = "URLs for Links on this Page";
 
     // Create a paragraph after the heading
     const referencesDescription = document.createElement("p");
+    referencesDescription.classList.add("print-only");
     referencesDescription.textContent =
       "List of all external URLs available on this page in case it is printed on paper and the inline links are no longer clickable.";
 
     const referencesList = document.createElement("ol");
+    referencesList.classList.add("print-only");
     referencesList.className = "printed-link-urls";
 
     // Find the <main> element and insert the heading, paragraph, and list after it
@@ -195,23 +168,48 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
   }
-
-  // Prepare all thumbnails *before* the beforeprint event
-  const iframes = document.querySelectorAll("iframe");
-  for (const iframe of iframes) {
-    iframeReplacementPromises.push(prepareThumbnail(iframe));
-  }
+  // Call prepareThumbnails to start fetching data
+  prepareThumbnails();
 
   window.addEventListener("beforeprint", async () => {
-    originalHTML = document.body.innerHTML;
-    // Wait for ALL thumbnail replacements to complete
-    await Promise.all(iframeReplacementPromises);
-    addLinksOnPrint(); // These are synchronous, so they can go here
+    // Create and replace clones *inside* beforeprint
+    for (const data of iframeData) {
+      const clonedIframe = data.originalIframe.cloneNode(true); //deep clone
+      clonedIframe.classList.add("print-only"); // Add class for printing
+      data.originalIframe.classList.add("screen-only");
+
+      const link = document.createElement("a");
+      link.href = data.videoURL;
+      link.target = "_blank";
+      link.classList.add("replaced-video-thumbnail");
+
+      const img = document.createElement("img");
+      img.src = data.thumbnailURL;
+      img.style.width = "100%";
+      img.style.height = "auto";
+      img.alt = "Video Thumbnail";
+      //wait for image to load before replacing
+      await new Promise((resolve) => {
+        img.onload = () => resolve();
+        img.onerror = () => resolve(); // Resolve even on error
+        link.appendChild(img);
+        clonedIframe.parentNode.replaceChild(link, clonedIframe);
+      });
+      //insert the clone after the original
+      data.originalIframe.parentNode.insertBefore(
+        clonedIframe,
+        data.originalIframe.nextSibling
+      );
+    }
+    addLinksOnPrint();
     addTitleToPrint();
   });
 
   window.addEventListener("afterprint", () => {
-    document.body.innerHTML = originalHTML;
-    window.location.reload();
+    //remove the print-only class after printing.
+    const printOnlyElements = document.querySelectorAll(".print-only");
+    printOnlyElements.forEach((el) => el.remove());
+    const screenOnlyElements = document.querySelectorAll(".screen-only");
+    screenOnlyElements.forEach((el) => el.classList.remove("screen-only"));
   });
 });
