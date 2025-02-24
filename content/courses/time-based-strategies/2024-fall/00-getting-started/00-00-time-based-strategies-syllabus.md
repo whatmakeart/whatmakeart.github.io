@@ -1,7 +1,7 @@
 ---
 title: 00.00 Time Based Strategies Syllabus
 date: 2024-08-27T12:00:00
-lastmod: 2024-11-06T19:59:12
+lastmod: 2025-02-23T09:53:17
 ---
 
 ## Time Based Strategies Syllabus
@@ -130,7 +130,7 @@ Projects must be turned in on time. On time is before the beginning of class on 
 ### Required Textbooks and Readings
 
 - No required textbook
-- Course resources are available on [Canvas](https://cia.instructure.com/courses/1523) or [online](https://whatmakeart.com/courses/time-based-strategies/2024-fall/)
+- Course resources are available on [Canvas](https://cia.instructure.com/courses/1523) or [course website](https://whatmakeart.com/courses/time-based-strategies/2024-fall/)
 
 ### Required Supplies
 

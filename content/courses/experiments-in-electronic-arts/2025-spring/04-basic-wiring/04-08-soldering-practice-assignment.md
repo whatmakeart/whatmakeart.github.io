@@ -1,7 +1,7 @@
 ---
 title: 04.08 Soldering Practice Assignment
 date: 2025-02-10T12:00:00Z
-lastmod: 2025-02-17T07:43:17
+lastmod: 2025-02-24T05:51:04
 ---
 
 ## Assignment Deliverables
@@ -40,3 +40,16 @@ The only way to improve on a new skill is to practice. This exercise provides [s
 
 - Use the above technique to put wire through one hole on the perfboard and solder it to the pad.
 - Then attach the other end of the wire to one of the screw terminal pins that you attached earlier to make a connection.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| 10 Solder Pads Soldered      | 20 points |
+| Screw Terminal Soldered      | 20 points |
+| Solder Photo Uploaded        | 20 points |
+| File Management and Labeling | 10 points |
+
+</div>

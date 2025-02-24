@@ -1,7 +1,7 @@
 ---
-title: 07.03 Assemble Prototype of Final Project
+title: 07.03 Assemble Prototype Project
 date: 2023-03-03T09:30:00Z
-lastmod: 2024-12-04T06:11:27
+lastmod: 2025-02-23T16:24:15
 ---
 
 ## Assignment Deliverables

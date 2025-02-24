@@ -1,7 +1,7 @@
 ---
-title: 05.10 Break Project Code into Separate Functions
+title: 05.11 Break Project Code into Separate Functions Exercise
 date: 2025-02-17T12:00:00Z
-lastmod: 2025-02-17T07:43:17
+lastmod: 2025-02-24T06:13:11
 ---
 
 ## Assignment Deliverables

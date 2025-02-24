@@ -1,7 +1,7 @@
 ---
 title: 05.09 Project Prototype Triangles
 date: 2025-02-17T12:00:00Z
-lastmod: 2025-02-17T07:43:17
+lastmod: 2025-02-24T06:10:19
 ---
 
 ## Assignment Deliverables
@@ -25,3 +25,17 @@ Now that we have moved past the initial proposal stage of out electronics projec
 ## Resources
 
 [Prototyping Triangles](../../../../electronics/prototyping-triangle.md)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| List of Hardware Components  | 20 points |
+| List of Software Components  | 20 points |
+| List of Structure Components | 20 points |
+| Details for Each Category    | 30 points |
+| File Management and Labeling | 10 points |
+
+</div>

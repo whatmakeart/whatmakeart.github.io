@@ -1,7 +1,7 @@
 ---
 title: 03.06 Build Project Example Assignment
 date: 2025-02-03T12:00:00Z
-lastmod: 2025-02-04T10:58:50
+lastmod: 2025-02-24T05:38:08
 ---
 
 ## Assignment Deliverables
@@ -61,3 +61,16 @@ These examples were mostly created using large language models and plain languag
 </div>
 
 [LED Traffic Light Demo Arduino - Tinkercad Simulation](https://www.tinkercad.com/things/7bc8ETRwlql-state-machine-traffic-light)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                              | Weight    |
+| --------------------------------------- | --------- |
+| Project Wiring and Components Assembled | 40 points |
+| Evidence of Work and Effort             | 30 points |
+| Video Uploaded                          | 20 points |
+| File Management and Labeling            | 10 points |
+
+</div>
