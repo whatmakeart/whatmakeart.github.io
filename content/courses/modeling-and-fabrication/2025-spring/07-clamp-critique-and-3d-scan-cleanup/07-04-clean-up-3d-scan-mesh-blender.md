@@ -1,0 +1,8 @@
+---
+title: 07 Clean Up 3D Mesh
+date: 2025-02-26T12:00:00Z
+lastmod: 2025-02-27T09:57:54
+toc: true
+---
+
+![Link to included file content](../../../../3d-modeling/blender/clean-up-3d-scan-imported-mesh-blender.md)
