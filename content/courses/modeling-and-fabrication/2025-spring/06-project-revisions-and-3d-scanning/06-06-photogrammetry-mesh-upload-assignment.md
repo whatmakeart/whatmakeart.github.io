@@ -1,7 +1,7 @@
 ---
 title: 06.06 Photogrammetry Mesh Upload Assignment
 date: 2025-02-20T12:00:00Z
-lastmod: 2025-02-20T11:51:00
+lastmod: 2025-02-28T08:06:21
 ---
 
 ## Assignment Deliverables
@@ -26,3 +26,20 @@ lastmod: 2025-02-20T11:51:00
 ### Export `.obj` from Photogrammetry Software
 
 - [Export OBJ from Adobe Substance Sampler](../../../../3d-modeling/export-obj-from-adobe-substance-sampler.md)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment | Weight |
+| ---------- | ------ |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+
+</div>

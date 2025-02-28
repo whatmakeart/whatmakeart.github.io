@@ -1,7 +1,7 @@
 ---
 title: 06.07 3D Scan Mesh Upload Assignment
 date: 2025-02-20T12:00:00Z
-lastmod: 2025-02-20T11:55:36
+lastmod: 2025-02-28T08:06:21
 ---
 
 ## Assignment Deliverables
@@ -24,3 +24,20 @@ lastmod: 2025-02-20T11:55:36
 
 - [Using the Artec LEO Scanner at the think\[box\]](https://docs.google.com/document/d/1exUfxtAQUs_jO2Xyjpi7rHWTzmwLQn9H4bCctTACKtQ/edit?tab=t.0)
 - [Processing Artec LEO 3D Scan with Artec Software](https://docs.google.com/document/d/1APUIcMroTnVMKYQ4wz5wtvgj-zB0gfGnMr1G_2_bbEg/edit?tab=t.0)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment | Weight |
+| ---------- | ------ |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+
+</div>

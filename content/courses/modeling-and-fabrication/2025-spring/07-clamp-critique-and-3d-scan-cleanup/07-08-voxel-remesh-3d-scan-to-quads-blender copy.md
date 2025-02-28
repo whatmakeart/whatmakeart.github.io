@@ -1,7 +1,7 @@
 ---
-title: 07.05 Voxel Remesh 3D Scan to Quads Blender
+title: 07.08 Voxel Remesh 3D Scan to Quads Blender
 date: 2025-02-26T12:00:00Z
-lastmod: 2025-02-26T18:06:05
+lastmod: 2025-02-28T08:06:21
 toc: true
 ---
 
