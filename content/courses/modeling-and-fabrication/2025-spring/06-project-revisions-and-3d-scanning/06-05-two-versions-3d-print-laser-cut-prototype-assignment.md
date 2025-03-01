@@ -1,7 +1,7 @@
 ---
 title: 06.05 Two Versions of 3D Print and Laser Cut Prototype Assignment
 date: 2025-02-20T12:00:00Z
-lastmod: 2025-02-28T08:06:21
+lastmod: 2025-03-01T06:56:52
 ---
 
 ## Assignment Deliverables
@@ -23,15 +23,15 @@ lastmod: 2025-02-28T08:06:21
 
 <div class="responsive-table-markdown">
 
-| Assessment | Weight |
-| ---------- | ------ |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
+| Assessment                   | Weight |
+| ---------------------------- | ------ |
+| Version 1 Present            | 30     |
+| Version 2 3D Printed         | 20     |
+| Version 2 Laser Cut          | 20     |
+| Version 2 3D Printed Threads | 20     |
+| Version 2 Laser Cut Joint    | 20     |
+| Version 2 Fastener           | 20     |
+| Design Changes               | 20     |
+| Assembly                     | 20     |
 
 </div>
