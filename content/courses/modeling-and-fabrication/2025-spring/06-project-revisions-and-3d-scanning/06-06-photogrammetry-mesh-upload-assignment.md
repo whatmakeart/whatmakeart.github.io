@@ -1,7 +1,7 @@
 ---
 title: 06.06 Photogrammetry Mesh Upload Assignment
 date: 2025-02-20T12:00:00Z
-lastmod: 2025-02-28T08:06:21
+lastmod: 2025-03-02T06:44:40
 ---
 
 ## Assignment Deliverables
@@ -31,15 +31,11 @@ lastmod: 2025-02-28T08:06:21
 
 <div class="responsive-table-markdown">
 
-| Assessment | Weight |
-| ---------- | ------ |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
+| Assessment                   | Weight |
+| ---------------------------- | ------ |
+| obj Mesh File Uploaded       | 30     |
+| png Texture File Uploaded    | 30     |
+| mtl Material File Uploaded   | 30     |
+| File Management and Labeling | 10     |
 
 </div>
