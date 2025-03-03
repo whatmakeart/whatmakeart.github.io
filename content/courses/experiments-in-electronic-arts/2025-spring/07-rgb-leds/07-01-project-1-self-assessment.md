@@ -1,7 +1,7 @@
 ---
 title: 07.01 - Project 1 Self Assessment
 date: 2025-03-03T12:00:00Z
-lastmod: 2025-03-03T12:06:34
+lastmod: 2025-03-03T12:21:34
 ---
 
 Respond to the following about your project.
@@ -14,4 +14,4 @@ Respond to the following about your project.
 6. What would you do differently and why?
 7. What are remaining unknowns?
 8. What do you know now that you did not know at the start of the project?
-9. Did you use an LLM? How did you use it? What worked and what did not?
+9. Did you use a Large Language Model (LLM) such as ChatGPT? How did you use it? What worked and what did not?
