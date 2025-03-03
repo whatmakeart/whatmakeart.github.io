@@ -1,7 +1,7 @@
 ---
 title: 03.03 Mashup Slip Cast 2D Ideation Sketch Assignment
 date: 2025-02-05T09:00:00
-lastmod: 2025-02-19T06:46:22
+lastmod: 2025-03-03T06:19:39
 ---
 
 ## Assignment Deliverables
@@ -23,8 +23,7 @@ lastmod: 2025-02-19T06:46:22
 | ---------------------------- | --------- |
 | Variety of Ideation Sketches | 30 points |
 | Depth of Ideation Sketches   | 30 points |
-| Documentation Quality        | 25 points |
+| Documentation Quality        | 30 points |
 | File Management              | 10 points |
 
 </div>
-a
