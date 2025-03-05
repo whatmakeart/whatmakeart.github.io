@@ -1,7 +1,7 @@
 ---
 title: 06.07 Select Three Public Domain Images
 date: 2025-02-26T09:00:00
-lastmod: 2025-02-26T17:22:52
+lastmod: 2025-03-05T13:49:55
 ---
 
 ## Assignment Deliverables
@@ -23,3 +23,17 @@ Image information to include
 4. Location of image if available
 5. Brief description of image and why you selected it
 6. URL of image
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                        | Weight    |
+| --------------------------------- | --------- |
+| Image 1 Uploaded                  | 25 points |
+| Image 2 Uploaded                  | 25 points |
+| Image 3 Uploaded                  | 25 points |
+| Image Source Information Included | 15 points |
+| File Management and Labeling      | 10 points |
+
+</div>
