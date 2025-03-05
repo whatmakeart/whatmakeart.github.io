@@ -1,7 +1,7 @@
 ---
-title: 07.08 Digital Catalog Week 7 Assignment
+title: 07.04 Digital Catalog Week 7 Assignment
 date: 2025-03-05T09:00:00
-lastmod: 2025-03-05T06:11:09
+lastmod: 2025-03-05T13:06:34
 ---
 
 ## Assignment Deliverables
