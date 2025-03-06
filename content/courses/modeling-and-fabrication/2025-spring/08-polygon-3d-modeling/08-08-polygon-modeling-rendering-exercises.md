@@ -1,7 +1,7 @@
 ---
 title: 08.08 Polygon Modeling Rendering Exercise
 date: 2020-01-26T23:11:13Z
-lastmod: 2025-03-06T11:57:02
+lastmod: 2025-03-06T13:34:14
 ---
 
 ## Assignment Deliverables
@@ -23,10 +23,28 @@ This exercise introduces using lights and physical based material shaders in Ble
 
 <div class="video-card">
 
+### Blender Basic Block Model
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/L5e7ysUUI7Arel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
 ### Blender Basic Render
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/Qw8jl8mKEsY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Maya Basic Block Model
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/lLItO9mBwxMrel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
