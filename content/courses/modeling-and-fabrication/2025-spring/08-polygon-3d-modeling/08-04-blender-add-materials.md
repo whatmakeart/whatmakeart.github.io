@@ -1,7 +1,7 @@
 ---
-title: "12.04 Blender Add Materials"
+title: 08.04 Blender Add Materials
 date: 2020-01-26T23:11:13Z
-lastmod: 2025-02-28T08:06:21
+lastmod: 2025-03-06T11:57:02
 toc: true
 ---
 

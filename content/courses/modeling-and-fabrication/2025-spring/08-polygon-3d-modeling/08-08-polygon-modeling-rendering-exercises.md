@@ -1,7 +1,7 @@
 ---
-title: "12.08 Polygon Modeling Rendering Exercise"
+title: 08.08 Polygon Modeling Rendering Exercise
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2025-03-06T11:57:02
 ---
 
 ## Assignment Deliverables

@@ -1,7 +1,7 @@
 ---
-title: "12.07 Maya Rendering Basics"
+title: 08.07 Maya Rendering Basics
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-02-22T06:45:54
+lastmod: 2025-03-06T11:57:02
 toc: true
 ---
 
