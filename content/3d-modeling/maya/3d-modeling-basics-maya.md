@@ -1,7 +1,10 @@
 ---
 title: 3D Modeling Basics - Maya
 date: 2023-06-16T05:44:28
-lastmod: 2024-02-22T06:27:58
+lastmod: 2025-03-06T04:30:35
+tags:
+  - Maya
+  - 3D Modeling
 ---
 
 ## Maya User Interface Quick Start
@@ -10,7 +13,7 @@ lastmod: 2024-02-22T06:27:58
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/-SpVNiRqeKY?si=-UGVKSDZk_-JlTDa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-[Maya](maya.md) is a 3D modeling program that can be overwhelming at the start but like any software, becomes much easier and understandable with a bit of use.
+[Maya](./maya.md) is a [3D modeling](../3d-modeling.md) program that can be overwhelming at the start but like any software, becomes much easier and understandable with a bit of use. The official [Maya Help Documentation](https://help.autodesk.com/view/MAYAUL/2025/ENU/) is a great place to get started with the basics of Maya as well as explore advanced topics.
 
 ## Maya Keyboard Shortcuts [^1]
 
@@ -61,11 +64,10 @@ Maya Default Scene with cube
 </figure>
 
 - [Maya User Interface](https://youtu.be/-SpVNiRqeKY)
+- [Change Units in Maya](./change-units-maya.md)
 - [Maya Polygon Modeling Tools](https://youtu.be/eBEitxaRYQs)
 - [Maya Hole in a Cube](https://youtu.be/EIKiJUmUH7A)
 - [Maya Beginner Polygon Modeling Tutorial](https://youtu.be/lLItO9mBwxM)
-
-The official online [Maya Learning Documentation](https://knowledge.autodesk.com/support/maya/learn) is a good place to learn the basics and investigate advanced topics.
 
 ## Maya Basic Modeling
 

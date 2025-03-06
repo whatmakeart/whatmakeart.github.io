@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling Basics - Blender
 date: 2023-06-14T13:46:52
-lastmod: 2024-10-15T06:33:52
+lastmod: 2025-03-06T04:30:44
 tags:
   - Blender
   - 3D Modeling
@@ -13,7 +13,7 @@ tags:
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/d54uJufn1pA?si=jOpx5BL0q9mdviJP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-The official [Blender Online Documentation](https://docs.blender.org/manual/en/dev/) is a great place to get started with the basics of Blender as well as explore advanced topics.
+[Blender](./blender.md) is a [3D modeling](../3d-modeling.md) program that can be overwhelming at the start but like any software, becomes much easier and understandable with a bit of use. The official online [Blender Reference Manual](https://docs.blender.org/manual/en/latest/index.html) is a good place to learn the basics and investigate advanced topics.
 
 ## Blender Keyboard Shortcuts
 
@@ -65,11 +65,9 @@ Blender Default Scene with cube
 
 - [Blender User Interface](https://youtu.be/d54uJufn1pA)
 - [Change Units in Blender](./change-units-blender.md)
-- [Blender Modeling Tools](https://docs.blender.org/manual/en/latest/modeling/index.html)
+- [Blender Polygon Modeling Tools](https://docs.blender.org/manual/en/latest/modeling/index.html)
 - [Blender Hole in Cube](https://youtu.be/COyvicPBTSA)
 - [Blender Beginner Polygon Modeling Tutorial](https://youtu.be/L5e7ysUUI7A)
-
-The official online [Blender Reference Manual](https://docs.blender.org/manual/en/latest/index.html) is a good place to learn the basics and investigate advanced topics.
 
 ## Blender Basic Modeling
 
