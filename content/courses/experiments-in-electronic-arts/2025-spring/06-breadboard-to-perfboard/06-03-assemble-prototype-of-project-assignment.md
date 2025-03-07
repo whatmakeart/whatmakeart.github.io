@@ -1,13 +1,12 @@
 ---
-title: 07.03 Assemble Prototype Project
-date: 2023-03-03T09:30:00Z
-lastmod: 2025-03-03T11:44:12
+title: 06.03 Assemble Prototype Project Assignment
+date: 2023-02-24T12:00:00Z
+lastmod: 2025-03-07T10:03:50
 ---
 
 ## Assignment Deliverables
 
 1. Physical prototype of project with as many components working as possible. Function and proof of concept demonstrations are more important that looks or appearance.
-2. Photo / Video of prototype function uploaded.
 
 ## Assignment Overview
 

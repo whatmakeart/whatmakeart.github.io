@@ -1,13 +1,12 @@
 ---
-title: 07.06 LED Strip Wiring Exercise
+title: 07.06 LED Strip Wiring In Class Exercise Assignment
 date: 2025-03-03T12:00:00Z
-lastmod: 2025-03-03T11:37:33
+lastmod: 2025-03-07T10:03:50
 ---
 
 ## Assignment Deliverables
 
-- 5-10 second video of LED Strip running FastLED Demo Code
-- Label file YYYYMMDD Lastname Firstname LED Strip Wiring.mp4 (mp4, mv4, mov)
+1. Follow in class instructions to fabricate wiring harness with crimp connections to power an addressable LED strip and send data from a microcontroller
 
 ## Overview
 
@@ -23,11 +22,10 @@ Using the [fastLED library examples](../../../../arduino/arduino-fast-led.md), e
 
 <div class="responsive-table-markdown">
 
-| Assessment            | Value     |
-| --------------------- | --------- |
-| Wiring to LED Strip   | 20 points |
-| Crimp Connectors Used | 20 points |
-| Video Documentation   | 40 points |
-| File Management       | 10 points |
+| Assessment                   | Value     |
+| ---------------------------- | --------- |
+| Wiring to LED Strip          | 30 points |
+| Crimp Connectors Used        | 30 points |
+| Use FastLED Library Examples | 40 points |
 
 </div>

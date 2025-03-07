@@ -1,7 +1,7 @@
 ---
-title: 07.02 - Making Perfboard Connections
-date: 2023-03-03T09:30:00Z
-lastmod: 2025-02-17T07:43:17
+title: 06.02 - Making Perfboard Connections
+date: 2023-02-24T12:00:00Z
+lastmod: 2025-03-07T10:03:50
 toc: true
 ---
 
