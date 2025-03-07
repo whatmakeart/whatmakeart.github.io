@@ -1,7 +1,7 @@
 ---
 title: Blender vs Maya
 date: 2024-01-26T05:22:49
-lastmod: 2024-02-29T19:29:08
+lastmod: 2025-03-07T06:00:47
 ---
 
 ## Blender vs Maya Basic Rendering
@@ -71,6 +71,7 @@ lastmod: 2024-02-29T19:29:08
 | [Maya Animate Paint Effects](https://youtu.be/FoKHHpjsJyw)                |                                                                                  |
 | [Maya Local Translate Z vs Thickness](https://youtu.be/VVGgCLsDglI)       |                                                                                  |
 | [Maya Extrude Tool](https://youtu.be/yyExyA67log)                         |                                                                                  |
+| [Change Units in Maya](https://youtu.be/XJcL8W5LHjs)                      | [Blender Change Units](https://youtu.be/7S1p17VvFiA)                             |
 | [Maya Procedural Orange Texture](https://youtu.be/5OrQVV_8ag0)            |                                                                                  |
 | [Maya 3 Minute Disco Ball](https://youtu.be/2IMRu48ENzY)                  |                                                                                  |
 | [Maya Infinite Photo Backdrop](https://youtu.be/y2ylWfbrC58)              | [Blender Infinite Photo Backdrop](https://youtu.be/lsEYDk00WFs)                  |
