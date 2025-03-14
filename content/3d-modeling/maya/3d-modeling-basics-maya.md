@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling Basics - Maya
 date: 2023-06-16T05:44:28
-lastmod: 2025-03-06T04:30:35
+lastmod: 2025-03-14T13:37:31
 tags:
   - Maya
   - 3D Modeling
@@ -71,9 +71,9 @@ Maya Default Scene with cube
 
 ## Maya Basic Modeling
 
-- Maya Move Objects
+- [Maya Move Objects](https://youtu.be/fda8xMeOADI)
 - Maya Merge Vertices
-- Maya Mirror
+- [Maya Mirror Tool](https://youtu.be/k6MKu9YxXr0)
 - Maya Object vs Face vs Edge vs Vertex Mode
 - [Maya Extrude](https://youtu.be/yyExyA67log)
 - [Maya Freeze Transformations](https://youtu.be/1SXvWTiMkjs)
@@ -95,6 +95,24 @@ Maya Default Scene with cube
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/eBEitxaRYQs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Maya Move Objects
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fda8xMeOADI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Maya Mirror Tool
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/k6MKu9YxXr0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
