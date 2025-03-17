@@ -1,7 +1,7 @@
 ---
 title: 08.08 Polygon Modeling Rendering Exercise
 date: 2020-01-26T23:11:13Z
-lastmod: 2025-03-06T13:45:50
+lastmod: 2025-03-07T12:48:40
 ---
 
 ## Assignment Deliverables
@@ -56,5 +56,19 @@ This exercise introduces using lights and physical based material shaders in Ble
 <iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/9RHh4OSPKQQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
+
+</div>
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                     | Weight    |
+| ------------------------------ | --------- |
+| 1920 x 1080 pixel render image | 30 points |
+| Minimum of 2 lights            | 20 points |
+| Minimum of 2 objects           | 20 points |
+| Apply Materials                | 20 points |
+| File Management and Labeling   | 10 points |
 
 </div>

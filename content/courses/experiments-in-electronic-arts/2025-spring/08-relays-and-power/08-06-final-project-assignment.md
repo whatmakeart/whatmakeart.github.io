@@ -1,7 +1,7 @@
 ---
 title: 08.06 - Final Project Assignment
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-03-17T08:09:25
+lastmod: 2025-03-17T11:45:24
 ---
 
 ## Assignment Deliverables
@@ -20,4 +20,19 @@ Using the skills from the first half of the semester, lessons learned from the f
 
 ## Assignment Requirements
 
+### Skills / Components / Techniques
+
+Pick a minimum of 2 of the following skills / components / techniques from the course.
+
+- Addressable LEDs
+- Relays to control power
+- Wireless communication
+- Stepper motors
+- Servo motors
+- Environmental sensors (ultrasonic, photo, sound ...)
+- LCD Touch Screen
+- Computer Vision
+
 ## Assignment Challenges
+
+Select a minimum of 1 challenge

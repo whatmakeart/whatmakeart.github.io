@@ -1,7 +1,7 @@
 ---
 title: 07.09 Form Workspace Modeling Assignment
 date: 2025-02-26T12:00:00Z
-lastmod: 2025-03-02T06:51:16
+lastmod: 2025-03-17T11:45:41
 ---
 
 ## Assignment Deliverables
@@ -24,15 +24,15 @@ lastmod: 2025-03-02T06:51:16
 
 <div class="responsive-table-markdown">
 
-| Assessment             | Weight    |
-| ---------------------- | --------- |
-| T-Spline Modeled       | 30 points |
-| Solid Form Combined    | 20 points |
-| Hole or Recess Cut Out | 20 points |
-| Champers or Fillets    | 20 points |
-| Materials Applied      | 10 points |
-| Render Exported        | 10 points |
-| Render Composition     | 10 points |
-| File Management        | 10 points |
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| T-Spline Modeled             | 30 points |
+| Solid Form Combined          | 20 points |
+| Hole or Recess Cut Out       | 20 points |
+| Chamfers or Fillets          | 20 points |
+| Materials Applied            | 10 points |
+| Render Exported              | 10 points |
+| Render Composition           | 10 points |
+| File Management and Labeling | 10 points |
 
 </div>

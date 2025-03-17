@@ -1,7 +1,7 @@
 ---
 title: 08.05 - Final Project Proposals Assignment
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-03-17T08:07:09
+lastmod: 2025-03-17T11:40:39
 ---
 
 ## Assignment Deliverables

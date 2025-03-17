@@ -1,7 +1,7 @@
 ---
 title: 06.03 Assemble Prototype Project Assignment
 date: 2023-02-24T12:00:00Z
-lastmod: 2025-03-07T10:03:50
+lastmod: 2025-03-17T11:45:41
 ---
 
 ## Assignment Deliverables
@@ -17,3 +17,16 @@ Testing components in isolation can only go so far. Eventually a project needs t
 - Components, sensors, motors, relays, buttons, should be securely attached in the locations that they will be in the final project.
 - Longer wires will be needed to connect the electronic components
 - It is important that you can "disconnect" longer wires from component boards so you can disassemble and transport your project.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                     | Weight    |
+| ------------------------------ | --------- |
+| Evidence of Work               | 40 points |
+| 2-3 Photos Uploaded            | 25 points |
+| Brief 3-5 Sentence Description | 25 points |
+| File Management and Labeling   | 10 points |
+
+</div>
