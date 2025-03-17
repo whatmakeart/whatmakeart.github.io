@@ -1,13 +1,13 @@
 ---
 title: 08.04 - Relay Wiring Exercise Assignment
 date: 2025-03-17T12:00:00Z
-lastmod: 2025-03-17T06:10:29
+lastmod: 2025-03-17T06:16:21
 ---
 
 ## Assignment Deliverables
 
-- 5-10 second video of relay module operating a load, controlled by the Arduino
-- Label file YYYYMMDD Lastname Firstname Relay Wiring.mp4 (mp4, mv4, mov)
+1. Upload a 5-10 second video of relay module operating a load, controlled by a microcrontroller (`.mp4`)
+   - Label file YYYYMMDD Lastname Firstname Relay Wiring.mp4
 
 ## Overview
 
