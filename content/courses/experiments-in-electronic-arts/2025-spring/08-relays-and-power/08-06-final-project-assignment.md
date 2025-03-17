@@ -1,7 +1,7 @@
 ---
 title: 08.06 - Final Project Assignment
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-03-17T06:01:30
+lastmod: 2025-03-17T08:09:25
 ---
 
 ## Assignment Deliverables
@@ -15,5 +15,9 @@ lastmod: 2025-03-17T06:01:30
    - Label Photos YYYYMMDD Lastname Firstname Final Project Description
 
 ## Assignment Overview
+
+Using the skills from the first half of the semester, lessons learned from the first self directed project, and new skills learning in the second half of the semester, design and fabricate an electronics arts project that follows the requirements below.
+
+## Assignment Requirements
 
 ## Assignment Challenges
