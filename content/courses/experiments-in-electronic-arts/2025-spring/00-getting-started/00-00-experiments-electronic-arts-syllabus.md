@@ -1,7 +1,7 @@
 ---
 title: 00.00 Experiments in Electronic Arts Syllabus
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-03-17T05:36:27
+lastmod: 2025-03-17T06:10:29
 ---
 
 ### Course Information
@@ -105,13 +105,13 @@ Concurrently with work on the final project, a range of smaller learning modules
 | 6          | February 24 | [Breadboard to Perfboard](../06-breadboard-to-perfboard/06-00-introduction.md)                                         |
 | 7          | March 3     | [Project 1 Crit + RGB LEDs](../07-rgb-leds/07-00-introduction.md)                                                      |
 |            | March 10    | **No Class Spring Break**                                                                                              |
-| 8          | March 17    | [08](../08/08-00-introduction.md)                                                                                      |
-| 9          | March 24    | [09](../09/09-00-introduction.md)                                                                                      |
-| 10         | March 31    | [10](../10/10-00-introduction.md)                                                                                      |
+| 8          | March 17    | [Relays and Power](../08-relays-and-power/08-00-introduction.md)                                                       |
+| 9          | March 24    | [Stepper Motors](../09-stepper-motors/09-00-introduction.md)                                                           |
+| 10         | March 31    | [Long Distance Communication](..//10-long-distance-communication/11-00-introduction.md)                                |
 | 11         | April 7     | [11](../11/11-00-introduction.md)                                                                                      |
 | 12         | April 14    | [Design and Fabricate Electronics Enclosures](../12-design-and-fabricate-electronics-enclosures/12-00-introduction.md) |
 | 13         | April 21    | [Troubleshooting Electronics Projects](../13-troubleshooting-electronics-projects/13-00-introduction.md)               |
-| 14         | April 28    | [Final Project 2 Crit](../14-final-projects/14-00-introduction.md)                                                     |
+| 14         | April 28    | [Final Project Crit](../14-final-projects/14-00-introduction.md)                                                       |
 |            | May 5 - 9   | BFA Reviews and Exhibitions                                                                                            |
 
 </div>
