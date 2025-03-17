@@ -1,7 +1,7 @@
 ---
 title: 08.06 - Final Project Assignment
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-03-17T11:45:24
+lastmod: 2025-03-17T14:27:10
 ---
 
 ## Assignment Deliverables
@@ -36,3 +36,35 @@ Pick a minimum of 2 of the following skills / components / techniques from the c
 ## Assignment Challenges
 
 Select a minimum of 1 challenge
+
+### Wearables
+
+- Stress and heartbeat monitoring wearable
+- Interactive jewelry
+- Display information about environment on clothing
+- Gesture controlled music player embbedded in clothing
+- Wearable musical instrument
+
+### Environment Sensing
+
+- Air quality monitorying
+- Measure Water Usage
+- Automatic house plant watering device
+- Reactive room lighting
+- Kinetic sculpture that moves based on environment
+
+### Communication and Data
+
+- Ambient abstract data display
+- Mood or presence display
+
+## Roboty
+
+- Self balancing robot on wheels
+- Line following robot
+- Remote controlled robot
+- Auto sorting machine for marbles or screws or candy
+
+### Wildcards
+
+- define your own challenge or challenges
