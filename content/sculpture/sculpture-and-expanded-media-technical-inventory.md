@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2024-12-15T07:23:38
+lastmod: 2025-03-17T04:38:32
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -200,6 +200,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | Spray Painting                                                                                         |       |             |             |             |             |
 | [Stone Carving](./stone-carving-basics.md)                                                             |       |             |             |             |             |
 | Book Binding                                                                                           |       |             |             |             |             |
+| [Pixel Mapping](../electronics/pixel-mapping.md)                                                       |       |             |             |             |             |
 | Hand Sewing                                                                                            |       |             |             |             |             |
 | Embroidery                                                                                             |       |             |             |             |             |
 | Powder Coating                                                                                         |       |             |             |             |             |
@@ -214,29 +215,28 @@ Review the list of [sculpture materials](../making/materials-for-making.md) belo
 
 <div class="responsive-table-markdown">
 
-| Material                                       | What? | Heard of It | Used Before | Comfortable | Well Versed |
-| ---------------------------------------------- | ----- | ----------- | ----------- | ----------- | ----------- |
-| Fabric                                         |       |             |             |             |             |
-| 2 Part Epoxy Resin                             |       |             |             |             |             |
-| [Plaster](../making/plaster.md)                |       |             |             |             |             |
-| Felt                                           |       |             |             |             |             |
-| Steel                                          |       |             |             |             |             |
-| Aluminum                                       |       |             |             |             |             |
-| Cardboard                                      |       |             |             |             |             |
-| Wool                                           |       |             |             |             |             |
-| Thread                                         |       |             |             |             |             |
-| Olive Oil Soap                                 |       |             |             |             |             |
-| 2 Part Silicone                                |       |             |             |             |             |
-| Wire Mesh                                      |       |             |             |             |             |
-| [LEDs](../electronics/leds.md)                 |       |             |             |             |             |
-| Polycarbonate                                  |       |             |             |             |             |
-| Acrylic                                        |       |             |             |             |             |
-| Oil Clay                                       |       |             |             |             |             |
-| Stoneware Clay                                 |       |             |             |             |             |
-| Glass                                          |       |             |             |             |             |
-| Fiberglass                                     |       |             |             |             |             |
-| [Found Objects](../sculpture/found-objects.md) |       |             |             |             |             |
-| Wire                                           |       |             |             |             |             |
+| Material                        | What? | Heard of It | Used Before | Comfortable | Well Versed |
+| ------------------------------- | ----- | ----------- | ----------- | ----------- | ----------- |
+| Fabric                          |       |             |             |             |             |
+| 2 Part Epoxy Resin              |       |             |             |             |             |
+| [Plaster](../making/plaster.md) |       |             |             |             |             |
+| Felt                            |       |             |             |             |             |
+| Steel                           |       |             |             |             |             |
+| Aluminum                        |       |             |             |             |             |
+| Cardboard                       |       |             |             |             |             |
+| Wool                            |       |             |             |             |             |
+| Thread                          |       |             |             |             |             |
+| Olive Oil Soap                  |       |             |             |             |             |
+| 2 Part Silicone                 |       |             |             |             |             |
+| Wire Mesh                       |       |             |             |             |             |
+| [LEDs](../electronics/leds.md)  |       |             |             |             |             |
+| Polycarbonate                   |       |             |             |             |             |
+| Acrylic                         |       |             |             |             |             |
+| Oil Clay                        |       |             |             |             |             |
+| Stoneware Clay                  |       |             |             |             |             |
+| Glass                           |       |             |             |             |             |
+| Fiberglass                      |       |             |             |             |             |
+| Wire                            |       |             |             |             |             |
 
 </div>
 
@@ -244,13 +244,14 @@ Review the list of [sculpture materials](../making/materials-for-making.md) belo
 
 <div class="responsive-table-markdown">
 
-| Concept         | What? | Heard of It | Used Before | Comfortable | Well Versed |
-| --------------- | ----- | ----------- | ----------- | ----------- | ----------- |
-| In the Round    |       |             |             |             |             |
-| Appropriation   |       |             |             |             |             |
-| Media Literacy  |       |             |             |             |             |
-| Materiality     |       |             |             |             |             |
-| Reproducibility |       |             |             |             |             |
+| Concept                                        | What? | Heard of It | Used Before | Comfortable | Well Versed |
+| ---------------------------------------------- | ----- | ----------- | ----------- | ----------- | ----------- |
+| In the Round                                   |       |             |             |             |             |
+| Appropriation                                  |       |             |             |             |             |
+| Media Literacy                                 |       |             |             |             |             |
+| Materiality                                    |       |             |             |             |             |
+| Reproducibility                                |       |             |             |             |             |
+| [Found Objects](../sculpture/found-objects.md) |       |             |             |             |             |
 
 </div>
 

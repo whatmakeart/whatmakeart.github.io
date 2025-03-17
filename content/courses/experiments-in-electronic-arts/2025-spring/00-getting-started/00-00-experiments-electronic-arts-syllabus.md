@@ -1,7 +1,7 @@
 ---
 title: 00.00 Experiments in Electronic Arts Syllabus
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-02-17T07:43:17
+lastmod: 2025-03-17T05:36:27
 ---
 
 ### Course Information
@@ -94,25 +94,25 @@ Concurrently with work on the final project, a range of smaller learning modules
 
 <div class="responsive-table-markdown">
 
-| **Module** | **Date**    | **Topic**                                                                                                      |
-| ---------- | ----------- | -------------------------------------------------------------------------------------------------------------- |
-| 1          | January 13  | [Basic Electronics Introduction](../01-basic-electronics-introduction/01-00-basic-electronics-introduction.md) |
-|            | January 20  | **MLK Day - No Classes**                                                                                       |
-| 2          | January 27  | [Basic Interactivity](../02-basic-interactivity/02-00-introduction-basic-interactivity.md)                     |
-| 3          | February 3  | [Sensing the Environment](../03-sensing-the-environment/03-00-introduction.md)                                 |
-| 4          | February 10 | [Basic Wiring](../04-basic-wiring/04-0-introduction.md)                                                        |
-| 5          | February 17 | [Prototyping Circuits and Code](../05-prototyping-circuits-and-code/05-00-introduction.md)                     |
-| 6          | February 24 | [Breadboard to Perfboard](../06-breadboard-to-perfboard/06-00-introduction.md)                                 |
-| 7          | March 3     | Project 1 Crit                                                                                                 |
-|            | March 10    | **No Class Spring Break**                                                                                      |
-| 8          | March 17    | Lecture / Workshop / Studio Work                                                                               |
-| 9          | March 24    | Lecture / Workshop / Studio Work                                                                               |
-| 10         | March 31    | Lecture / Workshop / Studio Work                                                                               |
-| 11         | April 7     | Lecture / Workshop / Studio Work                                                                               |
-| 12         | April 14    | Lecture / Workshop / Studio Work                                                                               |
-| 13         | April 21    | Lecture / Workshop / Studio Work - Spring Show + Film Festival                                                 |
-| 14         | April 28    | Final Project 2 Crit                                                                                           |
-|            | May 5 - 9   | BFA Reviews and Exhibitions                                                                                    |
+| **Module** | **Date**    | **Topic**                                                                                                              |
+| ---------- | ----------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 1          | January 13  | [Basic Electronics Introduction](../01-basic-electronics-introduction/01-00-basic-electronics-introduction.md)         |
+|            | January 20  | **MLK Day - No Classes**                                                                                               |
+| 2          | January 27  | [Basic Interactivity](../02-basic-interactivity/02-00-introduction-basic-interactivity.md)                             |
+| 3          | February 3  | [Sensing the Environment](../03-sensing-the-environment/03-00-introduction.md)                                         |
+| 4          | February 10 | [Basic Wiring](../04-basic-wiring/04-0-introduction.md)                                                                |
+| 5          | February 17 | [Prototyping Circuits and Code](../05-prototyping-circuits-and-code/05-00-introduction.md)                             |
+| 6          | February 24 | [Breadboard to Perfboard](../06-breadboard-to-perfboard/06-00-introduction.md)                                         |
+| 7          | March 3     | [Project 1 Crit + RGB LEDs](../07-rgb-leds/07-00-introduction.md)                                                      |
+|            | March 10    | **No Class Spring Break**                                                                                              |
+| 8          | March 17    | [08](../08/08-00-introduction.md)                                                                                      |
+| 9          | March 24    | [09](../09/09-00-introduction.md)                                                                                      |
+| 10         | March 31    | [10](../10/10-00-introduction.md)                                                                                      |
+| 11         | April 7     | [11](../11/11-00-introduction.md)                                                                                      |
+| 12         | April 14    | [Design and Fabricate Electronics Enclosures](../12-design-and-fabricate-electronics-enclosures/12-00-introduction.md) |
+| 13         | April 21    | [Troubleshooting Electronics Projects](../13-troubleshooting-electronics-projects/13-00-introduction.md)               |
+| 14         | April 28    | [Final Project 2 Crit](../14-final-projects/14-00-introduction.md)                                                     |
+|            | May 5 - 9   | BFA Reviews and Exhibitions                                                                                            |
 
 </div>
 

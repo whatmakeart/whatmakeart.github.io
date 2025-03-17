@@ -1,7 +1,7 @@
 ---
-title: 05.04 Pixel Mapping
-date: 2023-09-22T09:30:00
-lastmod: 2025-03-17T04:36:35
+title: 07.07 Pixel Mapping
+date: 2025-03-03T12:00:00Z
+lastmod: 2025-03-17T05:52:28
 toc: true
 ---
 

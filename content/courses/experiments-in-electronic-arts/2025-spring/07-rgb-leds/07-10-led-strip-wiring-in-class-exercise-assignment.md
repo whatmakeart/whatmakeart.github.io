@@ -1,7 +1,7 @@
 ---
-title: 07.06 LED Strip Wiring In Class Exercise Assignment
+title: 07.10 LED Strip Wiring In Class Exercise Assignment
 date: 2025-03-03T12:00:00Z
-lastmod: 2025-03-07T10:03:50
+lastmod: 2025-03-17T05:52:25
 ---
 
 ## Assignment Deliverables

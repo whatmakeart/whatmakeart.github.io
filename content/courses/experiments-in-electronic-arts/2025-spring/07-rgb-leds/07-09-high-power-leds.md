@@ -1,7 +1,7 @@
 ---
-title: 07.05 High Power LEDs
+title: 07.09 High Power LEDs
 date: 2025-03-03T12:00:00Z
-lastmod: 2025-03-03T11:37:33
+lastmod: 2025-03-17T05:52:28
 toc: true
 ---
 
