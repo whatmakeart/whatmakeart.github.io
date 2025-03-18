@@ -1,7 +1,7 @@
 ---
 title: 08.06 - Final Project Assignment
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-03-17T14:27:10
+lastmod: 2025-03-18T08:19:19
 ---
 
 ## Assignment Deliverables
@@ -32,6 +32,7 @@ Pick a minimum of 2 of the following skills / components / techniques from the c
 - Environmental sensors (ultrasonic, photo, sound ...)
 - LCD Touch Screen
 - Computer Vision
+- Own self selected skill / component / technique
 
 ## Assignment Challenges
 
@@ -42,12 +43,12 @@ Select a minimum of 1 challenge
 - Stress and heartbeat monitoring wearable
 - Interactive jewelry
 - Display information about environment on clothing
-- Gesture controlled music player embbedded in clothing
+- Gesture controlled music player embedded in clothing
 - Wearable musical instrument
 
 ### Environment Sensing
 
-- Air quality monitorying
+- Air quality monitoring
 - Measure Water Usage
 - Automatic house plant watering device
 - Reactive room lighting
