@@ -1,7 +1,7 @@
 ---
-title: 15.01 Digital Catalog Compiled Assignment
-date: 2025-04-30T09:00:00
-lastmod: 2025-01-20T15:44:53
+title: 13.03 Digital Catalog Compiled Assignment
+date: 2025-04-23T09:00:00
+lastmod: 2025-03-19T05:38:35
 ---
 
 ## Assignment Deliverables

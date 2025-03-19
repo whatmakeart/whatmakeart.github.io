@@ -1,9 +1,5 @@
 ---
-title: 08.00 Introduction
+title: 08.01 Relief Printing
 date: 2025-03-19T09:00:00
-lastmod: 2025-03-19T04:56:45
+lastmod: 2025-03-19T05:32:06
 ---
-
-## Overview
-
-Students prepare their laser cut blocks for printmaking and begin to pull prints in the print studio.
