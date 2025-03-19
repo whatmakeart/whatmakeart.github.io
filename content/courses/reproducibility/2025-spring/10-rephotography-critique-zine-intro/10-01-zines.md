@@ -1,7 +1,7 @@
 ---
-title: 06.01 Zines
+title: 10.01 Zines
 date: 2025-04-02T09:00:00
-lastmod: 2025-02-19T07:31:45
+lastmod: 2025-03-19T04:56:45
 ---
 
 ## Links

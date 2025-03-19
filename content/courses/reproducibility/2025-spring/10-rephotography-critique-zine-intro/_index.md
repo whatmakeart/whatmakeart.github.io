@@ -1,5 +1,5 @@
 ---
-title: 10 Rephotograpy Critique and Zine Intro
+title: 10 Rephotography Critique and Zine Intro
 date: 2025-04-02T09:00:00
-lastmod: 2025-02-19T07:31:45
+lastmod: 2025-03-19T04:56:45
 ---
