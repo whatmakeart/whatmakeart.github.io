@@ -1,7 +1,7 @@
 ---
 title: Relief Printing
 date: 2025-03-19T09:00:00
-lastmod: 2025-03-19T06:54:02
+lastmod: 2025-03-19T08:58:37
 ---
 
 ## Sealing the Printing Plate
@@ -29,7 +29,7 @@ lastmod: 2025-03-19T06:54:02
 6. Both sides of the press must be set exactly the same for even pressure.
 7. Make note of your pressure settings and write which press was used with what pressure settings on the back of your plate
 8. If there is a lower section or "dead-spot" on the plate, placing more newsprint in that area can help pull a more even print.
-9. Six over five is good starting point for the first press or Two over 1/2 F for the second press
+9. Six over five is good starting point for the first press. Note the press counts from 0 at the bottom. 2 over 1/2 F is a starting point for the second press
 10. Note: Press #1 is always engaged with the wheel and press #2 is not automatically engaged and may need to be "assisted" when you start to turn the wheel. Be aware of what is going toward the press and avoid allowing anything but the print pass through the press. Be aware of where your hands and clothing are. Be safe.
 
 ## Preparing Printing Ink
@@ -90,3 +90,17 @@ lastmod: 2025-03-19T06:54:02
 2. Do not wet your hands. The soap will not work if your hands are already wet.
 3. Apply the waterless soap first and rub it around your hands to remove and capture all ink.
 4. Then rinse clean with water.
+
+<div class="image-gallery">
+
+<figure>
+<figcaption>
+</figcaption>
+</figure>
+
+<figure>
+<figcaption>
+</figcaption>
+</figure>
+
+</div>

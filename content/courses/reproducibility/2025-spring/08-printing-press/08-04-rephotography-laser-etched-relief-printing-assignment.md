@@ -1,13 +1,15 @@
 ---
 title: 08.04 Rephotography Laser Etched Relief Printing Assignment
 date: 2025-03-19T09:00:00
-lastmod: 2025-03-19T08:50:48
+lastmod: 2025-03-19T08:55:05
 ---
 
 ## Assignment Deliverables
 
 1. A unique, singular work of Rephotography from an appropriated image
-2. An edition of the same appropriated image made with relief printing or intalio printing
+2. An edition of the same appropriated image made with relief printing or intalio printing (minimum 3 identical copies)
+3. Written description of the work and its intent (`.docx` or `.pdf`)
+   - Label file YYYYMMDD Lastname Firstname rephotography work description
 
 ## Assignment Overview
 
