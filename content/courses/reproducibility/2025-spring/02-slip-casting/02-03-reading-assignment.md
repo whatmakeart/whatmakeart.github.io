@@ -1,7 +1,7 @@
 ---
 title: 02.03 Reading Assignment
 date: 2025-01-29T09:00:00
-lastmod: 2025-01-30T09:03:17
+lastmod: 2025-03-19T05:06:15
 ---
 
 ## Assignment Deliverables
@@ -142,3 +142,19 @@ The parallels between Benjamin’s historical context and today’s digital land
 
 </details>
 <br>
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                                         | Weight    |
+| -------------------------------------------------- | --------- |
+| PDF or docx uploaded                               | 5 points  |
+| Name at top                                        | 5 points  |
+| Name of Author, Reading Title, Date of Publication | 5 points  |
+| 3 Questions                                        | 25 points |
+| 3 Cultural Events                                  | 25 points |
+| 3 Political Events                                 | 25 points |
+| File Management and Labeling                       | 10 points |
+
+</div>
