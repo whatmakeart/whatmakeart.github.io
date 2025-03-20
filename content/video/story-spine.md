@@ -1,7 +1,7 @@
 ---
 title: Story Spine
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-07T20:57:01
+lastmod: 2025-03-20T11:33:29
 ---
 
 ## What is a Story Spine?
@@ -37,3 +37,5 @@ The characters must make a choice to overcome the obstacles of Act 2. This the â
 1.  Until, finally...
 2.  And, ever since then...
 3.  And the moral of the story is ....
+
+[Link to Blank Fillable Story Spine Sheet](./attachments/story-spine-sheet.docx)
