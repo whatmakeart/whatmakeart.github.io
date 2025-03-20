@@ -1,7 +1,7 @@
 ---
 title: 09.13 3D Line Animation Project Assignment
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-03-20T07:21:02
+lastmod: 2025-03-20T11:27:22
 ---
 
 ## Line Animation Starter Project Files
@@ -30,6 +30,14 @@ Create a 30 second long video composed in Adobe Premiere using images created an
 - Have UV mapped objects with textures created by you
 - Show basic animation principles such as squash and stretch, movement in arcs, acceleration / deceleration, easing in / easing out
 - Include sounds created by you
+
+## Example Animation
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/jhpDobTmsHc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+[Assignment Example Animation](https://youtu.be/jhpDobTmsHc)
 
 ## Objectives
 
