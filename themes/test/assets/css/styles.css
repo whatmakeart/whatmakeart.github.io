@@ -252,7 +252,7 @@ body.dark {
 .two-column-grid-wrapper > ul {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  align-items: center;
+  align-items: top;
   grid-gap: 1rem;
   padding-bottom: 1rem;
 }
@@ -391,6 +391,13 @@ a.title-link {
 }
 
 .gallery-grid > figure {
+  display: grid;
+  row-gap: 0;
+  grid-template-rows: subgrid;
+  grid-row: span 2; /* uses subgrid to align the captions */
+}
+
+.two-column-grid > figure {
   display: grid;
   row-gap: 0;
   grid-template-rows: subgrid;
