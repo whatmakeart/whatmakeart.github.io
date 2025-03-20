@@ -1,7 +1,7 @@
 ---
 title: 08.00 Introduction
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-03-06T08:52:52
+lastmod: 2025-03-20T05:19:03
 ---
 
 ## Overview
@@ -10,11 +10,19 @@ lastmod: 2025-03-06T08:52:52
 
 ## Learning Objectives
 
+- Demonstrate an understanding and competence of composition and other fundamental visual concepts as applied to moving art and sound
+- Use basic principles such as squash and stretch and motion to create a purposeful composition
+- Use a variety of shots and camera angles
+- Use well-considered visual themes, including colors and general style of visual treatments and elements
+
 ## Key Terms
 
-- animation
-- [keyframes](../../../../video/keyframes.md)
+- [animation](./09-01-animation.md)
+- [keyframes](./09-02-keyframes.md)
 - interpolation
 - graph editor
 - [sound effect](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
-- [shot types](../../../../video/shot-types.md)
+- [shot types](./09-02-shot-types.md)
+- [storyboards](./09-03-storyboards.md)
+- visual themes
+- [narrative arc](./09-01-narrative-arc.md)

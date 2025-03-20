@@ -1,7 +1,7 @@
 ---
 title: 3D Animation - Maya
 date: 2023-06-14T11:48:36
-lastmod: 2024-03-07T11:42:54
+lastmod: 2025-03-20T05:31:22
 ---
 
 To set a keyframe in Maya press the S key.
@@ -100,6 +100,14 @@ To set a keyframe in Maya press the S key.
 ### Insert Reference Image
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/tXJFJa-nsAA?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+</div>
+
+<div class="video-card">
+
+### Camera Follow Curve
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/FYtc27jxIXg?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 </div>
 
