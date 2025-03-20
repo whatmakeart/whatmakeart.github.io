@@ -1,7 +1,7 @@
 ---
 title: 09.08 3D Animation Project Environment Building Assignment
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-03-06T08:52:52
+lastmod: 2025-03-20T06:27:52
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2025-03-06T08:52:52
 
 ## Process
 
-Spend 3 hours modeling 3D environments for your animation project. Use your story spines and storyboards as a guide. Make camera objects to see if your environment if matching what you want to show in your storyboards.
+Spend 3 hours modeling 3D environments for your [line animation project](./09-09-3d-line-animation-project-assignment.md). Use your story spines and storyboards as a guide. Make camera objects to see if your environment if matching what you want to show in your storyboards.
 
 ## Grading Rubric
 
