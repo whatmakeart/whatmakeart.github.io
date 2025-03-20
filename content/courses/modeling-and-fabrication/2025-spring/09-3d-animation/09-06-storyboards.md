@@ -1,7 +1,7 @@
 ---
-title: 09.03 Storyboards
+title: 09.06 Storyboards
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-03-20T05:20:31
+lastmod: 2025-03-20T07:21:11
 toc: true
 ---
 

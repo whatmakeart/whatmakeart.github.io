@@ -1,7 +1,7 @@
 ---
-title: 08.00 Introduction
+title: 09.00 Introduction
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-03-20T05:19:03
+lastmod: 2025-03-20T07:21:11
 ---
 
 ## Overview
@@ -22,7 +22,8 @@ lastmod: 2025-03-20T05:19:03
 - interpolation
 - graph editor
 - [sound effect](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
-- [shot types](./09-02-shot-types.md)
-- [storyboards](./09-03-storyboards.md)
+- [shot types](./09-03-shot-types.md)
+- [storyboards](./09-06-storyboards.md)
 - visual themes
-- [narrative arc](./09-01-narrative-arc.md)
+- [story spine](./09-05-story-spines.md)
+- [narrative arc](./09-04-narrative-arc.md)
