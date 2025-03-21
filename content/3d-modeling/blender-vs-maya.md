@@ -1,7 +1,7 @@
 ---
 title: Blender vs Maya
 date: 2024-01-26T05:22:49
-lastmod: 2025-03-07T06:00:47
+lastmod: 2025-03-21T06:27:24
 ---
 
 ## Blender vs Maya Basic Rendering
@@ -46,7 +46,7 @@ lastmod: 2025-03-07T06:00:47
 | [Maya Coffee Cup](https://youtu.be/V59XKklgfDE)                           |                                                                                  |
 | [Maya Ball Bounce Animation Physics](https://youtu.be/v7qQTfDQ3Ac)        |                                                                                  |
 | [Maya Add Renderable Camera](https://youtu.be/v7qQTfDQ3Ac)                |                                                                                  |
-| [Maya Render Image Sequence](https://youtu.be/vxvIUBeTkL0)                |                                                                                  |
+| [Maya Render Image Sequence](https://youtu.be/vxvIUBeTkL0)                | [Blender Render Animation Sequence](https://youtu.be/KUF6M9pmjak)                |
 | [Maya 3D Paint Tool](https://youtu.be/JIOns8Tkmhs)                        | [Blender Texture Paint](https://youtu.be/A0a-YndPpOM)                            |
 | [Maya 3D Paint Complex Object](https://youtu.be/0JY8UA75qjI)              | [Blender Texture Paint Complex Object](https://youtu.be/Oz4fiddcazI)             |
 | [Maya Multiple Renderable Cameras](https://youtu.be/g0btNU7YPUo)          |                                                                                  |
@@ -60,7 +60,7 @@ lastmod: 2025-03-07T06:00:47
 | [Maya Delete History Freeze Transformation](https://youtu.be/1SXvWTiMkjs) |                                                                                  |
 | [Maya UV Auto Seams](https://youtu.be/8-TMjuvzZEU)                        | [Blender Smart UV Project](https://youtu.be/MkT4xIhoaLM)                         |
 | [Substance to Maya](https://youtu.be/sCKc_6nTRPM)                         |                                                                                  |
-| [Maya Archive Scene](https://youtu.be/gic-kMWKjNI)                        |                                                                                  |
+| [Maya Archive Scene](https://youtu.be/gic-kMWKjNI)                        | [Blender Pack External Resources](https://youtu.be/x6H6HFBLRlU)                  |
 | [Maya Custom Rig Controllers](https://youtu.be/CtsTcsBHGdY)               |                                                                                  |
 | [Maya Selection Child Highlighting](https://youtu.be/HuGrXTDwP7c)         |                                                                                  |
 | [Maya Make Window](https://youtu.be/wdxEtr3bLT4)                          |                                                                                  |
@@ -83,13 +83,13 @@ lastmod: 2025-03-07T06:00:47
 |                                                                           | [BLender Inset Tool Across Modifier Mirror](https://youtu.be/FWhQdcOmP_8)        |
 |                                                                           | [Blender Random Colors](https://youtu.be/VzqZuXZJVRo)                            |
 |                                                                           | [Blender Transparent Texture](https://youtu.be/622uGwLxbPY)                      |
-|                                                                           | [Blender Auto Mirror](https://youtu.be/f7UeiFP0Gvc)                              |
+| [Maya Mirror Tool](https://youtu.be/k6MKu9YxXr0)                          | [Blender Auto Mirror](https://youtu.be/f7UeiFP0Gvc)                              |
 |                                                                           | [Blender Procedural Wood Texture](https://youtu.be/mLMESPS2uKY)                  |
 |                                                                           | [Blender Random Number in Range](https://youtu.be/i9JTQ8S63x0)                   |
 |                                                                           | [Blender Low Poly Car](https://youtu.be/zvAXVnefhy8)                             |
 |                                                                           | [Blender Bevel + Sub D](https://youtu.be/R73wtu1Ixnw)                            |
 |                                                                           | [Blender Model Hard Surface Plates](https://youtu.be/HGdw5ywWxQI)                |
-|                                                                           | [Blender Move Objects](https://youtu.be/t4MtOUyOkPM)                             |
+| [Maya Move Objects](https://youtu.be/fda8xMeOADI)                         | [Blender Move Objects](https://youtu.be/t4MtOUyOkPM)                             |
 |                                                                           | [Blender Checker Texture on Sphere](https://youtu.be/gv8tQS9bSb8)                |
 |                                                                           | [BLender HDRI Background](https://youtu.be/k-moDmBUrrI)                          |
 |                                                                           | [Blender Cloth Simulation](https://youtu.be/IYdfMqRIfMA)                         |
@@ -106,6 +106,6 @@ lastmod: 2025-03-07T06:00:47
 |                                                                           | [Blender Animate Emissive Lights Eevvee](https://youtu.be/DQkw2gmkZjo)           |
 |                                                                           | [Blender 3D Scanning Photogrammetry](https://youtu.be/VYVrhqY9498)               |
 |                                                                           | [Blender Auto Rig Character Mixamo](https://youtu.be/0-FWVd6oCXg)                |
-|                                                                           | [Blender Camera Follow Path](https://youtu.be/5EQdQdtg-ao)                       |
+| [Maya Camera Follow Curve](https://youtu.be/FYtc27jxIXg)                  | [Blender Camera Follow Path](https://youtu.be/5EQdQdtg-ao)                       |
 
 </div>

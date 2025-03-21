@@ -1,7 +1,7 @@
 ---
 title: 09.13 3D Line Animation Project Assignment
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-03-20T11:27:22
+lastmod: 2025-03-21T06:26:26
 ---
 
 ## Line Animation Starter Project Files
@@ -13,7 +13,7 @@ lastmod: 2025-03-20T11:27:22
 
 1. Exported `.mp4` video file with .h264 compression of a 30 second 3D animation with sound
    - Label file YYYYMMDD Lastname Firstname 3D Line Animation.mp4
-2. Blender file with all external resources packed `.blend` or Maya project archive file `.zip` with all scenes and assets (.zip)
+2. Blender file with all external resources packed `.blend` or Maya scene archive file `.zip` with all scenes and assets (.zip)
    - Label file YYYYMMDD Lastname Firstname 3D Animation Project File
 3. Project Description and Credits Sheet (`.docx` or `.pdf`)
    - Label file YYYYMMDD Lastname Firstname 3D Animation Project Description and Credits.pdf
@@ -77,15 +77,26 @@ Composes an animation that navigates through an inventive 3D environment crafted
 
 ## Process
 
-1. Draft a [Story Spine](../../../../video/story-spine.md) that follows a basic narrative arc. This will give you guidelines and a plan to make your animation.
-2. Use the story spine to draw storyboards of the scenes and different camera angles that you want to use. Draw a page of storyboards to use a a guide for production.
+1. Draft a [Story Spine](./09-05-story-spines.md) that follows a basic narrative arc. This will give you guidelines and a plan to make your animation.
+2. Use the story spine to draw [storyboards](./09-06-storyboards.md) of the scenes and different camera angles that you want to use. Draw a page of storyboards to use a a guide for production.
 3. Start with the animation template files that have the "background cube" and the "line." Keep the beginning and the end of the scenes as is but modify the rest of the frames and objects outside the view of the beginning and ending camera to create a 3D environment or "animation set" of 3D modeled objects. This environment should be real world scale and be interesting enough to use as a setting for your animation. You can model different items for your scene and combine the meshes and group them together. You can save the items all in one scene or save each item as a different scene and import them into your main scene.
 4. Use the UV mapping editor in Maya to map the UVs of your objects Apply the Textures and edit as needed. You can also use Adobe's Substance Painter to add detailed textures. Smooth your object and then save it as an .obj file to import into Substance Painter. Then you can use all of the materials in Substance Painter.
 5. Add lights to the scene.
-6. Add multiple cameras to the scene. Animate camera(s) that travel through the scene in an interesting way. Remember that the beginning and the ending of the animation must be exactly the same and show the horizontal line.
-7. Use the animation principles of squash, stretch, exaggeration, anticipation and follow through. Use a minimum of 3 different camera angles and shot types. to apply textures to your objects. Export the different camera angles as separate sequence renders.
+6. Add multiple cameras to the scene. Animate camera(s) that travel through the scene in an interesting way.
+   - [Camera Follow Curve in Maya](https://youtu.be/FYtc27jxIXg)
+   - [Camera Follow Path in Blender](https://youtu.be/5EQdQdtg-ao)
+7. Use a minimum of 2 different camera angles and shot types. Remember that the beginning and the ending of the animation must be exactly the same and show the horizontal line.
+8. Use the animation principles of squash, stretch, exaggeration, anticipation and follow through.
+9. Apply textures to your objects.
+10. Render your animation frames.
+    - [Render Image Sequence in Maya](https://youtu.be/vxvIUBeTkL0)
+    - [Render Animation in Blender](https://youtu.be/KUF6M9pmjak)
+11. Import the animation frames as a image sequence into Adobe Premiere.
+    - [How to Import Image Sequence into Premiere](https://youtu.be/X7w0xOprNDk)
 
 ## Tips
+
+- [List of Maya and Blender Tutorials](../../../../3d-modeling/blender-vs-maya.md)
 
 ### Blender
 

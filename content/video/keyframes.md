@@ -1,7 +1,7 @@
 ---
 title: Keyframes
 date: 2023-06-14T11:42:20
-lastmod: 2025-03-20T05:04:58
+lastmod: 2025-03-21T04:31:59
 ---
 
 Keyframes describe an attribute at a point in time. This could be position, scale, rotation, opacity or many other parameters. With only a single keyframe, nothing happens. If a second keyframe is set at a different point in time and has a different value for that same attribute as the first keyframe, then software can "tween" or animate the transition from one keyframe value to another keyframe value.
@@ -84,6 +84,8 @@ Ease Out then Ease In Key Frames
 ## Keyframe Graph Editor
 
 Graph editors in programs like [After Effects](../video/after-effects/after-effects.md), [Maya](../3d-modeling/maya/maya.md), [Blender](../3d-modeling/blender/blender.md) and other animation and motion graphics software, allow you to fin tune the interpolation of keyframes. On a standard timeline you can change the frame of the keyframe and its basic interpolation but with the graph editor more complex interpolations, including "overshooting" the keyframe value are possible.
+
+In the graphs the X axis show time and the Y axis shows the value of the parameter being animated.
 
 <div class="gallery-grid">
 <figure>

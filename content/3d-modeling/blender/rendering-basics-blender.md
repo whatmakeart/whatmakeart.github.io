@@ -1,7 +1,7 @@
 ---
 title: Rendering Basics - Blender
 date: 2023-06-14T13:53:02
-lastmod: 2024-02-22T06:45:54
+lastmod: 2025-03-21T06:41:14
 ---
 
 ## Eevee and Cycles
@@ -33,8 +33,8 @@ The Point Light has adjustments for color, power, diffuse, specular, volume, and
 - [Blender Basic Render](https://youtu.be/Qw8jl8mKEsY)
 - [Blender Tri Lighting Add On](https://youtu.be/SbMuowrbKe0)
 - [Blender Infinite Background for Render](https://youtu.be/lsEYDk00WFs)
-- [Fix Eevee Shadow Quality](https://youtu.be/K6Oom8gFch4)
 - [Add HDRI Background Blender](https://youtu.be/k-moDmBUrrI)
+- [Render Animation Sequence](https://youtu.be/KUF6M9pmjak)
 
 <div class="video-grid">
 
@@ -67,10 +67,10 @@ The Point Light has adjustments for color, power, diffuse, specular, volume, and
 
 <div class="video-card">
 
-### Fix Eevee Shadow Quality
+### Render Animation Sequence
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/K6Oom8gFch4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/KUF6M9pmjak?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
