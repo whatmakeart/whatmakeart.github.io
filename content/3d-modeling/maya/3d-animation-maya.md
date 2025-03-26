@@ -1,13 +1,14 @@
 ---
 title: 3D Animation - Maya
 date: 2023-06-14T11:48:36
-lastmod: 2025-03-20T05:31:22
+lastmod: 2025-03-26T18:01:17
 ---
 
-To set a keyframe in Maya press the S key.
+To set a keyframe in Maya press the `S` key.
 
 ## Animation
 
+- [How to Set Keyframes in Maya](https://youtu.be/T2zB0u4dZdU)
 - [Maya Time Slider Settings](https://youtu.be/SYuaAMHzY_8)
 - [Maya Add Renderable Camera](https://youtu.be/VfqYe8O6KlM)
 - [Maya Render Image Sequence](https://youtu.be/vxvIUBeTkL0)
@@ -30,6 +31,14 @@ To set a keyframe in Maya press the S key.
 ## Maya Animation Instructional Videos
 
 <div class="video-grid">
+
+<div class="video-card">
+
+### How to Set Keyframes Maya
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/T2zB0u4dZdU?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+</div>
 
 <div class="video-card">
 

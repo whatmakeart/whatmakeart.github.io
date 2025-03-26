@@ -1,7 +1,7 @@
 ---
 title: Blender vs Maya
 date: 2024-01-26T05:22:49
-lastmod: 2025-03-21T06:27:24
+lastmod: 2025-03-26T18:02:59
 ---
 
 ## Blender vs Maya Basic Rendering
@@ -36,6 +36,7 @@ lastmod: 2025-03-21T06:27:24
 | [Maya Beginner Modeling Block](https://youtu.be/lLItO9mBwxM)              | [Blender Beginner Modeling Block](https://youtu.be/L5e7ysUUI7A)                  |
 | [Maya 3 Point Lighting](https://youtu.be/1nYSVw6-GxA)                     | [Blender 3 Point Lighting](https://youtu.be/SbMuowrbKe0)                         |
 | [Maya UV Mapping Basics](https://youtu.be/X0KGwPadukE)                    |                                                                                  |
+| [Maya Set Keyframes](https://youtu.be/T2zB0u4dZdU)                        | [Blender Set Keyframes](https://youtu.be/pNtni7oPrLU)                            |
 | [Maya Ball Rig](https://youtu.be/3uYyw_q7L3o)                             | [Blender Ball Rigging](https://youtu.be/VsBTUaRESr0)                             |
 | [Maya Quad Ball Rig](https://youtu.be/zgNk7WGKV30)                        |                                                                                  |
 | [Maya Tennis Ball](https://youtu.be/IfSis4ns8SY)                          |                                                                                  |

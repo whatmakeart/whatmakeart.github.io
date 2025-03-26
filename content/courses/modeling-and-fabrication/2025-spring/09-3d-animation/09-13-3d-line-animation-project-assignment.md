@@ -1,7 +1,7 @@
 ---
 title: 09.13 3D Line Animation Project Assignment
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-03-21T06:26:26
+lastmod: 2025-03-26T18:04:45
 ---
 
 ## Line Animation Starter Project Files
@@ -87,6 +87,8 @@ Composes an animation that navigates through an inventive 3D environment crafted
    - [Camera Follow Path in Blender](https://youtu.be/5EQdQdtg-ao)
 7. Use a minimum of 2 different camera angles and shot types. Remember that the beginning and the ending of the animation must be exactly the same and show the horizontal line.
 8. Use the animation principles of squash, stretch, exaggeration, anticipation and follow through.
+   - [Set Keyframes Maya](https://youtu.be/T2zB0u4dZdU)
+   - [Set Keyframes Blender](https://youtu.be/pNtni7oPrLU)
 9. Apply textures to your objects.
 10. Render your animation frames.
     - [Render Image Sequence in Maya](https://youtu.be/vxvIUBeTkL0)
