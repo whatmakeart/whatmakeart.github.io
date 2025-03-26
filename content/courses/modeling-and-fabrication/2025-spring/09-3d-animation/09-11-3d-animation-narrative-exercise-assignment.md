@@ -1,7 +1,7 @@
 ---
 title: 09.11 3D Animation Narrative Exercise Assignment
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-03-20T11:58:18
+lastmod: 2025-03-26T08:43:51
 ---
 
 ## Assignment Deliverables
