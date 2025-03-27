@@ -1,7 +1,7 @@
 ---
 title: 10.10 Texturing and Rendering In Class Exercise
 date: 2025-03-27T12:00:00Z
-lastmod: 2025-03-27T04:58:34
+lastmod: 2025-03-27T11:29:46
 ---
 
 ## Assignment Deliverables
@@ -67,12 +67,40 @@ Normal Map
 
 <div class="video-grid">
 
+<div class="video-card">
+
+#### Maya UV in Class Exercise
+
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/D3q2HleBJIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+</div>
+
+<div class="video-card">
+
+#### Blender UV in Class Exercise
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/OOmQNgawF8c?si=qkpRun0uEaGDfp2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Maya HDRI Image
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/wiad9sjWAOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Blender HDRI Image
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/VaGfn4i5dKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 </div>
 
 </div>
@@ -81,17 +109,13 @@ Normal Map
 
 <div class="responsive-table-markdown">
 
-| Assessment                                       | Weight |
-| ------------------------------------------------ | ------ |
-| More than 6 faces object in Blender scene        | 10     |
-| Use Texture Image + Bump Map on Blender material | 10     |
-| Minimum of 1 light source Blender scene          | 10     |
-| Render 2 different camera views Blender scene    | 10     |
-| Upload Blender .blend file with packed resources | 10     |
-| More than 6 faces object in Maya scene           | 10     |
-| Use Texture Image + Bump Map on Maya material    | 10     |
-| Minimum of 1 light source Maya scene             | 10     |
-| Render 2 different camera views Maya scene       | 10     |
-| Upload Maya scene archive .zip                   | 10     |
+| Assessment                                                                             | Weight    |
+| -------------------------------------------------------------------------------------- | --------- |
+| More than 6 faces on object in 3D scene                                                | 20        |
+| Use Texture Image + Bump Map on material                                               | 20        |
+| Minimum of 1 light source                                                              | 20        |
+| Render 2 different camera views                                                        | 20        |
+| Upload Blender .blend file with packed resources **or** Upload Maya scene archive .zip | 10        |
+| File Management and Labeling                                                           | 10 points |
 
 </div>
