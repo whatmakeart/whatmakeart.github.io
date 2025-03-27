@@ -1,7 +1,7 @@
 ---
 title: Blender vs Maya
 date: 2024-01-26T05:22:49
-lastmod: 2025-03-26T18:02:59
+lastmod: 2025-03-27T10:20:48
 ---
 
 ## Blender vs Maya Basic Rendering
@@ -96,7 +96,7 @@ lastmod: 2025-03-26T18:02:59
 |                                                                           | [Blender Cloth Simulation](https://youtu.be/IYdfMqRIfMA)                         |
 |                                                                           | [Blende Rigid Body Physics](https://youtu.be/q88mMWW2yNs)                        |
 |                                                                           | [Blender 3D Text](https://youtu.be/Wa6yMXE0RZk)                                  |
-|                                                                           | [Blender Fluid Simulation](https://youtu.be/DUKkJSpCJ8A)                         |
+| [Maya Fluid Simulation](https://youtu.be/KN4kVBJLZDQ)                     | [Blender Fluid Simulation](https://youtu.be/DUKkJSpCJ8A)                         |
 |                                                                           | [Blender Scale Floor Plan](https://youtu.be/8iMWUsqeopQ)                         |
 |                                                                           | [Blender Install fSpy Addon](https://youtu.be/1HOqnb1Uji4)                       |
 |                                                                           | [Blender Change Scene Units](https://youtu.be/7S1p17VvFiA)                       |
