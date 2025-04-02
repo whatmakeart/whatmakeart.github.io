@@ -1,5 +1,5 @@
 ---
 title: 10.05 Digital Output Printing
 date: 2025-04-02T09:00:00
-lastmod: 2025-03-19T04:56:45
+lastmod: 2025-04-02T08:49:08
 ---
