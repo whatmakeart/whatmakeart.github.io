@@ -1,7 +1,7 @@
 ---
-title: 09.09 Adobe Premiere Import Image Sequence
+title: 09.11 Adobe Premiere Import Image Sequence
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-03-20T07:21:11
+lastmod: 2025-04-03T10:00:12
 toc: true
 ---
 

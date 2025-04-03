@@ -1,7 +1,7 @@
 ---
-title: 09.13 3D Line Animation Project Assignment
+title: 09.15 3D Line Animation Project Assignment
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-03-26T18:04:45
+lastmod: 2025-04-03T10:00:12
 ---
 
 ## Line Animation Starter Project Files
