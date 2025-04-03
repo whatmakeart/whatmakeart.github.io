@@ -1,7 +1,7 @@
 ---
 title: 13.05 ShopBot Reservation
 date: 2025-04-10T12:00:00Z
-lastmod: 2025-04-02T20:04:39
+lastmod: 2025-04-03T11:25:57
 ---
 
 ## Assignment Deliverables
@@ -16,6 +16,8 @@ lastmod: 2025-04-02T20:04:39
 It is necessary to reserve time to use the ShopBot so everyone can plan and schedule their CNC projects.
 
 Remember that the CNC project documentation is due before the final critique. Make sure you make your reservation soon enough to have enough time to assemble your project, apply desired surface finishes, and take documentation photos.
+
+- [How to take a screenshot](../../../../software/how-to-take-a-screenshot.md)
 
 ### ShopBot Reservation Time
 

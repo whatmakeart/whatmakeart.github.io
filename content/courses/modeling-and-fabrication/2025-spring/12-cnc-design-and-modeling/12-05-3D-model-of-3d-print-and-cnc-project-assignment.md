@@ -1,7 +1,7 @@
 ---
 title: 12.04 3D Model of 3D Print and CNC Project
 date: 2025-04-10T12:00:00Z
-lastmod: 2025-04-02T20:00:30
+lastmod: 2025-04-03T11:26:30
 ---
 
 ## Assignment Deliverables
@@ -19,8 +19,6 @@ lastmod: 2025-04-02T20:00:30
 4. Apply materials and make a rendering of the project.
 
 ## Resources
-
-- [How to take a screenshot](../../../../software/how-to-take-a-screenshot.md)
 
 ### User Parameter Resources
 
