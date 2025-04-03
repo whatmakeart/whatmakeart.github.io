@@ -1,7 +1,7 @@
 ---
-title: 13.04 Create Toolpath CNC Project
+title: 13.05 Create Toolpath CNC Project Assignment
 date: 2025-04-17T12:00:00Z
-lastmod: 2025-03-20T05:31:40
+lastmod: 2025-04-02T20:04:31
 ---
 
 ## Assignment Deliverables

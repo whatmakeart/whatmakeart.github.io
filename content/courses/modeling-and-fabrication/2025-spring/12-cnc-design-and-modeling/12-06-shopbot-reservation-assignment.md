@@ -1,7 +1,7 @@
 ---
 title: 13.05 ShopBot Reservation
-date: 2025-04-17T12:00:00Z
-lastmod: 2025-03-20T05:31:40
+date: 2025-04-10T12:00:00Z
+lastmod: 2025-04-02T20:04:39
 ---
 
 ## Assignment Deliverables
@@ -36,13 +36,11 @@ You must go to your reserved time because there are limited slots. The shop will
 
 Click [this link](https://my.cia.edu/ICS/Departments/Fab_Studios/ShopBot_CNC.jnz) to make a [shopBot reservation](https://my.cia.edu/ICS/Departments/Fab_Studios/ShopBot_CNC.jnz).
 
-## Purchase Additional Plywood
+## Purchase Additional Plywood _(if needed)_
 
 After you make your Fusion 360 model of your CNC project, lay the parts out flat. Then look at the size of the sketch that you needed to use in the Arrange command to lay your parts flat. This will let you know how much plywood that you need. You can buy plywood in 48"x48" or 48"x96" or 60"x60". It comes in a range of thicknesses. Stop by the Fab Studios to see the plywood in person. Then purchase the right size board for your project. If your model is just a bit over you may be able to fit the last piece on someone else's scrap.
 
 [Purchase Plywood](https://my.cia.edu/ICS/Departments/CIA_Store/Fabrication_Studios/Wood/)
-
-[![Purchace Plywood](./2024-04-18-purchase-plywood.jpg)](https://my.cia.edu/ICS/Departments/CIA_Store/Fabrication_Studios/Wood/)
 
 ## Grading Rubric
 

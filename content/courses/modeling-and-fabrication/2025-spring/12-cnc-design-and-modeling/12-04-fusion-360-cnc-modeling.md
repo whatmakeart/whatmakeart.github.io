@@ -1,7 +1,7 @@
 ---
 title: 11.06 Fusion 360 CNC Modeling
-date: 2025-04-03T12:00:00Z
-lastmod: 2025-03-20T05:31:40
+date: 2025-04-10T12:00:00Z
+lastmod: 2025-04-02T20:00:30
 toc: true
 ---
 
