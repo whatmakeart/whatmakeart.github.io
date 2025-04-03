@@ -1,7 +1,7 @@
 ---
-title: 11.05 CNC Tolerances and Fit
+title: 12.03 CNC Tolerances and Fit
 date: 2025-04-10T12:00:00Z
-lastmod: 2025-04-02T20:00:30
+lastmod: 2025-04-03T11:41:18
 toc: true
 ---
 

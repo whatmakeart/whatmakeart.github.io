@@ -1,7 +1,7 @@
 ---
-title: 12.04 3D Model of 3D Print and CNC Project
+title: 12.05 3D Model of 3D Print and CNC Project
 date: 2025-04-10T12:00:00Z
-lastmod: 2025-04-03T11:26:30
+lastmod: 2025-04-03T11:41:18
 ---
 
 ## Assignment Deliverables

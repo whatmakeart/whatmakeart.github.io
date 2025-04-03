@@ -1,7 +1,7 @@
 ---
-title: 13.05 ShopBot Reservation
+title: 12.06 ShopBot Reservation Assignment
 date: 2025-04-10T12:00:00Z
-lastmod: 2025-04-03T11:25:57
+lastmod: 2025-04-03T11:41:18
 ---
 
 ## Assignment Deliverables

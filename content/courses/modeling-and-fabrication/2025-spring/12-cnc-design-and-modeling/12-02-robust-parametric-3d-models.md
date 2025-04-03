@@ -1,7 +1,7 @@
 ---
-title: 11.04 Robust Parametric 3D Models
+title: 12.02 Robust Parametric 3D Models
 date: 2025-04-10T12:00:00Z
-lastmod: 2025-04-02T20:04:39
+lastmod: 2025-04-03T11:41:18
 toc: true
 ---
 
