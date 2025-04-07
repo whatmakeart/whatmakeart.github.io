@@ -1,7 +1,7 @@
 ---
 title: 10.04 Project Progress Report Assignment
 date: 2025-03-31T12:00:00Z
-lastmod: 2025-04-07T06:04:11
+lastmod: 2025-04-07T06:23:28
 ---
 
 ## Assignment Deliverables
@@ -13,9 +13,8 @@ lastmod: 2025-04-07T06:04:11
 
 Include the following in the summary:
 
-- What is finished
-- What needs to be completed
-- A planned schedule of action
+- What did you work on for your project since the end of last class?
+- Document and demonstrate ~4.5 hours of effort advancing your project _(Note: This is a report and some or all of the efforts may have ben successful or unsuccessful. The important part is to document and assess what occurred.)_
 - 1-2 photos of project
 
 ## Grading Rubric
