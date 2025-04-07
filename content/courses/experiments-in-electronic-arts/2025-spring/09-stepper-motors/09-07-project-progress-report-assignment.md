@@ -1,7 +1,7 @@
 ---
 title: 09.07 Project Progress Report Assignment
 date: 2025-03-24T08:56:09
-lastmod: 2025-03-25T07:05:39
+lastmod: 2025-04-07T06:33:38
 ---
 
 ## Assignment Deliverables
@@ -26,11 +26,12 @@ Write a summary of what has occurred so far in the project. Evaluate what parts 
 
 <div class="responsive-table-markdown">
 
-| Assessment                      | Value     |
-| ------------------------------- | --------- |
-| Assignment Uploaded             | 10 points |
-| Written Description of Progress | 40 points |
-| Photos or Videos Uploaded       | 30 points |
-| File Management and Labeling    | 10 points |
+| Assessment                               | Value     |
+| ---------------------------------------- | --------- |
+| Assignment Uploaded                      | 10 points |
+| Written Description Finished / Completed | 30 points |
+| Planned Schedule of Action               | 30 points |
+| Photos or Videos Uploaded                | 20 points |
+| File Management and Labeling             | 10 points |
 
 </div>

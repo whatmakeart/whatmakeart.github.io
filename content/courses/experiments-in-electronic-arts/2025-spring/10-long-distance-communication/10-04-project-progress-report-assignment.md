@@ -1,7 +1,7 @@
 ---
 title: 10.04 Project Progress Report Assignment
 date: 2025-03-31T12:00:00Z
-lastmod: 2025-04-07T06:23:28
+lastmod: 2025-04-07T06:32:39
 ---
 
 ## Assignment Deliverables
@@ -25,7 +25,7 @@ Include the following in the summary:
 | ------------------------------- | --------- |
 | Assignment Uploaded             | 10 points |
 | Written Description of Progress | 40 points |
-| Photos or Videos Uploaded       | 30 points |
+| Photos or Videos Uploaded       | 40 points |
 | File Management and Labeling    | 10 points |
 
 </div>
