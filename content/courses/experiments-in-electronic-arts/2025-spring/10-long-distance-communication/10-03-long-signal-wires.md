@@ -1,7 +1,7 @@
 ---
-title: 11.03 Long Signal Wires
+title: 10.03 Long Signal Wires
 date: 2025-03-31T12:00:00Z
-lastmod: 2025-03-24T09:04:53
+lastmod: 2025-04-07T05:22:42
 toc: true
 ---
 
