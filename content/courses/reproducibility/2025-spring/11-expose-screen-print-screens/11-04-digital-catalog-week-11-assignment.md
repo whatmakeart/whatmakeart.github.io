@@ -1,17 +1,13 @@
 ---
 title: 11.04 Digital Catalog Week 11 Assignment
 date: 2025-04-09T09:00:00
-lastmod: 2025-04-09T12:45:05
+lastmod: 2025-04-09T12:57:31
 ---
 
 ## Assignment Deliverables
 
 1. Upload to the LMS, an informally organized presentation of activities done in the studio since last class meeting. File formats may include: pdf, docx, jpg, png, mp4, wav, mp3
    - Label files YYYYMMDD Lastname Firstname digital catalog Week 11.(pdf,jpg ....)
-
-## Instructions
-
-Refer to the [Zine Project](../10-rephotography-critique-zine-intro/10-07-zine-assignment.md) for project description and requirements.
 
 ## Grading Rubric
 

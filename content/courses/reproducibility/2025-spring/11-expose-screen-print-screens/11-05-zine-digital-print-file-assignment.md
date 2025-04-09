@@ -1,13 +1,25 @@
 ---
 title: 11.05 Zine Digital Print File Assignment
 date: 2025-04-09T09:00:00
-lastmod: 2025-04-09T12:44:05
+lastmod: 2025-04-09T13:13:01
 ---
 
 ## Assignment Deliverables
 
 1. Digital image ready for printing in Digital Output Center DOC or on Laser Printers (`.tiff`, `.pdf`, `png`)
    - Label file YYYYMMDD Lastname Firstname Zine Digital Image
+
+## Requirements
+
+The file must show a sequential narrative for on side of your zine. Refer to the [Zine Project](../10-rephotography-critique-zine-intro/10-07-zine-assignment.md) for project description and requirements.
+
+## Instructions
+
+1. Create a 11"x17" file in your digital image editing program of choice.
+2. Have a resolution of 300 pixels per inch. This equals a 5100 px x 3300 px image.
+3. The laser printers leave an approximate .25" border of non printable area, so account for this in your design.
+4. For a "full bleed" image, you can print in the Digital Output Center (DOC) printer that prints 12" x 18" paper. The paper can then be trimmed down after printing. Follow specific printing instructions in the DOC.
+5. Paper can be trimmed down in the book making area.
 
 ## Grading Rubric
 
