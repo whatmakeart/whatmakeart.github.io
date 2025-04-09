@@ -1,13 +1,13 @@
 ---
 title: 11.01 Expose Screen Print Screens
 date: 2025-04-09T09:00:00
-lastmod: 2025-04-09T08:48:48
+lastmod: 2025-04-09T12:46:14
 ---
 
 Note that in screen printing, unlike relief printing, what you se is what you get or right is right. This means that you do not need to reverse or mirror your image, thye film you use to expose your screen should be placed on the screen as it will be printed. You should be able to read any text in the image.
 
-1. Place your screen on the exposure bed, frame side up. This is how the screen will be orientated when screen printing.
-2. Place your transparent film with your desired image on top of the screen. Should be placed the "right" way. A good rule of thumb is to keep everything ~1" fro mthe edges.
+1. Place your transparent film with your desired image on the exposure bed. It should be placed the "right" way.
+2. Place your screen with the frame side up on top of your transparency. This is how the screen will be orientated when screen printing. A good rule of thumb is to keep everything ~1" from the edges.
 3. Place the rope from the exposure unit so it goes into the vacum area and also passed out the front so it is easier to lift the lid when finished.
 4. Close the lid of the exposure bed.
 5. Turn on the lights and set a timer for 4 minutes.
