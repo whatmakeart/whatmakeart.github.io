@@ -1,7 +1,7 @@
 ---
 title: 10.07 Zine Assignment
 date: 2025-04-02T09:00:00
-lastmod: 2025-04-02T11:40:02
+lastmod: 2025-04-09T06:26:44
 ---
 
 ## Assignment Deliverables
@@ -21,10 +21,10 @@ lastmod: 2025-04-02T11:40:02
 
 - Paper that has been screen printed cannot be sent through the laser printers.
 - Laser printers cannot print a full bleed to the edge of the paper.
-- Make sure to print more copies than you need to accomodate loss and mistakes in the process
-- The paper does not need to be white. Multicolord paper is available in the print studios.
+- Make sure to print more copies than you need to accommodate loss and mistakes in the process
+- The paper does not need to be white. Multi-colord paper is available in the print studios.
 
-Efficient use of classtime allows for the completion of the screen printing process in class. Additional printing time is available during open studio hours in the printshop.
+Efficient use of class time allows for the completion of the screen printing process in class. Additional printing time is available during open studio hours in the print shop.
 
 ## Assignment Readings
 
@@ -46,7 +46,7 @@ Molesworth, Helen. _Part Sculpture Part Object, “Duchamp: By Hand Even”_.
 | Zine Screen Print                               | 50 points |
 | Zine Narrative Panels                           | 50 points |
 | Zines cut and folded                            | 25 points |
-| Cutting and folding craftmanship                | 25 points |
+| Cutting and folding craftsmanship               | 25 points |
 | Zine editions signed and numbered               | 25 points |
 | Minimum 1 zine per student                      | 25 points |
 | Documentation photo 1 uploaded                  | 25 points |
