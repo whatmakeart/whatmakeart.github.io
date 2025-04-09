@@ -1,10 +1,8 @@
 ---
 title: 11.01 Expose Screen Print Screens
 date: 2025-04-09T09:00:00
-lastmod: 2025-04-09T08:48:16
+lastmod: 2025-04-09T08:48:48
 ---
-
-When starting out, Screen printing works better with thicker bolder lines that won;t allow the screen to clog with ink. For this assignment it offers a foil to the digital process on the reverse side of the zine.
 
 Note that in screen printing, unlike relief printing, what you se is what you get or right is right. This means that you do not need to reverse or mirror your image, thye film you use to expose your screen should be placed on the screen as it will be printed. You should be able to read any text in the image.
 
