@@ -1,7 +1,7 @@
 ---
 title: 09.15 3D Line Animation Project Assignment
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-04-03T10:00:12
+lastmod: 2025-04-13T08:08:54
 ---
 
 ## Line Animation Starter Project Files
@@ -95,6 +95,9 @@ Composes an animation that navigates through an inventive 3D environment crafted
     - [Render Animation in Blender](https://youtu.be/KUF6M9pmjak)
 11. Import the animation frames as a image sequence into Adobe Premiere.
     - [How to Import Image Sequence into Premiere](https://youtu.be/X7w0xOprNDk)
+12. Add sounds created by you and sound effects from Adobe's free Sound Effect Libraries
+    - [Organize Sound Effects, Music, and Image Sequences](https://youtu.be/zf8IDYvvUkY)
+    - [How to Add Sound and Music to 3D Animation](https://youtu.be/Ds2QJryBf84)
 
 ## Tips
 
