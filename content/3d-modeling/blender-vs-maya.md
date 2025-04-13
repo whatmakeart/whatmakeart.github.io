@@ -1,7 +1,7 @@
 ---
 title: Blender vs Maya
 date: 2024-01-26T05:22:49
-lastmod: 2025-04-13T09:20:22
+lastmod: 2025-04-13T19:33:10
 ---
 
 ## Blender vs Maya Basic Rendering
@@ -72,7 +72,7 @@ lastmod: 2025-04-13T09:20:22
 | [Maya Animate Paint Effects](https://youtu.be/FoKHHpjsJyw)                |                                                                                                |
 | [Maya Local Translate Z vs Thickness](https://youtu.be/VVGgCLsDglI)       |                                                                                                |
 | [Maya Extrude Tool](https://youtu.be/yyExyA67log)                         |                                                                                                |
-| [Change Units in Maya](https://youtu.be/XJcL8W5LHjs)                      | [Blender Change Units](https://youtu.be/7S1p17VvFiA)                                           |
+| [Maya Change Units](https://youtu.be/XJcL8W5LHjs)                         | [Blender Change Units](https://youtu.be/7S1p17VvFiA)                                           |
 | [Maya Procedural Orange Texture](https://youtu.be/5OrQVV_8ag0)            |                                                                                                |
 | [Maya 3 Minute Disco Ball](https://youtu.be/2IMRu48ENzY)                  |                                                                                                |
 | [Maya Infinite Photo Backdrop](https://youtu.be/y2ylWfbrC58)              | [Blender Infinite Photo Backdrop](https://youtu.be/lsEYDk00WFs)                                |
@@ -96,7 +96,7 @@ lastmod: 2025-04-13T09:20:22
 |                                                                           | [Blender Cloth Simulation](https://youtu.be/IYdfMqRIfMA)                                       |
 |                                                                           | [Blende Rigid Body Physics](https://youtu.be/q88mMWW2yNs)                                      |
 |                                                                           | [Blender 3D Text](https://youtu.be/Wa6yMXE0RZk)                                                |
-| [Maya Fluid Simulation](https://youtu.be/KN4kVBJLZDQ)                     | [Blender Fluid Simulation](https://youtu.be/DUKkJSpCJ8A)                                       |
+| [Maya Bifrost Fluid Simulation](https://youtu.be/KN4kVBJLZDQ)             | [Blender Fluid Simulation](https://youtu.be/DUKkJSpCJ8A)                                       |
 |                                                                           | [Blender Scale Floor Plan](https://youtu.be/8iMWUsqeopQ)                                       |
 |                                                                           | [Blender Install fSpy Addon](https://youtu.be/1HOqnb1Uji4)                                     |
 |                                                                           | [Blender Change Scene Units](https://youtu.be/7S1p17VvFiA)                                     |
@@ -112,13 +112,23 @@ lastmod: 2025-04-13T09:20:22
 |                                                                           | [Blender Export FBX Character Animation](https://youtu.be/PSmKUef7_lw)                         |
 |                                                                           | [Blender Copy Character Animation Keyframes to New Blender File](https://youtu.be/hNxU9Hx7qGI) |
 |                                                                           | [Blender Append Rigged Character in Blender](https://youtu.be/eNJaYPJ-TtQ)                     |
-|                                                                           | [Blender Quick Othographic View Navigation](https://youtu.be/BQZMQgb7wA4)                      |
+| [Maya Quick Quick Rig Step by Step](https://youtu.be/8RqfDcoP0jI)         | [Blender Quick Orthographic View Navigation](https://youtu.be/BQZMQgb7wA4)                     |
 |                                                                           | [Blender Rigify Basic Human Character Rig](https://youtu.be/XYQR-7DN1yk)                       |
+| [Maya Quick Rig One Click](https://youtu.be/mqoQOSYHUdQ)                  |                                                                                                |
 |                                                                           | [Blender 4 Leg Character Rig](https://youtu.be/x7mb93MN_bg)                                    |
-|                                                                           | [Blender Inverse Kinematics Leg Rig](https://youtu.be/PctSMB-RGsM)                             |
+| [Maya IK Leg Rig](https://youtu.be/6W0i9isOiWk)                           | [Blender Inverse Kinematics Leg Rig](https://youtu.be/PctSMB-RGsM)                             |
 |                                                                           | [Blender Inverse Kinematics Rigging](https://youtu.be/d-HrPRof2tY)                             |
 |                                                                           | [Blender Bendy Bones Rigging](https://youtu.be/vZGmw3g_fQ4)                                    |
 |                                                                           | [Blender Set Origin of Object](https://youtu.be/vZ3wjjNaDUM)                                   |
 |                                                                           | [Blender Array Modifier](https://youtu.be/VZYgIw0_QGQ)                                         |
+|                                                                           | [Blender Move Only One Object in Array Modifier](https://youtu.be/giJ822lv_dw)                 |
+|                                                                           | [Blender Render Scene Example](https://youtu.be/XLAeTAi-2gI)                                   |
+|                                                                           | [Blender How to Duplicate Objects](https://youtu.be/XtumSUXtkHY)                               |
+|                                                                           | [Blender How to Rotate Objects](https://youtu.be/y6nwGRkL1k4)                                  |
+|                                                                           | [Blender How to Scale Objects](https://youtu.be/EGn3BvyRVlY)                                   |
+|                                                                           | [Blender How to Change Viewport Display](https://youtu.be/6j0aGrgFCcs)                         |
+| [Maya Change Line Thickness](https://youtu.be/r1zq6Mf72Qo)                |                                                                                                |
+| [Maya Hide and Unhide](https://youtu.be/vcXI2F7wkxs)                      |                                                                                                |
+|                                                                           |                                                                                                |
 
 </div>
