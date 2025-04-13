@@ -1,7 +1,7 @@
 ---
 title: 09.15 3D Line Animation Project Assignment
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-04-13T08:08:54
+lastmod: 2025-04-13T09:20:31
 ---
 
 ## Line Animation Starter Project Files
@@ -98,8 +98,9 @@ Composes an animation that navigates through an inventive 3D environment crafted
 12. Add sounds created by you and sound effects from Adobe's free Sound Effect Libraries
     - [Organize Sound Effects, Music, and Image Sequences](https://youtu.be/zf8IDYvvUkY)
     - [How to Add Sound and Music to 3D Animation](https://youtu.be/Ds2QJryBf84)
+13. Export an .h264 `.mp4` video file
 
-## Tips
+## Resources and Tips
 
 - [List of Maya and Blender Tutorials](../../../../3d-modeling/blender-vs-maya.md)
 
