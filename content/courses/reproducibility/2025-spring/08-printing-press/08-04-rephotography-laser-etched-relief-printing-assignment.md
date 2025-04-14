@@ -1,7 +1,7 @@
 ---
 title: 08.04 Rephotography Laser Etched Relief Printing Assignment
 date: 2025-03-19T09:00:00
-lastmod: 2025-03-19T08:55:05
+lastmod: 2025-04-14T07:00:31
 ---
 
 ## Assignment Deliverables
@@ -52,3 +52,17 @@ In printmaking it is common to refere to anything that holds the ink as a matrix
 - [Meshy AI](https://www.meshy.ai/) - Free 3D Mesh Generator but requires sign in
 - [VFusion3D Demo on Hugging Face](https://huggingface.co/spaces/facebook/VFusion3D) - Makes good videos but the 3D meshes are blocky
 - [VFusion3D Demo on Google Colab](https://github.com/whatmakeart/VFusion3D-colab) - Requires access to Google Drive
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                       | Weight    |
+| -------------------------------- | --------- |
+| Minimum of 3 Edition             | 95 points |
+| Singular Work                    | 95 points |
+| Install / Display / Presentation | 50 points |
+| Written Intent Uploaded          | 50 points |
+| File Management + Labeling       | 10 points |
+
+</div>
