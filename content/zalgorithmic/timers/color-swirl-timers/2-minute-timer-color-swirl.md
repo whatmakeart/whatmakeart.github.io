@@ -1,7 +1,7 @@
 ---
 title: Two Minute Timer Color Swirl
 date: 2023-11-26T17:26:28
-lastmod: 2023-11-26T17:27:44
+lastmod: 2025-04-15T07:02:00
 ---
 
 <div class="iframe-16-9-container">
@@ -9,4 +9,4 @@ lastmod: 2023-11-26T17:27:44
 </div>
 
 - [2 Minute Timer Color Swirl](https://youtu.be/ublhPZE-xLc)
-- - [Amazing Classroom Timers Color Swirl](../amazing-classroom-timers-color-swirl.md)
+- [Amazing Classroom Timers Color Swirl](../amazing-classroom-timers-color-swirl.md)

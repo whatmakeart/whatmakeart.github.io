@@ -1,7 +1,7 @@
 ---
 title: Four Minute Timer Color Swirl
 date: 2023-11-26T17:28:53
-lastmod: 2023-11-26T17:29:26
+lastmod: 2025-04-15T07:02:00
 ---
 
 <div class="iframe-16-9-container">
@@ -9,4 +9,4 @@ lastmod: 2023-11-26T17:29:26
 </div>
 
 - [4 Minute Timer Color Swirl](https://youtu.be/Ptmtqweuufg)
-- - [Amazing Classroom Timers Color Swirl](../amazing-classroom-timers-color-swirl.md)
+- [Amazing Classroom Timers Color Swirl](../amazing-classroom-timers-color-swirl.md)

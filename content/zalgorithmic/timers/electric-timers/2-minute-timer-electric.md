@@ -1,7 +1,7 @@
 ---
 title: Electrify Your Time Management with the Ultimate 2-Minute Countdown Timer on YouTube
 date: 2023-11-26T16:23:10
-lastmod: 2023-11-27T07:08:26
+lastmod: 2025-04-15T07:02:00
 description: Discover the most dynamic 2-minute countdown timer on YouTube, featuring stunning blue electric arc animations and immersive sound effects. Perfect for productivity, workouts, and more!
 ---
 
