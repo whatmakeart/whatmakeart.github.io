@@ -1,7 +1,7 @@
 ---
 title: 11.03 Third Reading Assignment
 date: 2025-04-09T09:00:00
-lastmod: 2025-04-09T06:33:07
+lastmod: 2025-04-16T09:06:46
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2025-04-09T06:33:07
 
 ## Requirements
 
-Read pages 57-60 _The Syntax of the Print: In Search of an Aesthetic Content_ of Volume 9, Number2 of The Tamarind Papers by Ruth Weisberg.
+Read pages 52-60 _The Syntax of the Print: In Search of an Aesthetic Content_ of Volume 9, Number2 of The Tamarind Papers by Ruth Weisberg.
 
 1. Put you name and the date in the top left corner of the document.
 2. Include the title, author, and date of publication of the reading.
