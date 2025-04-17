@@ -1,15 +1,15 @@
 ---
 title: 12.06 ShopBot Reservation Assignment
 date: 2025-04-10T12:00:00Z
-lastmod: 2025-04-03T11:41:18
+lastmod: 2025-04-17T16:23:32
 ---
 
 ## Assignment Deliverables
 
-1. Upload your .f3d file to the [CNC Project Google Drive Folder](https://drive.google.com/drive/folders/17Rl_j9kvIo-nTF9qpvY1pnIie4jpIoUv)
-2. Make a ShopBot Reservation long enough to cutout your project
+1. Make a ShopBot Reservation long enough to cutout your project
    - Take a Screenshot of your ShopBot Reservation or print a pdf of the confirmation email
-   - Upload the screenshot or PDF to Canvas.
+2. Upload your .f3d file to the LMS
+   - Label the file YYYYMMDD Lastname Firstname Reservation
 
 ## Assignment Overview
 
