@@ -1,7 +1,7 @@
 ---
 title: 11.04 CNC and 3D Print Project Fabricated
 date: 2025-04-03T12:00:00Z
-lastmod: 2025-04-02T19:59:40
+lastmod: 2025-04-19T12:21:09
 ---
 
 ## Assignment Deliverables
@@ -15,6 +15,8 @@ lastmod: 2025-04-02T19:59:40
 - Minimum of 1 contour or through cut
 - Minimum of 2 pieces cut from CNC
 - Create a joint or connection between the 3D print and the CNC milled piece(s)
+
+[Example CNC Fusion 360 File](./2025-Basic-CNC-Project.f3d) that can be used for your project.
 
 ## Assignment Overview
 
