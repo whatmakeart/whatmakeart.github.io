@@ -1,11 +1,13 @@
 ---
 title: 15 Minute Timer
 date: 2023-05-13T13:48:34
-lastmod: 2023-11-27T08:44:46
+lastmod: 2025-04-20T07:27:36
 description: 15 Minute Timer
 featured_image: /zalgorithmic/timers/basic-timers/attachments/15-minute-timer.jpg
 tags:
+  - 15 Minute Timer
   - Timers
+  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

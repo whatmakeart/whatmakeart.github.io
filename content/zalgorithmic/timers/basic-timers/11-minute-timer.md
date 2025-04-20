@@ -1,11 +1,13 @@
 ---
-title: Master Your Time Management with This 11-Minute Timer
+title: 11-Minute Timer
 date: 2023-05-14T8:30:00-04:00
-lastmod: 2023-11-27T07:32:16
-description: Discover how this easy-to-use 11-minute timer on YouTube can transform your cooking, studying, or work routine.
+lastmod: 2025-04-20T07:27:36
+description: 11 Minute Timer counts down silently until it reaches 0:00 and then makes a sound to show time is up
 featured_image: /zalgorithmic/timers/basic-timers/attachments/11-minute-timer.jpg
 tags:
+  - 11 Minute Timer
   - Timers
+  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

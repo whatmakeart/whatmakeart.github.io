@@ -1,15 +1,17 @@
 ---
-title: Enhance Your Presentations with 12-Minute Countdown Timer
+title: 12 Minute Countdown Timer
 date: 2023-05-15T8:30:00-04:00
-lastmod: 2023-11-27T08:20:33
+lastmod: 2025-04-20T07:27:36
 description: This video features a 12 minute countdown timer with an abstract animated background.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/12-minute-timer.jpg
 tags:
-  - Timer
+  - 12 Minute Timer
+  - Timers
+  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NS-_N1cBg8Y" title="12 Minute Timer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NS-_N1cBg8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## Introduction:

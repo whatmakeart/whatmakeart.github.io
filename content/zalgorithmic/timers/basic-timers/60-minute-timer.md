@@ -1,11 +1,13 @@
 ---
-title: Discover the Perfect 60-Minute Silent Timer for Classrooms
+title: 60 Minute Timer
 date: 2023-05-15T05:37:28
-lastmod: 2023-11-27T08:22:36
+lastmod: 2025-04-20T07:27:36
 description: 60 minute countdown timer in 4k 60fps with looping background animation. Silent 60 minute timer for the classroom or studying.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/60-minute-timer.jpg
 tags:
+  - 60 Minute Timer
   - Timers
+  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">
