@@ -39,8 +39,6 @@
           </div>
           <h1 class="bd-title mb-0" id="content">{{ .Title | markdownify }}</h1>
         </div>
-        <p class="bd-lead">{{ .Page.Params.Description | markdownify }}</p>
-        <!-- ads -->
       </div>
 
       <div class="bd-content ps-lg-4">
@@ -60,9 +58,9 @@
               {{ end }}
 
 
-              <a href="{{ .RelPermalink }}"
-                ><img class="card-img-top" src="{{ $img }}"
-              /></a>
+              <a href="{{ .RelPermalink }}">
+                <img class="card-img-top" src="{{ $img }}" />
+              </a>
 
               <div class="card-body">
                 <p class="card-title">

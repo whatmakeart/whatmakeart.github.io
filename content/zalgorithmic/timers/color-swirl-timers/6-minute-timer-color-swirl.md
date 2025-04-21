@@ -1,7 +1,12 @@
 ---
 title: Six Minute Timer Color Swirl
 date: 2023-11-26T17:30:51
-lastmod: 2025-04-15T06:58:26
+lastmod: 2025-04-21T06:02:59
+description: This video features a 6 minute countdown timer with an abstract rainbow color swirl animated background.
+tags:
+  - 6 Minute Timer
+  - Timers
+  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

@@ -1,32 +1,47 @@
 {{ define "main" }}
+  {{- $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
+  {{- $pages := .Pages.ByTitle -}}
+  {{- $pages_by_letters := dict -}}
+  {{ range $pages }}
+    {{- $page := . -}}
+    {{- $first_letter := upper ( substr $page.Name 0 1 ) -}}
+    {{- if not (in $letters $first_letter) }}
+      {{ $first_letter = "#" }}
+    {{ end }}
+    {{- $new_list := slice -}}
+    {{ with index $pages_by_letters $first_letter }}
+      {{- $new_list = . | append $page -}}
+    {{ else }}
+      {{- $new_list = slice $page -}}
+    {{ end }}
+    {{- $pages_by_letters = merge $pages_by_letters (dict $first_letter $new_list) -}}
+  {{ end }}
 
-{{- $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" -}}
-{{- $pages := .Pages.ByTitle -}}
-{{- $pages_by_letters := dict -}}
-{{ range $pages }}
-{{- $page := . -}}
-{{- $first_letter := upper ( substr $page.Name 0 1 ) -}}
-{{- if not (in $letters $first_letter) }}
-{{ $first_letter = "#" }}
-{{ end }}
-{{- $new_list := slice -}}
-{{ with index $pages_by_letters $first_letter }}
-{{- $new_list = . | append $page -}}
-{{ else }}
-{{- $new_list = slice $page -}}
-{{ end }}
-{{- $pages_by_letters = merge $pages_by_letters (dict $first_letter $new_list) -}}
-{{ end }}
 
-<!-- Source https://dongheenam.info/posts/grouping-a-list-by-first-letter-in-hugo/ -->
+  <!-- Source https://dongheenam.info/posts/grouping-a-list-by-first-letter-in-hugo/ -->
 
-<div data-pagefind-ignore class="container-xxl bd-gutter mt-3 my-md-4 bd-layout">
-
-   <aside class="bd-sidebar">
-      <div class="offcanvas-lg offcanvas-start" tabindex="-1" id="wikiSidebar" aria-labelledby="wikiSidebarOffcanvasLabel">
+  <div
+    data-pagefind-ignore
+    class="container-xxl bd-gutter mt-3 my-md-4 bd-layout"
+  >
+    <aside class="bd-sidebar">
+      <div
+        class="offcanvas-lg offcanvas-start"
+        tabindex="-1"
+        id="wikiSidebar"
+        aria-labelledby="wikiSidebarOffcanvasLabel"
+      >
         <div class="offcanvas-header border-bottom">
-          <h5 class="offcanvas-title" id="wikiSidebarOffcanvasLabel">Browse Art Wiki</h5>
-          <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#wikiSidebar"></button>
+          <h5 class="offcanvas-title" id="wikiSidebarOffcanvasLabel">
+            Browse Art Wiki
+          </h5>
+          <button
+            type="button"
+            class="btn-close"
+            data-bs-dismiss="offcanvas"
+            aria-label="Close"
+            data-bs-target="#wikiSidebar"
+          ></button>
         </div>
 
         <div class="offcanvas-body">
@@ -35,36 +50,37 @@
       </div>
     </aside>
 
-   <main class="bd-main order-1">
+    <main class="bd-main order-1">
       <div class="bd-intro pt-2 ps-lg-2">
-       {{ partial "breadcrumbs" . }}
-        <div class="d-md-flex flex-md-row-reverse align-items-center justify-content-between">
-          
+        {{ partial "breadcrumbs" . }}
+        <div
+          class="d-md-flex flex-md-row-reverse align-items-center justify-content-between"
+        >
           <div class="mb-3 mb-md-0 d-flex text-nowrap">
-          <!-- placeholder to keep title to the left, used to hold the view on GitHub Button -->
+            <!-- placeholder to keep title to the left, used to hold the view on GitHub Button -->
           </div>
           <h1 class="bd-title mb-0" id="content">{{ .Title | markdownify }}</h1>
         </div>
-        <p class="bd-lead">{{ .Page.Params.Description | markdownify }}</p>
-        <!-- ads -->
       </div>
 
-        <div class="bd-content ps-lg-2">
-            {{ .Content }}
+      <div class="bd-content ps-lg-2">
+        {{ .Content }}
 
-            <section class="section-pages-tag">
-                {{ range $key, $items := $pages_by_letters }}
-                <span class="key">{{ $key }}</span>
-                <ul>
-                    {{- range $items -}}
-                    <li>
-                        <a href="{{ .RelPermalink }}">{{ .Name }}</a><sup>{{ len .Pages }}</sup>
-                    </li>
-                    {{- end -}}
-                </ul>
-                {{ end }}
-            </section>
-        </div>
+
+        <section class="section-pages-tag">
+          {{ range $key, $items := $pages_by_letters }}
+            <span class="key">{{ $key }}</span>
+            <ul>
+              {{- range $items -}}
+                <li>
+                  <a href="{{ .RelPermalink }}">{{ .Name }}</a>
+                  <sup>{{ len .Pages }}</sup>
+                </li>
+              {{- end -}}
+            </ul>
+          {{ end }}
+        </section>
+      </div>
     </main>
-</div>
+  </div>
 {{ end }}

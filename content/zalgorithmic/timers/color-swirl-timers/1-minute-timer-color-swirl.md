@@ -1,7 +1,12 @@
 ---
 title: One Minute Timer Color Swirl
 date: 2023-11-17T04:48:34
-lastmod: 2025-04-15T07:02:00
+lastmod: 2025-04-21T06:02:59
+description: This video features a 1 minute countdown timer with an abstract rainbow color swirl animated background.
+tags:
+  - 1 Minute Timer
+  - Timers
+  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">
