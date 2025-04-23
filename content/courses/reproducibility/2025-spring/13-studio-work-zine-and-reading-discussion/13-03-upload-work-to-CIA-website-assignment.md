@@ -1,7 +1,7 @@
 ---
 title: 13.03 Upload work to CIA Website Assignment
 date: 2025-04-23T09:00:00
-lastmod: 2025-04-23T10:12:26
+lastmod: 2025-04-23T14:14:55
 ---
 
 ## Assignment Deliverables
@@ -30,7 +30,7 @@ To be listed on the site, CIA needs the following information for the work or pr
 
 | Assessment                   | Weight    |
 | ---------------------------- | --------- |
-| PDF Uploaded                 | 75 points |
+| Screenshot Uploaded          | 75 points |
 | File Management and Labeling | 25 points |
 
 </div>
