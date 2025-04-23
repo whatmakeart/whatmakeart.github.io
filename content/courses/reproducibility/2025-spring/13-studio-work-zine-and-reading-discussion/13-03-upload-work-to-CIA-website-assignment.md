@@ -1,7 +1,7 @@
 ---
 title: 13.03 Upload work to CIA Website Assignment
 date: 2025-04-23T09:00:00
-lastmod: 2025-04-23T09:43:06
+lastmod: 2025-04-23T10:12:26
 ---
 
 ## Assignment Deliverables
@@ -13,7 +13,7 @@ lastmod: 2025-04-23T09:43:06
 
 To help facilitate continual student work collection, there is an easy to fill out form that allows you to submit work directly to us. CIA welcomes finished work and projects, in process work and idea generation.
 
-https://app.smartsheet.com/b/form/4b3d7f81ca6347fc93339648fb1e5eebLinks to an external site.
+[https://app.smartsheet.com/b/form/4b3d7f81ca6347fc93339648fb1e5eeb](https://app.smartsheet.com/b/form/4b3d7f81ca6347fc93339648fb1e5eeb)
 
 To be listed on the site, CIA needs the following information for the work or project:
 
