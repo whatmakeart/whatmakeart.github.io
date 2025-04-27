@@ -1,8 +1,9 @@
 ---
 title: 1 Minute Timer Blue Kaleidoscope
 date: 2025-04-20T06:54:35
-lastmod: 2025-04-20T07:32:01
+lastmod: 2025-04-27T08:08:02
 description: 1 Minute Blue Kaleidoscope Timer counts down silently until it reaches 0:00 and then makes a sound to show time is up
+featured_image: /zalgorithmic/timers/1-minute-timers/1-minute-timer-blue-kaleidoscope.md
 tags:
   - 1 Minute Timer
   - Timers
@@ -14,3 +15,5 @@ tags:
 </div>
 
 [1 Minute Timer Blue Kaleidoscope](https://youtu.be/-qnMCrbbE28)
+
+![1 Minute Timer Blue Kaleidoscope](./1-minute-timer-blue-kaleidoscope.md)

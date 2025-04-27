@@ -1,7 +1,7 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2025-01-13T05:00:00
+lastmod: 2025-04-23T06:36:10
 ---
 
 - [Creative Coding Artists](./computer-arts-artists-and-projects.md)
@@ -55,6 +55,7 @@ It is important to look at the work of other artists to learn and be inspired.
 - [Anish Kappoor](https://anishkapoor.com/)
 - [Chad Person](https://chadperson.com/index.html)
 - [Moon Papas Art](https://www.moonpapasart.com/)
+- [Wendy Carlos](https://www.wendycarlos.com/)
 
 ## Articles
 

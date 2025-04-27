@@ -1,8 +1,9 @@
 ---
 title: 1 Minute Timer Particles
 date: 2025-04-20T06:58:41
-lastmod: 2025-04-20T07:32:01
+lastmod: 2025-04-27T08:08:02
 description: 1 Minute Particles Timer counts down silently until it reaches 0:00 and then makes a sound to show time is up
+featured_image: /zalgorithmic/timers/1-minute-timers/attachments/1-minute-timer-particles-thumb.jpg
 tags:
   - 1 Minute Timer
   - Timers
@@ -14,3 +15,5 @@ tags:
 </div>
 
 [1 Minute Timer Particles](https://youtu.be/0L8Q7HHNcQI)
+
+[1 Minute Timer Particles](./attachments/1-minute-timer-particles-thumb.jpg)

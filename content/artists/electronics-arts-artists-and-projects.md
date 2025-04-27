@@ -1,6 +1,6 @@
 ---
 title: Electronic Arts Artists and Projects
-lastmod: 2025-01-17T10:13:14
+lastmod: 2025-04-23T06:34:33
 date: 2024-11-10T16:01:02
 ---
 
@@ -412,6 +412,15 @@ There is an embedded video of an example of each artist's work. Each artist make
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/CRdxB8WJUWU?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Wendy Carlos Electronic Music
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Z3cab5IcCy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 

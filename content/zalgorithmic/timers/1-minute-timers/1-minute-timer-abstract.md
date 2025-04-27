@@ -1,8 +1,9 @@
 ---
 title: 1 Minute Timer Abstract
 date: 2025-04-20T06:53:37
-lastmod: 2025-04-20T07:32:01
+lastmod: 2025-04-24T04:57:45
 description: 1 Minute Abstract Timer counts down silently until it reaches 0:00 and then makes a sound to show time is up
+featured_image: /zalgorithmic/timers/1-minute-timers/1-minute-timer-abstract-thumb.jpg
 tags:
   - 1 Minute Timer
   - Timers
@@ -14,3 +15,5 @@ tags:
 </div>
 
 [1 Minute Timer Abstract](https://youtu.be/_J-I1VSifg8)
+
+![1 Minute Timer Abstract](./attachments/1-minute-timer-abstract-thumb.jpg)

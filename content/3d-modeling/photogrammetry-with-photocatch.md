@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry with Photocatch
 date: 2025-01-21T14:15:56
-lastmod: 2025-01-21T14:21:52
+lastmod: 2025-04-27T18:47:14
 tags:
   - Photocatch
   - 3D Modeling
@@ -16,5 +16,5 @@ tags:
 
 </div>
 
-- [Calibrate size of 3D Scanned Photogrammetry Mesh in Blender](./blender/calibrate-photogrammetry-scanned-object-scale-blender%20copy.md)
+- [Calibrate size of 3D Scanned Photogrammetry Mesh in Blender](./blender/calibrate-photogrammetry-scanned-object-scale-blender.md)
 - [Photogrammetry with Photocatch](https://youtu.be/yMqH0GskhgY)
