@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Laser Cut 3D Model Revisions
 date: 2024-11-10T16:01:01
-lastmod: 2024-11-20T19:36:48
+lastmod: 2025-04-28T07:18:43
 ---
 
 ## Assess your Digital Model
@@ -40,4 +40,4 @@ Showing the components as different colors can help make sense of a complicated 
 
 Note: Sometimes Fusion 360 picks colors that look similar.
 
-[![Display Component Colors Fusion 360](./attachments/2023-fusion-360-display-component-colors.jpg)](./attachments/2023-fusion-360-display-component-colors.png)
+[![Display Component Colors Fusion 360](./attachments/2023-fusion-360-display-component-colors.jpg)](./attachments/2023-fusion-360-display-component-colors.jpg)

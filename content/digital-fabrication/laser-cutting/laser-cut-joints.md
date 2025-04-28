@@ -1,7 +1,7 @@
 ---
 title: Laser Cut Joints
 date: 2024-11-10T16:01:01
-lastmod: 2024-11-20T19:35:09
+lastmod: 2025-04-28T07:17:27
 ---
 
 There are many ways to join a laser cut project together ranging from gravity to glue to bolts to snap pieces. You can use a variety of ways to connect. Here are some example images of different methods of joining pieces together. There are many more ways. Search the internet for other methods of making laser cut joints.
@@ -29,7 +29,7 @@ Finger joints are a common way to join laser cut projects together. They have an
 
 <div class="gallery-grid">
 
-[![Laser Cut Finger Joints](attachments/2022-Finger-Joints-Laser-Cut.jpg)](attachments/2022-Finger-Joints-Laser-Cut.png)
+[![Laser Cut Finger Joints](attachments/2022-Finger-Joints-Laser-Cut.jpg)](attachments/2022-Finger-Joints-Laser-Cut.jpg)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ZrcqauNvt0M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -53,9 +53,9 @@ The slots for the hooks must be large enough for the entire hook to pass through
 
 <div class="two-column-grid">
 
-[![Laser Cut Slot Hook Joint Painted](attachments/2023-laser-cut-slot-hook-joint-paint.jpg)](attachments/2023-laser-cut-slot-hook-joint-paint.png)
+[![Laser Cut Slot Hook Joint Painted](attachments/2023-laser-cut-slot-hook-joint-paint.jpg)](attachments/2023-laser-cut-slot-hook-joint-paint.jpg)
 
-[![Laser Cut Slot Hook Joint Wood Render](attachments/2023-laser-cut-slot-hook-joint-wood.jpg)](attachments/2023-laser-cut-slot-hook-joint-wood.png)
+[![Laser Cut Slot Hook Joint Wood Render](attachments/2023-laser-cut-slot-hook-joint-wood.jpg)](attachments/2023-laser-cut-slot-hook-joint-wood.jpg)
 
 </div>
 
@@ -65,7 +65,7 @@ Pinned finger joints send a tab all the way through a hole in a panel. The tab e
 
 <div class="gallery-grid">
 
-[![Laser Cut Pinned Finger Joints](attachments/2022-Pinned-Finger-Joints-Laser-Cut-Colors.jpg)](attachments/2022-Pinned-Finger-Joints-Laser-Cut-Colors.png)
+[![Laser Cut Pinned Finger Joints](attachments/2022-Pinned-Finger-Joints-Laser-Cut-Colors.jpg)](attachments/2022-Pinned-Finger-Joints-Laser-Cut-Colors.jpg)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/2r7NKS-3Wao?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -79,9 +79,9 @@ Key joints are basically pinned joints. A tap with a hole passes through another
 
 <div class="two-column-grid">
 
-[![Laser Cut Snap Joints](attachments/2023-spring-clip-key-pin-joint-plastic.jpg)](attachments/2023-spring-clip-key-pin-joint-plastic.png)
+[![Laser Cut Snap Joints](attachments/2023-spring-clip-key-pin-joint-plastic.jpg)](attachments/2023-spring-clip-key-pin-joint-plastic.jpg)
 
-[![Laser Cut Snap Joints](attachments/2023-spring-clip-key-pin-joint-wood.jpg)](attachments/2023-spring-clip-key-pin-joint-wood.png)
+[![Laser Cut Snap Joints](attachments/2023-spring-clip-key-pin-joint-wood.jpg)](attachments/2023-spring-clip-key-pin-joint-wood.jpg)
 
 </div>
 
@@ -91,9 +91,9 @@ Snap joints positively lock into place when assembled. They are much more comple
 
 <div class="two-column-grid">
 
-[![Laser Cut Snap Joints](attachments/2022-Snap-Joints-Laser-Cut-1.jpg)](attachments/2022-Snap-Joints-Laser-Cut-1.png)
+[![Laser Cut Snap Joints](attachments/2022-Snap-Joints-Laser-Cut-1.jpg)](attachments/2022-Snap-Joints-Laser-Cut-1.jpg)
 
-[![Laser Cut Snap Joints](attachments/2022-Snap-Joints-Laser-Cut-2.jpg)](attachments/2022-Snap-Joints-Laser-Cut-2.png)
+[![Laser Cut Snap Joints](attachments/2022-Snap-Joints-Laser-Cut-2.jpg)](attachments/2022-Snap-Joints-Laser-Cut-2.jpg)
 
 </div>
 
@@ -105,7 +105,7 @@ With properly sized slots and holes, bolts and nuts can be used to securely atta
 
 <div class="gallery-grid">
 
-[![Laser Cut Captive Nut Joints](attachments/2022-Captive-Nut-Joints-Laser-Cut.jpg)](attachments/2022-Captive-Nut-Joints-Laser-Cut.png)
+[![Laser Cut Captive Nut Joints](attachments/2022-Captive-Nut-Joints-Laser-Cut.jpg)](attachments/2022-Captive-Nut-Joints-Laser-Cut.jpg)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/57OT_SIW96U?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

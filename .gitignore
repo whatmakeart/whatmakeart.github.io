@@ -29,8 +29,7 @@ tmp
 
 /public/
 /resources/_gen/
-public/
-recources/_gen/
+/resources/
 
 hugo.exe
 hugo.linux

@@ -1,7 +1,7 @@
 ---
 title: "04.07 Model Laser Cut Project in Fusion 360"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2025-04-28T07:20:21
 ---
 
 ## Assignment Deliverables
@@ -46,7 +46,7 @@ Make sure your render image is well composed and high resolution with at least o
 
 <figure>
 
-[![Laser Cut Stand Assembled](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Render-Assembled.jpg)](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Render-Assembled.png)
+[![Laser Cut Stand Assembled](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Render-Assembled.jpg)](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Render-Assembled.jpg)
 
 <figcaption>
 
