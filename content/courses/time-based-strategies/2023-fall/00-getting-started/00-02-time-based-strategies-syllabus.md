@@ -1,7 +1,7 @@
 ---
 title: 00.02 Time Based Practices Syllabus
 date: 2023-08-29T09:00:00Z
-lastmod: 2024-11-12T05:23:47
+lastmod: 2025-04-28T05:32:39
 ---
 
 ## Time Based Strategies
@@ -97,7 +97,7 @@ There are no required textbooks for this course.
 
 | **Week** | **Date**     | **Topic**                                                                                                                |
 | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| 1        | August 29    | Course Introduction - [Video Introduction](../01-video-introduction/)                                                    |
+| 1        | August 29    | Course Introduction - [Video Introduction](../01-video-introduction/01-01-introduction.md)                               |
 | 2        | September 5  | [Video Selection Tools and Effects](../02-video-selection-tools-and-effects/02-01-introduction.md)                       |
 | 3        | September 12 | [Video Motion Tracking](../03-video-motion-tracking/03-01-introduction.md)                                               |
 | 4        | September 19 | [Advanced Tracking and Keying](../04-advanced-tracking-and-keying/04-01-introduction.md)                                 |
@@ -111,7 +111,7 @@ There are no required textbooks for this course.
 | 12       | November 14  | [Sonic Arts Workshop with Bob Drake Part 1](../11-sonic-arts-workshop-with-bob-drake-part-1/11-01-introduction.md)       |
 | 13       | November 21  | [Sonic Arts Workshop with Bob Drake Part 2](../12-sonic-arts-workshop-with-bob-drake-part-2/12-01-introduction.md)       |
 | 14       | November 28  | [Time Based Synthesis](../13-time-based-synthesis/13-01-introduction.md)                                                 |
-| 15       | December 5   | [Time Based Synthesis Studio Work](../14-time-based-synthesis-studio-work/)                                              |
+| 15       | December 5   | [Time Based Synthesis Studio Work](../14-time-based-synthesis-studio-work/14-01-introduction.md)                         |
 | 16       | December 12  | [Final Crits](../15-final-critique/15-01-introduction.md)                                                                |
 
 </div>

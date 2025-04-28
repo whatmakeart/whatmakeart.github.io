@@ -1,8 +1,7 @@
 ---
 date: 2022-11-06T8:30:00-04:00
-lastmod: 2024-12-06T05:31:11
+lastmod: 2025-04-28T06:16:15
 description: In this Blender tutorial, I will show you how to create a procedural wood texture using only a few nodes.
-featured_image: /posts/blender-prodedural-wood-texture.md
 tags:
   - Blender
   - 3D Modeling
@@ -47,7 +46,7 @@ The math node will allow us to perform mathematical operations on the random inf
 
 Once we are happy with the way the wood texture looks, we can render the scene.
 
-## Here are some tips for creating a realistic wood texture:\*\*
+## Here are some tips for creating a realistic wood texture:
 
 - Use a variety of noise textures to create a more realistic wood grain.
 - Use the color ramp node to control the colors of the wood grain.

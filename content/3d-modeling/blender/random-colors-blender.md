@@ -1,8 +1,8 @@
 ---
 date: 2022-10-19T8:30:00-04:00
-lastmod: 2024-12-06T05:31:11
+lastmod: 2025-04-28T06:16:27
 description: In this tutorial, I will show you how to color many objects with a single material in Blender.
-featured_image: /posts/images/blender-random-colors.jpg
+featured_image: /3d-modeling/blender/attachments/blender-random-colors.jpg
 tags:
   - Blender
   - 3D Modeling

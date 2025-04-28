@@ -1,7 +1,7 @@
 ---
 title: Learn Coding
 date: 2023-07-01T19:30:16
-lastmod: 2024-09-19T15:18:36
+lastmod: 2025-04-28T05:42:43
 ---
 
 - [HTML for Beginners](./html-crash-course.md)
@@ -9,4 +9,4 @@ lastmod: 2024-09-19T15:18:36
 ## External Coding Courses
 
 - [Learn Rust Course from Google](https://google.github.io/comprehensive-rust/welcome.html)
-- [Programming for Artists](../courses/programming-for-artists/)
+- [Programming for Artists](../courses/programming-for-artists/_index.md)

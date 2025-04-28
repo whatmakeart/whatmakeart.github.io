@@ -1,7 +1,7 @@
 ---
 title: Prepare DXF File for Laser Cutting
 date: 2023-06-14T13:02:24
-lastmod: 2025-02-14T05:53:17
+lastmod: 2025-04-28T05:34:29
 ---
 
 - [Illustrator DXF to Epilog Laser Cutter Prep](https://youtu.be/FhIUHIMpJMY)
@@ -43,7 +43,7 @@ Open Adobe Illustrator
 - Think of the Artboard as your raw material, it should not be larger than the material you will cut on the laser cutter
 - If the Artboard is real world size, and your drawing does not fit on the Artboard then something is wrong and you should double check your measurements
 
-![Illustrator Artboard Settings](attachments/artboard-settings.png "Illustrator Artboard Settings")
+![Illustrator Artboard Settings](./attachments/artboard-settings.png)
 
 - Make sure all paths that will be cut through are individually "closed"
 - To close a path, select all of the segments and "join" them by pressing Command J or Control J
@@ -53,7 +53,7 @@ Open Adobe Illustrator
 - Change stroke width to .001 points
 - Any red stroke with a width of .001 will be cut all the way through.
 
-![Change Stroke Color](attachments/red-stroke.png "Change Stroke Color")
+![Change Stroke Color](./attachments/red-stroke.png)
 
 - Select the Path
 - Set the Fill to transparent
@@ -61,7 +61,7 @@ Open Adobe Illustrator
 - Change stroke width to .5 points
 - Any blue stroke with a width of .5 will be etched.
 
-![Change Stroke Color to Blue](attachments/blue-stroke.png "Change Stroke Color to Blue")
+![Change Stroke Color to Blue](./attachments/blue-stroke.png)
 
 - Save your file
 - Upload to Google Drive for later access

@@ -11,5 +11,18 @@
     "Mixamo",
     "Revit",
     "spatialized"
-  ]
+  ],
+  "foam.files.ignore": [
+    "**/_index.md",
+    "**/README.md",
+    "public/**/*",
+    "themes/**/*"
+  ],
+  "foam.files.attachmentExtensions": "zip f3d png blend ma mb pdf mp3 webm wav m4a mp4 avi mov rtf txt doc docx pages xls xlsx numbers ppt pptm pptx",
+  "foam.orphans.exclude": [
+    "**_index.md",
+    "content/courses/**/*",
+    "content/zalgorithmic/**/*"
+  ],
+  "foam.placeholders.exclude": ["**/_index.md"]
 }

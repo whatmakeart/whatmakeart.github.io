@@ -1,7 +1,7 @@
 ---
 title: 00.00 Time Based Strategies Syllabus
 date: 2024-08-27T12:00:00
-lastmod: 2025-02-23T09:53:17
+lastmod: 2025-04-28T05:33:03
 ---
 
 ## Time Based Strategies Syllabus
@@ -102,7 +102,7 @@ Projects must be turned in on time. On time is before the beginning of class on 
 | 4        | September 17 | [Advanced Tracking Keying and Compositing](../04-advanced-tracking-keying-and-compositing/04-00-introduction.md) |
 | 5        | September 24 | [Project Production](../05-project-production/05-00-introduction.md)                                             |
 | 6        | October 1    | [Refining Projects](../06-refining-projects/06-00-introduction.md)                                               |
-| 7        | October 8    | [Projection Mapping Space and Time](../07-projection-mapping-space-and-time/)                                    |
+| 7        | October 8    | [Projection Mapping Space and Time](../07-projection-mapping-space-and-time/07-00-introduction.md)               |
 | 8        | October 15   | [Projection Mapping 3D Objects](../08-projection-mapping-3d-objects/08-00-introduction.md)                       |
 |          | October 22   | Fall Break                                                                                                       |
 | 9        | October 29   | [Digital Fabrication 3D Printing](../09-digital-fabrication-3d-printing/09-00-introduction.md)                   |

@@ -1,7 +1,7 @@
 ---
 title: 13.02 Project Progress Report Assignment
 date: 2025-04-07T12:00:00Z
-lastmod: 2025-04-23T14:20:40
+lastmod: 2025-04-28T06:31:25
 ---
 
 ## Assignment Deliverables
@@ -17,10 +17,10 @@ Include the following in the summary:
 - Document and demonstrate ~4.5 hours of effort advancing your project
 - 1-2 photos of project
 
-In addition give an overal assesment of your project.
+In addition give an overall assessment of your project.
 
 - What would you do differently if you started over?
-- What do you know know that would informa your approach?
+- What do you know know that would inform your approach?
 - What problems did you overcome? How?
 - What issues could not be resolved?
 

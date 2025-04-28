@@ -1,8 +1,8 @@
 ---
 date: 2023-04-27T8:30:00-04:00
-lastmod: 2024-12-06T05:31:11
+lastmod: 2025-04-28T06:17:21
 description: In this Blender tutorial, I'll show you how to get started with cloth simulation. With just a few settings, you can create dynamic and interesting simulations of cloth interacting with other objects.
-featured_image: /posts/images/blender-cloth-quick-start-title.jpg
+featured_image: /3d-modeling/blender/attachments/blender-cloth-quick-start-title.jpg
 tags:
   - Blender
   - 3D Modeling

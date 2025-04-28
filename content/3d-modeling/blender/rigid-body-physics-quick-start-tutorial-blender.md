@@ -1,9 +1,9 @@
 ---
 title: Rigid Body Physics Quick Start Tutorial - Blender
 date: 2023-04-27T8:30:00-04:00
-lastmod: 2024-02-22T06:45:54
+lastmod: 2025-04-28T06:11:08
 description: In this tutorial, you will learn how to use rigid body physics in Blender.
-featured_image: /content/3d-modeling/blender/attachments/blender-rigid-body-physics-quick-start.jpg
+featured_image: /3d-modeling/blender/attachments/blender-rigid-body-physics-quick-start.jpg
 tags:
   - Blender
   - 3D Modeling

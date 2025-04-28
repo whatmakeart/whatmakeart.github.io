@@ -1,9 +1,9 @@
 ---
 date: 2022-02-21T8:30:00-04:00
-lastmod: 2024-11-20T19:36:48
+lastmod: 2025-04-28T06:18:19
 title: Parametric 3D Print in Place Hinge Fusion 360 Tutorial
 description: Model a Parametric 3D Print in Place Hinge in Fusion 360 Tutorial
-featured_image: /posts/3d-print-in-place-hinge-fusion-360/Print in Place Pin Hinge Title.jpg
+featured_image: /3d-modeling/fusion-360/attachments/Print in Place Pin Hinge Title.jpg
 tags:
   - Fusion 360
   - 3D Printing
