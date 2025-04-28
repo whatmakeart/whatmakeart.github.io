@@ -1,7 +1,7 @@
 ---
 title: Blender
 date: 2023-05-26T02:54:03
-lastmod: 2025-04-27T18:47:04
+lastmod: 2025-04-28T03:17:26
 tags:
   - Blender
   - 3D Modeling
@@ -24,6 +24,9 @@ tags:
 - [Move Single Array Object](./move-single-array-object-blender.md)
 - [Pack External Resources](./pack-external-resources-blender.md)
 - [Polygon Modeling Exercise](./polygon-modeling-exercise-blender.md)
+- [Set Object Origin](./set-object-origin-blender.md)
+- [Scale Objects](./scale-objects-blender.md)
+- [Rotate Objects](./rotate-objects-blender.md)
 
 ## Blender Modifiers
 
@@ -51,19 +54,22 @@ tags:
 - [Infinite Background](./infinite-background-blender.md)
 - [3D Object in 3D Photo fSpy](./place-3d-model-in-2d-photo-blender-fspy.md)
 - [Reflections and Shadows in fSpy Compositing](./reflections-shadows-and-materials-for-fspy-compositing-blender.md)
+- [Rotate HDRI](./rotate-hdri-blender.md)
 
 ## Blender Animation
 
 - [Blender 3D Animation](./3d-animation-blender.md)
+- [Set Keyframes](./set-keyframes-blender.md)
 - [Camera Follow Path](./camera-follow-path-blender.md)
 - [Export Camera to After Effects](./export-camera-to-after-effects-blender.md)
+- [Render Animation Sequence](./render-animation-sequence-blender.md)
 
 ## Blender Rigging
 
 - [Auto Rig with Mixamo](./auto-rig-with-mixamo-import-blender.md)
 - [Ball Rigging](./ball-rigging-blender.md)
 - [Basic Character Rigging](./basic-character-rigging-blender.md)
-- [Bendy Bones Riggin](./bendy-bones-rigging-blender.md)
+- [Bendy Bones Rigging](./bendy-bones-rigging-blender.md)
 
 ## Blender Materials
 
@@ -75,6 +81,16 @@ tags:
 - [Principled BSDF](./principled-bsdf-blender.md)
 - [Random Colors](./random-colors-blender.md)
 - [Random Number in Range](./random-number-in-range-blender.md)
+- [Relink Textures](./relink-textures-blender.md)
+- [Transparent PNG Image Texture](./transparent-png-image-texture-blender.md)
+
+## Blender UV Mapping
+
+- [UV Mapping](./uv-mapping-blender.md)
+- [Smart UV Project](./smart-uv-project-blender.md)
+- [Texture Paint Quick Start](./texture-paint-quick-start-blender.md)
+- [Texture Paint Complex Objects](./texture-paint-complex-objects-blender.md)
+- [Texture Paint Blender](./texture-paint-blender.md)
 
 ## Blender Digital Fabrication
 
@@ -85,9 +101,11 @@ tags:
 - [Clean up 3D Scan Mesh](./clean-up-3d-scan-imported-mesh-blender.md)
 - [Flat Bottom 3D Scan Boolean Intersect](./flat-bottom-3d-scan-boolean-intersect-blender.md)
 - [Import Artec LEO 3D Scan](./import-artec-leo-scan-to-blender.md)
+- [Voxel Remesh 3D Scan to Quads](./voxel-remesh-3d-scan-to-quads-blender.md)
 
 ## Blender Architecture
 
 - [Draw Floor Plan Blender](./draw-a-floor-plan-blender.md)
+- [Scale Floor Plan Blender](./scale-floor-plan-blender.md)
 
 [^1]: [Blender](https://www.blender.org)
