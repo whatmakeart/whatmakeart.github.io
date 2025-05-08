@@ -1,7 +1,7 @@
 ---
 title: 1 Minute Timer For Kids
 date: 2025-04-20T06:57:43
-lastmod: 2025-04-27T08:08:02
+lastmod: 2025-05-08T11:01:06
 description: 1 Minute Kids Timer counts down silently until it reaches 0:00 and then makes a sound to show time is up
 featured_image: /zalgorithmic/timers/1-minute-timers/attachments/1-minute-timer-kaleidoscope-thumb.jpg
 tags:
@@ -16,4 +16,4 @@ tags:
 
 [1 Minute Timer For Kids](https://youtu.be/OwLanaHIi5Y)
 
-[1 Minute Timer Kaleidoscope](./attachments/1-minute-timer-kaleidoscope-thumb.jpg)
+![1 Minute Timer Kaleidoscope](./attachments/1-minute-timer-kaleidoscope-thumb.jpg)
