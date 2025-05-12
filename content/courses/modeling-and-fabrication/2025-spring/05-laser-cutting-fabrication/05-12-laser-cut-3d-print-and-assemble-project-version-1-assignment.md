@@ -1,7 +1,7 @@
 ---
-title: 05.13 Laser Cut, 3D Print and Assemble Project Version 1 Assignment
+title: 05.12 Laser Cut, 3D Print and Assemble Project Version 1 Assignment
 date: 2025-02-14T12:00:00Z
-lastmod: 2025-02-17T05:49:01
+lastmod: 2025-05-12T15:07:19
 ---
 
 ## Assignment Deliverables
