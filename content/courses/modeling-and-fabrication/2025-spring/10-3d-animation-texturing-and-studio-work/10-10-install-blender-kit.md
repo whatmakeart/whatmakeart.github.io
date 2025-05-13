@@ -1,7 +1,7 @@
 ---
-title: 10.11 install Blender Kit
+title: 10.10 install Blender Kit
 date: 2025-03-27T12:00:00Z
-lastmod: 2025-03-27T14:24:02
+lastmod: 2025-05-13T08:43:32
 toc: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 10.09 Create Seamless Textures
+title: 10.08 Create Seamless Textures
 date: 2025-03-27T12:00:00Z
-lastmod: 2025-03-27T06:33:15
+lastmod: 2025-05-13T08:43:32
 toc: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 10.10 Texturing and Rendering In Class Exercise
+title: 10.09 Texturing and Rendering In Class Exercise
 date: 2025-03-27T12:00:00Z
-lastmod: 2025-03-27T11:29:46
+lastmod: 2025-05-13T08:43:32
 ---
 
 ## Assignment Deliverables

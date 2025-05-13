@@ -1,7 +1,7 @@
 ---
-title: 10.03 Blender Texture Paint
+title: 10.02 Blender Texture Paint
 date: 2025-03-27T12:00:00Z
-lastmod: 2025-03-27T06:33:15
+lastmod: 2025-05-13T08:43:32
 toc: true
 ---
 
