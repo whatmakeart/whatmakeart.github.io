@@ -1,7 +1,7 @@
 ---
-title: 07.07 Clean Up 3D Mesh
+title: 07.07 Clean Up 3D Mesh Blender
 date: 2025-02-26T12:00:00Z
-lastmod: 2025-02-28T08:06:21
+lastmod: 2025-05-13T08:52:06
 toc: true
 ---
 
