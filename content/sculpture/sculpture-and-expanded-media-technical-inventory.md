@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2025-03-17T04:38:32
+lastmod: 2025-05-14T09:09:20
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -113,11 +113,17 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | Hammer                                                                                             |       |             |             |             |             |
 | [Hand Held Drill](../woodworking/how-to-use-a-hand-drill.md)                                       |       |             |             |             |             |
 | Drill Mixing Attachment                                                                            |       |             |             |             |             |
-| Metal Snips                                                                                        |       |             |             |             |             |
 | [Airbrush](../tools/airbrushing-basics.md)                                                         |       |             |             |             |             |
 | [Spray Gun](../tools/spray-gun.md)                                                                 |       |             |             |             |             |
 | Beaverly Shear                                                                                     |       |             |             |             |             |
 | captive nut insert rivet                                                                           |       |             |             |             |             |
+| Half Face Respirator                                                                               |       |             |             |             |             |
+| N95 Mask                                                                                           |       |             |             |             |             |
+| Nitrile Gloves                                                                                     |       |             |             |             |             |
+| Tufting Gun                                                                                        |       |             |             |             |             |
+| Felting Resists                                                                                    |       |             |             |             |             |
+| Felting Inclusions                                                                                 |       |             |             |             |             |
+| Torque Wrench                                                                                      |       |             |             |             |             |
 
 </div>
 
@@ -206,6 +212,12 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | Powder Coating                                                                                         |       |             |             |             |             |
 | [Cyanotype](../photography/cyanotype-basics.md)                                                        |       |             |             |             |             |
 | [Pnuematic structure (inflatable)](../art-faq/how-to-make-inflatables.md)                              |       |             |             |             |             |
+| Puppets                                                                                                |       |             |             |             |             |
+| Foam Carving / Sculpting                                                                               |       |             |             |             |             |
+| Glazing                                                                                                |       |             |             |             |             |
+| Origami                                                                                                |       |             |             |             |             |
+| Wearable Armature                                                                                      |       |             |             |             |             |
+| [Gaussian Splatting](../3d-modeling/gaussian-splatting.md)                                             |       |             |             |             |             |
 
 </div>
 
@@ -258,7 +270,6 @@ Review the list of [sculpture materials](../making/materials-for-making.md) belo
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     // Make table headers sticky
-    // This will apply sticky positioning to all table heads in responsive-table-markdown
     const style = document.createElement('style');
     style.innerHTML = `
         .responsive-table-markdown table {
@@ -307,6 +318,48 @@ document.addEventListener("DOMContentLoaded", function() {
     `;
     document.head.appendChild(style);
 
+    const RADIO_SELECTIONS_KEY = 'radioSelectionsProgress'; // Key for localStorage
+
+    // Function to save a selection to localStorage
+    function saveSelection(itemName, selectedValue) {
+        try {
+            let selections = JSON.parse(localStorage.getItem(RADIO_SELECTIONS_KEY)) || {};
+            selections[itemName] = selectedValue;
+            localStorage.setItem(RADIO_SELECTIONS_KEY, JSON.stringify(selections));
+        } catch (e) {
+            console.error("Error saving selections to localStorage:", e);
+        }
+    }
+
+    // Function to load selections from localStorage and apply them
+    function loadSelections() {
+        try {
+            const selections = JSON.parse(localStorage.getItem(RADIO_SELECTIONS_KEY));
+            if (selections) {
+                for (const itemName in selections) {
+                    if (selections.hasOwnProperty(itemName)) {
+                        const selectedValue = selections[itemName];
+                        // CSS.escape is used to handle special characters in names/values for querySelector
+                        const escapedItemName = CSS.escape(itemName);
+                        const escapedSelectedValue = CSS.escape(selectedValue);
+                        
+                        const radioToSelect = document.querySelector(`input[type="radio"][name="${escapedItemName}"][value="${escapedSelectedValue}"]`);
+                        if (radioToSelect) {
+                            radioToSelect.checked = true;
+                        } else {
+                            // This can happen if the table structure changed since last visit
+                            console.warn(`Could not find radio button for saved selection: name='${itemName}', value='${selectedValue}'`);
+                        }
+                    }
+                }
+            }
+        } catch (e) {
+            console.error("Error loading selections from localStorage:", e);
+            // Optionally, clear corrupted data:
+            // localStorage.removeItem(RADIO_SELECTIONS_KEY);
+        }
+    }
+
     // Identify all tables within .responsive-table-markdown
     const tables = document.querySelectorAll('.responsive-table-markdown table');
 
@@ -318,15 +371,15 @@ document.addEventListener("DOMContentLoaded", function() {
         // Get the column headers
         const headers = Array.from(thead.querySelectorAll('th')).map(th => th.innerText.trim());
 
-        // The first header is the item name, and the rest are categories
-        const categories = headers.slice(1);
+        // The first header is the item name, and the rest are categories (radio button values)
+        const valueCategories = headers.slice(1);
 
         // For each row (item), create radio buttons
         Array.from(tbody.querySelectorAll('tr')).forEach((tr) => {
             const cells = tr.querySelectorAll('td');
             if (cells.length < 2) return;
 
-            // Extract item name
+            // Extract item name (used as the 'name' attribute for radio buttons in a row)
             let itemName = '';
             const firstCellLink = cells[0].querySelector('a');
             if (firstCellLink) {
@@ -337,26 +390,39 @@ document.addEventListener("DOMContentLoaded", function() {
 
             // Insert radio buttons into empty cells
             for (let i = 1; i < cells.length; i++) {
-                const category = categories[i - 1]; 
-                cells[i].innerHTML = ''; // Clear existing cell content
-                const label = document.createElement('label');
-                const input = document.createElement('input');
-                input.type = 'radio';
-                input.name = itemName;
-                input.value = category;
-                label.appendChild(input);
-                cells[i].appendChild(label);
+                // Ensure we don't go out of bounds for valueCategories
+                if (i - 1 < valueCategories.length) {
+                    const radioValue = valueCategories[i - 1]; 
+                    cells[i].innerHTML = ''; // Clear existing cell content
+                    const label = document.createElement('label');
+                    const input = document.createElement('input');
+                    input.type = 'radio';
+                    input.name = itemName; // Groups radios for the same item
+                    input.value = radioValue; // The actual value of the choice
+
+                    // Add event listener to save selection on change
+                    input.addEventListener('change', function() {
+                        if (this.checked) {
+                            saveSelection(this.name, this.value);
+                        }
+                    });
+
+                    label.appendChild(input);
+                    cells[i].appendChild(label);
+                }
             }
         });
     });
 
-    // Create and append the Download CSV button at the bottom of the page
+    // After all radio buttons are created and event listeners attached, load any saved selections.
+    loadSelections();
+
+    // Create and append the Download CSV button
     const downloadButton = document.createElement('button');
     downloadButton.type = 'button';
     downloadButton.id = 'download-csv';
     downloadButton.innerText = 'Download CSV';
 
-    // Insert the button after the last responsive-table-markdown section or at the bottom of the body
     const lastTableContainer = document.querySelectorAll('.responsive-table-markdown');
     if (lastTableContainer.length > 0) {
         lastTableContainer[lastTableContainer.length - 1].insertAdjacentElement('afterend', downloadButton);
@@ -365,7 +431,6 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     downloadButton.addEventListener('click', function() {
-        // Collect data from all tables
         let csvContent = "data:text/csv;charset=utf-8,Category,Item,Response\n";
 
         tables.forEach((table) => {
@@ -373,12 +438,11 @@ document.addEventListener("DOMContentLoaded", function() {
             const tbody = table.querySelector('tbody');
             if (!thead || !tbody) return;
 
-            // Determine category from a heading above the table if possible
-            let category = '';
+            let tableCategory = ''; // This is the H2/H3 category for the CSV
             let prev = table.previousElementSibling;
             while (prev) {
                 if ((prev.tagName === 'H2' || prev.tagName === 'H3') && prev.innerText.trim().length > 0) {
-                    category = prev.innerText.trim();
+                    tableCategory = prev.innerText.trim();
                     break;
                 }
                 prev = prev.previousElementSibling;
@@ -397,14 +461,18 @@ document.addEventListener("DOMContentLoaded", function() {
                     itemName = cells[0].innerText.trim();
                 }
 
-                // Find chosen radio button for this item
-                const radios = tr.querySelectorAll('input[type=radio]');
-                let chosen = '';
-                radios.forEach(radio => {
-                    if (radio.checked) chosen = radio.value;
-                });
+                let chosenResponse = '';
+                // Query using the (potentially special character containing) itemName
+                const escapedItemName = CSS.escape(itemName);
+                const checkedRadio = tr.querySelector(`input[type="radio"][name="${escapedItemName}"]:checked`);
+                if (checkedRadio) {
+                    chosenResponse = checkedRadio.value;
+                }
+                
+                // Enclose fields in double quotes for CSV robustness
+                const sanitize = (str) => `"${str.replace(/"/g, '""')}"`; // Escape double quotes within fields
 
-                csvContent += `"${category}","${itemName}","${chosen}"\n`;
+                csvContent += `${sanitize(tableCategory)},${sanitize(itemName)},${sanitize(chosenResponse)}\n`;
             });
         });
 
