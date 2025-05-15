@@ -1,7 +1,7 @@
 ---
 title: Cardboard Construction
 date: 2023-06-14T05:51:08
-lastmod: 2024-12-05T16:49:20
+lastmod: 2025-05-15T06:03:54
 ---
 
 Cardboard is a great material for making prototypes and models. As a [material for making](./materials-for-making.md), it is relatively cheap, easy to find, strong and lightweight. During [fabrication](../making/fabrication.md) it can be cut, sanded, bent, fastened and glued. Multiple layers of cardboard can be built up to make a panel a desired thickness or to build a [scale cardboard to plywood](./scale-cardboard-to-plywood.md).
@@ -14,7 +14,7 @@ With a small amount of practice you can make detailed an intricate test pieces w
 
 ## Cutting Techniques
 
-- Laser Cutter - cuts cardboard very well. You can make shapes in graphics program like Adobe Illustrator or 3D modeling programs such as[Fusion 360](../3d-modeling/fusion-360/fusion-360.md).
+- Laser Cutter - cuts cardboard very well. You can make shapes in graphics program like [Adobe Illustrator](../software/adobe-illustrator/illustrator.md) or 3D modeling programs such as [Fusion 360](../3d-modeling/fusion-360/fusion-360.md).
 - Box Cutter - Always use a new blade and a cutting mat
 - Metal Straight Edge - useful for cutting clean edges
 - Remember that often you need to run the box cutter multiple times to cut all of the cardboard

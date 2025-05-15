@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2025-05-14T09:09:20
+lastmod: 2025-05-14T12:51:36
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -264,6 +264,7 @@ Review the list of [sculpture materials](../making/materials-for-making.md) belo
 | Materiality                                    |       |             |             |             |             |
 | Reproducibility                                |       |             |             |             |             |
 | [Found Objects](../sculpture/found-objects.md) |       |             |             |             |             |
+| [Quality](../articles/quality.md)              |       |             |             |             |             |
 
 </div>
 
