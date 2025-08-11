@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2024-08-21T09:00:00
-lastmod: 2024-11-05T06:53:58
+lastmod: 2025-08-10T19:33:13
 ---
 
 ## Modeling and Expanded Making Syllabus
@@ -68,11 +68,15 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 - We will use [Canvas to turn in assignments](https://cia.instructure.com/courses/1300). If issues arise with Canvas’ file submission process then we will use Google Drive to turn in assignments.
 - The class will have a Google Drive folder specific to this course.
-- Use this format for naming all your Programming for Artists class digital files:
+- Use this format for naming all your class digital files:
   - YYYYMMDD Smith Lane Project 1
   - 20240821 Smith Lane First Day Project 1
 
-[Canvas Course Page](https://cia.instructure.com/courses/1300)
+### Additional Topics
+
+- Real-World Scale 3D Scanning and Fitting
+- Preparing Submissions for Public Art RFPs
+- High-Quality Visual Documentation and Presentation
 
 ## Course Schedule & Requirements
 
@@ -99,12 +103,6 @@ Projects must be turned in on time. On time is before the beginning of class on 
 | 17       | December 11  | Final Crit                                                                                               |
 
 </div>
-
-### Additional Topics
-
-- Real-World Scale 3D Scanning and Fitting
-- Preparing Submissions for Public Art RFPs
-- High-Quality Visual Documentation and Presentation
 
 ### Key Dates:
 
@@ -135,20 +133,12 @@ Projects must be turned in on time. On time is before the beginning of class on 
 - external storage device for digital backups
 - 3 button mouse
 
-## Cleveland Institute of Art Recommended Policies
-
-### Credit Hour Definition
-
-The Cleveland Institute of Art operates on a semester system comprised of Fall and Spring terms. Each term is at least 16 weeks in length, which includes final examinations and studio critiques. A credit hour is formally defined as _1 one hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for a semester._ At CIA, this is further defined as:
-
-- A three-credit Studio course translates to 5 hours of scheduled class time per week plus 4-6 hours of preparation and homework.
+## Cleveland Institute of Art Required Policy Language
 
 ### Accessibility Statement
 
 CIA is committed to ensuring that students with documented disabilities have equal access to our educational programs and activities. If you have, or believe you may have, a disability that may interfere with your ability to participate in the activities, coursework, or assessments of this course, you may be eligible for accommodations.
 If you are a student with a disability and wish to request accommodations, please contact Accessibility & Disability Services, located in Room 120, to arrange a confidential discussion about your need for accommodations. Accessibility & Disability Services can be reached at [disabilityservices@cia.edu](mailto:disabilityservices@cia.edu). Appointments can be made via AdviseMe in MyCIA. For more information, please visit [my.cia.edu/ADS](https://my.cia.edu/ADS).
-
-## Cleveland Institute of Art Required Policy Language
 
 ### Diversity & Inclusion Statement
 
