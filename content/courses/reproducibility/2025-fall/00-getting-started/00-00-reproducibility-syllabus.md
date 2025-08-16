@@ -1,7 +1,7 @@
 ---
 title: 00.00 Reproducibility Syllabus
 date: 2025-08-27T12:00:00
-lastmod: 2025-08-11T17:41:38
+lastmod: 2025-08-11T17:51:36
 ---
 
 ### Course Information
@@ -20,7 +20,7 @@ Office Hours: By appointment
 
 Semester: Fall 2025
 
-[Canvas Course Page]()
+[Canvas Course Page](https://cia.instructure.com/courses/1893)
 
 [Course Website](https://whatmakeart.com/courses/reproducibility/2025-fall/)
 
