@@ -33,7 +33,17 @@ startLevel = 1     # default is 2
 endLevel = 6       # default is 3
 minNumHeadings = 1 # default is 2
 
+# Tell Hugo to render a lightweight, plain-text LinkIndex for the home page before HTML. 
+# That pre-pass only touches .Content for each page, 
+# which triggers the render hooks (and thus populates the backlinks).
+[outputFormats.LinkIndex]
+mediaType = "text/plain"
+baseName  = "linkindex"
+isPlainText = true
+notAlternative = true
 
+[outputs]
+home = ["LinkIndex", "HTML", "RSS"]
 
 
 [frontmatter]

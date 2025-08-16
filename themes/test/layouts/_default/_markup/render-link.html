@@ -1,93 +1,151 @@
-{{ $link := .Destination }}
-{{ $isRemote := strings.HasPrefix .Destination "http" }}
+<!-- =========================================================================
+     render-link.html — fast link resolution + backlink/forwardlink recording
+     -------------------------------------------------------------------------
+     Goals:
+       • Resolve links without scanning .Site.Pages or using os.FileExists
+       • Handle remote links, same-page fragments, relative paths, page bundles,
+         content pages (.md/_index.md), and static fallbacks
+       • Record backlinks (on TARGET page) and forward links (on SOURCE page)
+       • Avoid nil pitfalls: only use page objects inside "with" blocks
+     ========================================================================= -->
 
+<!-- Raw pieces from the render hook */ -->
+{{- $link := .Destination -}}                                   <!--  final href we’ll output -->
+{{- $isRemote := or (strings.HasPrefix .Destination "http://")
+                    (strings.HasPrefix .Destination "https://")
+                    (strings.HasPrefix .Destination "mailto:")
+                    (strings.HasPrefix .Destination "tel:") -}}
+{{- $url := urls.Parse .Destination -}}                         <!--  parsed URL parts (path, fragment) -->
+{{- $fragment := "" -}}
+{{- with $url.Fragment }}{{- $fragment = printf "#%s" . -}}{{- end -}}
+
+<!--  Only do heavy lifting for internal links -->
 {{- if not $isRemote -}}
-  {{ $url := urls.Parse .Destination }}
-  {{- $linkFileBase := path.Base $url -}}
-  <!-- get last part of $url likely the filename -->
-  {{- $linkFileDir := path.Dir $url -}}
 
-  {{- $searchedFile := $url -}}
-  {{- $linkExt := $url -}}
-  {{- if $url.Path -}}
-    {{- $fragment := "" -}}
-    {{- with $url.Fragment -}}
-      {{ $fragment = printf "#%s" . }}
+  <!-- Normalize a path (resolve relative links against current page dir) -->
+  {{- $p := $url.Path -}}
+  {{- if and $p .Page.File -}}
+    {{- if not (strings.HasPrefix $p "/") -}}
+      {{- $p = path.Clean (path.Join .Page.File.Dir $p) -}}
     {{- end -}}
-    <!-- end with $url.Fragment -->
-    {{- with .Page.GetPage $url.Path }}
-      {{ $link = printf "%s%s" .RelPermalink $fragment }}
-    {{- end -}}
-    {{- if os.FileExists $link -}}
-      <!-- Original Link Exists -->
-      {{ $link = $link }}
-    {{ else }}
-      {{- range .Page.Site.Pages -}}
-        <!-- set range of all pages need to use .Page in front since in render hook -->
-        {{- $linkFileDir := replace $linkFileDir "../" "" -}}
-        {{- $linkFileDir := replace $linkFileDir "./" "" -}}
-        {{ with .File }}
-          {{- $searchedFile = (path.Join (path.Dir .Path) $linkFileDir $linkFileBase) -}}
-        {{- end -}}
-        {{- if os.FileExists $searchedFile -}}
-          {{- $linkExt = urls.Parse $searchedFile -}}
-          <!-- Get file extension -->
-        {{- else -}}
-          {{- $searchedFile = path.Join "/" $searchedFile -}}
-          <!-- add front slash to make a root relative link -->
-          {{- if os.FileExists $searchedFile -}}
-            {{- $linkExt = urls.Parse $link -}}
-            <!-- Get file extension -->
+  {{- end -}}
+
+  <!-- Case 1: link is purely a fragment like "#section" → output just the fragment -->
+  {{- if not $p -}}
+    {{- $link = $fragment -}}
+  {{- else -}}
+
+    <!-- Case 2: try to resolve a CONTENT PAGE first (so we can record graph edges) -->
+    {{- $base := strings.TrimSuffix ".md" $p -}}
+    {{- $candidates := slice
+          $p
+          (printf "%s.md" $base)
+          (printf "%s/_index.md" (strings.TrimSuffix "/" $base))
+      -}}
+
+    {{- $resolved := false -}}                                   <!-- guard: stop after first hit -->
+
+    <!-- Try looking up in the current page’s tree first -->
+    {{- range $c := $candidates -}}
+      {{- if not $resolved -}}
+        {{- with $.Page.GetPage $c -}}                           <!-- "." is now the TARGET page -->
+          {{- $link = printf "%s%s" .RelPermalink $fragment -}}  <!-- use canonical permalink + fragment -->
+
+          {{- $src := $.Page -}}                                 <!-- SOURCE page (the page containing this link) -->
+
+          <!-- Record BACKLINK on TARGET: who links to me? -->
+          {{- $bk := .Scratch.Get "backlinks" | default (slice) -}}
+          {{- $dup := false -}}
+          {{- range $bk -}}
+            {{- if eq .RelPermalink $src.RelPermalink -}} {{- $dup = true -}} {{- end -}}
           {{- end -}}
+          {{- if not $dup -}}
+            {{- $bk = $bk | append $src -}}
+            {{- .Scratch.Set "backlinks" $bk -}}
+          {{- end -}}
+
+          <!-- Record FORWARD link on SOURCE: who do I link to? -->
+          {{- $fw := $src.Scratch.Get "forwardlinks" | default (slice) -}}
+          {{- $tRel := .RelPermalink -}}                          <!-- target’s permalink for de-dup -->
+          {{- $fdup := false -}}
+          {{- range $fw -}}
+            {{- if eq .RelPermalink $tRel -}} {{- $fdup = true -}} {{- end -}}
+          {{- end -}}
+          {{- if not $fdup -}}
+            {{- $fw = $fw | append . -}}                         <!-- append TARGET page object -->
+            {{- $src.Scratch.Set "forwardlinks" $fw -}}
+          {{- end -}}
+
+          {{- $resolved = true -}}
         {{- end -}}
-        {{ if os.FileExists $searchedFile }}
-          {{ $link = $searchedFile }}
-          {{- if strings.HasSuffix $linkExt.Path ".md" -}}
-            <!-- Check if a markdown file extension -->
-            {{ $link = replace $link ".md" "/" }}
-          {{ end }}
-          {{ $link = path.Join "/" $link }}
-          <!-- add front slash to make a root relative link -->
-          {{ $link = path.Clean $link }}
+      {{- end -}}
+
+      <!-- If still not found, try anywhere in the site -->
+      {{- if not $resolved -}}
+        {{- with $.Page.Site.GetPage $c -}}                      <!-- "." is TARGET -->
+          {{- $link = printf "%s%s" .RelPermalink $fragment -}}
+
+          {{- $src := $.Page -}}
+
+          <!-- Backlink on TARGET -->
+          {{- $bk := .Scratch.Get "backlinks" | default (slice) -}}
+          {{- $dup := false -}}
+          {{- range $bk -}}
+            {{- if eq .RelPermalink $src.RelPermalink -}} {{- $dup = true -}} {{- end -}}
+          {{- end -}}
+          {{- if not $dup -}}
+            {{- $bk = $bk | append $src -}}
+            {{- .Scratch.Set "backlinks" $bk -}}
+          {{- end -}}
+
+          <!-- Forward link on SOURCE -->
+          {{- $fw := $src.Scratch.Get "forwardlinks" | default (slice) -}}
+          {{- $tRel := .RelPermalink -}}
+          {{- $fdup := false -}}
+          {{- range $fw -}}
+            {{- if eq .RelPermalink $tRel -}} {{- $fdup = true -}} {{- end -}}
+          {{- end -}}
+          {{- if not $fdup -}}
+            {{- $fw = $fw | append . -}}
+            {{- $src.Scratch.Set "forwardlinks" $fw -}}
+          {{- end -}}
+
+          {{- $resolved = true -}}
         {{- end -}}
-      {{ end }}
-    {{ end }}
-  {{ end }}
-{{- end -}}
-<!-- end if not $isRemote -->
-{{- /**/ -}}
-<a
-  href="{{- $link | safeURL -}}"
-  {{- with .Title -}}title="{{- . -}}"{{- end -}}
->
-  {{- .Text | safeHTML -}}{{- if $isRemote -}}
+      {{- end -}}
+    {{- end -}}
+
+    <!-- Case 3: not a content page → resource in page bundle or static path -->
+    {{- if not $resolved -}}
+      {{- with .Page.Resources.GetMatch $p -}}                   <!-- image/pdf/etc. in the bundle -->
+        {{- $link = printf "%s%s" .RelPermalink $fragment -}}
+      {{- else -}}
+        {{- $clean := path.Clean (printf "/%s" (strings.TrimPrefix "/" $p)) -}}
+        {{- $link = printf "%s%s" $clean $fragment -}}           <!-- root-relative fallback -->
+      {{- end -}}
+    {{- end -}}
+
+  {{- end -}} {{/* end if not $p */}}
+{{- end -}}   {{/* end if not $isRemote */}}
+
+<!-- Final anchor output (external icon for remote links) -->
+<a href="{{- $link | safeURL -}}" {{- with .Title -}} title="{{- . -}}"{{- end -}}>
+  {{- .Text | safeHTML -}}
+  {{- if $isRemote -}}
     <span style="white-space: nowrap;">
       &thinsp;
       <svg
-        style="height: auto; width: 0.6rem; margin-left: 0.2rem; vertical-align: baseline;"
-        focusable="false"
-        data-icon="external-link-alt"
-        role="img"
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 792 792"
-      >
+        style="height:auto;width:0.6rem;margin-left:0.2rem;vertical-align:baseline;"
+        focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 792">
         <title>external link</title>
-        <path
-          fill="none"
-          stroke="currentColor"
-          d="M678.08 396v315.12c0 31.4-25.43 56.85-56.79 56.85H81.49c-31.36 0-56.79-25.45-56.79-56.85V170.77c0-31.4 25.43-56.85 56.79-56.85h269.9"
-          style="stroke-width:62;stroke-linecap:round;stroke-miterlimit:10"
-        />
-        <path
-          stroke="currentColor"
-          d="m165.25 626.76 489.74-489.75"
-          style="stroke-width:54;stroke-linecap:round;stroke-miterlimit:10"
-        />
-        <path
-          fill="currentColor"
-          stroke="currentColor"
-          d="M722.34 260.06 792 0 531.94 69.67z"
-        />
+        <path fill="none" stroke="currentColor"
+              d="M678.08 396v315.12c0 31.4-25.43 56.85-56.79 56.85H81.49c-31.36 0-56.79-25.45-56.79-56.85V170.77c0-31.4 25.43-56.85 56.79-56.85h269.9"
+              style="stroke-width:62;stroke-linecap:round;stroke-miterlimit:10"/>
+        <path stroke="currentColor"
+              d="m165.25 626.76 489.74-489.75"
+              style="stroke-width:54;stroke-linecap:round;stroke-miterlimit:10"/>
+        <path fill="currentColor" stroke="currentColor"
+              d="M722.34 260.06 792 0 531.94 69.67z"/>
       </svg>
     </span>
   {{- end -}}

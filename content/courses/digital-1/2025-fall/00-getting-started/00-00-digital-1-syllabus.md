@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital 1 Syllabus
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-08-16T12:14:24
+lastmod: 2025-08-16T12:25:37
 ---
 
 ### Course Information
@@ -62,6 +62,8 @@ Upon completion of the course, students will have to opportunity to:
 - Students must avoid behavior that disrupts the learning process, or that otherwise may be offensive to classmates, or that is disrespectful to the instructor.
 
 ## Course Schedule & Requirements\*
+
+<div class="responsive-table-markdown">
 
 | **Week** | **Date**         | **Topic**                                                                |
 | -------- | ---------------- | ------------------------------------------------------------------------ |
