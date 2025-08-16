@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2025-08-29T09:30:00
-lastmod: 2025-05-08T05:53:30
+lastmod: 2025-08-16T10:43:12
 ---
 
 ## Sketching
@@ -38,7 +38,7 @@ lastmod: 2025-05-08T05:53:30
 - [Edit Mesh Tools](https://extensions.blender.org/add-ons/edit-mesh-tools/) - Mesh modelling toolkit. Several tools to aid modelling.
 - [fSpy Blender](https://github.com/stuffmatic/fSpy-Blender/tree/v1.0.3) - fSpy Blender importer.
 
-## Fusion 360 FAQ
+# Fusion 360 FAQ
 
 ![Link to included file content](../../../../3d-modeling/fusion-360/fusion-360-faq.md)
 
