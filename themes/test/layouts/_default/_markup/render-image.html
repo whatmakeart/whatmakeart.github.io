@@ -1,164 +1,167 @@
-<!-- Begin Include Markdown Files with ![Image](markdown.md) -->
-{{- $includeUrl := urls.Parse .Destination -}}
+<!-- =========================================================================
+     render-image.html — Markdown includes + sibling-folder images (fast & safe)
+     ---------------------------------------------------------------------------
+     • ![…](something.md)
+         1) Resolve as a content page and include its .Content
+         2) Else read content/<path>.md (front matter stripped) and RenderString
+     • ![…](image.*)
+         1) Try page-bundle resource (.Page.Resources.GetMatch)
+         2) Try /assets via resources.Get (pipeline-capable)
+         3) SIBLING-FOLDER fallback (next to MD in /content):
+              a) If mirrored in /static, use that public URL
+              b) Else inline as data: URL (base64)
+         4) Last-resort: output a plain <img> using the given URL
+     Notes:
+       • No .Site.Pages loops; minimal os.FileExists checks
+       • Only pass STRING paths to os.FileExists/readFile
+     ========================================================================= -->
 
-{{- $includePath := $includeUrl -}}
-<!-- fill with default path on initialization -->
-{{- $searchedFile := $includeUrl -}}
-<!-- fill with default path on initialization -->
-{{- $includeFileBase := $includeUrl -}}
-<!-- fill with default path on initialization -->
-{{- $includeFileDir := $includeUrl -}}
-{{- $pathPrefix := "default" -}}
+{{- $dest := .Destination -}}
+{{- $isRemote := or (strings.HasPrefix $dest "http://") (strings.HasPrefix $dest "https://") -}}
+{{- $u := urls.Parse $dest -}}
+{{- $path := $u.Path -}}
+<!-- string, not a URL object -->
 
-{{- if strings.HasSuffix $includeUrl.Path ".md" -}}
-  <!-- Check if a markdown file extension -->
-
-  {{- if os.FileExists $includeUrl -}}
-    <!-- check if markdown file to include exists with original .Destination-->
-    {{- $includePath = $includeUrl -}}
-    <!-- set include path if File exists -->
-  {{- else -}}
-    {{- $withoutPrefix := replace .Destination "../" "" -}}
-    {{- $withoutPrefix := replace $withoutPrefix "./" "" -}}
-
-    {{- if os.FileExists $withoutPrefix -}}
-      <!-- check if markdown file to include exists without prefixed ../ -->
-      {{- $includePath = $withoutPrefix -}}
-      <!-- set include path if File exists -->
+<!-- -------------------------------- INCLUDES -------------------------------- -->
+{{- if and (not $isRemote) (strings.HasSuffix $path ".md") -}}
+  <!-- Normalize include path against current page’s content dir -->
+  {{- if and $path .Page.File -}}
+    {{- if not (strings.HasPrefix $path "/") -}}
+      {{- $path = path.Clean (path.Join .Page.File.Dir $path) -}}
+      <!-- content-relative -->
     {{- else -}}
-      {{- $pathPrefix = path.Join "../" .Destination -}}
-      {{- if os.FileExists $pathPrefix -}}
-        <!-- check if markdown file to include exists with an extra move up folder prefix -->
-        {{- $includePath = $pathPrefix -}}
-        <!-- set include path if File exists -->
-      {{- else -}}
-        {{- range .Page.Site.Pages -}}
-          <!-- set range of all pages need to use .Page in front since in render hook -->
-          {{ $includeFileBase = path.Base $includeUrl }}
-          <!-- get last part of $includeUrl likely the filename -->
-          {{ $includeFileDir = path.Dir $includeUrl }}
-          {{ with .File }}
-            {{ $searchedFile =  (path.Join (path.Dir .Path) $includeFileDir $includeFileBase) }}
-          {{ end }}
-          {{ $searchedFile = path.Join "/" $searchedFile }}
-          <!-- add front slash to make a root relative link -->
-          {{ if os.FileExists $searchedFile }}
-            <!-- check if any combination of root relative paths has a matching file -->
-            {{ $includePath = $searchedFile }}
-            <!-- set include path if File exists -->
-          {{- end -}}
-        {{- end -}}
+      {{- $path = strings.TrimPrefix "/" $path -}}
+      <!-- content-root relative -->
+    {{- end -}}
+  {{- end -}}
+
+
+  <!-- 1) Try as a content page (fast, no disk I/O) -->
+  {{- $base := strings.TrimSuffix ".md" $path -}}
+  {{- $cands := slice
+    $path
+    (printf "%s.md" $base)
+    (printf "%s/_index.md" (strings.TrimSuffix "/" $base))
+  -}}
+  {{- $included := false -}}
+  {{- range $c := $cands -}}
+    {{- if not $included -}}
+      {{- with $.Page.Site.GetPage $c -}}
+        <div data-pagefind-ignore>{{ .Content }}</div>
+        {{- $included = true -}}
       {{- end -}}
     {{- end -}}
-    {{ if os.FileExists $includePath }}
+  {{- end -}}
+
+
+  <!-- 2) Fallback: read file from /content and render it here -->
+  {{- if not $included -}}
+    {{- $probe := path.Clean (path.Join "content" $path) -}}
+    {{- if not (os.FileExists $probe) -}}
+      {{- $probe = path.Clean (path.Join "content" (strings.TrimPrefix "/" $path)) -}}
+    {{- end -}}
+    {{- if os.FileExists $probe -}}
       <div data-pagefind-ignore>
-        <!--exclude from pagefind search -->
-        {{- $includePath | readFile | replaceRE "^---[\\s\\S]+?---" "" | .Page.RenderString -}}
+        {{- $raw := readFile $probe -}}
+        {{- $nofm := replaceRE "^---[\\s\\S]+?---\\s*" "" $raw -}}
+        {{- .Page.RenderString $nofm -}}
       </div>
     {{- else -}}
-      <!-- log for testing -->
-      <p>Possible Link = {{ $includePath }}</p>
-      <p>Link Not Found: {{ $includeUrl }}</p>
-      <ul>
-        <li>.Destination = {{ $includeUrl }}</li>
-        <li>$includeUrl = {{ $includeUrl }}</li>
-        <li>$withoutPrefix = {{ $withoutPrefix }}</li>
-        <li>$pathPrefix = {{ $pathPrefix }}</li>
-        <li>$searchedFile = {{ $searchedFile }}</li>
-        <li>
-          $includeFileBase =
-          {{ $includeFileBase }}
-        </li>
-        <li>$includeFileDir = {{ $includeFileDir }}</li>
-      </ul>
+      <!-- include not found: {{ $path }} -->
     {{- end -}}
   {{- end -}}
 
-{{- end -}}
 
-
-<!-- End Include Markdown Files with ![Image](markdown.md) -->
-
-{{- if not (strings.HasSuffix $includeUrl.Path ".md") -}}
-  <!-- if not a .md file -->
-  <!-- Begin Example Code from Hugo Portable Links https://github.com/bep/portable-hugo-links -->
-  {{- $img := .Page.Resources.GetMatch .Destination -}}
-  {{- if and (not $img) .Page.File -}}
-    {{ $path := path.Join .Page.File.Dir .Destination }}
-    {{- $img = resources.Get $path -}}
+  <!-- -------------------------------- IMAGES ---------------------------------- -->
+{{- else -}}
+  <!-- 1) Try page-bundle resource (fast & cacheable) -->
+  {{- $img := .Page.Resources.GetMatch $dest -}}
+  {{- if not $img -}}
+    <!-- also try basename in case author wrote ../img.png -->
+    {{- $img = .Page.Resources.GetMatch (path.Base $path) -}}
   {{- end -}}
+
+
+  <!-- 2) Try /assets (pipeline-capable) -->
+  {{- if not $img -}}
+    {{- $assetsCand := strings.TrimPrefix "/" $path -}}
+    {{- $assetsCand = strings.TrimPrefix "assets/" $assetsCand -}}
+    {{- $img = resources.Get $assetsCand -}}
+  {{- end -}}
+
   {{- with $img -}}
-    {{- $xlarge := $img.Resize "3840x" -}}
-    {{- $large := $img.Resize "2048x" -}}
-    {{- $medium := $img.Resize "1080x" -}}
-    {{- $small := $img.Resize "828x" -}}
-    {{- $xsmall := $img.Resize "640x" -}}
-
-
+    <!-- Pipeline chain (adjust sizing to your taste) -->
+    {{- $large  := .Resize "1200x" -}}
+    {{- $medium := $large.Fill  "726x402 smart" -}}
+    {{- $small  := $medium.Fill "458x254 smart" -}}
     <figure class="image-caption">
       <img
         alt="{{ $.Text }}"
         srcset="
-          {{ $xsmall.RelPermalink }}  640w,
-          {{ $small.RelPermalink }}  828w,
-          {{ $medium.RelPermalink }} 1080w,
-          {{ $large.RelPermalink }} 2840w,
-          {{ $xlarge.RelPermalink }} 3840w
+          {{ $small.RelPermalink }}  458w,
+          {{ $medium.RelPermalink }}  726w,
+          {{ $large.RelPermalink }} 1200w
         "
-        width="{{ $img.Width }}"
         sizes="50vw"
-        src="{{ $xsmall.RelPermalink }}"
+        src="{{ $small.RelPermalink }}"
+        class="img-fluid"
       />
       <figcaption>{{ with $.Title | safeHTML }}{{ . }}{{ end }}</figcaption>
     </figure>
   {{- else -}}
-    <!-- End Example Code from Hugo Portable Links https://github.com/bep/portable-hugo-links -->
+    <!-- ---------------- SIBLING-FOLDER FALLBACKS ---------------- -->
 
-    <!-- Begin check for images living in same folder as markdown-file.md for GitHub viewing -->
-    {{- $pageFolder := path.Dir .Page.RelPermalink }}
-    <!-- Get the Relative URL of the Page -->
-    {{- $pageFolderUp := path.Dir $pageFolder -}}
-    <!-- Remove the Hugo Created folder from URL-->
-    {{- $imgPath := path.Join $pageFolderUp .Destination -}}
-    <!-- Join one folder up with the image .Destination -->
+    <!-- 3a) Is there a sibling image file next to the MD in /content? -->
+    {{- $sibDisk := "" -}}
+    {{- if and .Page.File $path -}}
+      {{- $joined := "" -}}
+      {{- if not (strings.HasPrefix $path "/") -}}
+        {{- $joined = path.Clean (path.Join .Page.File.Dir $path) -}}
+      {{- else -}}
+        {{- $joined = strings.TrimPrefix "/" $path -}}
+      {{- end -}}
+      {{- $probeContent := path.Clean (path.Join "content" $joined) -}}
+      {{- if os.FileExists $probeContent -}}
+        {{- $sibDisk = $probeContent -}}
+      {{- end -}}
+    {{- end -}}
 
-    {{- if os.FileExists $imgPath -}}
-      <!-- check if image is one directory up after Hugo Render -->
-      <img
-        class="img-fluid"
-        src="{{ $imgPath | safeURL }}"
-        alt="{{ $.Text }}"
-      />
-      <!-- Display image-->
-    {{- else -}}
-      <!-- End check for images living in same folder as markdown-file.md for GitHub viewing -->
-
-      {{- range .Page.Site.Pages -}}
-        <!-- set range of all pages need to use .Page in front since in render hook -->
-        {{ $includeFileBase = path.Base $includeUrl }}
-        <!-- get last part of $includeUrl likely the filename -->
-        {{ $includeFileDir = path.Dir $includeUrl }}
-        {{ with .File }}
-          {{ $searchedFile =  (path.Join (path.Dir .Path) $includeFileDir $includeFileBase) }}
-        {{ end }}
-        {{ $searchedFile = path.Join "/" $searchedFile }}
-        <!-- add front slash to make a root relative link -->
-        {{ if os.FileExists $searchedFile }}
-          <!-- check if any combination of root relative paths has a matching file -->
-
-          {{ $includePath = $searchedFile }}
-          <!-- set include path if File exists -->
-        {{- end -}}
+    {{- if $sibDisk -}}
+      <!-- 3b) If there is a mirrored copy under /static, serve public URL -->
+      {{- $relFromContent := strings.TrimPrefix "content/" $sibDisk -}}
+      {{- $staticDisk := path.Clean (path.Join "static" $relFromContent) -}}
+      {{- if os.FileExists $staticDisk -}}
+        {{- $publicURL := printf "/%s" (strings.TrimPrefix "/" $relFromContent) -}}
+        <img
+          class="img-fluid"
+          src="{{ $publicURL | safeURL }}"
+          alt="{{ $.Text }}"
+        />
+      {{- else -}}
+        <!-- 3c) Inline the sibling image as a data: URL (keeps site working) -->
+        {{- $raw := readFile $sibDisk -}}
+        {{- $b64 := base64Encode $raw -}}
+        {{- $ext := lower (path.Ext $sibDisk) -}}
+        {{- $mime := cond (eq $ext ".png") "image/png"
+          (cond (or (eq $ext ".jpg") (eq $ext ".jpeg")) "image/jpeg"
+          (cond (eq $ext ".webp") "image/webp"
+          (cond (eq $ext ".gif") "image/gif"
+          (cond (eq $ext ".svg") "image/svg+xml" "application/octet-stream"))))
+        -}}
+        <img
+          class="img-fluid"
+          src="data:{{ $mime }};base64,{{ $b64 }}"
+          alt="{{ $.Text }}"
+        />
       {{- end -}}
 
-
-      <!-- Display images that might have a full root path in their src -->
-      <img
-        class="img-fluid"
-        src="{{ $includePath | safeURL }}"
-        alt="{{ $.Text }}"
-      />
+    {{- else -}}
+      <!-- 4) Last-resort: plain URL (for remote or already-public URLs) -->
+      {{- $src := $dest -}}
+      {{- if and (not $isRemote) (not (strings.HasPrefix $src "/")) -}}
+        {{- $src = printf "/%s" (strings.TrimPrefix "/" $src) -}}
+      {{- end -}}
+      <img class="img-fluid" src="{{ $src | safeURL }}" alt="{{ $.Text }}" />
     {{- end -}}
   {{- end -}}
 {{- end -}}
-<!-- class="img-fluid" added for bootstrap responsive images rather than putting in main css -->
