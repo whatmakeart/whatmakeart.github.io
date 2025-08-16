@@ -1,17 +1,18 @@
 <!-- =========================================================================
-     render-image.html — Markdown includes + sibling-folder images (no base64)
+     render-image.html — Markdown includes + sibling-folder images (fast & safe)
      ---------------------------------------------------------------------------
      • ![…](something.md)
          1) Resolve as a content page and include its .Content
          2) Else read content/<path>.md (front matter stripped) and RenderString
      • ![…](image.*)
          1) Try page-bundle resource (.Page.Resources.GetMatch)
-         2) Try /assets via resources.Get
-         3) Try sibling file next to the MD in /content → if mirrored in /static,
-            serve that public URL
-         4) Last-resort: plain <img> using the given URL
+         2) Try /assets via resources.Get (pipeline-capable)
+         3) SIBLING-FOLDER fallback (next to MD in /content):
+              a) If mirrored in /static, use that public URL
+              b) Else inline as data: URL (base64)
+         4) Last-resort: output a plain <img> using the given URL
      Notes:
-       • No .Site.Pages loops; minimal os.FileExists
+       • No .Site.Pages loops; minimal os.FileExists checks
        • Only pass STRING paths to os.FileExists/readFile
      ========================================================================= -->
 
@@ -89,42 +90,29 @@
   {{- end -}}
 
   {{- with $img -}}
-    <!-- Pipeline chain (adjust sizing to your taste); also link to a full version -->
-    {{- $large  := .Resize "1600x" -}}
-    {{- $medium := $large.Fit  "1200x" -}}
-    {{- $small  := $medium.Fit "800x" -}}
-
-    {{- $full := . -}}
-    {{- if not .RelPermalink -}}
-      {{- $full = .Resize "3000x" -}}
-    {{- end -}}
-
-
+    <!-- Pipeline chain (adjust sizing to your taste) -->
+    {{- $large  := .Resize "1200x" -}}
+    {{- $medium := $large.Fill  "726x402 smart" -}}
+    {{- $small  := $medium.Fill "458x254 smart" -}}
     <figure class="image-caption">
-      <a href="{{ $full.RelPermalink }}" target="_blank" rel="noopener">
-        <img
-          alt="{{ $.Text }}"
-          src="{{ $small.RelPermalink }}"
-          srcset="
-            {{ $small.RelPermalink }}  800w,
-            {{ $medium.RelPermalink }} 1200w,
-            {{ $large.RelPermalink }} 1600w
-          "
-          sizes="(max-width: 900px) 90vw, 800px"
-          loading="lazy"
-          decoding="async"
-          width="{{ $small.Width }}"
-          height="{{ $small.Height }}"
-          class="img-fluid"
-        />
-      </a>
+      <img
+        alt="{{ $.Text }}"
+        srcset="
+          {{ $small.RelPermalink }}  458w,
+          {{ $medium.RelPermalink }}  726w,
+          {{ $large.RelPermalink }} 1200w
+        "
+        sizes="50vw"
+        src="{{ $small.RelPermalink }}"
+        class="img-fluid"
+      />
       <figcaption>{{ with $.Title | safeHTML }}{{ . }}{{ end }}</figcaption>
     </figure>
   {{- else -}}
-    <!-- ---------------- SIBLING-FOLDER FALLBACK (no base64) ---------------- -->
+    <!-- ---------------- SIBLING-FOLDER FALLBACKS ---------------- -->
 
-    <!-- 3) Is there a sibling image file next to the MD in /content? -->
-    {{- $sibPublic := "" -}}
+    <!-- 3a) Is there a sibling image file next to the MD in /content? -->
+    {{- $sibDisk := "" -}}
     {{- if and .Page.File $path -}}
       {{- $joined := "" -}}
       {{- if not (strings.HasPrefix $path "/") -}}
@@ -134,42 +122,46 @@
       {{- end -}}
       {{- $probeContent := path.Clean (path.Join "content" $joined) -}}
       {{- if os.FileExists $probeContent -}}
-        <!-- If mirrored in /static, prefer that public URL -->
-        {{- $relFromContent := strings.TrimPrefix "content/" $probeContent -}}
-        {{- $staticDisk := path.Clean (path.Join "static" $relFromContent) -}}
-        {{- if os.FileExists $staticDisk -}}
-          {{- $sibPublic = printf "/%s" (strings.TrimPrefix "/" $relFromContent) -}}
-        {{- else -}}
-          <!-- No mirror in /static; fall back to plain URL guess below -->
-        {{- end -}}
+        {{- $sibDisk = $probeContent -}}
       {{- end -}}
     {{- end -}}
 
-    {{- if $sibPublic -}}
-      <a href="{{ $sibPublic | safeURL }}" target="_blank" rel="noopener">
+    {{- if $sibDisk -}}
+      <!-- 3b) If there is a mirrored copy under /static, serve public URL -->
+      {{- $relFromContent := strings.TrimPrefix "content/" $sibDisk -}}
+      {{- $staticDisk := path.Clean (path.Join "static" $relFromContent) -}}
+      {{- if os.FileExists $staticDisk -}}
+        {{- $publicURL := printf "/%s" (strings.TrimPrefix "/" $relFromContent) -}}
         <img
           class="img-fluid"
-          src="{{ $sibPublic | safeURL }}"
+          src="{{ $publicURL | safeURL }}"
           alt="{{ $.Text }}"
-          loading="lazy"
-          decoding="async"
         />
-      </a>
+      {{- else -}}
+        <!-- 3c) Inline the sibling image as a data: URL (keeps site working) -->
+        {{- $raw := readFile $sibDisk -}}
+        {{- $b64 := base64Encode $raw -}}
+        {{- $ext := lower (path.Ext $sibDisk) -}}
+        {{- $mime := cond (eq $ext ".png") "image/png"
+          (cond (or (eq $ext ".jpg") (eq $ext ".jpeg")) "image/jpeg"
+          (cond (eq $ext ".webp") "image/webp"
+          (cond (eq $ext ".gif") "image/gif"
+          (cond (eq $ext ".svg") "image/svg+xml" "application/octet-stream"))))
+        -}}
+        <img
+          class="img-fluid"
+          src="data:{{ $mime }};base64,{{ $b64 }}"
+          alt="{{ $.Text }}"
+        />
+      {{- end -}}
+
     {{- else -}}
       <!-- 4) Last-resort: plain URL (for remote or already-public URLs) -->
       {{- $src := $dest -}}
       {{- if and (not $isRemote) (not (strings.HasPrefix $src "/")) -}}
         {{- $src = printf "/%s" (strings.TrimPrefix "/" $src) -}}
       {{- end -}}
-      <a href="{{ $src | safeURL }}" target="_blank" rel="noopener">
-        <img
-          class="img-fluid"
-          src="{{ $src | safeURL }}"
-          alt="{{ $.Text }}"
-          loading="lazy"
-          decoding="async"
-        />
-      </a>
+      <img class="img-fluid" src="{{ $src | safeURL }}" alt="{{ $.Text }}" />
     {{- end -}}
   {{- end -}}
 {{- end -}}
