@@ -12,7 +12,7 @@
         aria-controls="wikiSidebar"
         aria-label="Toggle wiki navigation"
       >
-        {{ partial "svg/hamburger.svg" (dict "class" "bi" "width" "24" "height" "24") }}
+        {{ partialCached "svg/hamburger.svg" (dict "class" "bi" "width" "24" "height" "24") }}
         <span class="d-none fs-6 pe-1">Browse</span>
       </button>
     </div>
@@ -91,7 +91,7 @@
               target="_blank"
               rel="noopener"
             >
-              {{ partial "svg/youtube.svg" (dict "class" "navbar-nav-svg" "width" "16" "height" "16") }}
+              {{ partialCached "svg/youtube.svg" (dict "class" "navbar-nav-svg" "width" "16" "height" "16") }}
               <small class="d-lg-none ms-2">YouTube</small>
             </a>
           </li>
@@ -103,7 +103,7 @@
               target="_blank"
               rel="noopener"
             >
-              {{ partial "svg/instagram.svg" (dict "class" "navbar-nav-svg" "width" "16" "height" "16") }}
+              {{ partialCached "svg/instagram.svg" (dict "class" "navbar-nav-svg" "width" "16" "height" "16") }}
               <small class="d-lg-none ms-2">Instagram</small>
             </a>
           </li>
@@ -114,7 +114,7 @@
               target="_blank"
               rel="noopener"
             >
-              {{ partial "svg/github.svg" (dict "class" "navbar-nav-svg" "width" "16" "height" "16") }}
+              {{ partialCached "svg/github.svg" (dict "class" "navbar-nav-svg" "width" "16" "height" "16") }}
               <small class="d-lg-none ms-2">GitHub</small>
             </a>
           </li>
@@ -125,7 +125,7 @@
               target="_blank"
               rel="noopener"
             >
-              {{ partial "svg/mastodon.svg" (dict "class" "navbar-nav-svg" "width" "16" "height" "16") }}
+              {{ partialCached "svg/mastodon.svg" (dict "class" "navbar-nav-svg" "width" "16" "height" "16") }}
               <small class="d-lg-none ms-2">Mastodon</small>
             </a>
           </li>

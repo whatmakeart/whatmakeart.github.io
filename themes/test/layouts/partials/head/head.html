@@ -13,6 +13,7 @@
 
 {{ partial "head/meta" . }}
 
+
 <!-- Adds two level up course title to page if lowest level course page with no children -->
 <title>
   {{- if eq .Kind "home" -}}
@@ -31,5 +32,5 @@
 
 <link rel="canonical" href="{{ .Permalink }}" />
 
-{{ partial "head/stylesheet" . }}
-{{ partial "head/analytics" . }}
+{{ partialCached "head/stylesheet" . }}
+{{ partialCached "head/analytics" . }}

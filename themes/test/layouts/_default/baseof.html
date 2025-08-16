@@ -7,13 +7,13 @@
     {{ partial "skippy" . }}
     {{ partial "icons" . }}
 
-    {{ partial "navbar-wiki" . }}
+    {{ partialCached "navbar-wiki" . }}
 
     {{ block "main" . }}
     {{ end }}
 
     {{ partial "footer" . }}
-    {{ partial "scripts" . }}
+    {{ partialCached "scripts" . }}
 
     {{ block "footer" . }}
     
