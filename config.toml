@@ -89,3 +89,9 @@ weight = 50
 name = 'About'
 url = '/about'
 weight = 60
+
+
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "assets/content"
