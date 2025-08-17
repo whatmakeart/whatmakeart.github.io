@@ -1,0 +1,143 @@
+<!-- =========================================================================
+     render-image.html — Markdown includes + sibling-folder images (no base64)
+     ---------------------------------------------------------------------------
+     • ![…](something.md)
+         1) Resolve as a content page and include its .Content
+         2) Else read content/<path>.md (front matter stripped) and RenderString
+     • ![…](image.*)
+         1) Try page-bundle resource (.Page.Resources.GetMatch)
+         2) Try /assets via resources.Get
+         3) Try sibling file next to the MD in /content → if mirrored in /static,
+            serve that public URL
+         4) Last-resort: plain <img> using the given URL
+     Notes:
+       • No .Site.Pages loops; minimal os.FileExists
+       • Only pass STRING paths to os.FileExists/readFile
+     ========================================================================= -->
+<!-- =========================================================================
+     render-image.html — Markdown includes + sibling-folder images (no base64)
+     Fixes:
+       • Clean up "./" → no "/./filename" in public URLs
+       • Keep existing include + pipeline logic
+     ========================================================================= -->
+
+<!-- render-image.html — images + includes; page-dir-relative fallback (not site root, not page slug) -->
+
+{{- $dest := .Destination -}}
+{{- $isRemote := or (strings.HasPrefix $dest "http://") (strings.HasPrefix $dest "https://") -}}
+{{- $u := urls.Parse $dest -}}
+{{- $path := $u.Path -}}
+
+{{- if and (not $isRemote) (strings.HasSuffix $path ".md") -}}
+  <!-- ---------- MARKDOWN INCLUDE HANDLING ---------- -->
+  {{- if and $path .Page.File -}}
+    {{- if not (strings.HasPrefix $path "/") -}}
+      {{- $path = path.Clean (path.Join .Page.File.Dir $path) -}}
+    {{- else -}}
+      {{- $path = strings.TrimPrefix "/" $path -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $base := strings.TrimSuffix ".md" $path -}}
+  {{- $cands := slice
+    $path
+    (printf "%s.md" $base)
+    (printf "%s/_index.md" (strings.TrimSuffix "/" $base))
+  -}}
+  {{- $included := false -}}
+
+  {{- range $c := $cands -}}
+    {{- if not $included -}}
+      {{- with $.Page.Site.GetPage $c -}}
+        <div data-pagefind-ignore>{{ .Content }}</div>
+        {{- $included = true -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- if not $included -}}
+    {{- $probe := path.Clean (path.Join "content" $path) -}}
+    {{- if not (fileExists $probe) -}}
+      {{- $probe = path.Clean (path.Join "content" (strings.TrimPrefix "/" $path)) -}}
+    {{- end -}}
+    {{- if fileExists $probe -}}
+      <div data-pagefind-ignore>
+        {{- $raw := readFile $probe -}}
+        {{- $nofm := replaceRE "^---[\\s\\S]+?---\\s*" "" $raw -}}
+        {{- .Page.RenderString $nofm -}}
+      </div>
+    {{- else -}}
+      <!-- include not found -->
+    {{- end -}}
+  {{- end -}}
+
+{{- else -}}
+  <!-- ------------------------------- IMAGES ------------------------------- -->
+
+  {{- $img := .Page.Resources.GetMatch $dest -}}
+  {{- if not $img -}}
+    {{- $img = .Page.Resources.GetMatch (path.Base $path) -}}
+  {{- end -}}
+  {{- if not $img -}}
+    {{- $assetsCand := strings.TrimPrefix "/" $path -}}
+    {{- $assetsCand = strings.TrimPrefix "assets/" $assetsCand -}}
+    {{- $img = resources.Get $assetsCand -}}
+  {{- end -}}
+
+  {{- with $img -}}
+    {{- $large  := .Resize "1600x" -}}
+    {{- $medium := $large.Fit  "1200x" -}}
+    {{- $small  := $medium.Fit "800x" -}}
+
+    {{- $full := . -}}
+    {{- if not .RelPermalink -}}
+      {{- $full = .Resize "3000x" -}}
+    {{- end -}}
+
+
+    <a href="{{ $full.RelPermalink }}" target="_self" rel="noopener">
+      <img
+        alt="{{ $.Text }}"
+        src="{{ $small.RelPermalink }}"
+        srcset="
+          {{ $small.RelPermalink }}  800w,
+          {{ $medium.RelPermalink }} 1200w,
+          {{ $large.RelPermalink }} 1600w
+        "
+        sizes="(max-width: 900px) 90vw, 800px"
+        loading="lazy"
+        decoding="async"
+        width="{{ $small.Width }}"
+        height="{{ $small.Height }}"
+        class="img-fluid"
+      />
+    </a>
+  {{- else -}}
+    <!-- ------- LAST-RESORT FALLBACK (build URL from content dir) ------- -->
+    {{- $src := $dest -}}
+    {{- if and (not $isRemote) (not (strings.HasPrefix $src "/")) -}}
+      <!-- Example:
+            .Page.File.Dir = "courses/.../01-introduction/"
+            dest = "./2007-...jpeg"
+            => /courses/.../01-introduction/2007-...jpeg
+      -->
+      {{- $destClean := strings.TrimPrefix "./" $src -}}
+      {{- $contentPath := path.Clean (path.Join .Page.File.Dir $destClean) -}}
+      {{- $publicPath := printf "/%s" (strings.TrimPrefix "content/" (strings.TrimPrefix "/" $contentPath)) -}}
+      {{- $src = path.Clean $publicPath -}}
+    {{- else -}}
+      {{- $src = path.Clean $src -}}
+    {{- end -}}
+
+
+    <a href="{{ $src | safeURL }}" target="_self" rel="noopener">
+      <img
+        class="img-fluid"
+        src="{{ $src | safeURL }}"
+        alt="{{ $.Text }}"
+        loading="lazy"
+        decoding="async"
+      />
+    </a>
+  {{- end -}}
+{{- end -}}

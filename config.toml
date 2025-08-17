@@ -91,7 +91,13 @@ url = '/about'
 weight = 60
 
 
+# Keep the normal content mount (default in Hugo)
 [module]
   [[module.mounts]]
     source = "content"
-    target = "assets/content"
+    target = "content"   # normal content
+
+  [[module.mounts]]
+    source = "content"
+    target = "assets"    # <-- note: assets (no /content)
+    excludeFiles = ["**/*.md", "**/_index.md", "**/index.md"]

@@ -1,26 +1,22 @@
 <!-- =========================================================================
-     render-image.html — includes + robust image resolution (original-link via Copy)
+     render-image.html — includes + robust image resolution (LFS/AVIF-safe)
      -------------------------------------------------------------------------
-     What this does:
-       • If .Destination ends with .md → include that Markdown (rendered).
-       • Else resolve local images in this order:
-           1) Page Resources (.Page.Resources.GetMatch)
-           2) Hugo Pipes via your mounts:
-                a) resources.Get $contentRel             (target="assets")
-                b) resources.Get "content/<contentRel>"  (target="assets/content")
-         Then:
-           • Make an on-demand, ORIGINAL-NAMED public copy:
-               $orig := $img | resources.Copy $origTarget
-             where $origTarget == "courses/.../image.jpg" (no "content/" prefix).
-           • <a href> → $orig.RelPermalink  (original name/path)
-           • <img src/srcset> → resized variants when safe; else $orig.RelPermalink
-       • Remote images are linked directly (no transforms).
-       • Last resort: page-adjacent URL from .Page.File.Dir (if unresolved).
+     Resolution order for images:
+       0) Remote URL? → render directly (no transforms).
+       1) Page Resources (.Page.Resources.GetMatch)
+       2) Hugo Pipes via mounts:
+            a) resources.Get $contentRel             (target="assets")
+            b) resources.Get "content/<contentRel>"  (target="assets/content")
+       3) Last resort: page-adjacent plain URL computed from .Page.File.Dir
+          (Note: may 404 unless those files are published separately.)
+
+     For Markdown includes:
+       • If .Destination ends with .md, render that Markdown’s content inline.
 
      Safety:
-       • Only transform when bytes are truly raster AND not LFS pointer AND not AVIF/HEIC
-         mislabeled as .jpg/.jpeg (magic-brand check).
-       • Go-template comments only (avoid context errors).
+       • Only transform when the file is truly raster AND not an LFS pointer AND
+         not an AVIF/HEIC container accidentally named .jpg/.jpeg.
+       • Uses only Go-template comments to avoid context-mismatch errors.
    ========================================================================= -->
 
 {{- $dest := .Destination -}}
@@ -31,6 +27,7 @@
 
 <!-- ======================= 1) MARKDOWN INCLUDE ======================= -->
 {{- if and (not $isRemote) (strings.HasSuffix $path ".md") -}}
+  <!-- Resolve the include path relative to the current page’s content dir -->
   {{- if and $path .Page.File -}}
     {{- if not (strings.HasPrefix $path "/") -}}
       {{- $path = path.Clean (path.Join .Page.File.Dir $path) -}}
@@ -45,6 +42,7 @@
     (printf "%s.md" $base)
     (printf "%s/_index.md" (strings.TrimSuffix "/" $base))
   -}}
+
   {{- $included := false -}}
   {{- range $c := $cands -}}
     {{- if not $included -}}
@@ -56,6 +54,7 @@
   {{- end -}}
 
   {{- if not $included -}}
+    <!-- Fallback: read raw file from /content and render without front matter -->
     {{- $probe := path.Clean (path.Join "content" $path) -}}
     {{- if not (fileExists $probe) -}}
       {{- $probe = path.Clean (path.Join "content" (strings.TrimPrefix "/" $path)) -}}
@@ -72,6 +71,7 @@
 {{- else -}}
   <!-- ============================ 2) IMAGES ============================ -->
 
+  <!-- 2.0) Remote images: render directly, no transforms -->
   {{- if $isRemote -}}
     <a href="{{ $dest | safeURL }}" target="_self" rel="noopener">
       <img
@@ -83,7 +83,14 @@
       />
     </a>
   {{- else -}}
-    <!-- Build path relative to /content for lookups and for ORIGINAL link -->
+    <!-- 2.1) Page Resources (works for page bundles with index.md) -->
+    {{- $img := .Page.Resources.GetMatch $dest -}}
+    {{- if not $img -}}
+      {{- $img = .Page.Resources.GetMatch (path.Base $path) -}}
+    {{- end -}}
+
+
+    <!-- Build path relative to /content for Hugo Pipes and disk probes -->
     {{- $contentRel := "" -}}
     {{- if strings.HasPrefix $path "/" -}}
       {{- $contentRel = strings.TrimPrefix "/" $path -}}
@@ -92,44 +99,45 @@
     {{- end -}}
 
 
-    <!-- 2.1) Page Resources (bundles) -->
-    {{- $img := .Page.Resources.GetMatch $dest -}}
-    {{- if not $img -}}
-      {{- $img = .Page.Resources.GetMatch (path.Base $path) -}}
-    {{- end -}}
-
-
-    <!-- 2.2) Hugo Pipes via mounts -->
+    <!-- 2.2) Hugo Pipes: target="assets" (no 'content/' prefix) -->
     {{- if not $img -}}
       {{- $img = resources.Get $contentRel -}}
-      {{/* target="assets" */}}
     {{- end -}}
+
+
+    <!-- 2.3) Hugo Pipes: target="assets/content" (with 'content/' prefix) -->
     {{- if not $img -}}
       {{- $img = resources.Get (printf "content/%s" (strings.TrimPrefix "content/" $contentRel)) -}}
-      {{/* target="assets/content" */}}
     {{- end -}}
 
     {{- with $img -}}
-      <!-- Create ORIGINAL-NAMED public copy on demand (no extra mounts needed) -->
-      {{- $origTarget := strings.TrimPrefix "content/" $contentRel -}}
-      {{/* e.g., courses/.../image.jpg */}}
-      {{- $orig := . | resources.Copy $origTarget -}}
-      {{/* href uses this */}}
+      <!-- 2.4) Decide if we can safely transform:
+            A) extension suggests a raster (jpg/jpeg/png/webp/gif/tif/tiff/bmp)
+            B) on-disk bytes are NOT a Git-LFS pointer
+            C) on-disk bytes are NOT an AVIF/HEIC/HEIF container mislabeled as jpg
+         -->
 
-
-      <!-- Decide if we can transform safely -->
+      <!-- A) extension check -->
       {{- $name := .Name -}}
       {{- if not $name }}{{- $name = path.Base $path -}}{{- end -}}
       {{- $ext := lower (path.Ext $name) -}}
       {{- $rasterExts := slice ".jpg" ".jpeg" ".png" ".webp" ".gif" ".tif" ".tiff" ".bmp" -}}
       {{- $looksRaster := in $rasterExts $ext -}}
 
+
+      <!-- Read a small prefix of the source file under /content for checks -->
       {{- $diskProbe := printf "content/%s" (strings.TrimPrefix "content/" $contentRel) -}}
       {{- $first := "" -}}
       {{- if fileExists $diskProbe -}}
         {{- $first = substr (readFile $diskProbe) 0 256 -}}
       {{- end -}}
+
+
+      <!-- B) Git-LFS pointer? -->
       {{- $isLFSPointer := and (ne $first "") (strings.HasPrefix $first "version https://git-lfs.github.com/spec") -}}
+
+
+      <!-- C) Container signature for AVIF/HEIC/HEIF (mislabeled as .jpg) -->
       {{- $isContainer := false -}}
       {{- if ne $first "" -}}
         {{- if or (in $first "ftypavif") (in $first "ftypavis") (in $first "ftypmif1")
@@ -139,17 +147,18 @@
           {{- $isContainer = true -}}
         {{- end -}}
       {{- end -}}
+
       {{- $canTransform := and $looksRaster (not $isLFSPointer) (not $isContainer) -}}
 
       {{- if $canTransform -}}
+        <!-- Responsive pipeline from the ORIGINAL resource -->
+        {{- $full   := . -}}
         {{- $large  := .Resize "1600x" -}}
-        {{- $medium := .Resize    "1200x" -}}
-        {{- $small  := .Resize    "800x" -}}
-        <a
-          href="{{ $orig.RelPermalink | safeURL }}"
-          target="_self"
-          rel="noopener"
-        >
+        {{- $medium := .Resize   "1200x" -}}
+        {{- $small  := .Resize     "800x" -}}
+
+
+        <a href="{{ $full.RelPermalink }}" target="_self" rel="noopener">
           <img
             class="img-fluid"
             alt="{{ $.Text }}"
@@ -167,14 +176,11 @@
           />
         </a>
       {{- else -}}
-        <a
-          href="{{ $orig.RelPermalink | safeURL }}"
-          target="_self"
-          rel="noopener"
-        >
+        <!-- Non-transformable (SVG/PDF/LFS/AVIF/HEIC). Emit original as-is. -->
+        <a href="{{ .RelPermalink }}" target="_self" rel="noopener">
           <img
             class="img-fluid"
-            src="{{ $orig.RelPermalink | safeURL }}"
+            src="{{ .RelPermalink }}"
             alt="{{ $.Text }}"
             loading="lazy"
             decoding="async"
@@ -183,13 +189,17 @@
       {{- end -}}
 
     {{- else -}}
-      <!-- 2.3) Last resort: page-adjacent URL (no Copy, just computed path) -->
-      {{- $originalURL := printf "/%s" (strings.TrimPrefix "content/" (strings.TrimPrefix "/" $contentRel)) -}}
-      {{- $originalURL = path.Clean $originalURL -}}
-      <a href="{{ $originalURL | safeURL }}" target="_self" rel="noopener">
+      <!-- 2.5) Last resort: compute a page-adjacent URL from .Page.File.Dir -->
+      {{- $destClean := strings.TrimPrefix "./" $dest -}}
+      {{- $contentPath := path.Clean (path.Join .Page.File.Dir $destClean) -}}
+      {{- $public := printf "/%s" (strings.TrimPrefix "content/" (strings.TrimPrefix "/" $contentPath)) -}}
+      {{- $public = path.Clean $public -}}
+
+
+      <a href="{{ $public | safeURL }}" target="_self" rel="noopener">
         <img
           class="img-fluid"
-          src="{{ $originalURL | safeURL }}"
+          src="{{ $public | safeURL }}"
           alt="{{ $.Text }}"
           loading="lazy"
           decoding="async"
