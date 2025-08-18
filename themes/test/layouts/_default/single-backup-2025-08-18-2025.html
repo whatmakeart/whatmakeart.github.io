@@ -1,0 +1,110 @@
+{{ define "body_override" }}
+  <body data-bs-spy="scroll" data-bs-target="#TableOfContents"></body>
+{{ end }}
+{{ define "main" }}
+  <div class="container-xxl bd-gutter mt-3 my-md-4 bd-layout">
+    <aside class="bd-sidebar" id="wiki-sidebar">
+      <div
+        class="offcanvas-lg offcanvas-start"
+        tabindex="-1"
+        id="wikiSidebar"
+        aria-labelledby="wikiSidebarOffcanvasLabel"
+      >
+        <div class="offcanvas-header border-bottom">
+          <h5 class="offcanvas-title" id="wikiSidebarOffcanvasLabel">
+            Browse Art Wiki
+          </h5>
+          <button
+            type="button"
+            class="btn-close"
+            data-bs-dismiss="offcanvas"
+            aria-label="Close"
+            data-bs-target="#wikiSidebar"
+          ></button>
+        </div>
+
+        <div class="offcanvas-body">
+          {{ partial "sidebar-submenu" . }}
+        </div>
+      </div>
+    </aside>
+
+    <main class="bd-main order-1" id="wiki-main">
+      <aside class="bd-intro pt-2 ps-lg-2" id="wiki-page-intro">
+        {{ partial "pagefind" . }}
+        {{ partial "breadcrumbs" . }}
+        <div
+          class="d-md-flex flex-md-row-reverse align-items-center justify-content-between"
+        >
+          <div class="mb-3 mb-md-0 d-flex text-nowrap">
+            <!-- placeholder to keep title to the left, used to hold the view on GitHub Button -->
+          </div>
+          <h1 class="bd-title mb-0" id="content">{{ .Title | markdownify }}</h1>
+        </div>
+      </aside>
+
+      <div
+        class="bd-toc mt-3 mb-5 my-lg-0 mb-lg-5 px-sm-1 text-body-secondary"
+        id="wiki-toc"
+      >
+        <button
+          class="btn btn-link p-md-0 mb-2 mb-md-0 text-decoration-none bd-toc-toggle d-md-none"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#tocContents"
+          aria-expanded="false"
+          aria-controls="tocContents"
+        >
+          On this page
+          <svg class="bi d-md-none ms-2" aria-hidden="true">
+            <use xlink:href="#chevron-expand"></use>
+          </svg>
+        </button>
+        <strong class="d-none d-md-block h6 my-2 ms-3">On this page</strong>
+        <hr class="d-none d-md-block my-2 ms-3" />
+        <div class="collapse bd-toc-collapse" id="tocContents">
+          {{ .TableOfContents }}
+        </div>
+      </div>
+
+      <div class="bd-content ps-lg-2" id="wiki-content">
+        {{ if in .Params.tags "stub" }}
+          <div class="bd-callout bd-callout-info">
+            <h2><strong>This page is an incomplete stub.</strong></h2>
+            <p>
+              It serves as a placeholder for inbound links from other pages
+              while this
+              <a href="/">art making wiki</a>
+              is built. Check back for updated content at a later date.
+            </p>
+            <p>
+              In the meantime, use the
+              <a href="/search/">Search Feature</a>
+              to find articles and guides.
+            </p>
+            <script
+              src="/pagefind/pagefind-ui.js"
+              type="text/javascript"
+            ></script>
+            <div id="stub-search"></div>
+            <script>
+              window.addEventListener("DOMContentLoaded", (event) => {
+                new PagefindUI({
+                  element: "#stub-search",
+                });
+              });
+            </script>
+          </div>
+        {{ end }}
+        {{ .Content }}
+        {{ partial "backlinks" . }}
+        <hr />
+        {{ partial "last-updated" . }}
+      </div>
+    </main>
+  </div>
+  <!-- end .container-xxl -->
+{{ end }}
+
+{{ define "footer" }}
+{{ end }}
