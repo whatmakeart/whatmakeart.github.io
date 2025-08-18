@@ -1,7 +1,7 @@
 ---
 title: Artist Portfolio Website How To Guide
 date: 2021-04-11T08:07:38
-lastmod: 2025-08-17T22:12:12
+lastmod: 2025-08-17T23:03:11
 ---
 
 # What is a Website?
