@@ -2,9 +2,5 @@
   "devDependencies": {
     "prettier": "^2.8.8",
     "prettier-plugin-go-template": "^0.0.13"
-  },
-  "scripts": {
-    "build": "HUGO_BUILD_ID=$(date +%s) hugo --minify",
-    "start": "hugo server --disableFastRender"
   }
 }

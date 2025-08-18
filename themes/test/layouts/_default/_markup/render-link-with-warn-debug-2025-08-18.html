@@ -11,6 +11,9 @@
        • Only Go template comments (no HTML comments) to avoid context issues.
    ========================================================================= -->
 
+{{- getenv "HUGO_BUILD_ID" -}}
+<!-- ADD THIS INVISIBLE CACHE-BUSTING LINE -->
+
 {{- $rawText := .Text | safeHTML -}}
 {{- $hasAnchor := gt (len (findRE "<\\s*a\\b" $rawText 1)) 0 -}}
 
@@ -86,6 +89,10 @@
 <!-- ================= Link Graph (exclude 'courses' edges) ================= -->
 {{- $src := .Page -}}
 {{- if and $isContentTarget $targetPage -}}
+
+  {{- warnf "Processing Link: Src=%s Dest=%s" .Page.RelPermalink .Destination -}}
+
+  {{/* <--- ADD THIS LINE */}}
 
   {{- $exclude := or (eq $src.Section "courses") (eq $targetPage.Section "courses") -}}
 

@@ -1,0 +1,48 @@
+{{ $backlinks := .Scratch.Get "backlinks" | default (slice) }}
+{{ $forwardlinks := .Scratch.Get "forwardlinks" | default (slice) }}
+
+
+<!-- Modified from https://brainbaking.com/post/2022/04/true-backlink-support-in-hugo/ -->
+
+<div id="backlinks-container">
+  <hr />
+  {{ if gt (len $backlinks) 0 }}
+    <div class="bl-section">
+      <h4>Links to this note</h4>
+      <div class="backlinks">
+        <ul>
+          {{ range $backlinks | first 10 }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  {{ else }}
+    <div class="bl-section">
+      <h4 class="small text-muted font-weight-light">
+        No notes link to this note
+      </h4>
+    </div>
+  {{ end }}
+
+
+  <hr />
+  {{ if gt (len $forwardlinks) 0 }}
+    <div class="bl-section">
+      <h4>This note links to</h4>
+      <div class="backlinks">
+        <ul>
+          {{ range $forwardlinks | first 10 }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  {{ else }}
+    <div class="bl-section">
+      <h4 class="small text-muted font-weight-light">
+        This note does not link to other notes
+      </h4>
+    </div>
+  {{ end }}
+</div>
