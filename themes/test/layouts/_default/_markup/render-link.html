@@ -28,7 +28,7 @@
 
 {{- $resolvedLink := $dest -}}
 {{- $targetPage := .Page -}}
-{{/* IMPORTANT: don’t use `nil` here */}}
+<!-- IMPORTANT: don’t use `nil` here -->
 {{- $isContentTarget := false -}}
 
 {{- if not $isRemote -}}
@@ -86,10 +86,10 @@
 <!-- ================= Link Graph (exclude 'courses' edges) ================= -->
 {{- $src := .Page -}}
 {{- if and $isContentTarget $targetPage -}}
+
   {{- $exclude := or (eq $src.Section "courses") (eq $targetPage.Section "courses") -}}
 
   {{- if not $exclude -}}
-
     <!-- Append unique to target.backlinks -->
     {{- $bk := $targetPage.Scratch.Get "backlinks" | default (slice) -}}
     {{- $already := false -}}
