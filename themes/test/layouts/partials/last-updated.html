@@ -1,10 +1,18 @@
-            <!-- Last Updated Date -->
-       
-            {{- if $.GitInfo -}}
-                <div class="post-info-last-mod">
-                    (Last Modified:
-                    <time datetime="{{ .Lastmod }}" title="{{ .Lastmod }}">
-                        {{ .Lastmod.Format "January 2, 2006" }}
-                    </time>)
-                </div>
-            {{- end -}}
+<!-- Last Updated Date -->
+
+{{- $lastModDate := "" -}}
+{{- if .GitInfo -}}
+  {{- $lastModDate = .GitInfo.AuthorDate -}}
+{{- else if isset .Params "lastmod" -}}
+  {{- $lastModDate = .Params.lastmod -}}
+{{- end -}}
+
+{{- if $lastModDate -}}
+  <div class="post-info-last-mod">
+    (Last Modified:
+    <time datetime="{{ $lastModDate }}" title="{{ $lastModDate }}">
+      {{ $lastModDate.Format "January 2, 2006" }}
+    </time>
+    )
+  </div>
+{{- end -}}

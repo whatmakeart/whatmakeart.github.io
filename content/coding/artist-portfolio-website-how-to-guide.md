@@ -1,7 +1,7 @@
 ---
 title: Artist Portfolio Website How To Guide
 date: 2021-04-11T08:07:38
-lastmod: 2024-01-17T04:07:05
+lastmod: 2025-08-17T21:49:23
 ---
 
 # What is a Website?
@@ -264,7 +264,7 @@ There is no rule about what needs to be included on your artist website but if y
 
 You make artwork right? Show it to the world. Your website is the most viewable exhibition you will ever have. Anyone, anywhere, with an internet connection can see your website. Make sure that you have good images, video, sound, representations of your creative work.
 
-Think about how you will present your work. Will it be large full screen images? Grids of thumbnails? Organized by creative projects? A random mess of jpgs and text? It's all up to you. Remember that your artist statement should be about your work and not about you.
+Think about how you will present your work. Will it be large full screen images? Grids of thumbnails? Organized by creative projects? A random mess of jpgs and text? It's all up to you. Remember that your [artist statement](../art-faq/how-to-write-an-artist-statement.md) should be about your work and not about you.
 
 ## Contact Info
 

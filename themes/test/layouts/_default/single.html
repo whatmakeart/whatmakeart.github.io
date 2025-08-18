@@ -3,7 +3,6 @@
 {{ end }}
 {{ define "main" }}
   <div class="container-xxl bd-gutter mt-3 my-md-4 bd-layout">
-  
     <aside class="bd-sidebar" id="wiki-sidebar">
       <div
         class="offcanvas-lg offcanvas-start"
@@ -74,12 +73,14 @@
             <h2><strong>This page is an incomplete stub.</strong></h2>
             <p>
               It serves as a placeholder for inbound links from other pages
-              while this <a href="/">art making wiki</a> is built. Check back
-              for updated content at a later date.
+              while this
+              <a href="/">art making wiki</a>
+              is built. Check back for updated content at a later date.
             </p>
             <p>
-              In the meantime, use the <a href="/search/">Search Feature</a> to
-              find articles and guides.
+              In the meantime, use the
+              <a href="/search/">Search Feature</a>
+              to find articles and guides.
             </p>
             <script
               src="/pagefind/pagefind-ui.js"
@@ -97,7 +98,7 @@
         {{ end }}
         {{ .Content }}
         {{ partial "backlinks" . }}
-        </hr>
+        <hr />
         {{ partial "last-updated" . }}
       </div>
     </main>

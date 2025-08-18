@@ -1,7 +1,7 @@
 ---
 title: Reproducibility in Art
 date: 2024-12-07T07:12:43
-lastmod: 2025-08-17T21:02:01
+lastmod: 2025-08-17T21:14:48
 ---
 
 What is reproducibility? Does the original matter? Is a "reproduced" reproduction just as valuable? Is a copy of a book still the book?
@@ -12,7 +12,7 @@ If this is the earliest know printed book with a date, and it was with 40,000 ot
 
 <figure>
 
-[![The Diamond Sutra Scroll from 868 AD](./attachments/868-05-11-The-Diamond-Sutra-Scroll-British-Library-China.jpg)](./attachments/868-05-11-The-Diamond-Sutra-Scroll-British-Library-China.jpg
+[![The Diamond Sutra Scroll from 868 AD](./attachments/868-05-11-The-Diamond-Sutra-Scroll-British-Library-China.jpg)](./attachments/868-05-11-The-Diamond-Sutra-Scroll-British-Library-China.jpg)
 
 <figcaption>
 

@@ -87,7 +87,9 @@
 {{- $src := .Page -}}
 {{- if and $isContentTarget $targetPage -}}
   {{- $exclude := or (eq $src.Section "courses") (eq $targetPage.Section "courses") -}}
+
   {{- if not $exclude -}}
+
     <!-- Append unique to target.backlinks -->
     {{- $bk := $targetPage.Scratch.Get "backlinks" | default (slice) -}}
     {{- $already := false -}}
