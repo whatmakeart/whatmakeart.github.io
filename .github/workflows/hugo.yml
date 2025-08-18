@@ -86,7 +86,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          HUGO_NUMWORKERMULTIPLIER=1 GOMAXPROCS=1 hugo \
+          hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 

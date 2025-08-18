@@ -1,8 +1,21 @@
 ---
 title: About
 date: 2024-11-10T16:01:01
-lastmod: 2025-04-28T05:32:01
+lastmod: 2025-08-18T01:21:57
 ---
+
+<div id="fg" style="height:70vh"></div>
+<script type="module">
+  import ForceGraph from 'https://cdn.skypack.dev/force-graph';
+  fetch('/graph.json').then(r => r.json()).then(data => {
+    const Graph = ForceGraph()(document.getElementById('fg'))
+      .graphData(data)
+      .nodeId('id')
+      .nodeLabel(n => n.title || n.id)
+      .linkSource('source')
+      .linkTarget('target');
+  });
+</script>
 
 What? Make Art is a repository of open access college art [course materials](./courses/_index.md), art making videos, tutorials and [art making faq's](./art-faq/_index.md). Tutorials cover a wide range of topics including making, electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
 

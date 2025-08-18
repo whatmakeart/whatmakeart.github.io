@@ -1,15 +1,9 @@
-<!-- =========================================================================
-     render-link.html
-     -------------------------------------------------------------------------
-     Goals
-       • Resolve internal links to content pages (with fragments).
-       • Record backlink/forwardlink graph on resolved content pages.
-         ↳ EXCLUDE any link where either side’s .Section == "courses".
-       • Don’t re-wrap if .Text already contains an <a> (e.g., [![..]](..)).
-
-     Notes
-       • Only Go template comments (no HTML comments) to avoid context issues.
-   ========================================================================= -->
+{{- /* Simple, safe link renderer:
+  • Resolves internal links to content pages (keeps fragments).
+  • Leaves static/asset links alone (path-cleaned).
+  • Adds external-link icon for http(s) targets.
+  • Does NOT write to any scratch (backlinks are built by backlinks.html). */
+-}}
 
 {{- $rawText := .Text | safeHTML -}}
 {{- $hasAnchor := gt (len (findRE "<\\s*a\\b" $rawText 1)) 0 -}}
@@ -21,18 +15,14 @@
   (strings.HasPrefix $dest "tel:")
 -}}
 
-{{- $u := urls.Parse $dest -}}
-{{- $fragment := "" -}}
-{{- with $u.Fragment }}{{- $fragment = printf "#%s" . -}}{{- end -}}
-{{- $p := $u.Path -}}
-
-{{- $resolvedLink := $dest -}}
-{{- $targetPage := .Page -}}
-<!-- IMPORTANT: don’t use `nil` here -->
-{{- $isContentTarget := false -}}
+{{- $resolved := $dest -}}
 
 {{- if not $isRemote -}}
-  <!-- Normalize candidate path relative to current page’s content dir -->
+  {{- $u := urls.Parse $dest -}}
+  {{- $fragment := "" -}}
+  {{- with $u.Fragment }}{{- $fragment = printf "#%s" . -}}{{- end -}}
+  {{- $p := $u.Path -}}
+
   {{- if and $p .Page.File -}}
     {{- if not (strings.HasPrefix $p "/") -}}
       {{- $p = path.Clean (path.Join .Page.File.Dir $p) -}}
@@ -41,8 +31,6 @@
     {{- end -}}
   {{- end -}}
 
-
-  <!-- Try to resolve to a real content page -->
   {{- $base := strings.TrimSuffix ".md" $p -}}
   {{- $cands := slice
     $p
@@ -50,83 +38,34 @@
     (printf "%s/_index.md" (strings.TrimSuffix "/" $base))
   -}}
 
-  {{- $resolved := false -}}
+  {{- $t := false -}}
   {{- range $c := $cands -}}
-    {{- if not $resolved -}}
-      {{- with $.Page.GetPage $c -}}
-        {{- $targetPage = . -}}
-        {{- $resolvedLink = printf "%s%s" .RelPermalink $fragment -}}
-        {{- $isContentTarget = true -}}
-        {{- $resolved = true -}}
-      {{- end -}}
-    {{- end -}}
-    {{- if and (not $resolved) (ne $c $p) -}}
-      {{- with $.Page.Site.GetPage $c -}}
-        {{- $targetPage = . -}}
-        {{- $resolvedLink = printf "%s%s" .RelPermalink $fragment -}}
-        {{- $isContentTarget = true -}}
-        {{- $resolved = true -}}
-      {{- end -}}
+    {{- if not $t -}}
+      {{- with site.GetPage $c -}}{{- $t = . -}}{{- end -}}
     {{- end -}}
   {{- end -}}
 
-  {{- if not $resolved -}}
-    <!-- Not a content page; static/asset path — just clean it. -->
+  {{- if $t -}}
+    {{- $resolved = printf "%s%s" $t.RelPermalink $fragment -}}
+  {{- else -}}
     {{- $clean := $dest -}}
     {{- if and (not (strings.HasPrefix $clean "/")) .Page.File -}}
       {{- $clean = path.Clean (printf "/%s" $p) -}}
     {{- else -}}
       {{- $clean = path.Clean $clean -}}
     {{- end -}}
-    {{- $resolvedLink = printf "%s%s" $clean $fragment -}}
+    {{- $resolved = printf "%s%s" $clean $fragment -}}
   {{- end -}}
 {{- end -}}
 
-
-<!-- ================= Link Graph (exclude 'courses' edges) ================= -->
-{{- $src := .Page -}}
-{{- if and $isContentTarget $targetPage -}}
-
-  {{- $exclude := or (eq $src.Section "courses") (eq $targetPage.Section "courses") -}}
-
-  {{- if not $exclude -}}
-    <!-- Append unique to target.backlinks -->
-    {{- $bk := $targetPage.Scratch.Get "backlinks" | default (slice) -}}
-    {{- $already := false -}}
-    {{- range $bk -}}
-      {{- if eq .RelPermalink $src.RelPermalink -}}
-        {{- $already = true -}}
-      {{- end -}}
-    {{- end -}}
-    {{- if not $already -}}
-      {{- $bk = $bk | append $src -}}
-      {{- $targetPage.Scratch.Set "backlinks" $bk -}}
-    {{- end -}}
-
-
-    <!-- Append unique to src.forwardlinks -->
-    {{- $fw := $src.Scratch.Get "forwardlinks" | default (slice) -}}
-    {{- $tRel := $targetPage.RelPermalink -}}
-    {{- $falready := false -}}
-    {{- range $fw -}}
-      {{- if eq .RelPermalink $tRel -}}{{- $falready = true -}}{{- end -}}
-    {{- end -}}
-    {{- if not $falready -}}
-      {{- $fw = $fw | append $targetPage -}}
-      {{- $src.Scratch.Set "forwardlinks" $fw -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
-
-
-<!-- ============================== OUTPUT ============================== -->
 {{- if $hasAnchor -}}
-  <!-- The text already includes an <a> (e.g. image link). Pass through. -->
   {{- $rawText -}}
 {{- else -}}
   <a
-    href="{{- $resolvedLink | safeURL -}}"
-    {{ with .Title }}title="{{ . }}"{{ end }}
+    href="{{ $resolved | safeURL }}"
+    {{ with .Title }}title="{{ . }}"{{ end }}{{ if $isRemote }}
+      target="_blank" rel="noopener"
+    {{ end }}
   >
     {{- $rawText -}}
     {{- if $isRemote -}}
