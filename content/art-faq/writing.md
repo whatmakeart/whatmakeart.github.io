@@ -1,10 +1,10 @@
 ---
 title: Writing
 date: 2023-05-23T21:59:40
-lastmod: 2024-01-03T15:03:21
+lastmod: 2025-08-17T22:12:39
 ---
 
-[Artists](../artists/artists.md), makers, and designers need to be proficient in many types of writing ranging for jotting down quick ideas, writing [artist statements](how-to-write-an-artist-statement.md), drafting proposals, or completing reports for clients. It is important to review your notes periodically. Collect, edit and filter your thoughts.
+[Artists](../artists/artists.md), makers, and designers need to be proficient in many types of writing ranging for jotting down quick ideas, writing [artist statements](./how-to-write-an-artist-statement.md), drafting proposals, or completing reports for clients. It is important to review your notes periodically. Collect, edit and filter your thoughts.
 
 ## Smart People Write Things Down
 
