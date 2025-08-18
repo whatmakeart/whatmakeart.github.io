@@ -1,7 +1,7 @@
 ---
 title: Tools
 date: 2023-05-23T21:59:40
-lastmod: 2024-12-05T16:49:20
+lastmod: 2025-08-17T22:48:37
 ---
 
 Humans are tool makers and tool users. Tools extend the abilities of our minds and bodies. Some tools are portable while others are the size of factories such as a large gantry crane in a foundry.

@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2025-05-14T12:51:36
+lastmod: 2025-08-17T22:48:37
 ---
 
 ## Sculpture Tools and Equipment Inventory
