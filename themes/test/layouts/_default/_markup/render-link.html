@@ -11,6 +11,9 @@
        • Only Go template comments (no HTML comments) to avoid context issues.
    ========================================================================= -->
 
+{{- getenv "HUGO_BUILD_ID" -}} 
+<!-- ADD THIS INVISIBLE CACHE-BUSTING LINE -->
+
 {{- $rawText := .Text | safeHTML -}}
 {{- $hasAnchor := gt (len (findRE "<\\s*a\\b" $rawText 1)) 0 -}}
 
