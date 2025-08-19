@@ -1,7 +1,7 @@
 ---
 title: Copyright for Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-12-02T06:45:43
+lastmod: 2025-08-19T07:52:22
 ---
 
 ## Public Domain Cases
@@ -28,6 +28,8 @@ An example of this is when, B.J. Novak, an actor from the sitcom _The Office_ ha
 
 Copyright does not protect ideas. Anyone can make a collector's card game that features mythical creatures, with magical powers. These powers could be written down as stats or attributes on the cards. Players could use the cards to pit their collection of creatures against another player. One of the goals could be to gather as many creatures as possible by using a spherical device to trap them. there could be television and merchandising spin offs featuring some of the popular creatures from the card game. Anyone can use this idea, since ideas are not protected by copyright, they just can't call it "Pokémon" or use any of the specific "tangible" or "fixed" forms of ideas from "Pokémon".
 
+Ever wonder why online cooking site rarely show the recipe at the top of the page? First you have to read a story about how much the author loves the food, and then a story about the season to make the food, and then more information about some of the ingredients, and then more long-winded prose about how much fun you are going to have getting everything prepared to cook. That's because while everything the author wrote about the food is copyrightable, but the basic recipe is not copyrightable. Anyone can just copy the recipe and publish it, so that is at the bottom of the page, but everyone cannot copy the unique insights and words of the cook.
+
 Additionally, copyright also does not offer protections for:
 
 > § 202.1 Material not subject to copyright.
@@ -49,7 +51,7 @@ For more information about what is not protected by copyright, see "Works Not Pr
 
 ### Photos of Artwork Copyright Cases
 
-It is important to read the actual claims in copyright and fair use lawsuits. Often the sensational descriptions of cases portrayed in the media have little resemblance to the specific leagal issues debated in each case. Below are court filings for photo copyright lawsuits and court cases.
+It is important to read the actual claims in copyright and fair use lawsuits. Often the sensational descriptions of cases portrayed in the media have little resemblance to the specific legal issues debated in each case. Below are court filings for photo copyright lawsuits and court cases.
 
 - [Bill Graham Archives v. Dorling Kindersley Ltd (Greatful Dead Posters)](https://www.copyright.gov/fair-use/summaries/billgraham-dorling-2dcir2006.pdf)
 - [Seltzer v. Green Day, Inc., et al., No. 11-56573 (9th Cir. 2013)](https://law.justia.com/cases/federal/appellate-courts/ca9/11-56573/11-56573-2013-08-07.html)
