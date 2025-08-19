@@ -1,17 +1,24 @@
-<!-- Last Updated Date -->
-
-{{- $lastModDate := "" -}}
-{{- if .GitInfo -}}
-  {{- $lastModDate = .GitInfo.AuthorDate -}}
-{{- else if isset .Params "lastmod" -}}
-  {{- $lastModDate = .Params.lastmod -}}
+{{- $modDate := "" -}}
+{{- if .Params.lastmod -}}
+  {{- $modDate = .Params.lastmod -}}
+{{- else if .Params.date -}}
+  {{- $modDate = .Params.date -}}
+{{- else if .GitInfo -}}
+  {{- $modDate = .GitInfo.AuthorDate -}}
 {{- end -}}
 
-{{- if $lastModDate -}}
+{{- if $modDate -}}
   <div class="post-info-last-mod">
     (Last Modified:
-    <time datetime="{{ $lastModDate }}" title="{{ $lastModDate }}">
-      {{ $lastModDate.Format "January 2, 2006" }}
+    {{/* Best practice for the 'datetime' attribute is the RFC3339 / ISO 8601 format.
+      This includes the date, time, and timezone offset.
+    */}}
+    <time
+      datetime="{{ $modDate.Format "2006-01-02T15:04:05-07:00" }}"
+      title="{{ $modDate.Format "2006-01-02T15:04:05-07:00" }}"
+    >
+      {{/* This is the visible text for your readers. */}}
+      {{ $modDate.Format "January 2, 2006" }}
     </time>
     )
   </div>

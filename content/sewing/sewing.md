@@ -1,10 +1,10 @@
 ---
 title: Sewing
 date: 2024-11-10T16:01:02
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-08-19T06:18:04
 ---
 
-Sewing is the process to use thread to mechanically attach to print planer pieces of [Fabric](fabric.md) together. Generally, the pieces are cut in specific shapes that after so together will create a three-dimensional form. Often these forms are to fit around the shape of the human body or a piece of architecture.
+Sewing is the process to use thread to mechanically attach to print planer pieces of [fabric](fabric.md) together. Generally, the pieces are cut in specific shapes that after so together will create a three-dimensional form. Often these forms are to fit around the shape of the human body or a piece of architecture.
 
 To get started sewing you only need a few basic supplies. The following supplies are recommended for beginners and nothing more is need to start hand sewing right away. Hand sewing is an important skill to know but a sewing machine is an essential tool for anyone pursuing sewing for more than emergency garment repair.
 
@@ -18,6 +18,9 @@ To get started sewing you only need a few basic supplies. The following supplies
 ### Additional Recommended Sewing Supplies
 
 - [Zippers](zippers.md)
+- Sewing machine
+- Rulers
+- Marking pencils
 
 ## Hand Sewing vs Machine Sewing
 
@@ -181,7 +184,11 @@ List of [Inflatable Companies](../making/inflatable-companies.md) that fabricate
 
 ### External Sewing Links
 
-### REFERENCES / TECHNICAL
+#### Patterns
+
+- [Plushie Patterns at sew desu ne](https://cholyknight.com/plushies/)
+
+#### REFERENCES / TECHNICAL
 
 The sites below contain a wealth of information about sewing and pattern making and are worth browsing and reading.
 
@@ -190,14 +197,14 @@ The sites below contain a wealth of information about sewing and pattern making 
 - [https://fashion-incubator.com/tutorials/](https://fashion-incubator.com/tutorials/)
 - [https://www.threadsmagazine.com/](https://www.threadsmagazine.com/)
 
-### Books
+#### Books
 
 - The Entrepreneur’s Guide to Sewn Product Manufacturing by Kathleen Fasanella 1997. ISBN 0-9663208-4-0
 - Metric Pattern Cutting by Winifred Aldrich. Book. Publisher: Blackwell Science. ISBN 0-632-03612-5
 - Pattern-making Made Easy Book. by Connie Crawford. ISBN 0-964-95167-3
 - Sewing for the Apparel Industry by Claire Schaeffer. (2nd Edition) Book. ISBN 0-131-88443-3
 
-### Articles
+#### Articles
 
 [Amazon has developed an AI Fashion Designer](https://www.technologyreview.com/s/608668/amazon-has-developed-an-ai-fashion-designer/)
 

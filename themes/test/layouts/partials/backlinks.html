@@ -1,71 +1,66 @@
 {{- /* Backlinks/forwardlinks by scanning rendered HTML.
-      Excludes any edge where either page is in the "courses" section. */ -}}
+  Excludes any edge where either page is in the "courses" section. */
+-}}
 
 {{- /* If THIS page is in courses, show nothing at all. */ -}}
 {{- if ne .Section "courses" -}}
 
   {{- $curr := . -}}
-  {{- $currContent := .Content -}}
-  {{- $currNoSlash := strings.TrimSuffix "/" .RelPermalink -}}
 
-  {{- /* Pattern that finds href="/path", href="/path/", and href="/path#..." */ -}}
-  {{- $patForMe := printf `href="%s(/|#|")` $currNoSlash -}}
-
+  {{- /* Initialize slices and dictionaries for tracking */ -}}
   {{- $backlinks := slice -}}
-  {{- $forward := slice -}}
+  {{- $forwardlinks := slice -}}
+  {{- $seenBacklink := dict -}}
+  {{- $seenForwardlink := dict -}}
 
-  {{- /* Only consider regular pages not in courses */ -}}
+  {{- /* =================== FIND BACKLINKS =================== */ -}}
   {{- $pages := where site.RegularPages "Section" "ne" "courses" -}}
+  {{- $patForMe := printf `href="%s(/|#|")` (strings.TrimSuffix "/" .RelPermalink) -}}
 
   {{- range $p := $pages -}}
     {{- if ne $p.RelPermalink $curr.RelPermalink -}}
-
-      {{- /* Does $p link to current page? */ -}}
-      {{- $m := findRE $patForMe $p.Content 1 -}}
-      {{- if gt (len $m) 0 -}}
-        {{- $backlinks = $backlinks | append $p -}}
+      {{- if not (isset $seenBacklink $p.RelPermalink) -}}
+        {{- with findRE $patForMe $p.Content 1 -}}
+          {{- $backlinks = $backlinks | append $p -}}
+          {{- $seenBacklink = merge $seenBacklink (dict $p.RelPermalink true) -}}
+        {{- end -}}
       {{- end -}}
+    {{- end -}}
+  {{- end -}}
 
-      {{- /* Does current page link to $p ? */ -}}
-      {{- $pNoSlash := strings.TrimSuffix "/" $p.RelPermalink -}}
-      {{- $patP := printf `href="%s(/|#|")` $pNoSlash -}}
-      {{- $m2 := findRE $patP $currContent 1 -}}
-      {{- if gt (len $m2) 0 -}}
-        {{- $forward = $forward | append $p -}}
+  {{- /* =================== FIND FORWARD LINKS (FINAL, COMPATIBLE METHOD) =================== */ -}}
+  {{- /* 1. Use a simple, compatible regex to find ALL href attributes. */ -}}
+  {{- $linkPattern := `href="[^"]+"` -}}
+  {{- $foundLinks := findRE $linkPattern .Content -}}
+
+  {{- range $foundLinks -}}
+    {{- /* Trim 'href="' and '"' from the result to get the clean URL */ -}}
+    {{- $link := . | strings.TrimPrefix `href="` | strings.TrimSuffix `"` -}}
+
+    {{- /* 2. Manually check for and exclude external links and fragments before processing. */ -}}
+    {{- if and $link (not (strings.HasPrefix $link "http")) (not (strings.HasPrefix $link "mailto")) (not (strings.HasPrefix $link "tel")) (not (strings.HasPrefix $link "#")) -}}
+
+      {{- /* Clean the link by removing any URL fragment (e.g., #heading) */ -}}
+      {{- $link = index (strings.Split $link "#") 0 -}}
+
+      {{- with $curr.GetPage $link -}}
+        {{- if and (ne .Section "courses") (ne .RelPermalink $curr.RelPermalink) (not (isset $seenForwardlink .RelPermalink)) -}}
+          {{- $forwardlinks = $forwardlinks | append . -}}
+          {{- $seenForwardlink = merge $seenForwardlink (dict .RelPermalink true) -}}
+        {{- end -}}
       {{- end -}}
-
     {{- end -}}
   {{- end -}}
 
-  {{- /* De-dup both slices */ -}}
-  {{- $seenBk := dict -}}
-  {{- $bk := slice -}}
-  {{- range $backlinks -}}
-    {{- $k := .RelPermalink -}}
-    {{- if not (isset $seenBk $k) -}}
-      {{- $seenBk = merge $seenBk (dict $k true) -}}
-      {{- $bk = $bk | append . -}}
-    {{- end -}}
-  {{- end -}}
-
-  {{- $seenFw := dict -}}
-  {{- $fw := slice -}}
-  {{- range $forward -}}
-    {{- $k := .RelPermalink -}}
-    {{- if not (isset $seenFw $k) -}}
-      {{- $seenFw = merge $seenFw (dict $k true) -}}
-      {{- $fw = $fw | append . -}}
-    {{- end -}}
-  {{- end -}}
 
   <div id="backlinks-container">
     <hr />
-    {{ if gt (len $bk) 0 }}
+    {{ if $backlinks }}
       <div class="bl-section">
         <h4>Links to this note</h4>
         <div class="backlinks">
           <ul>
-            {{ range $bk | first 10 }}
+            {{ range $backlinks | first 10 }}
               <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
@@ -73,17 +68,20 @@
       </div>
     {{ else }}
       <div class="bl-section">
-        <h4 class="small text-muted font-weight-light">No notes link to this note</h4>
+        <h4 class="small text-muted font-weight-light">
+          No notes link to this note
+        </h4>
       </div>
     {{ end }}
 
+
     <hr />
-    {{ if gt (len $fw) 0 }}
+    {{ if $forwardlinks }}
       <div class="bl-section">
         <h4>This note links to</h4>
         <div class="backlinks">
           <ul>
-            {{ range $fw | first 10 }}
+            {{ range $forwardlinks | first 10 }}
               <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
@@ -91,9 +89,10 @@
       </div>
     {{ else }}
       <div class="bl-section">
-        <h4 class="small text-muted font-weight-light">This note does not link to other notes</h4>
+        <h4 class="small text-muted font-weight-light">
+          This note does not link to other notes
+        </h4>
       </div>
     {{ end }}
   </div>
-
-{{- end -}}  {{/* end: not courses */}}
+{{- end -}}

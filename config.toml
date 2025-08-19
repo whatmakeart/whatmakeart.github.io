@@ -1,5 +1,6 @@
 baseURL = "https://whatmakeart.com/"
 languageCode = "en-us"
+timeZone = "America/New_York"
 title = "What Make Art"
 theme = "test"
 enableGitInfo = "true"               # allows to get information such as dates from git

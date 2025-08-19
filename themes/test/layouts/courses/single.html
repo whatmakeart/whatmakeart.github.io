@@ -23,7 +23,7 @@
         <div class="d-md-flex flex-md-row-reverse align-items-center justify-content-between">
           
           <div class="mb-3 mb-md-0 d-flex text-nowrap">
-          <!-- placeholder to keep title to the left, used to hold the view on GitHub Button -->
+          {{/* placeholder to keep title to the left, used to hold the view on GitHub Button */}}
           </div>
           <h1 class="bd-title mb-0" id="content">{{ .Title | markdownify }}</h1>
         </div>
@@ -66,8 +66,8 @@
         <div>
             <div id="bottom-prev-next">
 
-<!-- Loops through the pages in the courses sub directory, sorts them and then based on the relative permalink 
-then the index is kept track of for forward and next buttons on the bottom of course pages. -->
+{{/* Loops through the pages in the courses sub directory, sorts them and then based on the relative permalink 
+then the index is kept track of for forward and next buttons on the bottom of course pages. */}}
 {{ $currentFilePath := .File.Path }}
 {{ $grandparentFolderPath := path.Dir (path.Dir $currentFilePath) }}
 
@@ -95,7 +95,7 @@ then the index is kept track of for forward and next buttons on the bottom of co
                     <a class="back" href="{{ $prevPage.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ $prevPage.Title}}">&larr; {{ $prevPage.Title}} </a>
                 
 {{ else }}
-   <!-- Start of Course -->
+   {{/* Start of Course */}}
 {{ end }}
 
 {{ if lt $nextIndex (len $pagesInGrandparent) }}
@@ -104,13 +104,14 @@ then the index is kept track of for forward and next buttons on the bottom of co
                     <a class="next" href="{{ $nextPage.RelPermalink  }}" data-toggle="tooltip" data-placement="top" title="{{ $nextPage.Title}}"> {{ $nextPage.Title}} &rarr;</a>
                 
 {{ else }}
- <!-- End of Course -->
+ {{/* End of Course */}}
 {{ end }}  
-<!-- End previous and next button code for courses -->          
+{{/* End previous and next button code for courses */}}          
 
 
             </div>
-        {{ partial "backlinks" . }}
+       {{/* backlinks partial is commented out for now since not used on courses */}} 
+       {{/* {{ partial "backlinks" . }} */}} 
       </div>
     </main>
   </div>

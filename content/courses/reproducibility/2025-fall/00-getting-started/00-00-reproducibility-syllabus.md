@@ -1,7 +1,7 @@
 ---
 title: 00.00 Reproducibility Syllabus
 date: 2025-08-27T12:00:00
-lastmod: 2025-08-16T12:01:03
+lastmod: 2025-08-19T06:34:57
 ---
 
 ### Course Information
@@ -62,7 +62,7 @@ Through demonstrations of technical processes, lectures supplemented by works fr
 
 | **Week** | **Date**         | **Topic**                                                                |
 | -------- | ---------------- | ------------------------------------------------------------------------ |
-| 1        | August 27        | Getting Started                                                          |
+| 1        | August 27        | [01 Mold Making](../01-mold-making/01-00-introduction.md)                |
 | 2        | September 3      | Mold Making                                                              |
 | 3        | September 10     | Slip Casting                                                             |
 | 4        | September 17     | Slip Casting Production                                                  |

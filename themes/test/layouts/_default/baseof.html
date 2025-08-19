@@ -5,8 +5,8 @@
 
   </head>
     {{ block "body_override" . }}<body>{{ end }}
-    {{ partial "skippy" . }}
-    {{ partial "icons" . }}
+    {{ partialCached "skippy" . }}
+    {{ partialCached "icons" . }}
 
     {{ partialCached "navbar-wiki" . }}
 
