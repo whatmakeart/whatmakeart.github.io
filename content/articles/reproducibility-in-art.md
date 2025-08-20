@@ -1,7 +1,7 @@
 ---
 title: Reproducibility in Art
 date: 2024-12-07T07:12:43
-lastmod: 2025-08-17T21:14:48
+lastmod: 2025-08-20T15:21:27
 ---
 
 What is reproducibility? Does the original matter? Is a "reproduced" reproduction just as valuable? Is a copy of a book still the book?
@@ -23,6 +23,8 @@ _The Diamond Sutra_, Wang Jie. China, 11th May, 868 AD Credit: From the British 
 <figure>
 
 We take for granted that writing is reproduced in physical books and in digital form. Generally if one reads and understands the content of a written piece, they do not feel they have gained less if there are other copies of the text in the world. Is the same true for visual imagery?
+
+Printmaking reproducibility ws not limited to writing, it also helped the spread and proliferation of images beyond singular objects such as paintings and drawings. Albriect Dueer is well know both for the aesthetics of his imagery and because lots of copies were printed.
 
 Why do museums care if their art objects were really made by famous artists or are copies? The Cleveland Museum of Art spent time and resources restoring a painting that they claim was painted by Caravaggio. The museum even displayed their "real" painting next to a "fake" painting of the same composition to show how real their painting was. [^caravaggio-cma]
 
