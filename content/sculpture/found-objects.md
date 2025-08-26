@@ -1,7 +1,7 @@
 ---
 title: Found Objects
 date: 2024-12-02T17:56:33
-lastmod: 2024-12-05T16:13:31
+lastmod: 2025-08-26T19:53:02
 ---
 
 In art found objects are materials used mostly as is or as they were found. This is in contrast to using raw materials manipulated into a new form such. If one "find" a coffee cup in the trash or at a store and then uses it as is as an art making material then it is a found object. If one uses ceramic clay to make a coffee cup, then it would not be considered a found object since it was make from raw materials.
@@ -51,6 +51,6 @@ Marcel Duchamp, _Fountain_, 1917, photograph by [Alfred Stieglitz](https://en.wi
 
 ## References
 
-[^duchamp-fountain]: ![Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marcel_Duchamp,_1917,_Fountain,_photograph_by_Alfred_Stieglitz.jpg) Photograph and artwork is in the public domain.
+[^duchamp-fountain]: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marcel_Duchamp,_1917,_Fountain,_photograph_by_Alfred_Stieglitz.jpg) Photograph and artwork is in the public domain.
 [^readymade-history]: Davila, Thierry. [Readymade, ready-made, ready made](https://www.sciencespo.fr/artsetsocietes/en/archives/4753) Arts & Sociétés. # 115 | Duchamp, words, and things. [(Archive Link)](https://web.archive.org/web/20240221082335/https://www.sciencespo.fr/artsetsocietes/en/archives/4753)
 [^duchamp-letter]: [Marcel Duchamp letter to Suzanne Duchamp, 1916 Jan. 15](https://www.aaa.si.edu/collections/items/detail/marcel-duchamp-letter-to-suzanne-duchamp-15127) Jean Crotti papers, 1913-1973, bulk 1913-1961. Archives of American Art, Smithsonian Institution. [(Archive Link)](https://web.archive.org/web/20240724111119/https://www.aaa.si.edu/collections/items/detail/marcel-duchamp-letter-to-suzanne-duchamp-15127)
