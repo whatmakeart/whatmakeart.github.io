@@ -1,7 +1,7 @@
 ---
 title: Reproducibility in Art
 date: 2024-12-07T07:12:43
-lastmod: 2025-08-20T15:21:27
+lastmod: 2025-08-26T21:12:39
 ---
 
 What is reproducibility? Does the original matter? Is a "reproduced" reproduction just as valuable? Is a copy of a book still the book?
@@ -24,9 +24,35 @@ _The Diamond Sutra_, Wang Jie. China, 11th May, 868 AD Credit: From the British 
 
 We take for granted that writing is reproduced in physical books and in digital form. Generally if one reads and understands the content of a written piece, they do not feel they have gained less if there are other copies of the text in the world. Is the same true for visual imagery?
 
-Printmaking reproducibility ws not limited to writing, it also helped the spread and proliferation of images beyond singular objects such as paintings and drawings. Albriect Dueer is well know both for the aesthetics of his imagery and because lots of copies were printed.
+Printmaking's reproducibility was not limited to writing, it also helped the spread and proliferation of images beyond singular objects such as paintings and drawings. Albrecht Dürer is well know both for the aesthetics of his imagery and potentially more so because lots of copies of his works were printed. Dürer worked in many mediums including sculpture, printmaking, painting, and drawing, but his prints are most famous and recognizable due in part to the increased numbers of reproduced copies.
 
-Why do museums care if their art objects were really made by famous artists or are copies? The Cleveland Museum of Art spent time and resources restoring a painting that they claim was painted by Caravaggio. The museum even displayed their "real" painting next to a "fake" painting of the same composition to show how real their painting was. [^caravaggio-cma]
+Look at the two Dürer works below. There is a good chance that one jumps out as something you have seen before while the other likely seems unfamiliar. The print of _The Four Housemen_ is a widely known print image while the _Virgin and Child with Saint Anne_, a masterwork on its own, is much less recognizable as it is a singular work of art. To be fair, there are lesser know prints of Dürer as well but the highly reproduced prints seem to have had a better opportunity to reach a wider audience than individual paintings by the same artist.
+
+<div class="gallery-grid">
+<figure>
+
+[![Albrecht-Dürer The Four Horsemen from The Apocalypse](./attachments/1498-Albrecht-Dürer-The-Four-Horsemen-from-The-Apocalypse.jpg)](./attachments/1498-Albrecht-Dürer-The-Four-Horsemen-from-The-Apocalypse.jpg)
+
+<figcaption>
+
+Albrecht-Dürer, _The Four Horsemen from "The Apocalypse"_, woodcut, 1498[^durer-met] Public Domain.
+
+</figcaption>
+</figure>
+<figure>
+
+[![Virgin and Child with Saint Anne Albrecht Dürer probably 1519](./attachments/1519-Albrecht-Dürer-TVirgin-and-Child-with-Saint-Anne.jpg)](./attachments/1519-Albrecht-Dürer-TVirgin-and-Child-with-Saint-Anne.jpg)
+
+<figcaption>
+
+Albrecht-Dürer, _Virgin and Child with Saint Anne_, probably 1519[^durer-met-oil] Public Domain.
+
+</figcaption>
+</figure>
+
+</div>
+
+Why do museums care if their art objects were really made by famous artists or are copies? Money. The Cleveland Museum of Art spent time and resources restoring a painting that they claim was painted by Caravaggio. The museum even displayed their "real" painting next to a "fake" painting of the same composition to show how real their painting was. [^caravaggio-cma]
 
 <div class="gallery-grid">
 <figure>
@@ -48,7 +74,6 @@ Black-Vega _Crucifixion of St Andrew_, identified as a copy after Caravaggio. Ca
 _The Crucifixion of Saint Andrew_, 1606–7. Caravaggio (Italian, 1571–1610). Oil on canvas; framed: 233.5 x 184 x 12 cm (91 15/16 x 72 7/16 x 4 3/4 in.); unframed: 202.5 x 152.7 cm (79 3/4 x 60 1/8 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund 1976.2
 
 </figcaption>
-
 </figure>
 
 </div>
@@ -66,9 +91,9 @@ Installation view of _Seeing Double at the CMA: Caravaggio’s Crucifixion of Sa
 
 ## Which is the Original?
 
-Printmaking is another way of making multiples. Which is the original, the block or plate? The first print? The best print? Does it matter?
+When making a print, which is the original, the block or plate? The first print? The best print? Does it matter? Would you pay more money for the fist print edition or for the ten-thousandth print edition if both were identical except for their order in the sequence of production.
 
-Andy Warhol used printmaking to examine concepts of originality and media in pop culture.
+Andy Warhol used printmaking's ability to make multiples to examine concepts of originality and media in pop culture.
 
 ## Reproduction and Appropriation Legal or Illegal?
 
@@ -78,6 +103,8 @@ Sometimes the choice of media of a work can be a source of originality but not a
 
 [^sutra-british-library]: [The Diamond Sutra: British Library Images Archive](https://www.imagesonline.bl.uk/asset/155339/)
 [^smithsonian-mag-sutra]: Daley, Jason. [Five Things to Know About the Diamond Sutra, the World’s Oldest Dated Printed Book](https://www.smithsonianmag.com/smart-news/Five-things-to-know-about-diamond-sutra-worlds-oldest-dated-printed-book-180959052/). The Smithsonian Magazine. May 11, 2016.
+[^durer-met]: [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/336215) Object Number: 19.73.209
+[^durer-met-oil]: [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/436244) Object Number: 14.40.633
 [^caravaggio-cma]: [Seeing Double at the CMA: Caravaggio’s Crucifixion of Saint Andrew and the “Back-Vega” Copy](https://www.clevelandart.org/events/seeing-double-cma-caravaggios-crucifixion-saint-andrew-and-back-vega-copy) [(Web Archive)](https://web.archive.org/web/20240622233249/https://www.clevelandart.org/events/seeing-double-cma-caravaggios-crucifixion-saint-andrew-and-back-vega-copy)
 [^osorio-1]: Osorio, Luiz Camillo. [Shifts in Reproducibility in Art: More on Duchamp](https://www.pipaprize.com/2022/07/shifts-in-reproducibility-in-art-more-on-duchamp-by-luiz-camillo-osorio/) PIPA Institute. July 13, 2022. [(Web Archive)][text](https://web.archive.org/web/20221002191749/https://www.pipaprize.com/2022/07/shifts-in-reproducibility-in-art-more-on-duchamp-by-luiz-camillo-osorio/)
 [^spear-1]: Spear, Richard E. Caravaggio’s ‘Crucifixion of St Andrew’ and the problem of autograph replicas. The Burlington Magazine 160, June 2018.
