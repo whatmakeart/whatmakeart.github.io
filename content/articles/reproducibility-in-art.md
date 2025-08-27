@@ -1,7 +1,7 @@
 ---
 title: Reproducibility in Art
 date: 2024-12-07T07:12:43
-lastmod: 2025-08-26T21:43:48
+lastmod: 2025-08-27T07:27:06
 ---
 
 What is reproducibility? Does the original matter? Is a "reproduced" reproduction just as valuable? Is a copy of a book still the book?
@@ -52,6 +52,27 @@ Albrecht-Dürer, _Virgin and Child with Saint Anne_, probably 1519[^durer-met-oi
 
 </div>
 
+## Photographic Reproduction
+
+Before "photographs" artists had already incorporated the ability of a lens to "reproduce" the world as a 2D image using a device called a camera obscura. The human eye has a hole in the front to let light in. Due to the properties of light waves passing through a tiny opening the image of the world in front of a person is flipped upside down as it is projected onto the rods and cones at the back of the eye to create the signals that the brain interprets as seeing stuff. A camera obscura can be as simple as a darkened tent with a hand sized circle cut out of one wall that lets daylight through. This produces an inverted image of the outside world projected onto the opposite wall of the tent.
+
+An artist could put paper or a canvas in front of this inverted projection and trace the image. Portable camera obscura drawing boxes and tables were produced to simply the process. Once an image passes through a lens, other than the human eye, it alters how the image is produced on a 2D surface. A trip to a museum reveals which images are reproduced with the eye and which images are reproduced through the lens.
+
+<figure>
+
+[![Johann Zahns kleine transportable Camera obscura](./attachments/1900-Johann-Zahns-kleine-transportable-Camera-obscura.jpg)](./attachments/1900-Johann-Zahns-kleine-transportable-Camera-obscura.jpg)
+
+<figcaption>
+
+Johann Zahns kleine transportable Camera obscura, c. 1900 - in or before 1905, Public Domain. [^obscura]
+
+</figcaption>
+</figure>
+
+Building upon the lens from the camera obscura, photography introduced a new level ease and speed of "reproducing" reality. Early photography relied on thick, physical glass plates to produce images. The invention of transparent film allowed for the the near infinite reproduction of photographic copies of an image.
+
+## Which is the Original?
+
 Why do museums care if their art objects were really made by famous artists or are copies? Money. The Cleveland Museum of Art spent time and resources restoring a painting that they claim was painted by Caravaggio. The museum even displayed their "real" painting next to a "fake" painting of the same composition to show how real their painting was. [^caravaggio-cma]
 
 <div class="gallery-grid">
@@ -89,13 +110,11 @@ Installation view of _Seeing Double at the CMA: Caravaggio’s Crucifixion of Sa
 </figcaption>
 </figure>
 
-## Which is the Original?
-
 When making a print, which is the original, the block or plate? The first print? The best print? Does it matter? Would you pay more money for the fist print edition or for the ten-thousandth print edition if both were identical except for their order in the sequence of production.
 
 Andy Warhol used printmaking's ability to make multiples to examine concepts of originality and media in pop culture.
 
-## Reproduction and Appropriation Legal or Illegal?
+### Reproduction and Appropriation Legal or Illegal?
 
 Sometimes the choice of media of a work can be a source of originality but not always. Jeff Koons made a 3D sculpture of a postcard of two people holding a group of puppies. The original postcard was a 3D photograph by professional photographer, Art Rogers, and Koon's sculpture was a false color 3D object based on the photo. Koons did not acquire rights to use the image. US courts decided that the work was not fair use and the artist violated the [copyright](../copyright/copyright-for-artists.md) of Art Rogers regardless of the media used to create or transform the work into a new form.[^koons-fair-use]
 
@@ -110,6 +129,14 @@ Art Rogers' photograph (left), Jeff Koons' work (right) _(This image is included
 </figcaption>
 </figure>
 
+## Digital Reproducibility
+
+Digital technology has made copying and reproducing image, music, and video content easy, nearly instantaneous, automatic, and a common part of everyday life. Copying on the internet is so prevalent that it appears the public's common understanding of copyright law has shifted away from the actual text and meaning of the law.
+
+### Digital 3D Objects
+
+[Digital fabrication](../digital-fabrication/digital-fabrication.md) technologies continue to make it easier to reproduce physical, 3D objects as well as semi 2D objects such as paintings. A 3 axis [CNC](../digital-fabrication/cnc/cnc-basics.md) machine can mimic the dimensional and physical brush marks of a painting, to make a convincing reproduction beyond simple color and image copying. [3D printing](../digital-fabrication/3d-printing/3d-printing.md) produces basically identical copies of any single material 3D object from rocket engines to character statues, to weapons.
+
 ## References
 
 [^sutra-british-library]: [The Diamond Sutra: British Library Images Archive](https://www.imagesonline.bl.uk/asset/155339/)
@@ -120,4 +147,6 @@ Art Rogers' photograph (left), Jeff Koons' work (right) _(This image is included
 [^osorio-1]: Osorio, Luiz Camillo. [Shifts in Reproducibility in Art: More on Duchamp](https://www.pipaprize.com/2022/07/shifts-in-reproducibility-in-art-more-on-duchamp-by-luiz-camillo-osorio/) PIPA Institute. July 13, 2022. [(Web Archive)][text](https://web.archive.org/web/20221002191749/https://www.pipaprize.com/2022/07/shifts-in-reproducibility-in-art-more-on-duchamp-by-luiz-camillo-osorio/)
 [^spear-1]: Spear, Richard E. Caravaggio’s ‘Crucifixion of St Andrew’ and the problem of autograph replicas. The Burlington Magazine 160, June 2018.
 [^koons-fair-use]: [Rogers v. Koons, 960 F.2d 301 (2d Cir. 1992)](https://www.copyright.gov/fair-use/summaries/rogers-koons-2dcir1992.pdf) US Copyright Office Fair Use Summaries
-[^wiki-rogers-koons]: [File:Rogers v. Koons.jpg](https://en.wikipedia.org/wiki/File:Rogers_v._Koons.jpg) Wikipedia
+[^wiki-rogers-koons]:
+    [File:Rogers v. Koons.jpg](https://en.wikipedia.org/wiki/File:Rogers_v._Koons.jpg) Wikipedia
+    ^[obscura]: [Johann Zahns kleine transportable Camera obscura](https://id.rijksmuseum.nl/200676905) Rijks Museum
