@@ -1,10 +1,10 @@
 ---
 title: Found Objects
 date: 2024-12-02T17:56:33
-lastmod: 2025-08-27T06:08:36
+lastmod: 2025-08-27T11:23:50
 ---
 
-In art found objects are materials used mostly as is or as they were found. This is in contrast to using raw materials manipulated into a new form such. If one "find" a coffee cup in the trash or at a store and then uses it as is as an art making material then it is a found object. If one uses ceramic clay to make a coffee cup, then it would not be considered a found object since it was make from raw materials.
+In art, found objects are materials used mostly as is or as they were found. This is in contrast to using raw materials manipulated into a new form such. If one "find" a coffee cup in the trash or at a store and then uses it as is as an art making material then it is a found object. If one uses ceramic clay to make a coffee cup, then it would not be considered a found object since it was make from raw materials.
 
 ## Found Object Origins and the "Readymade"
 
