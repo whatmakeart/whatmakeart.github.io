@@ -1,7 +1,7 @@
 ---
 title: Found Objects
 date: 2024-12-02T17:56:33
-lastmod: 2025-08-27T11:23:50
+lastmod: 2025-08-27T11:34:31
 ---
 
 In art, found objects are materials used mostly as is or as they were found. This is in contrast to using raw materials manipulated into a new form such. If one "find" a coffee cup in the trash or at a store and then uses it as is as an art making material then it is a found object. If one uses ceramic clay to make a coffee cup, then it would not be considered a found object since it was make from raw materials.
@@ -51,7 +51,7 @@ Marcel Duchamp, _Fountain_, 1917, photograph by [Alfred Stieglitz](https://en.wi
 
 ### Readymades Not Really "Found"
 
-While it appears that the original readymades by Duchamp were found, since the Conceptual Art Manifesto puts an emphasis on the artist choosing the objects, later reproductions of the readymades were hand crafted.
+While it appears that the original readymades by Duchamp were found, since the Conceptual Art Manifesto puts an emphasis on the artist choosing the objects, later reproductions of the readymades were hand crafted for reproduction.
 
 ## References
 
