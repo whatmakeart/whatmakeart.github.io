@@ -1,7 +1,7 @@
 ---
 title: Reproducibility in Art
 date: 2024-12-07T07:12:43
-lastmod: 2025-08-26T21:12:39
+lastmod: 2025-08-26T21:43:48
 ---
 
 What is reproducibility? Does the original matter? Is a "reproduced" reproduction just as valuable? Is a copy of a book still the book?
@@ -97,7 +97,18 @@ Andy Warhol used printmaking's ability to make multiples to examine concepts of 
 
 ## Reproduction and Appropriation Legal or Illegal?
 
-Sometimes the choice of media of a work can be a source of originality but not always. Jeff Koons made a 3D sculpture of a postcaard of two people holding a group of puppies. The original postcard was a 3D photograph and Koon's sculpture was a false color 3D object but the artist did not acquire right to the image. US courts decided that the artist violated the [copyright](../copyright/copyright-for-artists.md) of the postcard author regardless of the media used to create or transform the work into a new form.
+Sometimes the choice of media of a work can be a source of originality but not always. Jeff Koons made a 3D sculpture of a postcard of two people holding a group of puppies. The original postcard was a 3D photograph by professional photographer, Art Rogers, and Koon's sculpture was a false color 3D object based on the photo. Koons did not acquire rights to use the image. US courts decided that the work was not fair use and the artist violated the [copyright](../copyright/copyright-for-artists.md) of Art Rogers regardless of the media used to create or transform the work into a new form.[^koons-fair-use]
+
+<figure>
+
+[![Rogers v. Koons Image](./attachments/1992-Rogers_v_Koons.jpg)](./attachments/1992-Rogers_v_Koons.jpg)
+
+<figcaption>
+
+Art Rogers' photograph (left), Jeff Koons' work (right) _(This image is included on the basis of fair use.)_[^wiki-rogers-koons]
+
+</figcaption>
+</figure>
 
 ## References
 
@@ -108,3 +119,5 @@ Sometimes the choice of media of a work can be a source of originality but not a
 [^caravaggio-cma]: [Seeing Double at the CMA: Caravaggio’s Crucifixion of Saint Andrew and the “Back-Vega” Copy](https://www.clevelandart.org/events/seeing-double-cma-caravaggios-crucifixion-saint-andrew-and-back-vega-copy) [(Web Archive)](https://web.archive.org/web/20240622233249/https://www.clevelandart.org/events/seeing-double-cma-caravaggios-crucifixion-saint-andrew-and-back-vega-copy)
 [^osorio-1]: Osorio, Luiz Camillo. [Shifts in Reproducibility in Art: More on Duchamp](https://www.pipaprize.com/2022/07/shifts-in-reproducibility-in-art-more-on-duchamp-by-luiz-camillo-osorio/) PIPA Institute. July 13, 2022. [(Web Archive)][text](https://web.archive.org/web/20221002191749/https://www.pipaprize.com/2022/07/shifts-in-reproducibility-in-art-more-on-duchamp-by-luiz-camillo-osorio/)
 [^spear-1]: Spear, Richard E. Caravaggio’s ‘Crucifixion of St Andrew’ and the problem of autograph replicas. The Burlington Magazine 160, June 2018.
+[^koons-fair-use]: [Rogers v. Koons, 960 F.2d 301 (2d Cir. 1992)](https://www.copyright.gov/fair-use/summaries/rogers-koons-2dcir1992.pdf) US Copyright Office Fair Use Summaries
+[^wiki-rogers-koons]: [File:Rogers v. Koons.jpg](https://en.wikipedia.org/wiki/File:Rogers_v._Koons.jpg) Wikipedia
