@@ -1,7 +1,7 @@
 ---
 title: 01.06 Slop Slayers Assignment
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-08-28T10:45:55
+lastmod: 2025-08-28T12:07:28
 ---
 
 ## Assignment Deliverables
@@ -12,6 +12,8 @@ lastmod: 2025-08-28T10:45:55
    - Label the file YYYYMMDD Lastname Firstname Slop Slayers.jpg
 3. Brief writeen description of your analysis of the Slop and what you did to slay it and why?
    - Label the file YYYYMMDD Lastname Firstname Explaining the Slaid Slop.docx
+4. List of Photoshop image editing questions
+   - Label the file YYYYMMDD Lastname Firstname Photoshop Questions.docx
 
 ## Assignment Overview
 
