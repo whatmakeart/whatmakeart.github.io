@@ -1,7 +1,7 @@
 ---
 title: Atmospheric Perspective
-date: 2025-08-28T09:00:00Z
-lastmod: 2025-05-14T12:56:45
+date: 2025-09-04T09:00:00Z
+lastmod: 2025-08-28T06:56:16
 toc: true
 draft: true
 ---

@@ -1,7 +1,7 @@
 ---
-title: DPI vs PPI vs Resolution
+title: Pixels vs DPI
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-08-10T00:42:01
+lastmod: 2025-08-28T06:56:16
 draft: true
 ---
 
