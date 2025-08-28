@@ -1,7 +1,7 @@
 ---
-title: 01.04 Slop Slayers Assignment
+title: 01.06 Slop Slayers Assignment
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-08-28T06:28:57
+lastmod: 2025-08-28T08:49:09
 ---
 
 ## Assignment Deliverables
