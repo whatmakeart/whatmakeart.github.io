@@ -1,7 +1,7 @@
 ---
 title: 01.02 Make New Original Content Now In Class Exercise
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-08-28T08:49:09
+lastmod: 2025-08-28T08:56:07
 ---
 
 ## Excercise Deliverables
@@ -53,7 +53,7 @@ lastmod: 2025-08-28T08:49:09
 5. Upload to Canvas in Class Assignment
 6. Save all your work. Close Photoshop.
 7. Put all files in your week 1 folder on the desktop.
-8. Backup the entire Week 1 folder.
+8. Backup the entire Week 1 folder in the method of your choice.
 
 ## Photoshop Guides
 
