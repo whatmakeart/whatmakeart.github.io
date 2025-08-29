@@ -1,14 +1,14 @@
 ---
 title: 01.03 3D Generation and Modeling 3D Print Exercise
 date: 2025-08-29T09:30:00
-lastmod: 2025-08-29T09:22:00
+lastmod: 2025-08-29T13:47:00
 ---
 
 ## Exercise Deliverables
 
-1. Upload an STL or OBJ or STEP or 3MF of your cleaned up mesh from the in class mesh generation experiments
+1. Upload an STL or 3MF of your cleaned up mesh from the in class mesh generation experiments
    - Label the file 2025-08-29 Lastname Firstname name of mesh
-2. Upload an STL or OBJ or STEP or 3MF of your modeled mesh from the in class modeling into
+2. Upload an STL or 3MF of your modeled mesh from the in class modeling into
    - Label the file 2025-08-29 Lastname Firstname name of mesh
 
 ## Exercise Overview
