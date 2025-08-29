@@ -1,26 +1,29 @@
 ---
 title: 01.05 Modeling and Sculptural Ideation Assignment
 date: 2025-08-29T09:30:00
-lastmod: 2025-08-29T09:05:40
+lastmod: 2025-08-29T13:17:37
 ---
 
 ## Assignment Deliverables
 
-1. A 3D model file of the found object (submitted as a .blend, .mb, .f3d, or another appropriate format).
-   - 3D model file should show minimum of 5 different arrangements of 10 of the modular forms
-2. Minimum of 2 renders of selected sculptural arrangements (.png or .jpg)
-3. Reflection uploaded as (.docx or .pdf)
+1. A 3D model file of the found object shown in minimum of 5 different arrangements of at least 10 objects per arrangement (`.blend, .mb, .f3d`)
+   - Label file YYYY-MM-DD Lastname Firstname Modular Form Arrangements
+2. Minimum of 2 renders of selected sculptural arrangements (`.png or .jpg`)
+   - Label file YYYY-MM-DD Lastname Firstname Arrangement Render 1
+   - Label file YYYY-MM-DD Lastname Firstname Arrangement Render 2
+3. Reflection uploaded as (`.docx or .pdf`)
+   - Label file YYYY-MM-DD Lastname Firstname Arrangement Reflection
 
 ## Assignment Overview
 
-This assignment challenges students to explore the creative possibilities of repetitive forms through the process of 3D modeling. By selecting a found object that can be obtained in multiples, students will model the object to scale in a 3D program, experiment with various arrangements digitally, and render their designs. The final goal is to evaluate which arrangement is the most visually compelling and consider constructing the physical sculpture.
+Students are challenged to explore the creative possibilities of repetitive forms through the process of 3D modeling. Students select a found object that can be obtained in multiples in real life. For example many pencils can be aquired but many gold bars cannot. Students them model the object to scale in a 3D program, experiment with various arrangements digitally, and render their designs. The final goal is to evaluate which arrangement is the most visually compelling with consideration of actually constructing the physical sculpture.
 
 ## Assignment Steps
 
 1. Object Collection
    - Identify a found object that you can obtain in quantities of 10 or more. Consider everyday objects such as bottle caps, paperclips, small boxes, or anything else that is easily accessible. Check out the SEM found objects.
    - Ensure that the object is simple enough to be modeled within the scope of your current 3D modeling skills but has potential for interesting repetition and arrangement.
-2. 3D Modeling:
+2. 3D Modeling
    - Use the 3D modeling software of your choice (e.g., Blender, Rhino, Maya, etc.) to create an accurate model of your chosen object. Pay close attention to dimensions and proportions to ensure the model is to scale.
    - Apply textures and materials to your model to closely resemble the physical object. This will help in evaluating the visual impact of your final renders.
 3. Arrangement Exploration
@@ -32,6 +35,20 @@ This assignment challenges students to explore the creative possibilities of rep
 5. Evaluation and Reflection
    - Select the arrangement that you feel is the most visually compelling. Consider how the composition interacts with space, the potential for viewer engagement, and the overall aesthetic appeal.
    - Write a brief reflection (300-500 words) explaining your choice of the final arrangement, discussing your design process, and how this digital exploration might inform the construction of a physical sculpture.
+
+## Assignment Resources
+
+### 3D Modeling Resources
+
+- [Blender Modeling Basics](../../../../3d-modeling/blender/3d-modeling-basics-blender.md)
+- [Maya Modeling Basics](../../../../3d-modeling/maya/3d-modeling-basics-maya.md)
+- [Fusion 360 FAQ](../../../../3d-modeling/fusion-360/fusion-360-faq.md)
+
+### Rendering Resources
+
+- [Blender Rendering Basics](../../../../3d-modeling/blender/rendering-basics-blender.md)
+- [Maya Rendering Basics](../../../../3d-modeling/maya/rendering-basics-maya.md)
+- [Fusion 360 Rendering Basics](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
 
 ## Grading Rubric
 
@@ -49,17 +66,3 @@ This assignment challenges students to explore the creative possibilities of rep
 | File Management                                     | 10     |
 
 </div>
-
-## Assignment Resources
-
-### 3D Modeling Resources
-
-- [Fusion 360 FAQ](../../../../3d-modeling/fusion-360/fusion-360-faq.md)
-- [Blender Modeling Basics](../../../../3d-modeling/blender/3d-modeling-basics-blender.md)
-- [Maya Modeling Basics](../../../../3d-modeling/maya/3d-modeling-basics-maya.md)
-
-### Rendering Resources
-
-- [Maya Rendering Basics](../../../../3d-modeling/maya/rendering-basics-maya.md)
-- [Blender Rendering Basics](../../../../3d-modeling/blender/rendering-basics-blender.md)
-- [Fusion 360 Rendering Basics](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
