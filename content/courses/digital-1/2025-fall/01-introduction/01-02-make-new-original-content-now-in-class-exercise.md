@@ -1,7 +1,7 @@
 ---
 title: 01.02 Make New Original Content Now In Class Exercise
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-08-28T08:56:07
+lastmod: 2025-08-29T07:51:24
 ---
 
 ## Excercise Deliverables
@@ -16,7 +16,7 @@ lastmod: 2025-08-28T08:56:07
 
 ## Process
 
-1. Checkout a mirroless camera from the [Equipment Checkout](https://cia.webcheckout.net/sso/patron#!/).
+1. Checkout a mirrorless camera from the [Equipment Checkout](https://cia.webcheckout.net/sso/patron#!/).
 2. Review the [basic camera settings](01-01-basic-camera-settings.md) from class.
 3. With a partner:
    - Take 3 images of yourself. Collaborate with your partner to take images. Make sure the images are well lit and varied in composition angle, framing and scale. Make sure one image shows your hair in focus.

@@ -1,7 +1,7 @@
 ---
 title: 01.00 Introduction
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-08-28T10:34:31
+lastmod: 2025-08-29T07:51:24
 ---
 
 Copy and Paste fundamentally separates digital workflows from analog or physical workflows. Of course physical objects and analog sound recordings can be copied and duplicated but not at the near instantaneous speed and low cost of digital duplication.
@@ -16,7 +16,7 @@ Does that meant that we are mere specks in the vast cosmos and anything we can c
 
 Yes.
 
-But, who cares? Remember ~10<sup>961755</sup> is way more than the 10<sup>97</sup> so even though our existance is a mere blip in the universe, there are still way more things to be created than could ever possibly be created, so in this sense the possibilities are literally and truely, endless, so get creating.
+But, who cares? Remember ~10<sup>961755</sup> is way more than the 10<sup>97</sup> so even though our existence is a mere blip in the universe, there are still way more things to be created than could ever possibly be created, so in this sense the possibilities are literally and truly, endless, so get creating.
 
 ## Learning Objectives
 

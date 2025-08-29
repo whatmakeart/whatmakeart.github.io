@@ -1,7 +1,7 @@
 ---
 title: 01.04 Bambu Studio Installation
-date: 2024-08-21T09:00:00
-lastmod: 2025-08-29T05:40:16
+date: 2025-08-29T09:30:00
+lastmod: 2025-08-29T05:39:57
 toc: true
 ---
 

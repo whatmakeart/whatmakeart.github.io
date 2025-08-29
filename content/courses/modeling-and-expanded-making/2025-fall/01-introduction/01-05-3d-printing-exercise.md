@@ -1,15 +1,8 @@
 ---
 title: 01.05 3D Printing Exercise
-date: 2024-08-21T09:00:00
-lastmod: 2025-08-29T07:36:01
+date: 2025-08-29T09:30:00
+lastmod: 2025-08-29T07:51:24
 ---
-
-## Exercise Deliverables
-
-1. Generated 3D model / mesh for 3D printing (`.stl, .obj, .3mf`)
-   - Label file YYYY-MM-DD Lastname Firstname generated 3d mesh
-2. Modeled 3D model / mesh for 3D printing (`.stl, .obj, .3mf`)
-   - Label file YYYY-MM-DD Lastname Firstname modeled 3d mesh
 
 ## Option 1: Clean Up Generated Mesh for 3D Printing
 
