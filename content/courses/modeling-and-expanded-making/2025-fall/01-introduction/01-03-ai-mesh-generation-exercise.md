@@ -1,7 +1,7 @@
 ---
 title: 01.03 AI Mesh Generation Exercise
 date: 2025-08-29T09:30:00
-lastmod: 2025-08-29T07:51:24
+lastmod: 2025-08-29T08:42:07
 toc: true
 ---
 
@@ -31,6 +31,8 @@ Boxing Bunny image made with Google Gemini
 </div>
 
 ## AI Mesh Generation Tools
+
+- [Adobe Substance 3D Stager](https://www.adobe.com/products/substance3d/apps/stager.html) - Text to 3D Mesh generator inside Adobe Substance Stager
 
 - [VFusion3D Demo on Hugging Face](https://huggingface.co/spaces/facebook/VFusion3D) - Makes good videos but the meshes are blocky
 - [VFusion3D Demo on Google Colab](https://github.com/whatmakeart/VFusion3D-colab) - Requires access to Google Drive
