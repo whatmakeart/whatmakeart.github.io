@@ -1,7 +1,8 @@
 ---
 title: Photoshop Generative Fill
 date: 2023-06-22T14:53:36
-lastmod: 2024-01-17T04:08:30
+lastmod: 2025-08-30T10:15:58
+alias: /photography/photoshop-generative-fill/
 ---
 
 <div class="video-grid">

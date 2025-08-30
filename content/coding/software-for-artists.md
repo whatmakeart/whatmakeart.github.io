@@ -1,7 +1,7 @@
 ---
 title: Software for Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-01-03T10:42:21
+lastmod: 2025-08-30T10:13:51
 ---
 
 Computers and software greatly expand the creative potential for artists yet sometimes artists are hesitant to embrace digital tools. This is understandable since so much of creation is done with analog tools such as sketching on paper or making cardboard models but once one becomes proficient with digital tools then the use of digital tools comes as natural as reaching for a pencil.
@@ -10,7 +10,7 @@ This software and digital tool list focuses on tools that have many uses outside
 
 ## Image Software
 
-- [Photoshop](../photography/photoshop.md)
+- [Photoshop](../software/adobe-photoshop/photoshop.md)
 - [Illustrator](../software/adobe-illustrator/illustrator.md)
 - [Gimp](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/)

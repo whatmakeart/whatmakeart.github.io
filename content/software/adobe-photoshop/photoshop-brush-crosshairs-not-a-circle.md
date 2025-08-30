@@ -1,13 +1,15 @@
 ---
 title: Why is my Photoshop brush a crosshair?
 date: 2022-02-20T8:30:00-04:00
-lastmod: 2024-11-11T05:00:02
+lastmod: 2025-08-30T10:15:23
 description: How to change your photoshop brush back to a circle after it is a cross hair
 featured_image: /photography/attachments/Photoshop-Brush-not-a-Circle-Title.jpg
 tags:
   - Photoshop
   - Tip
-aliases: /posts/photoshop-brush-crosshairs-not-a-circle/
+aliases:
+  - /posts/photoshop-brush-crosshairs-not-a-circle/
+  - /photography/photoshop-brush-crosshairs-not-a-circle/
 ---
 
 <div class="iframe-16-9-container">
@@ -50,4 +52,4 @@ Why can't I see the edges of my Photoshop brush? Why is my Photoshop brush a cro
 
 </details>
 
-![Photoshop brush is a crosshair](./attachments/Photoshop-Brush-not-a-Circle-Title.jpg)
+![Photoshop brush is a crosshair](../../photography/attachments/Photoshop-Brush-not-a-Circle-Title.jpg)

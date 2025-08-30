@@ -1,7 +1,7 @@
 ---
 title: Blender
 date: 2023-05-26T02:54:03
-lastmod: 2025-04-28T03:17:26
+lastmod: 2025-08-30T06:13:41
 tags:
   - Blender
   - 3D Modeling
@@ -108,4 +108,6 @@ tags:
 - [Draw Floor Plan Blender](./draw-a-floor-plan-blender.md)
 - [Scale Floor Plan Blender](./scale-floor-plan-blender.md)
 
-[^1]: [Blender](https://www.blender.org)
+## References
+
+[^1]: [Blender.org](https://www.blender.org)

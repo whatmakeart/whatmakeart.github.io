@@ -1,10 +1,8 @@
 ---
-title: "15.01 Update Website Portfolio"
+title: 15.01 Update Website Portfolio
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2025-08-30T10:40:17
 ---
-
-# Updated Website Portfolio Page(s)
 
 Maintaining an online presence for your work will be important for your career as a creative professional. In Digital I, you learned how to make a basic website with and image gallery portfolio page. If not kept current, websites can quickly become out of date and then not give the best first impression to visitors interested in your work. Keep your website fresh by periodically updating your portfolio images.
 
@@ -22,7 +20,7 @@ For this assignment you need to have a page that has a presentation of work that
 - Include a responsive image gallery of your original work
 - Include an about or contact page that shows how to get in touch with your and / or tells your creative story
 - Have navigation links to your html pages in a responsive nav bar
-- Optimize your images in Photoshop to reduce the file size so they download quickly. Images should definitely be less than 1MB. The pixel dimensions can be large but the file size should be small.
+- [Optimize your images in Photoshop](../../../../software/adobe-photoshop/optimize-images-for-web-with-batch-image-processing-in-photoshop.md) to reduce the file size so they download quickly. Images should definitely be less than 1MB. The pixel dimensions can be large but the file size should be small.
 
 You can do all of the above for free using GitHub Pages and a free domain from Namecheap by following the tutorials posted in the weekly asynchronous content. You may use a domain registrar and hosting provider of your choice.
 
