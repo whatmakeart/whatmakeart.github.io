@@ -1,7 +1,7 @@
 ---
 title: 01.06 Slop Slayers Assignment
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-08-30T10:38:53
+lastmod: 2025-08-30T13:10:05
 ---
 
 ## Assignment Deliverables
@@ -75,3 +75,46 @@ AI Slop to Slay 3
 - Develop a critical eye for analyzing digital images.
 - Use non-destructive editing workflows using layers and masks.
 - Gain proficiency with selection tools in Photoshop.
+
+### Assignment Resources
+
+- [Fix Jagged Selection Edges in Photoshop](https://youtu.be/NxHrx7Chhr0)
+
+<div class="video-grid">
+
+<div class="video-card">
+
+### Select Hair
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/72Qjuf7YP3g?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Fix Jagged Selection Edges in Photoshop
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NxHrx7Chhr0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Generative Fill Demo
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/yJ5e8qasoMs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Generative Fill Out Painting
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/xPy_YId1lx0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+</div>

@@ -1,7 +1,7 @@
 ---
 title: Set Pixel Dimensions in a New Document in Photoshop
 date: 2025-08-30T10:13:08
-lastmod: 2025-08-30T10:18:35
+lastmod: 2025-08-30T10:57:09
 ---
 
 <div class="video-grid">
@@ -13,3 +13,5 @@ lastmod: 2025-08-30T10:18:35
 </div>
 
 [Set Pixel Dimensions in a New Document in Photoshop](https://youtu.be/WZr5oklcKAw)
+
+[![Set Pixel Dimensions in a New Document in Photoshop](./attachments/set-pixel-dimensions-new-document-photoshop-thumb.jpg)](https://youtu.be/WZr5oklcKAw)
