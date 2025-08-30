@@ -1,7 +1,7 @@
 ---
 title: 01.06 Slop Slayers Assignment
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-08-30T13:10:05
+lastmod: 2025-08-30T17:14:25
 ---
 
 ## Assignment Deliverables
@@ -69,6 +69,11 @@ AI Slop to Slay 3
 2. Write down: Are there obvious biases in the image? What works? What fails? Why? Identify specific problems related to composition, lighting, anatomy, texture, and overall mood, etc. Or if it is just lame, write down why.
 3. Before you begin editing, decide on your artistic direction. What kind of story do you want to tell? What mood are you trying to achieve? Your goal is not just to "fix" the image, but to elevate it with a clear vision.
 4. Introduce new elements, textures, or effects on separate layers to build a richer visual narrative.
+5. [Save the Photoshop file](https://helpx.adobe.com/photoshop/using/saving-images.html) as a `.psd`with all layers intact.
+6. [Save a copy](https://helpx.adobe.com/photoshop/using/saving-images.html#save-a-copy) as a `.jpg` version of the image
+7. Write a brief written description of your analysis of the Slop and what you did to slay it and why?
+8. Write a list of Photoshop image editing questions that you had / have from working on your project.
+9. Upload your completed project files to Canvas.
 
 ## Learning Objectives:
 
@@ -78,43 +83,38 @@ AI Slop to Slay 3
 
 ### Assignment Resources
 
+#### Getting Started
+
+- [Set Pixel Dimensions in a New Document in Photoshop](../../../../software/adobe-photoshop/set-pixel-dimensions-new-document-photoshop.md)
+- [Layer Basics](https://helpx.adobe.com/photoshop/using/layer-basics.html)
+- [Mask Layers](https://helpx.adobe.com/photoshop/using/masking-layers.html)
+- [Smart Objects](https://helpx.adobe.com/photoshop/using/create-smart-objects.html)
+- [Making Selections](https://helpx.adobe.com/photoshop/using/making-selections.html)
+- [Perspective Warp](https://helpx.adobe.com/photoshop/using/perspective-warp.html)
+- [Healing Brush](https://helpx.adobe.com/photoshop/using/healing-examples.html)
+- [Warp Images Shapes and Paths](https://helpx.adobe.com/photoshop/using/warp-images-shapes-paths.html)
+- [Save Images in Photoshop](https://helpx.adobe.com/photoshop/using/saving-images.html)
+
+#### Smart Selection Tools
+
+- [Quick Selection Tool](https://helpx.adobe.com/photoshop/using/making-quick-selections.html)
+- [Select Subject](https://helpx.adobe.com/photoshop/using/quick-actions/select-subject.html)
+- [Remove Background](https://helpx.adobe.com/photoshop/using/quick-actions/remove-background.html)
 - [Fix Jagged Selection Edges in Photoshop](https://youtu.be/NxHrx7Chhr0)
+- [Select Hair in Photoshop](https://youtu.be/72Qjuf7YP3g)
 
-<div class="video-grid">
+#### Lasso Selection Tools
 
-<div class="video-card">
+- [Selection Brush Tool](https://youtu.be/W1I4ozGU2Tw)
+- [Lasso Tool](https://youtu.be/kVIRJy5oKt8)
+- [Polygon Lasso Tool](https://youtu.be/31VKwGB47PU)
+- [Magnetic Lasso Tool](https://youtu.be/zhs1Fsm41_U)
 
-### Select Hair
+#### Generative Fill
 
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/72Qjuf7YP3g?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
+- [Generative Fill Demo](../../../../software/adobe-photoshop/photoshop-generative-fill.md)
 
-<div class="video-card">
+#### Painting Tools
 
-### Fix Jagged Selection Edges in Photoshop
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NxHrx7Chhr0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Generative Fill Demo
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/yJ5e8qasoMs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Generative Fill Out Painting
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/xPy_YId1lx0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-</div>
+- [Painting Tools-](https://helpx.adobe.com/photoshop/using/painting-tools.html)
+- [Mixer Brush](https://helpx.adobe.com/photoshop/using/painting-mixer-brush.html)
