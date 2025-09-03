@@ -1,7 +1,7 @@
 ---
 title: 02.06 Photogrammetry Render Assignment
 date: 2025-09-03T12:00:00
-lastmod: 2025-09-02T21:25:46
+lastmod: 2025-09-03T05:52:03
 ---
 
 ## Assignment Deliverables
@@ -11,27 +11,26 @@ lastmod: 2025-09-02T21:25:46
       - Label file YYYY-MM-DD Lastname Firstname model.obj
    2. Upload texture image file from photogrammetry scan (`.png` or `.jpg`)
       - Label file YYYY-MM-DD Lastname Firstname texture.png
-   3. Upload `.mtl` file of photogrammetry scan
-      - Label file YYYY-MM-DD Lastname Firstname material.mtl
    - _If using Adobe Substance Sampler, make sure to select `obj` export format_ [Export obj Substance Sampler](https://youtu.be/lhC0Wv8bi6Q)
 2. Upload render image from Blender or Maya of Photogrammetry scan (`.jpg` or `.png`)
    - Label file YYYY-MM-DD Lastname Firstname render image.png
 
 ## Process
 
-1. Select an object for photogrammetry. This can be the original object that you made a mold of or a pulled slip-cast of from the mold.
-2. Set you object on an approximately waist high platform in a bright but flatly lit room. If a well lit room with even lighting is not available, then noon on a cloudy day outside works well.
-3. Capture the object for photogrammetry:
+1. Select an object for [photogrammetry](./02-04-photogrammetry.md). This can be the original object that you made a mold of or a pulled slip-cast of from the mold.
+2. Set your object on an approximately waist high platform in a bright but flatly lit room. If a well lit room with even lighting is not available, then noon on a cloudy day outside works well.
+3. Capture multiple images of the object from multiple angles for photogrammetry:
    - Each part of the object must be taken from a minimum of two angles with overlapping information from other images.
-   - A video from 360 degrees around the object. One pass should be a low angle, one pass should be perpendicular, and one pass should be from a high angle. Move steady, keeping the object in focus.
+   - A video from 360 degrees around the object with multiple passes. One pass should be a low angle, one pass should be perpendicular, and one pass should be from a high angle. Move steady, keeping the object in focus.
    - A series of photos taken from around the object works well. Fill the frame and make sure the object is in focus. One 360 pass from a low angle, one from perpendicular, and one from a high angle. You can take additional detail shots from closer in.
-4. Use photogrammetry software to create a textured 3D mesh of your object.
-5. Download the [prepared render scene for Blender](02-05-import-3d-model-into-pedestal-render-scene-blender.md).
-6. Import the mesh into Blender.
-7. Scale and position the object on the virtual pedestal.
-8. Clean up the mesh of unwanted parts as needed.
-9. Adjust the camera and lights.
-10. Render and save an image.
+4. Convert captured video to images if using Adobe Substance Sampler.
+5. Use [Adobe Substance Sampler](../../../../3d-modeling/photogrammetry-with-adobe-substance-sampler.md), or [Photocatch](../../../../3d-modeling/photogrammetry-with-photocatch.md), or other photogrammetry software to create a textured 3D mesh of your object.
+6. Download the [prepared render scene for Blender](02-05-import-3d-model-into-pedestal-render-scene-blender.md).
+7. [Import the 3D mesh](https://youtu.be/XLAeTAi-2gI?si=ROrZWZU4sGHXY_fg&t=64) of your object into Blender.
+8. Scale and position the object on the virtual pedestal.
+9. Clean up the 3D mesh of unwanted parts as needed.
+10. Adjust the camera and lights.
+11. Render and save an image.
 
 <div class="video-grid">
 <div class="video-card">
@@ -47,7 +46,7 @@ lastmod: 2025-09-02T21:25:46
 
 ## Assignment Resources
 
-### FAQ
+### Blender FAQ
 
 1. How do I move an object in Blender? [Move objects in Blender](../../../../3d-modeling/blender/how-to-move-blender.md)
 2. How do I rotate the object in Blender? [Rotate objects in Blender](../../../../3d-modeling/blender/rotate-objects-blender.md)
@@ -69,6 +68,8 @@ lastmod: 2025-09-02T21:25:46
 
 - [Clean up Photogrammetry Mesh in Blender](https://youtu.be/asyItetJkbU)
 - [Calibrate size of 3D Scanned Photogrammetry Mesh in Blender](https://youtu.be/MUb7I4lBSZs)
+
+### Video Tutorials
 
 <div class="video-grid">
 
@@ -186,5 +187,19 @@ lastmod: 2025-09-02T21:25:46
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/lhC0Wv8bi6Q?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
+
+</div>
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Upload .obj                  | 20 points |
+| Upload texture image         | 20 points |
+| Upload material file .mtl    | 20 points |
+| Upload Render Image          | 30 points |
+| Rile Management and Labeling | 10 points |
 
 </div>
