@@ -1,7 +1,7 @@
 ---
-title: 02.07 Import 3D Model into Pedestal Render Scene Blender
+title: 02.05 Import 3D Model into Pedestal Render Scene Blender
 date: 2025-09-03T12:00:00
-lastmod: 2025-08-19T07:52:22
+lastmod: 2025-09-02T20:42:42
 toc: true
 ---
 

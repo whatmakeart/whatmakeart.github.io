@@ -1,7 +1,7 @@
 ---
-title: 02.03 Reading Assignment
+title: 02.03 First Reading Assignment
 date: 2025-09-03T12:00:00
-lastmod: 2025-08-26T19:45:58
+lastmod: 2025-09-02T20:42:42
 ---
 
 ## Assignment Deliverables

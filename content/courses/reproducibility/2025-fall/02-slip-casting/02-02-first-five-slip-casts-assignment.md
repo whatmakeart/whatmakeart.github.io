@@ -1,7 +1,7 @@
 ---
-title: 02.02 Slip Cast Assignment
+title: 02.02 First Five Slip Casts Assignment
 date: 2025-09-03T12:00:00
-lastmod: 2025-08-19T07:52:22
+lastmod: 2025-09-02T20:35:25
 ---
 
 ## Assignment Deliverables
