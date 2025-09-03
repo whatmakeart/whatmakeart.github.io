@@ -1,7 +1,7 @@
 ---
-title: 02.06 Photogrammetry Render Assignment
+title: 02.05 Photogrammetry Render Assignment
 date: 2025-09-03T12:00:00
-lastmod: 2025-09-03T05:52:03
+lastmod: 2025-09-03T10:10:43
 ---
 
 ## Assignment Deliverables
@@ -23,10 +23,10 @@ lastmod: 2025-09-03T05:52:03
    - Each part of the object must be taken from a minimum of two angles with overlapping information from other images.
    - A video from 360 degrees around the object with multiple passes. One pass should be a low angle, one pass should be perpendicular, and one pass should be from a high angle. Move steady, keeping the object in focus.
    - A series of photos taken from around the object works well. Fill the frame and make sure the object is in focus. One 360 pass from a low angle, one from perpendicular, and one from a high angle. You can take additional detail shots from closer in.
-4. Convert captured video to images if using Adobe Substance Sampler.
+4. Convert captured video frames to images with [Adobe Media Encoder](../../../../video/export-video-frames-as-images-adobe-media-encoder.md) or [Adobe Premiere Pro](../../../../video/adobe-premiere-pro/export-fames-as-images-premiere.md) if using Adobe Substance Sampler.
 5. Use [Adobe Substance Sampler](../../../../3d-modeling/photogrammetry-with-adobe-substance-sampler.md), or [Photocatch](../../../../3d-modeling/photogrammetry-with-photocatch.md), or other photogrammetry software to create a textured 3D mesh of your object.
-6. Download the [prepared render scene for Blender](02-05-import-3d-model-into-pedestal-render-scene-blender.md).
-7. [Import the 3D mesh](https://youtu.be/XLAeTAi-2gI?si=ROrZWZU4sGHXY_fg&t=64) of your object into Blender.
+6. Download the [prepared render scene for Blender](../../../../3d-modeling/blender/attachments/2025-01-29-pedestal-render-setup.blend).
+7. [Import the 3D mesh](https://youtu.be/JG1msAX7PFos) of your object into Blender.
 8. Scale and position the object on the virtual pedestal.
 9. Clean up the 3D mesh of unwanted parts as needed.
 10. Adjust the camera and lights.
@@ -48,15 +48,16 @@ lastmod: 2025-09-03T05:52:03
 
 ### Blender FAQ
 
-1. How do I move an object in Blender? [Move objects in Blender](../../../../3d-modeling/blender/how-to-move-blender.md)
-2. How do I rotate the object in Blender? [Rotate objects in Blender](../../../../3d-modeling/blender/rotate-objects-blender.md)
-3. How do I scale the object in Blender? [Scale objects in Blender](../../../../3d-modeling/blender/scale-objects-blender.md)
-4. How do I duplicate the object in Blender? [Duplicate objects in Blender](../../../../3d-modeling/blender/display-textures-on-objects-blender.md)
-5. How do I see the textures on the object in Blender? [Display Textures on objects in Blender](../../../../3d-modeling/blender/display-textures-on-objects-blender.md)
-6. How do I move the camera in Blender? [Move Camera Video Guide](https://youtu.be/XLAeTAi-2gI?si=_BcabZNWRrZp9Yrf&t=163)
-7. How do I change the lights in Blender? [Change Lights Video Guide](https://youtu.be/XLAeTAi-2gI&t=197)
-8. How do I render in Blender? [Rendering Basics in Blender](../../../../3d-modeling/blender/rendering-basics-blender.md)
-9. How do I export an `.obj` from Adobe Substance Sampler? [Export obj from Substance Sampler](../../../../3d-modeling/export-obj-from-adobe-substance-sampler.md)
+1. How do I import an OBJ into Blender? [Import OBJ into Blender](https://youtu.be/JG1msAX7PFo)
+2. How do I move an object in Blender? [Move objects in Blender](../../../../3d-modeling/blender/how-to-move-blender.md)
+3. How do I rotate the object in Blender? [Rotate objects in Blender](../../../../3d-modeling/blender/rotate-objects-blender.md)
+4. How do I scale the object in Blender? [Scale objects in Blender](../../../../3d-modeling/blender/scale-objects-blender.md)
+5. How do I duplicate the object in Blender? [Duplicate objects in Blender](../../../../3d-modeling/blender/display-textures-on-objects-blender.md)
+6. How do I see the textures on the object in Blender? [Display Textures on objects in Blender](../../../../3d-modeling/blender/display-textures-on-objects-blender.md)
+7. How do I move the camera in Blender? [Move Camera Video Guide](https://youtu.be/XLAeTAi-2gI?si=_BcabZNWRrZp9Yrf&t=163)
+8. How do I change the lights in Blender? [Change Lights Video Guide](https://youtu.be/XLAeTAi-2gI&t=197)
+9. How do I render in Blender? [Rendering Basics in Blender](../../../../3d-modeling/blender/rendering-basics-blender.md)
+10. How do I export an `.obj` from Adobe Substance Sampler? [Export obj from Substance Sampler](../../../../3d-modeling/export-obj-from-adobe-substance-sampler.md)
 
 ### Photogrammetry 3D Model Creation
 
@@ -66,32 +67,9 @@ lastmod: 2025-09-03T05:52:03
 
 ### Working with Photogrammetry Models in Blender
 
+- [Import 3D Model into Pedestal Render Scene Blender](../../../../3d-modeling/blender/import-3d-model-into-pedestal-render-scene-blender.md).
 - [Clean up Photogrammetry Mesh in Blender](https://youtu.be/asyItetJkbU)
 - [Calibrate size of 3D Scanned Photogrammetry Mesh in Blender](https://youtu.be/MUb7I4lBSZs)
-
-### Video Tutorials
-
-<div class="video-grid">
-
-<div class="video-card">
-
-#### Clean up Photogrammetry Mesh in Blender
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/asyItetJkbU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-#### Calibrate size of 3D Scanned Photogrammetry Mesh in Blender
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/MUb7I4lBSZs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-
-</div>
 
 ### Exporting Frames from Video for Photogrammetry
 
@@ -106,6 +84,7 @@ lastmod: 2025-09-03T05:52:03
 
 ### Blender Video Tutorials
 
+- [How to Import OBJ into Blender](https://youtu.be/JG1msAX7PFo)
 - [How to Move Objects in Blender](https://youtu.be/t4MtOUyOkPM)
 - [How to Scale Objects in Blender](https://youtu.be/EGn3BvyRVlY)
 - [How to Rotate Objects in Blender](https://youtu.be/y6nwGRkL1k4)
@@ -185,6 +164,24 @@ lastmod: 2025-09-03T05:52:03
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/lhC0Wv8bi6Q?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Clean up Photogrammetry Mesh in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/asyItetJkbU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Calibrate size of 3D Scanned Photogrammetry Mesh in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/MUb7I4lBSZs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
