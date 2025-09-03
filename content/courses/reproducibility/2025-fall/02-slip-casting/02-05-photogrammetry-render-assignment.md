@@ -1,7 +1,7 @@
 ---
 title: 02.05 Photogrammetry Render Assignment
 date: 2025-09-03T12:00:00
-lastmod: 2025-09-03T10:10:43
+lastmod: 2025-09-03T10:17:35
 ---
 
 ## Assignment Deliverables
@@ -54,10 +54,11 @@ lastmod: 2025-09-03T10:10:43
 4. How do I scale the object in Blender? [Scale objects in Blender](../../../../3d-modeling/blender/scale-objects-blender.md)
 5. How do I duplicate the object in Blender? [Duplicate objects in Blender](../../../../3d-modeling/blender/display-textures-on-objects-blender.md)
 6. How do I see the textures on the object in Blender? [Display Textures on objects in Blender](../../../../3d-modeling/blender/display-textures-on-objects-blender.md)
-7. How do I move the camera in Blender? [Move Camera Video Guide](https://youtu.be/XLAeTAi-2gI?si=_BcabZNWRrZp9Yrf&t=163)
-8. How do I change the lights in Blender? [Change Lights Video Guide](https://youtu.be/XLAeTAi-2gI&t=197)
-9. How do I render in Blender? [Rendering Basics in Blender](../../../../3d-modeling/blender/rendering-basics-blender.md)
-10. How do I export an `.obj` from Adobe Substance Sampler? [Export obj from Substance Sampler](../../../../3d-modeling/export-obj-from-adobe-substance-sampler.md)
+7. How do I fix missing purple textures in Blender? [Reconnect Textures in Blender](https://youtu.be/t5ayHdRapCw)
+8. How do I move the camera in Blender? [Move Camera Video Guide](https://youtu.be/XLAeTAi-2gI?si=_BcabZNWRrZp9Yrf&t=163)
+9. How do I change the lights in Blender? [Change Lights Video Guide](https://youtu.be/XLAeTAi-2gI&t=197)
+10. How do I render in Blender? [Rendering Basics in Blender](../../../../3d-modeling/blender/rendering-basics-blender.md)
+11. How do I export an `.obj` from Adobe Substance Sampler? [Export obj from Substance Sampler](../../../../3d-modeling/export-obj-from-adobe-substance-sampler.md)
 
 ### Photogrammetry 3D Model Creation
 
@@ -90,6 +91,7 @@ lastmod: 2025-09-03T10:10:43
 - [How to Rotate Objects in Blender](https://youtu.be/y6nwGRkL1k4)
 - [How to Duplicate Objects in Blender](https://youtu.be/XtumSUXtkHY)
 - [How to See Textures on Objects in Blender](https://youtu.be/6j0aGrgFCcs)
+- [Reconnect Textures in Blender](https://youtu.be/t5ayHdRapCw)
 - [Blender Basic Render](https://youtu.be/Qw8jl8mKEsY)
 - [Blender User Interface](https://youtu.be/d54uJufn1pA)
 
@@ -182,6 +184,24 @@ lastmod: 2025-09-03T10:10:43
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/MUb7I4lBSZs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Import OBJ in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/JG1msAX7PFo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Reconnect Textures in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/t5ayHdRapCw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
