@@ -1,7 +1,7 @@
 ---
-title: 02.06 Photogrammetry Assignment
+title: 02.06 Photogrammetry Render Assignment
 date: 2025-09-03T12:00:00
-lastmod: 2025-09-02T20:42:11
+lastmod: 2025-09-02T21:25:46
 ---
 
 ## Assignment Deliverables
