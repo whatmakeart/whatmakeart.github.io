@@ -1,7 +1,7 @@
 ---
-title: 02.02 Atmospheric Perspective Project
+title: 02.06 Atmospheric Perspective Project
 date: 2025-09-04T09:00:00Z
-lastmod: 2025-09-04T07:55:49
+lastmod: 2025-09-04T08:55:20
 ---
 
 ## Assignment Deliverables
@@ -14,10 +14,11 @@ lastmod: 2025-09-04T07:55:49
 
 ## Assignment Overview [^ligon]
 
-Key Concepts:
-• Atmospheric Perspective
-• Illusion of Depth
-• Compositional Clarity and Emphasis
+### Key Concepts
+
+- Atmospheric Perspective
+- Illusion of Depth
+- Compositional Clarity and Emphasis
 
 There are several visual clues we use every day to judge the distance or depth of an object. The illusion of depth can be created in two-dimensional art by mimicking the way objects appear in real life when they recede into three-dimensional space. You can adjust the color saturation, the contrast in value and the sharpness of individual elements to mimic Atmospheric Perspective in order to create the illusion of depth in your work.
 
@@ -40,16 +41,6 @@ How do I turn it in?
 Beyond the illusion of depth, the concept of atmospheric perspective can be used to clarify a busy composition and help draw the eye to a focal point within the image.
 Even artists that work in very abstract styles use the human perception of atmospheric perspective to separate and clarify elements in their work. Graphic Artists use the idea of atmospheric perspective for clarity and focus in design. For example, the logo in an advertisement may be highly saturated yet the background is low contrast and low color saturation. This make the view look at the logo or product rather than the background yet allows for the background to give “context” to the product being sold.
 
-## Ideation Sketches
-
-Ideation and concept development are important and essential steps in the creative process. This uncensored and unfiltered activity of idea generation gives way to previously unimagined concepts and thoughts. Many will not be useful but many will connect previously disjointed ideas in your brain into new and intriguing creative breakthroughs.
-For this project you need to make 5 different compositional ideation sketches. Then you need to redraw each of the 5 different compositions a second time. This will make a minimum of 10 compositional sketches.
-There are two main ways of ideation. One is making new ideas from nothing, such as inventing the wheel. The second is iterating over an idea and constantly changing and improving the original idea into new ideas and concepts. Such as taking the original idea of the wheel and them making wagon wheels, car tires, or roller skates.
-
-Submitting Your Sketches
-
-10. Scan or photograph your ideation sketches. Make sure the scans or photos are clear, well-lit and legible. You can submit a series of jpgs of your sketches or you can compile your sketches into a single PDF document. Put the individual jpgs into a folder or put all of the jpgs into a single PDF document into a folder.
-
 ## Create Final Composition
 
 ### Collect Original Content
@@ -62,8 +53,7 @@ Submitting Your Sketches
 
 ### Collect Public Domain Content of Images Not in Cleveland
 
-The number one rule of being an artist is to make new original work. That mean always using your own original content such as photos and videos that you made.
-Artists also routinely take inspiration or are influenced by another creator’s work. Artists also appropriate images from other sources. While it is legal and ethical to make parody work, satire work or to appropriate other artists’ work into your own, in this class you may only use your own images or images explicitly in the public domain.For the purposes of this class the only reason for using images that are not your own is that the images are important to your concept and they cannot be created by you now in Cleveland. If you want a mountain in your project then you will likely need to use an image from the public domain. However, if you want car in your image, even though you may not find the specific car you want in Cleveland, there are plenty of cars so take your own images.
+The number one rule of being an artist is to make new original work. That mean always using your own original content such as photos and videos that you made. Artists also routinely take inspiration or are influenced by another creator’s work. Artists also appropriate images from other sources. While it is legal and ethical to make parody work, satire work or to appropriate other artists’ work into your own, in this class you may only use your own images or images explicitly in the public domain.For the purposes of this class the only reason for using images that are not your own is that the images are important to your concept and they cannot be created by you now in Cleveland. If you want a mountain in your project then you will likely need to use an image from the public domain. However, if you want car in your image, even though you may not find the specific car you want in Cleveland, there are plenty of cars so take your own images.
 
 #### Examples of Reasonable Subject Matter to Use Public Domain Images include:
 

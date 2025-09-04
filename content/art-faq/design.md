@@ -1,7 +1,7 @@
 ---
 title: Design
 date: 2023-05-23T21:59:41
-lastmod: 2025-08-17T22:51:27
+lastmod: 2025-09-04T08:41:17
 ---
 
 Design is an important process in making anything. Design can be good or bad. The term has different meanings depending on the context. It can refer to the process of making a design or designing an object. It can also mean the final design of the image or object.
@@ -48,5 +48,11 @@ A [Charrette](./charrette.md) is a collaborative design process often used in ur
 - Don't forget about color so there is enough contrast to make the text readable
 
 ## Perception
+
+### Perspective
+
+- [Atmospheric Perspective](./atmospheric-perspective.md)
+
+### Visual Illusions
 
 - [Akiyoshi's illusion pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
