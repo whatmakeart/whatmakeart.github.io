@@ -1,30 +1,27 @@
 ---
-title: 02.06 Atmospheric Perspective Project
+title: 02.06 Atmospheric Perspective Assignment
 date: 2025-09-04T09:00:00Z
-lastmod: 2025-09-04T08:55:20
+lastmod: 2025-09-04T11:40:15
 ---
 
 ## Assignment Deliverables
 
-1. Photoshop Images
-2. Exported JPG
-3. YYYYMMDD Lastname Firstname Atmospheric Perspective Ideation Sketches 01.jpg
-4. Labeled folder of all found non-original images used with a PDF listing their sources
-5. Description of process and self assessment
+1. Photoshop `psd` document with all layers and adjustments intact
+   - Label file YYYY-MM-DD Lastname Firsname Atmospheric Perspective.psd
+2. Exported `jpg` or `png` of completed image
+   - Label file YYYY-MM-DD Lastname Firsname Atmospheric Perspective.jpg
+3. Description of process and self assessment `docx` or `pdf`
+   - Label file YYYY-MM-DD Lastname Firsname Atmospheric Perspective Self Assessment
 
 ## Assignment Overview [^ligon]
 
 ### Key Concepts
 
-- Atmospheric Perspective
-- Illusion of Depth
+- [Atmospheric Perspective](./02-01-atmospheric-perspective.md)
+- Illusion of [Depth](./02-02-depth.md)
 - Compositional Clarity and Emphasis
 
-There are several visual clues we use every day to judge the distance or depth of an object. The illusion of depth can be created in two-dimensional art by mimicking the way objects appear in real life when they recede into three-dimensional space. You can adjust the color saturation, the contrast in value and the sharpness of individual elements to mimic Atmospheric Perspective in order to create the illusion of depth in your work.
-
 ## Process
-
-How do I turn it in?
 
 1. Submit a .psd file with all of the layers still visible.
 2. Label the .psd file YYYYMMDD Lastname Firstname Atmospheric Perspective Project.psd
@@ -42,32 +39,6 @@ Beyond the illusion of depth, the concept of atmospheric perspective can be used
 Even artists that work in very abstract styles use the human perception of atmospheric perspective to separate and clarify elements in their work. Graphic Artists use the idea of atmospheric perspective for clarity and focus in design. For example, the logo in an advertisement may be highly saturated yet the background is low contrast and low color saturation. This make the view look at the logo or product rather than the background yet allows for the background to give “context” to the product being sold.
 
 ## Create Final Composition
-
-### Collect Original Content
-
-1. Take and use several (at least 6) individual, current photos as the basis for this project. Take photos of people and separate photos of places.
-2. Use a good camera. Entry level DSLR cameras are at the equipment checkout. We will cover camera operation more in depth in the next project but check a camera out for this project and experiment. A cell phone can work if you are taking images with good lighting but you will be limited to a single aperture and a small camera sensor size.
-3. Take more photos than you think you will use.
-4. Take photos that relate to your ideation sketches. You can also base your ideation sketches on some of your photos. You should work back and forth fluidly from image collection and sketching.
-5. You may use other photos you took as well as long as they were taken in the last few months. The goal is to create new creative content, not reuse old content. Most should be new photographs.
-
-### Collect Public Domain Content of Images Not in Cleveland
-
-The number one rule of being an artist is to make new original work. That mean always using your own original content such as photos and videos that you made. Artists also routinely take inspiration or are influenced by another creator’s work. Artists also appropriate images from other sources. While it is legal and ethical to make parody work, satire work or to appropriate other artists’ work into your own, in this class you may only use your own images or images explicitly in the public domain.For the purposes of this class the only reason for using images that are not your own is that the images are important to your concept and they cannot be created by you now in Cleveland. If you want a mountain in your project then you will likely need to use an image from the public domain. However, if you want car in your image, even though you may not find the specific car you want in Cleveland, there are plenty of cars so take your own images.
-
-#### Examples of Reasonable Subject Matter to Use Public Domain Images include:
-
-- Mountains
-- Snow (at least not now)
-- Deserts
-- A weird animal
-- Volcanos
-
-If you need to use public domain images they should be modified significantly and incorporated into an original and unique composition.
-
-#### Fair Use
-
-### Create Photoshop Document
 
 - Aim for a size of at least 11”x14”, but it can be any size larger. Remember use at least 360 dpi resolution and to select Adobe RGB for the color space.
 - Be sure to work in this created ~11”x14” document and not in one of your image files. If you start working on your project in one of your image files and the image is low resolution then your entire project will be low resolution.
