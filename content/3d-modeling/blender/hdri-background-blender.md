@@ -1,7 +1,7 @@
 ---
 title: HDRI Background - Blender
 date: 2023-04-26T8:30:00-04:00
-lastmod: 2024-08-30T06:37:12
+lastmod: 2025-09-04T20:10:45
 description: How to add an HDRI background environment texture to your Blender 3D modeling scenes.
 featured_image: /3d-modeling/blender/attachments/blender-hdri-background.jpg
 tags:
@@ -23,9 +23,7 @@ tags:
 
 ## How to Add an HDRI Background Environment in Blender
 
-HDRIs are a great way to add a photorealistic look to your renders, and they can also be used to create interesting lighting effects.
-
-Start by creating a new scene and adding a cube to the scene. Then, we will add an HDRI to the background using the World settings.
+HDRIs are a great way to add a photorealistic look to your [Blender](./blender.md) renders, and they can also be used to create interesting lighting effects. Start by creating a new scene and adding a cube to the scene. Then, add an HDRI to the background using the World settings.
 
 ## Instructions
 
@@ -34,12 +32,18 @@ Start by creating a new scene and adding a cube to the scene. Then, we will add 
 3. In the World settings, click on the "Environment Texture" node.
 4. Click on the "Open" button and select an HDRI image file.
 5. The HDRI will now be applied to the background of the scene.
+6. To change the direction of the lighting [rotate the HDRI](./rotate-hdri-blender.md)
 
 ## Tips
 
 - Use the lowest resolution HDRI image for the level of detail needed in the scene to keep render times low.
 - Experiment with different HDRI image files to create different looks for your scenes.
 - Use this technique to add realistic and interesting HDRI backgrounds to your renders.
+
+### HDRI Sources
+
+- [Polyhaven](https://polyhaven.com/hdris) is the place for Creative Commons Zero HDRI images.
+- [BlenderKit](../blender/install-blenderkit-blender.md)
 
 <details><summary>
 
@@ -58,6 +62,7 @@ So where can we get an HDRI? You can create your own. You can even just use a ph
 We can go ahead and see an urban scene, maybe something high contrast and look at this night scene right here, the Golden Bay. I'm going to go ahead and download that. Please note that you can download up to 24K images. Most of the time that's way overkill if you just need some reflections and ambient light that's coming into your project. In fact even 4K can be overkill and you'll probably get away with 1 or 2K images and that will really keep your render times in Blender down when adding complex HDRIs to your project. So I'm going to download the 2K version.
 
 Navigate back to Blender and then click open under Environment Texture to add the HDRI image to your Blender scene. Here I have the Golden_Bay_2K.exr I'll click on that and then I'll open the image. Automatically we start to see that the HDRI is included in our render and you can see how all the light is reflected now onto our little cube. Ff we add other objects such as a plane you can see how the light reflects onto the plane, effects the quality of the shadows, and we can still see lots of that HDRI especially up in the top here it's reflecting the sky. If we were to subdivide this and make it more of a round object, so for example if I add subdivision surface and then click shade smooth.
+
 We now have this sphere that is reflecting the HDRI as well as the bottom background.
 
 So hopefully this helps you add HDRIs to your Blender project so you can have nice great reflections and extra ambient light to make your Blender scenes and renders seem even more real. Happy 3D modeling.

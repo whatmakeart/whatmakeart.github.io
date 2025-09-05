@@ -1,14 +1,14 @@
 ---
 title: Place 3D Models in 2D Photos Using Blender & fSpy
 date: 2024-08-30T13:53:33
-lastmod: 2025-01-21T17:25:00
+lastmod: 2025-09-04T21:03:09
 ---
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/qBePDl2l2hI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-This tutorial provides a comprehensive guide on how to seamlessly integrate any 3D model into a 2D photograph using Blender and the fSpy tool. Below is a detailed step-by-step breakdown of the process, which includes setting up perspective with fSpy, importing that setup into Blender, modeling to match the environment, and adjusting lighting and materials to achieve realistic results.
+This tutorial provides a comprehensive guide on how to seamlessly integrate any 3D model into a 2D photograph using [Blender](./blender.md) and the fSpy tool. Below is a detailed step-by-step breakdown of the process, which includes setting up perspective with fSpy, importing that setup into Blender, modeling to match the environment, and adjusting lighting and materials to achieve realistic results.
 
 ## Using fSpy to Set Up Perspective
 

@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2024-08-21T09:00:00
-lastmod: 2025-08-10T19:33:13
+lastmod: 2025-09-04T21:14:57
 ---
 
 ## Modeling and Expanded Making Syllabus

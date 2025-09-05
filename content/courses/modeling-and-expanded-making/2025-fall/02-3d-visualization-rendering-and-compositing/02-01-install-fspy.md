@@ -1,7 +1,7 @@
 ---
 title: 02.01 Install fSpy
-date: 2024-08-28T09:00:00
-lastmod: 2025-09-04T19:42:15
+date: 2025-09-04T09:30:00
+lastmod: 2025-09-04T21:14:57
 toc: true
 ---
 

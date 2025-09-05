@@ -1,7 +1,7 @@
 ---
 title: 03.06 Sculpture and Expanded Media Install Room Modeling Exercise Assignment
 date: 2024-09-04T09:00:00
-lastmod: 2024-09-06T13:28:01
+lastmod: 2025-09-04T21:12:12
 ---
 
 ## Assignment Deliverables
@@ -15,7 +15,7 @@ lastmod: 2024-09-06T13:28:01
 
 Use measurements taken from the physical space, photos, fSpy, and available floor plans to create and accurate 3D digital model of the Sculpture + Expanded Media Installation Rooms.
 
-- [How to Scale fSpy Camera to Existing 3D Model in Blender](https://youtu.be/okPjal2aFG4)
+- [How to Scale fSpy Camera to Existing 3D Model in Blender](../../../../3d-modeling/blender/scale-fspy-camera-to-existing-3d-model-in-blender.md)
 
 <figure>
 
