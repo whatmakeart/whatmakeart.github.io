@@ -1,7 +1,7 @@
 ---
-title: 02.07 Photo Matching Site Specific Render Assignment
+title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2025-09-04T09:30:00
-lastmod: 2025-09-04T21:13:16
+lastmod: 2025-09-04T21:29:58
 ---
 
 ## Assignment Deliverables

@@ -1,7 +1,7 @@
 ---
-title: 01.07 Reflections, Shadows, and Materials for fSpy Compositing Blender
+title: 02.06 Reflections, Shadows, and Materials for fSpy Compositing Blender
 date: 2025-09-04T09:30:00
-lastmod: 2025-09-04T21:12:43
+lastmod: 2025-09-04T21:19:05
 toc: true
 ---
 
