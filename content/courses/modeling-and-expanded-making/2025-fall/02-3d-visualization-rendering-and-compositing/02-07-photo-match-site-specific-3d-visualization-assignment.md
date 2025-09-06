@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2025-09-04T09:30:00
-lastmod: 2025-09-05T12:54:52
+lastmod: 2025-09-06T11:17:36
 ---
 
 ## Assignment Deliverables
@@ -39,7 +39,7 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 1. Apply the image texture from your reference image onto simple 3D geometry that matches the scene (e.g., ground planes or building facades).
 2. Create an emissive texture using the image texture to simulate a pseudo HDRI lighting setup. This will allow your sculpture to reflect the colors and light from the environment.
 3. Adjust lighting and shadow settings to match the scene's natural light conditions (e.g., sunlight for outdoor, gallery lighting for indoor).
-4. Use HDRIs for the sky for outdoor images.
+4. Use HDRIs for the sky for outdoor images. You can [create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc) in Adobe Substance 3D Stager.
 
 ### Rendering:
 
@@ -56,6 +56,7 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 
 ### Guides
 
+- [Create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc)
 - [HDRI Background Blender](../../../../3d-modeling/blender/hdri-background-blender.md)
 - [Photo Matching with fSpy](../../../../3d-modeling/photo-perspective-matching-with-fspy.md)
 - [Place 3D Model in 2D Photo Blender](../../../../3d-modeling/blender/place-3d-model-in-2d-photo-blender-fspy.md)
