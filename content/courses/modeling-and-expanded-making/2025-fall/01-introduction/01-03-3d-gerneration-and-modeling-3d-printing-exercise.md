@@ -1,7 +1,7 @@
 ---
 title: 01.03 3D Generation and Modeling 3D Print Exercise
 date: 2025-08-29T09:30:00
-lastmod: 2025-08-29T13:47:00
+lastmod: 2025-09-07T06:17:50
 ---
 
 ## Exercise Deliverables
@@ -34,6 +34,8 @@ Some images convert to relatively good 3D meshes. Other images produce an unusab
 3. Save the and label the mesh file.
 
 ## AI Mesh Generation Tools
+
+AI mesh generation uses trained models to generate a 3D mesh from a 2D source image or a text prompt. This technology does not currently produce high quality meshes but it is important to be aware of ongoing developments in the field in order to take advantage of them in your artistic practice.
 
 ### Adobe
 
@@ -79,10 +81,20 @@ If exporting an STL or OBJ from Blender, make sure to subdivide the mesh multipl
 
 ### Slice Meshes and 3D Print with Bambu Studio
 
-Using Bambu Studio, students will slice their 3D objects and combine them into printable 3mf project files.
+Using [Bambu Studio](./01-04-bambu-studio-installation.md), students will slice their 3D objects and combine them into printable 3mf project files.
 
-AI mesh generation uses trained models to generate a 3D mesh from a 2D source image or a text prompt. This technology does not currently produce high quality meshes but it is important to be aware of ongoing developments in the field in order to take advantage of them in your artistic practice.
-
-## Further Reading
+### Further Reading
 
 [LRM: Large Reconstruction Model for Single Image to 3D](https://yiconghong.me/LRM/)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Objective                    | Points |
+| ---------------------------- | ------ |
+| 1st STL Uploaded             | 30     |
+| 2nd STL Uploaded             | 30     |
+| File Management and Labeling | 10     |
+
+</div>

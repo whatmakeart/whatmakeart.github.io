@@ -1,7 +1,7 @@
 ---
 title: 01.06 Slop Slayers Assignment
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-08-30T17:14:25
+lastmod: 2025-09-07T06:19:54
 ---
 
 ## Assignment Deliverables
@@ -118,3 +118,18 @@ AI Slop to Slay 3
 
 - [Painting Tools-](https://helpx.adobe.com/photoshop/using/painting-tools.html)
 - [Mixer Brush](https://helpx.adobe.com/photoshop/using/painting-mixer-brush.html)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Objective                         | Points |
+| --------------------------------- | ------ |
+| PSD Uploaded                      | 20     |
+| Jpg Uploaded                      | 20     |
+| Description and Analysis Uploaded | 20     |
+| Photoshop Questions Uploaded      | 20     |
+| Image Concept and Execution       | 20     |
+| File Management and Labeling      | 10     |
+
+</div>

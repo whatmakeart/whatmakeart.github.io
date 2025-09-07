@@ -1,7 +1,7 @@
 ---
 title: 01.02 Make New Original Content Now In Class Exercise
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-08-29T07:51:24
+lastmod: 2025-09-07T06:24:38
 ---
 
 ## Excercise Deliverables
@@ -65,3 +65,19 @@ lastmod: 2025-08-29T07:51:24
 - [Convert Paths (Pen Tool) to Selection Boarders](https://helpx.adobe.com/photoshop/using/converting-paths-selection-borders.html)
 - [Save Selections and Alpha Channel Masks](https://helpx.adobe.com/photoshop/using/saving-selections-alpha-channel-masks.html)
 - [Photoshop Layer Basics](https://helpx.adobe.com/photoshop/using/layer-basics.html)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Objective                                         | Points |
+| ------------------------------------------------- | ------ |
+| 3 photos of yourself with 1 showing hair in focus | 25     |
+| 3 photos of objects                               | 25     |
+| 1 photo of interior texture                       | 10     |
+| 1 photo of exterior texture                       | 10     |
+| 1 photo of exterior landscape                     | 10     |
+| 1 photo of interior scene                         | 10     |
+| File Management and Labeling                      | 10     |
+
+</div>
