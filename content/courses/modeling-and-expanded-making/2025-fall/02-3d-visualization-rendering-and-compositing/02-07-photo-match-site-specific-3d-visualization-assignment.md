@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2025-09-04T09:30:00
-lastmod: 2025-09-09T12:19:54
+lastmod: 2025-09-09T17:05:41
 ---
 
 ## Assignment Deliverables
@@ -53,12 +53,13 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 - Pay close attention to scale when placing your 3D models in the scene.
 - Experiment with different lighting setups to see how they impact the interaction between your sculpture and its environment.
 - Try using Blender's compositor to enhance the final render, adjusting color grading and exposure as needed.
-- Blender units default to meters while Substance 3D Stager defaults to centimeters. For real world scale in Substance Stager [change the export scale in Blender](https://youtu.be/6bg3M0-8MvE) to 100 to export in centimeters.
+- Blender units default to meters while Adobe Substance 3D Stager defaults to centimeters. For real world scale in Substance Stager [change the export scale in Blender](https://youtu.be/6bg3M0-8MvE) to 100 to export in centimeters.
 
 ### Guides
 
 #### Adobe Substance 3D Stager
 
+- [Street View 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/e8iiHMe5mCQ)
 - [Set Scene Scale in Adobe Substance 3D Stager](https://youtu.be/XlGehCSkZ-o)
 - [Create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc)
 
@@ -74,7 +75,7 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 #### Blender OBJ Handling
 
 - [Import OBJ in Blender](https://youtu.be/JG1msAX7PFo)
-- [Fix Broken Texture Links in Bledner](https://youtu.be/t5ayHdRapCw)
+- [Fix Broken Texture Links in Blender](https://youtu.be/t5ayHdRapCw)
 - [Blender Export Unit Scale](https://youtu.be/6bg3M0-8MvE)
 
 ### Video Guides
@@ -122,7 +123,16 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 #### How to Rotate an HDRI Environment Texture in Blender
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B013GO9Xy1o?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B013GO9Xy1o?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Street View 3D Model Photo Composite Rendering in Adobe Substance 3D Stager
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/e8iiHMe5mCQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
