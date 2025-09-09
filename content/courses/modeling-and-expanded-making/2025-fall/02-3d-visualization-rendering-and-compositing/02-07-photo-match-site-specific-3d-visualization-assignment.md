@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2025-09-04T09:30:00
-lastmod: 2025-09-06T11:17:36
+lastmod: 2025-09-09T06:09:58
 ---
 
 ## Assignment Deliverables
@@ -44,7 +44,7 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 ### Rendering:
 
 1. Render and composite an image for each site.
-2. Use Photoshop and other image editing tools to further composite and touch up the renders.
+2. Use Photoshop and other image editing tools to further composite and touch up the renders. Adobe Substance 3D Stager can export a PSD file with multiple layers for straight forward composite post processing.
 
 ## Assignment Resources
 
@@ -53,6 +53,7 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 - Pay close attention to scale when placing your 3D models in the scene.
 - Experiment with different lighting setups to see how they impact the interaction between your sculpture and its environment.
 - Try using Blender's compositor to enhance the final render, adjusting color grading and exposure as needed.
+- Blender units default to meters while Substance 3D Stager defaults to centimeters. For real world scale in Substance Stager [change the export scale in Blender](https://youtu.be/6bg3M0-8MvE) to 100 to export in centimeters.
 
 ### Guides
 
