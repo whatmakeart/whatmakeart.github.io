@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2025-09-04T09:30:00
-lastmod: 2025-09-09T17:05:41
+lastmod: 2025-09-09T17:57:24
 ---
 
 ## Assignment Deliverables
@@ -60,6 +60,7 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 #### Adobe Substance 3D Stager
 
 - [Street View 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/e8iiHMe5mCQ)
+- [Interior Scene 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/3PGf4lv7i84)
 - [Set Scene Scale in Adobe Substance 3D Stager](https://youtu.be/XlGehCSkZ-o)
 - [Create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc)
 
@@ -133,6 +134,15 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/e8iiHMe5mCQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Interior Scene 3D Model Render Composite Adobe Substance 3D Stager
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/3PGf4lv7i84?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
