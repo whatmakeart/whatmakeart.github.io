@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2025-09-04T09:30:00
-lastmod: 2025-09-09T06:09:58
+lastmod: 2025-09-09T12:19:54
 ---
 
 ## Assignment Deliverables
@@ -57,13 +57,25 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 
 ### Guides
 
+#### Adobe Substance 3D Stager
+
+- [Set Scene Scale in Adobe Substance 3D Stager](https://youtu.be/XlGehCSkZ-o)
 - [Create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc)
+
+#### Blender and fSpy
+
 - [HDRI Background Blender](../../../../3d-modeling/blender/hdri-background-blender.md)
 - [Photo Matching with fSpy](../../../../3d-modeling/photo-perspective-matching-with-fspy.md)
 - [Place 3D Model in 2D Photo Blender](../../../../3d-modeling/blender/place-3d-model-in-2d-photo-blender-fspy.md)
 - [Reflections, Shadows, and Materials for fSpy Compositing](../../../../3d-modeling/blender/reflections-shadows-and-materials-for-fspy-compositing-blender.md)
 - [How to Scale fSpy Camera to Existing 3D Model in Blender](../../../../3d-modeling/blender/scale-fspy-camera-to-existing-3d-model-in-blender.md)
 - [How to Rotate HDRI Environment Texture](../../../../3d-modeling/blender/rotate-hdri-blender.md)
+
+#### Blender OBJ Handling
+
+- [Import OBJ in Blender](https://youtu.be/JG1msAX7PFo)
+- [Fix Broken Texture Links in Bledner](https://youtu.be/t5ayHdRapCw)
+- [Blender Export Unit Scale](https://youtu.be/6bg3M0-8MvE)
 
 ### Video Guides
 
