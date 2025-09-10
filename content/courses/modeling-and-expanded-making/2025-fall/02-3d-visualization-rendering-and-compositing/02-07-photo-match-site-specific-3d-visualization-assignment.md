@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2025-09-04T09:30:00
-lastmod: 2025-09-10T06:03:51
+lastmod: 2025-09-10T06:08:56
 ---
 
 ## Assignment Deliverables
@@ -40,15 +40,16 @@ This assignment is designed to help you develop skills in using fSpy, [Blender](
 
 ### Texture and Lighting
 
-1. Apply the image texture from your reference image onto simple 3D geometry that matches the scene (e.g., ground planes or building facades).
+1. Apply the scene textures from your reference image onto simple 3D geometry that matches the scene (e.g., ground planes or building facades).
 2. Create an emissive texture using the image texture to simulate a pseudo HDRI lighting setup. This will allow your sculpture to reflect the colors and light from the environment.
-3. Adjust lighting and shadow settings to match the scene's natural light conditions (e.g., sunlight for outdoor, gallery lighting for indoor).
+3. Adjust lighting and shadow settings to match the scene's natural light conditions (e.g., sunlight for outdoor, gallery lighting for indoor). Pay attention to the size, shape, height, and falloff of the lights so they match the existing lights in the background photo.
 4. Use HDRIs for the sky for outdoor images. You can [create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc) in Adobe Substance 3D Stager.
 
 ### Rendering:
 
-1. Render and composite an image for each site.
+1. Render and composite an image for each site. Use Blender and/or Adobe Substance 3D Stager to render.
 2. Use Photoshop and other image editing tools to further composite and touch up the renders. Adobe Substance 3D Stager can export a PSD file with multiple layers for straight forward composite post processing.
+   - [Export Material, Object and Depth Masks from 3D Stager to Photoshop](https://youtu.be/V6QnXeIPQ28)
 
 ## Assignment Resources
 
@@ -69,7 +70,7 @@ The assignment can be completed using Adobe Substance 3D Stager.
 - [Interior Scene 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/3PGf4lv7i84)
 - [Exterior Scene 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/H1xpa2vYvx8)
 - [Set Scene Scale in Adobe Substance 3D Stager](https://youtu.be/XlGehCSkZ-o)
-- [Material, Object and Depth Masks from 3D Stager to Photoshop](https://youtu.be/V6QnXeIPQ28)
+- [Export Material, Object and Depth Masks from 3D Stager to Photoshop](https://youtu.be/V6QnXeIPQ28)
 - [Create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc)
 
 #### Blender and fSpy
