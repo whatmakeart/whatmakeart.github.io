@@ -1,12 +1,13 @@
 ---
 title: 03.05 Mashup Slip Cast Sculpture Assignment
 date: 2025-09-10T12:00:00
-lastmod: 2025-08-19T07:52:22
+lastmod: 2025-09-10T11:53:06
 ---
 
 ## Assignment Deliverables
 
-1. Construct a minimum of 1 Mashup Slip Cast Sculpture
+1. Minimum 5 additional slip casts
+2. Construct a minimum of 1 Mashup Slip Cast Sculpture(s)
 
 ## Assignment Overview
 
