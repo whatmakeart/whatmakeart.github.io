@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2025-09-04T09:30:00
-lastmod: 2025-09-09T17:57:24
+lastmod: 2025-09-09T20:31:17
 ---
 
 ## Assignment Deliverables
@@ -15,7 +15,7 @@ lastmod: 2025-09-09T17:57:24
 
 ## Overview
 
-This assignment is designed to help you develop skills in using fSpy, Blender, and Google Street View to create realistic visualizations of potential public art installations. You will learn how to photo match images for outdoor public spaces or indoor gallery environments using fSpy and utilize your previous modular form arrangements as large-scale sculptures. The goal is to understand site context and how your sculpture interacts with the environment.
+This assignment is designed to help you develop skills in using fSpy, [Blender](../../../../3d-modeling/blender/blender.md), [Photoshop](../../../../software/adobe-photoshop/photoshop.md), Adobe Substance 3D Stager, and Google Street View to create realistic visualizations of potential public art installations. You will learn how to photo match images for outdoor public spaces or indoor gallery environments using fSpy and utilize your previous modular form 3d model arrangements as large-scale sculptures. The goal is to understand site context and how your sculptures interact with the potential environment.
 
 ## Instructions
 
@@ -25,13 +25,17 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
    - A photo of an outdoor location where public art might be installed. This photo should be taken by you.
    - A photo of an indoor gallery or public indoor space (e.g., a museum lobby, a large hall, or a gallery space). This photo should be taken by you.
    - A screen shot from Google Street View to choose a location in a distant city or country for a potential public art installation.
-2. Use Photoshop tools and generative fill to remove unwanted elements from the photos and correct levels and white balance.
+2. Use Photoshop tools and generative fill to remove unwanted elements from the photos and correct levels and [white balance](../../../../software/adobe-photoshop/white-balance-quick-photoshop-tutorial.md) as needed.
 
-### Photo Match with fSpy
+### Photo Match with fSpy and Blender Render
 
 1. Import each image into fSpy to set up the correct camera perspective
+   - [Photo Matching with fSpy](../../../../3d-modeling/photo-perspective-matching-with-fspy.md)
 2. Import the fSpy file into Blender with the fSpy Blender Addon.
-3. Append the 3D models of your modular form arrangements from the previous assignment.
+   - [Place 3D Model in 2D Photo Blender](../../../../3d-modeling/blender/place-3d-model-in-2d-photo-blender-fspy.md)
+3. Append or insert the 3D models of your modular form arrangements from the previous assignment.
+   - [Import obj into Blender](https://youtu.be/JG1msAX7PFo)
+   - [Reconnect Textures in Blender](https://youtu.be/t5ayHdRapCw)
 4. Scale and position the 3D models within the Blender scene to simulate how they would look as large-scale sculptures in the real-world environment.
 
 ### Texture and Lighting
@@ -59,8 +63,11 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 
 #### Adobe Substance 3D Stager
 
+The assignment can be completed using Adobe Substance 3D Stager.
+
 - [Street View 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/e8iiHMe5mCQ)
 - [Interior Scene 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/3PGf4lv7i84)
+- [Exterior Scene 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/H1xpa2vYvx8)
 - [Set Scene Scale in Adobe Substance 3D Stager](https://youtu.be/XlGehCSkZ-o)
 - [Create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc)
 
@@ -143,6 +150,15 @@ This assignment is designed to help you develop skills in using fSpy, Blender, a
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/3PGf4lv7i84?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Exterior Scene 3D Model Render Composite Adobe Substance 3D Stager
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/H1xpa2vYvx8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
