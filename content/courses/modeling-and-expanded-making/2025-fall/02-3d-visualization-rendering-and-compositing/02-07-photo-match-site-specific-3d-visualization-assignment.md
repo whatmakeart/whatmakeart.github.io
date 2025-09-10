@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2025-09-04T09:30:00
-lastmod: 2025-09-09T20:31:17
+lastmod: 2025-09-10T06:03:51
 ---
 
 ## Assignment Deliverables
@@ -69,6 +69,7 @@ The assignment can be completed using Adobe Substance 3D Stager.
 - [Interior Scene 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/3PGf4lv7i84)
 - [Exterior Scene 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/H1xpa2vYvx8)
 - [Set Scene Scale in Adobe Substance 3D Stager](https://youtu.be/XlGehCSkZ-o)
+- [Material, Object and Depth Masks from 3D Stager to Photoshop](https://youtu.be/V6QnXeIPQ28)
 - [Create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc)
 
 #### Blender and fSpy
@@ -77,7 +78,6 @@ The assignment can be completed using Adobe Substance 3D Stager.
 - [Photo Matching with fSpy](../../../../3d-modeling/photo-perspective-matching-with-fspy.md)
 - [Place 3D Model in 2D Photo Blender](../../../../3d-modeling/blender/place-3d-model-in-2d-photo-blender-fspy.md)
 - [Reflections, Shadows, and Materials for fSpy Compositing](../../../../3d-modeling/blender/reflections-shadows-and-materials-for-fspy-compositing-blender.md)
-- [How to Scale fSpy Camera to Existing 3D Model in Blender](../../../../3d-modeling/blender/scale-fspy-camera-to-existing-3d-model-in-blender.md)
 - [How to Rotate HDRI Environment Texture](../../../../3d-modeling/blender/rotate-hdri-blender.md)
 
 #### Blender OBJ Handling
@@ -86,7 +86,7 @@ The assignment can be completed using Adobe Substance 3D Stager.
 - [Fix Broken Texture Links in Blender](https://youtu.be/t5ayHdRapCw)
 - [Blender Export Unit Scale](https://youtu.be/6bg3M0-8MvE)
 
-### Video Guides
+### Video Guides for fSpy and Blender
 
 <div class="video-grid">
 
@@ -96,15 +96,6 @@ The assignment can be completed using Adobe Substance 3D Stager.
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7pgDrQzThH0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Perfect Camera Match - Scale fSpy Camera to 3D Model
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/okPjal2aFG4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -135,6 +126,12 @@ The assignment can be completed using Adobe Substance 3D Stager.
 </div>
 </div>
 
+</div>
+
+### Video Guides for Adobe Substance 3D Stager
+
+<div class="video-grid">
+
 <div class="video-card">
 
 #### Street View 3D Model Photo Composite Rendering in Adobe Substance 3D Stager
@@ -159,6 +156,15 @@ The assignment can be completed using Adobe Substance 3D Stager.
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/H1xpa2vYvx8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Material, Object and Depth Masks from 3D Stager to Photoshop
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/V6QnXeIPQ28?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
