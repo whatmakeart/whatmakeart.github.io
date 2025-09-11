@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2025-09-04T09:30:00
-lastmod: 2025-09-10T06:08:56
+lastmod: 2025-09-10T06:10:09
 ---
 
 ## Assignment Deliverables
@@ -93,7 +93,7 @@ The assignment can be completed using Adobe Substance 3D Stager.
 
 <div class="video-card">
 
-### Match Perspective with fSpy
+#### Match Perspective with fSpy
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7pgDrQzThH0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
