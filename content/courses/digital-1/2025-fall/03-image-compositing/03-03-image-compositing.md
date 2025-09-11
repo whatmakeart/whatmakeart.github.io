@@ -1,7 +1,7 @@
 ---
-title: 03.02 Image Compositing
+title: 03.03 Image Compositing
 date: 2025-09-11T09:00:00Z
-lastmod: 2025-09-11T06:29:07
+lastmod: 2025-09-11T08:51:57
 ---
 
 [Create a Depth Map in Photoshop](https://youtu.be/SS6wtrVGCxM)
