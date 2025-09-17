@@ -1,7 +1,7 @@
 ---
 title: 04.02 15 Slip Casts Complete Assignment
 date: 2025-09-17T12:00:00
-lastmod: 2025-09-17T10:29:08
+lastmod: 2025-09-17T13:38:44
 ---
 
 ## Assignment Deliverables
@@ -19,7 +19,7 @@ Casts can be in greenware form, bisque form, fired form or a combination. Have a
 | Assessment    | Weight    |
 | ------------- | --------- |
 | Slip Cast #11 | 20 points |
-| Slip Cast #22 | 20 points |
+| Slip Cast #12 | 20 points |
 | Slip Cast #13 | 20 points |
 | Slip Cast #14 | 20 points |
 | Slip Cast #15 | 20 points |
