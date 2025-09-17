@@ -1,7 +1,7 @@
 ---
 title: 02.06 Atmospheric Perspective Assignment
 date: 2025-09-04T09:00:00Z
-lastmod: 2025-09-17T14:16:33
+lastmod: 2025-09-17T14:22:55
 ---
 
 ## Assignment Deliverables
@@ -50,7 +50,7 @@ Even artists that work in very abstract styles use the human perception of atmos
 9. Finally, put the PSD, the JPG and the folder of Public Domain images all into a folder labeled YYYYMMDD Lastname Firstname Atmospheric Perspective Project
 10. You can compress this folder as a `.zip` file for easy uploading.
 
-### Draft Self Assessment
+### Write Self-Assessment
 
 Examine your image. Write a brief written self assessment of your project results.
 
