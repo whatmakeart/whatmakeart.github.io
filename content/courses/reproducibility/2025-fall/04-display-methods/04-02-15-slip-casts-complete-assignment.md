@@ -1,7 +1,7 @@
 ---
 title: 04.02 15 Slip Casts Complete Assignment
 date: 2025-09-17T12:00:00
-lastmod: 2025-08-19T07:52:22
+lastmod: 2025-09-17T10:29:08
 ---
 
 ## Assignment Deliverables
@@ -10,7 +10,7 @@ lastmod: 2025-08-19T07:52:22
 
 ## Overview
 
-Casts can be in greenware form, bisque form, fired form or a combination.
+Casts can be in greenware form, bisque form, fired form or a combination. Have all 15 slip casts in one place. You may have more that 15 slip casts but need a minimum of 15.
 
 ## Grading Rubric
 

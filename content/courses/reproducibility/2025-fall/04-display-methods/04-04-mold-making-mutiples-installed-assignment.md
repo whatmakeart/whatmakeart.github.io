@@ -1,7 +1,7 @@
 ---
-title: 05.03 Mold Making Multiples Installed Assignment
-date: 2025-09-24T12:00:00
-lastmod: 2025-08-20T15:21:27
+title: 04.04 Mold Making Multiples Installed Assignment
+date: 2025-09-17T12:00:00
+lastmod: 2025-09-17T10:37:06
 ---
 
 ## Assignment Deliverables
