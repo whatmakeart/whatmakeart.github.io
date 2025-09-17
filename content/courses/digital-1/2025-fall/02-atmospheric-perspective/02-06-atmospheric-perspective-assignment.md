@@ -1,7 +1,7 @@
 ---
 title: 02.06 Atmospheric Perspective Assignment
 date: 2025-09-04T09:00:00Z
-lastmod: 2025-09-04T11:54:07
+lastmod: 2025-09-17T14:16:33
 ---
 
 ## Assignment Deliverables
@@ -27,7 +27,7 @@ Beyond the illusion of depth, the concept of atmospheric perspective can be used
 
 Even artists that work in very abstract styles use the human perception of atmospheric perspective to separate and clarify elements in their work. Graphic Artists use the idea of atmospheric perspective for clarity and focus in design. For example, the logo in an advertisement may be highly saturated yet the background is low contrast and low color saturation. This make the view look at the logo or product rather than the background yet allows for the background to give “context” to the product being sold.
 
-## Create Final Composition
+### Create Final Composition
 
 - Aim for a size of at least 11”x14”, but it can be any size larger. Remember use at least 360 dpi resolution and to select Adobe RGB for the color space.
 - Be sure to work in this created ~11”x14” document and not in one of your image files. If you start working on your project in one of your image files and the image is low resolution then your entire project will be low resolution.
@@ -37,7 +37,7 @@ Even artists that work in very abstract styles use the human perception of atmos
 - Use all of the atmospheric perspective techniques (variation in color saturation, value contrast and focus) to further clarify your design and emphasize your focal point.
 - Use photographic elements only, no drawing or painting.
 
-## Process
+### Process
 
 1. Submit a .psd file with all of the layers still visible.
 2. Label the .psd file YYYYMMDD Lastname Firstname Atmospheric Perspective Project.psd
@@ -48,8 +48,36 @@ Even artists that work in very abstract styles use the human perception of atmos
 7. Put all of the images that are not yours into this folder
 8. Put a PDF in the folder that lists the sources of any images that are not yours. Label this PDF YYYYMMDD Lastname Firstname Public Domain Image Sources.pdf
 9. Finally, put the PSD, the JPG and the folder of Public Domain images all into a folder labeled YYYYMMDD Lastname Firstname Atmospheric Perspective Project
+10. You can compress this folder as a `.zip` file for easy uploading.
 
-Rubric:
+### Draft Self Assessment
+
+Examine your image. Write a brief written self assessment of your project results.
+
+- What works well in the project? Why?
+- What would you change about the project? Why?
+- Did you show asmospheric perspective? What techiques did you use?
+- Does the image have overal compositional clarity and focus?
+- What is your favorite part of the project?
+- What is your least favorite part of the project?
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                         | Weight    |
+| ---------------------------------- | --------- |
+| Minimum of 4 levels of depth       | 40 points |
+| Illusion of Depth                  | 30 points |
+| Compositional Clarity and Emphasis | 30 points |
+| PSD File Uploaded                  | 20 points |
+| Exported PNG or JPG uploaded       | 20 points |
+| Self Assessment Uploaded           | 30 points |
+| File Management and Labeling       | 10 points |
+
+</div>
+
+## Rubric:
 
 - Atmospheric Perspective shown(4 depth levels, minimum shown accurately)
 
