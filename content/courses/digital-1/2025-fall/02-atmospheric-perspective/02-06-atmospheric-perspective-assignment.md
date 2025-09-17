@@ -1,7 +1,7 @@
 ---
 title: 02.06 Atmospheric Perspective Assignment
 date: 2025-09-04T09:00:00Z
-lastmod: 2025-09-17T14:22:55
+lastmod: 2025-09-17T14:23:17
 ---
 
 ## Assignment Deliverables
@@ -76,10 +76,6 @@ Examine your image. Write a brief written self assessment of your project result
 | File Management and Labeling       | 10 points |
 
 </div>
-
-## Rubric:
-
-- Atmospheric Perspective shown(4 depth levels, minimum shown accurately)
 
 ## References
 
