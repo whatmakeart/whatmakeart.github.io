@@ -1,7 +1,7 @@
 ---
-title: 04.04 Mold Making Multiples Installed Assignment
+title: 04.04 Mold Making Multiples Installation Preparation Assignment
 date: 2025-09-17T12:00:00
-lastmod: 2025-09-17T10:37:06
+lastmod: 2025-09-17T13:12:36
 ---
 
 ## Assignment Deliverables

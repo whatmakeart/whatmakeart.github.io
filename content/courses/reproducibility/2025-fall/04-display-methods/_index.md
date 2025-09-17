@@ -1,5 +1,5 @@
 ---
-title: 04 Alternative Casting Materials
+title: 04 Display Methods
 date: 2025-09-17T12:00:00
-lastmod: 2025-08-19T07:52:22
+lastmod: 2025-09-17T12:46:36
 ---
