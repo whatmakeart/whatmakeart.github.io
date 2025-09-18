@@ -1,7 +1,7 @@
 ---
 title: 04.01 Color Theory
-date: 2025-09-17T09:00:00Z
-lastmod: 2025-09-18T07:50:38
+date: 2025-09-18T09:00:00Z
+lastmod: 2025-09-18T11:23:37
 toc: true
 ---
 

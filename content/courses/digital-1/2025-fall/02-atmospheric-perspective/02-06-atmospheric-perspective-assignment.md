@@ -1,7 +1,7 @@
 ---
 title: 02.06 Atmospheric Perspective Assignment
 date: 2025-09-04T09:00:00Z
-lastmod: 2025-09-17T14:23:17
+lastmod: 2025-09-18T11:23:05
 ---
 
 ## Assignment Deliverables
@@ -54,12 +54,12 @@ Even artists that work in very abstract styles use the human perception of atmos
 
 Examine your image. Write a brief written self assessment of your project results.
 
-- What works well in the project? Why?
-- What would you change about the project? Why?
+- What were the 4 levels of depth that you put in your composition? Which levels work better than others? Why?
 - Did you show asmospheric perspective? What techiques did you use?
-- Does the image have overal compositional clarity and focus?
+- Does your composition have focus and clarity? Why or why not? What visual decisions did you make to make the composition have a clear focal point and visual weight?
 - What is your favorite part of the project?
 - What is your least favorite part of the project?
+- Looking at your composition again, what stands out? Does the atmospheric perspective work well? Are there places it is less successful? What would you change about it if you had more time to work on it?
 
 ## Grading Rubric
 
