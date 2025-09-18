@@ -1,7 +1,7 @@
 ---
 title: 04.04 Crop and Thirds Composition Exercise
 date: 2025-09-18T09:00:00Z
-lastmod: 2025-09-18T11:46:24
+lastmod: 2025-09-18T13:08:43
 ---
 
 ## Exercise Deliverables
@@ -21,7 +21,9 @@ lastmod: 2025-09-18T11:46:24
 
 ### Add Rule of Thirds Grid in Photoshop
 
-1. In Photoshop > Preferences > Guides, Grids & Slices > change Grid preferences to Gridline every 100% and 3 Subdivisions.
+1. In Photoshop, in the top menu bar:
+   - On Windows: Edit > Preferences > Guides, Grids & Slices > change Grid preferences to Gridline every 100% and 3 Subdivisions.
+   - On Mac: Photoshop > Settings > Guides, Grids & Slices > change Grid preferences to Gridline every 100% and 3 Subdivisions.
 2. To be able to see the grid, in the menu bar go to View > Show > Grid or (Command + ‘) (Control + ‘)
 3. Select the Line Tool.
 4. Change the height and width to a suitable size and select a stroke and fill color.
