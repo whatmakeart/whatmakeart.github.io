@@ -1,7 +1,7 @@
 ---
 title: How to Critique Art
 date: 2021-04-05T08:56:42
-lastmod: 2025-08-11T17:41:38
+lastmod: 2025-09-18T06:02:16
 ---
 
 ## What is a Critique?
@@ -56,6 +56,8 @@ The success of the critique requires everyone’s participation both verbally an
 ## Critique Etiquette
 
 [This](./art-school-critique-no-nos.md) is a list of [art critique, do's and don'ts](./art-school-critique-no-nos.md) assembled by faculty and students from real critique experiences.
+
+## References
 
 [^1]: Kendall Buster and Paula Crawford, The Critique Handbook: A Sourcebook and Survival Guide. Upper Saddle River: Pearson Education, 2007, 93.
 [^2]: Macnamara, B. N., Moreau, D., & Hambrick, D. Z. (2016). The Relationship Between Deliberate Practice and Performance in Sports: A Meta-Analysis. _Perspectives on Psychological Science, 11_(3), 333-350. [https://doi.org/10.1177/1745691616635591](https://doi.org/10.1177/1745691616635591)

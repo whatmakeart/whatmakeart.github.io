@@ -1,7 +1,7 @@
 ---
 title: Design
 date: 2023-05-23T21:59:41
-lastmod: 2025-09-04T08:41:17
+lastmod: 2025-09-18T07:50:38
 ---
 
 Design is an important process in making anything. Design can be good or bad. The term has different meanings depending on the context. It can refer to the process of making a design or designing an object. It can also mean the final design of the image or object.
@@ -24,6 +24,7 @@ The two most important principles of design are variety and unity. These exist o
 12. Pattern
 13. Hierarchy
 14. Emphasis
+15. [Color](./color-theory.md)
 
 ## Design Process
 

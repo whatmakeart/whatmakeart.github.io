@@ -1,9 +1,7 @@
 ---
 title: How to Create an Artist Budget
 date: 2023-05-26T03:24:45
-lastmod: 2023-09-22T05:47:32
-tags:
-  - stub
+lastmod: 2025-09-18T06:00:18
 ---
 
 ## Write a project budget in Excel
@@ -20,7 +18,7 @@ tags:
 5. Format your budget worksheet. Use bolding, italics, and borders to make your budget easy to read and understand. You may also want to add charts or graphs to visualize your data.
 6. Save your budget worksheet and share it with your project team or client.
 
-Tips for writing a project budget in Excel:
+### Tips for writing a project budget in Excel
 
 - Use formulas to calculate the total cost for each item and the total budget for the project. This will make it easier to update your budget as needed.
 - Use conditional formatting to highlight important information, such as items that are over budget.
