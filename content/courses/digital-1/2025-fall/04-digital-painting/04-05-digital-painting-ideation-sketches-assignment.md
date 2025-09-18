@@ -1,15 +1,13 @@
 ---
 title: 04.05 Digital Painting Assignment
 date: 2025-09-18T09:00:00Z
-lastmod: 2025-09-18T11:48:27
+lastmod: 2025-09-18T13:36:35
 ---
 
 ## Assignment Deliverables
 
 1. Ideation sketches of minimum 5 thumbnails and 2 revised sketches `png` or `jpg` or `pdf`
-   - Label files YYYYMMDD Lastname Firstname Atmospheric Perspective Ideation Sketches 01
-2. Minimum of 5 collected original image sources `png` or `jpg`
-   - Label files YYYYMMDD Lastname Firstname (image description)
+   - Label files YYYYMMDD Lastname Firstname Digital Painting Ideation Sketches 01
 
 _Note: You can archive or compress all of the files into a `.zip` archive file for easy assignment uploading. Make sure to double check that all of the required files are in the zip archive._
 
