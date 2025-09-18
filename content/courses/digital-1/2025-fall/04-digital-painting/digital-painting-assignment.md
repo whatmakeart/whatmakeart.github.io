@@ -1,7 +1,7 @@
 ---
 title: Digital Painting Assignment
 date: 2025-09-18T07:08:15
-lastmod: 2025-09-18T07:50:38
+lastmod: 2025-09-18T08:48:15
 ---
 
 Pick a Color Scheme:
