@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry
 date: 2024-09-25T05:06:07
-lastmod: 2025-09-03T06:21:11
+lastmod: 2025-09-19T06:33:23
 ---
 
 [Photogrammetry software](./photogrammetry-software.md) uses multiple 2D images takes from different yet overlapping angles to create a 3D mesh with textures. To achieve the highest detail and most accurate 3D model from the real world, [3D scanning](./3d-scanning.md) is recommended.
@@ -15,7 +15,7 @@ lastmod: 2025-09-03T06:21:11
 
 ## Photogrammetry Tutorials
 
-### Photogrammetry Software
+### Software Guides
 
 - [Photogrammetry with Adobe Substance Sampler](../3d-modeling/photogrammetry-with-adobe-substance-sampler.md) - needs a folder of images
 - [Photogrammetry with Photocatch](../3d-modeling/photogrammetry-with-photocatch.md) - works with a video or a folder of images
@@ -37,6 +37,8 @@ lastmod: 2025-09-03T06:21:11
 <div class="video-card">
 
 ### Photogrammetry with Adobe Substance 3D Sampler
+
+_Note: Substance 3D Sampler removed 3D Object creation in version 5.1 but it is still included in version 5.0 and earlier._
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/wUA6qzFK_FU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
