@@ -1,7 +1,7 @@
 ---
-title: 04.02 3D Modeling Student Questions
+title: 04.03 3D Modeling Student Questions
 date: 2024-10-09T09:00:00
-lastmod: 2025-09-20T15:10:07
+lastmod: 2025-09-20T15:25:24
 ---
 
 1. How to select a texture on an object?

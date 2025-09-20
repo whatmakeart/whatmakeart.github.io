@@ -1,7 +1,7 @@
 ---
-title: 03.06 Sculpture and Expanded Media 212A Room Modeling Exercise Assignment
+title: 04.05 Room 3D Modeling Revision and Texture Assignment
 date: 2024-09-04T09:00:00
-lastmod: 2025-09-20T15:20:33
+lastmod: 2025-09-20T15:25:57
 ---
 
 ## Assignment Deliverables
@@ -30,6 +30,8 @@ Design and layout a new conceptual room and create a detailed 3D model of your v
 
 ## Assignment Resources
 
+- [Student 3D Modeling Questions from Class](./04-03-3d-modeling-student-questions.md)
+- [How to Install Blenderkit](../../../../3d-modeling/blender/install-blenderkit-blender.md)]
 - [Smart UV Project](../../../../3d-modeling/blender/smart-uv-project-blender.md)
 - [How to Scale fSpy Camera to Existing 3D Model in Blender](../../../../3d-modeling/blender/scale-fspy-camera-to-existing-3d-model-in-blender.md)
 
