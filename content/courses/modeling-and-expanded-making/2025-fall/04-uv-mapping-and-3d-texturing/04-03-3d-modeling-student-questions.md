@@ -1,11 +1,11 @@
 ---
 title: 04.03 3D Modeling Student Questions
 date: 2024-10-09T09:00:00
-lastmod: 2025-09-22T17:30:16
+lastmod: 2025-09-22T19:49:49
 ---
 
 1. How to select a texture on an object?
-   - [Select texture on objects with multiple materials]()
+   - Select texture on objects with multiple materials
 2. How to add a texture to a model?
    - [Add Image Texture from BlenderKit](https://youtu.be/wQZ9idS_9ro)
    - [Add Procedural Texture from BlenderKit](https://youtu.be/tu6TzqyhDNQ)
@@ -32,10 +32,55 @@ lastmod: 2025-09-22T17:30:16
 
 <div class="video-card">
 
+### Add Image Texture from BlenderKit
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/wQZ9idS_9ro?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Add Procedural Texture from BlenderKit
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/tu6TzqyhDNQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Reconnect a Missing Texture to an Imported OBJ
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/t5ayHdRapCw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
 ### Transparent Glass Window Material
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/kVRb6n5nKFU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Soften Edges with Bevel and Subdivision Surface in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/qyMhNzq-HiY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Rotate an HDRI in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B013GO9Xy1?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 

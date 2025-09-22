@@ -1,11 +1,11 @@
 ---
 title: Rotate HDRI in Blender
 date: 2024-08-30T16:01:04
-lastmod: 2025-09-04T21:14:57
+lastmod: 2025-09-22T19:49:38
 ---
 
 <div class="container-16-9-iframe">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B013GO9Xy1o?si=IrzJR1EB-Q_UQQwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B013GO9Xy1o?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 Often after [adding an HDRI](./hdri-background-blender.md) to [Blender](./blender.md) scene it is ofter necessary to rotate the HDRI so it matches the desired lighting direction. Rotating an HDRI in Blender is straightforward using a texture coordinate node in the World shading tab.
