@@ -1,7 +1,7 @@
 ---
 title: 04.03 3D Modeling Student Questions
 date: 2024-10-09T09:00:00
-lastmod: 2025-09-22T19:49:49
+lastmod: 2025-09-22T19:55:38
 ---
 
 1. How to select a texture on an object?
@@ -80,7 +80,7 @@ lastmod: 2025-09-22T19:49:49
 ### Rotate an HDRI in Blender
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B013GO9Xy1?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B013GO9Xy1o?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
