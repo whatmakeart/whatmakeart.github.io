@@ -1,7 +1,7 @@
 ---
 title: 04.03 3D Modeling Student Questions
 date: 2024-10-09T09:00:00
-lastmod: 2025-09-22T19:55:38
+lastmod: 2025-09-23T13:35:08
 ---
 
 1. How to select a texture on an object?
@@ -27,6 +27,7 @@ lastmod: 2025-09-22T19:55:38
    - [Rotate Sky Texture for Interior Architecture Visualization](https://youtu.be/Wtn_KekptBQ)
 10. How to change a sun light?
 11. How to change wide angle vs telephoto lens of the camera in Blender?
+    - [Change Camera Field of View](https://youtu.be/gEYvT4AIvHY)
 
 <div class="video-grid">
 
@@ -90,6 +91,15 @@ lastmod: 2025-09-22T19:55:38
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Wtn_KekptBQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Change Camera Field of Viewn
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/gEYvT4AIvHY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
