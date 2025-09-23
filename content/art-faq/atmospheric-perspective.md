@@ -1,7 +1,7 @@
 ---
 title: Atmospheric Perspective
 date: 2023-05-23T21:59:41
-lastmod: 2025-09-03T22:16:09
+lastmod: 2025-09-23T05:32:20
 ---
 
 There are several visual clues we use every day to judge the distance or [depth](depth.md) of an object. The illusion of depth can be created in two-dimensional art by mimicking the way objects appear in real life when they recede into three-dimensional space. You can adjust the color saturation, the contrast in value and the sharpness of individual elements to mimic Atmospheric Perspective in order to create the illusion of depth in your work.
@@ -84,6 +84,20 @@ If the sky is blue because all of the blue light is scattered around more than t
 
 Remember to also consider shifting the color to the red end of the spectrum for creative looks with atmospheric perspective.
 
+## Examples in Art
+
+<figure>
+
+[![The Harvesters Pieter Bruegel The Elder](./attachments/1565-The-Harvesters-Pieter-Bruegel-the-Elder-Atmospheric-Perspective.jpg)](./attachments/1565-The-Harvesters-Pieter-Bruegel-the-Elder-Atmospheric-Perspective.jpg)
+
+<figcaption>
+
+_The Harvesters_, Pieter Bruegel the Elder, Oil on wood, 1565 [^harvesters]
+
+</figcaption>
+</figure>
+
 ## References
 
 [^nws]: National Weather Service, Flagstaff, AZ Weather Forecast Office. [Why is the Sky Blue?](https://www.weather.gov/fgz/SkyBlue)
+[^harvesters]: [The Harvesters](https://www.metmuseum.org/art/collection/search/435809) The Metropolitan Museum of Art

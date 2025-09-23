@@ -1,13 +1,13 @@
 ---
+title: Auto Mirror - Blender
 date: 2022-11-06T8:30:00-04:00
-lastmod: 2025-08-26T21:22:00
+lastmod: 2025-09-23T05:16:49
 description: In this Blender tutorial, I'll show you how to quickly mirror objects using the Auto Mirror add-on.
 featured_image: /3d-modeling/blender/attachments/blender-auto-mirror.jpg
 tags:
   - Blender
   - 3D Modeling
   - Tutorial
-title: Auto Mirror - Blender
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f7UeiFP0Gvc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -1,7 +1,7 @@
 ---
 title: Reproducibility in Art
 date: 2024-12-07T07:12:43
-lastmod: 2025-08-27T11:14:27
+lastmod: 2025-09-23T05:24:01
 ---
 
 What is reproducibility? Does the original matter? Is a "reproduced" reproduction just as valuable? Is a copy of a book still the book?
@@ -149,9 +149,9 @@ Art Rogers' photograph (left), Jeff Koons' work (right) _(This image is included
 
 ### Duchamp Forever
 
-Although not the first nor the only, Marcell Duchamp engaged in the appropriation and commodification of images by reproducing and modifying known images. Duchamp also created multiple ways to reproduce [found objects](../sculpture/found-objects.md). A straight forward way was by authorising curators to purchace new "versions" of his signature readymade _Fountain_ urinal. Later he commisioned handmade copies of previously lost readymades based on photos. A handcrafted urinal made from clay was then cast and enamled at a factory to create editions of multiple reproductions. Some of these reproductions are signed R. Mutt while others are blank. Is only the "chosen" urinal by Duchamp the real artwork? Is any urinal made at the same time as the orginal the artwork? Is the clay reproduction the artwork? What about the casts?
+Although not the first nor the only, Marcell Duchamp engaged in the appropriation and commodification of images by reproducing and modifying known images. Duchamp also created multiple ways to reproduce [found objects](../sculpture/found-objects.md). A straight forward way was by authorizing curators to purchase new "versions" of his signature readymade _Fountain_ urinal. Later he commissioned handmade copies of previously lost readymades based on photos. A handcrafted urinal made from clay was then cast and enameled at a factory to create editions of multiple reproductions. Some of these reproductions are signed R. Mutt while others are blank. Is only the "chosen" urinal by Duchamp the real artwork? Is any urinal made at the same time as the original the artwork? Is the clay reproduction the artwork? What about the casts?
 
-Duchamp chose a mass produced postcard of the _Mona Lisa_ to be a readymade. He taped the postcard to a piece of paper, added a drawn on mustache to the image, taped on the letters L H O O Q, and signed it "TABLEAU DADA PAR MARCEL DUCHAMP". Is the painting famous because of all the cheap reproduced souvenier merchandise or do the cheap souveniers appear once the painting is famous? If the image had not been so mass-produced it would not have been able to be selected as a readymade found object by Duchamp.
+Duchamp chose a mass produced postcard of the _Mona Lisa_ to be a readymade. He taped the postcard to a piece of paper, added a drawn on mustache to the image, taped on the letters L H O O Q, and signed it "TABLEAU DADA PAR MARCEL DUCHAMP". Is the painting famous because of all the cheap reproduced souvenir merchandise or do the cheap souvenirs appear once the painting is famous? If the image had not been so mass-produced it would not have been able to be selected as a readymade found object by Duchamp.
 
 Most humans have not and will not see the _Mona Lisa_ in person, but the image is ubiquitous across the globe. Numerous remixes of the image have been created. What happens to and artwork or an image with so much reproduction?
 
@@ -181,11 +181,11 @@ Marcel Duchamp, _L.H.O.O.Q._, 1919, originally published in 391, n. 12, March 19
 <div class="gallery-grid">
 <figure>
 
-[![Flag of Mona Lisa smoking a joint next to a flag Alice and a hooka smoking catepillar as seen through the window of a smoke shop](./attachments/2025-08-27-mona-lisa-smoking-joint.jpg)](./attachments/2025-08-27-mona-lisa-smoking-joint.jpg)
+[![Flag of Mona Lisa smoking a joint next to a flag Alice and a hooka smoking caterpillar as seen through the window of a smoke shop](./attachments/2025-08-27-mona-lisa-smoking-joint.jpg)](./attachments/2025-08-27-mona-lisa-smoking-joint.jpg)
 
 <figcaption>
 
-Flag of Mona Lisa smoking a joint next to a flag Alice and a hooka smoking catepillar as seen through the window of a smoke shop. 2025. Photo by Jimmy Kuehnle.
+Flag of Mona Lisa smoking a joint next to a flag Alice and a hooka smoking caterpillar as seen through the window of a smoke shop. 2025. Photo by Jimmy Kuehnle.
 
 </figcaption>
 </figure>
