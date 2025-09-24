@@ -1,19 +1,19 @@
 ---
 title: 06.07 Select Three Public Domain Images
 date: 2025-10-01T12:00:00
-lastmod: 2025-08-20T15:21:27
+lastmod: 2025-09-24T06:29:39
 ---
 
 ## Assignment Deliverables
 
 1. Upload 3 images sourced from the public domain.
-   - Label image files YYYYMMDD Lastname Firstname public domain image 1.ext (.png, .jpg, .tiff)
+   - Label image files YYYY-MM-DD Lastname Firstname public domain image 1.ext (.png, .jpg, .tiff)
 2. Upload a `PDF` or `docx` with information about the image and source URL
    - Label file YYYYMMDD Lastname Firstname image source information
 
 ## Assignment Overview
 
-Images must be sourced from the [public domain](./06-05-public-domain.md) or be n image that you have a license to. The images may not be created by you.
+Images must be sourced from the [public domain](./06-05-public-domain.md) or be an image that you have a license to. The images may not be created by you.
 
 Image information to include
 

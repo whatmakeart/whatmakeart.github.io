@@ -1,16 +1,16 @@
 ---
 title: 05.04 Mold Making Multiples Installation Preparation Assignment
 date: 2025-09-17T12:00:00
-lastmod: 2025-09-23T20:43:11
+lastmod: 2025-09-24T06:29:39
 ---
 
 ## Assignment Deliverables
 
-1. Complete, considered, polished, and finished installation of multiple cast objects
+1. Complete, considered, polished, and finished installation of multiple slip cast objects
 
 ## Assignment Overview
 
-Research images of existing installations of multiple objects. Look at images of grocery store aisles, clothing stores, car lots, trash dumps, etc. Think about what enhances the display of multiple objects. You can emphasize the multiple of play it down. Your decisions should be intentional.
+Review your research images of existing installations of multiple objects. Look at images of grocery store aisles, clothing stores, car lots, trash dumps, etc. Think about what enhances the display of multiple objects. You can emphasize the multiple of play it down. Your decisions should be intentional.
 
 Fabricate any needed display structures such as shelves, hanging devices, support structures.
 
