@@ -1,7 +1,7 @@
 ---
 title: 05.02 Generated 3D Model from 2D Image 3D Print Assignment
 date: 2025-09-24T12:00:00
-lastmod: 2025-09-23T20:27:06
+lastmod: 2025-09-23T20:43:00
 ---
 
 ## Assignment Deliverables
@@ -35,6 +35,7 @@ Use a 2D to 3D Model generator to make a 3D model from a 2D public domain image.
 
 ### Resources
 
+- [Sparc3D Project Page](https://lizhihao6.github.io/Sparc3D/)
 - [From 2D to High-Res 3D with Sparc3D](https://youtu.be/1auPRUakffQ)
 - [How to Import a GLB into Blender](https://youtu.be/V1q5w6onuCE)
 - [Triangle Statistics in Blender](https://youtu.be/hR83_OUozhY)
@@ -48,7 +49,7 @@ Use a 2D to 3D Model generator to make a 3D model from a 2D public domain image.
 #### From 2D to High-Res 3D with Sparc3D
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/wQZ9idS_9ro?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/1auPRUakffQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
