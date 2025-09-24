@@ -1,12 +1,12 @@
 ---
 title: 04.04 Multiples Installation Research and Design Assignment
 date: 2025-09-17T12:00:00
-lastmod: 2025-09-24T06:15:45
+lastmod: 2025-09-24T13:40:30
 ---
 
 ## Assignment Deliverables
 
-1. Refined sketches a plan for the display of multiple objects
+1. Ideation sketches and refined sketches of a plan for the display of multiple objects. Include images from the design research.
    - Label files YYYY-MM-DD Lastname Firstname (`.pdf`, `.jpg`, `.png`, `.zip`)
 
 ## Assignment Overview
@@ -22,7 +22,7 @@ Look at images of:
 - flower beds
 - apartment balconies
 
-Think about what enhances the display of multiple objects. You can emphasize the multiple of play it down. Your decisions should be intentional Ideate and sketch ideas for any needed display structures such as shelves, hanging devices, support structures. Your installation research and design plan should be complete before the start of class.
+Think about what enhances the display of multiple objects. You can emphasize the multiple of play it down. Your decisions should be intentional Ideate and sketch ideas for any needed display structures such as shelves, hanging devices, support structures. Your installation research and design plan should be complete before the start of class. After completing your research spend 20 - 30 minutes sketching out installation ideas.
 
 ## Grading Rubric
 
