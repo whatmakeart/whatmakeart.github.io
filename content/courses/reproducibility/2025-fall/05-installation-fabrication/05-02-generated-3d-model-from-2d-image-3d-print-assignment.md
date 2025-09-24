@@ -1,7 +1,7 @@
 ---
 title: 05.02 Generated 3D Model from 2D Image 3D Print Assignment
 date: 2025-09-24T12:00:00
-lastmod: 2025-09-24T14:24:35
+lastmod: 2025-09-24T19:51:39
 ---
 
 ## Assignment Deliverables
@@ -14,7 +14,7 @@ lastmod: 2025-09-24T14:24:35
 
 ## Overview
 
-Use the [Sparc3D](https://lizhihao6.github.io/Sparc3D/) 2D image to 3D M=model generator to make a 3D model from a 2D public domain image. Make a 3D Print of this generated model as a method of [reproducibility](../01-mold-making/01-01-reproducibility-in-art.md). Once the model is 3D printed it can be printed again, and again, and again. Multiples can be printed simultaneously.
+Use the [Sparc3D](https://lizhihao6.github.io/Sparc3D/) 2D image to 3D Model generator to make a 3D model from a 2D public domain image. Make a 3D Print of this generated model as a method of [reproducibility](../01-mold-making/01-01-reproducibility-in-art.md). Once the model is 3D printed it can be printed again, and again, and again. Multiples can be printed simultaneously.
 
 ### Process
 
@@ -28,7 +28,7 @@ Use the [Sparc3D](https://lizhihao6.github.io/Sparc3D/) 2D image to 3D M=model g
 8. Clean up the mesh as needed to remove unwanted parts or add additional parts.
 9. Install the Blender 3D Print Toolbox. [How to Install 3D Print Toolbox Blender Addon](https://youtu.be/_E-b6CENHms)
 10. Ensure that the mesh is _manifold_ or watertight. [How to Make 3D Model Manifold](https://youtu.be/beAfWDEdjCc)
-11. Export an `STL` file for 3D printing.
+11. Export an `STL` file for 3D printing. [How to Export STL from Blender](https://youtu.be/xkMdZJDfE3o&t=134)
 12. Import the `STL` file into Bambu Studio. [How to Import STL into Bambu Studio](https://youtu.be/oy8qJwpbzyQ)
 13. Size the model appropriately with the scale tool. Enable add supports for overhangs. Slice the model and view the total amount of filament and estimated print time. _Prints consuming over 250g of filament cost an additional $0.50 per 25g._ [Fab Studios Filament Store](https://my.cia.edu/ICS/Departments/CIA_Store/Fabrication_Studios/Rapid_Prototyping/)
 14. Print the model on the 3D printers in Fab Studios. _Note: Prints (or series of prints) under 250g are free and do not require purchase.
