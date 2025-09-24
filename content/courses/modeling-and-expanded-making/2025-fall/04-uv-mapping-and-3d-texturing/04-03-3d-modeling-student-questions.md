@@ -1,7 +1,7 @@
 ---
 title: 04.03 3D Modeling Student Questions
 date: 2024-10-09T09:00:00
-lastmod: 2025-09-23T13:35:08
+lastmod: 2025-09-23T17:10:48
 ---
 
 1. How to select a texture on an object?
@@ -21,6 +21,7 @@ lastmod: 2025-09-23T13:35:08
 6. How to not have sharp corners in renders?
    - [Soften Edges with Bevel and Subdivision Surface in Blender](https://youtu.be/qyMhNzq-HiY)
 7. How to recolor and change texture?
+   - [Change Color of Image Texture with Hue/Saturation Shading Node](https://youtu.be/ABMlEPFRlxU)
 8. Edit the rotation or location in an HDRI environment texture?
    - [Rotate an HDRI in Blender](../../../../3d-modeling/blender/rotate-hdri-blender.md)
 9. How to change the sun in a sky texture?
@@ -78,6 +79,15 @@ lastmod: 2025-09-23T13:35:08
 
 <div class="video-card">
 
+### Change Color of Image Texture with Hue/Saturation Shading Node
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ABMlEPFRlxU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
 ### Rotate an HDRI in Blender
 
 <div class="iframe-16-9-container">
@@ -96,7 +106,7 @@ lastmod: 2025-09-23T13:35:08
 
 <div class="video-card">
 
-### Change Camera Field of Viewn
+### Change Camera Field of View
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/gEYvT4AIvHY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
