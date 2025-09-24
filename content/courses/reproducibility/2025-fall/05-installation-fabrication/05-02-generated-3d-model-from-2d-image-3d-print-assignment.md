@@ -1,7 +1,7 @@
 ---
 title: 05.02 Generated 3D Model from 2D Image 3D Print Assignment
 date: 2025-09-24T12:00:00
-lastmod: 2025-09-24T11:55:47
+lastmod: 2025-09-24T14:24:35
 ---
 
 ## Assignment Deliverables
@@ -38,8 +38,8 @@ Use the [Sparc3D](https://lizhihao6.github.io/Sparc3D/) 2D image to 3D M=model g
 
 #### External Resources
 
-- [Sparc3D Project Page](https://lizhihao6.github.io/Sparc3D/)
 - [Hitem3D](https://hitem3d.ai/) - As of writing, offeres 2 free model generations with textures without waiting. Requires email signup.
+- [Sparc3D Project Page](https://lizhihao6.github.io/Sparc3D/)
 - [Bambu Studio Quick Start Wiki](https://wiki.bambulab.com/en/software/bambu-studio/studio-quick-start)
 
 <div class="video-grid">
@@ -86,6 +86,15 @@ Use the [Sparc3D](https://lizhihao6.github.io/Sparc3D/) 2D image to 3D M=model g
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/_E-b6CENHms?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### How to Make 3D Model Manifold
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/beAfWDEdjCc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 

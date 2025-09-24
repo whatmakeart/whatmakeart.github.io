@@ -1,7 +1,7 @@
 ---
 title: 04.04 Multiples Installation Research and Design Assignment
 date: 2025-09-17T12:00:00
-lastmod: 2025-09-24T13:40:30
+lastmod: 2025-09-24T14:22:03
 ---
 
 ## Assignment Deliverables
@@ -21,6 +21,7 @@ Look at images of:
 - trash dumps
 - flower beds
 - apartment balconies
+- skateboard shops
 
 Think about what enhances the display of multiple objects. You can emphasize the multiple of play it down. Your decisions should be intentional Ideate and sketch ideas for any needed display structures such as shelves, hanging devices, support structures. Your installation research and design plan should be complete before the start of class. After completing your research spend 20 - 30 minutes sketching out installation ideas.
 
