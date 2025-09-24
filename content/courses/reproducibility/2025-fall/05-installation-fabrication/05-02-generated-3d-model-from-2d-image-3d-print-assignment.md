@@ -1,7 +1,7 @@
 ---
 title: 05.02 Generated 3D Model from 2D Image 3D Print Assignment
 date: 2025-09-24T12:00:00
-lastmod: 2025-09-24T06:29:18
+lastmod: 2025-09-24T11:55:47
 ---
 
 ## Assignment Deliverables
@@ -27,9 +27,9 @@ Use the [Sparc3D](https://lizhihao6.github.io/Sparc3D/) 2D image to 3D M=model g
 7. Reduce the number of triangles in the mesh file to under 1 million. [How to Reduce Triangles in Blender](https://youtu.be/xkMdZJDfE3o)
 8. Clean up the mesh as needed to remove unwanted parts or add additional parts.
 9. Install the Blender 3D Print Toolbox. [How to Install 3D Print Toolbox Blender Addon](https://youtu.be/_E-b6CENHms)
-10. Ensure that the mesh is _manifold_ or watertight.
+10. Ensure that the mesh is _manifold_ or watertight. [How to Make 3D Model Manifold](https://youtu.be/beAfWDEdjCc)
 11. Export an `STL` file for 3D printing.
-12. Import the `STL` file into Bambu Studio.
+12. Import the `STL` file into Bambu Studio. [How to Import STL into Bambu Studio](https://youtu.be/oy8qJwpbzyQ)
 13. Size the model appropriately with the scale tool. Enable add supports for overhangs. Slice the model and view the total amount of filament and estimated print time. _Prints consuming over 250g of filament cost an additional $0.50 per 25g._ [Fab Studios Filament Store](https://my.cia.edu/ICS/Departments/CIA_Store/Fabrication_Studios/Rapid_Prototyping/)
 14. Print the model on the 3D printers in Fab Studios. _Note: Prints (or series of prints) under 250g are free and do not require purchase.
     Prints (or series of prints) that exceed 250g must be payed for._
@@ -39,6 +39,7 @@ Use the [Sparc3D](https://lizhihao6.github.io/Sparc3D/) 2D image to 3D M=model g
 #### External Resources
 
 - [Sparc3D Project Page](https://lizhihao6.github.io/Sparc3D/)
+- [Hitem3D](https://hitem3d.ai/) - As of writing, offeres 2 free model generations with textures without waiting. Requires email signup.
 - [Bambu Studio Quick Start Wiki](https://wiki.bambulab.com/en/software/bambu-studio/studio-quick-start)
 
 <div class="video-grid">
@@ -85,6 +86,15 @@ Use the [Sparc3D](https://lizhihao6.github.io/Sparc3D/) 2D image to 3D M=model g
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/_E-b6CENHms?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Import STL into Bambu Studio
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/oy8qJwpbzyQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
