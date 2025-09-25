@@ -1,0 +1,728 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+:root {
+  --text-max-width: 700px;
+  --page-max-width: 1366px;
+  --wide-max-width: 900px; /* for wider items such as wide images or code or embeds */
+  --theme-color: #4d4dff;
+}
+
+html {
+  font-family: Lato, Helvetica, Arial, sans-serif; /* match Canvas LMS Fonts */
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+h1 {
+  font-size: 1.8em;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+h4 {
+  font-size: 1.1em;
+}
+
+h5 {
+  font-size: 15px;
+}
+
+h6 {
+  font-size: 12px;
+}
+
+table {
+  margin-bottom: 1rem;
+}
+
+/* Parsed TOC Test Indent*/
+
+a.toc-item {
+  display: block;
+}
+a.toc-level-1 {
+  margin-left: 0em;
+}
+a.toc-level-2 {
+  margin-left: 1em;
+}
+a.toc-level-3 {
+  margin-left: 2em;
+}
+a.toc-level-4 {
+  margin-left: 3em;
+}
+a.toc-level-5 {
+  margin-left: 4em;
+}
+a.toc-level-6 {
+  margin-left: 5em;
+}
+
+main a {
+  text-decoration: none;
+}
+main a:hover {
+  text-decoration: underline;
+}
+/*** Block Quotes 888*/
+
+/* shrinks the gap between images and captions in figure tag since markdown wraps image links in a p if on own line */
+figure > p {
+  margin-bottom: 0.3rem;
+}
+
+blockquote {
+  display: block;
+  background: #fff;
+  padding: 15px 20px 15px 45px;
+  margin: 0 0 20px;
+  position: relative;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #666;
+  text-align: justify;
+
+  /*Borders - (Optional)*/
+  border-left: 15px solid #666;
+  border-right: 2px solid #666;
+}
+
+blockquote::after {
+  /*Reset to make sure*/
+  content: "";
+}
+
+blockquote a {
+  text-decoration: none;
+  background: #eee;
+  cursor: pointer;
+  padding: 0 3px;
+}
+
+blockquote a:hover {
+  color: #666;
+}
+
+blockquote em {
+  font-style: italic;
+}
+
+/* for student questions page to */
+/* keep ol vertically aligned in buttons */
+button > ol {
+  margin: 0.2rem;
+}
+/**** End block quotes
+
+/* Details and Summary for Video Transcript Fold Outs */
+details {
+  padding: 10px;
+  background-color: rgba(77, 77, 255, 0.1);
+  border-radius: 5px;
+}
+
+summary > h2 {
+  display: inline;
+}
+
+summary::marker {
+  color: #000;
+  font-size: 1.2em;
+}
+
+summary:hover {
+  color: #000; /* update for rollover effect if desired */
+}
+
+details {
+  transition: 0.2s background linear;
+}
+
+details:hover {
+  background: #eee;
+}
+
+details[open] {
+  background: #eee;
+}
+
+details[open] > summary {
+  margin-bottom: 1rem;
+}
+
+/* PageFind UI Variables */
+
+:root {
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-primary: #034ad8;
+  --pagefind-ui-text: #393939;
+  --pagefind-ui-background: #ffffff;
+  --pagefind-ui-border: #eeeeee;
+  --pagefind-ui-tag: #eeeeee;
+  --pagefind-ui-border-width: 2px;
+  --pagefind-ui-border-radius: 8px;
+  --pagefind-ui-image-border-radius: 8px;
+  --pagefind-ui-image-box-ratio: 3 / 2;
+  --pagefind-ui-font: sans-serif;
+}
+
+body.dark {
+  --pagefind-ui-primary: #eeeeee;
+  --pagefind-ui-text: #eeeeee;
+  --pagefind-ui-background: #152028;
+  --pagefind-ui-border: #152028;
+  --pagefind-ui-tag: #152028;
+}
+
+/* End Pagefind ui variables */
+
+/* End Parsed TOC Test Indent */
+/* for resistor LED constant current calculator results */
+.resultBox {
+  border: lightgray solid 1px;
+  border-radius: 5%;
+  width: 50px;
+  display: inline-block;
+  text-align: center;
+}
+
+.responsive-table-markdown {
+  overflow-x: auto;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  overflow-x: auto;
+}
+.responsive-table-markdown > table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.responsive-table-markdown > table tr:nth-child(even) {
+  background-color: #f2f2f2; /* make zebra stripes */
+}
+
+/* table inner borders */
+.responsive-table-markdown > table td + td {
+  border-left: 1px solid #ccc;
+}
+.responsive-table-markdown > table tr + tr td {
+  border-top: 1px solid #ccc;
+}
+.responsive-table-markdown > table td,
+.responsive-table-markdown > table th {
+  padding: 1rem;
+}
+.responsive-table-markdown > table th {
+  font-size: 1.125em;
+}
+
+.two-column-instructions-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 0;
+  justify-items: center;
+  margin: 0 auto;
+  padding: 0;
+  border-right: 1px solid #5b5b5b;
+  border-bottom: 1px solid #5b5b5b;
+}
+
+.two-column-instructions-grid > * {
+  border-top: 1px solid #5b5b5b;
+  border-left: 1px solid #5b5b5b;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 0;
+}
+
+.two-column-instructions-grid > ul {
+  padding-left: 2rem;
+}
+
+.two-column-grid,
+.two-column-grid-wrapper > ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: top;
+  grid-gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+/* for wrapping markdown ul lists with dashes into a grid */
+.auto-grid-wrapper > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  align-items: top;
+  grid-gap: 1rem;
+  padding-bottom: 1rem;
+  list-style: none;
+}
+
+.list-no-style > ul {
+  list-style: none;
+}
+
+.text-card {
+  align-self: start;
+}
+
+/* centers contents of the card vertically*/
+.center-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.tutorial-video-grid,
+.video-grid {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  padding-bottom: 2rem;
+  margin: 0 auto;
+}
+
+/* youtube tutorial video iframes */
+.iframe-16-9-container {
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-top: 56.25%;
+}
+
+.iframe-16-9-container + p,
+.iframe-16-9-container + h2,
+.iframe-16-9-container + h3,
+.iframe-16-9-container + ul,
+.iframe-16-9-container + table {
+  margin-top: 2rem;
+}
+
+/* tinker-cad iframes */
+.iframe-tinkercad-container {
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-top: 62.48275862068966%;
+  margin: 0 auto;
+  max-width: var(--wide-max-width);
+}
+
+/*  4:3 ratio iframes used in algorithmic art */
+.iframe-4-3-container {
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-top: 75%;
+}
+
+.iframe-letter-size-container {
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-top: 122.22%;
+}
+
+.youTubeIframe,
+.vimeoIframe,
+.responsiveIframe {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.video-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+  padding-bottom: 1rem;
+}
+
+/* summary on Hugo list pages */
+a.summary-link {
+  color: #000;
+  text-decoration: none;
+}
+
+/* Title on Hugo list pages */
+a.title-link {
+  text-decoration: none;
+}
+
+/* from files */
+
+.image-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.fit-img {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.image-box {
+  position: relative;
+  width: 300px;
+  height: 300px;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-rows: auto auto;
+  grid-gap: 1rem;
+}
+
+.gallery-grid > figure {
+  display: grid;
+  row-gap: 0;
+  grid-template-rows: subgrid;
+  grid-row: span 2; /* uses subgrid to align the captions */
+}
+
+.two-column-grid > figure {
+  display: grid;
+  row-gap: 0;
+  grid-template-rows: subgrid;
+  grid-row: span 2; /* uses subgrid to align the captions */
+}
+
+.gallery-grid > figure > figcaption {
+  font-size: 0.875rem; /*14px*/
+  margin: 0;
+}
+
+/* for image gallery captions as lists */
+.gallery-grid > figure > figcaption > ul {
+  list-style: none;
+  padding-left: 0;
+  font-size: 0.75rem /*12px*/;
+}
+
+/* Begin for footnote backlinks on hugo */
+.footnote-backref {
+  visibility: hidden;
+
+  &::before {
+    content: "  return↑";
+    visibility: visible;
+    font-size: 12px;
+  }
+}
+
+/* Begin Plaster Calculator CSS */
+/* Custom styles to prevent page jumping */
+.result {
+  min-height: 1.5em;
+  font-weight: bold;
+}
+/* End Plaster Calculator CSS */
+
+/* End for footnote backlinks on hugo */
+
+/*footnote number brackets*/
+a.footnote-ref::before {
+  content: "[";
+}
+
+a.footnote-ref::after {
+  content: "]";
+}
+
+.footnotes {
+  font-size: 13px;
+}
+.footnotes > ol > li > p {
+  margin-bottom: 0.2rem;
+}
+/* site title on pages below nav menu */
+
+#top-prev-next,
+#bottom-prev-next {
+  display: flex;
+  justify-content: space-between;
+}
+
+#top-prev-next a,
+#bottom-prev-next a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 5px;
+}
+
+.back:hover,
+.next:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.back,
+.next {
+  background-color: var(--theme-color);
+  color: white;
+}
+
+.back:active,
+.next:active {
+  color: white;
+  background-color: #777;
+}
+
+/*********************************/
+/*********** For Tag Index *******/
+/*********************************/
+
+.section-pages-tag {
+  display: grid;
+  grid-template-columns: 3rem auto;
+  align-items: baseline;
+}
+
+.section-pages-tag ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  line-height: 1.5;
+}
+
+.section-pages-tag li {
+  margin-right: 1em;
+}
+
+.section-pages-tag .key {
+  font-style: italic;
+  font-size: 1.7rem;
+}
+/*********************************/
+/******* End For Tag Index *******/
+/*********************************/
+
+/* Begin svg icons styles */
+
+circle.GitHub,
+circle.RSS,
+path.Calckey,
+path.MastodonBody,
+path.Twitter,
+path.JSON,
+path.RSS {
+  fill: white;
+}
+
+a:hover path.GitHub,
+a:hover circle.MastodonCircle,
+a:hover path.MastodonM,
+a:hover circle.Calckey,
+a:hover circle.Twitter,
+a:hover circle.RSS,
+a:hover circle.JSON {
+  fill: grey;
+}
+
+path.MastodonBody,
+path.MastodonM {
+  fill-rule: nonzero;
+}
+
+/* End SVG Icons styles*/
+
+/* mobile first Bootstrap container-xxl padding overide */
+
+/* For over text width size */
+
+@media only screen and (min-width: 700px) {
+  .responsive-table-markdown > table {
+    width: initial; /* reset from mobile width: 100% */
+    max-width: var(--page-max-width);
+    min-width: var(--text-max-width);
+    margin: 0 auto;
+  }
+
+  .gallery-grid {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+
+  .two-column-instructions-grid {
+    max-width: var(--page-max-width);
+  }
+}
+/* For desktop and larger screens */
+@media only screen and (min-width: 1000px) {
+  .two-column-grid {
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+  }
+
+  .two-column-grid > p {
+    margin-bottom: 0; /* to keep youTube videos and images vertically aligned since hugo wraps the images in p tags */
+  }
+
+  #top-prev-next,
+  #bottom-prev-next {
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 6rem;
+    padding: 2rem 0 2rem 0;
+  }
+}
+
+/* Test for keeping wide main content from collapsing with container fluid on wide browsers */
+.keep-wide-canvas-lms {
+  width: 100%;
+  min-width: 300px;
+}
+
+@media (min-width: 700px) {
+  .keep-wide-canvas-lms {
+    min-width: 600px !important;
+  }
+}
+
+@media (min-width: 800px) {
+  .keep-wide-canvas-lms {
+    min-width: 700px !important;
+  }
+}
+
+@media (min-width: 900px) {
+  .keep-wide-canvas-lms {
+    min-width: 800px !important;
+  }
+}
+
+@media (min-width: 1000px) {
+  .keep-wide-canvas-lms {
+    min-width: 900px !important;
+  }
+}
+
+@media (min-width: 1100px) {
+  .keep-wide-canvas-lms {
+    min-width: 927px !important;
+  }
+}
+
+/* Code Blocks */
+
+/* used in code blocks to indent and have space at bottom for readability */
+pre {
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+.highlight-wrapper {
+  max-width: var(--wide-max-width);
+  margin: 0 auto;
+  overflow-x: scroll;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.highlight {
+  position: relative;
+  z-index: 0;
+  padding: 0;
+  margin: 0;
+  border-radius: 4px;
+}
+
+.highlight > .chroma {
+  color: #d0d0d0;
+  background-color: #212121;
+  position: static;
+  z-index: 1;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.chroma {
+  overflow: auto;
+}
+
+.chroma .lntable {
+  display: table;
+  width: 100%;
+  padding: 0 0 5px;
+  margin: 0;
+  border-spacing: 0;
+  border: 0;
+  overflow: auto;
+}
+
+.chroma .lntd:first-child {
+  padding: 7px 7px 7px 10px;
+  margin: 0;
+}
+
+.chroma .lntd:last-child {
+  padding: 7px 10px 7px 7px;
+  margin: 0;
+}
+
+.copyable-text-area {
+  position: absolute;
+  height: 0;
+  z-index: -1;
+  opacity: 0.01;
+}
+
+.copy-code-button {
+  color: #272822;
+  background-color: #fff;
+  border-color: #272822;
+  border: 2px solid;
+  border-radius: 3px 3px 0px 0px;
+  min-width: 6rem;
+  /* right-align */
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+  margin-bottom: -2px;
+  padding: 3px 8px;
+  font-size: 0.8em;
+}
+
+.copy-code-button:hover {
+  cursor: pointer;
+  background-color: #f2f2f2;
+}
+
+.copy-code-button:focus {
+  /* Avoid an ugly focus outline on click in Chrome,
+     but darken the button for accessibility.
+     See https://stackoverflow.com/a/25298082/1481479 */
+  background-color: #e6e6e6;
+  outline: 0;
+}
+
+.copy-code-button:active {
+  background-color: #d9d9d9;
+}
+
+.highlight pre {
+  /* Avoid pushing up the copy buttons. */
+  margin: 0;
+}
