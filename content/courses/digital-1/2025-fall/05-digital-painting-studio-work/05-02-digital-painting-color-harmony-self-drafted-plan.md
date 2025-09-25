@@ -1,7 +1,7 @@
 ---
-title: Color Harmony Self Assessment
-date: 2025-09-18T09:00:00Z
-lastmod: 2025-09-18T11:23:37
+title: 05.02 Digital Painting Color Harmony Self Drafted Plan
+date: 2025-09-25T09:00:00Z
+lastmod: 2025-09-25T08:41:34
 ---
 
 1. What color harmony did you use? Why?

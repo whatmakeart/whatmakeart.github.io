@@ -1,7 +1,7 @@
 ---
-title: Group Color Harmony Ideation Critique Sheet
-date: 2025-09-18T09:00:00Z
-lastmod: 2025-09-18T11:23:37
+title: 05.01 Group Color Harmony Ideation Critique Sheet
+date: 2025-09-25T09:00:00Z
+lastmod: 2025-09-25T08:40:57
 ---
 
 ## Discussion Prompts
