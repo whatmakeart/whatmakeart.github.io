@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry
 date: 2024-09-25T05:06:07
-lastmod: 2025-09-26T06:30:47
+lastmod: 2025-09-26T10:58:40
 ---
 
 [Photogrammetry software](./photogrammetry-software.md) uses multiple 2D images takes from different yet overlapping angles to create a 3D mesh with textures. To achieve the highest detail and most accurate 3D model from the real world, [3D scanning](./3d-scanning.md) is recommended.
