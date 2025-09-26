@@ -1,7 +1,7 @@
 ---
 title: 04.05 Photogrammetry Scaled 3D Print Assignment
-date: 2024-09-11T09:00:00
-lastmod: 2024-09-14T04:39:14
+date: 2025-09-26T09:30:00
+lastmod: 2025-09-26T07:37:04
 ---
 
 ## Assignment Deliverables

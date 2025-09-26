@@ -1,7 +1,7 @@
 ---
 title: 04.04 3D Modeling and Making Topics Survey
-date: 2024-09-19T09:30:00
-lastmod: 2025-09-20T15:25:24
+date: 2025-09-19T09:30:00
+lastmod: 2025-09-26T07:37:04
 ---
 
 This course has a number of outstanding learning objectives including laser cutting, 3d printing, cnc machining, parametric modeling and more but those learning objects are best achieved through incorporation into projects and topics that excite and interest each unique group of students. Now that you have some experience with 3D modeling and visited the new Interactive Media Lab, please fill out this 3D modeling and making topics survey to help guide the content of the projects you will make.

@@ -1,7 +1,7 @@
 ---
 title: 04.05 Room 3D Modeling Revision and Texture Assignment
-date: 2024-09-04T09:00:00
-lastmod: 2025-09-21T06:37:01
+date: 2025-09-19T09:30:00
+lastmod: 2025-09-26T07:37:04
 ---
 
 ## Assignment Deliverables

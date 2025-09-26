@@ -1,7 +1,7 @@
 ---
 title: 04.03 3D Modeling Student Questions
-date: 2024-10-09T09:00:00
-lastmod: 2025-09-23T17:10:48
+date: 2025-09-19T09:30:00
+lastmod: 2025-09-26T06:19:15
 ---
 
 1. How to select a texture on an object?
@@ -16,6 +16,7 @@ lastmod: 2025-09-23T17:10:48
    - Rotate the UV shells - to rotate all press a t select all the r then 90
      - if only some need rotating then must select individually
 4. How to scale a texture?
+   - Add a mapping node or a scale node.
 5. How to have a glass texture or material?
    - [Transparent Glass Window Material](https://youtu.be/kVRb6n5nKFU)
 6. How to not have sharp corners in renders?
@@ -27,6 +28,7 @@ lastmod: 2025-09-23T17:10:48
 9. How to change the sun in a sky texture?
    - [Rotate Sky Texture for Interior Architecture Visualization](https://youtu.be/Wtn_KekptBQ)
 10. How to change a sun light?
+    - Change its angle and elevation.
 11. How to change wide angle vs telephoto lens of the camera in Blender?
     - [Change Camera Field of View](https://youtu.be/gEYvT4AIvHY)
 

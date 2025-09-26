@@ -1,7 +1,7 @@
 ---
 title: 08.01 3D Scanning
-date: 2024-10-09T09:00:00
-lastmod: 2024-10-07T07:15:39
+date: 2025-09-26T09:30:00
+lastmod: 2025-09-26T07:37:04
 toc: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry
 date: 2024-09-25T05:06:07
-lastmod: 2025-09-19T06:33:23
+lastmod: 2025-09-26T06:30:47
 ---
 
 [Photogrammetry software](./photogrammetry-software.md) uses multiple 2D images takes from different yet overlapping angles to create a 3D mesh with textures. To achieve the highest detail and most accurate 3D model from the real world, [3D scanning](./3d-scanning.md) is recommended.
@@ -13,12 +13,20 @@ lastmod: 2025-09-19T06:33:23
 - Refer to [basic camera settings](../photography/basic-camera-settings.md) for more information about setting up a camera for photogrammetry.
 - Add multiple scale references. Lay down rulers, markers and other scale calibration devices near the object or location to scan. Make sure to capture the scale devices in detail so they can be used to tell the software what the real world scale and dimensions are. It is best to use long scale distances to improve accuracy. If you lay down a 2 meter measuring stick, then use the full 2 meters to set scale, rather than just a few millimeters or centimeters, even if the object is small.
 
+### Specialized Photogrammetry Equipment
+
+Equipment built specifically for photogrammetry capture can speed up the process and result in extremely high quality scans. Cameras can be controlled by software and automated for repeatable 3d capture of objects. Controlled and consistent lighting give great high resolution texture detail.
+
+#### Photogrammetry Lightboxes
+
+- [Otery 3D Photobench 180](https://ortery.eu/photography-equipment/product-photography-systems/3d-photobench-180/)
+
 ## Photogrammetry Tutorials
 
 ### Software Guides
 
-- [Photogrammetry with Adobe Substance Sampler](../3d-modeling/photogrammetry-with-adobe-substance-sampler.md) - needs a folder of images
 - [Photogrammetry with Photocatch](../3d-modeling/photogrammetry-with-photocatch.md) - works with a video or a folder of images
+- [Photogrammetry with Adobe Substance Sampler](../3d-modeling/photogrammetry-with-adobe-substance-sampler.md) - needs a folder of images _Note: Substance 3D Sampler removed 3D Object creation in version 5.1 but it is still included in version 5.0 and earlier._
 
 ### Exporting Frames from Video for Photogrammetry
 
@@ -31,27 +39,3 @@ lastmod: 2025-09-19T06:33:23
 
 - [Calibrate Photogrammetry Scanned Object Scale in Blender](./photogrammetry-with-photocatch.md)
 - [Place 3D Models in 2d Photos with Blender](./blender/place-3d-model-in-2d-photo-blender-fspy.md)
-
-<div class="video-grid">
-
-<div class="video-card">
-
-### Photogrammetry with Adobe Substance 3D Sampler
-
-_Note: Substance 3D Sampler removed 3D Object creation in version 5.1 but it is still included in version 5.0 and earlier._
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/wUA6qzFK_FU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Photogrammetry with Photocatch
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/yMqH0GskhgY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-</div>
