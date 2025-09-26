@@ -1,17 +1,22 @@
 ---
-title: 05.05 3D Capture 3D Print Assignment
+title: 05.05 3D Capture and 3D Print Assignment
 date: 2025-09-26T09:30:00
-lastmod: 2025-09-26T08:34:58
+lastmod: 2025-09-26T12:46:53
 ---
 
 ## Assignment Deliverables
 
-1. 3D modeling file of imported photogrammetry scan and created sculpture accessory (.blend, .mb, .ma)
-   - Label file YYY-MM-DD Lastname Firstname Photogrammetry with 3D Sculpture
-2. 3D Print of the sculpture accessory
-3. Object captured photogrammetry scan
+1. Exported 3D file of photogrammetry capture of a room or an object
+   - Label file YYY-MM-DD Lastname Firstname Photogrammetry Capture (`.usd`, `.obj`, `.blend`)
+2. Exported 3D file of a 3D scan of an object
+   - Label file YYY-MM-DD Lastname Firstname 3D Scan Capture (`.usd`, `.obj`, `.blend`)
+3. Exported 3D file of Gaussian Splat Capture
+   - Label file YYY-MM-DD Lastname Firstname Gaussian Splat Capture (`.ply`, `.usd`, `.obj`, `.blend`)
+4. 3D print of 1 of the above 3D models
 
-## Overview
+## Assignment Overview
+
+3D capture brings the physical world into the digital 3D model world.
 
 1. Select an object, interior architectural feature, outdoor architectural feature, building, or natural object.
 2. Use photogrammetry software to 3D capture the geometry and form. Remember to have a known length in the scan so you can scale the mesh. You can include rulers or other measuring devices in the photogrammetry scan.
@@ -21,48 +26,31 @@ lastmod: 2025-09-26T08:34:58
 
 ## Assignment Resources
 
-- [3D Printing Design Guidelines](../../../../digital-fabrication/3d-printing/3d-print-design-guidelines.md)
-- [How to Export STL from Blender](../../../../digital-fabrication/3d-printing/export-stl-blender.md)
+### 3D Capture
+
+#### Photogrammetry Tools
+
+- [Reality Scan](https://www.realityscan.com/en-US)
+- [Photocatch](https://youtu.be/yMqH0GskhgY)
+- [Meshroom](https://alicevision.org/)
 - [Export Frames from Video in Premiere](https://youtu.be/JCawZdzQgFA)
-- [Photogrammetry with Adobe Substance 3D Sampler](https://youtu.be/wUA6qzFK_FU)
-- [Photogrammetry with Photocatch](https://youtu.be/yMqH0GskhgY)
+
+#### 3D Mesh Clean Up
+
 - [Scale Photogrammetry Mesh in Blender](https://youtu.be/MUb7I4lBSZs)
 - [Clean Up Photogrammetry Mesh in Blender](https://youtu.be/asyItetJkbU)
-- [3D Print Tools Add-On Blender](https://youtu.be/_E-b6CENHms)
 
-### 3D Printers
+#### 3D Printing
+
+- [3D Printing Design Guidelines](../../../../digital-fabrication/3d-printing/3d-print-design-guidelines.md)
+- [How to Export STL from Blender](../../../../digital-fabrication/3d-printing/export-stl-blender.md)
+- [3D Print Tools Add-On Blender](https://youtu.be/_E-b6CENHms)
 
 If using the Bambu X1 Carbon 3D printers, then use the [Bambu Studio Slicer](../01-introduction/01-04-bambu-studio-installation.md). If using Ultimaker Printers or Creality Ender Printers, then use the [Cura Slicer](../../../../digital-fabrication/3d-printing/cura-slicing-basics.md).
 
 ### Video Guides
 
 <div class="video-grid">
-
-<div class="video-card">
-
-#### Export Frames from Video
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/JCawZdzQgFA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-<div class="video-card">
-
-#### Photogrammetry with Adobe Substance 3D Sampler
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/wUA6qzFK_FU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-#### Photogrammetry with Photocatch
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/yMqH0GskhgY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
 
 <div class="video-card">
 

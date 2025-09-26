@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry
 date: 2024-09-25T05:06:07
-lastmod: 2025-09-26T10:58:40
+lastmod: 2025-09-26T12:47:05
 ---
 
 [Photogrammetry software](./photogrammetry-software.md) uses multiple 2D images takes from different yet overlapping angles to create a 3D mesh with textures. To achieve the highest detail and most accurate 3D model from the real world, [3D scanning](./3d-scanning.md) is recommended.
@@ -20,6 +20,7 @@ Equipment built specifically for photogrammetry capture can speed up the process
 #### Photogrammetry Lightboxes
 
 - [Otery 3D Photobench 180](https://ortery.eu/photography-equipment/product-photography-systems/3d-photobench-180/)
+- [Ortery 3D Multiarm 1000](https://ortery.eu/photography-equipment/3d-product-photography/3d-multiarm-1000/) - Useful for capturing highly detailed photogrammetry of small objects such as jewlery and small electronics.
 
 ## Photogrammetry Tutorials
 
