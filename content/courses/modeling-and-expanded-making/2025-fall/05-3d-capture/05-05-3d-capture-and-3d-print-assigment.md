@@ -1,7 +1,7 @@
 ---
 title: 05.05 3D Capture and 3D Print Assignment
 date: 2025-09-26T09:30:00
-lastmod: 2025-09-26T13:25:49
+lastmod: 2025-09-26T13:47:07
 ---
 
 ## Assignment Deliverables
@@ -31,17 +31,17 @@ lastmod: 2025-09-26T13:25:49
 
 #### 3D Scan Captures
 
-1. Use a 3D scanner to capture an object and / or a person. You can use the 3D scanners at the IML or the think\[box\].
-2. Clean up and process the scan with the built in software. [How to Clean Up Photogrammetry Mesh in Blender](https://youtu.be/asyItetJkbU)
-3. Export a 3D model with textures.
+5. Use a 3D scanner to capture an object and / or a person. You can use the 3D scanners at the IML or the think\[box\].
+6. Clean up and process the scan with the built in software. [How to Clean Up Photogrammetry Mesh in Blender](https://youtu.be/asyItetJkbU)
+7. Export a 3D model with textures.
 
 #### Gaussian Splat Capture
 
-1. Take a video of a 3D scene / setup. This could be a desk in your studio, a piece of furniture, a counter or work surface.
-2. The video should move from side to side, up and down, and change angles to capture as much information as possible.
-3. Convert the video to a folder of images. [How to Export Frames from Video in Premiere](https://youtu.be/JCawZdzQgFA)
-4. Use Colmap and/or Glomap to process a Gaussian Splat 3D Reconstruction.
-5. The Colmap GUI allows viewing of the reconstructed splat, camera views, and rendering.
+4. Take a video of a 3D scene / setup. This could be a desk in your studio, a piece of furniture, a counter or work surface.
+5. The video should move from side to side, up and down, and change angles to capture as much information as possible.
+6. Convert the video to a folder of images. [How to Export Frames from Video in Premiere](https://youtu.be/JCawZdzQgFA)
+7. Use Colmap and/or Glomap to process a Gaussian Splat 3D Reconstruction.
+8. The Colmap GUI allows viewing of the reconstructed splat, camera views, and rendering.
 
 ## Assignment Resources
 
