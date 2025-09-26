@@ -1,10 +1,19 @@
 ---
 title: 3D Scanning
 date: 2023-12-12T07:03:31
-lastmod: 2024-10-04T10:29:02
+lastmod: 2025-09-26T13:36:04
 ---
 
-3D scanning is able to capture more detail and more accurate geometry than [photogrammetry](./photogrammetry.md), but requires more expensive 3D scanning equipment and software.
+3D scanning is able to capture more detail and more accurate geometry than [photogrammetry](./photogrammetry.md), but requires more expensive 3D scanning equipment and software. There are two main types of 3D scanning, Structured Light scanning and LiDAR scanning.
+
+Structured Light scanning projects a known pattern of light at a 3D object. Two cameras record the light that bounces back to them and measure its deformations from reflecting off the 3D surface of the object. The two cameras use triangulation to reconstruct where the points of the object are in space. LiDAR shoots lasers out and waits for the return bounce of the lasers from the object. It calculates the position of different points of the objects based on the travel time of emitted light to create a point cloud. This is similar to radar except the "L" stands for laser instead of the "r" for radio in radar.
+
+## Einscan H Series Scanner
+
+- [Einscan H Series Scanner Quick Start Guide](https://support.einscan.com/en/support/solutions/articles/60000955990-einscan-h2-quick-start-guide)
+- [Einscan Scanning Tips](https://support.einscan.com/en/support/solutions/60000334498)
+- [Einscan H Series Guides](https://support.einscan.com/en/support/solutions/60000323052)
+- [Einscan H2 Scanner](https://www.einscan.com/handheld-3d-scanner/einscan-h/)
 
 ## Artec Leo Scanner
 
@@ -54,7 +63,7 @@ Artec webinar for 3D body scanning includes many tips, some of which are summari
 - use supports as needed so the subject can keep their pose or hold heavy objects
 - When scanning subjects that will move with the Artec Leo, switching on `Record without registration` may help
 
-## Scanning Guides
+#### Artec Scanning Guides
 
 - [Artec Leo Scanner at the thinkbox](https://case.edu/thinkbox/equipment/other-equipment/structured-light-3d-scanner)
 

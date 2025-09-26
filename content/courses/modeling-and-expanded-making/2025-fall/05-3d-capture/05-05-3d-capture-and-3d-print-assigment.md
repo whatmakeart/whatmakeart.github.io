@@ -1,7 +1,7 @@
 ---
 title: 05.05 3D Capture and 3D Print Assignment
 date: 2025-09-26T09:30:00
-lastmod: 2025-09-26T13:21:19
+lastmod: 2025-09-26T13:25:49
 ---
 
 ## Assignment Deliverables
@@ -26,12 +26,13 @@ lastmod: 2025-09-26T13:21:19
 
 1. Select an interior room for photogrammetry. With your back to the perimiter of the room capture mulptiple angles and photos of the opposite facing wall. Capture from multiple heights and angles looking at the opposing wall. You may use a video capture as well.
 2. Import the photos or video into a photogrammetry app and process the inputs.
-3. Export the completed mesh with textures.
+3. If desired, clean up and modify the captured mesh. [How to Clean Up Photogrammetry Mesh in Blender](https://youtu.be/asyItetJkbU)
+4. Export the completed mesh with textures.
 
 #### 3D Scan Captures
 
 1. Use a 3D scanner to capture an object and / or a person. You can use the 3D scanners at the IML or the think\[box\].
-2. Clean up and process the scan with the built in software.
+2. Clean up and process the scan with the built in software. [How to Clean Up Photogrammetry Mesh in Blender](https://youtu.be/asyItetJkbU)
 3. Export a 3D model with textures.
 
 #### Gaussian Splat Capture
