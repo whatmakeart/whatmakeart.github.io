@@ -1,13 +1,13 @@
 ---
-title: 04.05 Photogrammetry Scaled 3D Print Assignment
+title: 05.05 3D Capture 3D Print Assignment
 date: 2025-09-26T09:30:00
-lastmod: 2025-09-26T07:37:04
+lastmod: 2025-09-26T08:34:58
 ---
 
 ## Assignment Deliverables
 
 1. 3D modeling file of imported photogrammetry scan and created sculpture accessory (.blend, .mb, .ma)
-   - Label file YYYYMMDD Lastname Firstname Photogrammetry with 3D Sculpture
+   - Label file YYY-MM-DD Lastname Firstname Photogrammetry with 3D Sculpture
 2. 3D Print of the sculpture accessory
 3. Object captured photogrammetry scan
 

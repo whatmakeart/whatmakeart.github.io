@@ -1,7 +1,7 @@
 ---
-title: 08.01 3D Scanning
+title: 05.01 3D Scanning
 date: 2025-09-26T09:30:00
-lastmod: 2025-09-26T07:37:04
+lastmod: 2025-09-26T08:35:42
 toc: true
 ---
 
