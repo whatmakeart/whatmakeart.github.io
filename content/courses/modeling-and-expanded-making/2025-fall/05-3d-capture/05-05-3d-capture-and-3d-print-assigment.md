@@ -1,7 +1,7 @@
 ---
 title: 05.05 3D Capture and 3D Print Assignment
 date: 2025-09-26T09:30:00
-lastmod: 2025-09-26T13:47:07
+lastmod: 2025-09-26T17:10:23
 ---
 
 ## Assignment Deliverables
@@ -10,11 +10,9 @@ lastmod: 2025-09-26T13:47:07
    - Label file YYY-MM-DD Lastname Firstname Photogrammetry Capture (`.usd`, `.obj`, `.blend`)
 2. Exported 3D file of a 3D scan of an object
    - Label file YYY-MM-DD Lastname Firstname 3D Scan Capture (`.usd`, `.obj`, `.blend`)
-3. Exported 3D file of Gaussian Splat Capture
-   - Label file YYY-MM-DD Lastname Firstname Gaussian Splat Capture (`.ply`, `.usd`, `.obj`, `.blend`, `.splat`)
-4. Render image of on of the 3D captures
+3. Render image of on of the 3D captures
    - Label file YYY-MM-DD Lastname Firstname Gaussian Splat Capture (`.png`, `.jpg`)
-5. 3D print of 1 of the above 3D captures
+4. 3D print of 1 of the above 3D captures
 
 ## Assignment Overview
 
@@ -60,24 +58,6 @@ lastmod: 2025-09-26T13:47:07
 - [Einscan H Series Guides](https://support.einscan.com/en/support/solutions/60000323052)
 - [Einscan H2 Scanner](https://www.einscan.com/handheld-3d-scanner/einscan-h/)
 
-#### Gaussian Splat Tools
-
-##### Colmap
-
-Colmap has a Graphical User Interface (GUI) that can make using Colmap easier than the command line. To use the GUI download the precompiled binary, extract it, and run the bat file.
-
-- [Colmap Project Page](https://colmap.github.io/)
-- [Colmap Prebuilt Windows Binary](https://github.com/colmap/colmap/releases/tag/3.12.6)
-- [Colmap GitHub Repo Page](https://github.com/colmap/colmap)
-
-##### Glomap
-
-Glomap can be 2 - 10 times faster in recontruction than Colmap. It also has a precompiled binary but must be run from the command line. Glomap required Colmap to build the initial database before running reconstruction.
-
-- [Glomap Project Page](https://lpanaf.github.io/eccv24_glomap/)
-- [Glomap Precompiled Binaries](https://github.com/colmap/glomap/releases)
-- [Glomap GitHub Repo Page](https://github.com/colmap/glomap)
-
 ### 3D Mesh Clean Up
 
 - [Scale Photogrammetry Mesh in Blender](https://youtu.be/MUb7I4lBSZs)
@@ -97,9 +77,8 @@ If using the Bambu X1 Carbon 3D printers, then use the [Bambu Studio Slicer](../
 
 | Objective                       | Points |
 | ------------------------------- | ------ |
-| Photogrammetry Capture Uploaded | 30     |
-| 3D Scan Capture Uplaoded        | 30     |
-| Gaussian Splat Capture Uploaded | 30     |
+| Photogrammetry Capture Uploaded | 45     |
+| 3D Scan Capture Uploaded        | 45     |
 | Minimum 1 Render Image          | 20     |
 | 3D Print of 1 Capture           | 30     |
 | File Management and Labeling    | 10     |

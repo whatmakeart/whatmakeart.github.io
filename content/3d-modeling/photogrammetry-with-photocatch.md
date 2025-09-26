@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry with Photocatch
 date: 2025-01-21T14:15:56
-lastmod: 2025-09-26T07:36:51
+lastmod: 2025-09-26T17:09:33
 tags:
   - Photocatch
   - 3D Modeling
@@ -34,7 +34,7 @@ Simply open Photocatch, then select video navigate to where the video file is an
 
 Photocatch will now extract the images as frames from your video so we can use them in photogrammetry. Tt can be a good idea to click preview but Photocatch goes pretty fast fast so I'm going to go ahead and click Medium. Show Advanced has some options. For example, if you had, for example, if you took your photos from all different angles but didn't do them in order you should click unordered, and in fact photocatch recommends this. And then feature sensitivity you can choose normal or high depending on your model. Photocatch recommends using normal and then if it doesn't work then try High. Photocatch will do its best to mask out the background and keep the object as itself. you can leave this checked and see how it works.
 
-Then click create model. Photocatch now goes through the process of creating your model and making a three-dimensional mesh with textures from a video using photogommetry. Once Photocatch is done creating your model you'll be presented with a 3D view of the model. You can look around and see the model. You can transform the model if you need to rotate it so certain things are up or not. You can view the preview mesh. You can see the way it is oriented in the world and then transform it this way. So I can rotate it so it's vertical and then translate it up and then translate it over so it is more aligned with the world coordinates that we need. You can crop the mesh. This is helpful if there's lots of extraneous information that you don't need. In this particular case the mesh has come in pretty well.
+Then click create model. Photocatch now goes through the process of creating your model and making a three-dimensional mesh with textures from a video using photogrammetry. Once Photocatch is done creating your model you'll be presented with a 3D view of the model. You can look around and see the model. You can transform the model if you need to rotate it so certain things are up or not. You can view the preview mesh. You can see the way it is oriented in the world and then transform it this way. So I can rotate it so it's vertical and then translate it up and then translate it over so it is more aligned with the world coordinates that we need. You can crop the mesh. This is helpful if there's lots of extraneous information that you don't need. In this particular case the mesh has come in pretty well.
 
 Once you're happy with your mesh, then you have a few ways that you can save it. Photocatch offers three ways to export. You can export as a universal scene description an obj and a ply. I recommend exporting all three, especially if you're using the free version of Photocatch.When you are exporting an obj it's a good idea to select export original file this will also give you the materials that you need. Click export. Once you've exported your mesh you can open it in a 3D modeling program such as Blender.
 
