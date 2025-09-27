@@ -88,18 +88,18 @@ figure > p {
 
 blockquote {
   display: block;
-  background: #fff;
+  background: var(--bs-body-bg);
   padding: 15px 20px 15px 45px;
   margin: 0 0 20px;
   position: relative;
   font-size: 16px;
   line-height: 1.2;
-  color: #666;
+  color: var(--bs-body-color);
   text-align: justify;
 
   /*Borders - (Optional)*/
-  border-left: 15px solid #666;
-  border-right: 2px solid #666;
+  border-left: 15px solid var(--bs-border-color);
+  border-right: 2px solid var(--bs-border-color);
 }
 
 blockquote::after {
@@ -109,13 +109,13 @@ blockquote::after {
 
 blockquote a {
   text-decoration: none;
-  background: #eee;
+  background: inherit;
   cursor: pointer;
   padding: 0 3px;
 }
 
 blockquote a:hover {
-  color: #666;
+  color: var(--bd-toc-color);
 }
 
 blockquote em {
@@ -132,7 +132,7 @@ button > ol {
 /* Details and Summary for Video Transcript Fold Outs */
 details {
   padding: 10px;
-  background-color: rgba(77, 77, 255, 0.1);
+  background-color: var(--bs-secondary-bg);
   border-radius: 5px;
 }
 
@@ -141,12 +141,12 @@ summary > h2 {
 }
 
 summary::marker {
-  color: #000;
+  color: var(--bs-secondary-color);
   font-size: 1.2em;
 }
 
 summary:hover {
-  color: #000; /* update for rollover effect if desired */
+  color: var(--bs-secondary-color); /* update for rollover effect if desired */
 }
 
 details {
@@ -154,11 +154,11 @@ details {
 }
 
 details:hover {
-  background: #eee;
+  background: var(--bs-body-bg);
 }
 
 details[open] {
-  background: #eee;
+  background: var(--bs-secondary-bg);
 }
 
 details[open] > summary {
@@ -194,7 +194,7 @@ body.dark {
 /* End Parsed TOC Test Indent */
 /* for resistor LED constant current calculator results */
 .resultBox {
-  border: lightgray solid 1px;
+  border: solid 1px var(--bs-table-border-color);
   border-radius: 5%;
   width: 50px;
   display: inline-block;
@@ -206,21 +206,23 @@ body.dark {
   margin: 0 auto;
   margin-bottom: 1rem;
   overflow-x: auto;
+  background: var(--bs-table-bg);
 }
 .responsive-table-markdown > table {
   width: 100%;
   border-collapse: collapse;
 }
 .responsive-table-markdown > table tr:nth-child(even) {
-  background-color: #f2f2f2; /* make zebra stripes */
+  color: var(--bs-table-striped-color);
+  background-color: var(--bs-secondary-bg); /* make zebra stripes */
 }
 
 /* table inner borders */
 .responsive-table-markdown > table td + td {
-  border-left: 1px solid #ccc;
+  border-left: 1px solid var(--bs-border-color);
 }
 .responsive-table-markdown > table tr + tr td {
-  border-top: 1px solid #ccc;
+  border-top: 1px solid var(--bs-border-color);
 }
 .responsive-table-markdown > table td,
 .responsive-table-markdown > table th {
@@ -237,13 +239,13 @@ body.dark {
   justify-items: center;
   margin: 0 auto;
   padding: 0;
-  border-right: 1px solid #5b5b5b;
-  border-bottom: 1px solid #5b5b5b;
+  border-right: 1px solid var(--bs-border-color);
+  border-bottom: 1px solid var(--bs-border-color);
 }
 
 .two-column-instructions-grid > * {
-  border-top: 1px solid #5b5b5b;
-  border-left: 1px solid #5b5b5b;
+  border-top: 1px solid var(--bs-border-color);
+  border-left: 1px solid var(--bs-border-color);
   width: 100%;
   padding: 1rem;
   margin-bottom: 0;
@@ -475,8 +477,8 @@ a.footnote-ref::after {
 
 .back:hover,
 .next:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
 }
 
 .back,

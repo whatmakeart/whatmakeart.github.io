@@ -87,8 +87,8 @@
   > ul {
     @include media-breakpoint-down(md) {
       padding: 1.5rem 0.75rem;
-      background-color: $gray-100;
-      border-bottom: 1px solid $gray-200;
+      background-color: inherit;
+      border-bottom: var(--bd-toc-color);
     }
   }
 
@@ -96,14 +96,14 @@
     padding: 0.1875rem 0.5rem;
     margin-top: 0.125rem;
     margin-left: 1.25rem;
-    color: rgba($black, 0.65);
+    color: inherit;
     text-decoration: if($link-decoration == none, null, none);
 
     &:hover,
     &:focus {
-      color: rgba($black, 0.85);
+      color: var(--bd-toc-color);
       text-decoration: if($link-hover-decoration == underline, none, null);
-      background-color: rgba($blue, 0.1);
+      background-color: transparent;
     }
   }
 
@@ -111,18 +111,18 @@
     // Custom styles (as we don't have a completely neutral button style)
     padding: 0.25rem 0.5rem;
     font-weight: 600;
-    color: rgba($black, 0.65);
+    color: inherit;
     background-color: transparent;
     border: 0;
 
     &:hover,
     &:focus {
-      color: rgba($black, 0.85);
-      background-color: rgba($blue, 0.1);
+      color: var(--bd-toc-color);
+      background-color: transparent;
     }
 
     &:focus {
-      box-shadow: 0 0 0 1px rgba($blue, 0.7);
+      box-shadow: 0 0 0 1px var(--bd-toc-color);
     }
 
     // Add chevron if there's a submenu
@@ -135,7 +135,7 @@
     }
 
     &[aria-expanded="true"] {
-      color: rgba($black, 0.85);
+      color: inherit;
 
       &::before {
         transform: rotate(90deg);
@@ -145,6 +145,6 @@
 
   .active {
     font-weight: 600;
-    color: rgba($black, 0.85);
+    color: var(--bd-toc-color);
   }
 }

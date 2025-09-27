@@ -1,6 +1,19 @@
 <!doctype html>
 <html lang="en" data-bs-theme="light">
   <head>
+   <!-- Dark mode detect -->
+   <script>
+      (function() {
+        const getTheme = () => {
+          if (window.localStorage.getItem('theme')) {
+            return window.localStorage.getItem('theme');
+          }
+          return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        };
+        document.documentElement.setAttribute('data-bs-theme', getTheme());
+      })();
+    </script>
+    <!-- Dark mode detect -->
     {{ partial "head/head" . }}
 
   </head>
