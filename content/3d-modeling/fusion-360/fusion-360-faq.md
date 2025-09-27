@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 FAQ
 date: 2023-06-15T15:27:02
-lastmod: 2024-09-23T08:32:28
+lastmod: 2025-09-27T06:14:47
 tags:
   - Fusion 360
 ---
@@ -28,7 +28,7 @@ tags:
 
 ### Basic Modeling
 
-- [Join, Cut, Intersect Operations](https://youtu.be/iLr9d8Gp7Ls)
+- [Join, Cut, Intersect Operations](./join-cut-intersect-fusion-360-tutorial.md)
 - [How do I split a body?](https://youtu.be/d4iPXS8g9ms)
 - [How to mirror an object?](https://youtu.be/vwCUjtsghdI)
 - **How to cut with an object after an object is already made?** - Use the move tool to make the objects overlap. Then use the combine tool to select a tool body (for cutting) and the target body (getting cut). It will show a red preview of what will be cut.

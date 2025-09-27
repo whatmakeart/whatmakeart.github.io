@@ -1,7 +1,7 @@
 ---
 title: Cura Slicing Basics
 date: 2023-10-31T09:00:00
-lastmod: 2023-11-01T13:29:21
+lastmod: 2025-09-27T06:23:41
 ---
 
 Cura is a [3D printing](3d-printing.md) slicing program.
@@ -25,3 +25,6 @@ Cura is a [3D printing](3d-printing.md) slicing program.
 5. When everything is set, save the gcode file to disk.
 
 ![Cura save 3D print file to disk](./attachments/20231031-cura-save-3d-print-file-to-disk.png)
+
+- [How to Orbit in Cura](./how-to-orbit-in-ultimaker-cura.md)
+- [Advanced Ultimaker 2+ settings at think\[box\]](./advanced-ultimaker-2+-settings-thinkbox.md)
