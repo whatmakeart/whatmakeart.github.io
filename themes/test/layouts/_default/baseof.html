@@ -2,17 +2,33 @@
 <html lang="en" data-bs-theme="light">
   <head>
    <!-- Dark mode detect -->
-   <script>
-      (function() {
-        const getTheme = () => {
-          if (window.localStorage.getItem('theme')) {
-            return window.localStorage.getItem('theme');
-          }
-          return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-        };
-        document.documentElement.setAttribute('data-bs-theme', getTheme());
-      })();
-    </script>
+ <script>
+(function() {
+  function inCanvasApp() {
+    // Detect if we're inside a Canvas iframe
+    try {
+      return window.self !== window.top && document.referrer.includes("instructure.com");
+    } catch {
+      return false;
+    }
+  }
+
+  function getTheme() {
+    // If the page is embedded inside Canvas, try to honor Canvas (or user’s saved choice)
+    if (inCanvasApp()) {
+      if (localStorage.getItem("theme")) {
+        return localStorage.getItem("theme");
+      }
+      return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    }
+
+    // If **not** in Canvas: force light by default
+    return "light";
+  }
+
+  document.documentElement.setAttribute("data-bs-theme", getTheme());
+})();
+</script>
     <!-- Dark mode detect -->
     {{ partial "head/head" . }}
 

@@ -154,7 +154,7 @@ details {
 }
 
 details:hover {
-  background: var(--bs-body-bg);
+  background: var(--bs-secondary-bg);
 }
 
 details[open] {
@@ -181,6 +181,7 @@ details[open] > summary {
   --pagefind-ui-font: sans-serif;
 }
 
+:root[data-bs-theme="dark"],
 body.dark {
   --pagefind-ui-primary: #eeeeee;
   --pagefind-ui-text: #eeeeee;
@@ -213,7 +214,7 @@ body.dark {
   border-collapse: collapse;
 }
 .responsive-table-markdown > table tr:nth-child(even) {
-  color: var(--bs-table-striped-color);
+  color: var(--bs-secondary-color);
   background-color: var(--bs-secondary-bg); /* make zebra stripes */
 }
 
