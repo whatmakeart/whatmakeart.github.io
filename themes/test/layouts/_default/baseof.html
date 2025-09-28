@@ -3,16 +3,38 @@
   <head>
    <!-- Dark mode detect -->
   <script>
-    // This minimal script runs first to prevent a theme flash.
+    // This script runs instantly to set the correct theme and prevent flashing.
     (function() {
-      function getTheme() {
+      // --- Helper constants for environment detection ---
+      const ua = navigator.userAgent || '';
+      // Are we in an iframe?
+      const isIframe = (() => {
+        try { return window.self !== window.top; } catch { return true; }
+      })();
+      // Does the User Agent indicate the native Canvas Mobile App?
+      const isCanvasMobileApp = /Canvas/i.test(ua) || (/(iPhone|iPad|Android)/i.test(ua) && /\b(wv|WebView)\b/i.test(ua));
+
+      // --- Determine the environment ---
+      // This is the key logic: if we are in an iframe BUT NOT in the mobile app,
+      // we can assume it's the Canvas Website.
+      const env = (isIframe && !isCanvasMobileApp) ? 'canvas-web' : 'other';
+
+      // --- Apply the theme based on the environment ---
+      let theme;
+      if (env === 'canvas-web') {
+        // **THE FIX:** If the environment is the Canvas website, ALWAYS use light theme.
+        theme = 'light';
+      } else {
+        // Otherwise (for the mobile app or standalone site), respect the user's preference.
         const savedTheme = localStorage.getItem('theme');
         if (savedTheme) {
-          return savedTheme;
+          theme = savedTheme;
+        } else {
+          theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
         }
-        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
       }
-      document.documentElement.setAttribute('data-bs-theme', getTheme());
+      
+      document.documentElement.setAttribute('data-bs-theme', theme);
     })();
   </script>
     <!-- Dark mode detect -->
