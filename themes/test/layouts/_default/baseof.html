@@ -2,67 +2,19 @@
 <html lang="en" data-bs-theme="light">
   <head>
    <!-- Dark mode detect -->
-<script>
-(function () {
-  // --- helpers -------------------------------------------------------------
-  const ua = navigator.userAgent || '';
-  const isIframe = (() => {
-    try { return window.self !== window.top; } catch { return true; }
-  })();
-  const isCanvasReferrer = /(^|:\/\/)([^/]*\.)?instructure\.com/i.test(document.referrer || '');
-
-  // Heuristic: Canvas native mobile apps use a WebView and usually brand the UA with "Canvas".
-  // Also catch common WebView markers on iOS/Android as a fallback.
-  const isCanvasMobileApp = /Canvas/i.test(ua) || (
-    /(iPhone|iPad|Android)/i.test(ua) && /\b(wv|WebView)\b/i.test(ua)
-  );
-
-  // Optional manual override via ?env=... for debugging:
-  //   env=canvas-web | canvas-mobile | web
-  const qpEnv = new URLSearchParams(location.search).get('env');
-  const env =
-    qpEnv === 'canvas-web'   ? 'canvas-web'   :
-    qpEnv === 'canvas-mobile'? 'canvas-mobile':
-    qpEnv === 'web'          ? 'web'          :
-    (isIframe && isCanvasReferrer && !isCanvasMobileApp) ? 'canvas-web'
-      : (isIframe && isCanvasReferrer && isCanvasMobileApp) ? 'canvas-mobile'
-      : 'web';
-
-  function userPreferredTheme() {
-    const saved = localStorage.getItem('theme');
-    if (saved === 'dark' || saved === 'light') return saved;
-    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-  }
-
-  function applyTheme(mode) {
-    document.documentElement.setAttribute('data-bs-theme', mode);
-  }
-
-  // --- main logic ----------------------------------------------------------
-  if (env === 'canvas-web') {
-    // Canvas website (no dark mode): always light
-    applyTheme('light');
-  } else {
-    // Regular web OR Canvas mobile app: honor user preference
-    applyTheme(userPreferredTheme());
-
-    // Keep in sync with OS if the user hasn't explicitly chosen a theme
-    const mq = window.matchMedia('(prefers-color-scheme: dark)');
-    function maybeSyncWithOS(e) {
-      if (!localStorage.getItem('theme')) {
-        applyTheme(e.matches ? 'dark' : 'light');
+  <script>
+    // This minimal script runs first to prevent a theme flash.
+    (function() {
+      function getTheme() {
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme) {
+          return savedTheme;
+        }
+        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
       }
-    }
-    mq.addEventListener('change', maybeSyncWithOS);
-
-    // If you offer a manual toggle elsewhere that sets localStorage('theme'),
-    // this will react when it changes in another tab.
-    window.addEventListener('storage', (e) => {
-      if (e.key === 'theme') applyTheme(userPreferredTheme());
-    });
-  }
-})();
-</script>
+      document.documentElement.setAttribute('data-bs-theme', getTheme());
+    })();
+  </script>
     <!-- Dark mode detect -->
     {{ partial "head/head" . }}
 
