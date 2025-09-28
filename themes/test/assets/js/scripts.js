@@ -11,6 +11,32 @@
  * It is intended to be loaded at the end of the <body> for optimal performance.
  */
 
+/**
+ * =============================================================================
+ * SECTION 0: Dynamic Theme Change Listener
+ * =============================================================================
+ * This block listens for theme changes that happen *after* the page has loaded.
+ * The initial theme is set by a tiny script in the <head> to prevent a "flash".
+ * This listener ensures the iframe stays in sync if the user toggles the theme
+ * in the Canvas Mobile App or their OS settings.
+ */
+(() => {
+  // Function to apply the theme attribute to the root <html> element.
+  function applyTheme(isDarkMode) {
+    const theme = isDarkMode ? "dark" : "light";
+    document.documentElement.setAttribute("data-bs-theme", theme);
+  }
+
+  // Create a media query object that checks for the 'prefers-color-scheme'.
+  const colorSchemeQuery = window.matchMedia("(prefers-color-scheme: dark)");
+
+  // Add a 'change' event listener. This is the crucial part.
+  // It will fire whenever the preferred color scheme changes.
+  colorSchemeQuery.addEventListener("change", (event) => {
+    applyTheme(event.matches);
+  });
+})();
+
 /*
  * =============================================================================
  * SECTION 1: Core Helpers & Configuration
