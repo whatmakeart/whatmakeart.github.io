@@ -1,12 +1,10 @@
 ---
 title: How to Take a Screenshot
 date: 2024-11-10T16:01:02
-lastmod: 2024-12-06T05:36:42
+lastmod: 2025-09-29T05:36:45
 tags:
   - tutorial
 ---
-
-# How to Take a Screenshot
 
 This tutorial shows how to take screenshots from your computer or cellphone.
 
