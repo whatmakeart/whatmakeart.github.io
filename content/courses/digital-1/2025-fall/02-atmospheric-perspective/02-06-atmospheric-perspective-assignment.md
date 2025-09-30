@@ -1,17 +1,17 @@
 ---
 title: 02.06 Atmospheric Perspective Assignment
 date: 2025-09-04T09:00:00Z
-lastmod: 2025-09-30T06:53:40
+lastmod: 2025-09-30T13:43:04
 ---
 
 ## Assignment Deliverables
 
 1. Photoshop `psd` document with all layers and adjustments intact
-   - Label file YYYY-MM-DD Lastname Firsname Atmospheric Perspective.psd
+   - Label file YYYY-MM-DD Lastname Firstname Atmospheric Perspective.psd
 2. Exported `jpg` or `png` of completed image
-   - Label file YYYY-MM-DD Lastname Firsname Atmospheric Perspective.jpg
+   - Label file YYYY-MM-DD Lastname Firstname Atmospheric Perspective.jpg
 3. Description of process and self assessment `docx` or `pdf`
-   - Label file YYYY-MM-DD Lastname Firsname Atmospheric Perspective Self Assessment
+   - Label file YYYY-MM-DD Lastname Firstname Atmospheric Perspective Self Assessment
 
 ## Assignment Overview [^ligon]
 
@@ -55,7 +55,7 @@ Even artists that work in very abstract styles use the human perception of atmos
 Examine your image. Write a brief written self assessment of your project results.
 
 - What were the 4 levels of depth that you put in your composition? Which levels work better than others? Why?
-- Did you show asmospheric perspective? What techiques did you use?
+- Did you show atmospheric perspective? What techniques did you use?
 - Does your composition have focus and clarity? Why or why not? What visual decisions did you make to make the composition have a clear focal point and visual weight?
 - What is your favorite part of the project?
 - What is your least favorite part of the project?
