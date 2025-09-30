@@ -1,7 +1,7 @@
 ---
 title: 04.01 Color Palette Generation Exercise
 date: 2025-09-18T09:00:00Z
-lastmod: 2025-09-18T11:23:37
+lastmod: 2025-09-30T06:12:22
 ---
 
 ## Exercise Deliverables
@@ -40,3 +40,18 @@ Images naturally have a color palette. It may be good or bad, but it is there. I
 </div>
 
 [Create Color Palette from Any Image in Photoshop](https://youtu.be/F6N3vcNVSug)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                     | Weight    |
+| ------------------------------ | --------- |
+| Color Palette 1                | 10 points |
+| Color Palette 2                | 10 points |
+| Color Palette 3                | 10 points |
+| Color Palette 4                | 10 points |
+| List of Image Sources and URLs | 10 points |
+| File Management and Labeling   | 10 points |
+
+</div>

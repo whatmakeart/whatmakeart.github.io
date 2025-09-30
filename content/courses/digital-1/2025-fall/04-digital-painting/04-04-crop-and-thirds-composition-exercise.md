@@ -1,7 +1,7 @@
 ---
 title: 04.04 Crop and Thirds Composition Exercise
 date: 2025-09-18T09:00:00Z
-lastmod: 2025-09-18T13:08:43
+lastmod: 2025-09-30T06:13:25
 ---
 
 ## Exercise Deliverables
@@ -39,3 +39,18 @@ lastmod: 2025-09-18T13:08:43
 14. Stop recording the action.
 15. Scroll up to the name of the action.
 16. Now you can click the play button and it will repeat the recorded action on the other screenshots.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Image 1                      | 10 points |
+| Image 2                      | 10 points |
+| Image 3                      | 10 points |
+| Image 4                      | 10 points |
+| Thirds Lines Applied         | 10 points |
+| File Management and Labeling | 10 points |
+
+</div>
