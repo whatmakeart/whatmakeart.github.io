@@ -1,0 +1,27 @@
+---
+title: 06.07 Laser Cut and 3D Print Assignment
+date: 2025-10-03T09:30:00
+lastmod: 2025-09-30T06:08:57
+---
+
+## Assignment Deliverables
+
+## Project Requirements
+
+- Use 3D printing
+- Use Laser Cutting
+- Incorporate existing object(s) into structure and design
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                          | Weight    |
+| ----------------------------------- | --------- |
+| Use of 3D Printing                  | 50 points |
+| Use of Laser Cutting                | 50 points |
+| Incorporation of existing object(s) | 50 points |
+| Demonstrated Effort                 | 25 points |
+| Fabrication Craft                   | 25 points |
+
+</div>
