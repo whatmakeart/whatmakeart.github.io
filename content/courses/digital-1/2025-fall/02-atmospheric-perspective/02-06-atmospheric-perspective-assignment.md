@@ -1,7 +1,7 @@
 ---
 title: 02.06 Atmospheric Perspective Assignment
 date: 2025-09-04T09:00:00Z
-lastmod: 2025-09-18T11:23:05
+lastmod: 2025-09-30T06:53:40
 ---
 
 ## Assignment Deliverables
@@ -68,8 +68,8 @@ Examine your image. Write a brief written self assessment of your project result
 | Assessment                         | Weight    |
 | ---------------------------------- | --------- |
 | Minimum of 4 levels of depth       | 40 points |
-| Illusion of Depth                  | 30 points |
-| Compositional Clarity and Emphasis | 30 points |
+| Illusion of Depth                  | 40 points |
+| Compositional Clarity and Emphasis | 40 points |
 | PSD File Uploaded                  | 20 points |
 | Exported PNG or JPG uploaded       | 20 points |
 | Self Assessment Uploaded           | 30 points |

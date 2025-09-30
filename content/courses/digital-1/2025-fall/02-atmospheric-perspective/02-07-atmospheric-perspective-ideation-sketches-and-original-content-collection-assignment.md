@@ -1,7 +1,7 @@
 ---
 title: 02.07 Atmospheric Perspective Ideation Sketches and Original Content Collectoin Assignment
 date: 2025-09-04T09:00:00Z
-lastmod: 2025-09-04T11:39:43
+lastmod: 2025-09-30T06:25:25
 ---
 
 ## Assignment Deliverables
@@ -28,7 +28,7 @@ Refer to the [Atmospheric Perspective Assignment](./02-06-atmospheric-perspectiv
 ### Original Content Collection
 
 1. Take and use several (at least 5) individual, current photos as the basis for this project. Take photos of people and separate photos of places.
-2. Use a good camera. Mirroless cameras are at the equipment checkout. A cell phone can work if you are taking images with good lighting but you will be limited to a single, small aperture and a small camera sensor size.
+2. Use a good camera. Mirrorless cameras are at the equipment checkout. A cell phone can work if you are taking images with good lighting but you will be limited to a single, small aperture and a small camera sensor size.
 3. Take more photos than you think you will use.
 4. Take photos that relate to your ideation sketches. You can also base your ideation sketches on some of your photos. You should work back and forth fluidly from image collection to sketching and back.
 5. The goal is to create new creative content, not reuse old content. Create new photographs.
@@ -55,12 +55,12 @@ If you need to use public domain images they should be modified significantly an
 
 <div class="responsive-table-markdown">
 
-| Assessment                        | Weight     |
-| --------------------------------- | ---------- |
-| Minimum 5 thumbnails compositions | 30 points  |
-| Minimum 2 revised sketches        | 30 points  |
-| Sketch Documentation Quality      | 30 points  |
-| Minimum 5 original photos         | 301 points |
-| File Management and Labeling      | 10 points  |
+| Assessment                        | Weight    |
+| --------------------------------- | --------- |
+| Minimum 5 thumbnails compositions | 30 points |
+| Minimum 2 revised sketches        | 30 points |
+| Sketch Documentation Quality      | 30 points |
+| Minimum 5 original photos         | 30 points |
+| File Management and Labeling      | 10 points |
 
 </div>
