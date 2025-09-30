@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Fix Design Timeline Errors
 date: 2023-06-14T05:56:18
-lastmod: 2024-01-25T05:33:11
+lastmod: 2025-09-30T17:58:10
 tags:
   - Fusion 360
 ---
@@ -16,7 +16,9 @@ Red highlighting indicates an actual error or failure to compute the model. Thes
 
 ## Fix Timeline Errors in Fusion 360
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/F3673fmEymo?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/F3673fmEymok?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 </div>
 
 </div>

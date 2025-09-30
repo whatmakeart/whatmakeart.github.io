@@ -1,7 +1,7 @@
 ---
 title: 04.11 Model 3D Print and Laser Cut Project in Fusion 360 Assignment
 date: 2025-02-06T12:00:00Z
-lastmod: 2025-05-13T08:34:34
+lastmod: 2025-09-30T17:53:45
 ---
 
 ## Assignment Deliverables
@@ -131,7 +131,7 @@ A selection of fasteners are available for your use in the project. Your are not
 ### Laser Cut Finger Joints
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ZrcqauNvt0M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ZrcqauNvt0M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

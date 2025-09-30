@@ -1,7 +1,7 @@
 ---
 title: Rendering Basics - Blender
 date: 2023-06-14T13:53:02
-lastmod: 2025-03-21T06:41:14
+lastmod: 2025-09-30T17:53:45
 ---
 
 ## Eevee and Cycles
@@ -43,7 +43,7 @@ The Point Light has adjustments for color, power, diffuse, specular, volume, and
 ### Blender Basic Render
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/Qw8jl8mKEsY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/Qw8jl8mKEsY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -52,7 +52,7 @@ The Point Light has adjustments for color, power, diffuse, specular, volume, and
 ### Blender Tri Lighting Add On
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/SbMuowrbKe0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/SbMuowrbKe0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -61,7 +61,7 @@ The Point Light has adjustments for color, power, diffuse, specular, volume, and
 ### Blender Infinite Background
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/lsEYDk00WFs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/lsEYDk00WFs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -70,7 +70,7 @@ The Point Light has adjustments for color, power, diffuse, specular, volume, and
 ### Render Animation Sequence
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/KUF6M9pmjak?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/KUF6M9pmjak?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -79,7 +79,7 @@ The Point Light has adjustments for color, power, diffuse, specular, volume, and
 ### Add HDRI Background Blender
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/k-moDmBUrrI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/k-moDmBUrrI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

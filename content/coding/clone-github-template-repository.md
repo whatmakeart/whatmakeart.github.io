@@ -1,7 +1,7 @@
 ---
 title: Clone GitHub Template Repository
 date: 2024-01-11T16:41:22
-lastmod: 2024-01-17T13:02:25
+lastmod: 2025-09-30T17:53:45
 tags:
   - git
   - GitHub
@@ -10,7 +10,7 @@ tags:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/3ZLoapBD01w?si=zmux-lyKrPSk6lHj?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/3ZLoapBD01w?si=zmux-lyKrPSk6lHj?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 This tutorial provides a comprehensive guide on using a template from GitHub to create a new repository, and then integrating and working on this repository using Visual Studio Code, specifically for a p5.js project. Here's a step-by-step breakdown of the process:

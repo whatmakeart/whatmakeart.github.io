@@ -1,7 +1,7 @@
 ---
 title: How to Use a Solder Spool
 date: 2023-03-13T8:30:00-04:00
-lastmod: 2025-02-09T20:46:55
+lastmod: 2025-09-30T17:53:45
 description: In this video, I will show you how to load a solder spool with new solder. This is a quick and easy process that can be done in just a few minutes
 featured_image: /electronics/attachments/how-to-load-a-solder-spool.jpg
 tags:
@@ -10,7 +10,7 @@ tags:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/OWARembVjwM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/OWARembVjwM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## How to Load a Solder Spool with New Solder

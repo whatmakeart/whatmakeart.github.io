@@ -1,11 +1,11 @@
 ---
 title: Publish GitHub Branch from Visual Studio Code
 date: 2024-01-10T09:23:08
-lastmod: 2024-01-16T05:47:47
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/RT5GHBICcfo?si=AUeP6cdep3yop3-a?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/RT5GHBICcfo?si=AUeP6cdep3yop3-a?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 This tutorial provides a clear step-by-step guide on how to publish a branch to GitHub using Visual Studio Code. Here's a detailed breakdown of the process:

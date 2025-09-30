@@ -1,11 +1,11 @@
 ---
 title: How to Sew a Mock Flat Felled Seam
 date: 2024-08-23T05:17:54
-lastmod: 2024-08-23T05:18:13
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/SjNtI6-TicE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/SjNtI6-TicE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 While a mock flat felled seam resembles a true flat felled seam, which is commonly found in jeans and requires specialized equipment, this method is simpler and can be achieved with a standard sewing machine.

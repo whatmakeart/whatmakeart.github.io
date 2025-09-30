@@ -1,7 +1,7 @@
 ---
 title: 3D Print Box with Lid Fusion 360
 date: 2025-01-23T07:00:39
-lastmod: 2025-02-13T19:46:11
+lastmod: 2025-09-30T17:53:45
 tags:
   - Fusion 360
   - 3D Modeling
@@ -9,7 +9,7 @@ tags:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/CD1XSw5toJk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/CD1XSw5toJk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 [3D Print Box with Lid Fusion 360](https://youtu.be/CD1XSw5toJk)

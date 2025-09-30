@@ -1,7 +1,7 @@
 ---
 title: Hepp Maccoy
 date: 2023-09-01T09:30:00Z
-lastmod: 2023-11-05T05:02:29
+lastmod: 2025-09-30T18:27:15
 ---
 
 [Hepp Maccoy](https://heppmaccoy.com/) is a full-stack developer and artist specializing in interactive installations that often feature LEDs, sound and other interactive technology. Hepp's technical skills have been deployed in diverse situations ranging from fire breathing LED art cars at Burning Man to technical collaborations with studios for large brands such as Nike.
@@ -15,7 +15,7 @@ lastmod: 2023-11-05T05:02:29
 ### [Dragomi](https://dragomi.org/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe"  src="https://player.vimeo.com/video/443154751?h=eca8594ff6&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeoIframe"  src="https://player.vimeo.com/video/443154751?h=eca8594ff6&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 </div>
@@ -25,7 +25,7 @@ lastmod: 2023-11-05T05:02:29
 ### [Lumenscape: LEDs & 3D mapped-terrain](https://audiopixel.com/lumenscape-interactive-immersive-led-lighting-installation)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe"  src="https://player.vimeo.com/video/445670645?h=44e4f7bef4&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeoIframe"  src="https://player.vimeo.com/video/445670645?h=44e4f7bef4&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 </div>
@@ -35,7 +35,7 @@ lastmod: 2023-11-05T05:02:29
 ### [CMKY 2015 - Saturday Night @ Apex](http://cmky.org/festival/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe"  src="https://player.vimeo.com/video/125872695?h=1d38afa672&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeoIframe"  src="https://player.vimeo.com/video/125872695?h=1d38afa672&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 </div>
@@ -45,7 +45,7 @@ lastmod: 2023-11-05T05:02:29
 ### [SugarCubes 3D LEDs Previsualization Demo](http://cmky.org/festival/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe"  src="https://player.vimeo.com/video/443141529?h=6b76b95752&byline=0&portrait=0"width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeoIframe"  src="https://player.vimeo.com/video/443141529?h=6b76b95752&byline=0&portrait=0"width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 </div>
@@ -55,7 +55,7 @@ lastmod: 2023-11-05T05:02:29
 ### [Nike House of Innovation Beacon](https://heppmaccoy.com/item/nike-nyc-beacon/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe"  src="https://player.vimeo.com/video/304216074?h=c2b4b04303&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeoIframe"  src="https://player.vimeo.com/video/304216074?h=c2b4b04303&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 </div>
@@ -65,7 +65,7 @@ lastmod: 2023-11-05T05:02:29
 ### [Nike Feel Big Air Fan Installation](https://heppmaccoy.com/item/nike-nyc-fan-wall/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe"  src="https://player.vimeo.com/video/285928549?h=4cb888d89f&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeoIframe"  src="https://player.vimeo.com/video/285928549?h=4cb888d89f&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 </div>
@@ -75,7 +75,7 @@ lastmod: 2023-11-05T05:02:29
 ### [Meow Wolf Crown](https://heppmaccoy.com/item/meow-wolf-crown-light-sculpture/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" src="https://player.vimeo.com/video/443173633?h=350e47703e&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/443173633?h=350e47703e&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 </div>
@@ -85,7 +85,7 @@ lastmod: 2023-11-05T05:02:29
 ### [Interphase Interactive Installation with CacheFlowe](https://heppmaccoy.com/item/interphase-interactive-light-display/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" src="https://player.vimeo.com/video/297406229?h=c9c88f4730&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/297406229?h=c9c88f4730&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 </div>

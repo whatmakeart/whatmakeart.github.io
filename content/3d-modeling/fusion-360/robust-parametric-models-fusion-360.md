@@ -1,7 +1,7 @@
 ---
 title: Robust Parametric Models Fusion 360
 date: 2023-03-28T8:30:00-04:00
-lastmod: 2024-11-05T11:12:46
+lastmod: 2025-09-30T17:53:45
 description: In this Fusion 360 tutorial, I will show you how to make more robust parametric models for CNC Machining.
 featured_image: /3d-modeling/fusion-360/attachments/robust-parametric-models-fusion-360.jpg
 tags:
@@ -10,7 +10,7 @@ tags:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/QyylTzMDa54?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/QyylTzMDa54?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 Often it is important that your 3D Digital Model is robust. What does that mean to have a robust model? When you use the dimension of "ply" for the thickness of the [plywood](../../woodworking/plywood.md) you should periodically test different values of "ply" and any other user parameters that you have set. Check to see if you model updates and each piece is referencing the size of other pieces. It is a good idea to change to value of "ply" each time you make a new component or piece of your model to make sure all the parameters are changing the model as expected.

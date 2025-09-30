@@ -1,11 +1,11 @@
 ---
 title: Journey Through the Infinite Neon Tunnel A 5-Hour Visual and Auditory Escape
 date: 2023-11-28T07:23:03
-lastmod: 2023-11-28T07:29:52
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/McJMt7CJxHY" title="Neon Video Loop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/McJMt7CJxHY" title="Neon Video Loop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 Welcome to our latest video where we take you on a mesmerizing journey through the Infinite Neon Tunnel - a unique and captivating 5-hour looping video that combines stunning visuals with relaxing music, perfect for those seeking a tranquil escape or a concentration boost.

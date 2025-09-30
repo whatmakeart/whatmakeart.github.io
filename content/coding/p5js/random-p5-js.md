@@ -1,11 +1,11 @@
 ---
 title: Random p5.js
 date: 2024-01-24T11:43:45
-lastmod: 2024-02-05T16:48:35
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/2LJuwA_olPc?si=KfVpq-ruHa-3nLCD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/2LJuwA_olPc?si=KfVpq-ruHa-3nLCD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 The built in `random()` function in p5.js needs two parameters to work. It needs a minimum value and a maximum value. If no parameters are given to the `random()` function then it defaults to a minimum of `0` and a maximum of `1`. If a single value is given, then the function assumes the minimum is `0` and the passed parameter becomes the maximum. That means that `random(42);` is the same as `random(0, 42);` and each would give a random number between 0 and 42.

@@ -1,7 +1,7 @@
 ---
 title: CNC Tolerance and Fit
 date: 2023-06-14T13:40:02
-lastmod: 2024-04-18T07:13:37
+lastmod: 2025-09-30T17:53:45
 ---
 
 If parts are cut to the exact size on the CNC, then they will likely not fit. If a mortise is 18 mm wide and you try to put a 18 mm thick tenon to make a joint, then the wood will likely splinter or you will not be able to fit the parts together at all.
@@ -20,7 +20,7 @@ Before deciding on how large of a gap to create for part clearance, it is helpfu
 ### Tolerances and Fit
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/W8AcI8LkIrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/W8AcI8LkIrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

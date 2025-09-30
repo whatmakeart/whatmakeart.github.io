@@ -1,7 +1,7 @@
 ---
 title: How to Orbit in Ultimaker Cura
 date: 2022-02-22T8:30:00-04:00
-lastmod: 2025-04-29T04:56:57
+lastmod: 2025-09-30T17:53:45
 description: How to Orbit in Ultimaker Cura
 featured_image: /digital-fabrication/3d-printing/attachments/how-to-orbit-in-ultimaker-cura.jpg
 aliases: /posts/how-to-orbit-in-ultimaker-cura/
@@ -10,7 +10,7 @@ tags:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/LCW-KWKs2Gs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/LCW-KWKs2Gs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## How to Orbit and Pan in Ultimaker Cura

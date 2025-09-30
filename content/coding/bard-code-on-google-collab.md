@@ -1,7 +1,7 @@
 ---
 title: Run Bard Code on Google Collab
 date: 2023-05-17T8:10:00-04:00
-lastmod: 2024-01-17T13:02:42
+lastmod: 2025-09-30T17:53:45
 description: Run Bard Code on Google Collab
 featured_image: /coding/attachments/can-bard-code.jpg
 tags:
@@ -14,7 +14,7 @@ tags:
 ## How to Use Bard to Write and Debug Code
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/y6stpiO5x6o?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/y6stpiO5x6o?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In this video, I will show you how to use Bard, Google's large language model, to write and debug code. Bard is a powerful tool that can be used to generate code in a variety of programming languages. It can also be used to debug code, find errors, and suggest improvements.

@@ -1,7 +1,7 @@
 ---
 description: In this tutorial, I'll show you how to use Adobe Premiere to create the illusion of running super fast. This is a great trick for creating special effects videos, or for adding a touch of humor to your footage.
 date: 2021-04-18T14:46:26
-lastmod: 2023-09-07T20:57:01
+lastmod: 2025-09-30T17:53:45
 featured_image: /video/adobe-premiere-pro/attachments/run-fast-adobe-premiere-special-effect-tutorial.jpg
 tags:
   - Adobe Premiere
@@ -12,7 +12,7 @@ aliases:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/TDhRkUcCHZc?si=pcBOSFU010v9YVAH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/TDhRkUcCHZc?si=pcBOSFU010v9YVAH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Run Fast Special Effect Instructions

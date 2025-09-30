@@ -1,7 +1,7 @@
 ---
 title: How to Write recommendation Letters with ChatGPT
 date: 2023-01-01T09:55:58
-lastmod: 2025-01-22T10:03:52
+lastmod: 2025-09-30T17:53:45
 description: How to write recommendation letters with chatGPT
 featured_image: /coding/attachments/chatgpt-recomendation-letter.jpg
 tags:
@@ -10,7 +10,7 @@ tags:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/XsCRblZMB9M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/XsCRblZMB9M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In this video, we will show you how to use ChatGPT, a powerful [AI](../coding/ai-artificial-intelligence.md) language model, to write recommendation letters for students and job seekers. Whether you're a teacher, employer, or mentor, writing recommendation letters can be time-consuming and stressful. But with ChatGPT, the process becomes simple, efficient, and effective.

@@ -1,7 +1,7 @@
 ---
 title: Glowing Tip Magic Wand Video Effect
 date: 2021-04-23T8:30:00-04:00
-lastmod: 2023-10-31T04:55:53
+lastmod: 2025-09-30T17:53:45
 description: Add a glowing tip to your magic wand
 featured_image: /video/adobe-premiere-pro/attachments/glowing-tip-magic-wand-effect-adobe-premiere.jpg
 tags:
@@ -13,7 +13,7 @@ aliases:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/hKK5fOqIFsE?si=tpT8_Agp7Hq4jXhO?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/hKK5fOqIFsE?si=tpT8_Agp7Hq4jXhO?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Overview

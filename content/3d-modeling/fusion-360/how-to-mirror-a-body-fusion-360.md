@@ -1,6 +1,6 @@
 ---
 date: 2023-01-23T8:30:00-04:00
-lastmod: 2025-04-28T06:30:54
+lastmod: 2025-09-30T17:53:45
 description: In this Fusion 360 tutorial, I will show you how to mirror an object or a feature or a body or a component around another object even when it's not on a center line.
 featured_image: /3d-modeling/fusion-360/fusion-360-mirror-a-body.jpg
 tags:
@@ -10,7 +10,7 @@ title: Fusion 360 How to Mirror a Body
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/vwCUjtsghdI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/vwCUjtsghdI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Mirror Objects in Fusion 360

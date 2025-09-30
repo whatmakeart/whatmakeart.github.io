@@ -1,7 +1,7 @@
 ---
 title: 02.08 GitHub Pages
 date: 2024-01-26T09:30:00
-lastmod: 2024-01-29T10:52:34
+lastmod: 2025-09-30T17:53:45
 ---
 
 ## Register Domain from GitHub Student Developer Pack
@@ -35,7 +35,7 @@ Any GitHub repository can be served as a GitHub Pages site. You can specify a sp
 Setup Visual Studio Code and Git
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fb5stQYgM_Y?si=CQfVYqSeJZphdmmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fb5stQYgM_Y?si=CQfVYqSeJZphdmmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -44,7 +44,7 @@ Setup Visual Studio Code and Git
 Enforce https:// GitHub Pages
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/FBtehan5DAo?si=zSeszxNXFbwcjVa5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/FBtehan5DAo?si=zSeszxNXFbwcjVa5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -53,7 +53,7 @@ Enforce https:// GitHub Pages
 Visual Studio Code and GitHub
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/_WEyoLuuyYo?si=WKsJh2ZaXxrl3TTZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/_WEyoLuuyYo?si=WKsJh2ZaXxrl3TTZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -62,7 +62,7 @@ Visual Studio Code and GitHub
 GitHub Student Developer Pack
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/PZTLD7LvbWw?si=anWmMjzl-A30vw2R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/PZTLD7LvbWw?si=anWmMjzl-A30vw2R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

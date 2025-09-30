@@ -1,11 +1,11 @@
 ---
 title: p5.js Conditional Statement Ball Bounce
 date: 2024-01-24T05:13:57
-lastmod: 2024-01-26T05:03:00
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/y14SpHKL1gg?si=XlEGEaZWYJ_C8yf-?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/y14SpHKL1gg?si=XlEGEaZWYJ_C8yf-?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In this "Programming for Artists" tutorial, we're going to enhance a simple animation of a ball moving across the screen in a programming environment, using [JavaScript](../javascript.md) with the graphical library p5.js. From the [previous tutorial](./conditional-statements-p5-js.md), the initial state of the program has the ball moving in one direction until it goes off-screen. Our goal is to modify the code so that the ball bounces back when it reaches the edge of the screen.

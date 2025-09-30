@@ -1,7 +1,7 @@
 ---
 title: Array Modifier Basics
 date: 2025-02-10T07:11:31
-lastmod: 2025-02-10T07:12:39
+lastmod: 2025-09-30T17:53:45
 tags:
   - Blender
   - Tutorial
@@ -9,7 +9,7 @@ tags:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/VZYgIw0_QGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/VZYgIw0_QGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 [Array Modifier Basics](https://youtu.be/VZYgIw0_QGQ)

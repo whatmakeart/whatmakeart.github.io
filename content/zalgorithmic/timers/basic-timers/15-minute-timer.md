@@ -1,7 +1,7 @@
 ---
 title: 15 Minute Timer
 date: 2023-05-13T13:48:34
-lastmod: 2025-04-20T07:27:36
+lastmod: 2025-09-30T17:53:45
 description: 15 Minute Timer
 featured_image: /zalgorithmic/timers/basic-timers/attachments/15-minute-timer.jpg
 tags:
@@ -11,7 +11,7 @@ tags:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/wrBk-bY4VEc" title="15 Minute Timer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/wrBk-bY4VEc" title="15 Minute Timer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 This [15-minute timer](https://youtu.be/wrBk-bY4VEc) counts down silently until it reaches 0:00, then plays a calming sound of bubbling water to alert you that time is up. It is available in 4K at 60 frames per second.

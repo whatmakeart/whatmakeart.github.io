@@ -1,7 +1,7 @@
 ---
 title: Flying Visual Effect Tutorial
 date: 2021-04-20T13:42:06
-lastmod: 2023-10-31T04:56:29
+lastmod: 2025-09-30T17:53:45
 description: "Make a take off and landing flying visual effect"
 featured_image: /video/adobe-premiere-pro/attachments/flying-special-effect-in-adobe-premiere-tutorial.jpg
 tags:
@@ -12,7 +12,7 @@ aliases:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Ow3H6kZ8lR0?si=h8sA9v5exvPiMB9v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Ow3H6kZ8lR0?si=h8sA9v5exvPiMB9v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In this Adobe Premiere Pro tutorial, I will show you how to create the illusion of flying using simple editing techniques. We will start by creating a green screen background, then add a video of yourself jumping up into the air. Using the Ultra Key effect, we will remove the green screen and make it look like you are flying through the air. We will also add a shadow to make the effect more realistic. Finally, we will add some motion blur to give the illusion of speed.

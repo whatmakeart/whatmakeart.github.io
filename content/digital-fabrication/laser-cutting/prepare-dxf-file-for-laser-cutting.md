@@ -1,7 +1,7 @@
 ---
 title: Prepare DXF File for Laser Cutting
 date: 2023-06-14T13:02:24
-lastmod: 2025-04-28T05:34:29
+lastmod: 2025-09-30T17:53:45
 ---
 
 - [Illustrator DXF to Epilog Laser Cutter Prep](https://youtu.be/FhIUHIMpJMY)
@@ -82,7 +82,7 @@ Bring USB drive and / or Adobe Creative Cloud Password to think[box]. You need a
 #### Prepare Lasercut DXF file in Illustrator
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/FhIUHIMpJMY?si=hUK-0PKmJ6ppLuDR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/FhIUHIMpJMY?si=hUK-0PKmJ6ppLuDR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -91,7 +91,7 @@ Bring USB drive and / or Adobe Creative Cloud Password to think[box]. You need a
 #### Prepare Lasercut DXF file in Illustrator from Boxes.py
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/0M8M59Ymkbw?si=hUK-0PKmJ6ppLuDR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/0M8M59Ymkbw?si=hUK-0PKmJ6ppLuDR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

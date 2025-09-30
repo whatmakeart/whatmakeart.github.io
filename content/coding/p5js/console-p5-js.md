@@ -1,11 +1,11 @@
 ---
 title: Console p5.js
 date: 2024-01-22T13:43:23
-lastmod: 2024-01-24T15:06:45
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6mqHhBcZrdw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6mqHhBcZrdw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In this programming tutorial, we're diving deeper into the [p5.js online web editor](./p5-js-web-editor-basics.md), particularly focusing on the console. The console is a crucial tool in the p5.js environment, located at the bottom of the editor beneath your code. It essentially serves three main purposes:

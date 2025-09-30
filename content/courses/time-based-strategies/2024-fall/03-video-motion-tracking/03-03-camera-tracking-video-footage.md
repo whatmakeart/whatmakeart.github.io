@@ -1,7 +1,7 @@
 ---
 title: 03.03 Camera Tracking Video Footage
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-10T19:50:06
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="video-grid">
@@ -10,7 +10,7 @@ lastmod: 2024-09-10T19:50:06
 
 After Effects Camera Tracker
 
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/V2V9s4ESw2s?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/V2V9s4ESw2s?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

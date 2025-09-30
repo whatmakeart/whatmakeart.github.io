@@ -1,7 +1,7 @@
 ---
 title: Maya Infinite Photo Backdrop
 date: 2023-04-12T8:30:00-04:00
-lastmod: 2024-11-10T06:45:52
+lastmod: 2025-09-30T17:53:45
 description: In this Autodesk Maya tutorial, I will show you how to create an infinite photo swoop quickly out of just a plane.
 featured_image: /3d-modeling/maya/attachments/maya-infinite-photo-backdrop.jpg
 tags:
@@ -11,7 +11,7 @@ aliases: /posts/maya-infinite-photo-backdrop/
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/y2ylWfbrC58?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/y2ylWfbrC58?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## How to Create an Infinite Photo Swoop in Autodesk Maya

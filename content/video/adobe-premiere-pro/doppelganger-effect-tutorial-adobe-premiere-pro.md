@@ -1,7 +1,7 @@
 ---
 description: Meet your own doppelganger with simple video editing techniques
 date: 2021-04-19T03:19:56
-lastmod: 2023-09-07T20:57:01
+lastmod: 2025-09-30T17:53:45
 featured_image: /video/adobe-premiere-pro/attachments/doppelganger-effect-adobe-premiere-tutorial.jpg
 tags:
   - Adobe Premiere
@@ -12,7 +12,7 @@ aliases:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/PT1V1t61oT0?si=fj93EAoQZ5dcTaUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/PT1V1t61oT0?si=fj93EAoQZ5dcTaUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In this video tutorial, I will show you how to create a doppelganger effect in Adobe Premiere Pro. This effect can be used to make it look like there are two of you in the same scene.

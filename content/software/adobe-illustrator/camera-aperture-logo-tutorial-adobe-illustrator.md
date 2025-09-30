@@ -1,6 +1,6 @@
 ---
 date: 2021-10-02T8:30:00-04:00
-lastmod: 2024-01-17T10:44:18
+lastmod: 2025-09-30T17:53:45
 description: "Uset the transform effect to create a camera aperture logo in Adobe Illustrator"
 featured_image: "/software/adobe-illustrator/attachments/Illustrator-Aperture-Logo-Tutorial.jpg"
 tags:
@@ -10,7 +10,7 @@ title: "Camera Aperture Logo Tutorial Adobe Illustrator"
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/iPYjRqZsfG8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/iPYjRqZsfG8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Transcript

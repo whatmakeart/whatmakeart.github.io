@@ -1,6 +1,6 @@
 ---
 date: 2022-10-12T8:30:00-04:00
-lastmod: 2024-12-06T05:35:12
+lastmod: 2025-09-30T17:53:45
 description: In this video, I will show you how to add additional rooms to your floor plan in SketchUp. I will demonstrate two different methods, and I will also provide tips on how to avoid creating extra faces and geometry.
 featured_image: /posts/images/sketchup-add-rooms-to-floor-plan.jpg
 tags:
@@ -10,7 +10,7 @@ title: Add Rooms to a Floor Plan in SketchUp
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9neVB6ioeWo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9neVB6ioeWo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## How to Add Additional Rooms to Your Floor Plan in SketchUp

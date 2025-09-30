@@ -1,11 +1,11 @@
 ---
 title: Install GitHub Command Line
 date: 2024-01-11T16:16:57
-lastmod: 2024-01-12T05:40:34
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/PPOL_hgMMLk?si=h7bsn7J38GeQUPXK?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/PPOL_hgMMLk?si=h7bsn7J38GeQUPXK?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 Thank you for sharing this programming tutorial focused on installing and authenticating GitHub command line tools, specifically for artists who might be new to this aspect of technology. Let's break down the steps you provided into a clear, detailed guide:

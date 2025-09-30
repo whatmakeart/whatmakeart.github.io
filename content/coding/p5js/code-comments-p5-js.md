@@ -1,14 +1,14 @@
 ---
 title: Code Comments p5.js
 date: 2024-01-11T06:04:21
-lastmod: 2024-01-24T15:06:02
+lastmod: 2025-09-30T17:53:45
 tags:
   - p5.js
   - coding
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/A2pH3TOEgok?si=dv9BxZTB8orHlm8M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/A2pH3TOEgok?si=dv9BxZTB8orHlm8M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In this tutorial on programming for artists, the concept of code comments is introduced as a fundamental and valuable tool for enhancing code readability and maintainability. Let's break down the key points:

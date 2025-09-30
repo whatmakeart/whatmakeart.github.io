@@ -1,7 +1,7 @@
 ---
 title: 60 Minute Timer
 date: 2023-05-15T05:37:28
-lastmod: 2025-04-20T07:27:36
+lastmod: 2025-09-30T17:53:45
 description: 60 minute countdown timer in 4k 60fps with looping background animation. Silent 60 minute timer for the classroom or studying.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/60-minute-timer.jpg
 tags:
@@ -11,7 +11,7 @@ tags:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/LISF5q2Xmsw" title="60 Minute Timer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/LISF5q2Xmsw" title="60 Minute Timer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In today’s fast-paced educational landscape, maintaining focus can be challenging. Whether you’re a teacher orchestrating a classroom activity or a student delving into intense study sessions, a timer can be your best ally for productivity. This is where the unique "60 Minute Countdown Timer in 4K 60fps with Looping Background Animation" comes into play, offering an innovative solution to time management.

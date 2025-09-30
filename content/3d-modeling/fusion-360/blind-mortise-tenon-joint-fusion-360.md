@@ -1,6 +1,6 @@
 ---
 date: 2023-03-14T16:31:00-04:00
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-09-30T17:53:45
 description: In this Fusion 360 tutorial, I will show you how to model a blind tenon joint to use on a CNC machine.
 featured_image: /3d-modeling/fusion-360/attachments/fusion-360-blind-mortise-tenon-cnc-joint.jpg
 tags:
@@ -11,7 +11,7 @@ title: Blind Mortise and Tenon Joints in Fusion 360 Tutorial
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Pr7YYYhvJxY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Pr7YYYhvJxY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## How to Model a Blind Tenon Joint in Fusion 360

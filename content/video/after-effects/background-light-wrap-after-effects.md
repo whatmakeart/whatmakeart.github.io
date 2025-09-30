@@ -1,11 +1,11 @@
 ---
 title: Background Light Wrap After Effects
 date: 2023-09-04T21:23:08
-lastmod: 2024-07-17T09:13:10
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/P_gVhMT1doM?si=KJp6PqNM1OEjtt09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/P_gVhMT1doM?si=KJp6PqNM1OEjtt09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 This guide shows how to use a light wrap technique to integrate a figure into a background in After Effects. This is a great way to make your composited footage look more realistic.

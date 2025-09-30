@@ -1,7 +1,7 @@
 ---
 title: Flat Bottom 3D Scan with Boolean Intersect in Blender
 date: 2024-10-26T06:33:27
-lastmod: 2024-10-26T06:51:01
+lastmod: 2025-09-30T17:53:45
 tags:
   - Blender
   - Tutorial
@@ -9,7 +9,7 @@ tags:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/GHersJCQUVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/GHersJCQUVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 - [Flat Bottom with Boolean Intersect Tool in Blender](https://youtu.be/GHersJCQUVc)

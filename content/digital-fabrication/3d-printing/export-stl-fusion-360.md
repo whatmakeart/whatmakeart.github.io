@@ -1,7 +1,7 @@
 ---
 title: Export STL Fusion 360
 date: 2023-06-16T05:37:49
-lastmod: 2025-01-31T05:23:32
+lastmod: 2025-09-30T17:53:45
 ---
 
 Once we model something in [Fusion 360](../../3d-modeling/fusion-360/fusion-360.md) we want to be able to 3D print it or manufacture it in another way. To do that with a 3D printer, we need to be able to export an STL file. Once you complete your model for 3D printing, the first thing you need to decide is if you want to export multiple components. You can determine what will be exported by selecting the visibility of the components.
@@ -23,7 +23,7 @@ If you open the exported STL, you can preview the file to see what it's going to
 ### Export STL Fusion 360
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/I-ltiZdUFOA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/I-ltiZdUFOA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

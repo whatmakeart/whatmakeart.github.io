@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Basic Pattern Tools
 date: 2023-06-13T14:39:39
-lastmod: 2024-01-25T05:48:36
+lastmod: 2025-09-30T17:53:45
 tags:
   - Fusion 360
 ---
@@ -44,7 +44,7 @@ Examine everyday objects around you and look for different types of patterns.
 
 ### 1. Rectangular Pattern Tool
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Y0nYNZvL0EA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Y0nYNZvL0EA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -52,7 +52,7 @@ Examine everyday objects around you and look for different types of patterns.
 
 ### 2. Pattern Along a Path Tool
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9xit7JRPQ0A?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9xit7JRPQ0A?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

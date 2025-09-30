@@ -1,7 +1,7 @@
 ---
 title: "Living Hinges Minimum Bend Radius for Laser Cutting"
 date: 2021-02-16T8:30:00-04:00
-lastmod: 2023-12-10T04:55:57
+lastmod: 2025-09-30T17:53:45
 description: "Living hinges are a great way to bend plywood with a laser cutter"
 featured_image: "/digital-fabrication/laser-cutting/attachments/living-hinge-test-swatch.jpg"
 tags:
@@ -11,7 +11,7 @@ aliases:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/QvcpBnxsQws?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/QvcpBnxsQws?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 Living hinges are a great way to bend plywood with a laser cutter.

@@ -1,7 +1,7 @@
 ---
 title: Laser Cut File Generators
 date: 2024-02-01T12:00:00Z
-lastmod: 2025-02-14T05:19:37
+lastmod: 2025-09-30T17:53:45
 ---
 
 think\[box\] laser cutter kerf is ~0.127 millimeters.
@@ -12,5 +12,5 @@ think\[box\] laser cutter kerf is ~0.127 millimeters.
 - [Maker Case](https://en.makercase.com/#/)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/5eW3b8LVqtg?si=D3xTI9fwuMzFtKkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/5eW3b8LVqtg?si=D3xTI9fwuMzFtKkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>

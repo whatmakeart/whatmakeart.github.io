@@ -1,11 +1,11 @@
 ---
 title: How to Sew a Serged Seam with a Home Serger
 date: 2024-08-26T05:55:08
-lastmod: 2024-08-26T06:01:43
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/i-fqSmVhRjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/i-fqSmVhRjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In this tutorial, we will learn how to use a home [serger](./serger.md) to sew a basic straight seam while finishing the fabric edges simultaneously. A serger (also known as an overlocker) is a versatile sewing machine that trims fabric edges, encloses the edges in thread, and sews the seam all at once, creating a professional-looking finish.

@@ -1,14 +1,14 @@
 ---
 title: How to Use Multiple Instances of Ultra Key in Premiere Pro for Green Screen Keying
 date: 2023-09-04T16:10:36
-lastmod: 2023-09-07T20:57:01
+lastmod: 2025-09-30T17:53:45
 tags:
   - Adobe Premiere
   - Tutorial
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/d4O4HeDTXCw?si=PW5PmPTeHZrsVWPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/d4O4HeDTXCw?si=PW5PmPTeHZrsVWPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In this Adobe Premiere Pro tutorial, learn how to use multiple instances of the Ultra Key green screen effect to key out different colors of green. This is useful for situations where you have a green screen with multiple colors, or where the green screen is not perfectly even.

@@ -1,6 +1,6 @@
 ---
 date: 2023-04-19T8:30:00-04:00
-lastmod: 2025-04-28T06:17:21
+lastmod: 2025-09-30T17:53:45
 description: In this Blender tutorial, I will show you how to use texture paint on a simple object like a cube. Texture paint is a powerful tool that can be used to add realistic textures to your models.
 featured_image: /3d-modeling/blender/attachments/blender-texture-paint-quick-start.jpg
 tags:
@@ -11,7 +11,7 @@ title: Texture Paint in Blender
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/A0a-YndPpOM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/A0a-YndPpOM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## How to Use Texture Paint in Blender

@@ -1,6 +1,6 @@
 ---
 date: 2022-02-22T8:29:00-04:00
-lastmod: 2024-11-20T19:36:48
+lastmod: 2025-09-30T17:53:45
 description: "3D Printed 90 Degree Angle Bracket"
 featured_image: "/posts/3d-printed-90-degree-angle-bracket/3d print 90 degree bracket title.jpg"
 tags: ["3D Printing", "Fusion 360"]
@@ -10,7 +10,7 @@ aliases:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/lAX7XAcrvL4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/lAX7XAcrvL4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Transcript

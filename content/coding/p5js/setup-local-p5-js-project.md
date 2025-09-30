@@ -1,14 +1,14 @@
 ---
 title: Setup Local p5.js Project
 date: 2024-01-11T11:08:20
-lastmod: 2024-01-24T15:07:28
+lastmod: 2025-09-30T17:53:45
 tags:
   - p5.js
   - coding
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9Wxxh-vzg2w?si=G_EsL63LTzZiW9QK?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9Wxxh-vzg2w?si=G_EsL63LTzZiW9QK?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 Setting up a local p5.js project is a great way to work on more complex projects or to have complete control over your file hosting. Here's a detailed guide on how to set up your p5.js project on a local machine.

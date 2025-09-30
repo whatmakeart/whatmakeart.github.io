@@ -1,6 +1,6 @@
 ---
 date: 2023-01-23T8:30:00-04:00
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-09-30T17:53:45
 description: The Loft tool in Fusion 360 is a powerful feature that allows you to create smooth transitions between two or more profiles. This can be used to create a variety of shapes, from simple to complex.
 featured_image: /3d-modeling/fusion-360/attachments/fusion-360-loft-with-rails.jpg
 tags:
@@ -10,7 +10,7 @@ title: Fusion 360 Loft with Rails
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/OTBZuSGG6bc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/OTBZuSGG6bc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## How to Use the Loft Tool in Fusion 360

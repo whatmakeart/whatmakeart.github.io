@@ -1,6 +1,6 @@
 ---
 date: 2022-02-27T8:30:00-04:00
-lastmod: 2025-04-28T04:26:59
+lastmod: 2025-09-30T17:53:45
 description: "Turn Off Zebra Strip Analysis Fusion 360"
 featured_image: "/3d-modeling/fusion-360/attachments/turn-off-zebra-stripe-analysis-fusion-360/Turn off Zebra Analysis Fusion 360 Title.jpg"
 tags:
@@ -12,7 +12,7 @@ title: "Turn Off Zebra Strip Analysis Fusion 360"
 Can't turn off zebra analysis in [Fusion 360](./fusion-360.md)? How to remove zebra stripes in Fusion 360 Tutorial? Click the eyeball in the browser in the analysis folder to turn off the zebra analysis in Fusion 360 and make your model have regular appearance again.
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/xGk4xBtBt2g?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/xGk4xBtBt2g?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Turn Off Zebra Strip Analysis Fusion 360 Video Transcript

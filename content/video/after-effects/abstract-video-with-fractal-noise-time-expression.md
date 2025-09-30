@@ -1,12 +1,12 @@
 ---
 title: How to Make a Swirly Abstract Background in After Effects Using Time Expressions
 date: 2023-09-20T08:44:24
-lastmod: 2024-07-17T08:53:34
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="video-grid">
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/S9Iyd2gYnOk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/S9Iyd2gYnOk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </div>

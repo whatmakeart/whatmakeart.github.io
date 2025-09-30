@@ -1,7 +1,7 @@
 ---
 title: Why is my Photoshop brush a crosshair?
 date: 2022-02-20T8:30:00-04:00
-lastmod: 2025-08-30T10:15:23
+lastmod: 2025-09-30T17:53:45
 description: How to change your photoshop brush back to a circle after it is a cross hair
 featured_image: /photography/attachments/Photoshop-Brush-not-a-Circle-Title.jpg
 tags:
@@ -13,7 +13,7 @@ aliases:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fQz6vmnBbpM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fQz6vmnBbpM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 When you're using a brush in Photoshop and all you see is a crosshair instead of the full brush outline, it can be frustrating, especially if you're trying to work with precision. This issue usually happens because the Caps Lock key is turned on. The Caps Lock key toggles between showing the full outline of your brush and just the crosshair, which is intended for more precise work.

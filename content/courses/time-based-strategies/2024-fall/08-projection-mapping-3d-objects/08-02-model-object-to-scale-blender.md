@@ -1,7 +1,7 @@
 ---
 title: 08.02 Model Object to Scale Blender
 date: 2024-10-15T12:00:00
-lastmod: 2024-10-14T20:45:29
+lastmod: 2025-09-30T17:53:45
 ---
 
 To make a 3D model to scale in Blender, follow these steps:
@@ -26,7 +26,7 @@ Here are some additional tips for creating 3D models to scale in Blender:
 <div class="video-grid">
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7S1p17VvFiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7S1p17VvFiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </div>

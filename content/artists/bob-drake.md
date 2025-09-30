@@ -1,7 +1,7 @@
 ---
 title: Bob Drake
 date: 2023-11-05T05:01:00
-lastmod: 2023-11-14T09:14:35
+lastmod: 2025-09-30T17:53:45
 ---
 
 [Bob Drake](https://fluxmonkey.com/) is a sound artist and muscician.
@@ -9,7 +9,7 @@ lastmod: 2023-11-14T09:14:35
 <div class="video-grid">
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Vy4vNk6vKlU?si=kPJlrInKs3m0qPHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Vy4vNk6vKlU?si=kPJlrInKs3m0qPHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -17,7 +17,7 @@ lastmod: 2023-11-14T09:14:35
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/t8gLixW8Z54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/t8gLixW8Z54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </div>

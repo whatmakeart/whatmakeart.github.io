@@ -1,7 +1,7 @@
 ---
 title: 14 Minute Timer
 date: 2023-05-15T11:37:13
-lastmod: 2025-04-20T07:27:36
+lastmod: 2025-09-30T17:53:45
 description: This 14-minute timer features an abstract animated background that is perfect for focusing and staying on track.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/14-minute-timer.jpg
 tags:
@@ -11,7 +11,7 @@ tags:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/gnk3l9uQUwc" title="14 Minute Timer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/gnk3l9uQUwc" title="14 Minute Timer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 This [14-minute timer](https://youtu.be/gnk3l9uQUwc) features an abstract animated background that is perfect for focusing and staying on track. The timer is easy to use and can be customized to fit your needs. Simply click the start button and the timer will begin counting down. When the timer reaches zero, it will play a sound to alert you.

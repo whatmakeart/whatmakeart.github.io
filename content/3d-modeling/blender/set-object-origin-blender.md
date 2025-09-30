@@ -1,7 +1,7 @@
 ---
 title: Set Object Origin Blender
 date: 2025-02-10T07:14:00
-lastmod: 2025-02-10T07:14:56
+lastmod: 2025-09-30T17:53:45
 tags:
   - Blender
   - Tutorial
@@ -9,7 +9,7 @@ tags:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/vZ3wjjNaDUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/vZ3wjjNaDUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 [Set Object Origin Blender](https://youtu.be/vZ3wjjNaDUM)

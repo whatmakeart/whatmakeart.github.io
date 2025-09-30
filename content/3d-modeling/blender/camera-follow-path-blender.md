@@ -1,7 +1,7 @@
 ---
 title: Camera Follow Path in Blender
 date: 2023-12-07T10:49:25
-lastmod: 2024-10-15T06:34:51
+lastmod: 2025-09-30T17:53:45
 tags:
   - Blender
   - Tutorial
@@ -9,7 +9,7 @@ tags:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/5EQdQdtg-ao?si=MqSMSowpUwrmU2jx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/5EQdQdtg-ao?si=MqSMSowpUwrmU2jx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Blender Camera Follow Path Tutorial: Step-by-Step Instructions

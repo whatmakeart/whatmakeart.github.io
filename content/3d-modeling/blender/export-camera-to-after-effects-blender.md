@@ -1,12 +1,12 @@
 ---
 title: Export Blender Camera Animation to After Effects
 date: 2023-09-27T12:39:58
-lastmod: 2023-12-09T05:34:59
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="video-grid">
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/-XJ1_ZN4Qx4?si=Uo3lCMRRljqEdSXP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/-XJ1_ZN4Qx4?si=Uo3lCMRRljqEdSXP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

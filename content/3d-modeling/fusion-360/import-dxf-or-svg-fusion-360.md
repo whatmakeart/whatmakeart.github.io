@@ -1,14 +1,14 @@
 ---
 title: Import DXF or SVG to Fusion 360
 date: 2023-10-08T11:10:49
-lastmod: 2024-02-21T09:49:19
+lastmod: 2025-09-30T17:53:45
 tags:
   - Fusion 360
 ---
 
 <div class="video-grid">
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/aMBnke14Wgg?si=5mtJSNpBI40FeIHO?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/aMBnke14Wgg?si=5mtJSNpBI40FeIHO?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

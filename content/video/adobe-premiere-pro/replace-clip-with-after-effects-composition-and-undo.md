@@ -1,11 +1,11 @@
 ---
 title: Replace Clip with After Effects Composition and Undo
 date: 2024-09-24T08:46:55
-lastmod: 2024-09-24T09:22:34
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/yWgizCYYohQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/yWgizCYYohQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 [Replacing a clip in Adobe Premiere with an After Effects composition](https://youtu.be/yWgizCYYohQ) using dynamic linking can streamline video editing, but easily reversing the process takes a bit of preparation. Dynamic linking between Adobe Premiere and After Effects allows for seamless integration. Any changes made in After Effects will automatically update in Premiere. The problem with the traditional approach is that once a clip is replaced with an After Effects composition, the original clip is no longer easily accessible in Premiere. If you want to go back, it can be tricky, especially if you’ve made edits in Premiere.

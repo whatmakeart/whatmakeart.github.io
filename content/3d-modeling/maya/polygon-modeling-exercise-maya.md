@@ -1,7 +1,7 @@
 ---
 title: Beginner 3D Modeling in Maya Tutorial
 date: 2022-03-21T8:30:00-04:00
-lastmod: 2024-11-10T06:45:52
+lastmod: 2025-09-30T17:53:45
 description: Model a small block with a through hold and edge loops on the corners in Maya
 featured_image: /3d-modeling/maya/attachments/maya-beginner-modeling-tutorial.jpg
 tags:
@@ -10,7 +10,7 @@ aliases: /posts/3d-modeling-beginner-modeling-maya-tutorial/
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/lLItO9mBwxM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/lLItO9mBwxM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Description:

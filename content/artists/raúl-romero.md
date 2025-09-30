@@ -1,7 +1,7 @@
 ---
 title: Raúl Romero
 date: 2023-09-08T09:30:00
-lastmod: 2023-11-05T05:06:45
+lastmod: 2025-09-30T18:27:15
 ---
 
 <div class="gallery-grid">
@@ -50,7 +50,7 @@ Raúl Romero, _Transmissions of Transcendental Aspirations_, Image courtesy of t
 ### Raul Romero: Onomonopoetics Project
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" src="https://player.vimeo.com/video/585013806?h=8a23661a0f" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/585013806?h=8a23661a0f" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -59,7 +59,7 @@ Raúl Romero, _Transmissions of Transcendental Aspirations_, Image courtesy of t
 ### A vessel for infrasound: Transmission from Arecibo, 2020
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" src="https://player.vimeo.com/video/485557115?h=f1a2c7b1dd"  width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/485557115?h=f1a2c7b1dd"  width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -68,7 +68,7 @@ Raúl Romero, _Transmissions of Transcendental Aspirations_, Image courtesy of t
 ### A Euphonious Cacophony
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" src="https://player.vimeo.com/video/266930693?h=6431ffdb04"  width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/266930693?h=6431ffdb04"  width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -77,7 +77,7 @@ Raúl Romero, _Transmissions of Transcendental Aspirations_, Image courtesy of t
 ### Puentes
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" src="https://player.vimeo.com/video/324880048?h=6db7091160"  width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/324880048?h=6db7091160"  width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -86,7 +86,7 @@ Raúl Romero, _Transmissions of Transcendental Aspirations_, Image courtesy of t
 ### Hola
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" src="https://player.vimeo.com/video/150804175"  width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeoIframe" src="https://player.vimeo.com/video/150804175"  width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

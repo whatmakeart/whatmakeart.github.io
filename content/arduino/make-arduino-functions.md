@@ -1,6 +1,6 @@
 ---
 date: 2023-02-05T8:30:00-04:00
-lastmod: 2024-12-06T05:36:42
+lastmod: 2025-09-30T17:53:45
 description: Simplify your Arduino program by putting blocks of code into functions that are called in the loop. This way your Arduino sketch stays more organized and is easier to use.
 featured_image: /posts/images/make arduino functions.jpg
 tags:
@@ -9,7 +9,7 @@ title: Make Arduino Functions
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/eBAeqSWm_hw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/eBAeqSWm_hw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## How to Create Functions in Arduino

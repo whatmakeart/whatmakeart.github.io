@@ -1,7 +1,7 @@
 ---
 title: How to Create a New Color Swatch in Adobe Illustrator
 date: 2021-10-03T8:30:00-04:00
-lastmod: 2024-11-10T07:15:26
+lastmod: 2025-09-30T17:53:45
 description: How to create a new color swatch in Adobe Illustrator
 featured_image: /software/adobe-illustrator/attachments/Create-New-Color-Swatch-in-Adobe-Illustrator.jpg
 tags:
@@ -10,7 +10,7 @@ aliases: /posts/create-new-color-swatch-adobe-illustrator/
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/vw3VnrskTzE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/vw3VnrskTzE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Transcript

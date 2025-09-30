@@ -1,11 +1,11 @@
 ---
 title: How to Sew a Busted Seam
 date: 2024-08-26T05:49:54
-lastmod: 2024-08-26T05:50:10
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/aq98Y0TFZQs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/aq98Y0TFZQs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 A busted seam is a classic technique often found in jeans, which leaves the seam allowance flat and open, creating a clean and durable finish. This method prevents the seam edges from unraveling while maintaining the fabric's structure.

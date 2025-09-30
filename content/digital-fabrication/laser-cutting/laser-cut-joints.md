@@ -1,7 +1,7 @@
 ---
 title: Laser Cut Joints
 date: 2024-11-10T16:01:01
-lastmod: 2025-04-28T07:17:27
+lastmod: 2025-09-30T17:53:45
 ---
 
 There are many ways to join a laser cut project together ranging from gravity to glue to bolts to snap pieces. You can use a variety of ways to connect. Here are some example images of different methods of joining pieces together. There are many more ways. Search the internet for other methods of making laser cut joints.
@@ -19,7 +19,7 @@ There are many ways to join a laser cut project together ranging from gravity to
 ![Planar Butt Joint](./attachments/2024-02-07-planar-butt-joint.jpg)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/id2I8982n_g?si=Lq7cuOC8s78Ly2S9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/id2I8982n_g?si=Lq7cuOC8s78Ly2S9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -32,7 +32,7 @@ Finger joints are a common way to join laser cut projects together. They have an
 [![Laser Cut Finger Joints](attachments/2022-Finger-Joints-Laser-Cut.jpg)](attachments/2022-Finger-Joints-Laser-Cut.jpg)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ZrcqauNvt0M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ZrcqauNvt0M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -42,7 +42,7 @@ Finger joints are a common way to join laser cut projects together. They have an
 Although a laser cutter has a small kerf, it is almost imperceptible compared to the kerf of a [CNC](../cnc/cnc-basics.md) machine. For soft materials like wood, the rounded interior corners left by the laser's kerf can be ignored. For hard materials like acrylic or metal, dogbone fillets may be necessary on inside corners. Since the laser cutter can almost cut a square inside corner, we can make edge half lap joints.
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/L-I4FLnRj4c?si=EwcVcCdO4slye5ue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/L-I4FLnRj4c?si=EwcVcCdO4slye5ue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Mechanical Joints Without Fasteners
@@ -68,7 +68,7 @@ Pinned finger joints send a tab all the way through a hole in a panel. The tab e
 [![Laser Cut Pinned Finger Joints](attachments/2022-Pinned-Finger-Joints-Laser-Cut-Colors.jpg)](attachments/2022-Pinned-Finger-Joints-Laser-Cut-Colors.jpg)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/2r7NKS-3Wao?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/2r7NKS-3Wao?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -108,11 +108,11 @@ With properly sized slots and holes, bolts and nuts can be used to securely atta
 [![Laser Cut Captive Nut Joints](attachments/2022-Captive-Nut-Joints-Laser-Cut.jpg)](attachments/2022-Captive-Nut-Joints-Laser-Cut.jpg)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/57OT_SIW96U?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/57OT_SIW96U?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/UK8bsVQy4s8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/UK8bsVQy4s8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -179,7 +179,7 @@ Below is a collection of interesting laser cut joint demonstration videos from t
 On the [Lasersheets.eu blog](https://lasersheets.eu/blogs/news/hammer-joint), Jiskar Schmitz describes a "hammer" joint that uses a wedge to joint laser cut pieces together. The wedge must me put in place with a hammer, hence the name. The blog says the joint does not require glue but a bit of wood glue would likely make it stronger depending on the overall design. [^hammer-joint]
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/AAGuJ9D3QkQ?si=5Vf33ClRlzIntUOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/AAGuJ9D3QkQ?si=5Vf33ClRlzIntUOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ### Snap Fit Laser Cut Plastic
@@ -187,7 +187,7 @@ On the [Lasersheets.eu blog](https://lasersheets.eu/blogs/news/hammer-joint), Ji
 <figure>
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/vDdfib7CqlI?si=0kTZOQJd2GRIxVpT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/vDdfib7CqlI?si=0kTZOQJd2GRIxVpT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <figcaption>
@@ -202,7 +202,7 @@ _laser-cut snap-lock assembly_ by Amy Makes Stuff [^amy]
 [Flaticulation: Laser Cutting Joints with Articulated Angles](https://www.chiaofang.tw/research/flaticulation/Flaticulation.pdf) is a research paper by Chiao Fang, Vivian Hsinyueh Chan, and Lung-Pan Cheng that demonstrates how to make laser cut joints that snap into specific angles other than the typical 90 degree joint for laser cut assemblies. [^flaticulation]
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/j1Yg0lZpJf0?si=Sm_Arwp60IaVsi3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/j1Yg0lZpJf0?si=Sm_Arwp60IaVsi3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Further Reading

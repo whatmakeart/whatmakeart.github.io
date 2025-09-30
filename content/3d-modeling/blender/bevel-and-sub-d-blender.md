@@ -1,6 +1,6 @@
 ---
 date: 2022-12-13T8:30:00-04:00
-lastmod: 2025-04-28T06:17:21
+lastmod: 2025-09-30T17:53:45
 description: In this Blender tutorial, I will show you how to stack the bevel modifier in the sub D modifier to be able to have quick, easy, and editable bevels on your models.
 featured_image: /3d-modeling/blender/attachments/blender-bevel-and-sub-d.jpg
 tags:
@@ -12,7 +12,7 @@ title: Bevel and Sub D - Blender
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/R73wtu1Ixnw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/R73wtu1Ixnw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## How to Stack the Bevel Modifier in the Sub D Modifier for Quick and Editable Bevels in Blender

@@ -1,11 +1,11 @@
 ---
 title: Fix Bad Green Screen Footage
 date: 2023-09-04T20:42:37
-lastmod: 2024-07-17T09:12:38
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/hQbYGQ97aMQ?si=0kXwysj3AHpRL9Hy?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/hQbYGQ97aMQ?si=0kXwysj3AHpRL9Hy?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Introduction

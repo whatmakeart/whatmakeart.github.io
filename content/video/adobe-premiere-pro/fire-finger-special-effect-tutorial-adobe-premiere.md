@@ -1,7 +1,7 @@
 ---
 description: Create the visual effect of a fire on your finger tip
 date: 2021-04-17T14:40:26
-lastmod: 2023-09-07T20:57:01
+lastmod: 2025-09-30T17:53:45
 featured_image: /video/adobe-premiere-pro/attachments/fire-finger-special-effect-tutorial-adobe-premiere.jpg
 tags:
   - Adobe Premiere
@@ -12,7 +12,7 @@ aliases:
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/C8W0OD6X4UM?si=OIKALmszK5jy9vjd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/C8W0OD6X4UM?si=OIKALmszK5jy9vjd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In this quick tutorial, I'll show you how to create a simple but effective fire effect using just a few basic steps. No need for After Effects or any other complex software.

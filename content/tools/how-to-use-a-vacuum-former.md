@@ -1,7 +1,7 @@
 ---
 title: How to Use a Vacuum Former
 date: 2023-10-02T04:56:33
-lastmod: 2023-10-02T07:30:24
+lastmod: 2025-09-30T17:53:45
 ---
 
 ## Belovac Model BV C-Class 24"x 48"
@@ -36,7 +36,7 @@ Most thermoplastics up to 1/4" thick can be vacuum formed with a Belovac C Class
 
 <div class="video-grid">
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/bsdNZFMplyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/bsdNZFMplyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 </div>

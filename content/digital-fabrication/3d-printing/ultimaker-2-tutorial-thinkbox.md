@@ -1,7 +1,7 @@
 ---
 title: Ultimaker 2 Tutorial Thinbox
 date: 2023-06-15T05:30:32
-lastmod: 2024-03-28T07:19:19
+lastmod: 2025-09-30T17:53:45
 ---
 
 Below are instructions provided by Case Western Reserve University's think[box] for 3D printing with the Ultimaker 2+. [^1] After making a 3D model of your test print and exporting it as an STL file, you need to prepare the model for output on a 3D printer. For FFF 3D printers a software program called a slicer is used. This program cuts the model into different layers, like the layers of the Grand Canyon. It also calculates the supports needed for overhanging parts of the print. Once everything is set up in the slicer, a file can be exported to an SD card for use in the Ultimaker 2+ 3D printers at the think[box].
@@ -15,7 +15,7 @@ Below are instructions provided by Case Western Reserve University's think[box] 
 ### How to Orbit in Cura
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/LCW-KWKs2Gs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/LCW-KWKs2Gs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div>
 
 </div>

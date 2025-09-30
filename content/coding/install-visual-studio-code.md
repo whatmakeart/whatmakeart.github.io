@@ -1,11 +1,11 @@
 ---
 title: Install Visual Studio Code
 date: 2024-01-10T05:20:21
-lastmod: 2024-01-12T05:50:31
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/HDhPln-pccQ?si=KytCfA1Kt8qMEV46?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/HDhPln-pccQ?si=KytCfA1Kt8qMEV46?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In this tutorial, we're diving into the installation process of Visual Studio Code (VS Code), a versatile and powerful code editor used by many artists and programmers alike. The process is straightforward and user-friendly, accommodating various operating systems like Mac, Linux, and Windows. Let's go through each step in detail.

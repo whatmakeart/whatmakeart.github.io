@@ -1,11 +1,11 @@
 ---
 title: Setup Visual Studio Code and Git
 date: 2024-01-10T09:14:36
-lastmod: 2024-01-16T05:34:45
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fb5stQYgM_Y?si=Kup1z810GMrK4FSR?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fb5stQYgM_Y?si=Kup1z810GMrK4FSR?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In this programming for artists tutorial, we'll explore how to resolve the issue of missing Git in Visual Studio Code. This is crucial for artists who are delving into the world of code, as Git is a powerful tool for version control, allowing you to manage changes to your projects efficiently.

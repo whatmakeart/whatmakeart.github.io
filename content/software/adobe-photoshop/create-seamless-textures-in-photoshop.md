@@ -2,7 +2,7 @@
 title: How to Create Seamless Textures in Photoshop
 featured-image: /attachments/featured-images/seamless-textures-photoshop-tutorial.jpg
 date: 2023-06-15T05:50:58
-lastmod: 2025-08-30T10:37:17
+lastmod: 2025-09-30T17:53:45
 tags:
   - tutorial
 alias:
@@ -20,7 +20,7 @@ Seamless textures can then be placed on any UV mapped digital object and will fl
 ### Seamless Textures in Photoshop
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/PJ7L4S5ylqg?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/PJ7L4S5ylqg?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

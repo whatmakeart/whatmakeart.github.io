@@ -1,14 +1,14 @@
 ---
 title: Shatter Wall with Bullet Physics Maya
 date: 2024-02-29T06:03:01
-lastmod: 2025-04-29T05:43:45
+lastmod: 2025-09-30T17:53:45
 tags:
   - Maya
   - tutorial
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/37RCuAT9sEQ?si=GSgEiRe9WbRy4GYl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/37RCuAT9sEQ?si=GSgEiRe9WbRy4GYl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 This tutorial provides an in-depth guide on creating a dynamic simulation in Maya, specifically demonstrating how to make a wall shatter as if impacted by a ball using the Bullet physics solver. Here's a breakdown of the steps covered in the tutorial:

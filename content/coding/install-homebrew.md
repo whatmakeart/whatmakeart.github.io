@@ -1,11 +1,11 @@
 ---
 title: Install Homebrew
 date: 2024-01-10T05:20:21
-lastmod: 2024-01-12T05:44:48
+lastmod: 2025-09-30T17:53:45
 ---
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fQpcJc-kyVI?si=wTFSKEzjiYldlapU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fQpcJc-kyVI?si=wTFSKEzjiYldlapU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In this tutorial, you'll learn how to install Homebrew, a package manager for macOS, which simplifies the process of installing software on your computer. Homebrew is particularly useful for programmers and artists who often need to install various tools and libraries.
