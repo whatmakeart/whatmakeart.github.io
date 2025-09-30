@@ -1,7 +1,7 @@
 ---
 title: Bob Drake
 date: 2023-11-05T05:01:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-09-30T18:31:43
 ---
 
 [Bob Drake](https://fluxmonkey.com/) is a sound artist and muscician.
@@ -13,7 +13,7 @@ lastmod: 2025-09-30T17:53:45
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/214338095?h=258d1044b7" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/214338095?h=258d1044b7" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">

@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Sketch Constraints
 date: 2023-06-13T14:40:45
-lastmod: 2024-01-25T05:33:11
+lastmod: 2025-09-30T18:35:41
 tags:
   - Fusion 360
 ---
@@ -43,14 +43,14 @@ With the use of sketch constraints, it is not necessary to give dimensions to ev
 
 ### 1. Fusion 360 Sketch Constraints
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/vNdBkiO8Nfc?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/vNdBkiO8Nfc?rel=0" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 <div class="video-card">
 
 ### 2. Fusion 360 Fully Defined Sketch
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/9k7nsXpbZ5A?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/9k7nsXpbZ5A?rel=0" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 

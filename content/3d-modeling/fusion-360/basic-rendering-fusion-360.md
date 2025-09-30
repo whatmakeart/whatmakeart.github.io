@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Basic Rendering
 date: 2023-06-14T05:57:42
-lastmod: 2024-11-06T18:10:18
+lastmod: 2025-09-30T18:29:26
 tags:
   - Fusion 360
   - Rendering
@@ -29,7 +29,7 @@ Download the photo that you want and then you can attach a custom environment in
 
 ### 1. Rendering Aspect Ratio
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/NLr1FG27BGs?rel=0" width="560" height="315"  allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/NLr1FG27BGs?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
 </div>
 
@@ -37,7 +37,7 @@ Download the photo that you want and then you can attach a custom environment in
 
 ### 2. Custom HDRI Background
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/MmJL4zjfmic?rel=0" width="560" height="315"  allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/MmJL4zjfmic?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
 </div>
 
@@ -45,7 +45,7 @@ Download the photo that you want and then you can attach a custom environment in
 
 ### 3. Create Custom Materials for Rendering
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/2-k1KDkzIqU?rel=0" width="560" height="315"  allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/2-k1KDkzIqU?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
 </div>
 

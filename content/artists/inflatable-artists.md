@@ -1,7 +1,7 @@
 ---
 title: Inflatable Artists
 date: 2024-10-28T06:07:28
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-09-30T18:31:43
 ---
 
 <div class="auto-grid-wrapper">
@@ -158,7 +158,7 @@ lastmod: 2025-09-30T17:53:45
 [Max Streicher](https://www.maxstreicher.com/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/157203362?h=c6715a7a82" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/157203362?h=c6715a7a82" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -176,7 +176,7 @@ lastmod: 2025-09-30T17:53:45
 [Plastique Fantastique](https://plastique-fantastique.de/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/729984214?h=67e912dec5" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/729984214?h=67e912dec5" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

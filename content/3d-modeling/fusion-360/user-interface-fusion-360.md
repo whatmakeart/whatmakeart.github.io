@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 User Interface
 date: 2023-06-14T12:21:53
-lastmod: 2025-01-14T17:12:11
+lastmod: 2025-09-30T18:32:56
 tags:
   - Fusion 360
 ---
@@ -25,7 +25,7 @@ More in depth but essential features of Fusion 360 include:
 
 ### 1. Fusion 360 User Interface
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/YjaxBbTY3kc" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/YjaxBbTY3kc" width="300" height="150" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

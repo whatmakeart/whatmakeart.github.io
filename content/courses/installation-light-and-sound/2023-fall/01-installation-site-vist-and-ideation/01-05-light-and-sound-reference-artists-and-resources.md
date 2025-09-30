@@ -1,7 +1,7 @@
 ---
 title: 01.05 Light and Sound Reference Artists and Resources
 date: 2023-08-25T09:30:00Z
-lastmod: 2025-09-30T18:27:15
+lastmod: 2025-09-30T18:31:43
 ---
 
 <div class="two-column-grid-wrapper">
@@ -76,7 +76,7 @@ lastmod: 2025-09-30T18:27:15
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/76453883?h=7cd8a65c44" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/76453883?h=7cd8a65c44" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -108,7 +108,7 @@ lastmod: 2025-09-30T18:27:15
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/7235817?h=3e23495df6" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/7235817?h=3e23495df6" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -120,7 +120,7 @@ lastmod: 2025-09-30T18:27:15
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/153045838?h=6ae5174c06" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/153045838?h=6ae5174c06" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -128,7 +128,7 @@ lastmod: 2025-09-30T18:27:15
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/76813693?h=649c51b851" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/76813693?h=649c51b851" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -148,7 +148,7 @@ lastmod: 2025-09-30T18:27:15
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/169960197?h=3c0b7c47a9" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/169960197?h=3c0b7c47a9" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -160,15 +160,15 @@ lastmod: 2025-09-30T18:27:15
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/140277104?h=caac0d16fd" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/140277104?h=caac0d16fd" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/327520527?h=267fe3cc91" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/327520527?h=267fe3cc91" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/18626611?h=a8e143c832" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/18626611?h=a8e143c832" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -176,7 +176,7 @@ lastmod: 2025-09-30T18:27:15
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/749252346?h=81932f13f5" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/749252346?h=81932f13f5" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -196,7 +196,7 @@ lastmod: 2025-09-30T18:27:15
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/201858523?h=86e7dc934b" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/201858523?h=86e7dc934b" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -220,11 +220,11 @@ lastmod: 2025-09-30T18:27:15
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/203430701?h=0526a150a3" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/203430701?h=0526a150a3" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/146790656?h=7f4dc020a5" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/146790656?h=7f4dc020a5" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">

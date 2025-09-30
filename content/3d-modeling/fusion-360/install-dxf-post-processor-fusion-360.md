@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Install DXF Post Processor
 date: 2023-06-14T12:54:31
-lastmod: 2025-04-27T17:59:08
+lastmod: 2025-09-30T18:43:30
 tags:
   - Fusion 360
 ---
@@ -22,7 +22,7 @@ There are video instructions below showing [how to install the DXF post processo
 
 ## Download and Install DXF Post Process for Fusion 360
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/CBu6vl6Bqos?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/CBu6vl6Bqos?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div>
 
 </div>

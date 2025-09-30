@@ -1,7 +1,7 @@
 ---
 title: CNC Pocket Cuts and Joints
 date: 2023-06-15T14:28:14
-lastmod: 2024-04-18T07:13:37
+lastmod: 2025-09-30T18:32:56
 ---
 
 Although, a laser cutter can only etch on to the surface of the material or cut all the way through, a CNC router can make non-through cuts and 3 dimensional cuts. It can round off the top and make three-dimensional sculptural forms by cutting away parts of the material.
@@ -100,7 +100,7 @@ T-Lap Joint
 
 ### Tongue and Groove CNC Joints
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe"  src="https://www.youtube.com/embed/BA_oj65hh74?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe"  src="https://www.youtube.com/embed/BA_oj65hh74?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -108,14 +108,14 @@ T-Lap Joint
 
 ### Blind Mortise and Tenon CNC Joints
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe"  src="https://www.youtube.com/embed/Pr7YYYhvJxY?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe"  src="https://www.youtube.com/embed/Pr7YYYhvJxY?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 <div class="video-card">
 
 ### Simple CNC Joints
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe"  src="https://www.youtube.com/embed/O5IR9pr9vdo?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe"  src="https://www.youtube.com/embed/O5IR9pr9vdo?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

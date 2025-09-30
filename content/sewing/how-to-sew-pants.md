@@ -1,7 +1,7 @@
 ---
 title: How to Sew Pants
 date: 2023-05-23T21:59:40
-lastmod: 2024-07-21T08:46:05
+lastmod: 2025-09-30T18:50:55
 description: In this video, I will show you how to sew a pair of pants from start to finish. This is a beginner-friendly tutorial, so no prior sewing experience is required.
 featured image: /sewing/attachments/pants-sewing-tutorial.jpg
 tags:
@@ -9,7 +9,7 @@ tags:
   - Tutorial
 ---
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/p0rsjeDyg6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/p0rsjeDyg6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 In this video, I will show you how to sew a pair of pants from start to finish. This is a beginner-friendly tutorial, so no prior sewing experience is required.
 

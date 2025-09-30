@@ -1,7 +1,7 @@
 ---
 title: 03.06 Build Project Example Assignment
 date: 2025-02-03T12:00:00Z
-lastmod: 2025-02-24T05:38:08
+lastmod: 2025-09-30T18:52:03
 ---
 
 ## Assignment Deliverables
@@ -32,25 +32,25 @@ These examples were mostly created using large language models and plain languag
 
 ### Robot Arm Demo Arduino Mega
 
-<div style="left: 0; width: 100%; height: 400px; position: relative;"><iframe class="responsiveIframe" src="https://wokwi.com/share/embed/421951964700589057" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container"><iframe class="responsiveIframe" src="https://wokwi.com/share/embed/421951964700589057" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
 [Robot Arm Demo Arduino Mega - Wokwi Simulation](https://wokwi.com/projects/421951964700589057)
 
 ### Joystick Servo Motor Foosball ESP32
 
-<div style="left: 0; width: 100%; height: 400px; position: relative;"><iframe class="responsiveIframe" src="https://wokwi.com/share/embed/421966858463279105" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container"><iframe class="responsiveIframe" src="https://wokwi.com/share/embed/421966858463279105" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
 [Joystick Servo Motor Foosball ESP32 - Wokwi Simulation](https://wokwi.com/projects/421966858463279105)
 
 ### LED Sound Spectrum Visualizer ESP32
 
-<div style="left: 0; width: 100%; height: 400px; position: relative;"><iframe class="responsiveIframe" src="https://wokwi.com/share/embed/421277870994093057" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container"><iframe class="responsiveIframe" src="https://wokwi.com/share/embed/421277870994093057" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
 [LED Sound Spectrum Visualizer ESP32 - Wokwi Simulation](https://wokwi.com/projects/421277870994093057)
 
 ### Servo Motor Seaweed ESP32
 
-<div style="left: 0; width: 100%; height: 400px; position: relative;"><iframe class="responsiveIframe" src="https://wokwi.com/share/embed/421968913287885825" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container"><iframe class="responsiveIframe" src="https://wokwi.com/share/embed/421968913287885825" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
 [Servo Motor Seaweed ESP32 - Wokwi Simulation](https://wokwi.com/projects/421968913287885825)
 
@@ -61,6 +61,10 @@ These examples were mostly created using large language models and plain languag
 </div>
 
 [LED Traffic Light Demo Arduino - Tinkercad Simulation](https://www.tinkercad.com/things/7bc8ETRwlql-state-machine-traffic-light)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/a3cJiWxeiTU?si=vr8Aqma1-_HP87C_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## Grading Rubric
 

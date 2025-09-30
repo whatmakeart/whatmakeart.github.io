@@ -1,7 +1,7 @@
 ---
 title: "01.06 Fusion 360 Exercise Exported Render Assignment"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2025-09-30T18:32:56
 ---
 
 ## Deliverables
@@ -37,7 +37,7 @@ You can use [this sketch](../../../../drawing/attachments/2022-Sketch-of-Sample-
 
 ### 2. Fusion 360 3D Modeling Exercise
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/arTAFuBS-qI" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/arTAFuBS-qI" width="300" height="150" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 </div>

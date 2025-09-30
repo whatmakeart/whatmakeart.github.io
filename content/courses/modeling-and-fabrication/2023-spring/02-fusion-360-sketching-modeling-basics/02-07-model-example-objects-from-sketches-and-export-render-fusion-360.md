@@ -1,7 +1,7 @@
 ---
 title: "02.07 Model Example Objects from Sketches in Fusion 360"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2025-09-30T18:35:41
 ---
 
 ## Assignment Deliverables
@@ -27,7 +27,7 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 
 ### 1. Model USB Plug from Third Angle Projection
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/VLx9AsbZ8R0?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/VLx9AsbZ8R0?rel=0" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -35,7 +35,7 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 
 ### 2. Model Toy Block
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/OJx09e5SrEw?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/OJx09e5SrEw?rel=0" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -43,7 +43,7 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 
 ### 3. Model Drinking Glass
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/2agSzLpN8Z0?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/2agSzLpN8Z0?rel=0" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -51,7 +51,7 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 
 ### 4. Model Binder Clip
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/MLphWafTfWY?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/MLphWafTfWY?rel=0" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -59,7 +59,7 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 
 ### 5. Model Padlock
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/8CNllmIHQN0?rel=0" width="300" height="150" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/8CNllmIHQN0?rel=0" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 

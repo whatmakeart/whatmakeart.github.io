@@ -1,7 +1,7 @@
 ---
 title: 04.10 Multi Component Example Models for Laser cutting
 date: 2025-02-06T12:00:00Z
-lastmod: 2025-05-13T08:43:32
+lastmod: 2025-09-30T18:44:13
 ---
 
 <figure>
@@ -23,7 +23,7 @@ This [video](https://www.youtu.be/7RAdmbOudoo) walks through a simple phone stan
 
 ### Laser Cut Acrylic House Example
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/xz_Wum_3Hz0?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/xz_Wum_3Hz0?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -31,7 +31,7 @@ This [video](https://www.youtu.be/7RAdmbOudoo) walks through a simple phone stan
 
 ### Laser Cut Cell Phone Stand Example
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/7RAdmbOudoo?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/7RAdmbOudoo?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -41,6 +41,6 @@ This [video](https://www.youtu.be/7RAdmbOudoo) walks through a simple phone stan
 
 Laser cutters work on flat stock material that can only have curves when looking at it from a side profile. If multiple side profiles are arranged in a linear pattern and secured in place, organic forms can be make with a laser cutter. Starting wit ha simple organic form, Fusion 360 can be used to "slice" the 3D form into components that can be used for laser cutting.
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/dWYMBVTUvDA?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/dWYMBVTUvDA?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>

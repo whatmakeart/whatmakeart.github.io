@@ -1,7 +1,7 @@
 ---
 title: 02.09 Abstract Video
 date: 2023-09-05T09:00:00Z
-lastmod: 2025-09-30T18:27:15
+lastmod: 2025-09-30T18:31:43
 ---
 
 ## Historical Abstract Video Influences and Artists
@@ -127,7 +127,7 @@ Scott Snibbe - _Gravilux_
 
 Vibeke Sorensen - _Temple_
 
-<div class="iframe-16-9-container"><iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/88565245?h=8fdfd0a9dd" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/88565245?h=8fdfd0a9dd" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -159,7 +159,7 @@ Rafaël Rozendaal - _NFT Walkthrough_
 
 Robert Seidel - _sfumato_
 
-<div class="iframe-16-9-container"><iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/667262695?h=7906ca09f4" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/667262695?h=7906ca09f4" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

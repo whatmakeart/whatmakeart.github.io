@@ -1,7 +1,7 @@
 ---
 title: How to Copy a Pants Pattern
 date: 2023-05-23T21:59:40
-lastmod: 2024-09-22T19:59:19
+lastmod: 2025-09-30T18:50:55
 ---
 
 This tutorial will show you how to copy a pants pattern from an existing pair of pants without destroying the pants or taking the pants apart.
@@ -10,7 +10,11 @@ This tutorial will show you how to copy a pants pattern from an existing pair of
 
 To complete this tutorial you should be familiar with [How to Duplicate a T-Shirt Pattern](./how-to-duplicate-a-t-shirt-pattern.md).
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/BqeE2gqSrIc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/BqeE2gqSrIc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/oOZjbbe6YZk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## Instructions
 

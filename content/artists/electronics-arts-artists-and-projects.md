@@ -1,6 +1,6 @@
 ---
 title: Electronic Arts Artists and Projects
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-09-30T18:32:56
 date: 2024-11-10T16:01:02
 ---
 
@@ -104,7 +104,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Zimooun](https://www.zimoun.net/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/7235817?h=3e23495df6" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/7235817?h=3e23495df6" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 <div class="video-card">
@@ -121,7 +121,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [anne-f jacques](https://anne-fff.tumblr.com/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/295939586?h=70fe027487" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/295939586?h=70fe027487" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -185,7 +185,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Adam Cole](https://linktr.ee/adamcole.studio)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/651633372?h=44bce0d592" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/651633372?h=44bce0d592" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -212,7 +212,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Monica Cook](https://www.monicacook.com/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/259931736?h=f62a5c84e0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/259931736?h=f62a5c84e0" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -231,7 +231,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Audio Pixel](https://audiopixel.com/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/443154751?h=eca8594ff6" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/443154751?h=eca8594ff6" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -249,7 +249,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Neil Mendoza](https://www.neilmendoza.com/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/650842082?h=91497bfabc" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/650842082?h=91497bfabc" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -258,7 +258,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Saurabh Datta](https://www.dattasaurabh.com/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/491995523?h=6281a826d6" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/491995523?h=6281a826d6" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -267,7 +267,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Elise Migraine](https://www.instagram.com/elisemigraine/?hl=en)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/236594080?h=0c1b902502" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/236594080?h=0c1b902502" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -294,7 +294,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Ralf Baecker](https://rlfbckr.io/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/619068326?h=fc1dd90a74" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/619068326?h=fc1dd90a74" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -303,7 +303,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [mo H. zareei](https://millihertz.net/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe"  title="vimeo-player" src="https://player.vimeo.com/video/639373706?h=e632b84318" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe"  title="vimeo-player" src="https://player.vimeo.com/video/639373706?h=e632b84318" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -312,7 +312,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Behnaz Farahi](https://behnazfarahi.com/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe"  title="vimeo-player" src="https://player.vimeo.com/video/684022922?h=8eb4e06761" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe"  title="vimeo-player" src="https://player.vimeo.com/video/684022922?h=8eb4e06761" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -321,7 +321,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Project Eva](https://projet-eva.org/en/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe"  title="vimeo-player" src="https://player.vimeo.com/video/202098947?h=a2734d7c05" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe"  title="vimeo-player" src="https://player.vimeo.com/video/202098947?h=a2734d7c05" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -330,7 +330,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Jasna Dimitrovska](https://digitalmedia-bremen.de/project/three-machines-on-transparency/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/120682893?h=4a3e373d3f" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/120682893?h=4a3e373d3f" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -339,7 +339,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Anne Mariemaes](https://annemariemaes.net/home/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/158627265?h=0ab79dabd1" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/158627265?h=0ab79dabd1" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -348,7 +348,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Verena Friedrich](http://heavythinking.org/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe"  title="vimeo-player" src="https://player.vimeo.com/video/89723780?h=c3d6b12950" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe"  title="vimeo-player" src="https://player.vimeo.com/video/89723780?h=c3d6b12950" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -357,7 +357,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Jacob Tonski](https://jacobtonski.com/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/72826106?h=f0de1fba2c" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/72826106?h=f0de1fba2c" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -366,7 +366,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Marc de Pape](https://www.marcdepape.com/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/65505545?h=ca50ea970c" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/65505545?h=ca50ea970c" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -375,7 +375,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Thibault Brevet](https://www.thibault.io/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/60475086?h=9b8e57e07f" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/60475086?h=9b8e57e07f" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -402,7 +402,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 ### [Emma Shannon](https://emmashannon.is/me/)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/811853461?h=0861f278eb" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/811853461?h=0861f278eb" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 CNC Modeling
 date: 2023-06-14T13:25:50
-lastmod: 2025-02-13T19:49:00
+lastmod: 2025-09-30T18:32:56
 tags:
   - Fusion 360
   - CNC
@@ -73,7 +73,7 @@ This [video](https://youtu.be/GqXQ8TdzYRE) shows the process of creating a simpl
 
 ### CNC Hex Stool
 
-<div class="iframe-16-9-container" ><iframe class="youTubeIframe" src="https://www.youtube.com/embed/9utpuieg5lI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container" ><iframe class="youTubeIframe" src="https://www.youtube.com/embed/9utpuieg5lI?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -81,7 +81,7 @@ This [video](https://youtu.be/GqXQ8TdzYRE) shows the process of creating a simpl
 
 ### CNC End Table
 
-<div class="iframe-16-9-container" ><iframe class="youTubeIframe" src="https://www.youtube.com/embed/GzknioA34F8?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container" ><iframe class="youTubeIframe" src="https://www.youtube.com/embed/GzknioA34F8?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -89,7 +89,7 @@ This [video](https://youtu.be/GqXQ8TdzYRE) shows the process of creating a simpl
 
 ### CNC Two Level Table
 
-<div class="iframe-16-9-container" ><iframe class="youTubeIframe" src="https://www.youtube.com/embed/I6FEMdtcrpI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container" ><iframe class="youTubeIframe" src="https://www.youtube.com/embed/I6FEMdtcrpI?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -97,7 +97,7 @@ This [video](https://youtu.be/GqXQ8TdzYRE) shows the process of creating a simpl
 
 ### CNC Plywood Chair
 
-<div class="iframe-16-9-container" ><iframe class="youTubeIframe" src="https://www.youtube.com/embed/GqXQ8TdzYRE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container" ><iframe class="youTubeIframe" src="https://www.youtube.com/embed/GqXQ8TdzYRE?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

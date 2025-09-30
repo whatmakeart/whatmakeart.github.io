@@ -1,7 +1,7 @@
 ---
 title: Projection Mapping Examples
 date: 2024-10-08T06:14:24
-lastmod: 2025-09-30T18:27:15
+lastmod: 2025-09-30T18:32:56
 ---
 
 <div class="video-grid">
@@ -15,7 +15,7 @@ lastmod: 2025-09-30T18:27:15
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/270136166?h=e3e697c480" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/270136166?h=e3e697c480" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -31,7 +31,7 @@ lastmod: 2025-09-30T18:27:15
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/290517915?h=ea8118fe75" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/290517915?h=ea8118fe75" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -47,11 +47,11 @@ lastmod: 2025-09-30T18:27:15
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/287830649?h=4e64146dac" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/287830649?h=4e64146dac" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/265320824?h=17425bc2c6" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/265320824?h=17425bc2c6" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">
@@ -63,7 +63,7 @@ lastmod: 2025-09-30T18:27:15
 </div>
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/74124094?h=f6eccef12d" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/74124094?h=f6eccef12d" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="iframe-16-9-container">

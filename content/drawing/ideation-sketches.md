@@ -1,7 +1,7 @@
 ---
 title: Ideation Sketches
 date: 2023-06-13T16:11:02
-lastmod: 2024-11-25T06:04:31
+lastmod: 2025-09-30T18:31:43
 ---
 
 ## What is Ideation Sketching?
@@ -71,7 +71,7 @@ Example of [Hepp Maccoy](../artists/hepp-maccoy.md) working out interactive fan 
 [![Hepp Maccoy Air Max Day Fan Wall Installation](./attachments/2018-03-20-air-max-day-fan-wall-installation-hepp-maccoy.jpg)](./attachments/2018-03-20-air-max-day-fan-wall-installation-hepp-maccoy.jpg)
 
 <div class="iframe-16-9-container">
-<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/285928549?h=4cb888d89f" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/285928549?h=4cb888d89f" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -115,7 +115,7 @@ The [Dragomi Art Car](https://dragomi.org/about/) did not spontaneously come int
 [![Dragomi Art Car](./attachments/2018-dragomi-burningman-2018-art-car-03.jpg)](./attachments/2018-dragomi-burningman-2018-art-car-03.jpg)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" title="vimeo-player" src="https://player.vimeo.com/video/326638229?h=21a4eefcbf" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe class="youTubeIframe" title="vimeo-player" src="https://player.vimeo.com/video/326638229?h=21a4eefcbf" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </div>

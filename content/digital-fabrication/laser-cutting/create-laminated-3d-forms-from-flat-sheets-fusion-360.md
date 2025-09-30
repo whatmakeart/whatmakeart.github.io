@@ -1,13 +1,13 @@
 ---
 title: Create Laminated 3D Forms from Flat Sheets in Fusion 360
 date: 2023-11-12T08:37:23
-lastmod: 2024-01-25T05:33:11
+lastmod: 2025-09-30T18:44:13
 tags:
   - Fusion 360
 ---
 
 <div class="video-grid">
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/dWYMBVTUvDA?si=YMfzNNNKFWJkFKPW?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/dWYMBVTUvDA?si=YMfzNNNKFWJkFKPW?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

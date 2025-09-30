@@ -1,7 +1,7 @@
 ---
 title: 14.04 CNC and 3D Print Documentation Assignment
 date: 2024-04-25T12:00:00Z
-lastmod: 2024-04-28T01:24:17
+lastmod: 2025-09-30T18:32:56
 ---
 
 ## Assignment Deliverables
@@ -49,7 +49,7 @@ You can check out lights and a camera from the equipment checkout. You can also 
 
 ### Open Any Image in Camera Raw
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/ftMICesJwGc?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/ftMICesJwGc?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -57,7 +57,7 @@ You can check out lights and a camera from the equipment checkout. You can also 
 
 ### Camera Raw Tutorial
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/11jwSwUu2WI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/11jwSwUu2WI?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 title: "16.03 Magical Powers Video"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:32:54
+lastmod: 2025-09-30T18:45:30
 ---
 
 # Lights! Camera! You Have Magical Powers
@@ -124,7 +124,7 @@ Film yourself running. Then film the scene without you running. Put the empty sc
 
 <div class="half-box" style="flex: 1 1 400px; margin-top: 0; margin-bottom: 0;">
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/TDhRkUcCHZc?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/TDhRkUcCHZc?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -144,7 +144,7 @@ You can teleport through walls. You can teleport form the third floor to the fir
 
 <div class="half-box" style="flex: 1 1 400px; margin-top: 0; margin-bottom: 0;">
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/C4lfW2s7U7c?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/C4lfW2s7U7c?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -162,7 +162,7 @@ Use a tripod to shoot this shot. To make objects appear, start filming with noth
 
 <div class="half-box" style="flex: 1 1 400px; margin-top: 0; margin-bottom: 0;">
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/hKK5fOqIFsE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/hKK5fOqIFsE?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -180,7 +180,7 @@ With creative and well timed editing, good shot framing and a little imagination
 
 <div class="half-box" style="flex: 1 1 400px; margin-top: 0; margin-bottom: 0;">
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/Ow3H6kZ8lR0?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/Ow3H6kZ8lR0?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -198,7 +198,7 @@ Conjure up spells and the magic of the flame. You can use the provided [fire cli
 
 <div class="half-box" style="flex: 1 1 400px; margin-top: 0; margin-bottom: 0;">
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/C8W0OD6X4UM?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/C8W0OD6X4UM?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -218,7 +218,7 @@ For this effect to work without a green screen it is esential that your shots ar
 
 <div class="half-box" style="flex: 1 1 400px; margin-top: 0; margin-bottom: 0;">
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/PT1V1t61oT0?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/PT1V1t61oT0?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -510,7 +510,7 @@ In addition to rich visuals, adding music and sound to your video will make it c
 
 <div class="half-box" style="flex: 1 1 400px; margin-top: 0; margin-bottom: 0;">
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/Ds2QJryBf84?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/Ds2QJryBf84?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -530,7 +530,7 @@ Chose H.264 as the format and match the source with a high bitrate. Click on the
 
 ## Ultra Key Premiere Pro
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/gkZMbMUo-f0?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/gkZMbMUo-f0?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -538,7 +538,7 @@ Chose H.264 as the format and match the source with a high bitrate. Click on the
 
 ## Set Up Premiere Video Editing Project
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/zf8IDYvvUkY?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/zf8IDYvvUkY?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -546,7 +546,7 @@ Chose H.264 as the format and match the source with a high bitrate. Click on the
 
 ## Run Fast Effect
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/TDhRkUcCHZc?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/TDhRkUcCHZc?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -554,7 +554,7 @@ Chose H.264 as the format and match the source with a high bitrate. Click on the
 
 ## Fire Finger Effect
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/C8W0OD6X4UM?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/C8W0OD6X4UM?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -562,7 +562,7 @@ Chose H.264 as the format and match the source with a high bitrate. Click on the
 
 ## Video Double Effect
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/PT1V1t61oT0?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/PT1V1t61oT0?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -570,7 +570,7 @@ Chose H.264 as the format and match the source with a high bitrate. Click on the
 
 ## Teleport Effect
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/C4lfW2s7U7c?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/C4lfW2s7U7c?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -578,7 +578,7 @@ Chose H.264 as the format and match the source with a high bitrate. Click on the
 
 ## Flying Effect
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/Ow3H6kZ8lR0?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/Ow3H6kZ8lR0?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -586,7 +586,7 @@ Chose H.264 as the format and match the source with a high bitrate. Click on the
 
 ## Magic Wand Effect
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/hKK5fOqIFsE?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/hKK5fOqIFsE?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -600,7 +600,7 @@ Chose H.264 as the format and match the source with a high bitrate. Click on the
 
 ## Roto Brush Effect
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/ab0FEbKneks?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/ab0FEbKneks?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -608,7 +608,7 @@ Chose H.264 as the format and match the source with a high bitrate. Click on the
 
 ## Fix Bad Green Screen Footage
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/hQbYGQ97aMQ?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/hQbYGQ97aMQ?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -616,7 +616,7 @@ Chose H.264 as the format and match the source with a high bitrate. Click on the
 
 ## Fast Green Screen - After Effects
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/2b796PpS9y8?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/2b796PpS9y8?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 
@@ -624,7 +624,7 @@ Chose H.264 as the format and match the source with a high bitrate. Click on the
 
 ## Background Light Wrap - After Effects
 
-<div class="youtube-box" style="position: relative; width: 100%; height: 0px; padding-top: 56.25%; margin-top: 0; margin-bottom: 0;"><iframe class="youtube-iframe" style="position: absolute; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 1;" src="https://www.youtube.com/embed/P_gVhMT1doM?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/P_gVhMT1doM?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: How to Thread a Juki DDL 8700
 date: 2023-05-23T21:59:40
-lastmod: 2024-08-26T11:13:51
+lastmod: 2025-09-30T18:50:55
 ---
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe width="560" height="315" src="https://www.youtube.com/embed/ByMZ_x4DyIk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe width="560" height="315" src="https://www.youtube.com/embed/ByMZ_x4DyIk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 This tutorial will identify the main components of a Juki DDL 8700 lockstich industrial sewing machine including the bobbin, bobbin case, needle, presser foot, thread winder and stitch length adjustment. This is a very common straight stitch industrial sewing machine.
 

@@ -1,7 +1,7 @@
 ---
 title: 03.02 Green Screen Video Art
 date: 2023-09-12T09:00:00
-lastmod: 2025-09-30T18:27:15
+lastmod: 2025-09-30T18:31:43
 ---
 
 ## Green Screen Video Art
@@ -19,7 +19,7 @@ lastmod: 2025-09-30T18:27:15
 
 Zbig Rybcynski - _Tango_
 
-<div class="iframe-16-9-container"><iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/38580206?h=a86a115226" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/38580206?h=a86a115226" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -67,7 +67,7 @@ Peter Campus Three Transitions Interview
 
 Kasumi - _Oh So Hollywood_
 
-<div class="iframe-16-9-container"><iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/166126634?h=ce0e66ed39" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/166126634?h=ce0e66ed39" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

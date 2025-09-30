@@ -1,7 +1,7 @@
 ---
 title: 15.01 Update Website Portfolio
 date: 2020-01-26T23:11:13Z
-lastmod: 2025-08-30T10:40:17
+lastmod: 2025-09-30T18:32:56
 ---
 
 Maintaining an online presence for your work will be important for your career as a creative professional. In Digital I, you learned how to make a basic website with and image gallery portfolio page. If not kept current, websites can quickly become out of date and then not give the best first impression to visitors interested in your work. Keep your website fresh by periodically updating your portfolio images.
@@ -10,7 +10,7 @@ You can swap out old images on your current portfolio page, or you can add them 
 
 For this assignment you need to have a page that has a presentation of work that you completed for Digital II this semester. That can be images or video or both. Your website should have a custom domain name of your choice. After the semester end you can edit and change the website however you wish.
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/fqVYMRMsqLs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/fqVYMRMsqLs" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Requirements
 
