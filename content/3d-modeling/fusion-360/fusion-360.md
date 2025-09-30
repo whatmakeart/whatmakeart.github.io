@@ -1,7 +1,7 @@
 ---
 title: Fusion 360
 date: 2023-05-26T02:50:47
-lastmod: 2025-04-27T18:47:14
+lastmod: 2025-09-30T19:05:07
 aliases:
   - Fusion 360
 ---
@@ -31,3 +31,7 @@ Parametric modeling allows the use of variables or parameters to stand in for ha
 #### Geodesic Formula for Fusion 360
 
 golden_ratio = (1+sqrt(5))/2 length = width * golden_ratio width = sqrt(4*sphere_radius^2/(1+golden_ratio^2))
+
+- [3D Model a Penguin in Form Workspace Fusion 360](./3d-model-a-penguin-character-for-3d-printing-fusion-360.md)
+- [3D Print Box with Lid Fusion 360](../../digital-fabrication/3d-printing/3d-print-box-with-lid-fusion-360.md)
+- [3D Printable Adjustable Angle Bracket in Fusion 360](../../digital-fabrication/3d-printing/adjustable-parametric-3d-printed-angle-bracket-in-fusion-360.md)

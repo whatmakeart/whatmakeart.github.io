@@ -1,10 +1,13 @@
 ---
+title: "3D Model a Penguin in Form Workspace in Fusion 360"
 date: 2022-02-20T8:38:00-04:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-09-30T19:03:10
 description: "3D Model a Penguin in Form Workspace in Fusion 360"
 featured_image: "/3d-modeling/fusion-360/attachments/3d-print-a-penguin-model-from-fusion-360.jpg"
-tags: ["Fusion 360", "3D Modeling", "3D Printing"]
-title: "3D Model a Penguin in Form Workspace in Fusion 360"
+tags:
+  - Fusion 360
+  - 3D Modeling
+  - 3D Printing
 ---
 
 <div class="iframe-16-9-container">
