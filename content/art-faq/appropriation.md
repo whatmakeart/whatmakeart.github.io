@@ -1,14 +1,14 @@
 ---
 title: Appropriation
 date: 2024-12-10T05:43:16
-lastmod: 2025-10-01T10:01:49
+lastmod: 2025-10-01T10:03:00
 ---
 
 To appropriate means to take something for your own and as often synonymous with theft, stealing, taking, or poaching.[^cambridge-appropriation] It can also mean a specific amount of money set aside for a specific use such as Appropriations or Budget Bills in Congress.[^cbo] In both cases appropriation has connotations of acquiring and or use of a thing, sometimes with permission and sometimes without.
 
 In a 1982 article in _The New York Times_, Andy Grudberg describes appropriation, or using someone else's work, and says it may call "...into question modernist orthodoxy concerning originality as well as the entire notion of an avant-garde ..." but also might just be theft.[^grundberg]
 
-Do internet memes appropriate culture or steal it? Are memes [fair use](../copyright/fair-use.md)? That depends. Getty images sent a letter to the site [getdigital.de](https://www.getdigital.de/) demanding payment for alleged unauthorized use of the "Socialy Awkward Penguin" meme since the penguin photo in the original meme was taken from a photograph by photographer, [George Mobley](https://georgefmobley.com/). In the meme, the original penguin remains but the background is swapped with a radial geometric blue pattern. Does selecting a subject from a photo and changing the background rise to the level of transformative use? If the text commentary on the meme focused on penguins or photography would is rise to the level of satire or parody? How would you feel if your photo was used to create a meme without permission?
+Do internet memes appropriate culture or steal it? Are memes [fair use](../copyright/fair-use.md)? That depends. Getty images sent a letter to the site [getdigital.de](https://www.getdigital.de/) demanding payment for unauthorized use of the "Socialy Awkward Penguin" meme since the penguin photo in the original meme was taken from a photograph by photographer, [George Mobley](https://georgefmobley.com/). In the meme, the original penguin remains but the background is swapped with a radial geometric blue pattern. Does selecting a subject from a photo and changing the background rise to the level of transformative use? If the text commentary on the meme focused on penguins or photography would is rise to the level of satire or parody? How would you feel if your photo was used to create a meme without permission?
 
 ## Appropriation vs Reference vs Influence
 
