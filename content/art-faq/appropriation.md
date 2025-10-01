@@ -1,7 +1,7 @@
 ---
 title: Appropriation
 date: 2024-12-10T05:43:16
-lastmod: 2025-10-01T10:03:00
+lastmod: 2025-10-01T10:05:32
 ---
 
 To appropriate means to take something for your own and as often synonymous with theft, stealing, taking, or poaching.[^cambridge-appropriation] It can also mean a specific amount of money set aside for a specific use such as Appropriations or Budget Bills in Congress.[^cbo] In both cases appropriation has connotations of acquiring and or use of a thing, sometimes with permission and sometimes without.
@@ -12,7 +12,7 @@ Do internet memes appropriate culture or steal it? Are memes [fair use](../copyr
 
 ## Appropriation vs Reference vs Influence
 
-The Romans appropriated Greek column orders. The Romans did't steal the Greek column designs but merely referenced them. The Romans were influenced by Greek column construction and modified the basic concepts into their own visual language. All of these statements are essentially true but have different connotations about Roman column construction.
+The Romans appropriated Greek column orders. The Romans did't steal the Greek column designs but merely referenced them. The Romans were influenced by Greek column construction and modified the basic concepts into their own visual language. All of these statements are essentially true but have different connotations about Roman column construction. If you drew a picture of a column from your head without looking at the images below, would it already have some of the elements of Greek and Roman columns? If it does have similar elements, did you appropriate them, reference them, or were you influenced by them?
 
 <div class="gallery-grid">
 
@@ -80,6 +80,7 @@ English speakers use the French _déjà vu_ rather than the longer "feeling like
 </figcaption>
 
 </div>
+
 Juliet says, "A <del>rose</del> _tub of buttery goodness_ by any other name would smell as sweet". Think about that often yellow plant that makes fluffy stuff to eat while watching movies. If you are American you likely call it corn while, with a few exceptions, the rest of the world calls it maize. The Native American word _maiz_ derives from the Taíno word _mahiz_ meaning "life giving seed".[^corn-america] Does that mean the Spanish word _panizo_, or the Italian word _polenta_ are wrong? Corn might considered less "good" since it stems from the French term _Turcicum frumentum_ that the British translated to "Turkey Wheat/Indian Corn" to classify it as a "savage" or uncivilized grain, which Americans shortened to just corn.[^maize-corn] It could also be seen as part of genuine American and English speaking culture, ready to be appropriated by others.
 
 ## Additional Articles
