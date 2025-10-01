@@ -1,17 +1,15 @@
 ---
 title: 06.07 Process Three Public Domain Images for Laser Etching Assignment
 date: 2025-02-26T09:00:00
-lastmod: 2025-10-01T14:29:56
+lastmod: 2025-10-01T14:38:58
 ---
 
 ## Assignment Deliverables
 
-1. Upload 3 original images sourced from the public domain
-   - Label image files YYYY-MM-DD Lastname Firstname public domain original 1 (`.png`, `.jpg`, `.tiff`)
-1. Upload minimum 1 processed image
-   - Label image file(s) YYYY-MM-DD Lastname Firstname public domain processed (`.png`, `.jpg`, `.tiff`)
-1. Upload a `PDF` or `docx` with information about the image and source URL
-   - Label file YYYY-MM-DD Lastname Firstname image source information
+1. Upload 3 images sourced from the public domain.
+   - Label image files YYYY-MM-DD Lastname Firstname public domain image 1.ext (.png, .jpg, .tiff)
+2. Upload a `PDF` or `docx` with information about the image and source URL
+   - Label file YYYYMMDD Lastname Firstname image source information
 
 ## Assignment Overview
 
