@@ -1,7 +1,7 @@
 ---
 title: Public Domain
 date: 2023-05-23T21:59:41
-lastmod: 2025-09-16T05:08:59
+lastmod: 2025-10-01T14:34:50
 ---
 
 The public domain is a collection of creative works that are not protected by intellectual property laws, such as [copyright](../copyright/copyright-for-artists.md), trademark, or patent laws. This means that anyone can use, reproduce, distribute, or modify these works without obtaining permission from the original copyright holder.
@@ -25,6 +25,21 @@ A funny example of copyrighted material being mislabeled as public domain happen
 ## Public Domain Collections
 
 The resources below have collections of public domain, images, videos and sounds and offer them for use free of charge. They are also relatively reputable sources so you can be sure that the resources are actually in the public domain, unlike some random websites that claim to have public domain images without providing reliable means of verifying their claims. It is not uncommon to find copyrighted images and content falsely listed on less reputable "public domain" collections.
+
+### New York Public Library Digital Collections
+
+The [New York Public Library Digital Collections](https://digitalcollections.nypl.org/collections/the-new-york-times#/?tab=navigation) has a [searchable database](https://digitalcollections.nypl.org/collections/the-new-york-times#/?tab=navigation) of imagery that is in the public domain. It has a visual interface as well as a text-based search. Images are often available to be downloaded at multiple resolutions, including very high resolution scans in TIF format.
+
+### Smithsonian Open Access
+
+The [Smithsonian Open Access](https://www.si.edu/openaccess) archives has high resolution photographs of artifacts from its collection. And also has lots of highly detailed 3D Scans of objects that you can use in [3D-Modeling](../3d-modeling/3d-modeling.md).
+
+### Library of Congress
+
+The Library of Congress has collections of items in the public domain as well as items still under copyright. It is a great resource but one must double check the rights status of works.
+
+- [Library of Congress Moving Image Research Center](https://www.loc.gov/rr/mopic/pubdomain.html)
+- [Library of Congress Pictures](https://www.loc.gov/pictures/)
 
 ### Government Public Domain Collections
 
@@ -50,21 +65,6 @@ The resources below have collections of public domain, images, videos and sounds
 - [Prelinger Archive](https://archive.org/details/prelinger)
 - [Internet Archive](https://archive.org/details/movies) _Be careful with the internet archive and always confirm something is in the public domain before using._
 - [Space X Public Domain Images](https://www.flickr.com/photos/spacex/)
-
-### New York Public Library Digital Collections
-
-The [New York Public Library Digital Collections](https://digitalcollections.nypl.org/collections/the-new-york-times#/?tab=navigation) has a [searchable database](https://digitalcollections.nypl.org/collections/the-new-york-times#/?tab=navigation) of imagery that is in the public domain. It has a visual interface as well as a text-based search. Images are often available to be downloaded at multiple resolutions, including very high resolution scans in TIF format.
-
-### Smithsonian Open Access
-
-The [Smithsonian Open Access](https://www.si.edu/openaccess) archives has high resolution photographs of artifacts from its collection. And also has lots of highly detailed 3D Scans of objects that you can use in [3D-Modeling](../3d-modeling/3d-modeling.md).
-
-### Library of Congress
-
-The Library of Congress has collections of items in the public domain as well as items still under copyright. It is a great resource but one must double check the rights status of works.
-
-- [Library of Congress Moving Image Research Center](https://www.loc.gov/rr/mopic/pubdomain.html)
-- [Library of Congress Pictures](https://www.loc.gov/pictures/)
 
 ## Further Reading
 
