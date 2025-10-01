@@ -1,21 +1,17 @@
 ---
 title: 08.04 Rephotography Laser Etched Relief Printing Assignment
 date: 2025-10-15T12:00:00
-lastmod: 2025-08-20T15:21:27
+lastmod: 2025-09-30T20:09:59
 ---
 
 ## Assignment Deliverables
 
 1. A unique, singular work of Rephotography from an appropriated image
-2. An edition of the same appropriated image made with relief printing or intalio printing (minimum 3 identical copies)
+2. An edition of the same appropriated image made with relief printing or intaglio printing (minimum 3 identical copies)
 3. Written description of the work and its intent (`.docx` or `.pdf`)
    - Label file YYYYMMDD Lastname Firstname rephotography work description
 
 ## Assignment Overview
-
-The term "matrix" often refers to the original mold used to produce a final product in manufacturing such as the matrix to press vinyl records, or the matrix die to stamp out coins, or the matrix used to cast letterpress letters. The matrix is a means to an end. It is an intermdieary rather than the final result. It is the inverse of the desired form yet carries all of the information necessary to produce the desired form.
-
-In printmaking it is common to refere to anything that holds the ink as a matrix. Once transferred from the original image to the plate and then to the pulled print the image is transformed in the reproduction.
 
 ## Assignment Process
 
@@ -36,22 +32,14 @@ In printmaking it is common to refere to anything that holds the ink as a matrix
 
 1. What does it mean in context to transform a photographic image through all these steps?
 2. What makes something singular versus and edition?
-3. Can authoship be removed from an image?
+3. Can authorship be removed from an image?
 4. How does appropriation alter or not alter an image?
 
 ## Potential Investigations
 
-1. Pull a print with the bare wood before applying any sealer such as shellac. You can do this when testing the printing press preassure. It often creates a uniqu "mono-print" with the residue of the laser etching and wood material visiable in the print.
+1. Pull a print with the bare wood before applying any sealer such as shellac. You can do this when testing the printing press pressure. It often creates a unique "mono-print" with the residue of the laser etching and wood material visible in the print.
 2. What happens to the image if it is transformed into thread and fabric on a digital embroidery machine?
-3. Can you reproduce the image with 3D printing using AI 3D mesh generative tools to create a 3D version of the image?
-
-## Assignment Resources
-
-### 3D Mesh Generation from 2D Image
-
-- [Meshy AI](https://www.meshy.ai/) - Free 3D Mesh Generator but requires sign in
-- [VFusion3D Demo on Hugging Face](https://huggingface.co/spaces/facebook/VFusion3D) - Makes good videos but the 3D meshes are blocky
-- [VFusion3D Demo on Google Colab](https://github.com/whatmakeart/VFusion3D-colab) - Requires access to Google Drive
+3. Can you reproduce the image with 3D printing using 2D to 3D mesh generative tools to create a 3D version of the image?
 
 ## Grading Rubric
 

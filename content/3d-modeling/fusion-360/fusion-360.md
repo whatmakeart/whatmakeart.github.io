@@ -1,7 +1,7 @@
 ---
 title: Fusion 360
 date: 2023-05-26T02:50:47
-lastmod: 2025-09-30T19:05:07
+lastmod: 2025-10-01T09:18:51
 aliases:
   - Fusion 360
 ---
@@ -16,7 +16,7 @@ Fusion 360 is a [parametric modeling](../parametric-modeling.md) program combine
 In addition to traditional parametric CAD modeling tools, Fusion 360 also has a sculpting workspace that uses [t-splines to make organic forms](./organic-forms-with-t-splines-fusion-360.md).
 
 - [T-Splines Introduction](https://youtu.be/8vGrRR_TLEg)
-- [Fusion-360-Sculpting-Tips](sculpting-tips-fusion360.md)
+- [Fusion-360-Sculpting-Tips](./sculpting-tips-fusion360.md)
 
 ## Fusion 360 Rendering
 
