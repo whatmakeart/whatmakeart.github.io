@@ -1,14 +1,14 @@
 ---
 title: Appropriation
 date: 2024-12-10T05:43:16
-lastmod: 2025-10-01T09:43:37
+lastmod: 2025-10-01T10:01:49
 ---
 
 To appropriate means to take something for your own and as often synonymous with theft, stealing, taking, or poaching.[^cambridge-appropriation] It can also mean a specific amount of money set aside for a specific use such as Appropriations or Budget Bills in Congress.[^cbo] In both cases appropriation has connotations of acquiring and or use of a thing, sometimes with permission and sometimes without.
 
 In a 1982 article in _The New York Times_, Andy Grudberg describes appropriation, or using someone else's work, and says it may call "...into question modernist orthodoxy concerning originality as well as the entire notion of an avant-garde ..." but also might just be theft.[^grundberg]
 
-Do internet memes appropriate culture or steal it? Are memes [fair use](../copyright/fair-use.md)? That depends. Getty images sent a letter to the site [getdigital.de](https://www.getdigital.de/) demanding payment for alleged unauthorized use of the "Socialy Awkward Penguin" meme since the penguin photo in the original meme was taken from a photograph by photographer, [George Mobley](https://georgefmobley.com/). In the meme, the original penguin remains but the background is swapped with a radial geometric blue pattern. Does selecting a subject from a photo and changing the background rise to the level of transformative use? If the text commentary on the meme focused on penguins or photography would is rise to the level of satire or parody?
+Do internet memes appropriate culture or steal it? Are memes [fair use](../copyright/fair-use.md)? That depends. Getty images sent a letter to the site [getdigital.de](https://www.getdigital.de/) demanding payment for alleged unauthorized use of the "Socialy Awkward Penguin" meme since the penguin photo in the original meme was taken from a photograph by photographer, [George Mobley](https://georgefmobley.com/). In the meme, the original penguin remains but the background is swapped with a radial geometric blue pattern. Does selecting a subject from a photo and changing the background rise to the level of transformative use? If the text commentary on the meme focused on penguins or photography would is rise to the level of satire or parody? How would you feel if your photo was used to create a meme without permission?
 
 ## Appropriation vs Reference vs Influence
 
@@ -46,6 +46,8 @@ If you see an interesting concept and then modify it to use in a project is that
 
 ## Cultural Pluralism vs Cultural Appropriation vs Racism
 
+Cultural appropriation is often described as a "dominate" culture taking or using elements from a "minority" culture without permission, or full understanding, or respect. In some situations which culture is the dominate one or the minority one may seem obvious, and other times it depends greatly on one's perspective. Multiple people may have equally valid perceptions of the use of a cultural component.
+
 ### Food Appropriation
 
 | Old World to New World | New World to Old World |
@@ -64,6 +66,20 @@ Many more foods, diseases, and animals were transferred during a period beginnin
 
 English speakers use the French _déjà vu_ rather than the longer "feeling like something happen before" because it is short, efficient and understandable. The word is clearly _taken_ or _appropriated_ from French but it seems more a part of the English language with the passing of time from the word's original coining in 1876 by Émile Boirac. [^deja-vu]
 
+<div class="gallery-grid">
+<figure>
+
+[![Corn on a wagon](./attachments/2017-10-14-corn-on-a-wagon.jpg)](./attachments/2017-10-14-corn-on-a-wagon.jpg)
+
+</figure>
+
+<figcaption>
+
+<del>Corn</del>, <del>Maize</del>, <del>Polenta</del>, <del>Panizo</del> - Photo by Jimmy Kuehnle.
+
+</figcaption>
+
+</div>
 Juliet says, "A <del>rose</del> _tub of buttery goodness_ by any other name would smell as sweet". Think about that often yellow plant that makes fluffy stuff to eat while watching movies. If you are American you likely call it corn while, with a few exceptions, the rest of the world calls it maize. The Native American word _maiz_ derives from the Taíno word _mahiz_ meaning "life giving seed".[^corn-america] Does that mean the Spanish word _panizo_, or the Italian word _polenta_ are wrong? Corn might considered less "good" since it stems from the French term _Turcicum frumentum_ that the British translated to "Turkey Wheat/Indian Corn" to classify it as a "savage" or uncivilized grain, which Americans shortened to just corn.[^maize-corn] It could also be seen as part of genuine American and English speaking culture, ready to be appropriated by others.
 
 ## Additional Articles
