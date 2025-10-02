@@ -1,14 +1,14 @@
 ---
 title: 06.01 Photography Pair Exercises
 date: 2025-09-25T09:00:00Z
-lastmod: 2025-10-02T13:03:51
+lastmod: 2025-10-02T13:09:24
 ---
 
 ## Exercise Deliverables
 
-1. Upload jpg or png file of each photographic exercise
+1. Upload jpg or png file of each of the 12 photographic exercise
    - Label each image file YYYY-MM-DD Lastname Firstname image description (`.jpg`, `.png`)
-2. Upload `RAW` file of each photographic exercise
+2. Upload `RAW` file of each of the 12 photographic exercise
    - Label each image file YYYY-MM-DD Lastname Firstname image description (`.arw`, `.cr2`, `.dng`)
 
 ## Exercise Overview
