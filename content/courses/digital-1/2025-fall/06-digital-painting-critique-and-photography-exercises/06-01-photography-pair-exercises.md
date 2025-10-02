@@ -1,7 +1,7 @@
 ---
 title: 06.01 Photography Pair Exercises
 date: 2025-09-25T09:00:00Z
-lastmod: 2025-10-02T12:05:46
+lastmod: 2025-10-02T12:36:42
 ---
 
 ## Exercise Deliverables
@@ -33,7 +33,9 @@ Refer to the [basic camera settings](../01-introduction/01-01-basic-camera-setti
    - Use the lowest f-stop on the camera and get close to the subject with the background as far away as possible.
 2. Take a shot with objects in foreground, middle ground, and background with everything in focus
    - use a large f-stop or small opening. You will need a lot of light.
+3. Used a mid size aperature keep only the middle ground objects in focus
+   - Select a location with many objects lined up. Focus on the object in the middle ground. The background and the foreground objects should be out of focus
 
-#### Advanced Chalenges
+#### Advanced Challenges
 
 1. Focus Stacking
