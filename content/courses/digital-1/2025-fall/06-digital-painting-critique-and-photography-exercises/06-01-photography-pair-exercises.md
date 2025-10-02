@@ -1,7 +1,7 @@
 ---
 title: 06.01 Photography Pair Exercises
 date: 2025-09-25T09:00:00Z
-lastmod: 2025-10-02T11:59:26
+lastmod: 2025-10-02T12:05:46
 ---
 
 ## Exercise Deliverables
@@ -34,4 +34,6 @@ Refer to the [basic camera settings](../01-introduction/01-01-basic-camera-setti
 2. Take a shot with objects in foreground, middle ground, and background with everything in focus
    - use a large f-stop or small opening. You will need a lot of light.
 
-#### Bonus Chalenges3. Focus Stacking
+#### Advanced Chalenges
+
+1. Focus Stacking
