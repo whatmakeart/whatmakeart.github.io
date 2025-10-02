@@ -1,7 +1,7 @@
 ---
 title: 06.01 Photography Pair Exercises
 date: 2025-09-25T09:00:00Z
-lastmod: 2025-10-02T13:09:24
+lastmod: 2025-10-02T13:22:14
 ---
 
 ## Exercise Deliverables
@@ -37,11 +37,11 @@ Refer to the [basic camera settings](../01-introduction/01-01-basic-camera-setti
    - Use the lowest f-stop on the camera and get close to the subject with the background as far away as possible.
 6. Take a shot with objects in foreground, middle ground, and background with everything in focus
    - use a large f-stop or small opening. You will need a lot of light.
-7. Used a mid size aperature keep only the middle ground objects in focus
-   - Select a location with many objects lined up. Focus on the object in the middle ground. The background and the foreground objects should be out of focus
 
 #### Advanced Challenges
 
+7. Use a mid size aperature keep only the middle ground objects in focus
+   - Select a location with many objects lined up. Focus on the object in the middle ground. The background and the foreground objects should be out of focus
 8. Capture smooth water motion. Use a long shutter speed to make is seem like the water is made of fluffy silky smooth fuzz.
    - Use a slow shutter speed such a 1/2s or lower.
 9. Capture traffic on a busy street at night with tracer light beams
