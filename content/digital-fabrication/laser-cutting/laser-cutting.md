@@ -1,19 +1,77 @@
 ---
 title: Laser Cutting
 date: 2023-05-23T21:59:41
-lastmod: 2025-02-14T05:54:26
+lastmod: 2025-10-03T06:50:38
 ---
 
 Laser cutting is a precise method of cutting a design from a material using a digital file as a guide. It uses a high-powered laser to slice materials such as wood, plastic, glass, metal, and paper into custom shapes and designs.
 
+<div class="gallery-grid">
+<figure>
+
+[![Epilog Laser cutter cutting plywood](./attachments/2022-01-21-epilog-laser-cutter.jpg)](./attachments/2022-01-21-epilog-laser-cutter.jpg)
+
+<figcaption>
+
+Epilog Laser Cutter cutting through plywood
+
+</figcaption>
+</figure>
+</div>
+
+## Laser Cutting Concepts and Terminology
+
+Understanding the language of laser cutting is the first step to getting great results.
+
+- **Kerf** is the width of the gap or space in the material that is removed by the laser beam as it cuts. It's important to account for kerf in designs that require precise fits, like press-fit boxes. The kerf varies with material type and thickness.
+
+* **Vector Cutting:** The laser follows a continuous path defined by a vector line (like from a DXF or SVG file) to cut completely through the material. This is used for outlines and shapes.
+* **Raster Engraving:** The laser moves back and forth line by line, like an inkjet printer, firing at different power levels to etch an image onto the surface of the material. This is used for photos or filled-in areas.
+* **Vector Engraving (or Scoring):** Similar to vector cutting, but with lower power so the laser only scores the surface instead of cutting through. It's perfect for creating clean, sharp lines.
+* **Speed:** The speed at which the laser head moves. Higher speeds with the same power result in a lighter cut or etch.
+* **Power:** The output power of the laser, usually expressed as a percentage. Higher power is needed for cutting thicker, denser materials.
+* **Focus:** The laser beam must be correctly focused on the material's surface to produce a clean cut. An out-of-focus beam will result in a wider kerf and sloppy edges.
+
+## Laser Cutting Overview
+
+A laser cutter cuts all the way through the material or it etches on the top surface of a material. Laser cutting is [different than CNC milling](../cnc/cnc-vs-laser-cutting.md). It does not create pocket cuts that are possible with a [CNC](../cnc/cnc-basics.md) but a laser cutter can create very thin kerfs that are not possible with physical router bits on a CNC.
+
+A laser cutter uses vector lines to cut through the substrate or to etch lines on the top surface of the material. Vectors can be manually drawn in a vector program like [Adobe Illustrator](../../software/adobe-illustrator/illustrator.md), Corel Draw, or Inkscape. Vector lines are more commonly exported from CAD programs is readable formats such as `DXF`.
+
+Laser cutters can also photo etch onto the surface of a material using a raster image or a vector image. Etching works with grayscale images that are inverted since the burnt or etched parts are usually darker on materials like plywood.
+
+### Laser Cutting Materials
+
+The type of laser determines which materials you can cut, but some materials are generally universally safe or unsafe.
+
+### Common Materials
+
+- Wood is excellent for both cutting and engraving. Results can vary based on the wood's glue and density.
+- Acrylic, know by the brand name Plexiglass, cuts cleanly with a flame-polished edge and engraves beautifully.
+- Cardboard and paper cut very easily at high speed and low power. Great for quick prototyping and stencils.
+- Leather can be cut and engraved, but requires good ventilation.
+- Delrin (Acetal) is an engineering plastic that cuts very cleanly and is great for mechanical parts.
+
+### Materials to Avoid Due to Safety
+
+**Never** cut these materials in a standard CO2 laser cutter as they release hazardous gases or pose a significant fire risk.
+
+- Polyvinyl Chloride (PVC) plastic releases chlorine gas when cut, which is toxic and deadly to humans and will corrode the inside of your machine.
+- Polycarbonate, know by the brand name Lexan, is softer than acrylic. It absorbs infrared radiation, like the red light from the laser, and tends to melt and catch fire.
+- Acrylonitrile butadiene styrene (ABS) plastic melts and releases cyanide gas.
+- Many composites such as fiberglass or carbon fiber release harmful fumes and the composite resins do not cut well.
+- High Density Polyethylene (HDPE) melts when cut with a laser.
+
 ## Laser Cutting Guides
 
+- [Prepare DXF File for Laser Cutting](./prepare-dxf-file-for-laser-cutting.md)
 - [Laser Cut Joints](./laser-cut-joints.md)
 - [Living Hinge Minimum Bend Radius](./living-hinges-minimum-bend-radius-for-laser-cutting.md)
 - [Laser Cut File Generators](./laser-cut-file-generators.md)
-- [Prepare DXF File for Laser Cutting](./prepare-dxf-file-for-laser-cutting.md)
 
 ## Laser Cutting Fusion 360
+
+[Fusion 360](../../3d-modeling/fusion-360/fusion-360.md) is a parametric modeling program well suited for createing complex 3D models for output to a laser cutter.
 
 - [3D Modeling for Laser Cutting in Fusion 360](./3d-modeling-for-laser-cutting-fusion-360.md)
 - [Lay Parts Flat for Laser Cutting in Fusion 360](./lay-parts-flat-for-laser-cutting-fusion-360.md)

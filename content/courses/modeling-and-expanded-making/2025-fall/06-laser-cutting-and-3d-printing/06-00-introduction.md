@@ -1,12 +1,12 @@
 ---
 title: 06.00 Introduction
 date: 2025-10-03T09:30:00
-lastmod: 2025-09-30T06:08:57
+lastmod: 2025-10-03T05:57:33
 ---
 
 ## Overview
 
-[3D Printing](../../../../digital-fabrication/3d-printing/3d-printing.md) and [Laser Cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md) have different advantages and disadvantages as [digital fabrication](../../../../digital-fabrication/digital-fabrication.md) processes. 3D printing can print most 3D forms but can be slow, require the use of supports, and have size limitations. Laser cutting is fast but has material thickness limitations, specific material restrictions, and can only cut planar surfaces. Combining both techniques can leverage their respective strengths.
+[3D Printing](../../../../digital-fabrication/3d-printing/3d-printing.md) and [Laser Cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md) have different advantages and disadvantages as [digital fabrication](../../../../digital-fabrication/digital-fabrication.md) processes. 3D printing can print most 3D forms but can be slow, require the use of supports, and has size limitations. Laser cutting is fast but has material thickness limitations, specific material restrictions, and can only cut planar surfaces. Combining both techniques can leverage their respective strengths.
 
 Before using a 3D printer or a laser cutter, or even before jumping into a specific [3D Modeling software](../../../../3d-modeling/3d-modeling-software.md), one should ideate and iterate on their concepts first. Producing [ideation sketches](../../../../drawing/ideation-sketches.md) and then quickly translating potential good ideas into simple physical prototypes saves time and makes the ultimate form and design better.
 

@@ -1,13 +1,13 @@
 ---
 title: Identity Portrait Assignment
 date: 2025-10-02T05:42:03
-lastmod: 2025-10-02T07:38:08
+lastmod: 2025-10-03T05:30:37
 draft: true
 ---
 
 Using skills and techniques learned in the first two projects, present a new composition with conceptual content in addition to technical achievement. The project focuses on photographic content created by you by adjusting the camera aperture, shutter speed and ISO. Digital painting and other image making techniques may be added to convey the precise feeling and concept you want to convey to your audience.
 
-Today’s self portrait might be dfifferent that tomorrow’s depending on their mood, shift the time if you want, doesn’t have to be today, could be past present and future selves
+Today’s self portrait might be different that tomorrow’s depending on their mood, shift the time if you want, doesn’t have to be today, could be past present and future selves
 
 ### Step 1 – My Identity? Your Identity? According to Who?
 
@@ -55,7 +55,7 @@ Photoshop Document
    Artist Statement
 6. Write a 250-word artist statement about the meaning and concept(s) in your portrait.
 7. Why did you use certain symbols? What metaphors are you using? What stylistic choices did you make and how do they relate to presenting your identity?
-8. This should not be a descript of the process of making the piece. IT should be a description / statement of the meaning and conceptual content that you hope to convey to the viewer.
+8. This should not be a description of the process of making the piece. IT should be a description / statement of the meaning and conceptual content that you hope to convey to the viewer.
 9. Save your 250-word artist statement as a pdf. Make sure to put your name inside the document as well as in the file name.
 10. Label the PDF YYYYMMDD Lastname Firstname Identity Portrait Project Artist Statement.pdf
     Bundle Everything in a Folder
