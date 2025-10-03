@@ -1,14 +1,14 @@
 ---
 title: 06.06 Laser Cut and 3D Print Ideation Assignment
 date: 2025-10-03T09:30:00
-lastmod: 2025-09-30T06:08:57
+lastmod: 2025-10-03T09:52:43
 ---
 
 ## Assignment Deliverables
 
-1. Ideation Sketches uploaded as a pdf or sequentially labeled images (.pdf, .jpg, .png)
-   - Label files YYYYMMDD Lastname Firstname Laser Cut 3D Print Ideation
-2. Physical Model of initial design made of cardboard, foam core, plastic, paper or other appropriate physical material
+1. Ideation Sketches uploaded as a pdf or sequentially labeled images (`.pdf`, `.jpg`, `.png`)
+   - Label files YYYY-MM-DD Lastname Firstname Laser Cut 3D Print Ideation
+2. Physical model of initial design made of cardboard, foam core, plastic, paper or other appropriate physical material
 
 ## Project Requirements
 
