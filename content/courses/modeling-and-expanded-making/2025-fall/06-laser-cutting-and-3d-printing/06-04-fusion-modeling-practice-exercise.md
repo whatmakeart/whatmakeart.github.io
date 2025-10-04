@@ -1,8 +1,7 @@
 ---
 title: 06.04 Fusion Modeling Practice Assignment
-
 date: 2025-10-03T09:30:00
-lastmod: 2025-10-04T13:27:02
+lastmod: 2025-10-04T13:31:54
 ---
 
 ## Assignment Deliverables
