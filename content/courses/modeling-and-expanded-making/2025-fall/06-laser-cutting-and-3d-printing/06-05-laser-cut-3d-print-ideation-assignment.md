@@ -1,7 +1,7 @@
 ---
 title: 06.05 Laser Cut and 3D Print Ideation Assignment
 date: 2025-10-03T09:30:00
-lastmod: 2025-10-04T13:41:35
+lastmod: 2025-10-04T14:10:15
 ---
 
 ## Assignment Deliverables
@@ -18,7 +18,7 @@ lastmod: 2025-10-04T13:41:35
 
 ## Overview
 
-Begin with rough an unrestricted ideation sketches for an eventual form that combines 3D printing, laser cutting, and existing objects such as acrylic tubing, fasteners, curved sheet, flanges, or other non decorative objects. The exiting objects can add to the visuals but they must be essential to the form in addition to the visuals.
+Begin with rough an unrestricted [ideation sketches](../../../../drawing/ideation-sketches.md) for an eventual form that combines 3D printing, laser cutting, and existing objects such as acrylic tubing, fasteners, curved sheet, flanges, or other non decorative objects. The exiting objects can add to the visuals but they must be essential to the form in addition to the visuals.
 
 Refine your ideation sketches. Although not required, it is a good idea to quickly draw some freehand [third-angle-projections](../../../../drawing/third-angle-projection.md) to get a sense of how the object exists in three-dimensions.
 
