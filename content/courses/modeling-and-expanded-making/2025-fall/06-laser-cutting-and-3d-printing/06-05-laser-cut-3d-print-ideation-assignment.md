@@ -1,7 +1,7 @@
 ---
 title: 06.05 Laser Cut and 3D Print Ideation Assignment
 date: 2025-10-03T09:30:00
-lastmod: 2025-10-04T12:20:15
+lastmod: 2025-10-04T13:41:35
 ---
 
 ## Assignment Deliverables
@@ -38,7 +38,8 @@ Using your sketches as a guide, fabricate a proportionate physical model of your
 | ---------------------------- | --------- |
 | Ideation Sketches Variety    | 35 points |
 | Ideation Sketches and Depth  | 35 points |
+| Physical Cardboard Model     | 35 points |
 | Sketch Documentation Quality | 20 points |
-| File Management              | 10 points |
+| File Management and Labeling | 10 points |
 
 </div>
