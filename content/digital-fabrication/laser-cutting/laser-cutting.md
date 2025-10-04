@@ -1,10 +1,12 @@
 ---
 title: Laser Cutting
 date: 2023-05-23T21:59:41
-lastmod: 2025-10-03T09:03:32
+lastmod: 2025-10-04T09:42:04
 ---
 
 Laser cutting is a precise method of cutting a design from a material using a digital file as a guide. It uses a high-powered laser to slice materials such as wood, plastic, glass, metal, and paper into custom shapes and designs.
+
+Laser cutters are versatile tools used by professionals and hobbyists for ranging from quickly prototyping and creating custom cases for electronics projects to making intricate earrings, decorative items, and personalized gifts. Additional applications include cutting precise letters and logos for professional looking signs and building detailed architectural scale models with precise components. in addition to cutting out pieces, laser cutters can engrave complex images on materials.
 
 <div class="gallery-grid">
 <figure>
@@ -26,7 +28,7 @@ Understanding the language of laser cutting is the first step to getting great r
 - **Kerf** is the width of the gap or space in the material that is removed by the laser beam as it cuts. It's important to account for kerf in designs that require precise fits, like press-fit boxes. The kerf varies with material type and thickness.
 - **Speed** is how fast the laser head moves. Higher speeds with the same power result in a lighter cut or etch.
 - **Power** the output energy of the laser, usually expressed as a percentage. Higher power is needed for cutting thicker, denser materials.
-- **Focus** is set by the distace of the laser to the top of the material. The laser must be correctly focused on the material's surface to produce a clean cut. An out-of-focus beam will result in a wider kerf and sloppy edges.
+- **Focus** is set by the distance of the laser to the top of the material. The laser must be correctly focused on the material's surface to produce a clean cut. An out-of-focus beam will result in a wider kerf and sloppy edges.
 
 #### Vector Cutting
 
