@@ -1,7 +1,7 @@
 ---
 title: 06.04 Fusion Modeling Practice Assignment
 date: 2025-10-03T09:30:00
-lastmod: 2025-10-04T13:35:28
+lastmod: 2025-10-04T13:39:23
 ---
 
 ## Assignment Deliverables
@@ -13,13 +13,15 @@ lastmod: 2025-10-04T13:35:28
 
 ## Assignment Overview
 
+Fusion indroduces new modeling concepts such as parameters, sketch constraints, and the design timeline. To begin to understand and learn different parametric modeling techniques in Fusion, choose one of the Fusion modeling exercises below and complete it.
+
+### Process
+
 1. Select **one** of the Fusion modeling exercise below. There are exercises for models to be 3D printed, models to be laser cut and hybrid models.
 2. Follow the exercise and create your own model in Fusion based on the instructions.
 3. Export the `.f3d` Fusion file
 4. Render the model and save the image
 5. Upload the files to Canvas
-
-## Fusion Modeling Exercises
 
 ### Laser Cutting Modeling Exercises
 
