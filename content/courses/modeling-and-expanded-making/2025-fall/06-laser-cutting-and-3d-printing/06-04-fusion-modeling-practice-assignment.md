@@ -1,7 +1,7 @@
 ---
 title: 06.04 Fusion Modeling Practice Assignment
 date: 2025-10-03T09:30:00
-lastmod: 2025-10-04T14:10:28
+lastmod: 2025-10-05T08:06:21
 ---
 
 ## Assignment Deliverables
@@ -32,6 +32,7 @@ lastmod: 2025-10-04T14:10:28
 - [Laser Cut Acrylic House](https://youtu.be/xz_Wum_3Hz0)
 - [Laser Cut Cell Phone Stand](https://youtu.be/7RAdmbOudoo)
 - [Laser Cut Box on 3D Printed Clamp](https://youtu.be/0mCZvQgD5Ek)
+- [Laser Cut USB Cord Holder](https://youtu.be/fk_Cpybc3ro)
 
 <div class="video-grid">
 <div class="video-card">
@@ -63,6 +64,14 @@ lastmod: 2025-10-04T14:10:28
 #### Laser Cut Box on 3D Printed Clamp
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/0mCZvQgD5Ek?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Laser Cut USB Cord Holder
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/fk_Cpybc3ro?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
