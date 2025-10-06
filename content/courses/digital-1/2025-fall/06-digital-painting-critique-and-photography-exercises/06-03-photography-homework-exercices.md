@@ -1,7 +1,7 @@
 ---
 title: 06.03 Photography Homework Exercises
 date: 2025-09-25T09:00:00Z
-lastmod: 2025-10-05T08:15:47
+lastmod: 2025-10-06T05:31:00
 ---
 
 ## Exercise Deliverables
@@ -15,7 +15,7 @@ lastmod: 2025-10-05T08:15:47
 
 Refer to the [basic camera settings](../01-introduction/01-01-basic-camera-settings.md) to use the exposure triangle to intentionally capture photographic images based on the challenges below,
 
-#### Advanced Challenges
+### Photography Homework Challenges
 
 1. Use a mid size aperture keep only the middle ground objects in focus
    - Select a location with many objects lined up. Focus on the object in the middle ground. The background and the foreground objects should be out of focus
