@@ -1,7 +1,7 @@
 ---
 title: Virtual Production Tutorials
 date: 2025-09-30T16:46:02
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-10-08T06:43:35
 ---
 
 The tutorials below are for getting started with [virtual production](./virtual-production.md).
@@ -11,6 +11,7 @@ The tutorials below are for getting started with [virtual production](./virtual-
 - [How To Add Unreal Engine Environments from the Fab Marketplace](../../3d-modeling/unreal-engine/add-epic-games-fab-assets-to-library.md)
 - [Add 3D Environment from Fab Marketplace to Unreal Project](../../3d-modeling/unreal-engine/add-fab-3d-environment-to-unreal-project.md)
 - [Install RenderStream for Unreal Engine 5.5: Complete Setup Guide for disguise](./install-disguise-renderstream-plugin.md)
+- [Unreal Engine Virtual Production: RenderStream Cameras, AR, and Outer Frustum Setup](https://youtu.be/Vb0-OxnYzB0)
 
 <div class="video-grid">
 
@@ -56,6 +57,15 @@ The tutorials below are for getting started with [virtual production](./virtual-
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/BHl7JEeueDk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Unreal Engine Virtual Production: RenderStream Cameras, AR, and Outer Frustum Setup
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Vb0-OxnYzB0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
