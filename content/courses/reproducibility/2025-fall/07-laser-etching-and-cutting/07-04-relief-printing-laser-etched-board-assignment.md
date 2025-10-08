@@ -1,13 +1,13 @@
 ---
-title: 07.02 Relief Printing Laser Etched Board Assignment
+title: 07.04 Relief Printing Laser Etched Board Assignment
 date: 2025-10-08T12:00:00
-lastmod: 2025-08-20T15:21:27
+lastmod: 2025-10-08T10:53:32
 ---
 
 ## Assignment Deliverables
 
 1. Upload a photo of your laser etched board for relief printing
-   - Label file YYYYMMDD Lastname Firstname Laser Etching.jpg/png
+   - Label file YYYY-MM-DD Lastname Firstname Laser Etching (`.jpg`, `.png`)
 2. Bring laser etched board to next class
 
 ## Grading Rubric
