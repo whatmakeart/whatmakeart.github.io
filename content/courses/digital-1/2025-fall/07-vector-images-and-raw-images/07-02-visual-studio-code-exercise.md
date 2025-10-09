@@ -1,7 +1,7 @@
 ---
 title: 07.02 Visual Studio Code Exercise
 date: 2025-10-09T09:00:00Z
-lastmod: 2025-10-09T08:54:04
+lastmod: 2025-10-09T11:35:04
 ---
 
 ## Exercise Deliverables
@@ -13,12 +13,31 @@ lastmod: 2025-10-09T08:54:04
 
 ## Exercies Overview
 
+[Examle Game](https://whatmakeart.com/cool-game/)
+
 1. Create a folder on your computer to hold GitHub repositories `Git-Repositories`
 2. Create a folder inside your `Git-Repositories` folder such as `my-game`
-3. Create a GitHub account
-4. Download and Install Visual Studio Code [How to Install Visual Studio Code](https://youtu.be/HDhPln-pccQ)
-5. Install Git if not installed
-6. Connect Visual Studio Code to your GitHub Account
+3. Create a GitHub account at [https://github.com](https://github.com)
+   - Sign up with your student email address
+   - Choose a username that can be in a URL adddress. Username can be anything. _Does not need to be your name or identifiable_
+4. Download and Install [Visual Studio Code ](https://code.visualstudio.com/)
+5. Install git if not installed
+   - [GitHub git Install Guide](https://github.com/git-guides/install-git)
+6. Open Visual Studio Code
+7. Open the `my-game` folder in Visual Studio Code
+8. Create a new file called `index.html`
+   - Type "Hello Fuzzy Banana!" in the file
+   - Save the File
+9. Got to Terminal - New Terminal
+   - In the Terminal type each of the following (Replace with your information.) Each should be typed individualy. Press Enter or Return after each line.
+   - `git config --global user.name "Your Name"`
+   - `git config --global user.email "your.email@example.com"`
+10. Click the source control icon.
+11. Initialize the repository.
+12. Type a commit message.
+13. Click Commit Changes.
+14. Click Publish Branch and select public repository.
+15. Connect Visual Studio Code to your GitHub Account.
 
 ## Exercise Resources
 
@@ -28,7 +47,7 @@ lastmod: 2025-10-09T08:54:04
 
 ### Video Guides
 
-- [Install Visual Studio Code](https://youtu.be/HDhPln-pccQ)
+- [How to Install Visual Studio Code](https://youtu.be/HDhPln-pccQ)
 - [Configure GitHub Username and Email](https://youtu.be/RT-1Zywrse8)
 - [Setup Username and Email with Git and GitHub in Visual Studio Code on Windows](https://youtu.be/ZeWx0XNUZWE)
 - [How to Use Visual Studio Code and GitHub](https://youtu.be/fb5stQYgM_Y)
