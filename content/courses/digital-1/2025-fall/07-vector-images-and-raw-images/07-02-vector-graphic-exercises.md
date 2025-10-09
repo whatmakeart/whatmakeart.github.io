@@ -1,8 +1,7 @@
 ---
-title: 06.02 Vector Graphic Exercises
-date: 2025-10-02T09:00:00Z
-lastmod: 2025-10-09T06:14:56
-toc: true
+title: 07.02 Vector Graphic Exercises
+date: 2025-10-09T09:00:00Z
+lastmod: 2025-10-09T06:05:24
 ---
 
 ## Exercise Deliverables

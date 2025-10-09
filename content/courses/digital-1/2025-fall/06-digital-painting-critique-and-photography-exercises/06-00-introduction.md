@@ -1,7 +1,7 @@
 ---
 title: 06.00 Introduction
-date: 2025-09-25T09:00:00Z
-lastmod: 2025-10-02T13:18:13
+date: 2025-10-02T09:00:00Z
+lastmod: 2025-10-09T05:20:11
 ---
 
 ## Overview

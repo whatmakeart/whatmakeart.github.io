@@ -1,7 +1,7 @@
 ---
 title: 06.01 Photography Pair Exercises
-date: 2025-09-25T09:00:00Z
-lastmod: 2025-10-06T05:32:03
+date: 2025-10-02T09:00:00Z
+lastmod: 2025-10-09T05:20:11
 ---
 
 ## Exercise Deliverables
