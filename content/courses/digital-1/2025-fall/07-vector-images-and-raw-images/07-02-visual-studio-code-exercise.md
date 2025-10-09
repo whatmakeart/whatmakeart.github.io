@@ -1,7 +1,7 @@
 ---
 title: 07.02 Visual Studio Code Exercise
 date: 2025-10-09T09:00:00Z
-lastmod: 2025-10-09T11:35:04
+lastmod: 2025-10-09T15:51:16
 ---
 
 ## Exercise Deliverables
@@ -9,17 +9,17 @@ lastmod: 2025-10-09T11:35:04
 1. Upload an screenshot of your online game
    - Label the file YYYY-MM-DD Lastname Firstname online game (`.jpg`, `.png`)
 2. Upload URL of website
-   - Lable the file YYYY-MM-DD Lastname Firstname URL (`.docx`, `.pdf`, `.txt`)
+   - Label the file YYYY-MM-DD Lastname Firstname URL (`.docx`, `.pdf`, `.txt`)
 
-## Exercies Overview
+## Exercise Overview
 
-[Examle Game](https://whatmakeart.com/cool-game/)
+[Example Game](https://whatmakeart.com/cool-game/)
 
 1. Create a folder on your computer to hold GitHub repositories `Git-Repositories`
 2. Create a folder inside your `Git-Repositories` folder such as `my-game`
 3. Create a GitHub account at [https://github.com](https://github.com)
    - Sign up with your student email address
-   - Choose a username that can be in a URL adddress. Username can be anything. _Does not need to be your name or identifiable_
+   - Choose a username that can be in a URL address. Username can be anything. _Does not need to be your name or identifiable_
 4. Download and Install [Visual Studio Code ](https://code.visualstudio.com/)
 5. Install git if not installed
    - [GitHub git Install Guide](https://github.com/git-guides/install-git)
@@ -29,7 +29,7 @@ lastmod: 2025-10-09T11:35:04
    - Type "Hello Fuzzy Banana!" in the file
    - Save the File
 9. Got to Terminal - New Terminal
-   - In the Terminal type each of the following (Replace with your information.) Each should be typed individualy. Press Enter or Return after each line.
+   - In the Terminal type each of the following (Replace with your information.) Each should be typed individually. Press Enter or Return after each line.
    - `git config --global user.name "Your Name"`
    - `git config --global user.email "your.email@example.com"`
 10. Click the source control icon.
