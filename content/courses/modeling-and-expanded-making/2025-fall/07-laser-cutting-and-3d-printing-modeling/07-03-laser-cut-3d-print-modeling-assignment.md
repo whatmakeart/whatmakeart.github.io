@@ -1,7 +1,7 @@
 ---
 title: 07.03 Laser Cut and 3D Print Modeling Assignment
-date: 2025-10-16T09:30:00
-lastmod: 2025-10-04T14:54:55
+date: 2025-10-10T09:30:00
+lastmod: 2025-10-10T08:35:59
 ---
 
 ## Assignment Deliverables

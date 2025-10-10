@@ -1,7 +1,7 @@
 ---
 title: Virtual Production Tutorials
 date: 2025-09-30T16:46:02
-lastmod: 2025-10-10T07:38:12
+lastmod: 2025-10-10T08:39:39
 ---
 
 The tutorials below are for getting started with [virtual production](./virtual-production.md).
@@ -63,7 +63,7 @@ The tutorials below are for getting started with [virtual production](./virtual-
 
 <div class="video-card">
 
-### Unreal Engine Virtual Production: RenderStream Cameras, AR, and Outer Frustum Setup
+### Blank Environment to disguise RenderStream Setup Unreal 5.5.4
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Vb0-OxnYzB0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

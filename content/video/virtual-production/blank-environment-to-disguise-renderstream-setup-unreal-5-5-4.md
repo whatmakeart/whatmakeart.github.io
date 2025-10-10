@@ -1,8 +1,17 @@
 ---
-title: Setup Unreal Engine 5.5.4 Project for disguise RenderStream
+title: Blank Environment to disguise RenderStream Setup Unreal 5.5.4
 date: 2025-10-07T04:35:38
-lastmod: 2025-10-08T06:54:32
+lastmod: 2025-10-10T08:39:39
 ---
+
+<div class="video-card">
+
+### Blank Environment to disguise RenderStream Setup Unreal 5.5.4
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Vb0-OxnYzB0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 To use an Unreal Project in disguise for [virtual production](./virtual-production.md) it must be setup correctly with the disguise RenderStream plugin with properly named "Cine Camera" actors. The versions of Unreal Engine, RenderStream plugin, and disguise must all match based on your specific setup. This guide shows how to setup virtual Production with Unreal Engine 5.5.4.
 
