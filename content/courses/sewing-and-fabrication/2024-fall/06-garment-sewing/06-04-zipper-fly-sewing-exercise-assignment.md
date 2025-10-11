@@ -1,8 +1,12 @@
 ---
 title: 06.04 Zipper Fly Sewing Exercise Assignment
 date: 2024-10-07T09:00:00
-lastmod: 2024-11-25T06:43:54
+lastmod: 2025-10-11T12:45:17
 ---
+
+## Assignment Deliverables
+
+1. Bring sewn zipper fly to class
 
 ## Grading Rubric
 

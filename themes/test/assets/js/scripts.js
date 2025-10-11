@@ -156,6 +156,9 @@ function removeNavigationEmbed() {
   // This function should only ever run when embedded.
   if (!isEmbedded()) return;
 
+  // Inject defensive embed styles to prevent horizontal overflow in parent Canvas.
+  injectEmbedStyles();
+
   // Add a <base target="_top"> tag to the document's <head>. This ensures that
   // any link clicked within the iframe will open in the main browser window,
   // "breaking out" of the iframe and preventing the external site from being
@@ -206,6 +209,49 @@ function removeNavigationEmbed() {
       el.style.overflow = "auto"; // Helps manage content flow within the adjusted container.
     }
   );
+}
+
+// New helper to append CSS when embedded so iframe content can't overflow parent.
+function injectEmbedStyles() {
+  if (document.getElementById("canvas-embed-defensive-styles")) return;
+  const css = `
+    /* Prevent horizontal overflow that creates parent scrollbars */
+    html, body {
+      margin: 0 !important;
+      padding: 0 !important;
+      overflow-x: hidden !important;
+      min-width: 0 !important;
+      box-sizing: border-box !important;
+    }
+    *, *::before, *::after { box-sizing: inherit !important; }
+
+    /* Make media flexible */
+    img, picture, video, iframe, embed, object {
+      max-width: 100% !important;
+      height: auto !important;
+      display: block;
+    }
+
+    /* Safeguard elements using 100vw */
+    [style*="width:100vw"], [style*="width: 100vw"] {
+      width: 100% !important;
+      max-width: 100% !important;
+      box-sizing: border-box !important;
+    }
+
+    /* Ensure common containers don't force extra width */
+    .container, .container-fluid, .container-xxl, .container-xl,
+    .container-lg, .container-md, .container-sm {
+      max-width: 100% !important;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+      min-width: 0 !important;
+    }
+  `;
+  const style = document.createElement("style");
+  style.id = "canvas-embed-defensive-styles";
+  style.appendChild(document.createTextNode(css));
+  document.head.appendChild(style);
 }
 
 /*
