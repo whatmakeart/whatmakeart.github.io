@@ -1,7 +1,7 @@
 ---
-title: 09.01 Virtual Production Tutorials
+title: 10.01 Virtual Production Tutorials
 date: 2025-10-31T09:30:00
-lastmod: 2025-10-10T08:39:39
+lastmod: 2025-10-11T07:29:25
 toc: true
 ---
 

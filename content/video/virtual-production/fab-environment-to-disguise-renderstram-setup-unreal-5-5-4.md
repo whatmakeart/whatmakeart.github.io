@@ -1,7 +1,7 @@
 ---
 title: Fab Environment to disguise RenderStream Setup Unreal 5.5.4
 date: 2025-10-10T06:10:29
-lastmod: 2025-10-10T07:40:59
+lastmod: 2025-10-11T07:29:25
 ---
 
 <div class="video-grid">
@@ -12,7 +12,7 @@ lastmod: 2025-10-10T07:40:59
 
 </div>
 
-The following [virtual production](./virtual-production.md) guide shows [how to setup a Fab Environment for disguise RenderStream with Unreal 5.5.4](https://youtu.be/gJLWQFV2bWA). If you do not need an environment from Fab then refer to [How to setup a Blank Environment for disguise RenderStream with Unreal 5.5.4](https://youtu.be/Vb0-OxnYzB0).
+The following [virtual production](./virtual-production.md) guide shows [how to setup a Fab Environment for disguise RenderStream with Unreal 5.5.4](https://youtu.be/gJLWQFV2bWA). If you do not need an environment from Fab then refer to [How to setup a Blank Environment for disguise RenderStream with Unreal 5.5.4](./blank-environment-to-disguise-renderstream-setup-unreal-5-5-4.md).
 
 ### Setup New Unreal Project
 
@@ -31,7 +31,7 @@ The following [virtual production](./virtual-production.md) guide shows [how to 
 ### Add Fab Environment
 
 1.  Open the Fab (Marketplace) Library.
-2.  If you do not have any environments from Fab in your Library, make sure to add some. [How to add enfironments from Fab to your library in Unreal](../../3d-modeling/unreal-engine/add-epic-games-fab-assets-to-library.md) This example uses a coffee shop environment, but any compatible environment works.
+2.  If you do not have any environments from Fab in your Library, make sure to add some. [How to add environments from Fab to your library in Unreal](../../3d-modeling/unreal-engine/add-epic-games-fab-assets-to-library.md) This example uses a coffee shop environment, but any compatible environment works.
 3.  Choose Add to Project, pick MyFabProject, and click Add to Project. Unreal will download any required assets. [How to add a Fab Environment to an Existing Unreal Project](../../3d-modeling/unreal-engine/add-fab-3d-environment-to-unreal-project.md)
 4.  When it finishes, relaunch or reopen the project.
 5.  Open the Content Drawer. You should see the environment’s folders. Note the name of maps you want to use.

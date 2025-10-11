@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2025-08-29T09:30:00
-lastmod: 2025-10-04T14:47:26
+lastmod: 2025-10-11T07:29:25
 ---
 
 ### Course Information
@@ -70,7 +70,7 @@ Upon completion of the course, students will have to opportunity to:
 | 7        | October 10       | 07                                                                                                                    |
 | 8        | October 17       | 3D Scanning                                                                                                           |
 | 9        | October 24       | Polymeshes and Parasolids                                                                                             |
-| 10       | October 31       | [Virtual Production Introduction](../09-virtual-production-introduction/09-00-introduction.md)                        |
+| 10       | October 31       | [Virtual Production Introduction](../10-virtual-production-introduction/10-00-introduction.md)                        |
 | 11       | November 7       | Virtual Production Lighting                                                                                           |
 | 12       | November 14      | Virtual Production Shooting                                                                                           |
 | 13       | November 21      | Virtual Production Final Shooting                                                                                     |
