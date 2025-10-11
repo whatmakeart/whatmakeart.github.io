@@ -156,7 +156,6 @@ function removeNavigationEmbed() {
   // This function should only ever run when embedded.
   if (!isEmbedded()) return;
 
-
   // Add a <base target="_top"> tag to the document's <head>. This ensures that
   // any link clicked within the iframe will open in the main browser window,
   // "breaking out" of the iframe and preventing the external site from being
@@ -205,13 +204,10 @@ function removeNavigationEmbed() {
       el.classList.add("container-fluid", "keep-wide-canvas-lms");
       el.classList.remove("bd-content", "ps-lg-2", "bd-main");
       el.style.overflow = "auto"; // Helps manage content flow within the adjusted container.
-      el.style.overflow-x = "hidden"; // Helps manage content flow within the adjusted container.
-
+      el.style.overflowX = "hidden"; // Helps manage content flow within the adjusted container.
     }
   );
 }
-
-
 
 /*
  * =============================================================================
