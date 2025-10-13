@@ -1,7 +1,7 @@
 ---
 title: 06.05 Fusion Modeling Practice Assignment
 date: 2025-10-03T09:30:00
-lastmod: 2025-10-13T06:18:20
+lastmod: 2025-10-13T06:44:00
 ---
 
 ## Assignment Deliverables
@@ -13,17 +13,17 @@ lastmod: 2025-10-13T06:18:20
 
 ## Assignment Overview
 
-[Fusion](../../../../3d-modeling/fusion-360/fusion-360.md) introduces new modeling concepts such as user parameters, sketch constraints, and the design timeline. To begin to understand and learn different parametric modeling techniques in Fusion, choose one of the Fusion modeling exercises below and complete it.
+[Fusion](../../../../3d-modeling/fusion-360/fusion-360.md) introduces new [parametric modeling](./06-04-parametric-modeling.md) concepts such as user parameters, sketch constraints, and the design timeline. To begin to understand and learn different parametric modeling techniques in Fusion, choose one of the Fusion modeling exercises below and complete it. The examples show the use of [sketch constraints](../../../../3d-modeling/fusion-360/sketch-constraints-fusion-360.md) in Fusion to completely constrain the sketches as well as the use of [user parameters](../../../../3d-modeling/fusion-360/basic-user-parameters-fusion-360.md) to efficiently change dimensions such as the thickness of plywood.
 
 ### Process
 
 1. Select **one** of the Fusion modeling exercise below. There are exercises for models to be 3D printed, models to be laser cut and hybrid models.
 2. Follow the exercise and create your own model in Fusion based on the instructions.
-3. Export the `.f3d` Fusion file
+3. Export the `.f3d` Fusion file [How to Export f3d File from Fusion](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
 4. Add appearances (materials) to your model
 5. Switch to the render workspace
-6. Set the aspect ratio of the rener to 1:1 or 2:3 or 16:9 [How to set the aspect ratio in Fusion](https://youtu.be/NLr1FG27BGs)
-7. Render the model and save the image
+6. Set the aspect ratio of the render to 1:1 or 2:3 or 16:9 [How to set the aspect ratio in Fusion](https://youtu.be/NLr1FG27BGs)
+7. Render the model and save the image [Basic Rendering in Fusion](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
 8. Upload the files to Canvas
 
 ### Laser Cutting Modeling Exercises
