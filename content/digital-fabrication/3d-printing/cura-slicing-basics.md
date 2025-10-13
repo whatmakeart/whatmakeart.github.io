@@ -1,7 +1,7 @@
 ---
 title: Cura Slicing Basics
 date: 2023-10-31T09:00:00
-lastmod: 2025-09-27T06:23:41
+lastmod: 2025-10-13T05:59:18
 ---
 
 Cura is a [3D printing](3d-printing.md) slicing program.

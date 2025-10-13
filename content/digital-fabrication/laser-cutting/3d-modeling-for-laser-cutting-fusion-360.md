@@ -1,10 +1,10 @@
 ---
-title: 3D Modeling for Laser Cutting in Fusion 360
+title: 3D Modeling for Laser Cutting in Fusion
 date: 2024-11-05T10:30:48
-lastmod: 2025-09-30T18:44:13
+lastmod: 2025-10-13T06:17:56
 ---
 
-## Create Laser Cut Design with Fusion 360
+### Laser Cut Design Process and Workflow with Fusion
 
 1. Sketch out design ideas on paper or digital sketchbook
 2. Selecting 3D Modeling software, ideally a [parametric modeling](../../3d-modeling/parametric-modeling.md) program such as [Fusion 360](../../3d-modeling/fusion-360/fusion-360.md)
@@ -14,114 +14,35 @@ lastmod: 2025-09-30T18:44:13
 6. Export a DXF file for cutting
 7. Prepare the DXF file according to the instructions of a particular laser cutter.
 
-## Fusion 360 Quick Start
+## Fusion Laser Cutting Guides
 
-- [Fusion 360 User Interface](../../3d-modeling/fusion-360/user-interface-fusion-360.md)
-- [Fusion 360 FAQ](../../3d-modeling/fusion-360/fusion-360-faq.md)
-- [Fusion 360 Basic Rendering](../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
+### Fusion Quick Start
 
-## Fusion 360 Laser Cutting
+- [Fusion User Interface](../../3d-modeling/fusion-360/user-interface-fusion-360.md)
+- [Fusion FAQ](../../3d-modeling/fusion-360/fusion-360-faq.md)
+- [Fusion Basic Rendering](../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
 
+### Laser Cutting Guides
+
+- [Create a Laser Cutting Tool in Fusion](../laser-cutting/fusion-360-create-laser-cutting-tool.md)
 - [Install DXF Post Processor](../../3d-modeling/fusion-360/install-dxf-post-processor-fusion-360.md)
 - [Lay Parts Flat for Laser Cutting](./lay-parts-flat-for-laser-cutting-fusion-360.md)
 - [Export Laser Cut Toolpaths to DXF](./export-laser-cut-toolpaths-to-dxf-fusion-360.md)
 
-<div class="video-grid">
+### Laser Cutting Joints
 
-<div class="video-card">
+Numerous [Laser Cut Joints](./laser-cut-joints.md) help align and assemble flat laser cut pieces into functional 3D forms.
 
-### Laser Cut Acrylic House
+- [Captive Nut Joints](./laser-cut-captive-nut-joints.md)
+- [Pinned Finger Joints](./pinned-finger-joints-laser-cutting.md)
+- [T-Slot Finger Joints](./t-slot-finger-joints-laser-cutting.md)
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/xz_Wum_3Hz0?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
+### Fusion Laser Cutting Modeling Tutorials
 
-<div class="video-card">
-
-### Laser Cut Cell Phone Stand Example
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/7RAdmbOudoo?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Laser Cut Finger Joint Box
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/ZrcqauNvt0M?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Lay Parts Flat with Arrange
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/jeQPJHHwVN4?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Create Laser Cutting Tool
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/-B6DXF9aE5s?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Laser Cut Kerf Adjustment
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/6JFHMV7A9TU?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Laser Cut Slice Organic Forms into Sheets
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/dWYMBVTUvDA?si=YMfzNNNKFWJkFKPW?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Export Toolpaths
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/CBu6vl6Bqos?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Laser Cut Living Hinge
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/nt-44j15xeI?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Pinned Finger Joints
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/2r7NKS-3Wao?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### T-Slot Finger Joints
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/UK8bsVQy4s8?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Captive Nut Joints
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/UK8bsVQy4s8?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-</div>
+- [Laser Cut Box with Finger Joints](https://youtu.be/ZrcqauNvt0M)
+- [Laser Cut Acrylic House in Fusion](./laser-cut-acrylic-house-in-fusion-360.md)
+- [Laser Cut Cell Phone Stand](./laser-cut-cell-phone-stand.md)
+- [Laser Cut Box on 3D Printed Clamp](https://youtu.be/0mCZvQgD5Ek)
+- [Laser Cut USB Cord Holder](https://youtu.be/fk_Cpybc3ro)
+- [Create Laminated 3D Forms from Flat Sheets in Fusion](./create-laminated-3d-forms-from-flat-sheets-fusion-360.md)
+- [Laser Cut Living Hinge](./laser-cut-living-hinge.md)

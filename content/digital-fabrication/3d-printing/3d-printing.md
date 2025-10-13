@@ -1,7 +1,7 @@
 ---
 title: 3D Printing
 date: 2023-05-23T21:59:42
-lastmod: 2024-09-18T11:53:46
+lastmod: 2025-10-13T06:02:04
 ---
 
 3D Printing is an [additive-processes](../../sculpture/additive-processes.md) of [fabrication](../../making/fabrication.md).
@@ -45,14 +45,26 @@ After the printing process is complete, the loose powder is removed from the bui
 ### Making STL Files
 
 - [Export STL from Blender](./export-stl-blender.md)
-- [Export STL from Maya](./export-stl-maya.md)
 - [Export STL from Fusion 360](./export-stl-fusion-360.md)
+- [Export STL from Maya](./export-stl-maya.md)
+
+### 3D Print Slicers
+
+#### Bambu Studio
+
+- [Bambu Studio Installation](./bambu-studio-installation.md)
+- [Import STL into Bambu Studio](./import-stl-into-bambu-studio.md)
+
+#### Cura
+
+- [Cura Slicing Basics](./cura-slicing-basics.md)
+- [How to Orbit in Cura](./how-to-orbit-in-ultimaker-cura.md)
 
 ## Gluing 3D Prints
 
-ABS plastic has more glueing options than the PLA plastic. For PLA plastic all solutions have a compromise. The best of those compromises is general purpose cyanoacrylate adhesive, also known as superglue. It will break if overstressed but it is easily obtained, cheap and does a pretty good job.
+For PLA plastic all solutions have a compromise. The best of those compromises is general purpose cyanoacrylate adhesive, also known as superglue. It will break if overstressed but it is easily obtained, cheap. Since PLA does not have moisture in its structure and cyanoacrylate adhesive needs moisture to work, using an activator will ease and speed up the process of gluing PLA 3D prints.
 
-Plastic solvent glues used for acrylic and ABS may work but are less available, more expensive and hazardous to your health. These glues need to be used in a proper ventilated area such as outdoors or a spray booth.
+ABS plastic has more glueing options than the PLA plastic. Plastic solvent glues used for acrylic and ABS may work but are less available, more expensive and hazardous to your health. These glues need to be used in a proper ventilated area such as outdoors or a spray booth.
 
 ## Further Reading
 
@@ -70,9 +82,9 @@ Plastic solvent glues used for acrylic and ABS may work but are less available, 
 - [Aluminum No Match fo 3D Printed Press Brake Dies - Hackaday](https://hackaday.com/2018/01/14/aluminum-no-match-for-3d-printed-press-brake-dies/)
 - [Designing Snap Fit Joints for 3D Printing](https://www.3dhubs.com/knowledge-base/how-design-snap-fit-joints-3d-printing)
 - [Understanding & Designing for FDM Tolerances | All3DP Pro](https://m.all3dp.com/2/engineering-tolerance-definition-drawing/)
-- [Nintendo Switch](https://3dprint.com/169757/103dp-nintendo-switch/)
+- [Nintendo Switch 3D Printed Mods](https://3dprint.com/169757/103dp-nintendo-switch/)
 - [Researchers 3D-printed a cell-sized tugboat](https://www.engadget.com/researchers-3-dprinted-a-microscopic-boat-to-see-how-bacteria-swim-105633277.html)
 - [Are 3D printed watermarks a “grave and growing” threat to people’s privacy? - 3D Printing Industry](https://3dprintingindustry.com/news/are-3d-printed-watermarks-a-grave-and-growing-threat-to-peoples-privacy-176309/)
 - [Printed Sewing Machine Parts Extend Singer’s Range | Hackaday](https://hackaday.com/2021/12/03/print-sewing-machine-parts-extend-singers-range/)
 - [Formlabs Texture Engine](https://formlabs.com/blog/introducing-texture-engine/)
-- [Kazu Hiro Transforms Hollywood Makeup with Artecs 3D ScanningTechnology](https://3dprintingindustry.com/news/kazu-hiro-transforms-hollywood-makeup-with-artecs-3d-scanning-technology-228795/)
+- [Kazu Hiro Transforms Hollywood Makeup with Artecs 3D Scanning Technology](https://3dprintingindustry.com/news/kazu-hiro-transforms-hollywood-makeup-with-artecs-3d-scanning-technology-228795/)

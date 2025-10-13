@@ -1,7 +1,7 @@
 ---
-title: 06.05 Laser Cut and 3D Print Ideation Assignment
+title: 06.06 Laser Cut and 3D Print Ideation Assignment
 date: 2025-10-03T09:30:00
-lastmod: 2025-10-04T14:10:15
+lastmod: 2025-10-13T06:18:20
 ---
 
 ## Assignment Deliverables
