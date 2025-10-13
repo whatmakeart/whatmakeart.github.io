@@ -1,7 +1,7 @@
 ---
 title: 06.07 Select Three Public Domain Images
 date: 2025-10-01T12:00:00
-lastmod: 2025-10-01T14:38:50
+lastmod: 2025-10-13T10:07:46
 ---
 
 ## Assignment Deliverables
@@ -76,6 +76,7 @@ lastmod: 2025-10-01T14:38:50
 | Image 1 Uploaded                  | 25 points |
 | Image 2 Uploaded                  | 25 points |
 | Image 3 Uploaded                  | 25 points |
+| Processed Image Uploaded          | 25 points |
 | Image Source Information Included | 15 points |
 | File Management and Labeling      | 10 points |
 
