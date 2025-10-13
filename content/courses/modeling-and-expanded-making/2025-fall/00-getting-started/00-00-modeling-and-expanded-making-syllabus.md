@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2025-08-29T09:30:00
-lastmod: 2025-10-11T07:29:25
+lastmod: 2025-10-13T05:24:14
 ---
 
 ### Course Information
@@ -59,25 +59,25 @@ Upon completion of the course, students will have to opportunity to:
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**         | **Topic**                                                                                                             |
-| -------- | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 1        | August 29        | [Introduction to 3D Modeling Tools and Digital Fabrication](../01-introduction/01-00-introduction.md)                 |
-| 2        | September 5      | [3D Visualization, Rendering and Compositing](../02-3d-visualization-rendering-and-compositing/02-00-introduction.md) |
-| 3        | September 12     | [Floor Plan to 3D Model](../03-floor-plan-to-3d-model/03-00-introduction.md)                                          |
-| 4        | September 19     | [UV Mapping and 3D Texturing](../04-uv-mapping-and-3d-texturing/04-00-introduction.md)                                |
-| 5        | September 26     | [3D Capture](../05-3d-capture/05-00-introduction.md)                                                                  |
-| 6        | October 3        | [Laser Cutting and 3D Printing](../06-laser-cutting-and-3d-printing/06-00-introduction.md)                            |
-| 7        | October 10       | 07                                                                                                                    |
-| 8        | October 17       | 3D Scanning                                                                                                           |
-| 9        | October 24       | Polymeshes and Parasolids                                                                                             |
-| 10       | October 31       | [Virtual Production Introduction](../10-virtual-production-introduction/10-00-introduction.md)                        |
-| 11       | November 7       | Virtual Production Lighting                                                                                           |
-| 12       | November 14      | Virtual Production Shooting                                                                                           |
-| 13       | November 21      | Virtual Production Final Shooting                                                                                     |
-| 14       | November 28      | Thanksgiving Break. No Class.                                                                                         |
-| 15       | December 5       | Studio Work                                                                                                           |
-| 16       | December 12      | Final Crits                                                                                                           |
-| 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                              |
+| **Week** | **Date**         | **Topic**                                                                                                                    |
+| -------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1        | August 29        | [Introduction to 3D Modeling Tools and Digital Fabrication](../01-introduction/01-00-introduction.md)                        |
+| 2        | September 5      | [3D Visualization, Rendering and Compositing](../02-3d-visualization-rendering-and-compositing/02-00-introduction.md)        |
+| 3        | September 12     | [Floor Plan to 3D Model](../03-floor-plan-to-3d-model/03-00-introduction.md)                                                 |
+| 4        | September 19     | [UV Mapping and 3D Texturing](../04-uv-mapping-and-3d-texturing/04-00-introduction.md)                                       |
+| 5        | September 26     | [3D Capture](../05-3d-capture/05-00-introduction.md)                                                                         |
+| 6        | October 3        | [Laser Cutting and 3D Printing](../06-laser-cutting-and-3d-printing/06-00-introduction.md)                                   |
+| 7        | October 10       | [Laser Cutting and 3D Printing Modeling](../07-laser-cutting-and-3d-printing-modeling/07-00-introduction.md)                 |
+| 8        | October 17       | [Laser Cutting and 3D Printing Design Iteration](../08-laser-cutting-and-3d-printing-design-iteration/08-01-introduction.md) |
+| 9        | October 24       | [Laser Cutting and 3D Printing Fabrication](../09-laser-cutting-and-3d-printing-fabrication/09-01-introduction.md)           |
+| 10       | October 31       | [Virtual Production Introduction](../10-virtual-production-introduction/10-00-introduction.md)                               |
+| 11       | November 7       | Virtual Production Lighting                                                                                                  |
+| 12       | November 14      | Virtual Production Shooting                                                                                                  |
+| 13       | November 21      | Virtual Production Final Shooting                                                                                            |
+| 14       | November 28      | Thanksgiving Break. No Class.                                                                                                |
+| 15       | December 5       | Studio Work                                                                                                                  |
+| 16       | December 12      | Final Crits                                                                                                                  |
+| 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                                     |
 
 </div>
 
