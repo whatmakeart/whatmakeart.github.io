@@ -1,7 +1,7 @@
 ---
-title: 08.04 Rephotography Laser Etched Relief Printing Assignment
-date: 2025-10-15T12:00:00
-lastmod: 2025-09-30T20:09:59
+title: 09.04 Rephotography Laser Etched Relief Printing Assignment
+date: 2025-10-22T12:00:00
+lastmod: 2025-10-15T18:10:35
 ---
 
 ## Assignment Deliverables
