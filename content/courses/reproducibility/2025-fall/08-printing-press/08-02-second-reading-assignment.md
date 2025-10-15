@@ -1,7 +1,7 @@
 ---
 title: 08.02 Second Reading Assignment
 date: 2025-10-15T12:00:00
-lastmod: 2025-10-15T18:45:53
+lastmod: 2025-10-15T18:48:48
 ---
 
 ## Assignment Deliverables
@@ -11,13 +11,14 @@ lastmod: 2025-10-15T18:45:53
 
 ## Requirements
 
-1. Put you name and the date in the top left corner of the document.
+1. Put your name and the date in the top left corner of the document.
 2. Include the title, author, and date of publication of both readings.
 3. Include the following:
    - 3 questions you have about each reading.
    - 3 contemporaneous cultural events / happenings / occurrences from the year of publication of the readings.
    - 3 contemporaneous political events / historical events /social movements from the year of publication of the readings.
    - A glossary with definitions of words from the readings you did not know the meaning of.
+   - Tip: Contemporaneous means the same calendar year as the reading’s publication so for Reading #1 its 2019 and for Reading #2 its 2020.
 
 ### Excavating AI - Reading #1
 
