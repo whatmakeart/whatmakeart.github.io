@@ -1,13 +1,13 @@
 ---
 title: 08.02 Second Reading Assignment
 date: 2025-10-15T12:00:00
-lastmod: 2025-08-20T15:21:27
+lastmod: 2025-10-15T07:43:59
 ---
 
 ## Assignment Deliverables
 
 1. Upload a typed reading response as a pdf or docx
-   - Label the file YYYYMMDD Lastname Firstname Marshal McLuhan Reading Response.pdf/docx
+   - Label the file YYYY-MM-DD Lastname Firstname Marshal McLuhan Reading Response.pdf/docx
 
 ## Requirements
 
