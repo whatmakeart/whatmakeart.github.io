@@ -1,7 +1,7 @@
 ---
 title: 08.02 Second Reading Assignment
 date: 2025-10-15T12:00:00
-lastmod: 2025-10-15T18:33:31
+lastmod: 2025-10-15T18:36:24
 ---
 
 ## Assignment Deliverables
@@ -19,11 +19,13 @@ lastmod: 2025-10-15T18:33:31
    - 3 contemporaneous political events / historical events /social movements from the year of publication of the readings.
    - A glossary with definitions of words from the readings you did not know the meaning of.
 
-### Reading #1
+### Excavating AI - Reading #1
+
+In [Excavating AI](https://excavating.ai) Kate Crawford and Trevor Paglen argue that image-training datasets encode social and political assumptions through their taxonomies and labels—especially when classifying people—resulting in derogatory, biased, and harmful categories and argue for auditing and rethinking datasets and their classification schemes so they are not treated as neutral fact but as a constructed choice with ethical consequences.
 
 Kate Crawford and Trevor Paglen, “Excavating AI: The Politics of Training Sets for Machine Learning (September 19, 2019) [https://excavating.ai](https://excavating.ai)
 
-### Reading #2
+### Excavating "Excavating AI": The Elephant in the Gallery - Reading #2
 
 The paper [Excavating "Excavating AI": The Elephant in the Gallery](https://arxiv.org/pdf/2009.01215) argues that Kate Crawford's and Trevor Paglen's work contains flaws, including, "a self-contradictory stance regarding informed consent for the use of facial images, as well as serious flaws in their critique of ML training sets." Michael Lyons wrote the paper and was a co-author, with his colleagues Miyuki Kamachi and Jiro Gyoba, of the [Japanese Female Facial Expression (JAFFE) Dataset](https://zenodo.org/records/14974867) discussed and exhibited by Kate Crawford and Trevor Paglen.
 
