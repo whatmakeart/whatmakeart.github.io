@@ -1,35 +1,20 @@
 ---
 title: Relief Printing
 date: 2025-03-19T09:00:00
-lastmod: 2025-10-15T11:58:00
+lastmod: 2025-10-15T14:25:36
 ---
 
 Make sure the plate is not warped, it should lay flat on the press bed. Remember that the pulled print will be the inverse of the laser etching. The ink sticks to the raised "relief" parts of the plate or the "non-laser-etched" parts.
 
 ## Sealing the Printing Plate
 
-Wood is porous and will absorb ink so it needs to be sealed to prevent ink absorption. A diluted coat of shellac is an ideal sealing solution.
-
-1. Seal the plate surface with a light coat of brushed on shellac. Make sure to turn the ventilation on before opening the shellac.
-2. Brush the shellac on the top surface of the plate, where the ink will go, coat the entire top surface. Sides and the back do not need to be coated.
-3. Use a hammer to close the lid so the shellac does not dry out.
-4. Clean the brush immediately in the alcohol solution.
-5. Allow the plate and shellac to dry before inking. Ideally, leave the wet plate in front of the ventilation to extract VOCs while it is drying. It takes ~15 minutes for the shellac to dry on the plate.
-
-<div class="image-gallery">
-
-<figure>
-
-[![Shellac sealing tools](./attachments/2025-10-15-printmaking-shellac-sealing-tools.jpg)](./attachments/2025-10-15-printmaking-shellac-sealing-tools.jpg)
-
-<figcaption>
-
-Shellac Sealing Tools
-
-</figcaption>
-</figure>
-
-</div>
+1. Make sure the plate is not warped, it should lay flat on the press bed.
+2. Remember that the pulled print will be the inverse of the laser etching. The ink sticks to the raised "relief" parts of the plate or the "non-lasered" parts.
+3. Seal the plate surface with a light coat of brushed on shellac. Make sure to turn the ventilation on before opening the shellac.
+4. Brush the shellac on the top surface of the plate, where the ink will go, coat the entire top surface. Sides and the back do not need to be coated.
+5. Use a hammer to close the lid so the shellac does not dry out.
+6. Clean the brush immediately in the alcohol solution.
+7. Allow the plate and shellac to dry before inking. Ideally, leave the wet plate in front of the ventilation to extract VOCs while it is drying. It takes ~15 minutes for the shellac to dry on the plate.
 
 ## Preparing Printing Paper
 
@@ -63,6 +48,32 @@ Shellac Sealing Tools
 10. As you mix the ink and modifier, note how it feels to get a sense of the correct consistency.
 11. Once the ink is mixed, spread out a ribbon of ink.
 12. Note: If preparing color ink for printing, it is a good idea to clean the glass plate with dawn water and vinegar before putting your ink down to avoid color contamination from the previous printing process. The glass should have been cleaned from the previous person, but it is good practice to make sure.
+
+<div class="image-gallery">
+
+<figure>
+
+[![Printmaking Ink Tools](./attachments/2025-10-15-printmaking-ink-tools.jpg)](./attachments/2025-10-15-printmaking-ink-tools.jpg)
+
+<figcaption>
+
+Printmaking Ink Tools, (Hyde Ink Knife, Rasor Scraper, Matboard Scrap)
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Printmaking Inks in Tubs](./attachments/2025-10-15-print-making-ink-tubs.jpg)](./attachments/2025-10-15-print-making-ink-tubs.jpg)
+
+<figcaption>
+
+Printmaking Inks in Tubs
+
+</figcaption>
+</figure>
+
+</div>
 
 ## Inking up a Brayer
 
