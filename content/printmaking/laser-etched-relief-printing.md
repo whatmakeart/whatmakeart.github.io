@@ -1,7 +1,7 @@
 ---
 title: Relief Printing
 date: 2025-03-19T09:00:00
-lastmod: 2025-10-15T07:04:56
+lastmod: 2025-10-15T11:58:00
 ---
 
 Make sure the plate is not warped, it should lay flat on the press bed. Remember that the pulled print will be the inverse of the laser etching. The ink sticks to the raised "relief" parts of the plate or the "non-laser-etched" parts.
@@ -15,6 +15,21 @@ Wood is porous and will absorb ink so it needs to be sealed to prevent ink absor
 3. Use a hammer to close the lid so the shellac does not dry out.
 4. Clean the brush immediately in the alcohol solution.
 5. Allow the plate and shellac to dry before inking. Ideally, leave the wet plate in front of the ventilation to extract VOCs while it is drying. It takes ~15 minutes for the shellac to dry on the plate.
+
+<div class="image-gallery">
+
+<figure>
+
+[![Shellac sealing tools](./attachments/2025-10-15-printmaking-shellac-sealing-tools.jpg)](./attachments/2025-10-15-printmaking-shellac-sealing-tools.jpg)
+
+<figcaption>
+
+Shellac Sealing Tools
+
+</figcaption>
+</figure>
+
+</div>
 
 ## Preparing Printing Paper
 
