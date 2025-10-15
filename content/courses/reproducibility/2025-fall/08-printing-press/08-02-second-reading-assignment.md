@@ -1,7 +1,7 @@
 ---
 title: 08.02 Second Reading Assignment
 date: 2025-10-15T12:00:00
-lastmod: 2025-10-15T07:43:59
+lastmod: 2025-10-15T14:31:51
 ---
 
 ## Assignment Deliverables
@@ -10,8 +10,6 @@ lastmod: 2025-10-15T07:43:59
    - Label the file YYYY-MM-DD Lastname Firstname Marshal McLuhan Reading Response.pdf/docx
 
 ## Requirements
-
-Read pages 7 - 23 Chapter 1 _The Medium is the Message_ in Part I of _Understanding the Media: Extensions of Man_ by Marshal McLuhan.
 
 1. Put you name and the date in the top left corner of the document.
 2. Include the title, author, and date of publication of the reading.
@@ -23,11 +21,11 @@ Read pages 7 - 23 Chapter 1 _The Medium is the Message_ in Part I of _Understand
 
 ### Text Source
 
-McLuhan, Marshal. [_Understanding the Media: Extensions of Man_](https://archive.org/details/ETC0624/). New York. 1964.
+Kate Crawford and Trevor Paglen, “Excavating AI: The Politics of Training Sets for Machine Learning (September 19, 2019) [https://excavating.ai](https://excavating.ai)
 
-- **Available From:**
-- [Internet Archive](https://archive.org/details/ETC0624/)
-- [Design Open Data](https://designopendata.wordpress.com/wp-content/uploads/2014/05/understanding-media-mcluhan.pdf) [(Archive Link)](https://web.archive.org/web/20240428061708/https://designopendata.wordpress.com/wp-content/uploads/2014/05/understanding-media-mcluhan.pdf)
+#### Additional Recommended Reading
+
+Lyons, Michael J. [Excavating "Excavating AI": The Elephant in the Gallery](https://doi.org/10.48550/arXiv.2009.01215). ArXiv, September 14, 2020.
 
 ## Process
 
