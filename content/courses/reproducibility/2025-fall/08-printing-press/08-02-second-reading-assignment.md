@@ -1,7 +1,7 @@
 ---
 title: 08.02 Second Reading Assignment
 date: 2025-10-15T12:00:00
-lastmod: 2025-10-15T18:36:24
+lastmod: 2025-10-15T18:45:53
 ---
 
 ## Assignment Deliverables
@@ -47,14 +47,14 @@ Your ability to form, retain, and express original insights is more valuable tha
 
 <div class="responsive-table-markdown">
 
-| Assessment                                         | Weight    |
-| -------------------------------------------------- | --------- |
-| PDF or docx uploaded                               | 5 points  |
-| Name at top                                        | 5 points  |
-| Name of Author, Reading Title, Date of Publication | 5 points  |
-| 3 Questions                                        | 25 points |
-| 3 Cultural Events                                  | 25 points |
-| 3 Political Events                                 | 25 points |
-| File Management and Labeling                       | 10 points |
+| Assessment                                            | Weight    |
+| ----------------------------------------------------- | --------- |
+| PDF or docx uploaded                                  | 5 points  |
+| Name at top                                           | 5 points  |
+| Name of Authors, Reading Titles, Dates of Publication | 5 points  |
+| 3 Questions About Each Reading                        | 25 points |
+| 3 Cultural Events                                     | 25 points |
+| 3 Political Events                                    | 25 points |
+| File Management and Labeling                          | 10 points |
 
 </div>
