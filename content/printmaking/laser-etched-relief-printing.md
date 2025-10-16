@@ -1,7 +1,7 @@
 ---
 title: Laser Etched Relief Printing
 date: 2025-03-19T09:00:00
-lastmod: 2025-10-16T05:13:09
+lastmod: 2025-10-16T05:23:51
 ---
 
 Make sure the plate is not warped, it should lay flat on the press bed. Remember that the pulled print will be the inverse of the laser etching. The ink sticks to the raised "relief" parts of the plate or the "non-laser-etched" parts.
@@ -22,7 +22,7 @@ Make sure the plate is not warped, it should lay flat on the press bed. Remember
 
 <figcaption>
 
-Printmaking Shellac Sealing Tools, (Diluted Shellac, Denatured Alcohol,Can Opener, Brush, Rubber Mallet, Nitrile Gloves)
+Printmaking Shellac Sealing Tools, (Diluted Shellac, Denatured Alcohol, Can Opener, Brush, Rubber Mallet, Nitrile Gloves)
 
 </figcaption>
 </figure>
@@ -58,6 +58,7 @@ Printmaking Ventilated Table
 9. Six over five is good starting point for the Takach Etching Press. Note the press counts from 0 at the bottom. 2 over 1/2 F is a starting point for the second mobile press
 10. Note: The Takach Etching Press is always engaged with the wheel and the mobile press #2 is not automatically engaged and may need to be "assisted" when you start to turn the wheel. Be aware of what is going toward the press and avoid allowing anything but the print pass through the press. Be aware of where your hands and clothing are. Be safe.
 
+<div class="gallery-grid">
 <figure>
 
 [![Takach Floor Model Etching Press](./attachments/2025-10-15-takach-floor-model-etching-press.jpg)](./attachments/2025-10-15-takach-floor-model-etching-press.jpg)
