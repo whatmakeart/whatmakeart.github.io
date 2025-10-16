@@ -1,7 +1,7 @@
 ---
-title: Relief Printing
+title: Laser Etched Relief Printing
 date: 2025-03-19T09:00:00
-lastmod: 2025-10-15T18:09:47
+lastmod: 2025-10-16T05:13:09
 ---
 
 Make sure the plate is not warped, it should lay flat on the press bed. Remember that the pulled print will be the inverse of the laser etching. The ink sticks to the raised "relief" parts of the plate or the "non-laser-etched" parts.
@@ -10,9 +10,35 @@ Make sure the plate is not warped, it should lay flat on the press bed. Remember
 
 1. Seal the plate surface with a light coat of brushed on shellac. Make sure to turn the ventilation on before opening the shellac.
 2. Brush the shellac on the top surface of the plate, where the ink will go, coat the entire top surface. Sides and the back do not need to be coated.
-3. Use a hammer to close the lid so the shellac does not dry out.
+3. Use a rubber mallet to close the lid so the shellac does not dry out.
 4. Clean the brush immediately in the alcohol solution.
 5. Allow the plate and shellac to dry before inking. Ideally, leave the wet plate in front of the ventilation to extract VOCs while it is drying. It takes ~15 minutes for the shellac to dry on the plate.
+
+<div class="gallery-grid">
+
+<figure>
+
+[![Printmaking shellac sealing tools](./attachments/2025-10-15-printmaking-shellac-sealing-tools.jpg)](./attachments/2025-10-15-printmaking-shellac-sealing-tools.jpg)
+
+<figcaption>
+
+Printmaking Shellac Sealing Tools, (Diluted Shellac, Denatured Alcohol,Can Opener, Brush, Rubber Mallet, Nitrile Gloves)
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Printmaking ventilated Table](./attachments/2025-10-15-printmaking-ventilated-table.jpg)](./attachments/2025-10-15-printmaking-ventilated-table.jpg)
+
+<figcaption>
+
+Printmaking Ventilated Table
+
+</figcaption>
+</figure>
+
+</div>
 
 ## Preparing Printing Paper
 
@@ -29,8 +55,32 @@ Make sure the plate is not warped, it should lay flat on the press bed. Remember
 6. Both sides of the press must be set exactly the same for even pressure.
 7. Make note of your pressure settings and write which press was used with what pressure settings on the back of your plate
 8. If there is a lower section or "dead-spot" on the plate, placing more newsprint in that area can help pull a more even print.
-9. Six over five is good starting point for the first press. Note the press counts from 0 at the bottom. 2 over 1/2 F is a starting point for the second press
-10. Note: Press #1 is always engaged with the wheel and press #2 is not automatically engaged and may need to be "assisted" when you start to turn the wheel. Be aware of what is going toward the press and avoid allowing anything but the print pass through the press. Be aware of where your hands and clothing are. Be safe.
+9. Six over five is good starting point for the Takach Etching Press. Note the press counts from 0 at the bottom. 2 over 1/2 F is a starting point for the second mobile press
+10. Note: The Takach Etching Press is always engaged with the wheel and the mobile press #2 is not automatically engaged and may need to be "assisted" when you start to turn the wheel. Be aware of what is going toward the press and avoid allowing anything but the print pass through the press. Be aware of where your hands and clothing are. Be safe.
+
+<figure>
+
+[![Takach Floor Model Etching Press](./attachments/2025-10-15-takach-floor-model-etching-press.jpg)](./attachments/2025-10-15-takach-floor-model-etching-press.jpg)
+
+<figcaption>
+
+Takach Floor Model Etching Press
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Takach Etching Press Roller Pressure Handle](./attachments/2025-10-15-takach-etching-press-9-over-2-preasure-handle.jpg)](./attachments/2025-10-15-takach-etching-press-9-over-2-preasure-handle.jpg)
+
+<figcaption>
+
+Takach Etching Press Roller Pressure Handle Showing "9 over 2" aka "9 covering 2"
+
+</figcaption>
+</figure>
+
+</div>
 
 ## Preparing Printing Ink
 
@@ -47,7 +97,7 @@ Make sure the plate is not warped, it should lay flat on the press bed. Remember
 11. Once the ink is mixed, spread out a ribbon of ink.
 12. Note: If preparing color ink for printing, it is a good idea to clean the glass plate with dawn water and vinegar before putting your ink down to avoid color contamination from the previous printing process. The glass should have been cleaned from the previous person, but it is good practice to make sure.
 
-<div class="image-gallery">
+<div class="gallery-grid">
 
 <figure>
 
@@ -55,7 +105,7 @@ Make sure the plate is not warped, it should lay flat on the press bed. Remember
 
 <figcaption>
 
-Printmaking Ink Tools, (Hyde Ink Knife, Rasor Scraper, Matboard Scrap)
+Printmaking Ink Tools, (Hyde Ink Knife, Razor Scraper, Matboard Scrap)
 
 </figcaption>
 </figure>
@@ -116,17 +166,3 @@ Printmaking Inks in Tubs
 2. Do not wet your hands. The soap will not work if your hands are already wet.
 3. Apply the waterless soap first and rub it around your hands to remove and capture all ink.
 4. Then rinse clean with water.
-
-<div class="image-gallery">
-
-<figure>
-<figcaption>
-</figcaption>
-</figure>
-
-<figure>
-<figcaption>
-</figcaption>
-</figure>
-
-</div>

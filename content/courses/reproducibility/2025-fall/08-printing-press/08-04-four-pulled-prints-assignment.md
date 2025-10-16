@@ -1,12 +1,16 @@
 ---
 title: 08.04 Four Pulled Prints Assignment
 date: 2025-10-15T12:00:00
-lastmod: 2025-10-15T18:38:55
+lastmod: 2025-10-16T04:32:24
 ---
 
 ## Assignment Deliverables
 
 1. Pull a minimum of 4 prints from your laser etched board.
+
+## Assignment Resources
+
+Refer to the [laser etched relief printing instructions](./08-01-laser-etched-relief-printing.md). If the prints have mistakes that is ok. Tho goal is to go through the inking and printing process a minimum of four times.
 
 ## Grading Rubric
 

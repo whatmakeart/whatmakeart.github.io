@@ -1,7 +1,8 @@
----
+3---
 title: 01.02 Make New Original Content Now In Class Exercise
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-09-07T06:24:38
+lastmod: 2025-10-16T05:13:21
+
 ---
 
 ## Excercise Deliverables
