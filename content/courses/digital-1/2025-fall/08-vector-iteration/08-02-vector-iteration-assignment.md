@@ -1,17 +1,17 @@
 ---
 title: 08.02 Vector Dual Seeds Iteration Assignment
 date: 2025-10-16T09:00:00
-lastmod: 2025-10-16T11:53:58
+lastmod: 2025-10-16T12:47:14
 ---
 
-## Exercise Deliverables
+## Assignment Deliverables
 
 1. Illustrator document with a minimum of 20 different design iterations with 10 each from each design base aligned in a grid
    - YYYY-MM-DD Lastname Firstname Vector Design Iterations (`.ai`)
 2. Written Project Statement describing iterative process and assessment of outcomes
    - YYYY-MM-DD Lastname Firstname Vector Color Statement (`.docx`, `.pdf`)
 
-## Exercise Overview
+## Assignment Overview
 
 Practice rapid visual iteration from two distinct starting designs. with at least one must using text. Create two completely different base designs refered to as A and B.
 
