@@ -1,7 +1,7 @@
 ---
 title: 05.03 Digital Painting In Progress Image Upload Exercise
 date: 2025-09-25T09:00:00Z
-lastmod: 2025-09-25T13:21:29
+lastmod: 2025-10-17T06:06:30
 ---
 
 ## Exercise Deliverables
@@ -11,7 +11,7 @@ lastmod: 2025-09-25T13:21:29
 
 ## Overview
 
-Examining in progress work is a powerful way to evalute decisions before everything is locked in. Upload an image of your in progress work for the [Digital Painting Assignment](../04-digital-painting/04-06-digital-painting-assignment.md). Any point of progress is fine includd a still blank image if you have not progress beyond sketches.
+Examining in progress work is a powerful way to evalute decisions before everything is locked in. Upload an image of your in progress work for the [Digital Painting Assignment](05-04-digital-painting-assignment.md). Any point of progress is fine includd a still blank image if you have not progress beyond sketches.
 
 ## Grading Rubric
 

@@ -1,7 +1,7 @@
 ---
 title: 04.06 Digital Painting Assignment
-date: 2025-09-18T09:00:00Z
-lastmod: 2025-09-18T11:46:32
+date: 2025-09-25T09:00:00Z
+lastmod: 2025-10-17T06:06:37
 ---
 
 ## Assignment Deliverables
