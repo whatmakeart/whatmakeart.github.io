@@ -1,7 +1,7 @@
 ---
 title: 06.03 Photography Homework Exercises
 date: 2025-10-02T09:00:00Z
-lastmod: 2025-10-09T05:19:40
+lastmod: 2025-10-17T07:47:19
 ---
 
 ## Exercise Deliverables
@@ -30,3 +30,20 @@ Refer to the [basic camera settings](../01-introduction/01-01-basic-camera-setti
 6. Capture only the shadows of an object on a uniform surface
    - Use a bright light to cast a distinct shadow of an object or person on a wall, ground or other uniform surface.
    - Make the shadow the primary subject of the photograph. Experimenting with how sharp or soft you can make the shadow edges by moving the light.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Photo Challenge 1 Uploaded   | 10 points |
+| Photo Challenge 2 Uploaded   | 10 points |
+| Photo Challenge 3 Uploaded   | 10 points |
+| Photo Challenge 4 Uploaded   | 10 points |
+| Photo Challenge 5 Uploaded   | 10 points |
+| Photo Challenge 6 Uploaded   | 10 points |
+| RAW Images Uploaded          | 30 points |
+| File Management and Labeling | 10 points |
+
+</div>
