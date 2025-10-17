@@ -1,7 +1,7 @@
 ---
 title: 07.04 Vector Image Assignment
 date: 2025-10-09T09:00:00Z
-lastmod: 2025-10-09T16:02:08
+lastmod: 2025-10-17T09:17:55
 ---
 
 ## Assignment Deliverables
@@ -47,7 +47,8 @@ This project reinforces the photography and camera skills, color harmony and vec
 | -------------------------------------------- | --------- |
 | Photographic Technique                       | 20 points |
 | Composition                                  | 20 points |
-| Use of Vector lines vs Shapes as Appropriate | 50 points |
+| Use of Vector lines vs Shapes as Appropriate | 40 points |
+| Reference Photo Uploaded                     | 10 points |
 | File Management and Labeling                 | 10 points |
 
 </div>
