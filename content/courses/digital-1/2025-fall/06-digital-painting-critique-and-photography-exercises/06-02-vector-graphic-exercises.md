@@ -1,16 +1,16 @@
 ---
 title: 06.02 Vector Graphic Exercises
 date: 2025-10-02T09:00:00Z
-lastmod: 2025-10-09T06:14:56
+lastmod: 2025-10-17T06:12:40
 toc: true
 ---
 
 ## Exercise Deliverables
 
 1. Upload an Illustrator file for each of the 3 vector exercises
-   - Label the files YYYY-MM-DD Lastname Firstname Illustrator Exercise.ai
+   - Label the files YYYY-MM-DD Lastname Firstname Illustrator Exercise 1 (`.ai`)
 
-## Exercies Overview
+## Exercise Overview
 
 Complete 3 of the following Adobe Illustrator Exercises.
 
@@ -58,5 +58,18 @@ Complete 3 of the following Adobe Illustrator Exercises.
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/l2z390sqhO8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
+
+</div>
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Vector Exercise 1            | 30 points |
+| Vector Exercise 2            | 30 points |
+| Vector Exercise 3            | 30 points |
+| File Management and Labeling | 10 points |
 
 </div>

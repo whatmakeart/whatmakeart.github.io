@@ -1,7 +1,7 @@
 ---
 title: 07.02 Visual Studio Code Exercise
 date: 2025-10-09T09:00:00Z
-lastmod: 2025-10-09T15:51:16
+lastmod: 2025-10-17T06:18:50
 ---
 
 ## Exercise Deliverables
@@ -109,5 +109,17 @@ lastmod: 2025-10-09T15:51:16
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/_WEyoLuuyYo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
+
+</div>
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Screenshot Image Uploaded    | 60 points |
+| URL Submitted                | 30 points |
+| File Management and Labeling | 10 points |
 
 </div>

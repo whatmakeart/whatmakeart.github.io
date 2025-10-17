@@ -1,7 +1,7 @@
 ---
 title: 06.01 Photography Pair Exercises
 date: 2025-10-02T09:00:00Z
-lastmod: 2025-10-09T05:20:11
+lastmod: 2025-10-17T07:28:30
 ---
 
 ## Exercise Deliverables
@@ -37,3 +37,20 @@ Refer to the [basic camera settings](../01-introduction/01-01-basic-camera-setti
    - Use the lowest f-stop on the camera and get close to the subject with the background as far away as possible.
 6. Take a shot with objects in foreground, middle ground, and background with everything in focus
    - use a large f-stop or small opening. You will need a lot of light.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Photo Challenge 1 Uploaded   | 10 points |
+| Photo Challenge 2 Uploaded   | 10 points |
+| Photo Challenge 3 Uploaded   | 10 points |
+| Photo Challenge 4 Uploaded   | 10 points |
+| Photo Challenge 5 Uploaded   | 10 points |
+| Photo Challenge 6 Uploaded   | 10 points |
+| RAW Images Uploaded          | 10 points |
+| File Management and Labeling | 10 points |
+
+</div>
