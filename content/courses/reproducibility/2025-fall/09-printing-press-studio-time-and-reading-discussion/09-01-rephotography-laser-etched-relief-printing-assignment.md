@@ -1,7 +1,7 @@
 ---
 title: 09.01 Rephotography Laser Etched Relief Printing Assignment
 date: 2025-10-22T12:00:00
-lastmod: 2025-10-22T05:59:13
+lastmod: 2025-10-22T15:55:43
 ---
 
 ## Assignment Deliverables
@@ -22,11 +22,11 @@ The unique artifact and edition of 3 identical prints will be displayed for crit
 ### Assignment Process
 
 1. Create a 2D matrix with laser engraving that will reproduce the same appropriated image in two distinct ways.
-2. Produce one reproduction will be a singular, unique item.
+2. Produce one reproduction that is a a singular, unique item.
    - Must be produced from the matrix. A variety of 2D and 3D work are fine but the artifact must be produced using the appropriated image passed through a matrix.
    - The technique used may be repeatable but does not have to be.
    - Since working with a matrix implies repeatability, consider using unique, one of a kind materials to create a singular work.
-3. Produce an additional reproduction that will be and edition of identical copies.
+3. Produce an additional reproduction that will be an edition of identical copies.
    - Must be produced from the matrix.
    - Process must be repeatable in a way that makes identical copies.
    - Produce a minimum of 3 identical copies, although more copies are allowed.
