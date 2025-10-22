@@ -1,7 +1,7 @@
 ---
-title: 09.02 Digital Catalog Week 9 Assignment
+title: 09.03 Digital Catalog Week 9 Assignment
 date: 2025-10-22T12:00:00
-lastmod: 2025-10-22T15:37:41
+lastmod: 2025-10-22T15:52:30
 ---
 
 ## Assignment Deliverables

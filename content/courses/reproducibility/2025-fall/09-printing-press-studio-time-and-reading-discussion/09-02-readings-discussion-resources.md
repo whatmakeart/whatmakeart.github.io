@@ -1,7 +1,7 @@
 ---
 title: 09.02 Reading Discussion Resources
 date: 2025-10-22T12:00:00
-lastmod: 2025-10-22T15:34:53
+lastmod: 2025-10-22T15:52:37
 ---
 
 [Teachable Machine](https://teachablemachine.withgoogle.com/)
@@ -18,3 +18,7 @@ lastmod: 2025-10-22T15:34:53
 [‘Nerd,’ ‘Nonsmoker,’ ‘Wrongdoer’: How Might A.I. Label You?](https://www.nytimes.com/2019/09/20/arts/design/imagenet-trevor-paglen-ai-facial-recognition.html)
 
 [Excavating AI on Coding Train](https://www.youtube.com/watch?v=pbjR20eTLVs&t=352s)
+
+[The Summer Vision Project](https://people.csail.mit.edu/brooks/idocs/AIM-100.pdf) July 7, 1996.
+
+[Image-Net](https://www.image-net.org/)
