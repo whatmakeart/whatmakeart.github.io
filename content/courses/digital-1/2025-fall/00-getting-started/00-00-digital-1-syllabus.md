@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital 1 Syllabus
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-09-07T06:24:30
+lastmod: 2025-10-23T08:46:04
 ---
 
 ### Course Information
@@ -65,25 +65,25 @@ Upon completion of the course, students will have to opportunity to:
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**         | **Topic**                                                                          |
-| -------- | ---------------- | ---------------------------------------------------------------------------------- |
-| 1        | August 28        | [01 Introduction](../01-introduction/01-00-introduction.md)                        |
-| 2        | September 4      | [02 Atmospheric Perspective ](../02-atmospheric-perspective/02-00-introduction.md) |
-| 3        | September 11     | Atmospheric Perspective                                                            |
-| 4        | September 18     | Photoshop Retouching Tools                                                         |
-| 5        | September 25     | Critique Atmospheric Perspective / Introduction Photoshop Self Portrait            |
-| 6        | October 2        | Technical Instruction Photographic Retouching                                      |
-| 7        | October 9        | Review HTML Basics                                                                 |
-| 8        | October 16       | Critique Photoshop Self Portrait / Introduction Illustrator Logo                   |
-| 9        | October 23       | Illustrator Composition Using Photo Reference                                      |
-| 10       | October 30       | Review CSS and Flexbox                                                             |
-| 11       | November 6       | Critique Logo and Illustrator Composition / Introduction Digital Mashup            |
-| 12       | November 13      | Digital Portfolio InDesign                                                         |
-| 13       | November 20      | Critique Digital Mashup / Introduction Online Portfolo                             |
-| 14       | November 27      | Thanksgiving Break. No Class.                                                      |
-| 15       | December 4       | Lab Time                                                                           |
-| 16       | December 11      | Final Crits                                                                        |
-| 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)           |
+| **Week** | **Date**         | **Topic**                                                                                                                                 |
+| -------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 1        | August 28        | [01 Introduction](../01-introduction/01-00-introduction.md)                                                                               |
+| 2        | September 4      | [02 Atmospheric Perspective ](../02-atmospheric-perspective/02-00-introduction.md)                                                        |
+| 3        | September 11     | [03 Image Compositing](../03-image-compositing/03-00-introduction.md)                                                                     |
+| 4        | September 18     | [04 Digital Painting](../04-digital-painting/04-00-introduction.md)                                                                       |
+| 5        | September 25     | [05 Digital Painting Studio Work](../05-digital-painting-studio-work/05-00-introduction.md)                                               |
+| 6        | October 2        | [06 Digital Painting Critique and Photography Exercises](../06-digital-painting-critique-and-photography-exercises/06-00-introduction.md) |
+| 7        | October 9        | [07 Vector Images and Raw Images](../07-vector-images-and-raw-images/07-00-introduction.md)                                               |
+| 8        | October 16       | [08 Vector Iterationo](../08-vector-iteration/08-00-introduction.md)                                                                      |
+| 9        | October 23       | [09 The Web](../09-the-web/09-00-introduction.md)                                                                                         |
+| 10       | October 30       | 10 Review CSS and Flexbox                                                                                                                 |
+| 11       | November 6       | 11 Critique Logo and Illustrator Composition / Introduction Digital Mashup                                                                |
+| 12       | November 13      | 12 Digital Portfolio InDesign                                                                                                             |
+| 13       | November 20      | 13 Critique Digital Mashup / Introduction Online Portfolo                                                                                 |
+| 14       | November 27      | Thanksgiving Break. No Class.                                                                                                             |
+| 15       | December 4       | 14 Lab Time                                                                                                                               |
+| 16       | December 11      | Final Crits                                                                                                                               |
+| 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                                                  |
 
 </div>
 
