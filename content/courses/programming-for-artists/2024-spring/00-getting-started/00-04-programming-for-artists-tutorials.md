@@ -1,7 +1,7 @@
 ---
 title: 00.04 Programming for Artists Tutorials
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-24T10:05:35
+lastmod: 2025-10-23T11:45:35
 ---
 
 ## p5.js Tutorials
@@ -30,7 +30,7 @@ lastmod: 2024-01-24T10:05:35
 - [Configure Username and Email in Git Windows](../../../../coding/configure-username-email-in-git-windows.md)
 - [Clone GitHub Template Repository](../../../../coding/clone-github-template-repository.md)
 - [Git not found xcrun error](../../../../coding/git-not-found-xcrun-error.md)
-- [GitHub Pages](../../../../coding/github-pages.md)
+- [GitHub Pages](../../../../coding/github-pages-dns-records.mds-records.mds-records.md)
 
 ## Web Development Tutorials
 

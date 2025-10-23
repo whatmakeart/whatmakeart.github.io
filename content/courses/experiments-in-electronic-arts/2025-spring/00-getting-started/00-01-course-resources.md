@@ -1,7 +1,7 @@
 ---
 title: 00.02 Course Resources
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-17T12:18:20
+lastmod: 2025-10-23T11:45:35
 ---
 
 ## Stuff to Read
@@ -59,7 +59,7 @@ lastmod: 2025-01-17T12:18:20
 - [Configure Username and Email in Git Windows](../../../../coding/configure-username-email-in-git-windows.md)
 - [Clone GitHub Template Repository](../../../../coding/clone-github-template-repository.md)
 - [Git not found xcrun error](../../../../coding/git-not-found-xcrun-error.md)
-- [GitHub Pages](../../../../coding/github-pages.md)
+- [GitHub Pages](../../../../coding/github-pages-dns-records.mds-records.md)
 
 ## Web Development Tutorials
 
