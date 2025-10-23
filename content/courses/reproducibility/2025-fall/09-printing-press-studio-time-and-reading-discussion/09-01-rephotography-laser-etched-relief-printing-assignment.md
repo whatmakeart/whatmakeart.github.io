@@ -1,7 +1,7 @@
 ---
 title: 09.01 Rephotography Laser Etched Relief Printing Assignment
 date: 2025-10-22T12:00:00
-lastmod: 2025-10-22T15:55:43
+lastmod: 2025-10-22T20:10:11
 ---
 
 ## Assignment Deliverables
@@ -33,7 +33,13 @@ The unique artifact and edition of 3 identical prints will be displayed for crit
    - Think about the relationship of the number of copies produced and the content of the appropriated image.
 4. Write a self-reflection and description of your process and final results
 
-### Questions to Consider
+### Potential Investigations
+
+1. Pull a print with the bare wood before applying any sealer such as shellac. You can do this when testing the printing press pressure. It often creates a unique "mono-print" with the residue of the laser etching and wood material visible in the print.
+2. What happens to the image if it is transformed into thread and fabric on a digital embroidery machine?
+3. Can you reproduce the image with 3D printing using 2D to 3D mesh generative tools to create a 3D version of the image?
+
+### Reflection Questions to Consider
 
 1. Why this image? Why this process?
 2. What does it mean in context to transform a photographic image through all these steps?
@@ -41,12 +47,6 @@ The unique artifact and edition of 3 identical prints will be displayed for crit
 4. Can authorship be removed from an image?
 5. How does [appropriation](../06-moldmaking-critque-rephotography-intro/06-02-appropriation.md) alter or not alter an image?
 6. Is there a connection or relationship between the production process and image's connotations, suggestive meaning, and denotations, literal interpretations?
-
-### Potential Investigations
-
-1. Pull a print with the bare wood before applying any sealer such as shellac. You can do this when testing the printing press pressure. It often creates a unique "mono-print" with the residue of the laser etching and wood material visible in the print.
-2. What happens to the image if it is transformed into thread and fabric on a digital embroidery machine?
-3. Can you reproduce the image with 3D printing using 2D to 3D mesh generative tools to create a 3D version of the image?
 
 ### Assignment Resources
 
