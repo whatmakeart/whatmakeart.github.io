@@ -1,13 +1,13 @@
 ---
 title: 09.06 Vector Designs Refined and Cropped Assignment
 date: 2025-10-16T09:00:00
-lastmod: 2025-10-23T14:13:53
+lastmod: 2025-10-23T14:28:08
 ---
 
 ## Assignment Deliverables
 
 1. Illustrator document with a refined and cropped versions of your vector designs
-   - YYYY-MM-DD Lastname Firstname Vector Design Iterations (`.ai`)
+   - YYYY-MM-DD Lastname Firstname Vector Design Refined and Cropped Versions (`.ai`)
 
 ### Process
 
