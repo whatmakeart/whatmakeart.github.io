@@ -1,13 +1,13 @@
 ---
 title: 10.07 Zine Assignment
 date: 2025-04-02T09:00:00
-lastmod: 2025-05-02T18:08:01
+lastmod: 2025-10-29T05:47:38
 ---
 
 ## Assignment Deliverables
 
 1. An edition of a two-sided zine using digital output on one side and screen printing on the second side
-2. 2 Documentation Photos ()`.png`, `.jpg`)
+2. 2 Documentation Photos (`.png`, `.jpg`)
    - Label files YYYYMMDD Lastname Firstname Zine Documentation
 
 ## Assignment Requirements
