@@ -1,10 +1,10 @@
 ---
 title: 10.05 One Page Zine Mock Layout Assignment
 date: 2025-10-29T12:00:00
-lastmod: 2025-08-20T15:21:27
+lastmod: 2025-10-29T05:08:36
 ---
 
-## Assignmeent Deliverables
+## Assignment Deliverables
 
 1. Minimum 1 mock layout of a one page zine
 

@@ -1,9 +1,8 @@
 ---
 title: 10.01 Zines
 date: 2025-04-02T09:00:00
-lastmod: 2025-03-19T04:56:45
+lastmod: 2025-10-29T05:21:45
+toc: true
 ---
 
-## Links
-
-[Zine - Wikipedia](https://en.wikipedia.org/wiki/Zine)
+![Link to included file content](../../../../printmaking/zines.md)
