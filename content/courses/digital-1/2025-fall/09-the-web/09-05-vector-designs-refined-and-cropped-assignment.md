@@ -1,7 +1,7 @@
 ---
-title: 09.06 Vector Designs Refined and Cropped Assignment
+title: 09.05 Vector Designs Refined and Cropped Assignment
 date: 2025-10-16T09:00:00
-lastmod: 2025-10-23T16:24:09
+lastmod: 2025-10-30T08:23:03
 ---
 
 ## Assignment Deliverables

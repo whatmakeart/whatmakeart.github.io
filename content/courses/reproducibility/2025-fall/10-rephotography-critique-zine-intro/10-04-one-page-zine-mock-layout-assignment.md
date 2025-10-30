@@ -1,12 +1,12 @@
 ---
 title: 10.05 One Page Zine Mock Layout Assignment
 date: 2025-10-29T12:00:00
-lastmod: 2025-10-29T05:08:36
+lastmod: 2025-10-30T08:17:42
 ---
 
 ## Assignment Deliverables
 
-1. Minimum 1 mock layout of a one page zine
+1. Minimum 2 mock layouts of a one page zine front and back
 
 ## Overview
 
@@ -19,10 +19,11 @@ lastmod: 2025-10-29T05:08:36
 
 <div class="responsive-table-markdown">
 
-| Assessment                             | Weight    |
-| -------------------------------------- | --------- |
-| Mockup Completed at Beginning of Class | 30 points |
-| Sequential Narrative Complete          | 35 points |
-| Rear Imagery Complete                  | 35 points |
+| Assessment                      | Weight    |
+| ------------------------------- | --------- |
+| Sequential Narrative 1 Complete | 25 points |
+| Sequential Narrative 2 Complete | 25 points |
+| Rear Imagery 1 Complete         | 25 points |
+| Rear Imagery 2 Complete         | 25 points |
 
 </div>

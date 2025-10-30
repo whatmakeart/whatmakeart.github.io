@@ -1,7 +1,7 @@
 ---
 title: 10.05 Clear Film for Screen Exposing Assignment
 date: 2025-10-29T12:00:00
-lastmod: 2025-08-20T15:21:27
+lastmod: 2025-10-30T08:17:56
 ---
 
 ## Assignment Deliverables

@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SVG Morpher — Chaos → Reform</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+    <style>
+      html,
+      body {
+        height: 100%;
+        background: #0b1220;
+        overflow: hidden;
+        margin: 0;
+      }
+      #stage {
+        position: fixed;
+        inset: 0;
+      }
+      #ui {
+        position: fixed;
+        left: 1rem;
+        top: 1rem;
+        z-index: 10;
+        display: flex;
+        gap: 0.5rem;
+        flex-wrap: wrap;
+      }
+      .btn {
+        background: #4f46e5;
+        color: #fff;
+        font-weight: 600;
+        padding: 0.5rem 0.75rem;
+        border-radius: 0.6rem;
+        box-shadow: 0 6px 20px rgba(79, 70, 229, 0.4);
+      }
+      .panel {
+        backdrop-filter: blur(8px);
+        background: rgba(17, 24, 39, 0.6);
+        color: #e5e7eb;
+        padding: 0.6rem 0.8rem;
+        border-radius: 0.8rem;
+      }
+      .range {
+        appearance: none;
+        width: 160px;
+        height: 6px;
+        border-radius: 999px;
+        background: #1f2937;
+        outline: none;
+      }
+      .range::-webkit-slider-thumb {
+        appearance: none;
+        width: 14px;
+        height: 14px;
+        border-radius: 50%;
+        background: #818cf8;
+        cursor: pointer;
+      }
+      .drop-hint {
+        position: fixed;
+        inset: 0;
+        display: none;
+        place-items: center;
+        background: rgba(99, 102, 241, 0.08);
+        border: 2px dashed #6366f1;
+        color: #c7d2fe;
+        font-size: 1.2rem;
+        z-index: 20;
+      }
+      .clone {
+        mix-blend-mode: screen;
+        will-change: transform, d;
+      }
+    </style>
+  </head>
+  <body class="font-sans">
+    <!-- Fullscreen SVG stage -->
+    <svg
+      id="stage"
+      class="w-screen h-screen"
+      viewBox="0 0 1920 1080"
+      preserveAspectRatio="xMidYMid meet"
+    ></svg>
+
+    <!-- UI -->
+    <div id="ui">
+      <label class="btn cursor-pointer">
+        Upload SVG
+        <input id="file" type="file" accept="image/svg+xml" class="hidden" />
+      </label>
+      <button id="reloadDefault" class="btn">Load Demo</button>
+      <div class="panel">
+        <div class="text-xs mb-1">Morph intensity</div>
+        <input
+          id="intensity"
+          type="range"
+          min="0"
+          max="100"
+          value="35"
+          class="range"
+        />
+      </div>
+      <div class="panel">
+        <div class="text-xs mb-1">Morph speed</div>
+        <input
+          id="speed"
+          type="range"
+          min="5"
+          max="200"
+          value="60"
+          class="range"
+        />
+      </div>
+    </div>
+
+    <!-- Drag & drop hint -->
+    <div id="drop" class="drop-hint grid">Drop your SVG anywhere</div>
+
+    <script>
+      /**************
+       * Utilities
+       **************/
+      const STAGE = document.getElementById("stage");
+      const FILE = document.getElementById("file");
+      const DROP = document.getElementById("drop");
+      const INTENSITY = document.getElementById("intensity");
+      const SPEED = document.getElementById("speed");
+      const RELOAD = document.getElementById("reloadDefault");
+
+      const DEFAULT_SVG = `
+  <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <rect x="10" y="10" width="80" height="80" rx="10" fill="#6ee7b7"/>
+    <circle cx="50" cy="50" r="24" fill="#60a5fa"/>
+    <polygon points="50,5 95,95 5,95" fill="#f472b6" opacity="0.85"/>
+  </svg>`;
+
+      // Tiny PRNG noise (smooth step with looping phase)
+      function noiseLoop(t, seed = 0) {
+        // t in seconds; loop each 12s
+        const L = 12;
+        const p = (t % L) / L + seed * 0.137;
+        // 3rd-order smoothstep remix
+        return (3 * p * p - 2 * p * p * p) * 2 - 1; // [-1,1]
+      }
+
+      // Convert non-path primitives to path "d"
+      function elementToPath(el) {
+        const tag = el.tagName.toLowerCase();
+        const get = (n, def = 0) => parseFloat(el.getAttribute(n) ?? def);
+        if (tag === "path") return el.getAttribute("d") || "";
+
+        if (tag === "rect") {
+          const x = get("x"),
+            y = get("y"),
+            w = get("width"),
+            h = get("height"),
+            rx = get("rx"),
+            ry = get("ry");
+          if (rx || ry) {
+            // rounded rect
+            const rrx = rx || ry || 0,
+              rry = ry || rx || 0;
+            return `M${x + rrx},${y} H${x + w - rrx} A${rrx},${rry} 0 0 1 ${
+              x + w
+            },${y + rry} V${y + h - rry} A${rrx},${rry} 0 0 1 ${x + w - rrx},${
+              y + h
+            } H${x + rrx} A${rrx},${rry} 0 0 1 ${x},${y + h - rry} V${
+              y + rry
+            } A${rrx},${rry} 0 0 1 ${x + rrx},${y} Z`;
+          }
+          return `M${x},${y} H${x + w} V${y + h} H${x} Z`;
+        }
+        if (tag === "circle") {
+          const cx = get("cx"),
+            cy = get("cy"),
+            r = get("r");
+          return `M${cx - r},${cy} A${r},${r} 0 1 0 ${
+            cx + r
+          },${cy} A${r},${r} 0 1 0 ${cx - r},${cy} Z`;
+        }
+        if (tag === "ellipse") {
+          const cx = get("cx"),
+            cy = get("cy"),
+            rx = get("rx"),
+            ry = get("ry");
+          return `M${cx - rx},${cy} A${rx},${ry} 0 1 0 ${
+            cx + rx
+          },${cy} A${rx},${ry} 0 1 0 ${cx - rx},${cy} Z`;
+        }
+        if (tag === "line") {
+          const x1 = get("x1"),
+            y1 = get("y1"),
+            x2 = get("x2"),
+            y2 = get("y2");
+          return `M${x1},${y1} L${x2},${y2}`;
+        }
+        if (tag === "polyline" || tag === "polygon") {
+          const pts = (el.getAttribute("points") || "").trim();
+          let d = "M" + pts.replace(/\s+/g, " ").replace(/,/g, " ");
+          if (tag === "polygon") d += " Z";
+          return d;
+        }
+        return "";
+      }
+
+      // Sample a path into N points (returns {points, closed})
+      function samplePathD(d, samples = 220, closedHint = false) {
+        const tmp = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "path"
+        );
+        tmp.setAttribute("d", d);
+        STAGE.appendChild(tmp); // attach to measure length
+        const total = tmp.getTotalLength();
+        const closed = /Z\s*$/i.test(d) || closedHint;
+
+        const points = [];
+        for (let i = 0; i < samples; i++) {
+          const p = tmp.getPointAtLength(total * (i / (samples - 1)));
+          points.push([p.x, p.y]);
+        }
+        STAGE.removeChild(tmp);
+        return { points, closed };
+      }
+
+      // Build path "d" from points (keeps closed/open)
+      function pointsToD(points, closed = true) {
+        if (points.length === 0) return "";
+        let d = `M${points[0][0]},${points[0][1]}`;
+        for (let i = 1; i < points.length; i++) {
+          d += ` L${points[i][0]},${points[i][1]}`;
+        }
+        if (closed) d += " Z";
+        return d;
+      }
+
+      /**************
+       * Loader
+       **************/
+      let master = { viewBox: [0, 0, 100, 100], items: [] }; // items: [{d, fill, stroke, strokeWidth, closed, sampled: [[x,y],...]}]
+      const SAMPLES_PER_PATH = 220;
+      const NUM_CLONES = 6;
+
+      function parseAndFlatten(svgString) {
+        master = { viewBox: [0, 0, 100, 100], items: [] };
+        const doc = new DOMParser().parseFromString(svgString, "image/svg+xml");
+        const svg = doc.querySelector("svg");
+        if (!svg) {
+          console.warn("No <svg> root");
+          return master;
+        }
+        const vb = (svg.getAttribute("viewBox") || "0 0 100 100")
+          .split(/\s+/)
+          .map(Number);
+        master.viewBox = vb;
+
+        const elems = svg.querySelectorAll(
+          "path,rect,circle,ellipse,line,polyline,polygon"
+        );
+        elems.forEach((el, idx) => {
+          const d = elementToPath(el);
+          if (!d) return;
+          const fill =
+            el.getAttribute("fill") ??
+            (el.tagName.toLowerCase() === "line" ? "none" : "#ccc");
+          const stroke = el.getAttribute("stroke") ?? "none";
+          const sw = el.getAttribute("stroke-width") ?? "0";
+          const closed = /Z\s*$/i.test(d);
+          const { points } = samplePathD(d, SAMPLES_PER_PATH, closed);
+          master.items.push({
+            d,
+            fill,
+            stroke,
+            strokeWidth: sw,
+            closed,
+            sampled: points,
+          });
+        });
+        return master;
+      }
+
+      function fitStageToViewBox(vb) {
+        STAGE.setAttribute("viewBox", vb.join(" "));
+        STAGE.setAttribute("preserveAspectRatio", "xMidYMid meet");
+      }
+
+      /**************
+       * Build original group + chaos clones
+       **************/
+      let originalGroup = null;
+      let cloneNodes = []; // array of SVGPathElement
+      let chaosAnime = null;
+      let reformTimer = null;
+      let rafId = null;
+      let startTime = performance.now();
+
+      function clearStage() {
+        if (chaosAnime) {
+          chaosAnime.pause();
+          chaosAnime = null;
+        }
+        if (reformTimer) {
+          clearTimeout(reformTimer);
+          reformTimer = null;
+        }
+        if (rafId) {
+          cancelAnimationFrame(rafId);
+          rafId = null;
+        }
+        cloneNodes.length = 0;
+        while (STAGE.lastChild) STAGE.removeChild(STAGE.lastChild);
+        originalGroup = null;
+      }
+
+      function buildOriginal() {
+        originalGroup = document.createElementNS(
+          "http://www.w3.org/2000/svg",
+          "g"
+        );
+        originalGroup.setAttribute("id", "original");
+        STAGE.appendChild(originalGroup);
+
+        master.items.forEach((it) => {
+          const p = document.createElementNS(
+            "http://www.w3.org/2000/svg",
+            "path"
+          );
+          p.setAttribute("d", it.d);
+          p.setAttribute("fill", it.fill);
+          p.setAttribute("stroke", it.stroke);
+          p.setAttribute("stroke-width", it.strokeWidth);
+          originalGroup.appendChild(p);
+        });
+      }
+
+      function buildChaos() {
+        const vb = master.viewBox;
+        const centerX = vb[0] + vb[2] / 2;
+        const centerY = vb[1] + vb[3] / 2;
+
+        master.items.forEach((it, idx) => {
+          for (let c = 0; c < NUM_CLONES; c++) {
+            const p = document.createElementNS(
+              "http://www.w3.org/2000/svg",
+              "path"
+            );
+            p.classList.add("clone");
+            p.setAttribute("d", pointsToD(it.sampled, it.closed));
+            p.setAttribute("fill", it.fill);
+            p.setAttribute("stroke", it.stroke);
+            p.setAttribute("stroke-width", it.strokeWidth);
+            // start at the original center with tiny offset
+            p.setAttribute(
+              "transform",
+              `translate(${centerX},${centerY}) translate(${-centerX},${-centerY})`
+            );
+            p.__meta = {
+              index: idx,
+              seed: (idx * 7 + c * 13) % 97,
+              base: it.sampled,
+              closed: it.closed,
+            };
+            STAGE.appendChild(p);
+            cloneNodes.push(p);
+          }
+        });
+      }
+
+      /**************
+       * Live morphing loop
+       **************/
+      function updateMorph(time) {
+        const t = (time - startTime) / 1000;
+        const intensity = parseFloat(INTENSITY.value) / 100; // 0..1
+        const speed = parseFloat(SPEED.value) / 100; // 0.05..2.0 after mapping below
+
+        const spd = 0.2 + speed * 2.2; // seconds scaler
+        const amp = 0.5 + intensity * 12.0; // displacement amplitude in px (viewBox units)
+
+        for (const p of cloneNodes) {
+          const { base, seed, closed } = p.__meta;
+          const deformed = new Array(base.length);
+          for (let i = 0; i < base.length; i++) {
+            const [x, y] = base[i];
+            // two phase-shifted loops for x/y
+            const nx = noiseLoop(t * spd + i * 0.002, seed * 0.11);
+            const ny = noiseLoop(t * spd + i * 0.002, seed * 0.29);
+            deformed[i] = [x + nx * amp, y + ny * amp];
+          }
+          p.setAttribute("d", pointsToD(deformed, closed));
+        }
+        rafId = requestAnimationFrame(updateMorph);
+      }
+
+      /**************
+       * Chaos / Reform choreography
+       **************/
+      function startChaos() {
+        if (!originalGroup) return;
+        originalGroup.style.display = "none";
+
+        buildChaos();
+
+        // motion + color drift via anime.js; path morphing via rAF above
+        chaosAnime = anime({
+          targets: cloneNodes,
+          translateX: () =>
+            anime.random(-master.viewBox[2] * 0.25, master.viewBox[2] * 0.25),
+          translateY: () =>
+            anime.random(-master.viewBox[3] * 0.25, master.viewBox[3] * 0.25),
+          rotate: () => anime.random(-180, 180),
+          scale: () => anime.random(0.5, 2.2),
+          opacity: [
+            { value: 0.35, duration: 1200, easing: "easeOutSine" },
+            { value: 0.9, duration: 3200 },
+          ],
+          duration: () => anime.random(3500, 7000),
+          direction: "alternate",
+          easing: "easeInOutSine",
+          delay: anime.stagger(10),
+          loop: true,
+          update: (a) => {
+            // slow color cycle
+            a.animatables.forEach((an, i) => {
+              if (i % 7 === 0) {
+                const h = (performance.now() / 50 + i * 11) % 360;
+                an.target.setAttribute("fill", `hsl(${h},70%,55%)`);
+              }
+            });
+          },
+        });
+
+        // start morphing
+        startTime = performance.now();
+        rafId = requestAnimationFrame(updateMorph);
+
+        // move to reform after 60s
+        reformTimer = setTimeout(startReform, 60000);
+      }
+
+      function startReform() {
+        if (chaosAnime) {
+          chaosAnime.pause();
+          chaosAnime = null;
+        }
+        if (rafId) {
+          cancelAnimationFrame(rafId);
+          rafId = null;
+        }
+
+        anime.remove(cloneNodes);
+        anime({
+          targets: cloneNodes,
+          translateX: 0,
+          translateY: 0,
+          rotate: 0,
+          scale: 1,
+          opacity: 0.0,
+          duration: 2000,
+          easing: "easeInOutExpo",
+          complete: () => {
+            // remove clones
+            cloneNodes.forEach((n) => n.remove());
+            cloneNodes.length = 0;
+            // show original
+            if (originalGroup) originalGroup.style.display = "block";
+            // restart cycle
+            setTimeout(startChaos, 2000);
+          },
+        });
+      }
+
+      /**************
+       * Public API
+       **************/
+      function loadSVGString(svgText) {
+        clearStage();
+        parseAndFlatten(svgText);
+        fitStageToViewBox(master.viewBox);
+        buildOriginal();
+        setTimeout(startChaos, 1200);
+      }
+
+      async function loadFile(file) {
+        const text = await file.text();
+        loadSVGString(text);
+      }
+
+      /**************
+       * Events
+       **************/
+      FILE.addEventListener("change", (e) => {
+        const f = e.target.files?.[0];
+        if (f && f.type === "image/svg+xml") {
+          loadFile(f);
+        }
+      });
+
+      RELOAD.addEventListener("click", () => loadSVGString(DEFAULT_SVG));
+
+      // Drag & drop
+      window.addEventListener("dragover", (e) => {
+        e.preventDefault();
+        DROP.style.display = "grid";
+      });
+      window.addEventListener("dragleave", (e) => {
+        if (e.target === DROP) {
+          DROP.style.display = "none";
+        }
+      });
+      window.addEventListener("drop", (e) => {
+        e.preventDefault();
+        DROP.style.display = "none";
+        const f = e.dataTransfer?.files?.[0];
+        if (f && f.type === "image/svg+xml") {
+          loadFile(f);
+        }
+      });
+
+      // Resize (just keeps aspect via viewBox/preserveAspectRatio automatically)
+
+      // Kickoff
+      loadSVGString(DEFAULT_SVG);
+    </script>
+  </body>
+</html>
