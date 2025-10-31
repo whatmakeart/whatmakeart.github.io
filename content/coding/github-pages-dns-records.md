@@ -1,7 +1,7 @@
 ---
 title: GitHub Pages DNS Records
 date: 2024-01-16T05:56:02
-lastmod: 2025-10-23T11:43:06
+lastmod: 2025-10-31T03:55:29
 ---
 
 ## GitHub Pages DNS Records
@@ -27,3 +27,5 @@ Use these DNS records to point a custom domain name to a GitHub Pages website. T
 | A    |      | 185.199.111.153 |
 
 [Configuring a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
+
+[GitHub Student Developer Pack](./github-student-developer-pack.md)

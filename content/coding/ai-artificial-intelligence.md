@@ -1,7 +1,7 @@
 ---
 title: AI
 date: 2023-05-23T21:59:42
-lastmod: 2024-12-02T05:14:28
+lastmod: 2025-10-31T04:16:53
 ---
 
 ## AI Creation
@@ -13,7 +13,7 @@ lastmod: 2024-12-02T05:14:28
 
 [Musician's Union Outlaw Synthesisers](https://faroutmagazine.co.uk/musicians-union-outlaw-synthesisers/)
 
-### Google Collab Links
+### Google Colab Links
 
 - [Upscale]https://colab.research.google.com/github/AhabbscienceStudioPak/ESRGAN/blob/master/ESRGAN_Colab.ipynb
 - [Google AI Blog: Monster Mash: A Sketch-Based Tool for Casual 3D Modeling and Animation](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html?m=1)
@@ -27,6 +27,12 @@ lastmod: 2024-12-02T05:14:28
 I read "Computer Algorithms Analyzing Paintings" in the November 19, 2014 _Artforum_ about computer algorithms analyzing Van Gogh paintings and being able to tell the difference between the brushstrokes of forgeries in real paintings. [^1] The author of the piece suggested that these new algorithms could be used by artists to find out what is the best part of a still life, then using the information gained from the deep learning of the machine and big data the artist could amp up the level to what the author calls "uncanny" levels. They could then crossbreed this with other particular styles and let genetic algorithms go through and find out new and unimaginable works of art. They also talked about finding statistical probability to determine the difference between forgeries of signatures. Computers and machines will continue to enhance and extend and externalize our memories just as I'm reading in the Organized Mind book.
 
 [Why Machine Learning Is Not Made for Causal Estimation | by Quentin Gallea, PhD | Jul, 2024 | Towards Data Science](https://towardsdatascience.com/why-machine-learning-is-not-made-for-causal-estimation-f2add4a36e85)
+
+## AI Videos
+
+- [ChatGPT Resume](./chatgpt-resume.md)
+- [Google Bard vs OpenAI ChatGPT](./google-bard-vs-openai-chatgpt.md)
+-
 
 ## AI Links
 

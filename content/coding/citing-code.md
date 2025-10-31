@@ -1,7 +1,7 @@
 ---
 title: Citing Code
 date: 2024-01-19T09:30:00Z
-lastmod: 2025-01-13T04:51:28
+lastmod: 2025-10-31T04:16:53
 ---
 
 ## TLDR
@@ -30,11 +30,11 @@ It is also a matter of academic integrity and sometimes a legal obligation.
 >
 > MIT Academic Integrity Handbook - Writing Code [^mit-code]
 
-## Other Code Citing Resourses
+## Other Code Citing Resources
 
 - [NYU](https://guides.nyu.edu/datascience/cite-code)
 - [University of Arkansas](https://uark.libguides.com/CSCE/CitingCode)
-- [University of Cincinatti](https://guides.libraries.uc.edu/citing/code)
+- [University of Cincinnati](https://guides.libraries.uc.edu/citing/code)
 - [Pellissippi State Community College](https://lib.pstcc.edu/csplagiarism/citation)
 
 ## References

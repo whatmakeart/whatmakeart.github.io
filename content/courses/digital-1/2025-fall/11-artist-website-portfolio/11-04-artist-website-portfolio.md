@@ -1,7 +1,7 @@
 ---
-title: 10.04 Artist Website Portfolio
-date: 2025-10-30T09:00:00
-lastmod: 2025-10-30T08:37:52
+title: 11.04 Artist Website Portfolio
+date: 2025-11-06T09:00:00Z
+lastmod: 2025-10-31T04:16:53
 toc: true
 ---
 
