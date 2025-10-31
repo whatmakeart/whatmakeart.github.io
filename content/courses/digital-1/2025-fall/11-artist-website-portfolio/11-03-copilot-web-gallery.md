@@ -1,7 +1,7 @@
 ---
-title: 10.03 Copilot Web Gallery
-date: 2025-10-30T09:00:00Z
-lastmod: 2025-10-30T08:37:27
+title: 11.03 Copilot Web Gallery
+date: 2025-11-06T09:00:00Z
+lastmod: 2025-10-31T08:48:38
 ---
 
 <div class="video-grid">
