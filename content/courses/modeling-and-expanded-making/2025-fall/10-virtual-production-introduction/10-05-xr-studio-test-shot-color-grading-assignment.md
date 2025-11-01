@@ -1,7 +1,7 @@
 ---
 title: 10.05 XR Studio Test Shot Color Grading Assignment
 date: 2025-10-31T09:30:00
-lastmod: 2025-11-01T13:57:00
+lastmod: 2025-11-01T16:10:27
 ---
 
 ## Assignment Deliverables
@@ -15,6 +15,9 @@ lastmod: 2025-11-01T13:57:00
 
 [XR Studio Test Shot Download Link](https://ciaart-my.sharepoint.com/:f:/g/personal/jkuehnle_cia_edu/Ety-1z6CTONDgjKq7Vgoj3IB_o0p_lI9Xkq6hC-t5IGsaw?e=IGO9H7)
 
+You do not need to export the entire clip but export a minimum of a couple seconds.
+
 ## Assignment Resources
 
-[Adobe Basic Color Correcting Options](https://helpx.adobe.com/premiere/desktop/correct-color/color-correction-fundamentals/basic-color-correction-options.html)
+- [Adobe Color Workflows](https://helpx.adobe.com/ca/premiere-pro/using/color-workflows.html)
+- [Adobe Basic Color Correcting Options](https://helpx.adobe.com/premiere/desktop/correct-color/color-correction-fundamentals/basic-color-correction-options.html)
