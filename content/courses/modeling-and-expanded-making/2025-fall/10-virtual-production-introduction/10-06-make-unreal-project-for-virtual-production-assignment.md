@@ -1,7 +1,7 @@
 ---
 title: 10.06 Make Unreal Project for Virtual Production Assignment
 date: 2025-10-31T09:30:00
-lastmod: 2025-11-01T13:56:54
+lastmod: 2025-11-01T14:07:14
 ---
 
 ## Assignment Deliverables
@@ -17,3 +17,20 @@ Review the guides below:
 
 - [Blank Environment to disguise RenderStream Setup Unreal 5.5.4](./10-03-blank-environment-to-disguise-renderstream-setup-unreal-5-5-4.md)
 - [10.04 Fab Environment to disguise RenderStream Setup Unreal 5.5.4](./10-04-fab-environment-to-disguise-renderstream-setup-unreal-5-5-4%20copy.md)
+
+It is recommended that you add objects and elements to your scene based on your ideas and desired environment.
+
+### Requirements
+
+- Create and save a Level
+- Change the project settings according to the above guides
+- Add the RenderStream plugin
+- Add a Camera Root Actor to the Level
+- Add 3 Cine Camera Actors parented to the Camera Root Actor
+- Add the _RenderStream Channel Definition_ to the Cine Camera Actors
+- Label the Cine Camera Actors
+- Take a screenshot of the level showing the correctly added RenderStream Channel Definition and Cine Camera actors
+  - Note: The above guides use `RS_Main_Cam`, `RS_OOF_Cam`, `RS_AR_Cam` for names of the Cine Camera Actors. You can use these names or you can use the the names from the XR Studio disguise template.
+    - `0_InnerFrustum_Cam`
+    - `1_OuterFrustum_Cam`
+    - `2_AR_Cam`
