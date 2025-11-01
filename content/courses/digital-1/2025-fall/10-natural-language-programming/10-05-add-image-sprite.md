@@ -1,7 +1,7 @@
 ---
-title: 10.04 Add Image Sprite
+title: 10.05 Add Image Sprite
 date: 2025-10-30T09:00:00Z
-lastmod: 2025-10-31T08:49:59
+lastmod: 2025-11-01T13:57:00
 ---
 
 <div class="video-grid">

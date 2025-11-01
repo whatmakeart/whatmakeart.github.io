@@ -1,0 +1,20 @@
+---
+title: 10.05 XR Studio Test Shot Color Grading Assignment
+date: 2025-10-31T09:30:00
+lastmod: 2025-11-01T13:57:00
+---
+
+## Assignment Deliverables
+
+1. Exported portion of low exposure XR Studio test shot color graded
+   - Label file YYYY-MM-DD Lastname Firstname low exposure color graded (`.mp4`)
+1. Exported portion of high exposure XR Studio test shot color graded
+   - Label file YYYY-MM-DD Lastname Firstname high exposure color graded (`.mp4`)
+
+## Assignment Overview
+
+[XR Studio Test Shot Download Link](https://ciaart-my.sharepoint.com/:f:/g/personal/jkuehnle_cia_edu/Ety-1z6CTONDgjKq7Vgoj3IB_o0p_lI9Xkq6hC-t5IGsaw?e=IGO9H7)
+
+## Assignment Resources
+
+[Adobe Basic Color Correcting Options](https://helpx.adobe.com/premiere/desktop/correct-color/color-correction-fundamentals/basic-color-correction-options.html)
