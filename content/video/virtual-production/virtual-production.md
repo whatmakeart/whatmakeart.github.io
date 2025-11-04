@@ -1,7 +1,7 @@
 ---
 title: Virtual Production
 date: 2025-09-30T16:52:15
-lastmod: 2025-10-29T07:42:21
+lastmod: 2025-11-04T06:15:02
 ---
 
 Virtual Production uses a combination of technologies to create a realtime simulated environment for capturing video, creating experiences, or visualizing spaces.
@@ -26,3 +26,7 @@ To use Unreal remote control with RenderStream add customized arguments to the _
 ## disguise Workflows
 
 In the Cluster Workload for a RenderStream if you see a red highlight on the workflow name it could indicate that the _Content Source Machine_ is not set. Make sure you set the correct machine such as _rxiii-60224-1_ or the node with your content.
+
+## Miscellaneous Virtual Production Notes / Tips
+
+- If you are using simulations or particles in Unreal Engine, it can be helpful to start your sequence on frames after the zero frame. This give the simulation time to start and allows for easier adjustment of the simulation and starting frame fo the sequence without changing already set animations. Give 500-1000 frames of padding from zero before the start frame of the sequence.
