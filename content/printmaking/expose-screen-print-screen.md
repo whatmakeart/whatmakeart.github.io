@@ -1,7 +1,7 @@
 ---
-title: 11.01 Expose Screen Print Screens
-date: 2025-11-05T12:00:00
-lastmod: 2025-08-20T15:21:27
+title: Expose Screen Print Screen
+date: 2025-04-09T09:00:00
+lastmod: 2025-11-05T09:58:56
 ---
 
 Note that in screen printing, unlike relief printing, what you se is what you get or right is right. This means that you do not need to reverse or mirror your image, thye film you use to expose your screen should be placed on the screen as it will be printed. You should be able to read any text in the image.
