@@ -1,14 +1,14 @@
 ---
 title: 11.00 Introduction
 date: 2025-11-05T12:00:00
-lastmod: 2025-11-05T09:51:38
+lastmod: 2025-11-05T10:20:03
 ---
 
 ## Overview
 
 Students check out silk screens and complete the loan agreement form. Review and sign the screen checkout contract, noting the fee for damaging the screen. This occurs if the screen is not cleaned properly, scratched or if the screen has a hole. If there is irreversible damage then the screen cannot be reclaimed and reloaned. Even though the screens should be properly cleaned upon return, since we cannot 100% know the state of a loaned screen, it is important to clean and degrease the screen before use, to ensure the best result.
 
-Student then learn how to clean and degrease the screens in preparation for coating with photo emulsion. Once the screens are dry, students apply photo emulsion to their screens and place in the storage room to allow a minimum of 5 hours to dry.
+Students then learn how to clean and degrease the screens in preparation for coating with photo emulsion. Once the screens are dry, students apply photo emulsion to their screens and place in the storage room to allow a minimum of 5 hours to dry.
 
 After screen coating is completed then students discuss their zine mockups and transparency images with a focus on how the sequential images relate to the full silkcreened image on the reverse.
 
