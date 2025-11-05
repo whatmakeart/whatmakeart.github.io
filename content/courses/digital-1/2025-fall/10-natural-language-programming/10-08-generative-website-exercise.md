@@ -1,7 +1,7 @@
 ---
 title: 10.08 Generative Website Assignment
 date: 2025-10-30T09:00:00Z
-lastmod: 2025-11-04T21:01:38
+lastmod: 2025-11-05T16:07:19
 ---
 
 ## Assignment Deliverables
@@ -24,7 +24,7 @@ Potential forms:
 ### Process
 
 1. Spend minimum 1 hour creating original content. This includes recorded sounds, images sprites, vector graphics, text and story information, voice over, music, and any other type of experiential digital content made by you.
-2. Spend a minimum of 1 hour using copilot in visual Studio code to create an interactive web experience. This could be a game, an abstract sequence of animations, a physics simulation, a poetry evaluator, or any other interaction that can occur via a webpage.
+2. Spend a minimum of 1 hour using Copilot in visual Studio code to create an interactive web experience. This could be a game, an abstract sequence of animations, a physics simulation, a poetry evaluator, or any other interaction that can occur via a webpage.
 3. Use your content in the webpage.
 4. Put sound files, image files, and video files into the folder of your project.
 5. Give instructions to copilot to use those specific files on your web program.
