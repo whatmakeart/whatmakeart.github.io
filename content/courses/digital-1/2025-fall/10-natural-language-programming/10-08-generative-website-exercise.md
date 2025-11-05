@@ -1,7 +1,7 @@
 ---
 title: 10.08 Generative Website Assignment
 date: 2025-10-30T09:00:00
-lastmod: 2025-11-04T20:40:28
+lastmod: 2025-11-04T20:58:34
 ---
 
 ## Assignment Deliverables
@@ -42,3 +42,40 @@ Potential forms:
 - [Add Sound Effects with GitHub Copilot](https://youtu.be/TtZg2koyWuY)
 - [Set Audio Hardware Adobe Audition](https://youtu.be/CXCpECgCBVY)
 - [Create New Audio File Adobe Audition](https://youtu.be/o70n1NHDz8s)
+
+### Video Guides
+
+<div class="video-grid">
+<div class="video-card">
+
+#### Add Image Sprite with Copilot
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/-oGja4KPY78?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Record Sound Effect
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/UnGAhaMU9aU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Export MP3
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/UwqosXZv2jE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Add Sound Effect Copilot
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/TtZg2koyWuY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+</div>
