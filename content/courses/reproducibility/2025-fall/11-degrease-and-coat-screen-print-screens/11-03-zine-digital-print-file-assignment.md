@@ -1,7 +1,7 @@
 ---
-title: 11.04 Zine Digital Print File Assignment
+title: 11.03 Zine Digital Print File Assignment
 date: 2025-11-05T12:00:00
-lastmod: 2025-11-05T10:15:56
+lastmod: 2025-11-05T10:34:58
 ---
 
 ## Assignment Deliverables

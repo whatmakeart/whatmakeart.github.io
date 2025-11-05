@@ -1,7 +1,7 @@
 ---
-title: 11.03 Digital Catalog Week 11 Assignment
+title: 11.04 Digital Catalog Week 11 Assignment
 date: 2025-11-05T12:00:00
-lastmod: 2025-11-05T10:13:40
+lastmod: 2025-11-05T10:34:47
 ---
 
 ## Assignment Deliverables
