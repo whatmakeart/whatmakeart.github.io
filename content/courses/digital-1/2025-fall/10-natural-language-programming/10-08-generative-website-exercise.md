@@ -1,7 +1,7 @@
 ---
 title: 10.08 Generative Website Assignment
-date: 2025-10-30T09:00:00
-lastmod: 2025-11-04T20:58:34
+date: 2025-10-30T09:00:00Z
+lastmod: 2025-11-04T21:01:38
 ---
 
 ## Assignment Deliverables
