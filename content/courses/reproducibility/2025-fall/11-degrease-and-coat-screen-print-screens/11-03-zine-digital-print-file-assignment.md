@@ -1,13 +1,13 @@
 ---
 title: 11.03 Zine Digital Print File Assignment
 date: 2025-11-05T12:00:00
-lastmod: 2025-11-05T10:34:58
+lastmod: 2025-11-05T10:46:56
 ---
 
 ## Assignment Deliverables
 
-1. Digital image ready for printing in Digital Output Center DOC or on Laser Printers (`.tiff`, `.pdf`, `png`)
-   - Label file YYYYMMDD Lastname Firstname Zine Digital Image
+1. Digital image ready for printing in Digital Output Center DOC or on Laser Printers
+   - Label file YYYY-MM-DD Lastname Firstname Zine Digital Image (`.tiff`, `.pdf`, `png`)
 
 ## Requirements
 
