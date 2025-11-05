@@ -1,7 +1,7 @@
 ---
 title: 10.08 Generative Website Assignment
 date: 2025-10-30T09:00:00
-lastmod: 2025-11-01T13:57:00
+lastmod: 2025-11-04T20:40:28
 ---
 
 ## Assignment Deliverables
@@ -33,4 +33,12 @@ Potential forms:
 
 - [GitHub Copilot Model Selection](./10-01-github-copilot-model-selection.md)
 - [Copilot Web Game](./10-03-copilot-web-game.md)
-- [Add Image Sprite](10-05-add-image-sprite.md)
+- [Add Image Sprite](./10-05-add-image-sprite.md)
+
+### Sound Resources
+
+- [Create Sound Effect in Adobe Audition](https://youtu.be/UnGAhaMU9aU)
+- [Export MP3 from Adobe Audition](https://youtu.be/UwqosXZv2jE)
+- [Add Sound Effects with GitHub Copilot](https://youtu.be/TtZg2koyWuY)
+- [Set Audio Hardware Adobe Audition](https://youtu.be/CXCpECgCBVY)
+- [Create New Audio File Adobe Audition](https://youtu.be/o70n1NHDz8s)

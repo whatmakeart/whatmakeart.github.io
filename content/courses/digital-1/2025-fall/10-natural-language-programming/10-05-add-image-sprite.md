@@ -1,7 +1,7 @@
 ---
 title: 10.05 Add Image Sprite
 date: 2025-10-30T09:00:00Z
-lastmod: 2025-11-04T04:50:35
+lastmod: 2025-11-04T20:18:30
 ---
 
 <div class="video-grid">
@@ -39,55 +39,11 @@ Replace the avocado player in the game with img/avocado.png
 
 Copilot looks through the project, finds where the player image is set up, and updates the code. In my case, it created a new variable named something like avocadoImage and pointed its source at our PNG.
 
-You’ll usually see a change like this in your JavaScript:
-
-```js
-// Before: some placeholder or generated sprite
-// const playerImage = new Image();
-// playerImage.src = 'data:image/png;base64,...'; // or another file
-
-// After: your custom PNG
-const avocadoImage = new Image();
-avocadoImage.src = "img/avocado.png";
-
-// and wherever the player image is drawn:
-ctx.drawImage(avocadoImage, player.x, player.y, player.width, player.height);
-```
-
 Your filenames and variable names might differ slightly, but the idea is the same: a new Image object, its src set to img/avocado.png, and that image drawn in the render loop.
 
 Preview the changes. If your game is already running with a live server extension, just refresh the page. Otherwise, open index.html with a simple local server so canvas images load correctly.
 
 You should now see your own avocado in place of Copilot’s default.
-
-## Adjust the size
-
-Once the new sprite shows up, you’ll instantly know if it’s too tiny or too huge. There are two common spots to adjust size:
-
-1. The player’s width and height properties
-2. The drawImage call’s width and height arguments
-
-If your game stores size on the player object:
-
-```js
-const player = {
-  x: 100,
-  y: 100,
-  width: 96, // try 64, 96, 128, etc.
-  height: 128, // keep the aspect ratio of your PNG
-};
-```
-
-If the size is being set at draw time:
-
-```js
-// drawImage(image, dx, dy, dWidth, dHeight)
-ctx.drawImage(avocadoImage, player.x, player.y, 128, 160);
-```
-
-Preview, look, tweak, preview again. In the video I preview it once, decide it should be bigger, and nudge the numbers up until it feels good. You’ll know when it snaps into place with the scale of your world.
-
-A small tip: keep the aspect ratio consistent with your PNG so it doesn’t stretch. If avocado.png is 1024×1280, divide both by the same number when you scale, like 128×160 or 96×120.
 
 ## Commit and sync your changes
 
