@@ -1,7 +1,7 @@
 ---
 title: 11.03 Virtual Production Resources
 date: 2025-11-07T09:30:00
-lastmod: 2025-11-08T11:04:56
+lastmod: 2025-11-08T11:28:04
 ---
 
 ## Virtual Production Equipment
@@ -69,6 +69,8 @@ Aputure is a lighting company and wants people to buy its lights so take some of
 ### Non-Narrative Virtual Production Examples
 
 Often LED volume virtual production is use to attempt to recreate "reality" but there are many other creative uses of virtual production LED volumes to create theings that are not possible in reality and may not even be visually representational.
+
+- [Touch Designer with RenderStream](https://derivative.ca/UserGuide/RenderStream)
 
 <div class="video-grid">
 
