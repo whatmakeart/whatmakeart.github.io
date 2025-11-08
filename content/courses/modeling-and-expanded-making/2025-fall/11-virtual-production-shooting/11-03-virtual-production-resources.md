@@ -1,22 +1,8 @@
 ---
 title: 11.03 Virtual Production Resources
 date: 2025-11-07T09:30:00
-lastmod: 2025-11-08T11:28:04
+lastmod: 2025-11-08T12:09:54
 ---
-
-## Virtual Production Equipment
-
-### Gio @4 Lighting Console
-
-- [EOS Gio @5 Documentation](https://www.etcconnect.com/Products/Consoles/Eos-Consoles/Gio-@5/Features.aspx)
-- [ETC EOS Gio @5 Console Knowledge Base](https://support.etcconnect.com/ETC/Consoles/Eos_Family/Gio_at5)
-- [ETC Lighting Boards Documentation App](https://www.etcconnect.com/Library/)
-- [EOS Online Learning](https://www.etcconnect.com/eoslearning/)
-
-### mimik Lights
-
-- [mimik 120](https://kinoflo.com/mimik-120/)
-- [mimik 120 Manual](https://kinoflo.com/wp-content/uploads/2023/02/3100134-MIMIK-Rev-A-Operation-Manual-02-01-2024.pdf)
 
 ## Virtual Production Videos
 
@@ -208,3 +194,17 @@ When you see the behind the scenes shots of the stage adn set in the videos, oft
 </div>
 
 </div>
+
+## Virtual Production Equipment
+
+### Gio @4 Lighting Console
+
+- [EOS Gio @5 Documentation](https://www.etcconnect.com/Products/Consoles/Eos-Consoles/Gio-@5/Features.aspx)
+- [ETC EOS Gio @5 Console Knowledge Base](https://support.etcconnect.com/ETC/Consoles/Eos_Family/Gio_at5)
+- [ETC Lighting Boards Documentation App](https://www.etcconnect.com/Library/)
+- [EOS Online Learning](https://www.etcconnect.com/eoslearning/)
+
+### mimik Lights
+
+- [mimik 120](https://kinoflo.com/mimik-120/)
+- [mimik 120 Manual](https://kinoflo.com/wp-content/uploads/2023/02/3100134-MIMIK-Rev-A-Operation-Manual-02-01-2024.pdf)
