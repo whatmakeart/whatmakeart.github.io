@@ -1,15 +1,24 @@
 ---
 title: 11.03 Virtual Production Resources
 date: 2025-11-07T09:30:00
-lastmod: 2025-11-08T10:42:04
+lastmod: 2025-11-08T11:04:56
 ---
+
+## Virtual Production Equipment
 
 ### Gio @4 Lighting Console
 
-[EOS Gio @5 Documentation](https://www.etcconnect.com/Products/Consoles/Eos-Consoles/Gio-@5/Features.aspx)
-[ETC EOS Gio @5 Console Knowledge Base](https://support.etcconnect.com/ETC/Consoles/Eos_Family/Gio_at5)
-[ETC Lighting Boards Documentation App](https://www.etcconnect.com/Library/)
-[EOS Online Learning](https://www.etcconnect.com/eoslearning/)
+- [EOS Gio @5 Documentation](https://www.etcconnect.com/Products/Consoles/Eos-Consoles/Gio-@5/Features.aspx)
+- [ETC EOS Gio @5 Console Knowledge Base](https://support.etcconnect.com/ETC/Consoles/Eos_Family/Gio_at5)
+- [ETC Lighting Boards Documentation App](https://www.etcconnect.com/Library/)
+- [EOS Online Learning](https://www.etcconnect.com/eoslearning/)
+
+### mimik Lights
+
+- [mimik 120](https://kinoflo.com/mimik-120/)
+- [mimik 120 Manual](https://kinoflo.com/wp-content/uploads/2023/02/3100134-MIMIK-Rev-A-Operation-Manual-02-01-2024.pdf)
+
+## Virtual Production Videos
 
 ### Aputure Virtual Production Presentations
 
@@ -92,6 +101,15 @@ Often LED volume virtual production is use to attempt to recreate "reality" but 
 </div>
 </div>
 
+<div class="video-card">
+
+#### Isolation Cube Virtual Set | Film & Music Video Production Company in Miami
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Esm3xKVgrtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
 </div>
 
 ### Virtual Production Workflows and Behind the Scenes Examples
@@ -99,6 +117,8 @@ Often LED volume virtual production is use to attempt to recreate "reality" but 
 Selection of examples and walkthroughs of virtual production setups and examples. The [Into The Volume – A Deep Dive into Virtual Production](https://youtu.be/aKRcGoc_osQ) by [Media Division](https://www.youtube.com/@MediaDivision/videos) gives a nice overview of the process and how the addition of physical items can help sell the scene.
 
 The videos showing the use of Unreal Engine on large productions have techniques and equipment that is out of reach of students and small production crews but nevertheless have helpful tips and workflows that can inform your own projects.
+
+#### How to see the Behind the Scenes Shots at your own Pace?
 
 When you see the behind the scenes shots of the stage adn set in the videos, often it is only a short glimpse and your are unable to study the setup. A good way to see what is happening and to study and learn from others is to take screen shots of the videos when the scene changes, then you have a series of images that serve as your own custom textbook.
 
@@ -142,7 +162,7 @@ When you see the behind the scenes shots of the stage adn set in the videos, oft
 
 <div class="video-card">
 
-#### EDe4LY685wk
+#### Virtual Production | The Making of Sci-Fi Short Film "New Air"
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Lvx3mN-1TMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -173,6 +193,15 @@ When you see the behind the scenes shots of the stage adn set in the videos, oft
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/HAk73_RIMME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Virtual Production Top Tips and Tricks
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/mSL3iU5pSbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
