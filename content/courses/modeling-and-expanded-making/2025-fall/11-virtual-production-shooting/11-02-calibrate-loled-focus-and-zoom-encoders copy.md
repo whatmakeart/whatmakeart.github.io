@@ -1,7 +1,7 @@
 ---
 title: 11.02 Calibrate loLED Focus and Zoom Encoders
 date: 2025-11-07T09:30:00
-lastmod: 2025-11-07T06:54:29
+lastmod: 2025-11-08T09:30:32
 ---
 
 <div class="video-grid">
