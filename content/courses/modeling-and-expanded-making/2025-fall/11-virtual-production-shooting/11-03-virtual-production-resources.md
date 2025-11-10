@@ -1,7 +1,7 @@
 ---
 title: 11.03 Virtual Production Resources
 date: 2025-11-07T09:30:00
-lastmod: 2025-11-08T12:09:54
+lastmod: 2025-11-10T04:20:25
 ---
 
 ## Virtual Production Videos
@@ -136,15 +136,6 @@ When you see the behind the scenes shots of the stage adn set in the videos, oft
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/cMsuZtyEupA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-#### Virtual Production | The Making of Sci-Fi Short Film "New Air"
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Lvx3mN-1TMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

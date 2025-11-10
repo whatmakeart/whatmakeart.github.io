@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2025-08-29T09:30:00
-lastmod: 2025-10-13T05:24:14
+lastmod: 2025-11-10T04:40:38
 ---
 
 ### Course Information
@@ -69,7 +69,7 @@ Upon completion of the course, students will have to opportunity to:
 | 6        | October 3        | [Laser Cutting and 3D Printing](../06-laser-cutting-and-3d-printing/06-00-introduction.md)                                   |
 | 7        | October 10       | [Laser Cutting and 3D Printing Modeling](../07-laser-cutting-and-3d-printing-modeling/07-00-introduction.md)                 |
 | 8        | October 17       | [Laser Cutting and 3D Printing Design Iteration](../08-laser-cutting-and-3d-printing-design-iteration/08-01-introduction.md) |
-| 9        | October 24       | [Laser Cutting and 3D Printing Fabrication](../09-laser-cutting-and-3d-printing-fabrication/09-01-introduction.md)           |
+| 9        | October 24       | [Laser Cutting and 3D Printing Fabrication](../09-laser-cutting-and-3d-printing-fabrication/09-00-introduction.md)           |
 | 10       | October 31       | [Virtual Production Introduction](../10-virtual-production-introduction/10-00-introduction.md)                               |
 | 11       | November 7       | Virtual Production Lighting                                                                                                  |
 | 12       | November 14      | Virtual Production Shooting                                                                                                  |
