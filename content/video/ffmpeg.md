@@ -1,7 +1,7 @@
 ---
 title: ffmpeg
 date: 2024-02-26T08:51:07
-lastmod: 2025-01-22T06:26:02
+lastmod: 2025-11-09T16:41:24
 ---
 
 [FFMPEG](https://www.ffmpeg.org/) is a "A complete, cross-platform solution to record, convert and stream audio and video." [^ffmpeg]
@@ -50,6 +50,10 @@ While ffmpeg only provides the source code, there are installers for Windows, Ma
 ### Convert mp4 to avi
 
 `ffmpeg -i input.mp4 output.avi`
+
+### Convert video to HAP
+
+`ffmpeg -i input.mov -c:v hap output.mov`
 
 ## References
 
