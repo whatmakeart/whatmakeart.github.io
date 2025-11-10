@@ -1,7 +1,7 @@
 ---
 title: 10.05 XR Studio Test Shot Color Grading Assignment
 date: 2025-10-31T09:30:00
-lastmod: 2025-11-01T16:10:27
+lastmod: 2025-11-10T05:41:28
 ---
 
 ## Assignment Deliverables
@@ -21,3 +21,15 @@ You do not need to export the entire clip but export a minimum of a couple secon
 
 - [Adobe Color Workflows](https://helpx.adobe.com/ca/premiere-pro/using/color-workflows.html)
 - [Adobe Basic Color Correcting Options](https://helpx.adobe.com/premiere/desktop/correct-color/color-correction-fundamentals/basic-color-correction-options.html)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                         | Weight    |
+| ---------------------------------- | --------- |
+| High Exposure Color Grade Uploaded | 40 points |
+| Low Exposure Color Grade Uploaded  | 40 points |
+| File Management and Labeling       | 20 points |
+
+</div>

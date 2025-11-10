@@ -1,7 +1,7 @@
 ---
 title: 10.06 Make Unreal Project for Virtual Production Assignment
 date: 2025-10-31T09:30:00
-lastmod: 2025-11-01T14:07:14
+lastmod: 2025-11-10T05:55:15
 ---
 
 ## Assignment Deliverables
@@ -34,3 +34,15 @@ It is recommended that you add objects and elements to your scene based on your 
     - `0_InnerFrustum_Cam`
     - `1_OuterFrustum_Cam`
     - `2_AR_Cam`
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Unreal Project Made          | 60 points |
+| Screenshot Uploaded          | 20 points |
+| File Management and Labeling | 20 points |
+
+</div>
