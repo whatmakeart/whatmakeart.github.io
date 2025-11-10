@@ -1,7 +1,7 @@
 ---
 title: 09.01 Laser Cut and 3D Print Fabrication Assignment
 date: 2025-10-24T09:30:00
-lastmod: 2025-11-10T05:06:07
+lastmod: 2025-11-10T05:31:13
 ---
 
 ## Assignment Deliverables
@@ -14,13 +14,13 @@ lastmod: 2025-11-10T05:06:07
 
 <div class="responsive-table-markdown">
 
-| Assessment                                 | Weight    |
-| ------------------------------------------ | --------- |
-| 3D Print Fabricated                        | 40 points |
-| Laser Cut Part Fabricated                  | 40 points |
-| Integration of 3D Print and Laser Cut Part | 40 points |
-| Integration with Real World                | 40 points |
-| Overall Design                             | 40 points |
-| Fit and Finish                             | 40 points |
+| Assessment                         | Weight    |
+| ---------------------------------- | --------- |
+| 3D Print Fabricated                | 40 points |
+| Laser Cut Part Fabricated          | 40 points |
+| 3D Print and Laser Cut Integration | 30 points |
+| Fit with Real World                | 30 points |
+| Overall Design                     | 30 points |
+| Fit and Finish                     | 30 points |
 
 </div>
