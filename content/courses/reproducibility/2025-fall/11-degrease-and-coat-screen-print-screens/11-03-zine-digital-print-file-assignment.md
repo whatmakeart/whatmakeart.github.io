@@ -1,7 +1,7 @@
 ---
 title: 11.03 Zine Digital Print File Assignment
 date: 2025-11-05T12:00:00
-lastmod: 2025-11-05T15:31:35
+lastmod: 2025-11-11T04:10:08
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2025-11-05T15:31:35
 
 ## Requirements
 
-The file must show a sequential narrative for on side of your zine. Refer to the [Zine Project](../14-studio-work/14-01-zine-assignment.md) for project description and requirements.
+The file must show a sequential narrative for on side of your zine. Refer to the [Zine Project](../14-studio-work-and-reading-discussion/14-01-zine-assignment.md) for project description and requirements.
 
 ## Instructions
 

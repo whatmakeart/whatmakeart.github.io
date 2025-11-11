@@ -1,7 +1,7 @@
 ---
 title: 13.03 Upload work to CIA Website Assignment
 date: 2025-04-23T09:00:00
-lastmod: 2025-04-23T14:14:55
+lastmod: 2025-11-11T04:06:08
 ---
 
 ## Assignment Deliverables
@@ -22,7 +22,6 @@ To be listed on the site, CIA needs the following information for the work or pr
 - Graduation Year
 - Work or Project Title
 - Student Quote, Project description, or Testimonial _(Optional but highly recommended)_.
-- Questions? Please reach out directly to me or Rich Sarian and we will be happy to assist.
 
 ## Grading Rubric
 
