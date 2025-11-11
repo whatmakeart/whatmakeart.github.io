@@ -1,7 +1,7 @@
 ---
 title: 12.02 Digital Catalog Week 12 Assignment
 date: 2025-11-12T12:00:00
-lastmod: 2025-11-11T04:06:43
+lastmod: 2025-11-11T04:28:19
 ---
 
 ## Assignment Deliverables

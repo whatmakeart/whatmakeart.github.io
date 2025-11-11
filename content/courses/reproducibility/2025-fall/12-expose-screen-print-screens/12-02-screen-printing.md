@@ -1,7 +1,7 @@
 ---
-title: 11.02 Screen Printing
-date: 2025-11-05T12:00:00
-lastmod: 2025-11-05T10:16:45
+title: 12.02 Screen Printing
+date: 2025-11-12T12:00:00
+lastmod: 2025-11-11T04:45:40
 toc: true
 ---
 

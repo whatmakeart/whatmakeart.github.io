@@ -1,7 +1,7 @@
 ---
-title: 13.02 Digital Catalog Week 13 Assignment
+title: 13.04 Digital Catalog Week 13 Assignment
 date: 2025-11-19T12:00:00
-lastmod: 2025-08-20T15:21:27
+lastmod: 2025-11-11T04:46:45
 ---
 
 ## Assignment Deliverables

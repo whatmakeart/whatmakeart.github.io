@@ -1,7 +1,7 @@
 ---
-title: 11.05 Zine Assignment
+title: 14.01 Zine Assignment
 date: 2025-12-03T12:00:00
-lastmod: 2025-11-05T10:16:28
+lastmod: 2025-11-11T04:43:42
 ---
 
 ## Assignment Deliverables
