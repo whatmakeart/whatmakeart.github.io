@@ -1,7 +1,7 @@
 ---
 title: 10.06 Make Unreal Project for Virtual Production Assignment
 date: 2025-10-31T09:30:00
-lastmod: 2025-11-10T05:55:15
+lastmod: 2025-11-12T04:44:36
 ---
 
 ## Assignment Deliverables
@@ -30,7 +30,7 @@ It is recommended that you add objects and elements to your scene based on your 
 - Add the _RenderStream Channel Definition_ to the Cine Camera Actors
 - Label the Cine Camera Actors
 - Take a screenshot of the level showing the correctly added RenderStream Channel Definition and Cine Camera actors
-  - Note: The above guides use `RS_Main_Cam`, `RS_OOF_Cam`, `RS_AR_Cam` for names of the Cine Camera Actors. You can use these names or you can use the the names from the XR Studio disguise template.
+  - Note: The above guides use `RS_Main_Cam`, `RS_OOF_Cam`, `RS_AR_Cam` for names of the Cine Camera Actors. You can use these names or you can use the the names from your disguise template which may be different. For example, the Cleveland Institute of Art Integrated Media Lab XR Studio disguise template uses the following names for cameras..
     - `0_InnerFrustum_Cam`
     - `1_OuterFrustum_Cam`
     - `2_AR_Cam`

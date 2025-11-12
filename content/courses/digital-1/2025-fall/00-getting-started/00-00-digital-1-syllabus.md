@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital 1 Syllabus
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-11-11T19:10:36
+lastmod: 2025-11-12T04:15:47
 ---
 
 ### Course Information
@@ -74,7 +74,7 @@ Upon completion of the course, students will have to opportunity to:
 | 5        | September 25     | [05 Digital Painting Studio Work](../05-digital-painting-studio-work/05-00-introduction.md)                                               |
 | 6        | October 2        | [06 Digital Painting Critique and Photography Exercises](../06-digital-painting-critique-and-photography-exercises/06-00-introduction.md) |
 | 7        | October 9        | [07 Vector Images and Raw Images](../07-vector-images-and-raw-images/07-00-introduction.md)                                               |
-| 8        | October 16       | [08 Vector Iterationo](../08-vector-iteration/08-00-introduction.md)                                                                      |
+| 8        | October 16       | [08 Vector Iterations](../08-vector-iteration/08-00-introduction.md)                                                                      |
 | 9        | October 23       | [09 The Web](../09-the-web/09-00-introduction.md)                                                                                         |
 | 10       | October 30       | [10 Natural Language Programming](../10-natural-language-programming/10-00-introduction.md)                                               |
 | 11       | November 6       | [11 Artist Website Portfolio](../11-artist-website-portfolio/11-00-introduction.md)                                                       |

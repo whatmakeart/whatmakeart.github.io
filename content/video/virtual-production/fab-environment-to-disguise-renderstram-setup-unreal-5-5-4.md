@@ -1,7 +1,7 @@
 ---
 title: Fab Environment to disguise RenderStream Setup Unreal 5.5.4
 date: 2025-10-10T06:10:29
-lastmod: 2025-10-11T07:29:25
+lastmod: 2025-11-12T04:42:51
 ---
 
 <div class="video-grid">
@@ -90,3 +90,4 @@ Add an AR cube so you can confirm your layers are correct inside disguise.
    - `RS_OOF_Cam` fills the outer frustum for lighting/reflections beyond the physical camera’s view.
    - `RS_AR_Cam`outputs a clean AR layer with the world hidden by default and AR_Cube forced visible.
 6. You can now transfer the project to your render nodes and connect it in disguise.
+7. The disguise template your are using may have different cine camera actors.
