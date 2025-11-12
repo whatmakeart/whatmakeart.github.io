@@ -1,14 +1,14 @@
 ---
 title: 14.01 Zine Assignment
 date: 2025-12-03T12:00:00
-lastmod: 2025-11-11T04:43:42
+lastmod: 2025-11-12T16:17:20
 ---
 
 ## Assignment Deliverables
 
-1. An edition of a two-sided zine using digital output on one side and screen printing on the second side
-2. 2 Documentation Photos (`.png`, `.jpg`)
-   - Label files YYYYMMDD Lastname Firstname Zine Documentation
+1. An edition of 25 of a two-sided zine using digital output on one side and screen printing on the second side
+2. 2 Documentation Photos
+   - Label files YYYY-MM-DD Lastname Firstname Zine Documentation (`.png`, `.jpg`)
 
 ## Assignment Requirements
 
