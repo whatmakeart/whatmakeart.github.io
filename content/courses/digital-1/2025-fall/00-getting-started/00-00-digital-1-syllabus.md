@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital 1 Syllabus
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-10-23T08:46:04
+lastmod: 2025-11-11T19:10:36
 ---
 
 ### Course Information
@@ -76,12 +76,12 @@ Upon completion of the course, students will have to opportunity to:
 | 7        | October 9        | [07 Vector Images and Raw Images](../07-vector-images-and-raw-images/07-00-introduction.md)                                               |
 | 8        | October 16       | [08 Vector Iterationo](../08-vector-iteration/08-00-introduction.md)                                                                      |
 | 9        | October 23       | [09 The Web](../09-the-web/09-00-introduction.md)                                                                                         |
-| 10       | October 30       | 10 Review CSS and Flexbox                                                                                                                 |
-| 11       | November 6       | 11 Critique Logo and Illustrator Composition / Introduction Digital Mashup                                                                |
-| 12       | November 13      | 12 Digital Portfolio InDesign                                                                                                             |
-| 13       | November 20      | 13 Critique Digital Mashup / Introduction Online Portfolo                                                                                 |
+| 10       | October 30       | [10 Natural Language Programming](../10-natural-language-programming/10-00-introduction.md)                                               |
+| 11       | November 6       | [11 Artist Website Portfolio](../11-artist-website-portfolio/11-00-introduction.md)                                                       |
+| 12       | November 13      | 12                                                                                                                                        |
+| 13       | November 20      | 13                                                                                                                                        |
 | 14       | November 27      | Thanksgiving Break. No Class.                                                                                                             |
-| 15       | December 4       | 14 Lab Time                                                                                                                               |
+| 15       | December 4       | 14                                                                                                                                        |
 | 16       | December 11      | Final Crits                                                                                                                               |
 | 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                                                  |
 
