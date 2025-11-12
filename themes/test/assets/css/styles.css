@@ -207,7 +207,7 @@ body.dark {
   margin: 0 auto;
   margin-bottom: 1rem;
   overflow-x: auto;
-  background: var(--bs-table-bg);
+  background: var(--bs-secondary-bg);
 }
 .responsive-table-markdown > table {
   width: 100%;
