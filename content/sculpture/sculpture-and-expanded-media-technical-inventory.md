@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2025-11-12T10:36:44
+lastmod: 2025-11-12T11:46:44
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -69,7 +69,7 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | Pocket Hole Jig                                                                                    |       |             |             |             |             |
 | [Raspberry Pi](../raspberry-pi/raspberry-pi.md)                                                    |       |             |             |             |             |
 | [Knitting Needle ](../fibers/knitting-needles.md)                                                  |       |             |             |             |             |
-| Multimeter                                                                                         |       |             |             |             |             |
+| [Multimeter](../electronics/how-to-use-a-multimeter.md)                                            |       |             |             |             |             |
 | Pneumatic Nailers                                                                                  |       |             |             |             |             |
 | Metal Snips                                                                                        |       |             |             |             |             |
 | Metal File                                                                                         |       |             |             |             |             |
@@ -116,7 +116,7 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | [Airbrush](../tools/airbrushing-basics.md)                                                         |       |             |             |             |             |
 | [Spray Gun](../tools/spray-gun.md)                                                                 |       |             |             |             |             |
 | Beaverly Shear                                                                                     |       |             |             |             |             |
-| captive nut insert rivet                                                                           |       |             |             |             |             |
+| Captive Nut Insert Rivet                                                                           |       |             |             |             |             |
 | Half Face Respirator                                                                               |       |             |             |             |             |
 | N95 Mask                                                                                           |       |             |             |             |             |
 | Nitrile Gloves                                                                                     |       |             |             |             |             |
@@ -256,15 +256,17 @@ Review the list of [sculpture materials](../making/materials-for-making.md) belo
 
 <div class="responsive-table-markdown">
 
-| Concept                                        | What? | Heard of It | Used Before | Comfortable | Well Versed |
-| ---------------------------------------------- | ----- | ----------- | ----------- | ----------- | ----------- |
-| In the Round                                   |       |             |             |             |             |
-| Appropriation                                  |       |             |             |             |             |
-| Media Literacy                                 |       |             |             |             |             |
-| Materiality                                    |       |             |             |             |             |
-| Reproducibility                                |       |             |             |             |             |
-| [Found Objects](../sculpture/found-objects.md) |       |             |             |             |             |
-| [Quality](../articles/quality.md)              |       |             |             |             |             |
+| Concept                                                  | What? | Heard of It | Used Before | Comfortable | Well Versed |
+| -------------------------------------------------------- | ----- | ----------- | ----------- | ----------- | ----------- |
+| In the Round                                             |       |             |             |             |             |
+| [Appropriation](../art-faq/appropriation.md)             |       |             |             |             |             |
+| Media Literacy                                           |       |             |             |             |             |
+| Materiality                                              |       |             |             |             |             |
+| [Reproducibility](../articles/reproducibility-in-art.md) |       |             |             |             |             |
+| [Found Objects](../sculpture/found-objects.md)           |       |             |             |             |             |
+| [Quality](../articles/quality.md)                        |       |             |             |             |             |
+| [Copyright](../copyright/copyright-for-artists.md)       |       |             |             |             |             |
+| [Fair Use](../copyright/fair-use.md)                     |       |             |             |             |             |
 
 </div>
 
