@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2025-08-17T22:48:37
+lastmod: 2025-11-12T10:36:44
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -281,14 +281,12 @@ document.addEventListener("DOMContentLoaded", function() {
 
         .responsive-table-markdown table th, 
         .responsive-table-markdown table td {
-            border: 1px solid #ccc;
             padding: 8px;
         }
 
         .responsive-table-markdown table thead th {
             position: sticky;
             top: 0;
-            background: #f9f9f9;
             z-index: 2;
             text-align: center;
         }
