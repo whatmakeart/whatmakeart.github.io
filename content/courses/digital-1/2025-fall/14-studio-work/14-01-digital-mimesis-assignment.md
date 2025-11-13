@@ -1,7 +1,7 @@
 ---
 title: 14.01 Digital Mimesis Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-11-13T08:43:43
+lastmod: 2025-11-13T09:00:02
 ---
 
 ## Assignment Deliverables
@@ -15,18 +15,7 @@ Select a well-known cultural artifact, such as a movie poster, book cover, album
 
 Your goal is to get as close as possible to the “look” of the original through techniques such as composition matching, color grading, typography style, lighting and shadows, layout and proportion, texture and surface quality, and atmosphere and mood.
 
-The assignment is not parody, it is a style study, challenging you to create rigorous reconstruction using totally original materials. Although not inherently a parody, satire and parody can help elevate the project and make it a greater creative work. While you are referencing an image for composition, style, color, and structure, you may not use any copyrighted assets from the original.
-All imagery, typography, illustrations, and graphics must be created by you.
-
-## **Learning Goals**
-
-By completing this assignment, you will:
-
-- Demonstrate technical proficiency across **photography, Photoshop, Illustrator, and at least one additional digital tool** of your choice (e.g., Blender, Procreate, Premiere, After Effects, Pixelmator, Fresco, Krita).
-- Analyze and reverse-engineer visual systems used in commercial media.
-- Generate original photographic, vector, and painted elements that stylistically echo—but do not copy—branded or copyrighted materials.
-- Understand and apply principles of composition, lighting, color grading, typography, and visual hierarchy.
-- Practice ethical and legal use of media by creating fully original assets.
+The assignment is not parody, it is a style study, challenging you to create rigorous reconstruction using totally original materials. Although not inherently a parody, satire and parody can help elevate the project and make it a greater creative work. While you are referencing an image for composition, style, color, and structure, you may not use any copyrighted assets from the original. All imagery, typography, illustrations, and graphics must be created by you.
 
 ### Requirements
 
