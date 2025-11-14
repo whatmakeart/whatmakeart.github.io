@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2025-08-29T09:30:00
-lastmod: 2025-11-10T04:40:38
+lastmod: 2025-11-14T05:22:58
 ---
 
 ### Course Information
@@ -71,12 +71,12 @@ Upon completion of the course, students will have to opportunity to:
 | 8        | October 17       | [Laser Cutting and 3D Printing Design Iteration](../08-laser-cutting-and-3d-printing-design-iteration/08-01-introduction.md) |
 | 9        | October 24       | [Laser Cutting and 3D Printing Fabrication](../09-laser-cutting-and-3d-printing-fabrication/09-00-introduction.md)           |
 | 10       | October 31       | [Virtual Production Introduction](../10-virtual-production-introduction/10-00-introduction.md)                               |
-| 11       | November 7       | Virtual Production Lighting                                                                                                  |
-| 12       | November 14      | Virtual Production Shooting                                                                                                  |
-| 13       | November 21      | Virtual Production Final Shooting                                                                                            |
+| 11       | November 7       | [Virtual Production Shooting ](../11-virtual-production-shooting/11-00-introduction.md)                                      |
+| 12       | November 14      | [Virtual Production Lighting and Sound](../12-virtual-production-lighting-and-sound/12-00-introduction.md)                   |
+| 13       | November 21      | [Virtual Production Action](../13-virtual-production-action/13-00-introduction.md)                                           |
 | 14       | November 28      | Thanksgiving Break. No Class.                                                                                                |
-| 15       | December 5       | Studio Work                                                                                                                  |
-| 16       | December 12      | Final Crits                                                                                                                  |
+| 15       | December 5       | [Virtual Production Post Production](../14-virtual-production-post-production/14-00-introduction.md)                         |
+| 16       | December 12      | [Final Critique](../15-final-critique/15-00-introduction.md)                                                                 |
 | 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                                     |
 
 </div>
