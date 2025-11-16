@@ -1,7 +1,7 @@
 ---
 title: Retarget Motion Capture Animation with Rokoko Plugin
 date: 2025-09-30T17:53:52
-lastmod: 2025-11-16T05:52:13
+lastmod: 2025-11-16T05:54:39
 tags:
   - Blender
   - Motion Capture
@@ -15,7 +15,7 @@ tags:
 
 [Retarget Motion Capture Animation with Rokoko Plugin](https://youtu.be/fEwmjBCrJ88)
 
-## Step-by-step: from FBX to animated character
+## Mocap Retargeting Instructions
 
 1. Import your target character armature into [Blender](./blender.md). This is the character that will receive the mocap animation. Having this character armature in a T-pose is ideal. [How to make a quick T-Pose Armature](./t-pose-armature-from-mixamo.md)
 2. Import the captured mocap animation FBX into Blender correctly.

@@ -1,7 +1,7 @@
 ---
 title: How to Document 3D Artwork
 date: 2023-05-30T00:41:39
-lastmod: 2025-09-30T18:32:56
+lastmod: 2025-11-16T06:04:28
 ---
 
 <figure>
@@ -76,6 +76,14 @@ Below is a camera setting cheat sheet that shows how ISO, Aperture and Shutter S
 ## Camera and Photo Editing Tutorial Videos
 
 <div class="video-grid">
+
+<div class="video-card">
+
+### Single Light 3D Object Shooting
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/Cq_Cx_5Zhks?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="video-card">
 
