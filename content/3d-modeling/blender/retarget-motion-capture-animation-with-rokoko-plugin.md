@@ -1,7 +1,7 @@
 ---
 title: Retarget Motion Capture Animation with Rokoko Plugin
 date: 2025-09-30T17:53:52
-lastmod: 2025-11-16T05:54:39
+lastmod: 2025-11-16T06:23:06
 tags:
   - Blender
   - Motion Capture
@@ -46,11 +46,12 @@ tags:
 3. Some limbs don’t move or move incorrectly.
    - Open the bone list and check those specific mappings. A single wrong shoulder/elbow/knee assignment can break a bone chain.
 
+<details>
 <summary>
 
 ### Video Transcript
 
-<details>
+</summary>
 
 How do you quickly retarget motion capture animations to an armature in Blender? Here I have a space suit armature that's in T pose, but it doesn't have any animation on it. I want to use an animation armature that I captured with motion capture, with the mode of an object track system, and then have it go on to this character in Blender. How do I do that?
 
@@ -65,4 +66,3 @@ Notice that everything jumped away from the origin. That's because Motive tracks
 Hopefully this allows you to retarget your motion capture animation from Motive and RPG track systems into your armatures and characters inside Blender. Happy 3D modeling and motion capture.
 
 </details>
-</summary>
