@@ -1,15 +1,15 @@
 ---
-title: 14.04 Laser Cut and 3D Print Project Photo Documentation Assignment
+title: 14.06 Laser Cut and 3D Print Project Photo Documentation Assignment
 date: 2025-12-05T09:30:00
-lastmod: 2025-11-16T05:41:32
+lastmod: 2025-11-16T06:16:47
 ---
 
 ## Assignment Deliverables
 
-1. Minimum of 2 post processed photographs of laser cut and 3D priny project. (png,jpg)
-   - Label files YYYYMMDD Lastname Firstname Laser Cut 3D Print Photo
+1. Minimum of 2 post processed photographs of laser cut and 3D print project
+   - Label files YYYY-MM-DD Lastname Firstname Laser Cut 3D Print Photo (`.png`,`.jpg`)
 2. Original RAW photo files (dng, cr2, arw, etc)
-   - Label files YYYYMMDD Lastname Firstname Laser Cut 3D Print Raw Photo
+   - Label files YYYY-MM-DD Lastname Firstname Laser Cut 3D Print Raw Photo
 
 ## Assignment Overview
 
