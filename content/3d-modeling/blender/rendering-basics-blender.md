@@ -1,12 +1,12 @@
 ---
 title: Rendering Basics - Blender
 date: 2023-06-14T13:53:02
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-11-17T05:53:21
 ---
 
 ## Eevee and Cycles
 
-[Blender](blender.md) comes with two render engines installed, the real-time renderer Eevee and the light transport renderer Cycles. Eevee will render much faster than Cycles with the down side of not having true light bounces. Cycles can produce stunning renders but the processing can take much longer than Eevee. For many simple projects, Eevee is the preferred way for speed unless your project needs some of the advanced rendering capabilities of Cycles.
+[Blender](./blender.md) comes with two render engines installed, the real-time renderer Eevee and the light transport renderer Cycles. Eevee will render much faster than Cycles with the down side of not having true light bounces. Cycles can produce stunning renders but the processing can take much longer than Eevee. For many simple projects, Eevee is the preferred way for speed unless your project needs some of the advanced rendering capabilities of Cycles.
 
 ## Add Lights in Blender
 

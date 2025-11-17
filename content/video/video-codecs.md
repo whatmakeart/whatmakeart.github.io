@@ -1,7 +1,7 @@
 ---
 title: Video Codecs
 date: 2025-11-12T09:01:11
-lastmod: 2025-11-13T05:55:33
+lastmod: 2025-11-17T09:46:04
 ---
 
 ### Lossless Codecs

@@ -1,10 +1,12 @@
 ---
 title: Virtual Production Tutorials
 date: 2025-09-30T16:46:02
-lastmod: 2025-10-11T07:22:31
+lastmod: 2025-11-17T09:47:06
 ---
 
 The tutorials below are for getting started with [virtual production](./virtual-production.md).
+
+## Unreal Engine For Virtual Production with disguise
 
 - [How To Install an Older Unreal Engine Version in the Epic Games Launcher](../../3d-modeling/unreal-engine/install-previous-version-of-unreal-engine.md)
 - [How to Create a New Project in Unreal Engine 5.5.4](../../3d-modeling/unreal-engine/create-new-project-in-unreal-engine.md)
@@ -14,7 +16,17 @@ The tutorials below are for getting started with [virtual production](./virtual-
 - [Install RenderStream for Unreal Engine 5.5: Complete Setup Guide for disguise](./install-disguise-renderstream-plugin.md)
 - [Blank Environment to disguise RenderStream Setup Unreal 5.5.4](./blank-environment-to-disguise-renderstream-setup-unreal-5-5-4.md)
 - [Fab Environment to disguise RenderStream Setup Unreal 5.5.4](./fab-environment-to-disguise-renderstram-setup-unreal-5-5-4.md)
+
+## Hardware Camera Guides
+
+- [Calibrate Zoom and Focus Encoders for Virtual Production](https://youtu.be/ZXbMbc55ZOA)
+- [Change Battery on Red Komodo X](https://youtu.be/ZrvHKjlMgK8)
 - [Unmount Drive in AJA Ki Pro Ultra Video Recorder](./unmount-drive-in-aja-ki-pro-ultra-video-recorder.md)
+- [ETC Gio @ 5 Lighting Board](./etc-gio-at-5-lighting-console.md)
+
+## Software Gudies
+
+- [Convert video to HAP codec with ffmpeg](../convert-video-to-hap-codec-ffmpeg.md)
 
 <div class="video-grid">
 
@@ -79,7 +91,24 @@ The tutorials below are for getting started with [virtual production](./virtual-
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/gJLWQFV2bWA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+</div>
 
+<div class="video-card">
+
+### Calibrate Zoom and Focus Encoders for Virtual Production
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ZXbMbc55ZOA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Change Battery on Red Komodo X
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ZrvHKjlMgK8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 </div>
 
 </div>
