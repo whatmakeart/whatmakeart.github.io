@@ -1,7 +1,7 @@
 ---
 title: Virtual Production Tutorials
 date: 2025-09-30T16:46:02
-lastmod: 2025-11-17T09:47:06
+lastmod: 2025-11-17T09:52:26
 ---
 
 The tutorials below are for getting started with [virtual production](./virtual-production.md).
@@ -84,7 +84,7 @@ The tutorials below are for getting started with [virtual production](./virtual-
 </div>
 </div>
 
-<div class="video-grid">
+<div class="video-card">
 
 ### Fab Environment to disguise RenderStream Setup Unreal 5.5.4
 
