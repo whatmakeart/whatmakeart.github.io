@@ -1,7 +1,7 @@
 ---
 title: Degrease Screen Print Screens
 date: 2025-11-05T09:48:30
-lastmod: 2025-11-05T10:41:59
+lastmod: 2025-11-19T14:24:33
 ---
 
 1. Degrease the screen. Any grease or residue on the screen can inhibit the adhesion of the photo emulsion. It is good practice to clean and degrease the screen before applying emulsion, especially in a shared shop with a borrowed screen of unknown grease content.
@@ -9,7 +9,7 @@ lastmod: 2025-11-05T10:41:59
 3. The degreaser, cleaner, and emulstion bottles are color coded.
    - Degreaser - Yellow 🟨
    - Ink Cleaner - Blue 🟦
-   - Emulsion Cleaner - Red 🟥
+   - Screen Stipper - Red 🟥
 4. Turn the water on but be sure to remember to turn it off since the preasure can build up and damage the hose and flexible fittings. It can also potentially leak and flood the print studio. Turn off the water when done.
 5. All of the cleaners are ok for skin contact but you may wear gloves.
 6. Put the screen in the sink leaned against the wall,
