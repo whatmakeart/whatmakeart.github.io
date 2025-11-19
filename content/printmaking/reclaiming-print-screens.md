@@ -1,21 +1,22 @@
 ---
 title: Reclaiming Print Screens
 date: 2025-04-23T09:00:00
-lastmod: 2025-11-19T15:02:32
+lastmod: 2025-11-19T15:13:12
 ---
 
 Relaiming print screens is an import part of the screen print process. Screen Stripper helps the power washer strip off the hardened photo emulsion from the screen. It is important to wear proper PPE as well as follow the instructions so you don't injure yourself or damage the equipment.
 
 1. Place your screen in the wash sink leaning against the wall. The flat side should be facing outward.
 2. Prepare the power washer.
-   1. Turn on the water spigot with the green hose attached. This hose is connected to the power washer. Do this before turning on the power washer.
-   2. Put on ear and eye protection.
+   1. Put on ear and eye protection.
+   2. Turn on the water spigot with the green hose attached. This hose is connected to the power washer. Do this before turning on the power washer. This helps protect the power washer by having the water in the motor before it is run.
    3. While the power washer is still off, point the wand toward the wall, pull the trigger and hold until a steady stream of water exits the nozzle. This removes any air from the power washer line.
    4. Ensure the power washer is plugged in.
    5. Turn on the power washer. Note: ⏽=ON and ⭘=OFF
    6. Test that the power washer is operational. Spray against the wall to test the preassure
 3. Spray Screen Stipper onto the screen. This is marked in the Red 🟥 spray bottles.
 4. The Screen Stipper should sit on the emulsion on the screen for a couple minutes.
+   - Once the stripper is sprayed on the screen, you must complete the process and wash the emulsion off. If the stripper drys on the screen it will bond the emulsion to the screen and it will not be removable and the screen will be ruined.
 5. Once it has had time to work, then use one of the cloth rags to scrub the stripper into the emulsion on the print screen.
 6. Use the power washer to spray all of the emulsion out of the screen. If you work horizontally back and forth, starting from the bottom, this allows the Screen Stipper above to have lmore time to work.
 7. Avoid holding the power washer nozzle close the the screen. Too close will damage the screen material.
