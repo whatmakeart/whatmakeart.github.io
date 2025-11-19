@@ -1,7 +1,7 @@
 ---
 title: Emissive Unreal Engine
 date: 2025-11-18T20:36:08
-lastmod: 2025-11-18T20:37:11
+lastmod: 2025-11-18T20:37:19
 ---
 
 <div class="video-grid">
@@ -13,5 +13,3 @@ lastmod: 2025-11-18T20:37:11
 </div>
 
 [Emissive Unreal Engine](https://youtu.be/nguqZr6lTMQ)
-
-[t
