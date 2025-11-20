@@ -1,7 +1,7 @@
 ---
 title: 08.02 Vector Dual Seeds Iteration Assignment
 date: 2025-10-16T09:00:00
-lastmod: 2025-10-16T12:47:14
+lastmod: 2025-11-20T06:22:01
 ---
 
 ## Assignment Deliverables
@@ -13,7 +13,7 @@ lastmod: 2025-10-16T12:47:14
 
 ## Assignment Overview
 
-Practice rapid visual iteration from two distinct starting designs. with at least one must using text. Create two completely different base designs refered to as A and B.
+Practice rapid visual iteration from two distinct starting designs. with at least one must using text. Create two completely different base designs referred to as A and B.
 
 - Design A must incorporate text. It could be only type or a combination of text and shapes.
 - Design B may not use any text. It can only use shapes that can be representative or abstract or a combination.
@@ -42,13 +42,13 @@ Practice rapid visual iteration from two distinct starting designs. with at leas
 1. Build Design A with text in the top left.
 2. Create Design B that is completely distinct from A that does not include text in the top right.
 3. For each base design Alt/Option-drag to duplicate it. Use the auto align and snapping tools to create a grid as you iterate.
-4. In each iteration change a minimum of 2 variables or thiings in the design.
-5. Assess the changes, then duplicate it again. If a certain iteration branch heits a dead end go back and duplicate more successful iteration version.
+4. In each iteration change a minimum of 2 variables or things in the design.
+5. Assess the changes, then duplicate it again. If a certain iteration branch hits a dead end go back and duplicate more successful iteration version.
 6. Select the best candidates, duplicate again.
 7. Repeat until you have at least 10+ iterations per base design.
 8. Arrange in two grids.
 9. Select your top 3 from each set and copy to a new artboard.
-10. Arrange the slected designs in a pleasing grid composition.
+10. Arrange the selected designs in a pleasing grid composition.
 
 ### Personal Assessment ~250–350 words
 
@@ -61,13 +61,13 @@ Practice rapid visual iteration from two distinct starting designs. with at leas
 
 <div class="responsive-table-markdown">
 
-| Assessment                           | Weight    |
-| ------------------------------------ | --------- |
-| Vector Image Scaled and Duplicated   | 30 points |
-| Variation and Risk Taking Across A   | 30 points |
-| Variation and Risk Taking Across B   | 30 points |
-| Craft, Clarity and Alignment         | 30 points |
-| Thoughtful and Cmparative Assessment | 30 points |
-| File Management and Labeling         | 10 points |
+| Assessment                            | Weight    |
+| ------------------------------------- | --------- |
+| Vector Image Scaled and Duplicated    | 30 points |
+| Variation and Risk Taking Across A    | 30 points |
+| Variation and Risk Taking Across B    | 30 points |
+| Craft, Clarity and Alignment          | 30 points |
+| Thoughtful and Comparative Assessment | 30 points |
+| File Management and Labeling          | 10 points |
 
 </div>

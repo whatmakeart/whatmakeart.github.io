@@ -1,7 +1,7 @@
 ---
 title: 11.06 Artist Website Portfolio Assignment
 date: 2025-11-06T09:00:00Z
-lastmod: 2025-11-06T11:59:16
+lastmod: 2025-11-20T06:45:44
 ---
 
 ## Assignment Deliverables
@@ -38,3 +38,15 @@ An online presence can be cruicial for a creative professional's career and for 
 2. Use the promo code provided by your instructor
 3. Use a template and add your content.
 4. Take a screenshot of your website.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Screenshot Uploaded          | 60 points |
+| URL Submitted                | 30 points |
+| File Management and Labeling | 10 points |
+
+</div>

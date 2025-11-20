@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2024-12-15T05:35:45
+lastmod: 2025-11-20T06:45:57
 ---
 
 What is a model? What is a 3D model? What is the difference between an analog and a digital 3D model? How does 2D [technical sketching](../drawing/technical-sketching.md) relate to 3D modeling?
@@ -45,7 +45,6 @@ Do tests and then evaluate and then do again.
 - mesh
 - polygon
 - nurbs
--
 
 ### Physical Output from Digital 3D Models
 
@@ -69,7 +68,7 @@ In 2022 Google demonstrated DreamFusion that created 3D models from text prompts
  </a>
 <figcaption>
 
-Google's DreamFusion in 2022 [^dreamfusion]
+Google's DreamFusion in 2022 [^dream-fusion]
 
 </figcaption>
 </figure>
@@ -83,7 +82,7 @@ Your browser does not support the video tag.
  </a>
 <figcaption>
 
-OpenAI's Shape-E in 2023 [^shape-e]. [MIT Licence](https://github.com/openai/shap-e/blob/main/LICENSE)
+OpenAI's Shape-E in 2023 [^shape-e]. [MIT License](https://github.com/openai/shap-e/blob/main/LICENSE)
 
 </figcaption>
 </figure>
@@ -94,5 +93,5 @@ OpenAI's Shape-E in 2023 [^shape-e]. [MIT Licence](https://github.com/openai/sha
 
 ## References
 
-[^dreamfusion]: [Google's DreamFusion](https://dreamfusion3d.github.io/)
+[^dream-fusion]: [Google's DreamFusion](https://dreamfusion3d.github.io/)
 [^shape-e]: [OpenAI's Shape-E](https://github.com/openai/shap-e)

@@ -1,7 +1,7 @@
 ---
 title: 10.08 Generative Website Assignment
 date: 2025-10-30T09:00:00Z
-lastmod: 2025-11-05T16:07:19
+lastmod: 2025-11-20T06:45:16
 ---
 
 ## Assignment Deliverables
@@ -77,5 +77,17 @@ Potential forms:
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/TtZg2koyWuY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
+
+</div>
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Screenshot Uploaded          | 60 points |
+| URL Submitted                | 30 points |
+| File Management and Labeling | 10 points |
 
 </div>

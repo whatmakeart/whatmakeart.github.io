@@ -1,7 +1,7 @@
 ---
 title: Virtual Production Tutorials
 date: 2025-09-30T16:46:02
-lastmod: 2025-11-18T20:35:34
+lastmod: 2025-11-20T06:22:25
 ---
 
 The tutorials below are for getting started with [virtual production](./virtual-production.md).
@@ -24,7 +24,7 @@ The tutorials below are for getting started with [virtual production](./virtual-
 - [Unmount Drive in AJA Ki Pro Ultra Video Recorder](./unmount-drive-in-aja-ki-pro-ultra-video-recorder.md)
 - [ETC Gio @ 5 Lighting Board](./etc-gio-at-5-lighting-console.md)
 
-## Software Gudies
+## Software Guides
 
 - [Convert video to HAP codec with ffmpeg](../convert-video-to-hap-codec-ffmpeg.md)
 - [LED Screen Grid Material Unreal Engine](https://youtu.be/PwDuhJWzPP0)
