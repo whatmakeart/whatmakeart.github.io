@@ -21,12 +21,71 @@
             font-family: 'Segoe UI', sans-serif;
             margin: 20px 0;
             box-shadow: inset 0 0 30px rgba(0,0,0,0.7);
+            transition: width 0.2s, height 0.2s;
+        }
+
+        /* Full Screen State */
+        .bp-container.bp-fullscreen {
+            position: fixed !important;
+            top: 0; left: 0;
+            width: 100vw !important;
+            height: 100vh !important;
+            z-index: 9999;
+            margin: 0;
+            border-radius: 0;
+            border: none;
         }
         
         .bp-canvas {
             position: absolute; top: 0; left: 0; width: 100%; height: 100%;
             transform-origin: 0 0;
+            transition: opacity 0.2s;
         }
+
+        /* Text View Mode */
+        .bp-text-view {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background-color: #111;
+            color: #bbb;
+            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+            font-size: 12px;
+            padding: 50px 20px 20px 20px; /* Top padding for controls space */
+            box-sizing: border-box;
+            overflow: auto;
+            white-space: pre;
+            z-index: 20;
+            display: none;
+            opacity: 0;
+            transition: opacity 0.2s;
+        }
+        .bp-text-view.visible { display: block; opacity: 1; }
+
+        /* Controls Overlay */
+        .bp-controls {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            display: flex;
+            gap: 5px;
+            z-index: 100;
+        }
+
+        .bp-btn {
+            background: rgba(30, 30, 30, 0.9);
+            border: 1px solid #555;
+            color: #ccc;
+            padding: 5px 10px;
+            font-size: 11px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-family: inherit;
+            min-width: 70px;
+            text-align: center;
+        }
+        .bp-btn:hover { background: #444; color: #fff; border-color: #777; }
+        .bp-btn:active { background: #222; }
+        .bp-btn.active { background: #0055AA; border-color: #0077CC; color: white; }
 
         /* Node Styling */
         .bp-node {
@@ -116,6 +175,9 @@
       this.isPanning = false;
       this.isDragging = false;
       this.dragNode = null;
+      this.isFullscreen = false;
+      this.isTextView = false;
+      this.rawText = "";
 
       this.init();
     }
@@ -136,9 +198,15 @@
       this.nodeLayer.style.width = "100%";
       this.nodeLayer.style.height = "100%";
 
+      // Text View Element (Hidden by default)
+      this.textView = document.createElement("div");
+      this.textView.className = "bp-text-view";
+
       this.canvas.appendChild(this.svgLayer);
       this.canvas.appendChild(this.nodeLayer);
+
       this.container.appendChild(this.canvas);
+      this.container.appendChild(this.textView);
 
       // Loader
       this.msg = document.createElement("div");
@@ -146,15 +214,120 @@
       this.msg.textContent = "Loading...";
       this.container.appendChild(this.msg);
 
+      this.createControls();
       this.setupInteraction();
       await this.loadData();
+    }
+
+    createControls() {
+      const controls = document.createElement("div");
+      controls.className = "bp-controls";
+
+      // 1. Copy Text Button
+      const btnCopy = document.createElement("button");
+      btnCopy.className = "bp-btn";
+      btnCopy.textContent = "Copy Text";
+      btnCopy.title = "Copy blueprint text to clipboard";
+      btnCopy.onclick = () => this.copyText(btnCopy);
+
+      // 2. Toggle View Button
+      const btnToggle = document.createElement("button");
+      btnToggle.className = "bp-btn";
+      btnToggle.textContent = "Show Text";
+      btnToggle.onclick = () => this.toggleView(btnToggle);
+
+      // 3. Reset View Button
+      const btnReset = document.createElement("button");
+      btnReset.className = "bp-btn";
+      btnReset.textContent = "Reset View";
+      btnReset.onclick = () => this.autoCenter();
+
+      // 4. Full Screen Button
+      const btnFS = document.createElement("button");
+      btnFS.className = "bp-btn";
+      btnFS.textContent = "Full Screen";
+      btnFS.onclick = () => this.toggleFullScreen(btnFS);
+
+      controls.appendChild(btnCopy);
+      controls.appendChild(btnToggle);
+      controls.appendChild(btnReset);
+      controls.appendChild(btnFS);
+      this.container.appendChild(controls);
+    }
+
+    copyText(btn) {
+      if (!this.rawText) return;
+
+      // Create a hidden textarea to handle the copy
+      const ta = document.createElement("textarea");
+      ta.value = this.rawText;
+      ta.style.position = "fixed"; // Avoid scrolling to bottom
+      ta.style.opacity = "0";
+      document.body.appendChild(ta);
+      ta.select();
+
+      try {
+        document.execCommand("copy");
+        const originalText = btn.textContent;
+        btn.textContent = "Copied!";
+        btn.classList.add("active");
+        setTimeout(() => {
+          btn.textContent = originalText;
+          btn.classList.remove("active");
+        }, 1500);
+      } catch (err) {
+        console.error("Failed to copy", err);
+        alert("Failed to copy text.");
+      }
+
+      document.body.removeChild(ta);
+    }
+
+    toggleView(btn) {
+      this.isTextView = !this.isTextView;
+      if (this.isTextView) {
+        this.textView.classList.add("visible");
+        this.canvas.style.opacity = "0";
+        this.canvas.style.pointerEvents = "none"; // Disable interaction with hidden canvas
+        btn.textContent = "Show Graph";
+        btn.classList.add("active");
+      } else {
+        this.textView.classList.remove("visible");
+        this.canvas.style.opacity = "1";
+        this.canvas.style.pointerEvents = "";
+        btn.textContent = "Show Text";
+        btn.classList.remove("active");
+      }
+    }
+
+    toggleFullScreen(btn) {
+      this.isFullscreen = !this.isFullscreen;
+      if (this.isFullscreen) {
+        this.container.classList.add("bp-fullscreen");
+        btn.textContent = "Exit Full Screen";
+        btn.classList.add("active");
+        document.body.style.overflow = "hidden";
+      } else {
+        this.container.classList.remove("bp-fullscreen");
+        btn.textContent = "Full Screen";
+        btn.classList.remove("active");
+        document.body.style.overflow = "";
+      }
+      setTimeout(() => {
+        this.renderWires();
+        // If we are in graph mode, re-center might be nice or keep relative pos
+      }, 250);
     }
 
     async loadData() {
       try {
         const res = await fetch(this.fileUrl);
         if (!res.ok) throw new Error("File not found: " + res.status);
+
         const text = await res.text();
+        this.rawText = text;
+        this.textView.textContent = text; // Set text for the text view
+
         this.parseUEText(text);
         this.render();
         this.autoCenter();
@@ -186,7 +359,7 @@
           curr = {
             id: name,
             type: type,
-            title: name, // Fallback title
+            title: name,
             x: 0,
             y: 0,
             inputs: [],
@@ -361,9 +534,13 @@
         if (n.x < minX) minX = n.x;
         if (n.y < minY) minY = n.y;
       });
-      // Center somewhat
-      this.pan.x = -minX + 50;
-      this.pan.y = -minY + 50;
+
+      // Center in current view
+      const cw = this.container.clientWidth;
+      const ch = this.container.clientHeight;
+
+      this.pan.x = cw / 2 - minX - 100; // -100 approx half node width
+      this.pan.y = ch / 2 - minY - 50;
       this.updateTransform();
     }
 
@@ -374,6 +551,11 @@
     setupInteraction() {
       // Pan Container
       this.container.addEventListener("mousedown", (e) => {
+        // Don't pan if clicking a button or controls or if in text view
+        if (this.isTextView) return;
+        if (e.target.closest(".bp-controls") || e.target.closest(".bp-btn"))
+          return;
+
         if (e.target === this.container || e.target === this.svgLayer) {
           this.isPanning = true;
           this.startPan = {

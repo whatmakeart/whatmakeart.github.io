@@ -1,12 +1,12 @@
 ---
 title: 13.01 Unreal Shot Controller Blueprint
 date: 2025-11-21T09:30:00
-lastmod: 2025-11-21T08:12:29
+lastmod: 2025-11-21T08:14:34
 ---
 
 Level Blueprint with Event Tick for Exposing Shot Index variable to disguise
 
-<script src="../bp-render.js" bp-file="../my-level.txt"></script>
+<script src="../bp-render.js" bp-file="../bp-level.txt"></script>
 
 ```
 Begin Object Class=/Script/BlueprintGraph.K2Node_Event Name="K2Node_Event_1" ExportPath="/Script/BlueprintGraph.K2Node_Event'/Game/Maps/Test_Level.Test_Level:PersistentLevel.Test_Level.EventGraph.K2Node_Event_1'"
