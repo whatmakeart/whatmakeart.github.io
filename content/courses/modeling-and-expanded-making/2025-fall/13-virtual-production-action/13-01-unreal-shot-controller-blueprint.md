@@ -1,7 +1,7 @@
 ---
 title: 13.01 Unreal Shot Controller Blueprint
 date: 2025-11-21T09:30:00
-lastmod: 2025-11-21T08:28:26
+lastmod: 2025-11-21T09:12:39
 ---
 
 ## Level Blueprint
@@ -18,14 +18,14 @@ This script creates the array of camera shots. You can add as many slots as need
 
 <script src="../bp-render.js" bp-file="../construction-script.txt"></script>
 
+### ApplyShotIndex function
+
+<script src="../bp-render.js" bp-file="../applyshotindex-function.txt"></script>
+
+### StoreCurrentShotFunction
+
+<script src="../bp-render.js" bp-file="../storecurrentshot-function.txt"></script>
+
 ### Event Graph
 
-<script src="../bp-render.js" bp-file="../construction-script.txt"></script>
-
-### Construction Script
-
-<script src="../bp-render.js" bp-file="../construction-script.txt"></script>
-
-### Construction Script
-
-<script src="../bp-render.js" bp-file="../construction-script.txt"></script>
+<script src="../bp-render.js" bp-file="../event-graph.txt"></script>
