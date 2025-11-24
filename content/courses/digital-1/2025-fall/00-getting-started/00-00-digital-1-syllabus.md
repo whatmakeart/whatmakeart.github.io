@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital 1 Syllabus
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-11-12T04:15:47
+lastmod: 2025-11-24T13:04:48
 ---
 
 ### Course Information
@@ -78,12 +78,12 @@ Upon completion of the course, students will have to opportunity to:
 | 9        | October 23       | [09 The Web](../09-the-web/09-00-introduction.md)                                                                                         |
 | 10       | October 30       | [10 Natural Language Programming](../10-natural-language-programming/10-00-introduction.md)                                               |
 | 11       | November 6       | [11 Artist Website Portfolio](../11-artist-website-portfolio/11-00-introduction.md)                                                       |
-| 12       | November 13      | 12                                                                                                                                        |
-| 13       | November 20      | 13                                                                                                                                        |
-| 14       | November 27      | Thanksgiving Break. No Class.                                                                                                             |
-| 15       | December 4       | 14                                                                                                                                        |
-| 16       | December 11      | Final Crits                                                                                                                               |
-| 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                                                  |
+| 12       | November 13      | [12 Digital Mimesis](../12-digital-mimesis/12-00-introduction.md)                                                                         |
+| 13       | November 20      | [13 Digital Synthesis](../13-digital-synthesis/13-00-introduction.md)                                                                     |
+| --       | November 27      | Thanksgiving Break. No Class.                                                                                                             |
+| 14       | December 4       | [14 Studio Work](../14-studio-work/14-00-introduction.md)                                                                                 |
+| 15       | December 11      | [15 Final Critique](../15-final-critque/15-00-introduction.md)                                                                            |
+| --       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                                                  |
 
 </div>
 

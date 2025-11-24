@@ -1,7 +1,7 @@
 ---
-title: 10.05 One Page Zine Mock Layout Assignment
+title: 10.04 One Page Zine Mock Layout Assignment
 date: 2025-10-29T12:00:00
-lastmod: 2025-10-30T08:17:42
+lastmod: 2025-11-24T12:57:08
 ---
 
 ## Assignment Deliverables

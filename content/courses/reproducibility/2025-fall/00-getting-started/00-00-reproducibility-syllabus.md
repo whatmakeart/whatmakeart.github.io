@@ -1,7 +1,7 @@
 ---
 title: 00.00 Reproducibility Syllabus
 date: 2025-08-27T12:00:00
-lastmod: 2025-11-24T12:42:58
+lastmod: 2025-11-24T13:05:18
 ---
 
 ### Course Information
@@ -75,10 +75,10 @@ Through demonstrations of technical processes, lectures supplemented by works fr
 | 11       | November 5       | [11 Degrease and Coat Screen Print Screens](../11-degrease-and-coat-screen-print-screens/11-00-introduction.md)                       |
 | 12       | November 12      | [12 Expose Screen Print Screens](../12-expose-screen-print-screens/12-00-introduction.md)                                             |
 | 13       | November 19      | [13 Studio Work Zine](../13-studio-work-zine/13-00-introduction.md)                                                                   |
-| 14       | November 26      | Thanksgiving Break. No Class.                                                                                                         |
-| 15       | December 3       | [14 Studio Work](../14-studio-work/14-00-introduction.md)                                                                             |
-| 16       | December 10      | [15 Final Critique](../15-final-critique/15-00-introduction.md)                                                                       |
-| 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                                              |
+| --       | November 26      | Thanksgiving Break. No Class.                                                                                                         |
+| 14       | December 3       | [14 Studio Work](../14-studio-work/14-00-introduction.md)                                                                             |
+| 15       | December 10      | [15 Final Critique](../15-final-critique/15-00-introduction.md)                                                                       |
+| --       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                                              |
 
 </div>
 
