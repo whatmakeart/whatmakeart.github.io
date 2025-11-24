@@ -1,7 +1,7 @@
 ---
 title: 00.00 Reproducibility Syllabus
 date: 2025-08-27T12:00:00
-lastmod: 2025-08-20T15:38:41
+lastmod: 2025-11-24T12:42:58
 ---
 
 ### Course Information
@@ -60,25 +60,25 @@ Through demonstrations of technical processes, lectures supplemented by works fr
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**         | **Topic**                                                                          |
-| -------- | ---------------- | ---------------------------------------------------------------------------------- |
-| 1        | August 27        | [01 Mold Making](../01-mold-making/01-00-introduction.md)                          |
-| 2        | September 3      | [02 Slip Casting](../02-slip-casting/02-01-slip-casting.md)                        |
-| 3        | September 10     | [03 Slip Casting Production ](../03-slip-casting-production/03-00-introduction.md) |
-| 4        | September 17     | Alternative Casting Materials                                                      |
-| 5        | September 24     | Display Methods                                                                    |
-| 6        | October 1        | Moldmaking Critique Rephotography Intro                                            |
-| 7        | October 8        | Laser Etching and Cutting                                                          |
-| 8        | October 15       | Printing Press                                                                     |
-| 9        | October 22       | Printing Press Studio Time and Reading Discussion                                  |
-| 10       | October 29       | Rephotography Critique Zine Intro                                                  |
-| 11       | November 5       | Expose Screen Print Screens                                                        |
-| 12       | November 12      | Screen Print Studio Work                                                           |
-| 13       | November 19      | Studio Work Zine and Reading Discussion                                            |
-| 14       | November 26      | Thanksgiving Break. No Class.                                                      |
-| 15       | December 3       | Studio Work                                                                        |
-| 16       | December 10      | Final Crits                                                                        |
-| 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)           |
+| **Week** | **Date**         | **Topic**                                                                                                                             |
+| -------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 1        | August 27        | [01 Mold Making](../01-mold-making/01-00-introduction.md)                                                                             |
+| 2        | September 3      | [02 Slip Casting](../02-slip-casting/02-01-slip-casting.md)                                                                           |
+| 3        | September 10     | [03 Slip Casting Production ](../03-slip-casting-production/03-00-introduction.md)                                                    |
+| 4        | September 17     | [04 Display Methods](../04-display-methods/04-00-introduction.md)                                                                     |
+| 5        | September 24     | [05 Installation Fabrication](../05-installation-fabrication/05-00-introduction.md)                                                   |
+| 6        | October 1        | [06 Moldmaking Critique & Rephotography Intro](../06-moldmaking-critque-rephotography-intro/06-00-introduction.md)                    |
+| 7        | October 8        | [07 Laser Etching and Cutting](../07-laser-etching-and-cutting/07-00-introduction.md)                                                 |
+| 8        | October 15       | [08 Printing Press](../08-printing-press/08-00-introduction.md)                                                                       |
+| 9        | October 22       | [09 Printing Press Studio Time and Reading Discussion](../09-printing-press-studio-time-and-reading-discussion/09-00-introduction.md) |
+| 10       | October 29       | [10 Rephotography Critique Zine Intro](../10-rephotography-critique-zine-intro/10-00-introduction.md)                                 |
+| 11       | November 5       | [11 Degrease and Coat Screen Print Screens](../11-degrease-and-coat-screen-print-screens/11-00-introduction.md)                       |
+| 12       | November 12      | [12 Expose Screen Print Screens](../12-expose-screen-print-screens/12-00-introduction.md)                                             |
+| 13       | November 19      | [13 Studio Work Zine](../13-studio-work-zine/13-00-introduction.md)                                                                   |
+| 14       | November 26      | Thanksgiving Break. No Class.                                                                                                         |
+| 15       | December 3       | [14 Studio Work](../14-studio-work/14-00-introduction.md)                                                                             |
+| 16       | December 10      | [15 Final Critique](../15-final-critique/15-00-introduction.md)                                                                       |
+| 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                                              |
 
 </div>
 

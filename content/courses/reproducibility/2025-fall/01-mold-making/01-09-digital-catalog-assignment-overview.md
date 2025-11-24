@@ -1,7 +1,7 @@
 ---
-title: 01.10 Digital Catalog Assignment Overview
+title: 01.09 Digital Catalog Assignment Overview
 date: 2025-08-27T12:00:00
-lastmod: 2025-08-17T10:43:01
+lastmod: 2025-11-24T12:47:58
 ---
 
 ## Assignment Overview

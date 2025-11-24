@@ -1,7 +1,7 @@
 ---
-title: 10.02 One Page Zine Folding
+title: 10.03 One Page Zine Folding
 date: 2025-10-29T12:00:00
-lastmod: 2025-10-29T05:18:12
+lastmod: 2025-11-24T12:48:59
 toc: true
 ---
 
