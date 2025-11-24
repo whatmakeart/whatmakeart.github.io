@@ -1,7 +1,7 @@
 ---
 title: 08.00 Introduction
 date: 2025-10-16T09:00:00Z
-lastmod: 2025-10-16T12:00:39
+lastmod: 2025-11-24T14:35:04
 ---
 
 ## Overview
@@ -12,4 +12,4 @@ Students present their online game creations and vector images in class for grou
 
 - Scale and duplicate vector artwork
 - Use recoloring tools to create variations of color palettes
-- Evaluate creative decisions based on seeing mulitple iterations simultaneously
+- Evaluate creative decisions based on seeing multiple iterations simultaneously

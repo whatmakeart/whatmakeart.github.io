@@ -1,7 +1,7 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-11-13T11:18:39
+lastmod: 2025-11-24T14:35:04
 ---
 
 ## Assignment Deliverables
@@ -13,4 +13,4 @@ lastmod: 2025-11-13T11:18:39
 
 ## Assignment Overview
 
-Make a list of things to change, remove, and add to your natural language coded web experience. Spend time creating original visual and auditory conent to add to the site. Use natual language programming to change and improve the site based on your created list and peer feedback.
+Make a list of things to change, remove, and add to your natural language coded web experience. Spend time creating original visual and auditory content to add to the site. Use natural language programming to change and improve the site based on your created list and peer feedback.

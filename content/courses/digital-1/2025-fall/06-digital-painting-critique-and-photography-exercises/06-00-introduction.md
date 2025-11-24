@@ -1,7 +1,7 @@
 ---
 title: 06.00 Introduction
 date: 2025-10-02T09:00:00Z
-lastmod: 2025-10-09T05:20:11
+lastmod: 2025-11-24T14:35:04
 ---
 
 ## Overview
@@ -12,7 +12,7 @@ In the afternoon students work in pairs with mirrorless cameras to take a series
 
 ## Learning Objectives
 
-- Cleary present ideas and sketch concepts to peers
+- Clearly present ideas and sketch concepts to peers
 - Actively listen to peers' feedback
-- Use the exposure triangle to capture intentional pho=tographic imagery
+- Use the exposure triangle to capture intentional photographic imagery
 - Complete basic vector graphic exercises

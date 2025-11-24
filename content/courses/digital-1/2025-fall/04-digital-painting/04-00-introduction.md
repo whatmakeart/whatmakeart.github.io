@@ -1,18 +1,18 @@
 ---
 title: 04.00 Introduction
 date: 2025-09-18T09:00:00Z
-lastmod: 2025-09-18T11:23:37
+lastmod: 2025-11-24T14:30:03
 ---
 
 ## Overview
 
-Students learn about color harmonies and color schemes. In class exerciese cover how to pull out a color palette from an existing image. Students are introduced to pressure sensitive drawing tablets and the use of brushes in Photoshop for use in digital paintig.
+Students learn about color harmonies and color schemes. In class exercises cover how to pull out a color palette from an existing image. Students are introduced to pressure sensitive drawing tablets and the use of brushes in Photoshop for use in digital painting.
 
 ## Learning Objectives
 
-- Identify differet color harmonies
-- Create a colore pallete from an existing image
-- Use a preasure sensitive drawing tablet
+- Identify different color harmonies
+- Create a color palette from an existing image
+- Use a pressure sensitive drawing tablet
 - Create custom brushes for digital painting
 
 ## Key Terms
