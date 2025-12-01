@@ -1,7 +1,7 @@
 ---
-title: 13.01 Reclaiming Screens
-date: 2025-11-19T12:00:00
-lastmod: 2025-11-11T04:46:45
+title: 14.01 Reclaiming Screens
+date: 2025-12-03T12:00:00
+lastmod: 2025-12-01T17:31:45
 toc: true
 ---
 
