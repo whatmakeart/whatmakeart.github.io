@@ -1,7 +1,7 @@
 ---
 title: 14.01 Digital Mimesis Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-01T17:03:20
+lastmod: 2025-12-01T17:16:15
 ---
 
 ## Assignment Deliverables
@@ -10,6 +10,8 @@ lastmod: 2025-12-01T17:03:20
    - Label file YYYY-MM-DD Lastname Firstname Digital Mimesis Remix (`.png`, `.jpg`)
 2. Highest resolution available copy of reference image
    - Label file YYYY-MM-DD Lastname Firstname Reference Image (`.jpg`, `.png`)
+3. Written self reflection and assessment
+   - Label file YYYY-MM-DD Lastname Firstname Self Reflection and Assessment (`.docx`, `.pdf`)
 
 ## Assignment Overview
 
@@ -35,17 +37,19 @@ The assignment is not parody, it is a style study, challenging you to create rig
 8. Color grade all elements to unify them, add shadows and highlights, blend edges, and apply final polishing effects to match the reference.
 9. Export a PNG from Photoshop.
 10. Label file and upload.
+11. Write a self reflection and assessment describing your creative decisions, technical challenges, and problem-solving strategies.
 
 ## Grading Rubric
 
 <div class="responsive-table-markdown">
 
-| Assessment                   | Weight    |
-| ---------------------------- | --------- |
-| Color Matching Mimesis       | 30 points |
-| Composition Mimesis          | 30 points |
-| Photo Mimesis                | 30 points |
-| Reference Image Uploaded     | 15 points |
-| File Management and Labeling | 10 points |
+| Assessment                     | Weight    |
+| ------------------------------ | --------- |
+| Color Matching Mimesis         | 30 points |
+| Composition Mimesis            | 30 points |
+| Photo Mimesis                  | 30 points |
+| Self Reflection and Assessment | 30 points |
+| Reference Image Uploaded       | 15 points |
+| File Management and Labeling   | 10 points |
 
 </div>
