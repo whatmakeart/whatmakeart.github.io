@@ -1,13 +1,13 @@
 ---
-title: 13.02 Digital Catalog Week 13 Assignment
-date: 2025-11-19T12:00:00
-lastmod: 2025-12-01T17:39:44
+title: 14.03 Digital Catalog Week 14 Assignment
+date: 2025-12-03T12:00:00
+lastmod: 2025-12-01T17:40:48
 ---
 
 ## Assignment Deliverables
 
 1. Upload to the LMS, an informally organized presentation of activities done in the studio since last class meeting. File formats may include: pdf, docx, jpg, png, mp4, wav, mp3
-   - Label files YYYY-MM-DD Lastname Firstname digital catalog Week 13 (`.pdf`, `.jpg` ....)
+   - Label files YYYY-MM-DD Lastname Firstname digital catalog Week 14 (`.pdf`, `.jpg` ....)
 
 ## Grading Rubric
 
