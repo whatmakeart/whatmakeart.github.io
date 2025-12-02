@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2025-08-27T12:00:00
-lastmod: 2025-12-01T19:36:44
+lastmod: 2025-12-02T05:34:43
 ---
 
 ## Technical and Reference Resources
@@ -32,9 +32,7 @@ lastmod: 2025-12-01T19:36:44
 ### Additional Readings
 
 - McLuhan, Marshal. [_Understanding the Media: Extensions of Man_](https://archive.org/details/ETC0624/). New York. 1964.
-  - **Available From:**
-    - [Internet Archive](https://archive.org/details/ETC0624/)
-    - [Design Open Data](https://designopendata.wordpress.com/wp-content/uploads/2014/05/understanding-media-mcluhan.pdf) [(Archive Link)](https://web.archive.org/web/20240428061708/https://designopendata.wordpress.com/wp-content/uploads/2014/05/understanding-media-mcluhan.pdf)
+  - Available from [Design Open Data](https://designopendata.wordpress.com/wp-content/uploads/2014/05/understanding-media-mcluhan.pdf) [(Archive Link)](https://web.archive.org/web/20240428061708/https://designopendata.wordpress.com/wp-content/uploads/2014/05/understanding-media-mcluhan.pdf)
 - Benjamin, Walter. [The Work of Art in the Age of Mechanical Reproduction](https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm) 1936. Translated by Harry Zohn. [marxists.org](https://www.marxists.org/) [(Archive Link)](https://web.archive.org/web/20240418175200/https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm) or [web.mit.edu](https://web.mit.edu/) [(Archive Link)](https://web.archive.org/web/20240622141032/https://web.mit.edu/allanmc/www/benjamin.pdf)
 - Weisberg, Ruth. [_The Syntax of the Print: In Search of an Aesthetic Content_](https://digitalrepository.unm.edu/tamarind_papers/vol9/iss2/1/). Tamarind Institute. "Volume 9, Number 2 (1986)." The Tamarind Papers: Technical, Critical and Historical Studies on the Art of the Lithograph 9, 2 (1986). Page 52-60. [(Archive Link)](https://web.archive.org/web/20230826184444/https://digitalrepository.unm.edu/tamarind_papers/vol9/iss2/1/)
 - Molesworth, Helen. ‘Duchamp by Hand, Even’. In Part Object Part Sculpture. Pennsylvania: Pennsylvania State University Press, 2005.

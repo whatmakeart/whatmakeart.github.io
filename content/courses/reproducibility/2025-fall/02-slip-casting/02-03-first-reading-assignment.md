@@ -1,13 +1,13 @@
 ---
 title: 02.03 First Reading Assignment
 date: 2025-09-03T12:00:00
-lastmod: 2025-09-30T06:02:42
+lastmod: 2025-12-02T06:58:09
 ---
 
 ## Assignment Deliverables
 
 1. Upload a typed reading response as a pdf or docx
-   - Label the file YYYY-MM-DD Lastname Firstname Readymade Remade Reading Response.pdf/docx
+   - Label the file YYYY-MM-DD Lastname Firstname Readymade Remade Reading Response (`.pdf`, `.docx`)
 
 ## Requirements
 

@@ -1,7 +1,7 @@
 ---
 title: 12.03 Slip Cast Production Assignment
 date: 2024-11-06T09:00:00
-lastmod: 2024-12-15T17:10:02
+lastmod: 2025-12-02T06:34:06
 ---
 
 ## Assignment Deliverables
