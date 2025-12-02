@@ -826,3 +826,36 @@ pre code {
 /* overide guttenberg */
 /* overide guttenberg */
 /* overide guttenberg */
+
+/* --- FIX FOR SPLIT IMAGES --- */
+
+/* 1. Apply both legacy and modern break rules to images and figures */
+img,
+figure,
+.wp-block-image,
+.gallery-grid > figure {
+  page-break-inside: avoid !important; /* Legacy */
+  break-inside: avoid !important; /* Modern */
+}
+
+/* 2. Ensure images don't exceed one page height */
+/* This ensures that if an image is taller than the paper, it shrinks to fit 
+   rather than forcing a cut. */
+img {
+  max-height: 95vh !important;
+  width: auto; /* Maintains aspect ratio if height is constrained */
+}
+
+/* 3. Patch for Grid Layouts in Print */
+/* Sometimes Grid containers ignore break-inside. 
+   This forces the grid items to respect the page flow. */
+.gallery-grid {
+  display: block !important;
+}
+
+.gallery-grid > figure {
+  display: inline-block !important;
+  width: 48% !important; /* approximates your grid columns */
+  margin-bottom: 1rem;
+  vertical-align: top;
+}
