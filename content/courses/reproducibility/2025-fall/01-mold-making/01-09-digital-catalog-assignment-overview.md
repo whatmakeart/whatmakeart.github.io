@@ -1,7 +1,7 @@
 ---
 title: 01.09 Digital Catalog Assignment Overview
 date: 2025-08-27T12:00:00
-lastmod: 2025-11-24T12:47:58
+lastmod: 2025-12-01T19:23:39
 ---
 
 ## Assignment Overview
@@ -26,11 +26,7 @@ This assignment is **due weekly**. Some weeks may have specific prompts, such as
 
 ### Additional Writing to Include
 
-- notes that you take in class about technical processes, critique feedback, assignment information, and any other information you write down
-- writing about your ideations. While ideations are often visual sketches, it is also important to ideate via writing and at a a minimum to write down what your sketches are of, swo your future self can remember
+- Notes that you take in class about technical processes, critique feedback, assignment information, and any other information you write down
+- Writing about your ideations. While ideations are often visual sketches, it is also important to ideate via writing and at a a minimum to write down what your sketches are of, swo your future self can remember
 - Responses to assignment readings and reflections on other course related reading you do during the semester.
 - All other related and relevant items to your engagement with the course not listed above
-
-## End of Semester Digital Catalog Presentation / Submission
-
-Organize all of the weekly studio progress reports, assignments, writings, and other relevant materials into a single presentable document. This should be a PDF, and can contain links to online content such as video or interactive media. The documentation should be easily reviewable and contain text explanation of what is displayed.

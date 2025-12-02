@@ -1,7 +1,7 @@
 ---
 title: 07.03 Photo Etching for Printmaking at think[box]
 date: 2025-10-08T12:00:00
-lastmod: 2025-10-08T10:52:37
+lastmod: 2025-12-01T20:00:10
 ---
 
 Laser cutters can photo etch or raster engrave a bitmap or pixel based image. For use with printmaking the image should be inverted.
@@ -9,7 +9,7 @@ Laser cutters can photo etch or raster engrave a bitmap or pixel based image. Fo
 1. Refer to [relief printing laser etching file prep](./07-02-relief-printing-laser-etching-file-prep.md) to prepare your images.
 2. Once your images are prepared, import the image into Corel Draw or Adobe Illustrator.
 3. Scale the image to the appropriate size as necessary.
-4. Double check that your image is in grayscale and has appropirate contrast and inverted values.
+4. Double check that your image is in grayscale and has appropriate contrast and inverted values.
 5. Perform a small test etch on a piece of scrap material.
 6. Make any adjustments based on the test.
 7. Etch the whole image.

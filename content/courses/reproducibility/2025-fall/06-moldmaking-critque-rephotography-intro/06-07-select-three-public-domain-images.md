@@ -1,7 +1,7 @@
 ---
 title: 06.07 Select Three Public Domain Images
 date: 2025-10-01T12:00:00
-lastmod: 2025-10-13T10:07:46
+lastmod: 2025-12-01T19:42:05
 ---
 
 ## Assignment Deliverables
@@ -28,7 +28,7 @@ lastmod: 2025-10-13T10:07:46
    - Brief description of image and why you selected it
    - URL of image
 3. Select one or more of the images to process in preparation for laser etching. [How to Prepare Images in Photoshop for Laser Cutting Woodblocks for Printmaking](https://youtu.be/zAmTorlrH6k)
-4. The laser etching process will "cut" away parts of the image on a woodblock. It is best is there is a clear deviding line between what is image and what is not image. Consider useing a halftone pattern since it allows for more high threshold detail in the print.
+4. The laser etching process will "cut" away parts of the image on a woodblock. It is best is there is a clear dividing line between what is image and what is not image. Consider using a halftone pattern since it allows for more high threshold detail in the print.
    - [Custom Halftone Dot Pattern Photoshop](https://youtu.be/1fDaDfCNjjc)
    - [Create Custom Halftone Patterns in Photoshop: Seamless Dots with Offset + Pattern Fill](https://youtu.be/DBUs4GniriY)
 

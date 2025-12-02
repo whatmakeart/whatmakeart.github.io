@@ -1,7 +1,7 @@
 ---
 title: 06.00 Introduction
 date: 2025-10-01T12:00:00
-lastmod: 2025-11-24T12:46:28
+lastmod: 2025-12-01T19:42:05
 ---
 
 ## Overview
@@ -10,7 +10,7 @@ Students present the their installed multiples from the slip casting project and
 
 ## Learning Objectives
 
-- Present and critically disusion one's work and the work of others in a group critique
+- Present and critically discuss one's work and the work of others in a group critique
 - Examine the topics of rephotography and appropriation
 - Understand the 4 parts of fair use under US copyright law
 

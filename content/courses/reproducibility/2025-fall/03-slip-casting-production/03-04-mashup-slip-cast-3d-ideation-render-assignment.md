@@ -1,13 +1,13 @@
 ---
 title: 03.04 Mashup Slip Cast 3D Ideation Render Assignment
 date: 2025-09-10T12:00:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-01T19:42:05
 ---
 
 ## Assignment Deliverables
 
-1. Upload a minimum of three 3D renders of Mashup Slip Cast Sculpture ideas (`.png`, `.jpg`)
-   - Label files YYYY-MM-DD Lastname Firstname Mashup Slip Cast 3D render
+1. Upload a minimum of three 3D renders of Mashup Slip Cast Sculpture ideas
+   - Label files YYYY-MM-DD Lastname Firstname Mashup Slip Cast 3D render (`.png`, `.jpg`)
 
 ## Assignment Overview
 

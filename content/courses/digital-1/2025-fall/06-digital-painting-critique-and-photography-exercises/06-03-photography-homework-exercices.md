@@ -1,7 +1,7 @@
 ---
 title: 06.03 Photography Homework Exercises
 date: 2025-10-02T09:00:00Z
-lastmod: 2025-10-17T07:47:19
+lastmod: 2025-12-01T19:33:47
 ---
 
 ## Exercise Deliverables

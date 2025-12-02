@@ -1,31 +1,24 @@
 ---
 title: 00.01 Course Resources
 date: 2025-08-27T12:00:00
-lastmod: 2025-12-01T17:26:35
+lastmod: 2025-12-01T19:36:44
 ---
 
-## Mold Making and Slip Casting
+## Technical and Reference Resources
 
-- [Plaster Mixing Ratio Calculator](../../../../making/plaster-calculator.md)
-- [Molds](../../../../making/molds.md)
-
-## Copyright and Fair Use
+### Copyright and Fair Use
 
 - [Copyright for Artists](../../../../copyright/copyright-for-artists.md)
 - [Fair Use](../../../../copyright/fair-use.md)
 - [Public Domain](../../../../copyright/public-domain.md)
 
-## Artist Practices
+### Artist Practices
 
 - [How to Critique Art](../../../../art-faq/how-to-critique-art.md)
 - [Art School Critique No, No's](../../../../art-faq/art-school-critique-no-nos.md)
 - [How to Write an Artist Statement](../../../../art-faq/how-to-write-an-artist-statement.md)
 
-## Laser Cutting
-
-- [Laser Cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md)
-
-## Documentation
+### Documentation
 
 - [How to Document 2D Artwork](../../../../photography/how-to-document-2d-artwork.md)
 - [How to Document 3D Artwork](../../../../photography/how-to-document-3d-artwork.md)
