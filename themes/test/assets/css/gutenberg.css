@@ -827,76 +827,68 @@ pre code {
 /* overide guttenberg */
 /* overide guttenberg */
 
-/* --- PRINT FIX: NO SPLITS, CORRECT ASPECT RATIO --- */
+/* --- FINAL PRINT FIX: SMART AUTO-LAYOUT --- */
 
-/* 1. CONTAINER HANDLING (Keep Image + Caption Together) */
+/* 1. DEFAULT: All Figures are Full Width First */
+/* This ensures standalone images (like Diamond Sutra) are always big. */
 figure,
-.gallery-grid > figure,
-.video-card,
 .wp-block-image {
-  display: inline-block !important; /* Keeps container intact */
+  display: block !important;
+  width: 100% !important;
+  margin: 0 0 2em 0 !important;
   page-break-inside: avoid !important;
   break-inside: avoid !important;
-  margin-bottom: 2em !important;
-  position: relative !important;
 }
 
-/* 2. IMAGE HANDLING (Fix Distortion & Size) */
-img {
-  /* RESET dimensions to stop stretching */
-  width: auto !important;
-  height: auto !important;
-
-  /* CONSTRAINTS: 
-       1. Never wider than the container 
-       2. Never taller than 75% of the page (Leaves 25% room for caption!) */
-  max-width: 100% !important;
-  max-height: 75vh !important;
-
-  /* CENTERING & RATIO */
-  display: block !important;
-  margin: 0 auto !important; /* Centers image if it shrinks */
-  object-fit: contain !important; /* CRITICAL: Enforces correct aspect ratio */
-}
-
-/* 3. CAPTION GLUE */
-figcaption {
-  page-break-before: avoid !important; /* Forces caption to stay with image */
-  break-before: avoid !important;
-  display: block !important;
-  margin-top: 0.5em !important;
-}
-
-/* 4. GRID LAYOUT RESTORATION */
-/* This handles the "Two figures fill the width" requirement */
+/* 2. GRID: Force Two-Column Mode */
 .gallery-grid,
 .video-grid,
 .two-column-grid {
-  display: block !important; /* Disconnects buggy CSS Grid */
-  font-size: 0; /* Fixes spacing gaps */
-  text-align: left;
-  margin-left: -1%; /* Aligns edges */
-  width: 102%;
+  display: block !important; /* Disable buggy Grid/Flex */
+  font-size: 0; /* Fix gaps */
+  width: 100% !important;
+  padding: 0 !important;
 }
 
+/* 3. GRID ITEMS: Side-by-Side Logic */
 .gallery-grid > figure,
 .video-card {
-  /* Make them sit side-by-side */
   display: inline-block !important;
   vertical-align: top !important;
-
-  /* WIDTH CALCULATION:
-       48% width allows two to fit on one line with a small gap.
-       If an image is alone, this ensures it aligns with the grid structure. */
-  width: 48% !important;
-  margin: 1% !important;
-
-  /* Restore text size for captions */
-  font-size: 1rem !important;
+  width: 48% !important; /* Fits two per row */
+  margin: 1% !important; /* Gutter spacing */
+  font-size: 1rem !important; /* Restore text size */
 }
 
-/* OPTIONAL: If a figure is NOT in a grid (Standard big image), make it full width */
-figure:not(.gallery-grid figure):not(.video-card) {
-  width: 100% !important;
+/* 4. THE MAGIC FIX: The "Dangler" Rule */
+/* If a grid item is the LAST one, AND it is an ODD number (1st, 3rd, 5th...),
+   it has no partner. We force it to expand to full width. 
+   This fixes your "3rd image" issue and "single grid image" issue. */
+.gallery-grid > figure:last-of-type:nth-of-type(odd),
+.video-card:last-of-type:nth-of-type(odd) {
   display: block !important;
+  width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* 5. IMAGE SAFETY (No Distortion, No Splitting) */
+img {
+  width: auto !important;
+  height: auto !important;
+  max-width: 100% !important;
+
+  /* Cap height to 75% of page so there is ALWAYS room for caption */
+  max-height: 75vh !important;
+
+  display: block !important;
+  margin: 0 auto !important;
+  object-fit: contain !important;
+}
+
+/* 6. CAPTION GLUE */
+figcaption {
+  display: block !important;
+  page-break-before: avoid !important;
+  break-before: avoid !important;
 }
