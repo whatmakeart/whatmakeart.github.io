@@ -694,6 +694,8 @@ hr {
   grid-template-rows: subgrid;
   row-gap: 0mm;
   grid-row: span 2; /* uses subgrid to align the captions */
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 .gallery-grid > figure > figcaption {
@@ -739,12 +741,6 @@ hr {
   display: inline-block;
   margin: 0;
   padding: 0;
-}
-
-.gallery-grid > figure,
-figure,
-.video-card {
-  page-break-inside: avoid;
 }
 
 #printed-urls-heading {
