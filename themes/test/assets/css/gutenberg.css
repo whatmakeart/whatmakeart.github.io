@@ -685,7 +685,8 @@ hr {
 }
 
 .gallery-grid > figure > figcaption {
-  font-size: 0.875rem /*14px*/;
+  font-size: 0.75rem /*12px*/;
+  margin: 0;
 }
 
 /* for image gallery captions as lists */
