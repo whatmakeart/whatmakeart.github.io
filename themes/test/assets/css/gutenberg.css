@@ -827,49 +827,76 @@ pre code {
 /* overide guttenberg */
 /* overide guttenberg */
 
-/* --- FIX FOR SPLIT IMAGES --- */
+/* --- PRINT FIX: NO SPLITS, CORRECT ASPECT RATIO --- */
 
-/* 1. DISCONNECT THE GRID 
-   We must disable 'display: grid' for printing because it often ignores 
-   page-break rules. We switch to 'block' for the container. */
+/* 1. CONTAINER HANDLING (Keep Image + Caption Together) */
+figure,
+.gallery-grid > figure,
+.video-card,
+.wp-block-image {
+  display: inline-block !important; /* Keeps container intact */
+  page-break-inside: avoid !important;
+  break-inside: avoid !important;
+  margin-bottom: 2em !important;
+  position: relative !important;
+}
+
+/* 2. IMAGE HANDLING (Fix Distortion & Size) */
+img {
+  /* RESET dimensions to stop stretching */
+  width: auto !important;
+  height: auto !important;
+
+  /* CONSTRAINTS: 
+       1. Never wider than the container 
+       2. Never taller than 75% of the page (Leaves 25% room for caption!) */
+  max-width: 100% !important;
+  max-height: 75vh !important;
+
+  /* CENTERING & RATIO */
+  display: block !important;
+  margin: 0 auto !important; /* Centers image if it shrinks */
+  object-fit: contain !important; /* CRITICAL: Enforces correct aspect ratio */
+}
+
+/* 3. CAPTION GLUE */
+figcaption {
+  page-break-before: avoid !important; /* Forces caption to stay with image */
+  break-before: avoid !important;
+  display: block !important;
+  margin-top: 0.5em !important;
+}
+
+/* 4. GRID LAYOUT RESTORATION */
+/* This handles the "Two figures fill the width" requirement */
 .gallery-grid,
 .video-grid,
 .two-column-grid {
-  display: block !important;
-  font-size: 0; /* Fixes spacing issues with inline-block elements */
+  display: block !important; /* Disconnects buggy CSS Grid */
+  font-size: 0; /* Fixes spacing gaps */
+  text-align: left;
+  margin-left: -1%; /* Aligns edges */
+  width: 102%;
 }
 
-/* 2. REBUILD LAYOUT USING INLINE-BLOCK
-   We make the figures inline-blocks. This keeps them side-by-side 
-   (like a grid) but allows the browser to move the ENTIRE block 
-   to the next page if it doesn't fit. */
 .gallery-grid > figure,
 .video-card {
+  /* Make them sit side-by-side */
   display: inline-block !important;
-  width: 48% !important; /* Keeps the 2-column look (adjust to 100% to stack vertically) */
   vertical-align: top !important;
-  margin-right: 2% !important; /* Spacing between columns */
-  margin-bottom: 2em !important;
 
-  /* The critical break rules */
-  page-break-inside: avoid !important;
-  break-inside: avoid !important;
+  /* WIDTH CALCULATION:
+       48% width allows two to fit on one line with a small gap.
+       If an image is alone, this ensures it aligns with the grid structure. */
+  width: 48% !important;
+  margin: 1% !important;
 
-  /* Reset text size inside the figure since we set font-size: 0 on container */
+  /* Restore text size for captions */
   font-size: 1rem !important;
 }
 
-/* Remove margin from every 2nd item so it fits on the line */
-.gallery-grid > figure:nth-child(even) {
-  margin-right: 0 !important;
-}
-
-/* 3. CONSTRAIN IMAGE HEIGHT
-   Even with the break rules, if an image + caption is taller than the 
-   paper itself, it MUST split. This forces it to shrink to fit one page. */
-img {
-  max-height: 90vh !important; /* Limits image to 90% of page height */
-  width: auto !important; /* Maintains aspect ratio */
-  page-break-inside: avoid !important;
-  break-inside: avoid !important;
+/* OPTIONAL: If a figure is NOT in a grid (Standard big image), make it full width */
+figure:not(.gallery-grid figure):not(.video-card) {
+  width: 100% !important;
+  display: block !important;
 }
