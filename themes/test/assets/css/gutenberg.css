@@ -741,6 +741,8 @@ hr {
   padding: 0;
 }
 
+.gallery-grid > figure,
+figure,
 .video-card {
   page-break-inside: avoid;
 }
