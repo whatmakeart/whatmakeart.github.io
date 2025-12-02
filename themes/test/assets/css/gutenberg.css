@@ -829,33 +829,47 @@ pre code {
 
 /* --- FIX FOR SPLIT IMAGES --- */
 
-/* 1. Apply both legacy and modern break rules to images and figures */
-img,
-figure,
-.wp-block-image,
-.gallery-grid > figure {
-  page-break-inside: avoid !important; /* Legacy */
-  break-inside: avoid !important; /* Modern */
-}
-
-/* 2. Ensure images don't exceed one page height */
-/* This ensures that if an image is taller than the paper, it shrinks to fit 
-   rather than forcing a cut. */
-img {
-  max-height: 95vh !important;
-  width: auto; /* Maintains aspect ratio if height is constrained */
-}
-
-/* 3. Patch for Grid Layouts in Print */
-/* Sometimes Grid containers ignore break-inside. 
-   This forces the grid items to respect the page flow. */
-.gallery-grid {
+/* 1. DISCONNECT THE GRID 
+   We must disable 'display: grid' for printing because it often ignores 
+   page-break rules. We switch to 'block' for the container. */
+.gallery-grid,
+.video-grid,
+.two-column-grid {
   display: block !important;
+  font-size: 0; /* Fixes spacing issues with inline-block elements */
 }
 
-.gallery-grid > figure {
+/* 2. REBUILD LAYOUT USING INLINE-BLOCK
+   We make the figures inline-blocks. This keeps them side-by-side 
+   (like a grid) but allows the browser to move the ENTIRE block 
+   to the next page if it doesn't fit. */
+.gallery-grid > figure,
+.video-card {
   display: inline-block !important;
-  width: 48% !important; /* approximates your grid columns */
-  margin-bottom: 1rem;
-  vertical-align: top;
+  width: 48% !important; /* Keeps the 2-column look (adjust to 100% to stack vertically) */
+  vertical-align: top !important;
+  margin-right: 2% !important; /* Spacing between columns */
+  margin-bottom: 2em !important;
+
+  /* The critical break rules */
+  page-break-inside: avoid !important;
+  break-inside: avoid !important;
+
+  /* Reset text size inside the figure since we set font-size: 0 on container */
+  font-size: 1rem !important;
+}
+
+/* Remove margin from every 2nd item so it fits on the line */
+.gallery-grid > figure:nth-child(even) {
+  margin-right: 0 !important;
+}
+
+/* 3. CONSTRAIN IMAGE HEIGHT
+   Even with the break rules, if an image + caption is taller than the 
+   paper itself, it MUST split. This forces it to shrink to fit one page. */
+img {
+  max-height: 90vh !important; /* Limits image to 90% of page height */
+  width: auto !important; /* Maintains aspect ratio */
+  page-break-inside: avoid !important;
+  break-inside: avoid !important;
 }
