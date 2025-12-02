@@ -541,6 +541,7 @@ ol,
 a,
 tr {
   page-break-inside: avoid;
+  break-inside: avoid;
 }
 
 h2,
@@ -585,21 +586,6 @@ body {
   padding-right: 1.8cm;
   padding-top: 2.54cm;
 }
-
-/* Edit to Control Links 
-a[href^="http"]:after,
-a[href^="ftp"]:after {
-  content: " (" attr(href) ")";
-  font-size: 80%;
-}
-
-a[href$=".jpg"]:after,
-a[href$=".jpeg"]:after,
-a[href$=".gif"]:after,
-a[href$=".png"]:after {
-  display: none;
-}
-Edit to Control Links */
 
 abbr[title]:after,
 acronym[title]:after {
@@ -891,4 +877,27 @@ figcaption {
   display: block !important;
   page-break-before: avoid !important;
   break-before: avoid !important;
+}
+
+/****************** all testing below
+/* --- FIX CODE BLOCKS --- */
+pre,
+code {
+  /* Force long lines to wrap to the next line */
+  white-space: pre-wrap !important;
+  word-wrap: break-word !important;
+
+  /* Remove scrollbars and borders that look bad in print */
+  overflow: visible !important;
+  border: 1px solid #ddd !important; /* lighter border is cleaner */
+  background-color: #f5f5f5 !important; /* light grey bg helps readability */
+}
+
+/* --- TEXT DENSITY & HYPHENS --- */
+p,
+li {
+  -webkit-hyphens: auto !important;
+  -ms-hyphens: auto !important;
+  hyphens: auto !important;
+  text-align: justify !important; /* Optional: makes it look like a book */
 }
