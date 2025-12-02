@@ -696,6 +696,11 @@ hr {
   font-size: 0.75rem /*12px*/;
 }
 
+/* shrinks the gap between images and captions in figure tag since markdown wraps image links in a p if on own line */
+figure > p {
+  margin-bottom: 0.3rem;
+}
+
 #wiki-navbar,
 #footer,
 #course-sidebar,
