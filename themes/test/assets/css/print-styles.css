@@ -440,3 +440,22 @@ canvas,
 .iframe-4-3-container {
   max-width: 100%;
 }
+
+/* ==========================================================================
+   8. VIDEO THUMBNAIL FIX
+   ========================================================================== */
+
+/* Forces 4:3 YouTube thumbnails to fill a 16:9 box, 
+   cropping out the black bars at the top and bottom.
+*/
+.replaced-video-thumbnail img,
+.video-card img {
+  width: 100% !important;
+  /* Reset height to auto so aspect-ratio controls the shape */
+  height: auto !important;
+  /* Force the container to be Widescreen (16:9) */
+  aspect-ratio: 16 / 9 !important;
+  /* Zoom the image to fill the box, hiding the black bars */
+  object-fit: cover !important;
+  object-position: center !important;
+}
