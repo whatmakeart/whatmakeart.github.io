@@ -1,7 +1,7 @@
 ---
-title: 07.02 Relief Printing Laser Etching File Prep
+title: Relief Printing Laser Etching File Prep
 date: 2025-10-08T12:00:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-03T06:31:34
 ---
 
 - [Prepare Images in Photoshop for Laser Cutting Woodblocks for Printmaking](https://youtu.be/zAmTorlrH6k)

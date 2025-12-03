@@ -1,7 +1,7 @@
 ---
 title: Slip Casting
 date: 2025-01-22T09:00:00
-lastmod: 2025-12-02T06:51:34
+lastmod: 2025-12-03T06:31:34
 ---
 
 Slip is clay suspended in water. [Plaster](./plaster.md) absorbs water. When slip is poured into a [plaster mold](./plaster-molds.md), the plaster sucks the water out of the slip that is closest to the plaster. This slip starts to become more dense and transforms into a clay shell. There is still wet slip inside the shell. After a specified amount of time when the shell is at the desired thickness, the remaining wet slip is poured out of the mold for use in another slip casting. The clay shell is still very moist and soft. Molds can be flipped upside down to allow all excess slip to drain out. After waiting for the shell to dry and harden more, it can be removed from the mold. Then the slip cast clay object can be cleaned up and or manipulated before firing in a kiln.
@@ -22,7 +22,7 @@ Slip is clay suspended in water. [Plaster](./plaster.md) absorbs water. When sli
    - how long since previous slip cast pull
    - how thick the slip walls became
    - any other observations
-9. After the cast is demolded, the lip can be trimmed and slightly smoothed with a wet sponge. Be careful not to use too much water.
+9. After the cast is de-molded, the lip can be trimmed and slightly smoothed with a wet sponge. Be careful not to use too much water.
 10. To keep your slip casts from drying out, wrap them in plastic or put them in a sealed plastic food container.
 
 ### Example Slip Casting Log Sheet

@@ -346,22 +346,28 @@ figure,
 .video-grid,
 .two-column-grid {
   display: grid !important;
-  grid-template-columns: 1fr 1fr; /* Exactly two columns */
-  gap: 1rem;
+  grid-template-columns: 1fr 1fr;
+
+  /* CRITICAL FIX: 
+     0 = No gap between Image Row and Caption Row (Fixes the tall image gap)
+     1rem = Keeps the gap between the Left Column and Right Column */
+  gap: 0 1rem;
+
   width: 100%;
   margin-bottom: 1.5rem;
 }
 
-/* 3. The Grid Items (Figure) - UPDATED FOR ALIGNMENT */
+/* 3. The Grid Items (Figure) */
 .gallery-grid > figure,
 .video-card {
   width: auto !important;
-  margin: 0 !important;
 
-  /* SUBGRID MAGIC: 
-     This forces the figure to span 2 rows (1 for image, 1 for caption).
-     It ensures the "Image Row" height is determined by the tallest image,
-     and the "Caption Row" starts at the exact same place for both items. */
+  /* Add margin to the bottom of the CARD to separate it from the next row
+     (Since we turned off the grid row-gap) */
+  margin: 0 0 2rem 0 !important;
+
+  /* SUBGRID: Locks the "split point" between image and caption 
+     so they align perfectly across the row */
   display: grid;
   grid-row: span 2;
   grid-template-rows: subgrid;
@@ -370,19 +376,32 @@ figure,
   page-break-inside: avoid;
 }
 
-/* 4. The "Dangler" Fix (Grid Version)
-   If the LAST item is an ODD number, make it span both columns. */
+/* 4. The "Dangler" Fix */
 .gallery-grid > figure:last-child:nth-child(odd),
 .video-card:last-child:nth-child(odd) {
   grid-column: 1 / -1;
 }
 
-/* 5. Ensure the Image fills the first subgrid row */
+/* 5. Image Styling */
 .gallery-grid > figure > img,
 .video-card > img {
-  height: 100%;
-  object-fit: contain; /* Prevents stretching */
-  align-self: end; /* Aligns image to bottom of its row space */
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+
+  /* Top Align (Standard) */
+  align-self: start;
+
+  /* Ensure no hidden margins create a gap */
+  margin-bottom: 0 !important;
+  display: block;
+}
+
+/* 6. Caption Styling */
+figcaption {
+  /* Add a small buffer above the text so it doesn't hit the image 
+       if the image is full height */
+  padding-top: 0.5rem;
 }
 
 /* ==========================================================================

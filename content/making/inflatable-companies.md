@@ -1,9 +1,7 @@
 ---
 title: Inflatable Companies
 date: 2023-05-23T21:59:41
-lastmod: 2023-09-27T08:53:54
-tags:
-  - stub
+lastmod: 2025-12-03T06:34:16
 ---
 
 ## Inflatable Artist Studios
@@ -12,7 +10,9 @@ tags:
 - [Pnuehaus](https://www.pneu.haus/)
 - [Inflatabill](https://inflatabill.com/)
 - [Designs in Air (Filthy Luker)](https://www.designsinair.com/)
+
 ## Commercial Companies
+
 The following companies and studios produce inflatables commercially.
 
 - Pacific Domes, Inc. P.O. Box 1047 Ashland, OR 97520 (888) 488-8127 sales@pacificdomes.com
