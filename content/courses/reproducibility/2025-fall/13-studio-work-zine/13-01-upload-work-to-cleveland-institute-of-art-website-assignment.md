@@ -1,7 +1,7 @@
 ---
 title: 13.01 Upload work to CIA Website Assignment
 date: 2025-11-19T12:00:00
-lastmod: 2025-12-01T17:33:02
+lastmod: 2025-12-03T06:11:09
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2025-12-01T17:33:02
 
 ## Instructions
 
-To help facilitate continual student work collection, there is an easy to fill out form that allows you to submit work directly to us. CIA welcomes finished work and projects, in process work and idea generation.
+To help facilitate continual student work collection, there is an easy to fill out form that allows you to submit work directly to the Cleveland Institute of Art. CIA welcomes finished work and projects, in process work and idea generation.
 
 [https://app.smartsheet.com/b/form/4b3d7f81ca6347fc93339648fb1e5eeb](https://app.smartsheet.com/b/form/4b3d7f81ca6347fc93339648fb1e5eeb)
 

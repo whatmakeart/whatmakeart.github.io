@@ -7,7 +7,7 @@
 {{ $bootstrapCSS := resources.Get "scss/styles.scss" }}
 {{ $bootstrapCSS = $bootstrapCSS | css.Sass $options }}
 {{ $stylesCSS := resources.Get "css/styles.css" }}
-{{ $printCSS := resources.Get "css/print-css.css" | minify }}
+{{ $printCSS := resources.Get "css/print-styles.css" | minify }}
 {{ $styles := slice $bootstrapCSS $stylesCSS | resources.Concat "css/main.css" }}
 
 {{ $styles = $styles | css.Sass $options | minify }}

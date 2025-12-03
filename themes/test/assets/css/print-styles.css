@@ -290,6 +290,11 @@ a.no-reformat:after {
    4. LAYOUT & IMAGES (SMART AUTO-LAYOUT)
    ========================================================================== */
 
+/* shrinks the gap between images and captions in figure tag since markdown wraps image links in a p if on own line */
+figure > p {
+  margin-bottom: 0.3rem;
+}
+
 /* Full Width Figures */
 figure,
 .wp-block-image {
@@ -314,7 +319,7 @@ img {
 figcaption {
   display: block !important;
   break-before: avoid !important;
-  font-size: 0.875rem;
+  font-size: 0.75rem /*12px*/;
 }
 
 /* Two-Column Simulation (Replaces the broken Grid) */
