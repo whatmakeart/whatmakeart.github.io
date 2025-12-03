@@ -1,15 +1,24 @@
 /*!
- * Gutenberg Print Styles (Optimized)
- * Includes normalize.css v8.0.1
+ * CLEANED & OPTIMIZED PRINT STYLES
+ * Based on Gutenberg / Normalize v8.0.1
+ * Optimized for CSS Grid Layouts
  */
 
 /* ==========================================================================
-   1. NORMALIZE & BASICS
+   1. GLOBAL RESET & BASE SETTINGS
    ========================================================================== */
+
+/* Page Setup */
+@page {
+  size: letter;
+  /* Margins are handled on the body to allow headers/footers if needed, 
+     but can be moved here if your PDF generator prefers it. */
+}
+
 html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  font-size: 16px;
+  font-size: 16px; /* Base reference */
   margin: 0;
   padding: 0;
 }
@@ -19,19 +28,32 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   background: #fff;
-  color: #000 !important;
+  color: #000 !important; /* Force black text for print */
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1rem;
   line-height: 1.5;
   text-rendering: optimizeLegibility;
-  /* Merged Padding from multiple locations */
+
+  /* Print Margins (Consolidated from your settings) */
   padding-top: 1.54cm;
   padding-bottom: 2.54cm;
   padding-left: 1.8cm;
   padding-right: 1.8cm;
 }
 
-/* Grouping & Semantics */
+/* Box Sizing Reset */
+*,
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  background: transparent;
+  box-shadow: none !important;
+  text-shadow: none !important;
+}
+
+/* Structural Elements */
 main,
 details {
   display: block;
@@ -51,12 +73,84 @@ hr {
   border-bottom: 2px solid #bbb;
   margin: 2.25rem 0;
 }
+
+/* ==========================================================================
+   2. TYPOGRAPHY
+   ========================================================================== */
+
+/* Headings - Using your preferred smaller sizes */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #000;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.2;
+  margin-bottom: 0.75rem;
+  margin-top: 0;
+  page-break-after: avoid; /* Don't leave a header at bottom of page */
+  page-break-inside: avoid;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1.2rem;
+}
+h4 {
+  font-size: 1rem;
+}
+h5 {
+  font-size: 1rem;
+}
+h6 {
+  font-size: 1rem;
+}
+
+/* Body Text */
+p,
+blockquote,
+table,
+ul,
+ol,
+dl {
+  margin-bottom: 1.5rem;
+  margin-top: 0;
+  orphans: 3;
+  widows: 3;
+}
+
+p:last-child,
+ul:last-child,
+ol:last-child {
+  margin-bottom: 0;
+}
+
+/* Links */
 a {
   background-color: transparent;
   color: #000;
   text-decoration: underline;
   word-wrap: break-word;
 }
+
+/* Lists */
+li,
+ol,
+ul {
+  /* Allow lists to break across pages to save space */
+  page-break-after: auto;
+  page-break-before: auto;
+  page-break-inside: auto;
+}
+
+/* Inline Styles */
 b,
 strong,
 dt {
@@ -78,89 +172,65 @@ sub {
 sup {
   top: -0.5em;
 }
-img {
-  border-style: none;
-  display: block;
-  margin: 0 auto !important;
-}
 
-/* Box Sizing Reset */
-*,
-*:before,
-*:after {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  background: transparent;
-  box-shadow: none !important;
-  text-shadow: none !important;
+/* Blockquotes */
+blockquote {
+  border: 0;
+  border-left: 5px solid #bbb;
+  margin-left: 1px;
+  padding: 12px 1.5rem;
+}
+blockquote footer {
+  font-size: 80%;
+  display: block;
 }
 
 /* ==========================================================================
-   2. TYPOGRAPHY & ELEMENTS
+   3. CODE BLOCKS & PRE
    ========================================================================== */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: #000;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 1.2;
-  margin-bottom: 0.75rem;
-  margin-top: 0;
-  page-break-after: avoid;
-  page-break-inside: avoid;
+
+pre,
+code,
+kbd,
+samp {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-size: 0.875rem; /* Slightly smaller for readability */
 }
 
-/* Consolidated Heading Sizes (From your custom overrides) */
-h1 {
-  font-size: 1.75rem;
-}
-h2 {
-  font-size: 1.5rem;
-}
-h3 {
-  font-size: 1.2rem;
-}
-h4 {
-  font-size: 1rem;
-}
-h5 {
-  font-size: 1rem;
-}
-h6 {
-  font-size: 1rem;
+/* Inline Code */
+code,
+kbd {
+  padding: 3px;
+  border: 1px solid #bbb;
 }
 
-p,
-blockquote,
-table,
-ul,
-ol,
-dl {
+/* Block Code (Pre) */
+pre {
+  display: block;
   margin-bottom: 1.5rem;
-  margin-top: 0;
-}
-p:last-child,
-ul:last-child,
-ol:last-child {
-  margin-bottom: 0;
+  padding: 10px 12px;
+
+  /* Print Optimization */
+  white-space: pre-wrap !important; /* Force text wrapping */
+  word-wrap: break-word !important;
+  overflow: visible !important; /* No scrollbars */
+  border: 1px solid #ddd;
+  background-color: #f5f5f5;
+  break-inside: auto; /* Allow code blocks to split across pages */
 }
 
-/* Lists */
-li,
-ol,
-ul {
-  page-break-after: auto;
-  page-break-before: auto;
-  page-break-inside: auto;
-}
+pre code {
+  border: 0;
+} /* Don't double border inside pre */
 
-/* Tables */
+/* ==========================================================================
+   4. TABLES & FORMS
+   ========================================================================== */
+
+/* Base Table */
 table {
   border-collapse: collapse;
+  width: 100%;
   border-bottom: 1px solid #000;
   break-inside: auto;
 }
@@ -174,15 +244,22 @@ th {
   border-bottom: 1px solid #000;
 }
 
-/* Blockquotes */
-blockquote {
-  border: 0;
-  border-left: 5px solid #bbb;
-  margin-left: 1px;
-  padding: 12px 1.5rem;
+/* Markdown Specific Responsive Table */
+.responsive-table-markdown {
+  margin: 0 auto 1rem auto;
+  overflow-x: auto;
+}
+.responsive-table-markdown > table tr:nth-child(even) {
+  background-color: #f2f2f2; /* Zebra striping */
+}
+.responsive-table-markdown > table td + td {
+  border-left: 1px solid #ccc; /* Vertical dividers */
+}
+.responsive-table-markdown > table tr + tr td {
+  border-top: 1px solid #ccc;
 }
 
-/* Form Elements */
+/* Form Elements (Reset) */
 button,
 input,
 optgroup,
@@ -193,26 +270,15 @@ textarea {
   line-height: 1.15;
   margin: 0;
 }
-button,
-input {
-  overflow: visible;
-}
-button,
-select {
-  text-transform: none;
-}
 textarea {
   overflow: auto;
 }
 
 /* ==========================================================================
-   3. PRINT SPECIFIC UTILITIES
+   5. UTILITIES: HIDING & BREAKS
    ========================================================================== */
-@page {
-  size: letter;
-}
 
-/* Hide web-only elements */
+/* Hide UI Elements for Print */
 #wiki-navbar,
 #footer,
 #course-sidebar,
@@ -232,10 +298,10 @@ textarea {
 .d-none,
 .copy-code-button,
 .no-print {
-  display: none;
+  display: none !important;
 }
 
-/* Force specific page breaks */
+/* Explicit Page Breaks */
 .page-break,
 .break-before,
 .page-break-before,
@@ -251,135 +317,107 @@ textarea {
   page-break-inside: avoid;
 }
 
-/* URL Display logic */
+/* URL Expansion: Shows href after link text in specific containers */
 .iframe-16-9-container a[href^="http"]:after,
 .video-card a[href^="http"]:after,
 .video-grid a[href^="http"]:after {
-  content: attr(href);
+  content: " (" attr(href) ")";
   font-size: 75%;
-  display: inline-block;
 }
 a.no-reformat:after {
   content: "";
 }
 
-/* Markdown Tables */
-.responsive-table-markdown {
-  margin: 0 auto 1rem auto;
-  overflow-x: auto;
-}
-.responsive-table-markdown > table {
+/* ==========================================================================
+   6. GRID LAYOUT SYSTEM (Galleries & Videos)
+   ========================================================================== */
+
+/* 1. Reset: Force standalone figures to full width */
+figure,
+.wp-block-image {
+  display: block;
   width: 100%;
-  border-collapse: collapse;
+  margin: 0 0 2em 0;
+  break-inside: avoid;
 }
-.responsive-table-markdown > table tr:nth-child(even) {
-  background-color: #f2f2f2;
+
+/* 2. The Grid Container */
+.gallery-grid,
+.video-grid,
+.two-column-grid {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr; /* Exactly two columns */
+  gap: 1rem;
+  width: 100%;
+  margin-bottom: 1.5rem;
 }
-.responsive-table-markdown > table td + td {
-  border-left: 1px solid #ccc;
+
+/* 3. The Grid Items (Figure) - UPDATED FOR ALIGNMENT */
+.gallery-grid > figure,
+.video-card {
+  width: auto !important;
+  margin: 0 !important;
+
+  /* SUBGRID MAGIC: 
+     This forces the figure to span 2 rows (1 for image, 1 for caption).
+     It ensures the "Image Row" height is determined by the tallest image,
+     and the "Caption Row" starts at the exact same place for both items. */
+  display: grid;
+  grid-row: span 2;
+  grid-template-rows: subgrid;
+
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
-.responsive-table-markdown > table tr + tr td {
-  border-top: 1px solid #ccc;
+
+/* 4. The "Dangler" Fix (Grid Version)
+   If the LAST item is an ODD number, make it span both columns. */
+.gallery-grid > figure:last-child:nth-child(odd),
+.video-card:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
 }
-.responsive-table-markdown > table td,
-.responsive-table-markdown > table th {
-  padding: 1rem;
+
+/* 5. Ensure the Image fills the first subgrid row */
+.gallery-grid > figure > img,
+.video-card > img {
+  height: 100%;
+  object-fit: contain; /* Prevents stretching */
+  align-self: end; /* Aligns image to bottom of its row space */
 }
 
 /* ==========================================================================
-   4. LAYOUT & IMAGES (SMART AUTO-LAYOUT)
+   7. IMAGES & MEDIA
    ========================================================================== */
 
-/* shrinks the gap between images and captions in figure tag since markdown wraps image links in a p if on own line */
-figure > p {
-  margin-bottom: 0.3rem;
-}
-
-/* Full Width Figures */
-figure,
-.wp-block-image {
-  display: block !important;
-  width: 100% !important;
-  margin: 0 0 2em 0 !important;
-  page-break-inside: avoid !important;
-  break-inside: avoid !important;
-}
-
-/* Image Safety */
 img {
-  width: auto !important;
-  height: auto !important;
+  display: block;
+  margin: 0 auto;
+  width: auto;
   max-width: 100% !important;
-  max-height: 75vh !important;
-  object-fit: contain !important;
+  /* Cap height to 75% of page so captions fit */
+  max-height: 75vh;
+  object-fit: contain;
+  border-style: none;
   page-break-after: auto;
   page-break-inside: avoid;
 }
 
 figcaption {
-  display: block !important;
-  break-before: avoid !important;
-  font-size: 0.75rem /*12px*/;
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+  page-break-before: avoid; /* Keep caption with image */
 }
 
-/* Two-Column Simulation (Replaces the broken Grid) */
-.gallery-grid,
-.video-grid,
-.two-column-grid {
-  display: block !important;
-  font-size: 0; /* Eliminate whitespace gaps */
-  width: 100% !important;
-  padding: 0 !important;
-  margin-bottom: 1.5rem;
+/* Specific Caption Styling for Lists */
+.gallery-grid > figure > figcaption > ul {
+  font-size: 0.75rem;
+  padding-left: 0;
+  list-style: none;
 }
 
-/* Grid Items */
-.gallery-grid > figure,
-.video-card {
-  display: inline-block !important;
-  vertical-align: top !important;
-  width: 48% !important;
-  margin: 1% !important;
-  font-size: 1rem !important; /* Restore font size */
-  page-break-inside: avoid;
-  break-inside: avoid;
-}
-
-/* The "Dangler" Rule: Last item (if odd) goes full width */
-.gallery-grid > figure:last-of-type:nth-of-type(odd),
-.video-card:last-of-type:nth-of-type(odd) {
-  display: block !important;
-  width: 100% !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-}
-
-/* ==========================================================================
-   5. CODE & PRE BLOCKS
-   ========================================================================== */
-pre,
-code,
-kbd {
-  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-}
-
-pre,
-code {
-  /* Force long lines to wrap */
-  white-space: pre-wrap !important;
-  word-wrap: break-word !important;
-  /* Clean look for print */
-  overflow: visible !important;
-  border: 1px solid #ddd !important;
-  background-color: #f5f5f5 !important;
-  break-inside: auto; /* Allow breaking over pages */
-}
-
-pre {
-  margin-bottom: 1.5rem;
-  padding: 10px 12px;
-}
-
-pre code {
-  border: 0 !important;
+canvas,
+.responsive-iframe,
+.iframe-4-3-container {
+  max-width: 100%;
 }
