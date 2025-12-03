@@ -1,7 +1,7 @@
 ---
-title: 14.03 Digital Catalog Week 14 Assignment
+title: 14.04 Digital Catalog Week 14 Assignment
 date: 2025-12-03T12:00:00
-lastmod: 2025-12-01T20:00:10
+lastmod: 2025-12-03T11:30:15
 ---
 
 ## Assignment Deliverables

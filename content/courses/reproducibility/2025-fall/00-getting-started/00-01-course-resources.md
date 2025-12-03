@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2025-08-27T12:00:00
-lastmod: 2025-12-02T05:34:43
+lastmod: 2025-12-03T10:29:20
 ---
 
 ## Technical and Reference Resources
@@ -48,7 +48,7 @@ lastmod: 2025-12-02T05:34:43
 
 ## Online
 
-- [Selfiecity](https://selfiecity.net/?utm_source=chatgpt.com#)
+- [Selfiecity](https://selfiecity.net/)
 
 ## Media
 
