@@ -1,0 +1,380 @@
+/*!
+ * Gutenberg Print Styles (Optimized)
+ * Includes normalize.css v8.0.1
+ */
+
+/* ==========================================================================
+   1. NORMALIZE & BASICS
+   ========================================================================== */
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  background: #fff;
+  color: #000 !important;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  /* Merged Padding from multiple locations */
+  padding-top: 1.54cm;
+  padding-bottom: 2.54cm;
+  padding-left: 1.8cm;
+  padding-right: 1.8cm;
+}
+
+/* Grouping & Semantics */
+main,
+details {
+  display: block;
+}
+summary {
+  display: list-item;
+}
+template,
+[hidden] {
+  display: none;
+}
+hr {
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+  border: 0;
+  border-bottom: 2px solid #bbb;
+  margin: 2.25rem 0;
+}
+a {
+  background-color: transparent;
+  color: #000;
+  text-decoration: underline;
+  word-wrap: break-word;
+}
+b,
+strong,
+dt {
+  font-weight: bolder;
+}
+small {
+  font-size: 80%;
+}
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sub {
+  bottom: -0.25em;
+}
+sup {
+  top: -0.5em;
+}
+img {
+  border-style: none;
+  display: block;
+  margin: 0 auto !important;
+}
+
+/* Box Sizing Reset */
+*,
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  background: transparent;
+  box-shadow: none !important;
+  text-shadow: none !important;
+}
+
+/* ==========================================================================
+   2. TYPOGRAPHY & ELEMENTS
+   ========================================================================== */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #000;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.2;
+  margin-bottom: 0.75rem;
+  margin-top: 0;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+}
+
+/* Consolidated Heading Sizes (From your custom overrides) */
+h1 {
+  font-size: 1.75rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1.2rem;
+}
+h4 {
+  font-size: 1rem;
+}
+h5 {
+  font-size: 1rem;
+}
+h6 {
+  font-size: 1rem;
+}
+
+p,
+blockquote,
+table,
+ul,
+ol,
+dl {
+  margin-bottom: 1.5rem;
+  margin-top: 0;
+}
+p:last-child,
+ul:last-child,
+ol:last-child {
+  margin-bottom: 0;
+}
+
+/* Lists */
+li,
+ol,
+ul {
+  page-break-after: auto;
+  page-break-before: auto;
+  page-break-inside: auto;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  border-bottom: 1px solid #000;
+  break-inside: auto;
+}
+thead {
+  display: table-header-group;
+}
+td,
+th {
+  padding: 8px 16px;
+  page-break-inside: avoid;
+  border-bottom: 1px solid #000;
+}
+
+/* Blockquotes */
+blockquote {
+  border: 0;
+  border-left: 5px solid #bbb;
+  margin-left: 1px;
+  padding: 12px 1.5rem;
+}
+
+/* Form Elements */
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+}
+button,
+input {
+  overflow: visible;
+}
+button,
+select {
+  text-transform: none;
+}
+textarea {
+  overflow: auto;
+}
+
+/* ==========================================================================
+   3. PRINT SPECIFIC UTILITIES
+   ========================================================================== */
+@page {
+  size: letter;
+}
+
+/* Hide web-only elements */
+#wiki-navbar,
+#footer,
+#course-sidebar,
+#wiki-sidebar,
+#search,
+#breadcrumbs,
+#course-toc,
+#wiki-toc,
+#wiki-page-intro,
+#bdNavbar,
+#bdNavbarOffcanvasLabel,
+#backlinks-container,
+#bottom-prev-next,
+.bd-sidebar,
+.bd-toc,
+.bd-title,
+.d-none,
+.copy-code-button,
+.no-print {
+  display: none;
+}
+
+/* Force specific page breaks */
+.page-break,
+.break-before,
+.page-break-before,
+#printed-link-urls,
+#printed-urls-heading {
+  page-break-before: always;
+}
+.break-after,
+.page-break-after {
+  page-break-after: always;
+}
+.avoid-break-inside {
+  page-break-inside: avoid;
+}
+
+/* URL Display logic */
+.iframe-16-9-container a[href^="http"]:after,
+.video-card a[href^="http"]:after,
+.video-grid a[href^="http"]:after {
+  content: attr(href);
+  font-size: 75%;
+  display: inline-block;
+}
+a.no-reformat:after {
+  content: "";
+}
+
+/* Markdown Tables */
+.responsive-table-markdown {
+  margin: 0 auto 1rem auto;
+  overflow-x: auto;
+}
+.responsive-table-markdown > table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.responsive-table-markdown > table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.responsive-table-markdown > table td + td {
+  border-left: 1px solid #ccc;
+}
+.responsive-table-markdown > table tr + tr td {
+  border-top: 1px solid #ccc;
+}
+.responsive-table-markdown > table td,
+.responsive-table-markdown > table th {
+  padding: 1rem;
+}
+
+/* ==========================================================================
+   4. LAYOUT & IMAGES (SMART AUTO-LAYOUT)
+   ========================================================================== */
+
+/* Full Width Figures */
+figure,
+.wp-block-image {
+  display: block !important;
+  width: 100% !important;
+  margin: 0 0 2em 0 !important;
+  page-break-inside: avoid !important;
+  break-inside: avoid !important;
+}
+
+/* Image Safety */
+img {
+  width: auto !important;
+  height: auto !important;
+  max-width: 100% !important;
+  max-height: 75vh !important;
+  object-fit: contain !important;
+  page-break-after: auto;
+  page-break-inside: avoid;
+}
+
+figcaption {
+  display: block !important;
+  break-before: avoid !important;
+  font-size: 0.875rem;
+}
+
+/* Two-Column Simulation (Replaces the broken Grid) */
+.gallery-grid,
+.video-grid,
+.two-column-grid {
+  display: block !important;
+  font-size: 0; /* Eliminate whitespace gaps */
+  width: 100% !important;
+  padding: 0 !important;
+  margin-bottom: 1.5rem;
+}
+
+/* Grid Items */
+.gallery-grid > figure,
+.video-card {
+  display: inline-block !important;
+  vertical-align: top !important;
+  width: 48% !important;
+  margin: 1% !important;
+  font-size: 1rem !important; /* Restore font size */
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+/* The "Dangler" Rule: Last item (if odd) goes full width */
+.gallery-grid > figure:last-of-type:nth-of-type(odd),
+.video-card:last-of-type:nth-of-type(odd) {
+  display: block !important;
+  width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* ==========================================================================
+   5. CODE & PRE BLOCKS
+   ========================================================================== */
+pre,
+code,
+kbd {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+pre,
+code {
+  /* Force long lines to wrap */
+  white-space: pre-wrap !important;
+  word-wrap: break-word !important;
+  /* Clean look for print */
+  overflow: visible !important;
+  border: 1px solid #ddd !important;
+  background-color: #f5f5f5 !important;
+  break-inside: auto; /* Allow breaking over pages */
+}
+
+pre {
+  margin-bottom: 1.5rem;
+  padding: 10px 12px;
+}
+
+pre code {
+  border: 0 !important;
+}

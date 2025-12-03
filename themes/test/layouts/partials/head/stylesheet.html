@@ -7,7 +7,7 @@
 {{ $bootstrapCSS := resources.Get "scss/styles.scss" }}
 {{ $bootstrapCSS = $bootstrapCSS | css.Sass $options }}
 {{ $stylesCSS := resources.Get "css/styles.css" }}
-{{ $gutenbergCSS := resources.Get "css/gutenberg.css" | minify }}
+{{ $printCSS := resources.Get "css/print-css.css" | minify }}
 {{ $styles := slice $bootstrapCSS $stylesCSS | resources.Concat "css/main.css" }}
 
 {{ $styles = $styles | css.Sass $options | minify }}
@@ -18,4 +18,4 @@
 
 <link href="{{ $styles.RelPermalink }}" rel="stylesheet" media="screen" />
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
-<link href="{{ $gutenbergCSS.RelPermalink }}" rel="stylesheet" media="print" />
+<link href="{{ $printCSS.RelPermalink }}" rel="stylesheet" media="print" />
