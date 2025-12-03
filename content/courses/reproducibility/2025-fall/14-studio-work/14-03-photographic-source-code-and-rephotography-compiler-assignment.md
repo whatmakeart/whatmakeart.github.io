@@ -1,7 +1,7 @@
 ---
 title: 14.03 Photographic Source Code and Rephotography Compiler Assignment
 date: 2025-12-03T12:00:00
-lastmod: 2025-12-03T11:29:08
+lastmod: 2025-12-03T11:41:30
 ---
 
 ## Assignment Deliverables
@@ -58,8 +58,11 @@ Compare the source photo with the reproduced photo. Think about and be prepared 
 - Douglas Huebler [Variable Piece #70: Global 81](https://www.moma.org/collection/works/96221) 1973 - An attempt to document every living person on before the artist's death.
 - Sol LeWitt [Wall Drawings](https://massmoca.org/sol-lewitt/) - Drawings made from instructions written by the artist.
 - Yoko Ono [A Book of Intruction and Drawings by Yoko Ono](https://monoskop.org/images/archive/6/64/20190320203953%21Ono_Yoko_Grapefruit_A_Book_of_Instructions_and_Drawings_2000.pdf)
-
-## Grading Rubric
+- Hans Ulrich Obrist [do it (2013-)](https://curatorsintl.org/exhibitions/18072-do-it-2013) Uses written instructions by artists to create exhibitions.
+- Cory Arcangel [A Couple of Thousand Short Films about Glenn Gould](https://akeroydcollection.com/works/a-couple-of-thousand-short-films-about-glenn-gould) 2007 - Scripts use ffmpeg to stitch together videos from YouTue to recreate Johann Sebastian Bach's Goldberg Variations.
+  - [Source Code for work on GitHub](https://github.com/coryarcangel/Gould-Pro)
+- Carpenter, Elizabeth. [Be the Work Intersubjectivity in Tino Sehgal's \_This objective of that object](https://walkerart.org/collections/publications/performativity/be-the-work/) - Article examining the performance work of Tino Sehgal, and artist that creates experiences instead of objects. The work takes the form of instructions given to dancers to perform.
+- Lauren McCarthy [Follower](https://get-lauren.net/follower) - The artist follows all of the instructions commonly given to a digital assistant, such as Alexa, when the user uses the phrase "Lauren."
 
 <div class="responsive-table-markdown">
 
