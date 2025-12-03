@@ -1,7 +1,7 @@
 ---
 title: 04.00 Introduction
 date: 2025-09-17T12:00:00
-lastmod: 2025-09-17T13:08:01
+lastmod: 2025-12-03T07:26:29
 ---
 
 ## Overview
@@ -16,3 +16,7 @@ In the afternoon the class meets with the other course section take a survey.
 - Underglaze greenware slip casts
 - Clean up flashing from slip casts in preparation for bisquing
 - Consider methods of displaying multiples
+
+## Key Terms
+
+- firing

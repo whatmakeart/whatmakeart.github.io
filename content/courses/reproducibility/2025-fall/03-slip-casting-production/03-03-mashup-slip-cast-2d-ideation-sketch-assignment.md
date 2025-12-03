@@ -1,13 +1,13 @@
 ---
 title: 03.03 Mashup Slip Cast 2D Ideation Sketch Assignment
 date: 2025-09-10T12:00:00
-lastmod: 2025-09-10T11:51:56
+lastmod: 2025-12-03T07:26:29
 ---
 
 ## Assignment Deliverables
 
-1. Upload sketches to LMS as (`.png`, `.jpg`, `.pdf`)
-   - Label files YYYY-MM-DD Lastname Firstname Mashup Slip Cast 2d Ideation
+1. Upload sketches to LMS
+   - Label files YYYY-MM-DD Lastname Firstname Mashup Slip Cast 2D Ideation (`.png`, `.jpg`, `.pdf`)
 
 ## Assignment Overview
 

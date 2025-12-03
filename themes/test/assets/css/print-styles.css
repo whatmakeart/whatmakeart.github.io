@@ -337,31 +337,38 @@ figure,
 .wp-block-image {
   display: block;
   width: 100%;
-  margin: 0 0 2em 0;
+  margin: 0 0 1rem 0;
   break-inside: avoid;
 }
 
-/* 2. The Grid Container */
+/* 2. CMS CLEANUP: The "Phantom" Paragraph Fix */
+/* This removes the layout box of the p tag entirely. 
+   The img inside it will now act as if the p tag doesn't exist. */
+figure > p {
+  display: contents !important;
+}
+
+/* 3. The Grid Container */
 .gallery-grid,
 .video-grid,
 .two-column-grid {
   display: grid !important;
-  grid-template-columns: 1fr 1fr; /* Exactly two columns */
-  gap: 1rem;
+  grid-template-columns: 1fr 1fr;
+  /* gap: 0 row-gap, 1rem col-gap to prevent vertical spacing issues */
+  gap: 0 1rem;
   width: 100%;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 }
 
-/* 3. The Grid Items (Figure) - UPDATED FOR ALIGNMENT */
+/* 4. The Grid Items (Figure) */
 .gallery-grid > figure,
 .video-card {
   width: auto !important;
-  margin: 0 !important;
+  margin: 0 0 1rem 0 !important; /* Add bottom margin here since row-gap is 0 */
 
-  /* SUBGRID MAGIC: 
-     This forces the figure to span 2 rows (1 for image, 1 for caption).
-     It ensures the "Image Row" height is determined by the tallest image,
-     and the "Caption Row" starts at the exact same place for both items. */
+  /* SUBGRID: Spans 2 rows. 
+     Row 1 = Image
+     Row 2 = Caption */
   display: grid;
   grid-row: span 2;
   grid-template-rows: subgrid;
@@ -370,23 +377,39 @@ figure,
   page-break-inside: avoid;
 }
 
-/* 4. The "Dangler" Fix (Grid Version)
-   If the LAST item is an ODD number, make it span both columns. */
+/* 5. The "Dangler" Fix */
 .gallery-grid > figure:last-child:nth-child(odd),
 .video-card:last-child:nth-child(odd) {
   grid-column: 1 / -1;
+}
+
+/* 6. Image Alignment inside Subgrid */
+/* Note: Removed the '>' so it finds the img even if inside a p tag */
+.gallery-grid > figure img,
+.video-card img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+
+  /* ALIGNMENT: 
+     'start' = Top align (Captions might have gaps above them)
+     'end'   = Bottom align (Captions line up, image tops uneven) 
+  */
+  align-self: start;
+
+  margin-bottom: 0 !important;
 }
 
 /* ==========================================================================
    7. IMAGES & MEDIA
    ========================================================================== */
 
+/* General Image Reset */
 img {
   display: block;
   margin: 0 auto;
   width: auto;
   max-width: 100% !important;
-  /* Cap height to 75% of page so captions fit */
   max-height: 75vh;
   object-fit: contain;
   border-style: none;
@@ -395,13 +418,17 @@ img {
 }
 
 figcaption {
-  display: block;
-  margin-top: 0.5rem;
+  /* Add padding to prevent text hitting image if image is full height */
+  padding-top: 0.5rem;
   font-size: 0.875rem;
-  page-break-before: avoid; /* Keep caption with image */
+  page-break-before: avoid;
 }
 
-/* Specific Caption Styling for Lists */
+/* Remove your debug blue background here */
+.gallery-grid > figure > p {
+  background-color: transparent;
+}
+
 .gallery-grid > figure > figcaption > ul {
   font-size: 0.75rem;
   padding-left: 0;
