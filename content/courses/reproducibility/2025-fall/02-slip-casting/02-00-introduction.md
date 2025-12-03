@@ -1,7 +1,7 @@
 ---
 title: 02.00 Introduction
 date: 2025-09-03T12:00:00
-lastmod: 2025-09-03T09:34:18
+lastmod: 2025-12-03T06:44:49
 ---
 
 ## Overview
@@ -16,7 +16,7 @@ In preparation for making mock-up displays to ideate and visualize potential dis
 - Pull repeated casts from a mold
 - Create a textured 3D model of an object with photogrammetry
 - Render an image of a 3D model with virtual lighting
-- Examine reproducibility and found objects in art through reading _Readymade Remade - Pierre Pinoncelli and the legacy of Duchamp’s “fountains”_ by Leland de la Durantaye.
+- Examine reproducibility and found objects in art through reading [_Readymade Remade - Pierre Pinoncelli and the legacy of Duchamp’s “fountains”_](https://www.cabinetmagazine.org/issues/27/durantaye.php) by Leland de la Durantaye.
 
 ## Key Terms
 
