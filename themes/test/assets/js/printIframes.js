@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       if (youtubeID) {
         // Replace with YouTube thumbnail
-        const thumbnailURL = `https://img.youtube.com/vi/${youtubeID}/0.jpg`;
+        const thumbnailURL = `https://img.youtube.com/vi/${youtubeID}/maxresdefault.jpg`;
         const link = document.createElement("a");
         link.className = "replaced-video-thumbnail"; // Add class
         link.href = `https://www.youtube.com/watch?v=${youtubeID}`;
