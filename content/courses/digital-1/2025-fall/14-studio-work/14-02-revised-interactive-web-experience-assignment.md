@@ -1,7 +1,7 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-04T07:46:30
+lastmod: 2025-12-04T08:28:35
 ---
 
 ## Assignment Deliverables
@@ -29,9 +29,9 @@ Here are four categories of experiences you can build with GitHub Copilot and yo
 #### Interactive Narrative
 
 Instead of a game, create a story that advances as the user interacts. This is excellent for students who want to focus on illustration and voice-over. This could take the form of a digital comic book or poetry reader where the environment changes based on the user's progress.
-Scrolling down the page or clicking `Next` might advance the story.
+Scrolling down the page or clicking Next might advance the story.
 
-Backgrounds could fade from day to night or characters could change expressions as the mood shifts. Ambient noise such as rai or city traffic could fades in on certain sections. Specific voice over lines could play at specific moments.
+Backgrounds could fade from day to night or characters could change expressions as the mood shifts. Ambient noise such as rain or city traffic could fades in on certain sections. Specific voice over lines could play at specific moments.
 
 ### Process
 
@@ -84,6 +84,12 @@ These prompt patterns can be helpful for working with code or web projects.
 3. For Physics/Movement: "In script.js, create a gravity variable. Apply it to the square so it falls down. Stop it when it hits the bottom of the canvas."
 4. For Audio: "Create a function called playSound. It should take a file path as an argument. Use this function to play assets/music/loop.mp3 when the user clicks anywhere on the page."
 
+### Open Source Code Libraries to Mention in Prompts
+
+- Three.js
+- ml5.js
+- babylon.js
+
 ## Example Single Prompt Games
 
 These examples show how far a single prompt gan get to a complete project. Often the results from the initial prompt are quite good, other times the results are simple and underwhelming. Don't hesitate to redo the prompt and start over right away if you do not like the first results.
@@ -103,6 +109,7 @@ It can be helpful to use an LLM to expand on a prompt before using the prompt to
 [Prompt used to create prompt for Game:](./art-student-vs-ai-professor.html) `write a prompt that would create an amazing html game all about how a student hates that their art school professor is making them code with a large language model since the student hates generative ai`
 
 </figcaption>
+</figure>
 
 <figure>
 
