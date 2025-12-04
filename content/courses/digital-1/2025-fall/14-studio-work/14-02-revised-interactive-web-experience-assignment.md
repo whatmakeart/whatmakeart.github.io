@@ -1,7 +1,7 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-11-24T14:35:04
+lastmod: 2025-12-04T05:52:34
 ---
 
 ## Assignment Deliverables
@@ -14,3 +14,40 @@ lastmod: 2025-11-24T14:35:04
 ## Assignment Overview
 
 Make a list of things to change, remove, and add to your natural language coded web experience. Spend time creating original visual and auditory content to add to the site. Use natural language programming to change and improve the site based on your created list and peer feedback.
+
+### Process
+
+1. Spend minimum 1 hour creating original content. This includes recorded sounds, images sprites, vector graphics, text and story information, voice over, music, and any other type of experiential digital content made by you.
+2. Spend a minimum of 1 hour using Copilot in visual Studio code to create an interactive web experience. This could be a game, an abstract sequence of animations, a physics simulation, a poetry evaluator, or any other interaction that can occur via a webpage.
+3. Use your content in the webpage.
+4. Put sound files, image files, and video files into the folder of your project.
+5. Give instructions to copilot to use those specific files on your web program.
+
+## Assignment Resources
+
+- [GitHub Copilot Model Selection](../10-natural-language-programming/10-01-github-copilot-model-selection.md)
+- [Copilot Web Game](../10-natural-language-programming/10-03-copilot-web-game.md)
+- [Add Image Sprite](../10-natural-language-programming/10-05-add-image-sprite.md)
+
+### Sound Resources
+
+- [Create Sound Effect in Adobe Audition](https://youtu.be/UnGAhaMU9aU)
+- [Export MP3 from Adobe Audition](https://youtu.be/UwqosXZv2jE)
+- [Add Sound Effects with GitHub Copilot](https://youtu.be/TtZg2koyWuY)
+- [Set Audio Hardware Adobe Audition](https://youtu.be/CXCpECgCBVY)
+- [Create New Audio File Adobe Audition](https://youtu.be/o70n1NHDz8s)
+
+Example 1 Prompt Games
+`make a html single page game that has falling emoji that bound into each other and react with real physisc and gravity the play need to move around with out gettin hit they an press space to jump and have lots of parallax scrolling backroung`
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Screenshot Uploaded          | 60 points |
+| URL Submitted                | 30 points |
+| File Management and Labeling | 10 points |
+
+</div>

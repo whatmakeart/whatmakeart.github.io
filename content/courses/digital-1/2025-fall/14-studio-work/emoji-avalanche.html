@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Emoji Avalanche</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #87ceeb; /* Sky blue fallback */
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        user-select: none;
+      }
+      canvas {
+        display: block;
+      }
+      #ui-layer {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        color: white;
+        text-shadow: 2px 2px 0 #000;
+        pointer-events: none;
+      }
+      #score {
+        font-size: 24px;
+        font-weight: bold;
+      }
+      #game-over {
+        display: none;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        background: rgba(0, 0, 0, 0.8);
+        padding: 40px;
+        border-radius: 15px;
+        color: white;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+      }
+      button {
+        background: #ff4757;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 8px;
+        font-weight: bold;
+        transition: background 0.2s;
+      }
+      button:hover {
+        background: #ff6b81;
+      }
+      #controls-hint {
+        position: absolute;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        color: rgba(255, 255, 255, 0.8);
+        font-size: 14px;
+        text-shadow: 1px 1px 0 #000;
+        pointer-events: none;
+      }
+    </style>
+    <!-- Import Matter.js for physics -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
+  </head>
+  <body>
+    <div id="ui-layer">
+      <div id="score">Score: 0</div>
+    </div>
+
+    <div id="controls-hint">ARROWS to Move | SPACE to Jump</div>
+
+    <div id="game-over">
+      <h1 style="margin-top: 0;">OOF! 🤕</h1>
+      <p id="final-score">You survived for 0 seconds</p>
+      <button onclick="resetGame()">Try Again</button>
+    </div>
+
+    <script>
+      // --- Game Config ---
+      const EMOJI_LIST = [
+        "🍕",
+        "🏀",
+        "💣",
+        "🎱",
+        "🌵",
+        "🧱",
+        "🍩",
+        "📦",
+        "🗿",
+        "💎",
+        "🧊",
+        "🧨",
+      ];
+      const PLAYER_EMOJI = "😎";
+      const SPAWN_RATE = 60; // Frames between spawns
+
+      // --- Matter.js Aliases ---
+      const Engine = Matter.Engine,
+        Render = Matter.Render,
+        Runner = Matter.Runner,
+        Bodies = Matter.Bodies,
+        Composite = Matter.Composite,
+        Events = Matter.Events,
+        Body = Matter.Body,
+        Vector = Matter.Vector;
+
+      // --- Global Variables ---
+      let engine, runner;
+      let canvas, ctx;
+      let player;
+      let ground, leftWall, rightWall;
+      let gameActive = true;
+      let score = 0;
+      let frameCount = 0;
+      let keys = {
+        ArrowLeft: false,
+        ArrowRight: false,
+        Space: false,
+        ArrowUp: false,
+      };
+      let emojis = [];
+      let cameraX = 0;
+
+      // Parallax Background Assets (generated procedurally)
+      let mountains = [];
+      let clouds = [];
+
+      function init() {
+        // Setup Canvas
+        canvas = document.createElement("canvas");
+        ctx = canvas.getContext("2d");
+        document.body.appendChild(canvas);
+
+        resize();
+        window.addEventListener("resize", resize);
+
+        // Setup Physics Engine
+        engine = Engine.create();
+        engine.world.gravity.y = 1.2; // Slightly heavier gravity for better game feel
+
+        // Input Handling
+        window.addEventListener("keydown", (e) => {
+          if (e.code === "Space") keys.Space = true;
+          if (e.code === "ArrowUp") keys.Space = true; // Alt jump
+          if (e.code === "ArrowLeft") keys.ArrowLeft = true;
+          if (e.code === "ArrowRight") keys.ArrowRight = true;
+        });
+
+        window.addEventListener("keyup", (e) => {
+          if (e.code === "Space") keys.Space = false;
+          if (e.code === "ArrowUp") keys.Space = false;
+          if (e.code === "ArrowLeft") keys.ArrowLeft = false;
+          if (e.code === "ArrowRight") keys.ArrowRight = false;
+        });
+
+        // Start Game
+        resetGame();
+
+        // Render Loop
+        gameLoop();
+      }
+
+      function resize() {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+        if (gameActive) {
+          // If we resize, walls need to move, but for simplicity we keep the world boundaries fixed
+          // and just update the view. Realistically, we'd rebuild walls here.
+        }
+      }
+
+      function generateBackgrounds() {
+        mountains = [];
+        clouds = [];
+
+        // Generate Mountains
+        for (let i = 0; i < 20; i++) {
+          mountains.push({
+            x: Math.random() * 3000 - 1000,
+            y: window.innerHeight,
+            width: 300 + Math.random() * 500,
+            height: 200 + Math.random() * 400,
+            color: `hsl(${200 + Math.random() * 40}, 30%, ${
+              20 + Math.random() * 20
+            }%)`,
+            layer: Math.random() > 0.5 ? 1 : 2, // 1 is far, 2 is near
+          });
+        }
+
+        // Generate Clouds
+        for (let i = 0; i < 15; i++) {
+          clouds.push({
+            x: Math.random() * 3000 - 1000,
+            y: Math.random() * (window.innerHeight / 2),
+            size: 40 + Math.random() * 60,
+            speed: 0.2 + Math.random() * 0.5,
+          });
+        }
+      }
+
+      function resetGame() {
+        // Cleanup old world
+        Composite.clear(engine.world);
+        Engine.clear(engine);
+        emojis = [];
+        score = 0;
+        frameCount = 0;
+        gameActive = true;
+        cameraX = 0;
+
+        document.getElementById("game-over").style.display = "none";
+        document.getElementById("score").innerText = "Score: 0";
+
+        // Create Boundaries (The world is wider than the screen)
+        const groundY = window.innerHeight + 50;
+        const worldWidth = 4000;
+
+        ground = Bodies.rectangle(0, groundY, worldWidth * 2, 160, {
+          isStatic: true,
+          label: "ground",
+          friction: 0.8,
+        });
+
+        leftWall = Bodies.rectangle(-worldWidth / 2, 0, 100, 5000, {
+          isStatic: true,
+        });
+        rightWall = Bodies.rectangle(worldWidth / 2, 0, 100, 5000, {
+          isStatic: true,
+        });
+
+        // Create Player
+        player = Bodies.circle(0, window.innerHeight - 100, 25, {
+          label: "player",
+          friction: 0.05,
+          restitution: 0, // No bounce for player control
+          density: 0.005,
+        });
+
+        Composite.add(engine.world, [ground, leftWall, rightWall, player]);
+
+        // Collision Detection
+        Events.on(engine, "collisionStart", (event) => {
+          const pairs = event.pairs;
+          for (let i = 0; i < pairs.length; i++) {
+            const bodyA = pairs[i].bodyA;
+            const bodyB = pairs[i].bodyB;
+
+            // Check if player hit an emoji
+            if (
+              (bodyA.label === "player" && bodyB.label === "enemy") ||
+              (bodyB.label === "player" && bodyA.label === "enemy")
+            ) {
+              // Calculate impact velocity magnitude
+              // Only kill if the impact is significant to allow gentle pushing
+              const contactNormal = pairs[i].collision.normal;
+              // Simple death: touch enemy = die
+              gameOver();
+            }
+          }
+        });
+
+        generateBackgrounds();
+      }
+
+      function spawnEmoji() {
+        // Spawn around the player's x position so they can't just run away forever
+        const spawnX = player.position.x + (Math.random() * 1200 - 600);
+        const size = 20 + Math.random() * 25; // Random size
+
+        const emojiChar =
+          EMOJI_LIST[Math.floor(Math.random() * EMOJI_LIST.length)];
+
+        // Random polygon sides for physics variety (circle, square, hexagon)
+        let body;
+        const shapeType = Math.random();
+
+        if (shapeType < 0.33) {
+          body = Bodies.circle(spawnX, -100, size, {
+            restitution: 0.6, // Bouncy
+            label: "enemy",
+            friction: 0.005,
+          });
+        } else if (shapeType < 0.66) {
+          body = Bodies.rectangle(spawnX, -100, size * 2, size * 2, {
+            restitution: 0.3,
+            label: "enemy",
+          });
+        } else {
+          body = Bodies.polygon(
+            spawnX,
+            -100,
+            Math.floor(Math.random() * 5) + 3,
+            size,
+            {
+              restitution: 0.5,
+              label: "enemy",
+            }
+          );
+        }
+
+        body.render = { emoji: emojiChar, size: size };
+
+        emojis.push(body);
+        Composite.add(engine.world, body);
+
+        // Cleanup old emojis to keep performance up
+        if (emojis.length > 100) {
+          const removeMe = emojis.shift();
+          Composite.remove(engine.world, removeMe);
+        }
+      }
+
+      function updatePhysics() {
+        if (!gameActive) return;
+
+        // Player Movement
+        const speed = 0.015; // Force magnitude
+        const maxVelocity = 12;
+
+        if (keys.ArrowRight) {
+          if (player.velocity.x < maxVelocity)
+            Body.applyForce(player, player.position, { x: speed, y: 0 });
+        }
+        if (keys.ArrowLeft) {
+          if (player.velocity.x > -maxVelocity)
+            Body.applyForce(player, player.position, { x: -speed, y: 0 });
+        }
+
+        // Jumping
+        // Raycast check or simple velocity check for ground
+        if (keys.Space) {
+          // Only jump if moving downwards slowly or upwards slowly (near ground)
+          // A better way is collision active check, but for single file simple game:
+          // We just limit vertical velocity checks
+          if (Math.abs(player.velocity.y) < 0.5) {
+            Body.applyForce(player, player.position, { x: 0, y: -0.45 });
+            // Prevent bunny hopping by requiring key lift (handled by key listener normally, but simple logic here)
+          }
+        }
+
+        // Spawning
+        frameCount++;
+        // Spawn faster as score increases
+        const currentSpawnRate = Math.max(
+          10,
+          SPAWN_RATE - Math.floor(score / 100)
+        );
+        if (frameCount % currentSpawnRate === 0) {
+          spawnEmoji();
+        }
+
+        // Score
+        if (frameCount % 60 === 0) {
+          score += 10;
+          document.getElementById("score").innerText = `Score: ${score}`;
+        }
+
+        // Update Engine
+        Engine.update(engine, 1000 / 60);
+
+        // Camera Logic (Smooth follow)
+        // Target X is player X, but we offset it to center screen
+        const targetCamX = player.position.x - window.innerWidth / 2;
+        cameraX += (targetCamX - cameraX) * 0.1; // Lerp factor
+      }
+
+      function draw() {
+        // Clear Canvas
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        // 1. Sky Gradient
+        const gradient = ctx.createLinearGradient(0, 0, 0, canvas.height);
+        gradient.addColorStop(0, "#87CEEB");
+        gradient.addColorStop(1, "#E0F7FA");
+        ctx.fillStyle = gradient;
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+        // 2. Parallax Backgrounds
+
+        // Layer 1: Far Mountains (Moves slow: 0.1)
+        ctx.save();
+        ctx.translate(-cameraX * 0.1, 0);
+        mountains.forEach((m) => {
+          if (m.layer === 1) {
+            ctx.fillStyle = m.color;
+            ctx.beginPath();
+            ctx.moveTo(m.x, m.y);
+            ctx.lineTo(m.x + m.width / 2, m.y - m.height);
+            ctx.lineTo(m.x + m.width, m.y);
+            ctx.fill();
+          }
+        });
+        ctx.restore();
+
+        // Clouds (Move independently + parallax)
+        ctx.save();
+        ctx.translate(-cameraX * 0.2, 0); // Clouds parallax
+        clouds.forEach((c) => {
+          c.x += c.speed; // Drift
+          if (c.x > cameraX + window.innerWidth + 1000) c.x -= 3000; // Wrap around relative to world is hard, simplified wrapping:
+
+          ctx.fillStyle = "rgba(255, 255, 255, 0.8)";
+          ctx.beginPath();
+          ctx.arc(c.x, c.y, c.size, 0, Math.PI * 2);
+          ctx.arc(
+            c.x + c.size * 0.7,
+            c.y - c.size * 0.5,
+            c.size * 0.8,
+            0,
+            Math.PI * 2
+          );
+          ctx.arc(c.x + c.size * 1.2, c.y, c.size * 0.6, 0, Math.PI * 2);
+          ctx.fill();
+        });
+        ctx.restore();
+
+        // Layer 2: Near Hills (Moves faster: 0.3)
+        ctx.save();
+        ctx.translate(-cameraX * 0.3, 0);
+        mountains.forEach((m) => {
+          if (m.layer === 2) {
+            ctx.fillStyle = m.color; // Darker hills
+            ctx.beginPath();
+            ctx.moveTo(m.x, m.y);
+            ctx.ellipse(
+              m.x + m.width / 2,
+              m.y,
+              m.width / 2,
+              m.height,
+              0,
+              0,
+              Math.PI,
+              true
+            );
+            ctx.fill();
+          }
+        });
+        ctx.restore();
+
+        // 3. Game World (Moves 1:1 with camera)
+        ctx.save();
+        ctx.translate(-cameraX, 0);
+
+        // Draw Ground
+        ctx.fillStyle = "#4CAF50";
+        ctx.fillRect(
+          ground.position.x - 4000,
+          ground.position.y - 80,
+          8000,
+          160
+        );
+        // Grass details
+        ctx.fillStyle = "#388E3C";
+        ctx.fillRect(
+          ground.position.x - 4000,
+          ground.position.y - 80,
+          8000,
+          20
+        );
+
+        // Draw Emojis
+        ctx.textAlign = "center";
+        ctx.textBaseline = "middle";
+
+        emojis.forEach((body) => {
+          const { x, y } = body.position;
+          const angle = body.angle;
+          const size = body.render.size;
+
+          ctx.save();
+          ctx.translate(x, y);
+          ctx.rotate(angle);
+          ctx.font = `${size * 2}px Arial`;
+          ctx.fillText(body.render.emoji, 0, 0);
+          // Debug circle
+          // ctx.strokeStyle = "red"; ctx.beginPath(); ctx.arc(0,0,size,0,6.28); ctx.stroke();
+          ctx.restore();
+        });
+
+        // Draw Player
+        const pX = player.position.x;
+        const pY = player.position.y;
+        ctx.save();
+        ctx.translate(pX, pY);
+        // Lean into movement
+        ctx.rotate(player.velocity.x * 0.05);
+        ctx.font = "50px Arial";
+        ctx.fillText(PLAYER_EMOJI, 0, 0);
+        ctx.restore();
+
+        ctx.restore(); // End Game World
+      }
+
+      function gameLoop() {
+        updatePhysics();
+        draw();
+        requestAnimationFrame(gameLoop);
+      }
+
+      function gameOver() {
+        gameActive = false;
+        document.getElementById(
+          "final-score"
+        ).innerText = `You scored ${score} points!`;
+        document.getElementById("game-over").style.display = "block";
+      }
+
+      // Initialize
+      window.onload = init;
+    </script>
+  </body>
+</html>
