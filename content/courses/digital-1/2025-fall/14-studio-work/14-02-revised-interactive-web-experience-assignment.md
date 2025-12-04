@@ -1,7 +1,7 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-04T06:03:08
+lastmod: 2025-12-04T06:18:35
 ---
 
 ## Assignment Deliverables
@@ -42,8 +42,17 @@ Make a list of things to change, remove, and add to your natural language coded 
 - [Set Audio Hardware Adobe Audition](https://youtu.be/CXCpECgCBVY)
 - [Create New Audio File Adobe Audition](https://youtu.be/o70n1NHDz8s)
 
-Example 1 Prompt Games
-`make a html single page game that has falling emoji that bound into each other and react with real physisc and gravity the play need to move around with out gettin hit they an press space to jump and have lots of parallax scrolling backroung`
+## Example 1 Prompt Games
+
+<div class="gallery-grid">
+
+[![Emoji Avalanche Game](./2025-12-04-emoji-avalanche-single-prompt-game-whatmakeart.jpg)](./emoji-avalanche.html)
+
+`make a html single page game that has falling emoji that bound into each other and react with real physics and gravity the play need to move around with out getting hit they an press space to jump and have lots of parallax scrolling background`
+
+[![Emoji Avalanche Game](./2025-12-04-emoji-avalanche-single-prompt-game-whatmakeart.jpg)](../emoji-avalanche.html)
+
+</div>
 
 ## Grading Rubric
 
