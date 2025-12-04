@@ -1,7 +1,7 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-04T05:52:34
+lastmod: 2025-12-04T05:57:03
 ---
 
 ## Assignment Deliverables
@@ -12,6 +12,10 @@ lastmod: 2025-12-04T05:52:34
    - Label file YYYY-MM-DD Lastname Firstname revised interactive web experience url (`.png`, `.jpg`, `.mp4`)
 
 ## Assignment Overview
+
+Move beyond the "prototype" phase of the previous natural language programming assignment. Similar to the development of creative, artistic work,software development is rarely one and done. It requires iteration, refinement, and the integration of bespoke artist created assets such as imagery, animation, and sound.
+
+In this assignment, you will take your existing natural language coded web experience, or start a completely fresh project, and replace placeholder elements such as colored rectangles, blank background, and basic beeps with original content created by you. You will continue to use GitHub Copilot in Visual Studio Code to implement these changes, focusing on how to prompt an Large Language Model or "AI" to handle external files and assets.
 
 Make a list of things to change, remove, and add to your natural language coded web experience. Spend time creating original visual and auditory content to add to the site. Use natural language programming to change and improve the site based on your created list and peer feedback.
 
