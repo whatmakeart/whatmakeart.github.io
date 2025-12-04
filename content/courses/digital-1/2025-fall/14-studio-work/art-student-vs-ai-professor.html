@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Art School vs The Algorithm</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Permanent+Marker&display=swap");
+
+      body {
+        overflow: hidden;
+        background-color: #f0f0f0;
+        touch-action: none;
+        font-family: "Permanent Marker", cursive;
+      }
+
+      #game-container {
+        position: relative;
+        width: 100vw;
+        height: 100vh;
+        overflow: hidden;
+      }
+
+      canvas {
+        display: block;
+      }
+
+      .sketch-border {
+        border: 3px solid #333;
+        border-radius: 2px 255px 3px 25px / 255px 5px 225px 5px;
+        box-shadow: 5px 5px 0px rgba(0, 0, 0, 0.2);
+        background: #fffdf5;
+      }
+
+      .terminal-text {
+        font-family: "Courier Prime", monospace;
+        color: #00ff00;
+        text-shadow: 0 0 5px #00ff00;
+      }
+
+      .ui-layer {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: 20px;
+      }
+
+      #start-screen,
+      #game-over-screen,
+      #win-screen {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.85);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        z-index: 50;
+        pointer-events: auto;
+        backdrop-filter: blur(5px);
+      }
+
+      .hidden {
+        display: none !important;
+      }
+
+      /* Glitch effect for game over */
+      .glitch {
+        position: relative;
+      }
+
+      .btn {
+        background: #ff4757;
+        color: white;
+        padding: 15px 40px;
+        font-size: 1.5rem;
+        border: none;
+        cursor: pointer;
+        transform: rotate(-2deg);
+        transition: transform 0.2s;
+        font-family: "Permanent Marker", cursive;
+      }
+
+      .btn:hover {
+        transform: rotate(2deg) scale(1.1);
+      }
+
+      .buzzword {
+        position: absolute;
+        color: #00ff00;
+        font-family: "Courier Prime", monospace;
+        font-size: 1.2rem;
+        pointer-events: none;
+        animation: floatUp 2s ease-out forwards;
+        text-shadow: 0 0 2px black;
+        background: rgba(0, 0, 0, 0.7);
+        padding: 2px 5px;
+      }
+
+      @keyframes floatUp {
+        0% {
+          opacity: 1;
+          transform: translateY(0);
+        }
+        100% {
+          opacity: 0;
+          transform: translateY(-50px);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="game-container">
+      <canvas id="gameCanvas"></canvas>
+
+      <!-- UI Overlay -->
+      <div class="ui-layer">
+        <div class="flex justify-between w-full">
+          <div class="sketch-border p-4 text-xl">
+            <span class="text-gray-600">Soul Meter:</span>
+            <div class="w-48 h-6 border-2 border-black mt-1 relative">
+              <div
+                id="soul-bar"
+                class="h-full bg-gradient-to-r from-orange-400 to-red-500 w-full transition-all duration-200"
+              ></div>
+            </div>
+          </div>
+          <div class="sketch-border p-4 text-xl">
+            <span>Time Until Dropout:</span>
+            <span id="timer" class="text-red-600 text-2xl">60</span>
+            s
+          </div>
+        </div>
+
+        <div
+          id="dialogue-box"
+          class="self-center mb-10 sketch-border p-6 bg-white max-w-2xl text-center hidden transform rotate-1"
+        >
+          <h3 class="text-purple-600 text-lg font-bold mb-1">
+            Prof. Techbro says:
+          </h3>
+          <p id="dialogue-text" class="text-2xl terminal-text bg-black p-2">
+            "Why paint? Just prompt it!"
+          </p>
+        </div>
+      </div>
+
+      <!-- Start Screen -->
+      <div id="start-screen">
+        <h1
+          class="text-6xl text-white mb-4 text-center transform -rotate-3"
+          style="text-shadow: 4px 4px 0 #ff4757;"
+        >
+          Save Your Soul
+        </h1>
+        <p class="text-xl text-gray-300 mb-8 max-w-md text-center">
+          Prof. Techbro is forcing you to use an LLM for your final project.
+          <br />
+          <br />
+          Dodge the
+          <span class="text-green-400 font-mono">CODE</span>
+          . Collect the
+          <span class="text-orange-400">ART SUPPLIES</span>
+          .
+          <br />
+          Don't let him optimize your creativity.
+        </p>
+        <button class="btn sketch-border" onclick="startGame()">
+          Refuse Syllabus
+        </button>
+      </div>
+
+      <!-- Game Over Screen -->
+      <div id="game-over-screen" class="hidden">
+        <h1 class="text-5xl text-green-500 mb-4 font-mono">
+          FATAL ERROR: SOUL NOT FOUND
+        </h1>
+        <p class="text-xl text-gray-400 mb-8 font-mono">
+          > You have become a Prompt Engineer.
+          <br />
+          > Creativity.exe has stopped working.
+        </p>
+        <button class="btn sketch-border" onclick="resetGame()">
+          Re-Enroll
+        </button>
+      </div>
+
+      <!-- Win Screen -->
+      <div id="win-screen" class="hidden">
+        <h1 class="text-6xl text-yellow-400 mb-4 transform rotate-3">
+          YOU DID IT!
+        </h1>
+        <p class="text-2xl text-white mb-8 text-center">
+          You smashed the computer and opened a small artisanal bakery.
+          <br />
+          The bread is real. The art is safe.
+        </p>
+        <button class="btn sketch-border" onclick="resetGame()">
+          Play Again
+        </button>
+      </div>
+    </div>
+
+    <script>
+      const canvas = document.getElementById("gameCanvas");
+      const ctx = canvas.getContext("2d");
+      const soulBar = document.getElementById("soul-bar");
+      const timerDisplay = document.getElementById("timer");
+      const dialogueBox = document.getElementById("dialogue-box");
+      const dialogueText = document.getElementById("dialogue-text");
+
+      // Game State
+      let gameLoopId;
+      let width, height;
+      let frame = 0;
+      let score = 100; // Soul
+      let timeLeft = 60;
+      let isPlaying = false;
+      let mouseX = 0;
+      let mouseY = 0;
+
+      // Buzzwords
+      const insults = [
+        "Optimize your workflow!",
+        "It's democratizing art!",
+        "Just fix the fingers later!",
+        "Scale your output!",
+        "Prompt Engineering is the new oil!",
+        "Why draw when you can generate?",
+        "Think of the efficiency!",
+        "It's not stealing, it's learning!",
+        "Adapt or die!",
+        "Look at the synergy!",
+      ];
+
+      // Assets (Drawn programmatically or Emojis)
+      const playerEmoji = "🎨";
+      const enemyEmojis = ["{ }", "</>", "404", "NaN", "0101"];
+      const collectibleEmojis = ["✏️", "🖍️", "🖌️", "🖼️"];
+      const profEmoji = "🤖";
+
+      // Entities
+      let player = { x: 0, y: 0, size: 40 };
+      let enemies = [];
+      let particles = [];
+      let collectibles = [];
+      let professor = { x: 0, y: 50, targetX: 0, phase: 0 };
+
+      function resize() {
+        width = window.innerWidth;
+        height = window.innerHeight;
+        canvas.width = width;
+        canvas.height = height;
+      }
+      window.addEventListener("resize", resize);
+      resize();
+
+      // Input Handling
+      document.addEventListener("mousemove", (e) => {
+        mouseX = e.clientX;
+        mouseY = e.clientY;
+      });
+
+      document.addEventListener(
+        "touchmove",
+        (e) => {
+          e.preventDefault();
+          mouseX = e.touches[0].clientX;
+          mouseY = e.touches[0].clientY;
+        },
+        { passive: false }
+      );
+
+      class Enemy {
+        constructor() {
+          this.x = professor.x + (Math.random() * 100 - 50);
+          this.y = professor.y + 40;
+          this.speedY = 3 + Math.random() * 4;
+          this.speedX = (Math.random() - 0.5) * 3;
+          this.text =
+            enemyEmojis[Math.floor(Math.random() * enemyEmojis.length)];
+          this.size = 20 + Math.random() * 15;
+          this.rotation = Math.random() * Math.PI;
+          this.rotSpeed = (Math.random() - 0.5) * 0.1;
+        }
+
+        update() {
+          this.y += this.speedY;
+          this.x += this.speedX;
+          this.rotation += this.rotSpeed;
+        }
+
+        draw() {
+          ctx.save();
+          ctx.translate(this.x, this.y);
+          ctx.rotate(this.rotation);
+          ctx.font = `bold ${this.size}px 'Courier Prime'`;
+          ctx.fillStyle = "#00ff00";
+          ctx.shadowBlur = 5;
+          ctx.shadowColor = "#00ff00";
+          ctx.fillText(this.text, -this.size / 2, this.size / 2);
+          ctx.restore();
+        }
+      }
+
+      class Collectible {
+        constructor() {
+          this.x = Math.random() * width;
+          this.y = -50;
+          this.speed = 2 + Math.random() * 2;
+          this.text =
+            collectibleEmojis[
+              Math.floor(Math.random() * collectibleEmojis.length)
+            ];
+          this.size = 30;
+          this.wobble = Math.random() * Math.PI * 2;
+        }
+
+        update() {
+          this.y += this.speed;
+          this.wobble += 0.1;
+          this.x += Math.sin(this.wobble) * 1;
+        }
+
+        draw() {
+          ctx.font = `${this.size}px serif`;
+          ctx.shadowBlur = 0;
+          ctx.fillText(this.text, this.x - 15, this.y + 15);
+        }
+      }
+
+      class PaintParticle {
+        constructor(x, y, color) {
+          this.x = x;
+          this.y = y;
+          this.color = color;
+          this.size = Math.random() * 10 + 5;
+          this.life = 100;
+          this.speedX = (Math.random() - 0.5) * 2;
+          this.speedY = (Math.random() - 0.5) * 2;
+        }
+        update() {
+          this.life -= 1;
+          this.x += this.speedX;
+          this.y += this.speedY;
+          this.size *= 0.95;
+        }
+        draw() {
+          ctx.fillStyle = this.color;
+          ctx.beginPath();
+          ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+          ctx.fill();
+        }
+      }
+
+      function createBuzzword(x, y) {
+        const el = document.createElement("div");
+        el.className = "buzzword";
+        el.innerText = insults[Math.floor(Math.random() * insults.length)];
+        el.style.left = x + "px";
+        el.style.top = y + "px";
+        document.body.appendChild(el);
+        setTimeout(() => el.remove(), 2000);
+      }
+
+      function startGame() {
+        document.getElementById("start-screen").classList.add("hidden");
+        document.getElementById("game-over-screen").classList.add("hidden");
+        document.getElementById("win-screen").classList.add("hidden");
+        score = 100;
+        timeLeft = 60;
+        enemies = [];
+        collectibles = [];
+        particles = [];
+        isPlaying = true;
+        frame = 0;
+
+        // Start Timer
+        const timerInterval = setInterval(() => {
+          if (!isPlaying) {
+            clearInterval(timerInterval);
+            return;
+          }
+          timeLeft--;
+          timerDisplay.innerText = timeLeft;
+          if (timeLeft <= 0) {
+            winGame();
+          }
+        }, 1000);
+
+        // Start Dialogue Loop
+        const dialogueInterval = setInterval(() => {
+          if (!isPlaying) {
+            clearInterval(dialogueInterval);
+            return;
+          }
+          showDialogue();
+        }, 5000);
+
+        gameLoop();
+      }
+
+      function showDialogue() {
+        dialogueBox.classList.remove("hidden");
+        dialogueText.innerText =
+          insults[Math.floor(Math.random() * insults.length)];
+        // Play harsh synth sound (simulated)
+        setTimeout(() => {
+          dialogueBox.classList.add("hidden");
+        }, 2500);
+      }
+
+      function winGame() {
+        isPlaying = false;
+        document.getElementById("win-screen").classList.remove("hidden");
+      }
+
+      function gameOver() {
+        isPlaying = false;
+        document.getElementById("game-over-screen").classList.remove("hidden");
+      }
+
+      function resetGame() {
+        startGame();
+      }
+
+      function gameLoop() {
+        if (!isPlaying) return;
+
+        ctx.clearRect(0, 0, width, height);
+
+        // Draw Paper Texture Background
+        ctx.fillStyle = "#fffdf5";
+        ctx.fillRect(0, 0, width, height);
+
+        // Draw Grid (Terminal style) at bottom
+        ctx.strokeStyle = "rgba(0, 255, 0, 0.1)";
+        ctx.lineWidth = 1;
+        for (let i = 0; i < width; i += 40) {
+          ctx.beginPath();
+          ctx.moveTo(i, height / 2);
+          ctx.lineTo(i, height);
+          ctx.stroke();
+        }
+
+        // Update Player (Lerp towards mouse)
+        player.x += (mouseX - player.x) * 0.2;
+        player.y += (mouseY - player.y) * 0.2;
+
+        // Draw Player Trail
+        if (frame % 3 === 0) {
+          particles.push(
+            new PaintParticle(
+              player.x,
+              player.y,
+              `hsl(${frame % 360}, 70%, 50%)`
+            )
+          );
+        }
+
+        // Update Professor AI
+        professor.targetX = player.x;
+        professor.x += (professor.targetX - professor.x) * 0.05;
+        professor.y = 80 + Math.sin(frame * 0.05) * 20;
+
+        // Draw Professor
+        ctx.font = "80px serif";
+        ctx.textAlign = "center";
+        ctx.textBaseline = "middle";
+        ctx.fillText(profEmoji, professor.x, professor.y);
+
+        // Spawn Enemies
+        if (frame % 20 === 0) {
+          enemies.push(new Enemy());
+        }
+
+        // Spawn Collectibles
+        if (frame % 60 === 0) {
+          collectibles.push(new Collectible());
+        }
+
+        // Update & Draw Particles (The Art)
+        particles.forEach((p, index) => {
+          p.update();
+          p.draw();
+          if (p.life <= 0) particles.splice(index, 1);
+        });
+
+        // Update & Draw Enemies
+        enemies.forEach((e, index) => {
+          e.update();
+          e.draw();
+
+          // Collision with Player
+          const dx = player.x - e.x;
+          const dy = player.y - e.y;
+          const dist = Math.sqrt(dx * dx + dy * dy);
+
+          if (dist < player.size) {
+            score -= 10;
+            enemies.splice(index, 1);
+            createBuzzword(player.x, player.y);
+            // Camera shake effect
+            ctx.translate(Math.random() * 10 - 5, Math.random() * 10 - 5);
+            setTimeout(() => ctx.setTransform(1, 0, 0, 1, 0, 0), 50);
+          }
+
+          if (e.y > height) enemies.splice(index, 1);
+        });
+
+        // Update & Draw Collectibles
+        collectibles.forEach((c, index) => {
+          c.update();
+          c.draw();
+
+          const dx = player.x - c.x;
+          const dy = player.y - c.y;
+          const dist = Math.sqrt(dx * dx + dy * dy);
+
+          if (dist < player.size + 10) {
+            score = Math.min(100, score + 15);
+            collectibles.splice(index, 1);
+            // Sparkle effect
+            for (let i = 0; i < 5; i++) {
+              particles.push(new PaintParticle(player.x, player.y, "#ffd700"));
+            }
+          }
+
+          if (c.y > height) collectibles.splice(index, 1);
+        });
+
+        // Draw Player
+        ctx.font = "50px serif";
+        ctx.fillText(playerEmoji, player.x, player.y);
+
+        // Update UI
+        soulBar.style.width = score + "%";
+        if (score < 30) soulBar.classList.add("animate-pulse");
+        else soulBar.classList.remove("animate-pulse");
+
+        if (score <= 0) {
+          gameOver();
+          return;
+        }
+
+        frame++;
+        gameLoopId = requestAnimationFrame(gameLoop);
+      }
+
+      // Initial setup
+      resize();
+    </script>
+  </body>
+</html>
