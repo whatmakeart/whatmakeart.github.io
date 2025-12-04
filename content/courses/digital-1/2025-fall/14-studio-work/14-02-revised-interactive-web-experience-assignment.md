@@ -1,7 +1,7 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-04T07:05:06
+lastmod: 2025-12-04T07:21:12
 ---
 
 ## Assignment Deliverables
@@ -71,8 +71,11 @@ Backgrounds could fade from day to night or characters could change expressions 
 
 1. When building non-game experiences, focusing on _States_ rather than _Scores_ can be a useful conceptual framework. Are you in the state of sleeping or eating breakfast? Studying or waterskiing? A prompt for a game might read `Add 1 to score when clicked.` while a prompt for an experience might read `Switch the state from calm to chaos when clicked. In the chaos state, shake the images and play a loud noise.`
 2. Sometimes Copilot hallucinates, makes up code that doesn't exist, or gets stuck in a loop Delete the last block of code it gave you and rephrase your request. Make sure the file you are referencing, the `index.html` or `styles.css` is actually open in a tab in Visual Studio Code so Copilot sees the context. Sometimes the classic IT trick of turning it off and on again by reloading the Visual Studio Code window helps clear the context.
+3. When things break, and they will, don't panic. Look at the error message, or describe what is happening such as "The screen is blank". Try to be descriptive and precise. Often just pasting in the error message is enough to get it working. Example prompts for fixing errors:
+   - ` The screen is white and nothing is loading. Here is my code. What is wrong?`
+   - `I pasted this code but the image shows a broken icon. Check if the file path to 'assets/image.png' is correct in the code.`
 
-#### Useful Prompts for this Assignment
+### Useful Prompts for this Assignment
 
 These prompt patterns can be helpful for working with code or web projects.
 
@@ -82,6 +85,10 @@ These prompt patterns can be helpful for working with code or web projects.
 4. For Audio: "Create a function called playSound. It should take a file path as an argument. Use this function to play assets/music/loop.mp3 when the user clicks anywhere on the page."
 
 ## Example Single Prompt Games
+
+These examples show how far a single prompt gan get to a complete project. Often the results from the initial prompt are quite good, other times the results are simple and underwhelming. Don't hesitate to redo the prompt and start over right away if you do not like the first results.
+
+The key objective is to take the mediocre initial output and improve it through the addition of original content and creative direction by you. Anyone can write a prompt, how you make the results better, more unique, and polished will make your work stand out and be desired.
 
 <div class="gallery-grid">
 
