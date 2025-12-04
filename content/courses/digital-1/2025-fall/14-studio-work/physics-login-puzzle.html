@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Physics Login Verification</title>
+    <!-- Import Matter.js for physics simulation -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
+    <style>
+      :root {
+        --primary: #6366f1;
+        --bg: #0f172a;
+        --surface: #1e293b;
+        --text: #f8fafc;
+        --success: #22c55e;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: var(--bg);
+        color: var(--text);
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        overflow: hidden;
+      }
+
+      #app-container {
+        text-align: center;
+        position: relative;
+        width: 100%;
+        max-width: 800px;
+      }
+
+      /* Login Form Styles (Visual only until unlocked) */
+      .login-box {
+        background: var(--surface);
+        padding: 2rem;
+        border-radius: 12px;
+        box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+        margin-bottom: 2rem;
+        display: inline-block;
+        transition: all 0.5s ease;
+      }
+
+      h1 {
+        margin-top: 0;
+        font-size: 1.5rem;
+        color: var(--primary);
+      }
+      p {
+        color: #94a3b8;
+        margin-bottom: 1.5rem;
+      }
+
+      input {
+        display: block;
+        width: 250px;
+        padding: 10px;
+        margin: 10px auto;
+        border-radius: 6px;
+        border: 1px solid #334155;
+        background: #0f172a;
+        color: white;
+        outline: none;
+      }
+
+      button#dummy-login {
+        background: #334155;
+        color: #94a3b8;
+        padding: 10px 30px;
+        border: none;
+        border-radius: 6px;
+        margin-top: 10px;
+        cursor: not-allowed;
+        font-weight: bold;
+      }
+
+      /* The Puzzle Container */
+      #puzzle-wrapper {
+        position: relative;
+        margin: 0 auto;
+        border: 2px solid #334155;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 0 20px rgba(99, 102, 241, 0.1);
+        width: 600px; /* Fixed width for physics consistency */
+        height: 400px;
+        background: #000;
+      }
+
+      canvas {
+        display: block;
+      }
+
+      .instructions {
+        margin-top: 1rem;
+        font-size: 0.9rem;
+        color: #fbbf24;
+        font-weight: bold;
+        animation: pulse 2s infinite;
+      }
+
+      /* Success Overlay */
+      #success-screen {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: var(--success);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 1000;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 1s ease-in-out;
+      }
+
+      #success-screen.visible {
+        opacity: 1;
+        pointer-events: all;
+      }
+
+      #success-text {
+        font-size: 8rem;
+        font-weight: 900;
+        color: white;
+        text-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        text-transform: uppercase;
+        text-align: center;
+        transform: scale(0.5);
+        transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      }
+
+      #success-screen.visible #success-text {
+        transform: scale(1);
+      }
+
+      @keyframes pulse {
+        0% {
+          opacity: 0.8;
+        }
+        50% {
+          opacity: 1;
+        }
+        100% {
+          opacity: 0.8;
+        }
+      }
+
+      /* Responsive tweak for mobile */
+      @media (max-width: 650px) {
+        #puzzle-wrapper {
+          width: 95vw;
+          height: 60vw;
+        }
+        #success-text {
+          font-size: 4rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app-container">
+      <!-- Fake Login Form -->
+      <div class="login-box" id="login-form">
+        <h1>Security Check</h1>
+        <p>Please complete the puzzle below to verify humanity.</p>
+        <input type="text" placeholder="Username" disabled />
+        <input type="password" placeholder="Password" disabled />
+        <button id="dummy-login" disabled>LOCKED</button>
+      </div>
+
+      <!-- Physics Canvas Area -->
+      <div id="puzzle-wrapper"></div>
+      <div class="instructions">
+        DRAG the 3 ORANGE BOXES into the GREEN ZONE to unlock.
+      </div>
+    </div>
+
+    <!-- Hidden Success Screen -->
+    <div id="success-screen">
+      <div id="success-text">
+        YOU
+        <br />
+        DID
+        <br />
+        IT!
+      </div>
+    </div>
+
+    <script>
+      // --- Matter.js Aliases ---
+      const Engine = Matter.Engine,
+        Render = Matter.Render,
+        Runner = Matter.Runner,
+        Bodies = Matter.Bodies,
+        Composite = Matter.Composite,
+        Events = Matter.Events,
+        Mouse = Matter.Mouse,
+        MouseConstraint = Matter.MouseConstraint;
+
+      // --- Setup ---
+      const width = 600;
+      const height = 400;
+
+      // Create engine
+      const engine = Engine.create();
+      const world = engine.world;
+
+      // Slightly lower gravity for "floaty" space feel
+      engine.gravity.y = 0.8;
+
+      // Create renderer
+      const container = document.getElementById("puzzle-wrapper");
+      const render = Render.create({
+        element: container,
+        engine: engine,
+        options: {
+          width: width,
+          height: height,
+          background: "#0f172a",
+          wireframes: false, // Use solid colors
+          showAngleIndicator: false,
+        },
+      });
+
+      // --- Game Objects ---
+
+      // 1. Boundaries (Walls)
+      const wallOptions = {
+        isStatic: true,
+        render: { fillStyle: "#334155" },
+      };
+      const walls = [
+        Bodies.rectangle(width / 2, height + 25, width, 50, wallOptions), // Bottom
+        Bodies.rectangle(width / 2, -25, width, 50, wallOptions), // Top
+        Bodies.rectangle(width + 25, height / 2, 50, height, wallOptions), // Right
+        Bodies.rectangle(-25, height / 2, 50, height, wallOptions), // Left
+      ];
+
+      // 2. The Target Zone (Visual representation + logic coordinates)
+      // We want the right side (last 150px) to be the "Safe Zone"
+      const zoneXStart = width - 150;
+      const zoneYStart = 50;
+      const zoneHeight = height - 100;
+
+      // We add a sensor body just for visuals (transparent green)
+      const targetZone = Bodies.rectangle(
+        zoneXStart + 75, // center x
+        height / 2, // center y
+        150, // width
+        height, // height
+        {
+          isStatic: true,
+          isSensor: true, // Objects pass through it
+          render: {
+            fillStyle: "#22c55e",
+            opacity: 0.2,
+          },
+        }
+      );
+
+      // 3. The "Key" Objects (Orange Boxes)
+      // Users must drag these into the zone
+      const keyObjects = [];
+      for (let i = 0; i < 3; i++) {
+        const box = Bodies.rectangle(100, 100 + i * 80, 50, 50, {
+          restitution: 0.5, // Bouncy
+          friction: 0.05,
+          density: 0.04,
+          render: {
+            fillStyle: "#f97316", // Orange
+            strokeStyle: "#fff",
+            lineWidth: 2,
+          },
+          label: "key", // Tagging them to find later
+        });
+        keyObjects.push(box);
+      }
+
+      // 4. Distractor Objects (Obstacles)
+      // Just there to bounce around and make it fun/harder
+      const distractors = [];
+      for (let i = 0; i < 5; i++) {
+        const circle = Bodies.circle(
+          Math.random() * (width - 200) + 50, // Random X (left side)
+          Math.random() * height, // Random Y
+          Math.random() * 20 + 15, // Random radius
+          {
+            restitution: 0.9, // Very bouncy
+            friction: 0.005,
+            render: { fillStyle: "#475569" }, // Grey
+          }
+        );
+        distractors.push(circle);
+      }
+
+      // Add everything to world
+      Composite.add(world, [
+        ...walls,
+        targetZone,
+        ...keyObjects,
+        ...distractors,
+      ]);
+
+      // --- Mouse Control ---
+      const mouse = Mouse.create(render.canvas);
+      const mouseConstraint = MouseConstraint.create(engine, {
+        mouse: mouse,
+        constraint: {
+          stiffness: 0.2,
+          render: { visible: false },
+        },
+      });
+      Composite.add(world, mouseConstraint);
+
+      // Keep the mouse in sync with rendering
+      render.mouse = mouse;
+
+      // --- Logic & Loop ---
+      Render.run(render);
+      const runner = Runner.create();
+      Runner.run(runner, engine);
+
+      let winCounter = 0;
+      const framesToWin = 60; // Approx 1 second of holding
+      let won = false;
+
+      // Custom render overlay for the text "Target Zone"
+      Events.on(render, "afterRender", function () {
+        const ctx = render.context;
+        ctx.font = "bold 20px Arial";
+        ctx.fillStyle = "rgba(255, 255, 255, 0.5)";
+        ctx.fillText("TARGET", width - 110, height / 2 - 15);
+        ctx.fillText("ZONE", width - 100, height / 2 + 15);
+      });
+
+      // Game Loop Logic
+      Events.on(engine, "beforeUpdate", function (event) {
+        if (won) return;
+
+        // Check if all orange boxes are inside the target zone
+        // Zone: x > zoneXStart
+        let allIn = true;
+
+        keyObjects.forEach((body) => {
+          if (body.position.x < zoneXStart) {
+            allIn = false;
+          }
+        });
+
+        if (allIn) {
+          winCounter++;
+          // Visual feedback: Turn them Green when in zone
+          keyObjects.forEach((b) => (b.render.fillStyle = "#4ade80"));
+
+          if (winCounter > framesToWin) {
+            triggerWin();
+          }
+        } else {
+          winCounter = 0;
+          // Reset color if they slip out
+          keyObjects.forEach((b) => (b.render.fillStyle = "#f97316"));
+        }
+      });
+
+      function triggerWin() {
+        won = true;
+
+        // 1. Visual updates on the form
+        const btn = document.getElementById("dummy-login");
+        btn.innerText = "VERIFIED";
+        btn.style.background = "#22c55e";
+        btn.style.color = "white";
+
+        // 2. Wait a split second then show the huge screen
+        setTimeout(() => {
+          // Stop physics
+          Runner.stop(runner);
+          Render.stop(render);
+
+          // Show Success Screen
+          document.getElementById("success-screen").classList.add("visible");
+
+          // Optional: Confetti effect logic could go here,
+          // but we'll stick to the "Huge Text" requirement.
+        }, 500);
+      }
+
+      // Handle resize slightly (update canvas offsets)
+      window.addEventListener("resize", () => {
+        render.bounds.max.x = width;
+        render.bounds.max.y = height;
+        render.options.width = width;
+        render.options.height = height;
+      });
+    </script>
+  </body>
+</html>

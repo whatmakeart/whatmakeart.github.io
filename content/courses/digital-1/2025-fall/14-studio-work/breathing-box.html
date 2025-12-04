@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Breathing Box Relaxation</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        overflow: hidden; /* Prevent scrolling during interaction */
+        touch-action: none; /* Prevent standard touch actions on mobile */
+      }
+
+      /* Custom range slider styling */
+      input[type="range"] {
+        -webkit-appearance: none;
+        width: 100%;
+        background: transparent;
+      }
+
+      input[type="range"]::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        height: 24px;
+        width: 24px;
+        border-radius: 50%;
+        background: #60a5fa;
+        cursor: pointer;
+        margin-top: -10px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+      }
+
+      input[type="range"]::-webkit-slider-runnable-track {
+        width: 100%;
+        height: 4px;
+        cursor: pointer;
+        background: #e5e7eb;
+        border-radius: 2px;
+      }
+
+      input[type="range"]:focus {
+        outline: none;
+      }
+
+      /* Firefox styles */
+      input[type="range"]::-moz-range-thumb {
+        height: 24px;
+        width: 24px;
+        border: none;
+        border-radius: 50%;
+        background: #60a5fa;
+        cursor: pointer;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+      }
+
+      input[type="range"]::-moz-range-track {
+        width: 100%;
+        height: 4px;
+        cursor: pointer;
+        background: #e5e7eb;
+        border-radius: 2px;
+      }
+    </style>
+  </head>
+  <body
+    class="bg-slate-50 text-slate-700 h-screen w-screen flex flex-col items-center justify-between py-6"
+  >
+    <!-- Header -->
+    <div class="text-center z-10 px-4">
+      <h1 class="text-3xl font-light tracking-wide text-slate-800 mb-2">
+        Breathe
+      </h1>
+      <p class="text-sm text-slate-500">Sync your breath with the box</p>
+    </div>
+
+    <!-- Main Canvas Area -->
+    <div
+      class="relative flex-grow w-full flex items-center justify-center overflow-hidden"
+      id="canvas-container"
+    >
+      <canvas id="breatheCanvas"></canvas>
+    </div>
+
+    <!-- Controls -->
+    <div class="w-full max-w-md px-8 pb-8 z-10">
+      <div class="flex justify-between items-center mb-2">
+        <span class="text-sm font-medium text-slate-500">Speed</span>
+        <span id="speedDisplay" class="text-sm font-bold text-blue-500">
+          4.0s cycle
+        </span>
+      </div>
+      <input
+        type="range"
+        id="speedSlider"
+        min="2"
+        max="10"
+        step="0.5"
+        value="4"
+        class="w-full"
+        aria-label="Breathing Speed Control"
+      />
+      <div class="flex justify-between text-xs text-slate-400 mt-2">
+        <span>Fast</span>
+        <span>Relaxed</span>
+        <span>Deep</span>
+      </div>
+    </div>
+
+    <script>
+      const canvas = document.getElementById("breatheCanvas");
+      const ctx = canvas.getContext("2d");
+      const container = document.getElementById("canvas-container");
+      const slider = document.getElementById("speedSlider");
+      const speedDisplay = document.getElementById("speedDisplay");
+
+      // State
+      let width, height;
+      let time = 0;
+      let cycleDuration = 4000; // ms
+      let animationId;
+
+      // Configuration
+      const baseColor = { r: 96, g: 165, b: 250 }; // Tailwind Blue-400
+
+      // Initialization
+      function resize() {
+        width = container.clientWidth;
+        height = container.clientHeight;
+
+        // Handle high DPI displays
+        const dpr = window.devicePixelRatio || 1;
+        canvas.width = width * dpr;
+        canvas.height = height * dpr;
+        ctx.scale(dpr, dpr);
+
+        // Adjust canvas style size
+        canvas.style.width = `${width}px`;
+        canvas.style.height = `${height}px`;
+      }
+
+      // Helper to draw rounded rect
+      function roundRect(ctx, x, y, width, height, radius) {
+        ctx.beginPath();
+        ctx.moveTo(x + radius, y);
+        ctx.lineTo(x + width - radius, y);
+        ctx.quadraticCurveTo(x + width, y, x + width, y + radius);
+        ctx.lineTo(x + width, y + height - radius);
+        ctx.quadraticCurveTo(
+          x + width,
+          y + height,
+          x + width - radius,
+          y + height
+        );
+        ctx.lineTo(x + radius, y + height);
+        ctx.quadraticCurveTo(x, y + height, x, y + height - radius);
+        ctx.lineTo(x, y + radius);
+        ctx.quadraticCurveTo(x, y, x + radius, y);
+        ctx.closePath();
+      }
+
+      // Animation Loop
+      function animate(timestamp) {
+        if (!time) time = timestamp;
+        const deltaTime = timestamp - time;
+        time = timestamp;
+
+        // Clear canvas
+        ctx.clearRect(0, 0, width, height);
+
+        // Calculate cycle phase (0 to 2PI)
+        // We use a global counter based on Date.now() to ensure smooth speed transitions
+        const now = Date.now();
+        const cycleProgress = (now % cycleDuration) / cycleDuration;
+        const phase = cycleProgress * Math.PI * 2;
+
+        // Sine wave for expansion/contraction (-1 to 1)
+        // We shift phase by -PI/2 so the cycle starts at the bottom (minimum size)
+        // effectively making it: Start -> Expand -> Max -> Contract -> Start
+        const sineValue = Math.sin(phase - Math.PI / 2);
+
+        // Normalize sine (-1 to 1) to (0 to 1) for easier sizing math
+        const normalizedValue = (sineValue + 1) / 2;
+
+        // Determine dimensions
+        const minSize = Math.min(width, height) * 0.2;
+        const maxSize = Math.min(width, height) * 0.55;
+        const currentSize = minSize + (maxSize - minSize) * normalizedValue;
+
+        // Determine Color opacity and Glow
+        // Brighter and more opaque when fully expanded
+        const alpha = 0.4 + 0.4 * normalizedValue;
+        const glow = 20 * normalizedValue;
+
+        // Draw The Box
+        const cx = width / 2;
+        const cy = height / 2;
+        const x = cx - currentSize / 2;
+        const y = cy - currentSize / 2;
+
+        ctx.shadowBlur = 15 + glow;
+        ctx.shadowColor = `rgba(${baseColor.r}, ${baseColor.g}, ${baseColor.b}, 0.6)`;
+        ctx.fillStyle = `rgba(${baseColor.r}, ${baseColor.g}, ${baseColor.b}, ${alpha})`;
+
+        roundRect(ctx, x, y, currentSize, currentSize, 20);
+        ctx.fill();
+
+        // Reset shadow for text
+        ctx.shadowBlur = 0;
+
+        // Determine Text
+        // Derivative of sine gives us direction.
+        // However, since we shifted phase, we can determine state by the half of the circle we are in.
+        // 0 to 0.5 (in our normalized 0-1 cycle) is expansion, 0.5 to 1.0 is contraction.
+        let text = "";
+        let subText = "";
+
+        // We verify the "slope" of the sine wave.
+        // If sineValue is increasing, we are inhaling.
+        // Since sin(x - PI/2) is -cos(x), determining exact direction:
+        // Easier way: 0% to 50% of the time cycle is Inhale, 50% to 100% is Exhale.
+
+        if (cycleProgress < 0.5) {
+          text = "Breathe In...";
+          // Calculate opacity for text based on how far into the phase we are
+          // Fade in quickly, stay, then fade out slightly before switch
+        } else {
+          text = "Breathe Out...";
+        }
+
+        // Draw Text
+        ctx.fillStyle = "#334155"; // Slate-700
+        ctx.font = "300 28px 'Segoe UI', sans-serif";
+        ctx.textAlign = "center";
+        ctx.textBaseline = "middle";
+
+        // Optional: Pulse the text opacity slightly
+        ctx.globalAlpha = 0.8 + 0.2 * normalizedValue;
+        ctx.fillText(text, cx, cy);
+        ctx.globalAlpha = 1.0;
+
+        animationId = requestAnimationFrame(animate);
+      }
+
+      // Event Listeners
+      window.addEventListener("resize", resize);
+
+      slider.addEventListener("input", (e) => {
+        const val = parseFloat(e.target.value);
+        cycleDuration = val * 1000;
+        speedDisplay.textContent = `${val.toFixed(1)}s cycle`;
+      });
+
+      // Start
+      resize();
+      requestAnimationFrame(animate);
+    </script>
+  </body>
+</html>

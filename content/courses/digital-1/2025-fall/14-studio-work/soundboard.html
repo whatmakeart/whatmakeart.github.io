@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Immersive Soundboard</title>
+    <style>
+      /* Reset and Base Styles */
+      * {
+        box-sizing: border-box;
+      }
+
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        overflow: hidden; /* Prevent scrolling */
+        background-color: #000;
+        font-family: sans-serif;
+      }
+
+      /* CSS Grid Layout 
+           2 Columns, 2 Rows, filling the entire viewport (100vh, 100vw)
+        */
+      .grid-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        height: 100vh;
+        width: 100vw;
+        gap: 0; /* No gaps requested, but can be added here */
+      }
+
+      /* Cell Styling */
+      .cell {
+        position: relative;
+        cursor: pointer;
+        overflow: hidden;
+        border: 1px solid rgba(0, 0, 0, 0.1); /* Subtle separation */
+      }
+
+      /* Image Styling - Object Fit Cover */
+      .cell img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+        transition: filter 0.3s ease; /* Smooth hover transition */
+      }
+
+      /* Hover Effect: Brighter */
+      .cell:hover img {
+        filter: brightness(1.3);
+      }
+
+      /* The Flash Effect 
+           An overlay div that is usually invisible (opacity 0).
+           When the .flash-active class is added via JS, it becomes white instantly.
+        */
+      .flash-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: white;
+        opacity: 0;
+        pointer-events: none; /* Let clicks pass through to the cell */
+        z-index: 10;
+      }
+
+      /* Class applied by JS for 100ms */
+      .flash-active {
+        opacity: 1; /* Flash white */
+        transition: none; /* Instant on */
+      }
+
+      /* Slow fade out */
+      .flash-overlay:not(.flash-active) {
+        transition: opacity 0.2s ease-out;
+      }
+
+      /* Start Prompt Overlay (Needed for Web Audio API policies) */
+      #start-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.8);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        z-index: 100;
+        flex-direction: column;
+        cursor: pointer;
+      }
+
+      #start-overlay h1 {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+      }
+
+      #start-overlay p {
+        font-size: 1rem;
+        opacity: 0.8;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Audio Context Start Overlay -->
+    <div id="start-overlay">
+      <h1>Soundboard Ready</h1>
+      <p>Click anywhere to start</p>
+    </div>
+
+    <div class="grid-container">
+      <!-- Cell 1 -->
+      <div class="cell" id="pad-1" data-freq="261.63" data-type="sine">
+        <!-- Placeholder: Generated SVG (Blue Geometric) -->
+        <img
+          src="data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'%3E%3Crect width='400' height='400' fill='%231a2a6c'/%3E%3Cpath d='M0 400 L400 0 L400 400 Z' fill='%23b21f1f' opacity='0.5'/%3E%3C/svg%3E"
+          alt="Sound Pad 1"
+        />
+        <div class="flash-overlay"></div>
+      </div>
+
+      <!-- Cell 2 -->
+      <div class="cell" id="pad-2" data-freq="329.63" data-type="square">
+        <!-- Placeholder: Generated SVG (Red/Orange Gradient) -->
+        <img
+          src="data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%23f12711;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23f5af19;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='400' height='400' fill='url(%23g)'/%3E%3Ccircle cx='200' cy='200' r='100' fill='rgba(255,255,255,0.2)'/%3E%3C/svg%3E"
+          alt="Sound Pad 2"
+        />
+        <div class="flash-overlay"></div>
+      </div>
+
+      <!-- Cell 3 -->
+      <div class="cell" id="pad-3" data-freq="392.00" data-type="triangle">
+        <!-- Placeholder: Generated SVG (Green Organic) -->
+        <img
+          src="data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'%3E%3Crect width='400' height='400' fill='%2311998e'/%3E%3Cpath d='M0 200 Q 200 100 400 200 T 400 400 L 0 400 Z' fill='%2338ef7d' opacity='0.6'/%3E%3C/svg%3E"
+          alt="Sound Pad 3"
+        />
+        <div class="flash-overlay"></div>
+      </div>
+
+      <!-- Cell 4 -->
+      <div class="cell" id="pad-4" data-freq="523.25" data-type="sawtooth">
+        <!-- Placeholder: Generated SVG (Purple Abstract) -->
+        <img
+          src="data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'%3E%3Crect width='400' height='400' fill='%238E2DE2'/%3E%3Cpolygon points='200,50 350,350 50,350' fill='%234A00E0' opacity='0.7'/%3E%3C/svg%3E"
+          alt="Sound Pad 4"
+        />
+        <div class="flash-overlay"></div>
+      </div>
+    </div>
+
+    <script>
+      // --- 1. Audio Setup (Web Audio API) ---
+      // Browsers require a user interaction to start the AudioContext.
+      let audioCtx;
+
+      function initAudio() {
+        if (!audioCtx) {
+          const AudioContext = window.AudioContext || window.webkitAudioContext;
+          audioCtx = new AudioContext();
+        }
+        if (audioCtx.state === "suspended") {
+          audioCtx.resume();
+        }
+      }
+
+      // Synthesizer function to play a tone
+      // Replace this function with real Audio object creation if using MP3s
+      function playSound(freq, waveType) {
+        if (!audioCtx) return;
+
+        // Create Oscillator (the source of the sound)
+        const osc = audioCtx.createOscillator();
+        // Create Gain Node (volume control)
+        const gainNode = audioCtx.createGain();
+
+        osc.type = waveType || "sine";
+        osc.frequency.setValueAtTime(freq, audioCtx.currentTime);
+
+        // Volume Envelope (Avoid clicking sounds)
+        gainNode.gain.setValueAtTime(0.3, audioCtx.currentTime);
+        gainNode.gain.exponentialRampToValueAtTime(
+          0.01,
+          audioCtx.currentTime + 0.5
+        );
+
+        // Connect graph: Oscillator -> Gain -> Speakers
+        osc.connect(gainNode);
+        gainNode.connect(audioCtx.destination);
+
+        osc.start();
+        osc.stop(audioCtx.currentTime + 0.5); // Stop after 0.5 seconds
+      }
+
+      /* --- FOR REAL FILES ---
+           If you want to use real mp3s later, replace playSound above with:
+           
+           function playRealSound(filename) {
+               const audio = new Audio(filename);
+               audio.play();
+           }
+        */
+
+      // --- 2. Interaction Logic ---
+
+      const cells = document.querySelectorAll(".cell");
+      const startOverlay = document.getElementById("start-overlay");
+
+      // Remove overlay on first click
+      startOverlay.addEventListener("click", () => {
+        initAudio();
+        startOverlay.style.display = "none";
+      });
+
+      cells.forEach((cell, index) => {
+        cell.addEventListener("click", function () {
+          // Ensure audio context is ready
+          initAudio();
+
+          // A. Visual Flash Effect
+          const flash = this.querySelector(".flash-overlay");
+
+          // Reset animation if clicked rapidly
+          flash.classList.remove("flash-active");
+
+          // Force a reflow (browser repaint) so the removal takes effect immediately
+          void flash.offsetWidth;
+
+          // Add the class to trigger flash
+          flash.classList.add("flash-active");
+
+          // Remove the flash class after 100ms
+          setTimeout(() => {
+            flash.classList.remove("flash-active");
+          }, 100);
+
+          // B. Audio Trigger
+          // In a real app, you might map index to a filename:
+          // const sounds = ['assets/sound1.mp3', 'assets/sound2.mp3', ...];
+          // playRealSound(sounds[index]);
+
+          // For this generator, we use the data-attributes on the HTML
+          const freq = this.getAttribute("data-freq");
+          const type = this.getAttribute("data-type");
+          playSound(freq, type);
+        });
+      });
+    </script>
+  </body>
+</html>
