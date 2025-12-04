@@ -1,7 +1,7 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-04T07:21:12
+lastmod: 2025-12-04T07:41:33
 ---
 
 ## Assignment Deliverables
@@ -90,7 +90,19 @@ These examples show how far a single prompt gan get to a complete project. Often
 
 The key objective is to take the mediocre initial output and improve it through the addition of original content and creative direction by you. Anyone can write a prompt, how you make the results better, more unique, and polished will make your work stand out and be desired.
 
+It can be helpful to use an LLM to expand on a prompt before using the prompt to assemble the code. This happens behind the scenes with most image and video generators. Whey you write a simple prompt such as a video of a dancing duck, the LLM will expand more details on the prompt. You can do the same thing by prompting the LLM to make a prompt to do a task. It will often have details that will help the output be more accurate. This technique was used for the Art Student vs AI Professor game below.
+
 <div class="gallery-grid">
+
+<figure>
+
+[![Art Student vs Ai Professor Game](./2025-12-04-art-student-vs-ai-professor-whatmakeart.jpg)](./art-student-vs-ai-professor.html)
+
+<figcaption>
+
+[Prompt used to create prompt for Game:](./art-student-vs-ai-professor.html) `write a prompt that would create an amazing html game all about how a student hates that their art school professor is making them code with a large language model since the student hates generative ai`
+
+</figcaption>
 
 <figure>
 
