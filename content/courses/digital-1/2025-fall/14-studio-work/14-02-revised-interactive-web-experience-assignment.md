@@ -1,15 +1,16 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-04T05:57:03
+lastmod: 2025-12-04T06:03:08
 ---
 
 ## Assignment Deliverables
 
-1. Screenshot or Screen Recording of revised interactive web experience
+1. Screenshot or Screen Recording showing your revised interactive web experience running with the new assets visible/audible.
    - Label file YYYY-MM-DD Lastname Firstname revised interactive web experience (`.png`, `.jpg`, `.mp4`)
-2. URL of interactive web experience
+2. Active URL to your hosted interactive web experience, n̶o̶t̶ t̶h̶e̶ l̶o̶c̶a̶l̶h̶o̶s̶t̶ U̶R̶L̶ o̶n̶ y̶o̶u̶r̶ m̶a̶c̶h̶i̶n̶e̶
    - Label file YYYY-MM-DD Lastname Firstname revised interactive web experience url (`.png`, `.jpg`, `.mp4`)
+   - _You may paste the URL into the comment section of the assignment submission page_
 
 ## Assignment Overview
 
