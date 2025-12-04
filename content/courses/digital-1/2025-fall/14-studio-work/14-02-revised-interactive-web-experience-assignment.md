@@ -1,7 +1,7 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-04T06:57:09
+lastmod: 2025-12-04T07:05:06
 ---
 
 ## Assignment Deliverables
@@ -17,6 +17,8 @@ lastmod: 2025-12-04T06:57:09
 Move beyond the "prototype" phase of the previous natural language programming assignment. Similar to the development of creative, artistic work,software development is rarely one and done. It requires iteration, refinement, and the integration of bespoke artist created assets such as imagery, animation, and sound.
 
 In this assignment, you will take your existing natural language coded web experience, or start a completely fresh project, and replace placeholder elements such as colored rectangles, blank background, and basic beeps with original content created by you. You will continue to use GitHub Copilot in Visual Studio Code to implement these changes, focusing on how to prompt an Large Language Model or "AI" to handle external files and assets.
+
+Think of GitHub Copilot as an incredibly fast, highly technical assistant who knows every coding language in the world but has zero common sense. It cannot see your vision, it can only follow your specific instructions. You are the Creative Director while Copilot is the Technical Assistant.
 
 ### Interactive Web Experience?
 
@@ -65,12 +67,21 @@ Backgrounds could fade from day to night or characters could change expressions 
 - [Set Audio Hardware Adobe Audition](https://youtu.be/CXCpECgCBVY)
 - [Create New Audio File Adobe Audition](https://youtu.be/o70n1NHDz8s)
 
-### Troubleshooting
+### Tips and Troubleshooting
 
-1. What to do when Copilot gets stuck?
-   - Sometimes Copilot hallucinates, makes up code that doesn't exist, or gets stuck in a loop Delete the last block of code it gave you and rephrase your request. Make sure the file you are referencing, the `index.html` or `styles.css` is actually open in a tab in Visual Studio Code so Copilot sees the context. Sometimes the classic IT trick of turning it off and on again by reloading the Visual Studio Code window helps clear the context.
+1. When building non-game experiences, focusing on _States_ rather than _Scores_ can be a useful conceptual framework. Are you in the state of sleeping or eating breakfast? Studying or waterskiing? A prompt for a game might read `Add 1 to score when clicked.` while a prompt for an experience might read `Switch the state from calm to chaos when clicked. In the chaos state, shake the images and play a loud noise.`
+2. Sometimes Copilot hallucinates, makes up code that doesn't exist, or gets stuck in a loop Delete the last block of code it gave you and rephrase your request. Make sure the file you are referencing, the `index.html` or `styles.css` is actually open in a tab in Visual Studio Code so Copilot sees the context. Sometimes the classic IT trick of turning it off and on again by reloading the Visual Studio Code window helps clear the context.
 
-## Example 1 Prompt Games
+#### Useful Prompts for this Assignment
+
+These prompt patterns can be helpful for working with code or web projects.
+
+1. For HTML Setup: "Create a responsive HTML boilerplate. Link a style.css file and a script.js file. Add a container div centered on the page."
+2. For CSS Styling: "Make the background of the body a dark gradient from blue to black. Use the font 'Courier New' for all text."
+3. For Physics/Movement: "In script.js, create a gravity variable. Apply it to the square so it falls down. Stop it when it hits the bottom of the canvas."
+4. For Audio: "Create a function called playSound. It should take a file path as an argument. Use this function to play assets/music/loop.mp3 when the user clicks anywhere on the page."
+
+## Example Single Prompt Games
 
 <div class="gallery-grid">
 
