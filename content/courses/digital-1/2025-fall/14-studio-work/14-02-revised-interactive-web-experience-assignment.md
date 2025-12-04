@@ -1,7 +1,7 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-04T08:28:35
+lastmod: 2025-12-04T08:43:42
 ---
 
 ## Assignment Deliverables
@@ -24,7 +24,7 @@ Think of GitHub Copilot as an incredibly fast, highly technical assistant who kn
 
 _Interactive web experience_ simply means any webpage that responds to user input such as clicking, hovering, scrolling, typing, or microphone input to change the state of the audio or visuals. It does not need to have a "win state," a "score," or "enemies."
 
-Here are four categories of experiences you can build with GitHub Copilot and your original assets.
+Here are examples of experiences you can build with GitHub Copilot and your original assets.
 
 #### Interactive Narrative
 
@@ -32,6 +32,14 @@ Instead of a game, create a story that advances as the user interacts. This is e
 Scrolling down the page or clicking Next might advance the story.
 
 Backgrounds could fade from day to night or characters could change expressions as the mood shifts. Ambient noise such as rain or city traffic could fades in on certain sections. Specific voice over lines could play at specific moments.
+
+#### Audio Visual Instrument
+
+You could turn the web browser into a musical instrument or a sound board. Create a page where every key on the keyboard or click on the screen triggers a specific sound and a corresponding visual animation. The visuals could include audio reactive sbstract shapes, colors, or vector graphics that scale and rotate when a beat hits. You could use existing drum samples, synthesizer notes, or sounds created in Adobe Audition.
+
+#### Physics Sandbox
+
+A sandbox differs from a game because there is no specific predetermined end goal. It is a system to play with rather than beat. Create a simulation where users can manipulate objects on the screen to see how they react. This could take the form of virtual bubble wrap, a gravity simulator, or a digital pet that needs more avacados to eat. Consider creating sounds for collisions and pops.
 
 ### Process
 
@@ -86,9 +94,15 @@ These prompt patterns can be helpful for working with code or web projects.
 
 ### Open Source Code Libraries to Mention in Prompts
 
-- Three.js
-- ml5.js
-- babylon.js
+Mentioning these libraries in a prompt will guide the LLM to use these prebuilt resources to solve tasks. This is common practice in software development. Most projects are built on a fragile house of cards of libraries and other pre written code. The general rule is, "Don't spend time writing something that already exists."
+
+- matter.js - 2D physics engine
+- three.js - 3D graphics library
+- ml5.js - machine learning library
+- babylon.js - 3D graphics library
+- howler.js - audio playback library
+- d3.js - data visualization
+- tone.js - generative audio
 
 ## Example Single Prompt Games
 
