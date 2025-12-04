@@ -1,7 +1,7 @@
 ---
 title: 14.01 Digital Mimesis Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-01T17:16:15
+lastmod: 2025-12-04T07:47:06
 ---
 
 ## Assignment Deliverables
@@ -45,11 +45,11 @@ The assignment is not parody, it is a style study, challenging you to create rig
 
 | Assessment                     | Weight    |
 | ------------------------------ | --------- |
-| Color Matching Mimesis         | 30 points |
-| Composition Mimesis            | 30 points |
-| Photo Mimesis                  | 30 points |
-| Self Reflection and Assessment | 30 points |
-| Reference Image Uploaded       | 15 points |
+| Color Matching Mimesis         | 40 points |
+| Composition Mimesis            | 40 points |
+| Photo Mimesis                  | 40 points |
+| Self Reflection and Assessment | 40 points |
+| Reference Image Uploaded       | 30 points |
 | File Management and Labeling   | 10 points |
 
 </div>

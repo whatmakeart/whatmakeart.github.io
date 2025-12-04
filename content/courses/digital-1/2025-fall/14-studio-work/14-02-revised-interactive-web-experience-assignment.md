@@ -1,7 +1,7 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-04T07:41:33
+lastmod: 2025-12-04T07:46:30
 ---
 
 ## Assignment Deliverables
@@ -154,10 +154,12 @@ It can be helpful to use an LLM to expand on a prompt before using the prompt to
 
 <div class="responsive-table-markdown">
 
-| Assessment                   | Weight    |
-| ---------------------------- | --------- |
-| Screenshot Uploaded          | 60 points |
-| URL Submitted                | 30 points |
-| File Management and Labeling | 10 points |
+| Assessment                        | Weight    |
+| --------------------------------- | --------- |
+| Original Content Added            | 50 points |
+| Concept Development and Iteration | 50 points |
+| Screenshot Uploaded               | 50 points |
+| URL Submitted                     | 40 points |
+| File Management and Labeling      | 10 points |
 
 </div>
