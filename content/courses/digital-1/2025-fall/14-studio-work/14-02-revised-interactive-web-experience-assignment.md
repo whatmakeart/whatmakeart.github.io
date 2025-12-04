@@ -1,7 +1,7 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-04T06:38:17
+lastmod: 2025-12-04T06:57:09
 ---
 
 ## Assignment Deliverables
@@ -18,6 +18,19 @@ Move beyond the "prototype" phase of the previous natural language programming a
 
 In this assignment, you will take your existing natural language coded web experience, or start a completely fresh project, and replace placeholder elements such as colored rectangles, blank background, and basic beeps with original content created by you. You will continue to use GitHub Copilot in Visual Studio Code to implement these changes, focusing on how to prompt an Large Language Model or "AI" to handle external files and assets.
 
+### Interactive Web Experience?
+
+_Interactive web experience_ simply means any webpage that responds to user input such as clicking, hovering, scrolling, typing, or microphone input to change the state of the audio or visuals. It does not need to have a "win state," a "score," or "enemies."
+
+Here are four categories of experiences you can build with GitHub Copilot and your original assets.
+
+#### Interactive Narrative
+
+Instead of a game, create a story that advances as the user interacts. This is excellent for students who want to focus on illustration and voice-over. This could take the form of a digital comic book or poetry reader where the environment changes based on the user's progress.
+Scrolling down the page or clicking `Next` might advance the story.
+
+Backgrounds could fade from day to night or characters could change expressions as the mood shifts. Ambient noise such as rai or city traffic could fades in on certain sections. Specific voice over lines could play at specific moments.
+
 ### Process
 
 1. Make a list of things to change, remove, and add to your natural language coded web experience.
@@ -27,11 +40,16 @@ In this assignment, you will take your existing natural language coded web exper
    - Do you want to add computer vision face detection or pose detection?
    - What sound effects are missing. such as jump sounds, background ambience, button clicks?
 2. Spend time creating original visual and auditory content to add to the site. Spend minimum 1 hour creating original content. This includes recorded sounds, images sprites, vector graphics, text and story information, voice over, music, and any other type of experiential digital content made by you.
+3. File management and organization is important when working on digital projects.
    - Save images with descriptive, lowercase names without spaces such as `player-idle.png` or `background_forest.jpg` This helps you stay organized and helps the LLM understand your content better than `untitled.jpg` It is also helpful to make a folder such as `img` or `assets` to put content files in.
-3. Spend a minimum of 1 hour using Copilot in visual Studio code to create an interactive web experience. This could be a game, an abstract sequence of animations, a physics simulation, a poetry evaluator, or any other interaction that can occur via a webpage.
-4. Use your content in the webpage.
-5. Put sound files, image files, and video files into the folder of your project.
-6. Give instructions to copilot to use those specific files on your web program.
+4. Spend a minimum of 1 hour using Copilot in visual Studio code to create an interactive web experience. This could be a game, an abstract sequence of animations, a physics simulation, a poetry evaluator, or any other interaction that can occur via a webpage. Try some of the example prompts below or modify them to fit your project.
+   - `Change the red player rectangle to use the image located at 'assets/images/hero_sprite.png'`
+   - `Play the sound file 'assets/audio/jump_sfx.mp3' whenever the spacebar is pressed.`
+   - `Create a CSS animation that rotates the logo image when the user hovers over it.`
+   - `Adjust the physics so the character falls faster, and play 'thud.mp3' when they hit the ground.`
+5. Use your content in the webpage.
+6. Put sound files, image files, and video files into the folder of your project.
+7. Give instructions to copilot to use those specific files on your web program.
 
 ## Assignment Resources
 
@@ -69,14 +87,36 @@ In this assignment, you will take your existing natural language coded web exper
 
 <figure>
 
+[![Breathing Box](./2025-12-04-breathing-box-whatmakeart.jpg)](./breathing-box.html)
+
 <figcaption>
 
-`Code a "Breathing Box" relaxation widget using HTML5 Canvas. It should be a soft blue square that expands and contracts rhythmically over 4 seconds. Add a slider so I can adjust the speed, and display the text "Breathe in... breathe out..." in sync with the animation.`
+[Breathing Box Prompt:](./breathing-box.html) `Code a "Breathing Box" relaxation widget using HTML5 Canvas. It should be a soft blue square that expands and contracts rhythmically over 4 seconds. Add a slider so I can adjust the speed, and display the text "Breathe in... breathe out..." in sync with the animation.`
 
 </figcaption>
 </figure>
 
-`I need a complete code setup for single page webpage, everything included (HTML/CSS/JS) for a soundboard. Create a CSS Grid with 2 columns and 2 rows. It should fill the whole screen. In each grid cell, place one of my images: assets/img1.jpg, assets/img2.jpg, etc. Make the images object-fit: cover so they fill the cell perfectly. When I hover over a cell, make it slightly brighter (filter brightness). When I click a cell, play the corresponding sound (assets/sound1.mp3, etc.) and make the image flash white for 100 milliseconds." For now make generated place holder graphics and sounds`
+<figure>
+
+[![Digital Soundboard](./2025-12-04-soundboard-whatmakeart.jpg)](./soundboard.html)
+
+<figcaption>
+
+[Digital Soundboard Prompt:](./soundboard.html) `I need a complete code setup for single page webpage, everything included (HTML/CSS/JS) for a soundboard. Create a CSS Grid with 2 columns and 2 rows. It should fill the whole screen. In each grid cell, place one of my images: assets/img1.jpg, assets/img2.jpg, etc. Make the images object-fit: cover so they fill the cell perfectly. When I hover over a cell, make it slightly brighter (filter brightness). When I click a cell, play the corresponding sound (assets/sound1.mp3, etc.) and make the image flash white for 100 milliseconds." For now make generated place holder graphics and sounds`
+
+</figcaption>
+</figure>
+
+<figure>
+
+[![Physics Login Puzzle](./2025-12-04-physics-login-puzzle-whatmakeart.jpg)](./physics-login-puzzle.html)
+
+<figcaption>
+
+[Physics Login Puzzle Prompt:](./physics-login-puzzle.html) `Write a single web page in HTML and JavaScript that requires the user to do a puzzle like maybe move some blocks around to be in a line. And use some like physics. So like when they're moving the blocks around they bounce into each other and it's kind of cool. So basically they got to get the different shapes together and they have to do this before they log in to the page if they successfully do it then it logs in and it shows the text super huge on the screen you did it make this all in one single web page make sure all the code is correct and then give me everything working. now`
+
+</figcaption>
+</figure>
 
 </div>
 
