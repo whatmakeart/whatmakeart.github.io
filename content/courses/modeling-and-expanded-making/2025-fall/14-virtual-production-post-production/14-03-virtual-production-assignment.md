@@ -1,7 +1,7 @@
 ---
-title: 14.07 Virtual Production Assignment
+title: 14.03 Virtual Production Assignment
 date: 2025-12-05T09:30:00
-lastmod: 2025-11-17T09:40:01
+lastmod: 2025-12-06T06:44:24
 ---
 
 ## Assignment Deliverables
@@ -22,6 +22,6 @@ You may but are not required to collaborate and pool resources for:
 - Creating Unreal Engine environments
 - Setting up shots and transitions
 - Developing a narrative (if one exists)
-- Sharing assets, previs, and technical setups
+- Sharing assets, previsualization, and technical setups
 
-Each student still turns in the project. The final video may be the same in their own exported video and written description / self-assessment, even if you collaborate on the shoot. The final video uploaded maight be the same for collaborators but your indi
+Each student still turns in the project. The final video may be the same in their own exported video and written description / self-assessment, even if you collaborate on the shoot. The final video uploaded might be the same for collaborators but your indi

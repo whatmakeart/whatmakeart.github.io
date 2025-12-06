@@ -1,7 +1,7 @@
 ---
-title: 14.06 Laser Cut and 3D Print Project Photo Documentation Assignment
-date: 2025-12-05T09:30:00
-lastmod: 2025-11-16T06:16:47
+title: 09.04 Laser Cut and 3D Print Project Photo Documentation Assignment
+date: 2025-10-24T09:30:00
+lastmod: 2025-12-06T06:43:22
 ---
 
 ## Assignment Deliverables

@@ -1,7 +1,7 @@
 ---
-title: 13.01 Unreal Shot Controller Blueprint
+title: 13.02 Unreal Shot Controller Blueprint
 date: 2025-11-21T09:30:00
-lastmod: 2025-11-21T09:12:39
+lastmod: 2025-12-06T06:26:35
 ---
 
 ## Level Blueprint

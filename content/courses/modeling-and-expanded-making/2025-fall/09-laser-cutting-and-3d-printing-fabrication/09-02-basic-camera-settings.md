@@ -1,7 +1,7 @@
 ---
-title: 14.04 Basic Camera Settings
-date: 2025-12-05T09:30:00
-lastmod: 2025-11-16T05:41:32
+title: 09.02 Basic Camera Settings
+date: 2025-10-24T09:30:00
+lastmod: 2025-12-06T06:42:56
 toc: true
 ---
 
