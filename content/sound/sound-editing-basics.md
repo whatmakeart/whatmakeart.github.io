@@ -1,7 +1,7 @@
 ---
 title: Sound Editing Basics
 date: 2023-10-04T05:51:44
-lastmod: 2023-10-04T05:53:43
+lastmod: 2025-12-06T08:52:32
 ---
 
 ## Basic Audio Editing Guide
@@ -21,3 +21,10 @@ lastmod: 2023-10-04T05:53:43
 - Be mindful of the overall balance. When you are mixing your audio, make sure that all of the elements are at a comfortable level and that no one element is overpowering the others.
 - Reference other recordings. Listen to other recordings in the same genre or style as your own. This can help you to get a sense of what sounds good and what doesn't.
 - If possible, ask someone else to listen to your recording and give you feedback. This can help you to identify any areas that need improvement.
+
+## Adobe Audition Tutorials
+
+- [Create new audio file in Adobe Audition](./create-new-audio-file-adobe-audition.md)
+- [Set audio hardware in Adobe Audition](./set-audio-hardward-adobe-audition.md)
+- [Record laser sound effect in Adobe Audition](./record-laser-sound-effect-adobe-audition.md)
+- [Export mp3 from Adobe Audition](./export-mp3-adobe-audition.md)
