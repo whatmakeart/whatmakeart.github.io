@@ -1,7 +1,7 @@
 ---
 title: 14.04 Virtual Production Assignment
 date: 2025-12-05T09:30:00
-lastmod: 2025-12-06T08:55:19
+lastmod: 2025-12-06T09:20:59
 ---
 
 ## Assignment Deliverables
@@ -24,4 +24,31 @@ You may but are not required to collaborate and pool resources for:
 - Developing a narrative (if one exists)
 - Sharing assets, previsualization, and technical setups
 
-Each student still turns in the project. The final video may be the same in their own exported video and written description / self-assessment, even if you collaborate on the shoot. The final video uploaded might be the same for collaborators but your indi
+Each student still turns in the project. The final video may be from the same source material but each student should make their own edit and final video export. Each student should also write their own written description / self-assessment, even if you collaborate on the shoot.
+
+### Requirements
+
+- Combine a minimum of 2 shots from the XR studio into a single video
+- Edit the video in a creative and intentional way by adjusting the visuals, framing, transitions, exposure, color
+- Add sound / music / audio
+- Consider rendering video from Unreal Engine to create wider establishing shots and scene transitions
+
+### Assignment Resources
+
+- [Premiere Pro](./14-02-premiere-pro.md)
+- [Sound Editing Basics](./14-03-sound-editing-basics.md)
+- [Shot Types](../../../../video/shot-types.md)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                            | Weight    |
+| ------------------------------------- | --------- |
+| Exported mp4 Uploaded                 | 40 points |
+| Editing and Video Post Production     | 50 points |
+| Sound / Music / Audio Post Production | 50 points |
+| Written Description / Self Assessment | 50 points |
+| File Management and Labeling          | 10 points |
+
+</div>
