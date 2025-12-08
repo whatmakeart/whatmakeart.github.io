@@ -1,11 +1,10 @@
-3---
+---
 title: 01.02 Make New Original Content Now In Class Exercise
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-10-16T05:13:21
-
+lastmod: 2025-12-08T12:35:39
 ---
 
-## Excercise Deliverables
+## Exercise Deliverables
 
 1. 3 photos of yourself with 1 showing hair in focus
 2. 3 photos of objects
