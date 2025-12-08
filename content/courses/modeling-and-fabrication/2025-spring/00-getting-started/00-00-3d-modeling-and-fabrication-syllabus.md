@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus
 date: 2025-01-16T12:00:00Z
-lastmod: 2025-02-20T06:41:38
+lastmod: 2025-12-08T15:08:11
 ---
 
 ### Course Information
@@ -138,16 +138,16 @@ The following materials are not required for the course but may be useful to you
 | 3          | January 30  | [3D Printing](../03-3d-printing/03-00-introduction.md)                                                                       |
 | 4          | February 6  | [Laser Cutting](../04-laser-cutting/04-00-introduction.md)                                                                   |
 | 5          | February 13 | [Laser Cutting Fabrication](../05-laser-cutting-fabrication/05-00-introduction.md)                                           |
-| 6          | February 20 | Project Revisions and 3D Scanning                                                                                            |
-| 7          | February 27 | Clamp Critique and 3D Scan Cleanup                                                                                           |
-| 8          | March 6     | Polygon Mesh 3D Modeling                                                                                                     |
+| 6          | February 20 | [Project Revisions and 3D Scanning](../06-project-revisions-and-3d-scanning/06-00-introduction.md)                           |
+| 7          | February 27 | [Clamp Critique and 3D Scan Cleanup](../07-clamp-critique-and-3d-scan-cleanup/07-00-introduction.md)                         |
+| 8          | March 6     | [Polygon Mesh 3D Modeling](../08-polygon-3d-modeling/08-00-introduction.md)                                                  |
 |            | March 13    | **No Class Spring Break**                                                                                                    |
-| 9          | March 20    | 3D Animation                                                                                                                 |
-| 10         | March 27    | Polygon Texturing                                                                                                            |
-| 11         | April 3     | CNC                                                                                                                          |
-| 12         | April 10    | CNC                                                                                                                          |
-| 13         | April 17    | Line Animation Crit and CNC Fabrication                                                                                      |
-| 14         | April 24    | Photo Documentation and Studio Work                                                                                          |
+| 9          | March 20    | [3D Animation](../09-3d-animation/09-00-introduction.md)                                                                     |
+| 10         | March 27    | [3D Animation Texturing and Studio Work](../10-3d-animation-texturing-and-studio-work/10-00-introduction.md)                 |
+| 11         | April 3     | [CNC](../11-cnc/11-00-introduction.md)                                                                                       |
+| 12         | April 10    | [CNC Design and Modeling](../12-cnc-design-and-modeling/12-00-introduction.md)                                               |
+| 13         | April 17    | [Line Animation Crit and CNC Fabrication](../13-cnc-fabrication/13-00-introduction.md)                                       |
+| 14         | April 24    | [Photo Documentation and Studio Work](../14-photo-documentation/14-00-introduction.md)                                       |
 | 15         | May 1       | [Final Crit](../15-final-critique/15-00-introduction.md)                                                                     |
 |            | May 5 - 9   | BFA Reviews and Exhibitions                                                                                                  |
 
