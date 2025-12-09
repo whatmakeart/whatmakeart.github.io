@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2026-01-12T09:00:00
-lastmod: 2025-12-08T11:43:11
+lastmod: 2025-12-09T06:26:17
 ---
 
 ## Sewing Material Suppliers
@@ -14,7 +14,6 @@ We have most of the needed supplies to get started in the course and complete th
 - [Schindler's Fabric Shops](https://schindlersfabrics.com/) - 9933 Lorain Ave, Cleveland, OH 44102
 - [The Quilting Bee LLC](http://www.thequiltingbeeonline.com/) - 15709 Detroit Avenue Lakewood, OH 44107
 - [Carol's Fabric Shop](http://www.carolsfabric.com/) - 1325 N Carpenter Rd, Brunswick, OH 44212
-- [Jo-Ann’s Fabrics](https://www.joann.com/) - 1533 Golden Gate Plaza #153 – (440) 684-1567 - Generally more expensive than many online retailers but has many items in stock. Also has fabric available on sale that can be good deals if you go hunting.
 - Thrift Stores such as Goodwill, Salvation Army, the Cache are good places to get unique materials for projects.
 - [Bolt & Spool](http://www.boltandspool.com/) - 2026 Murray Hill Rd Room 104, Cleveland, OH 44106 - In little Italy near campus.
 
@@ -22,9 +21,15 @@ We have most of the needed supplies to get started in the course and complete th
 
 The online retailers below also have a wide selection of fabric but you must plan ahead due to shipping times.
 
-- [https://www.sewingworkshop.com/](https://www.sewingworkshop.com/)
-- [https://www.rockywoods.com/](https://www.rockywoods.com/)
-- [https://www.emmaonesock.com/](https://www.emmaonesock.com/)
+- [Kokka Fabrics](https://kokkafabrics.com/)
+- [Sewing Workshop](https://www.sewingworkshop.com/)
+- [Rockywoods](https://www.rockywoods.com/)
+- [Emma One Sock](https://www.emmaonesock.com/)
+- [Shabby Fabrics](https://www.shabbyfabrics.com/)
+- [Vogue Fabric Store](https://www.voguefabricsstore.com/)
+- [Fabric Shack](https://www.fabricshack.com/)
+- [Ripstop by the Roll](https://ripstopbytheroll.com/)
+- [Fabric Mart Fabrics](https://fabricmartfabrics.com/)
 
 ### Straps / Buckles / Webbing
 
@@ -38,11 +43,9 @@ The online retailers below also have a wide selection of fabric but you must pla
 - [The Thread Exchange](https://www.thethreadexchange.com/)
 - [UpCycle Parts Shop](https://www.upcyclepartsshop.org/)
 - [Burda Style](https://www.burdastyle.com/)
-- [Jo-Ann’s Fabrics](https://www.joann.com/)
 
 ### Patterns
 
-- [Jo-Ann’s Fabrics](https://www.joann.com/)
 - [Upcycle Parts Shop](https://www.upcyclepartsshop.org/)
 - [Burda Style](https://www.burdastyle.com/)
 - [Simplicity](https://www.simplicity.com/)
@@ -69,3 +72,8 @@ The online retailers below also have a wide selection of fabric but you must pla
 - [The Most Influential Jeans Guy You’ve Never Heard Of](https://www.nytimes.com/2024/05/28/style/benjamin-talley-smith-denim-jeans.html)
 - [The Crochet Coral Reef Keeps Spawning, Hyperbolically - The New York Times](https://www.nytimes.com/2024/01/15/science/mathematics-crochet-coral.html)
 - [Why Don’t Women’s Clothes Have More Pockets?](https://www.nytimes.com/2023/11/06/style/pockets-womens-clothing.html)
+
+## Online
+
+[383 Design](https://www.youtube.com/@383design)
+[Techpacker](https://techpacker.com/blog/)
