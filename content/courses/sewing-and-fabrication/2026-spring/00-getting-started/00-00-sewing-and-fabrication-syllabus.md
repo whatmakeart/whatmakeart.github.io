@@ -1,7 +1,7 @@
 ---
 title: 00.00 Sewing and Fabrication Syllabus
 date: 2026-01-12T09:00:00
-lastmod: 2025-12-09T06:04:26
+lastmod: 2025-12-09T07:05:17
 ---
 
 ### Course Information
@@ -84,7 +84,7 @@ Students will explore:
 
 ### Key Dates:
 
-- an 19 – MLK Day. No Classes
+- January 19 – MLK Day. No Classes
 - March 6 – Mid Term Grades DUE
 - March 9 – 13 – Spring Break. No classes.
 - March 27 – Last day for students to withdraw from a course without a grade penalty
@@ -143,11 +143,12 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 - Students should maintain regular, on-going and timely documentation of work in progress.
 - Images should be high resolution, well exposed, in focus, and well composed.
+- [How to Document 2D Artwork](../../../../photography/how-to-document-2d-artwork.md)
+- [How to Document 3D Artwork](../../../../photography/how-to-document-3d-artwork.md)
 
 ### File Management
 
-- We will use [Canvas to turn in assignments](https://cia.instructure.com/courses/2141). If issues arise with Canvas’ file submission process then we will use Google Drive to turn in assignments.
-- The class will have a Google Drive folder specific to this course.
+- We will use [Canvas to turn in assignments](https://cia.instructure.com/courses/2141).
 - Use this format for naming all your Programming for Artists class digital files:
   - YYYY-MM-DD Smith Lane Project 1
   - 2026-01-12 Smith Lane First Day Project 1

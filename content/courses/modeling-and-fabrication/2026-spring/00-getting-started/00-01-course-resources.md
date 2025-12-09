@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2026-01-14T09:00:00Z
-lastmod: 2025-12-08T14:29:38
+lastmod: 2025-12-09T06:38:32
 ---
 
 ## Course Introduction
@@ -68,4 +68,4 @@ The course introduces basic technical sketching, third angle projections, 3D mod
 
 ## Course Information
 
-- [Syllabus](./00-00-3d-modeling-and-fabrication-syllabus.md)
+- [Syllabus](00-00-121-08-3d-modeling-and-fabrication-syllabus.md)

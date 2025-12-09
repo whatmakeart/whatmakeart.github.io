@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus
 date: 2026-01-16T12:00:00Z
-lastmod: 2025-12-08T14:29:14
+lastmod: 2025-12-09T07:05:22
 ---
 
 ### Course Information
@@ -10,7 +10,7 @@ Course Number: FNDN 121.08
 
 Department: Foundation
 
-Room: 201 + 205 Cleveland Institute of Art
+Room: 205 + 201 Cleveland Institute of Art
 
 Time: Wednesdays 9:00 am - 11:00 am & 12:00 pm - 2:30 pm
 
@@ -20,7 +20,7 @@ Office Hours: By appointment
 
 Semester: Spring 2026
 
-[Canvas Course Page]()
+[Canvas Course Page](https://cia.instructure.com/courses/2313)
 
 [Course Website](https://whatmakeart.com/courses/modeling-and-fabrication/2026-spring/)
 
@@ -79,31 +79,30 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 ### File Management
 
-- We will use Canvas to turn in assignments. If issues arise with Canvas’ file submission process then we will use Google Drive to turn in assignments.
-- The class will have a Google Drive folder specific to this course.
+- We will use Canvas to turn in assignments.
 - Use this format for naming all your Digital II class digital files:
-  - YYYYMMDD Smith Lane Project 1
-  - 20250116 Smith Lane First Day Project 1
+  - YYYY-MM-DD Smith Lane Project 1
+  - 2026-01-14 Smith Lane First Day Project 1
 
 ## Required Textbooks and Readings
 
 - No required textbook
-- Course resources are available on [Canvas]() or [online](https://whatmakeart.com/courses/modeling-and-fabrication/2026-spring/)
+- Course resources are available on [Canvas](https://cia.instructure.com/courses/2313) or [online](https://whatmakeart.com/courses/modeling-and-fabrication/2026-spring/)
 
 ## Required Supplies
 
-- Drawing Board
-- Loose Paper to Draw on (Can use printer paper or other loose paper, not paper in a sketchbook)
+- Loose Paper to Draw on (Can use printer paper or other loose paper)
 - Pencil and sharpener
 - Eraser
 - Safety Goggles (not needed on first day)
 - Hearing Protection (not needed on first day)
-- ~$50 -$75 for fabrication materials to complete projects
+- ~$50-$75 for fabrication materials to complete projects
 
 ## Recommended Materials
 
 The following materials are not required for the course but may be useful to you in the course and further study.
 
+- Drawing Board
 - T-Square
 - Straight edge for drawing lines 45 deg triangle 30 / 60 deg triangle
 - Compass for drawing circles
@@ -146,7 +145,7 @@ The following materials are not required for the course but may be useful to you
 | 10         | March 25    | Polygon Texturing                        |
 | 11         | April 1     | CNC                                      |
 | 12         | April 8     | CNC                                      |
-| 13         | April 15    | Line Animation Crit and CNC Fabrication  |
+| 13         | April 15    | 3D Animation Crit and CNC Fabrication    |
 | 14         | April 22    | Photo Documentation and Studio Work      |
 | 15         | April 29    | Final Crit                               |
 | --         | May 5 - 9   | BFA Reviews and Exhibitions              |
@@ -157,14 +156,13 @@ _\* Course schedule subject to change._
 
 ### Key Dates:
 
-- Jan 13 – First day of classes
-- Jan 20 – MLK Day. No Classes
-- March 7 – Mid Term Grades DUE
-- March 10 – 14 – Spring Break. No classes.
-- March 28 – Last day for students to withdraw from a course without a grade penalty
-- April 25 – Final Day of Classes
-- May 10 (Saturday) – Commencement
-- May 12 – Final Grades DUE for all students
+- January 19 – MLK Day. No Classes
+- March 6 – Mid Term Grades DUE
+- March 9 – 13 – Spring Break. No classes.
+- March 27 – Last day for students to withdraw from a course without a grade penalty
+- April 24 – Final Day of Classes
+- May 9 (Saturday) – Commencement
+- May 11 – Final Grades DUE for all students
 
 ## Cleveland Institute of Art Required Policy Language
 
