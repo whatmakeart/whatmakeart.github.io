@@ -1,7 +1,7 @@
 ---
 title: 10.07 Zine Assignment
 date: 2025-04-02T09:00:00
-lastmod: 2025-12-10T19:55:15
+lastmod: 2025-12-10T19:56:24
 ---
 
 ## Assignment Deliverables
@@ -48,7 +48,6 @@ Molesworth, Helen. _Part Sculpture Part Object, “Duchamp: By Hand Even”_.
 | Zine Screen Print                               | 50 points |
 | Zine Narrative Panels                           | 50 points |
 | Zines cut and folded                            | 50 points |
-| Cutting and folding craftsmanship               | 25 points |
 | Minimum 1 zine per student                      | 25 points |
 | Documentation photo 1 uploaded                  | 25 points |
 | Documentation photo 2 uploaded                  | 25 points |
