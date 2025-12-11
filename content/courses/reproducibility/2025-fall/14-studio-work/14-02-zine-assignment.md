@@ -1,7 +1,7 @@
 ---
 title: 14.02 Zine Assignment
 date: 2025-12-03T12:00:00
-lastmod: 2025-12-01T17:35:18
+lastmod: 2025-12-10T20:06:08
 ---
 
 ## Assignment Deliverables
@@ -41,9 +41,7 @@ Efficient use of class time allows for the completion of the screen printing pro
 | ----------------------------------------------- | --------- |
 | Zine Screen Print                               | 50 points |
 | Zine Narrative Panels                           | 50 points |
-| Zines cut and folded                            | 25 points |
-| Cutting and folding craftsmanship               | 25 points |
-| Zine editions signed and numbered               | 25 points |
+| Zines cut and folded                            | 50 points |
 | Minimum 1 zine per student                      | 25 points |
 | Documentation photo 1 uploaded                  | 25 points |
 | Documentation photo 2 uploaded                  | 25 points |
