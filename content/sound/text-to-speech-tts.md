@@ -1,7 +1,7 @@
 ---
 title: Text to Speech TTS
 date: 2025-12-12T03:44:17
-lastmod: 2025-12-12T08:20:13
+lastmod: 2025-12-12T08:22:51
 ---
 
 ## Open Source Text to Speech Models
@@ -11,12 +11,12 @@ lastmod: 2025-12-12T08:20:13
 Install on a mac with terminal.
 
 1.  [How to Install Homebrew](../coding/install-homebrew.md) if you do not have homebrew installed.
-2.  Make sure that ffmpeg is installed and libsndfile for savine sound files.
+2.  Make sure that ffmpeg is installed and libsndfile for saving sound files. After homebrew is installed, type the following into a new Terminal window.
     `brew install ffmpeg libsndfile`
 3.  Create a directory and move into it.
     `mkdir chatterbox_project`
     `cd chatterbox_project`
-4.  Create a virtual python environment with Python version 3.11
+4.  Create a virtual python environment with Python version 3.11. This helps keep the install clean by keeping everything in a `venv` container that is easy to delete without disturbing other python projects or the OS python installation. It also allows the use of Python version 3.11 even if you have a different version installed.
     `python@3.11 -m venv venv`
 5.  Activate the python environment
     `source venv/bin/activate`
@@ -67,7 +67,7 @@ if __name__ == "__main__":
 ### Add Emotion and Language Controls
 
 13. For more options such as emotions or multiple languages you need to create a new python file.
-14. To stop the current python file if it is still runnining in terminal. Click on the terminal window and press `control + C`.
+14. To stop the current python file if it is still running in terminal. Click on the terminal window and press `control + C`.
 15. Create new python file.
     `touch multi-gradio.py`
 16. Open file in text editor and paste this code.
