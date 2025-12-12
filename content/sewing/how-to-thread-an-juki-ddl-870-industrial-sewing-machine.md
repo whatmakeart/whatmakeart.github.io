@@ -1,7 +1,7 @@
 ---
 title: How to Thread a Juki DDL 8700
 date: 2023-05-23T21:59:40
-lastmod: 2025-09-30T18:50:55
+lastmod: 2025-12-11T05:48:40
 ---
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe width="560" height="315" src="https://www.youtube.com/embed/ByMZ_x4DyIk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
@@ -20,7 +20,7 @@ To complete this tutorial you should be familiar with basic [Sewing](./sewing.md
 
 ## Instructions
 
-### Threading the Jukie DDL 8700
+### Threading the Juki DDL 8700
 
 1. Put two spools of thread onto the spool stand.
 2. Pull the left thread down towards the post on the top of the machine.

@@ -1,7 +1,7 @@
 ---
 title: Sewing
 date: 2024-11-10T16:01:02
-lastmod: 2025-08-19T06:18:04
+lastmod: 2025-12-11T05:47:47
 ---
 
 Sewing is the process to use thread to mechanically attach to print planer pieces of [fabric](fabric.md) together. Generally, the pieces are cut in specific shapes that after so together will create a three-dimensional form. Often these forms are to fit around the shape of the human body or a piece of architecture.
@@ -208,12 +208,10 @@ The sites below contain a wealth of information about sewing and pattern making 
 
 [Amazon has developed an AI Fashion Designer](https://www.technologyreview.com/s/608668/amazon-has-developed-an-ai-fashion-designer/)
 
-[Making Sense of Pattern Grading - Threads Magazing](http://www.threadsmagazine.com/item/4368/making-sense-of-pattern-grading/page/all)
+[Making Sense of Pattern Grading](http://www.threadsmagazine.com/item/4368/making-sense-of-pattern-grading/page/all) - Threads Magazine
 
 Big Picture Science podcast Apt to Adapt June 9, 2014
 
 Electric sewing machines - after the introduction of the electric sewing machine vs the pedal driven machine it saved -15 calories an hour which added up to -51000 calories a year, enough to run a few marathons.
 
-The archive saving home sewing history from the trash - The Verge
-
-https://www.theverge.com/23169321/commercial-pattern-archive-home-sewing-database
+[The archive saving home sewing history from the trash](https://www.theverge.com/23169321/commercial-pattern-archive-home-sewing-database) - The Verge
