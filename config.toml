@@ -57,7 +57,7 @@ lastmod = ["lastmod", ":git", "date", "publishDate"]
 unsafe = true
 
 [markup.highlight]
-      style = "friendly"
+      style = "monokai"
       codeFences = true
       guessSyntax = true
       hl_Lines = ""
