@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2025-11-12T11:46:44
+lastmod: 2025-12-15T07:22:34
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -153,7 +153,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | [Mesh 3D Modeling (Blender, Maya, SketchUp, Rhino](../3d-modeling/polygon-mesh-3d-modeling-basics.md)) |       |             |             |             |             |
 | Wet Felting                                                                                            |       |             |             |             |             |
 | Sound Recording                                                                                        |       |             |             |             |             |
-| Physical Computing                                                                                     |       |             |             |             |             |
+| [Physical Computing](../electronics/physical-computing.md)                                             |       |             |             |             |             |
 | [Wood Carving](../woodworking/wood-carving-basics.md)                                                  |       |             |             |             |             |
 | Video Editing                                                                                          |       |             |             |             |             |
 | [Vinyl Cutting](../digital-fabrication/vinyl-cutting-basics.md)                                        |       |             |             |             |             |
@@ -172,7 +172,8 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | [Sound Editing](../sound/sound-editing-basics.md)                                                      |       |             |             |             |             |
 | [Plastic Fabrication](../making/plastic-fabrication-basics.md)                                         |       |             |             |             |             |
 | Paper Tape Molds                                                                                       |       |             |             |             |             |
-| Web Design / Net Art                                                                                   |       |             |             |             |             |
+| [Web Design](../coding/web-design.md)                                                                  |       |             |             |             |             |
+| Net Art                                                                                                |       |             |             |             |             |
 | 2D Animation                                                                                           |       |             |             |             |             |
 | 3D Animation                                                                                           |       |             |             |             |             |
 | Weaving                                                                                                |       |             |             |             |             |

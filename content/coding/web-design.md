@@ -1,10 +1,13 @@
 ---
 title: Web Design
 date: 2023-05-23T21:59:40
-lastmod: 2024-01-16T06:10:50
+lastmod: 2025-12-15T07:20:15
 ---
 
 ## Web Design Tutorials
+
+- [HTML Crash Course](./html-crash-course.md)
+- [CSS Crash Course](./css-crash-course.md)
 
 This shows how to use [GitHub-Pages](configure-username-email-in-git-windows.md) to make a website.
 
