@@ -1,7 +1,7 @@
 ---
-title: 00.00 Digital II Modeling and Fabrication Syllabus 121.08 Wednesday
+title: 00.00 Digital II Modeling and Fabrication Syllabus 121.07 Thursday
 date: 2026-01-16T09:00:00Z
-lastmod: 2025-12-15T06:06:15
+lastmod: 2025-12-15T06:06:00
 ---
 
 ### Course Information
@@ -12,7 +12,7 @@ Department: Foundation
 
 Room: 205 + 201 Cleveland Institute of Art
 
-Time: Wednesdays 9:00 am - 11:00 am & 12:00 pm - 2:30 pm
+Time: Thursdays 9:00 am - 11:00 am & 12:00 pm - 2:30 pm
 
 Faculty: Jimmy Kuehnle - jkuehnle@cia.edu
 
@@ -20,7 +20,7 @@ Office Hours: By appointment
 
 Semester: Spring 2026
 
-[Canvas Course Page](https://cia.instructure.com/courses/2313)
+[Canvas Course Page](https://cia.instructure.com/courses/2311)
 
 [Course Website](https://whatmakeart.com/courses/modeling-and-fabrication/2026-spring/)
 
@@ -87,7 +87,7 @@ Projects must be turned in on time. On time is before the beginning of class on 
 ## Required Textbooks and Readings
 
 - No required textbook
-- Course resources are available on [Canvas](https://cia.instructure.com/courses/2313) or [online](https://whatmakeart.com/courses/modeling-and-fabrication/2026-spring/)
+- Course resources are available on [Canvas](https://cia.instructure.com/courses/2311) or [online](https://whatmakeart.com/courses/modeling-and-fabrication/2026-spring/)
 
 ## Required Supplies
 
@@ -132,22 +132,22 @@ The following materials are not required for the course but may be useful to you
 
 | **Module** | **Date**    | **Topic**                                                                                              |
 | ---------- | ----------- | ------------------------------------------------------------------------------------------------------ |
-| 1          | January 14  | [Technical Sketching and 3D Modeling](../01-technical-sketching-and-3d-modeling/01-00-introduction.md) |
-| 2          | January 21  | Fusion 360 Sketching and Modeling Basics                                                               |
-| 3          | January 28  | 3D Printing                                                                                            |
-| 4          | February 4  | Laser Cutting                                                                                          |
-| 5          | February 11 | Laser Cutting Fabrication                                                                              |
-| 6          | February 18 | Project Revisions and 3D Scanning                                                                      |
-| 7          | February 25 | Clamp Critique and 3D Scan Cleanup                                                                     |
-| 8          | March 4     | Polygon Mesh 3D Modeling                                                                               |
-| --         | March 11    | **No Class Spring Break**                                                                              |
-| 9          | March 18    | 3D Animation                                                                                           |
-| 10         | March 25    | Polygon Texturing                                                                                      |
-| 11         | April 1     | CNC                                                                                                    |
-| 12         | April 8     | CNC                                                                                                    |
-| 13         | April 15    | 3D Animation Crit and CNC Fabrication                                                                  |
-| 14         | April 22    | Photo Documentation and Studio Work                                                                    |
-| 15         | April 29    | Final Crit                                                                                             |
+| 1          | January 15  | [Technical Sketching and 3D Modeling](../01-technical-sketching-and-3d-modeling/01-00-introduction.md) |
+| 2          | January 22  | Fusion 360 Sketching and Modeling Basics                                                               |
+| 3          | January 29  | 3D Printing                                                                                            |
+| 4          | February 5  | Laser Cutting                                                                                          |
+| 5          | February 12 | Laser Cutting Fabrication                                                                              |
+| 6          | February 19 | Project Revisions and 3D Scanning                                                                      |
+| 7          | February 26 | Clamp Critique and 3D Scan Cleanup                                                                     |
+| 8          | March 5     | Polygon Mesh 3D Modeling                                                                               |
+| --         | March 12    | **No Class Spring Break**                                                                              |
+| 9          | March 19    | 3D Animation                                                                                           |
+| 10         | March 26    | Polygon Texturing                                                                                      |
+| 11         | April 2     | CNC                                                                                                    |
+| 12         | April 9     | CNC                                                                                                    |
+| 13         | April 16    | 3D Animation Crit and CNC Fabrication                                                                  |
+| 14         | April 23    | Photo Documentation and Studio Work                                                                    |
+| 15         | April 30    | Final Crit                                                                                             |
 | --         | May 5 - 9   | BFA Reviews and Exhibitions                                                                            |
 
 </div>

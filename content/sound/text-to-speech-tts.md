@@ -1,19 +1,19 @@
 ---
 title: Text to Speech TTS
 date: 2025-12-12T03:44:17
-lastmod: 2025-12-12T08:22:51
+lastmod: 2025-12-15T05:45:33
 ---
 
 ## Open Source Text to Speech Models
 
 ### Chatterbox
 
-Install on a mac with terminal.
+Install Chatterbox on a Mac with the Terminal app.
 
-1.  [How to Install Homebrew](../coding/install-homebrew.md) if you do not have homebrew installed.
+1.  If you do not have homebrew installed, it is recommended to install it first. [How to Install Homebrew](../coding/install-homebrew.md).
 2.  Make sure that ffmpeg is installed and libsndfile for saving sound files. After homebrew is installed, type the following into a new Terminal window.
     `brew install ffmpeg libsndfile`
-3.  Create a directory and move into it.
+3.  Create a directory and move into it by typing the following commands into Terminal.
     `mkdir chatterbox_project`
     `cd chatterbox_project`
 4.  Create a virtual python environment with Python version 3.11. This helps keep the install clean by keeping everything in a `venv` container that is easy to delete without disturbing other python projects or the OS python installation. It also allows the use of Python version 3.11 even if you have a different version installed.
