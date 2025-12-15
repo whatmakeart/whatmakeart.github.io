@@ -65,7 +65,7 @@ unsafe = true
       lineNos = false # show line numbers in code blocks
       lineNumbersInTable = false # prevent line numbers from being copied with code
       tabWidth = 4
-      noClasses = true
+      noClasses = false
 
 [menu]
 [[menu.main]]

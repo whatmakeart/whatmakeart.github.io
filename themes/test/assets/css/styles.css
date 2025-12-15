@@ -653,8 +653,8 @@ pre {
 }
 
 .highlight > .chroma {
-  color: #d0d0d0;
-  background-color: #212121;
+  /*color: #d0d0d0;
+  background-color: #212121;*/
   position: static;
   z-index: 1;
   border-radius: 4px;
@@ -693,9 +693,9 @@ pre {
 }
 
 .copy-code-button {
-  color: #272822;
+  /*color: #272822;
   background-color: #fff;
-  border-color: #272822;
+  border-color: #272822;*/
   border: 2px solid;
   border-radius: 3px 3px 0px 0px;
   min-width: 6rem;
@@ -710,19 +710,19 @@ pre {
 
 .copy-code-button:hover {
   cursor: pointer;
-  background-color: #f2f2f2;
+  /*background-color: #f2f2f2;*/
 }
 
 .copy-code-button:focus {
   /* Avoid an ugly focus outline on click in Chrome,
      but darken the button for accessibility.
      See https://stackoverflow.com/a/25298082/1481479 */
-  background-color: #e6e6e6;
+  /*background-color: #e6e6e6;*/
   outline: 0;
 }
 
 .copy-code-button:active {
-  background-color: #d9d9d9;
+  /*background-color: #d9d9d9;*/
 }
 
 .highlight pre {
