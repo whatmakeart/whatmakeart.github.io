@@ -1,7 +1,7 @@
 ---
 title: Text to Speech TTS
 date: 2025-12-12T03:44:17
-lastmod: 2025-12-15T14:27:02
+lastmod: 2025-12-15T14:31:26
 ---
 
 ## Open Source Text to Speech Models
@@ -12,20 +12,48 @@ Install Chatterbox on a Mac with the Terminal app.
 
 1.  If you do not have homebrew installed, it is recommended to install it first. [How to Install Homebrew](../coding/install-homebrew.md).
 2.  Make sure that ffmpeg is installed and libsndfile for saving sound files. After homebrew is installed, type the following into a new Terminal window.
-    - `brew install ffmpeg libsndfile`
+
+```bash
+brew install ffmpeg libsndfile
+```
+
 3.  Create a directory and move into it by typing the following commands into Terminal.
-    - `mkdir chatterbox_project`
-    - `cd chatterbox_project`
+
+```bash
+mkdir chatterbox_project
+cd chatterbox_project
+```
+
 4.  Create a virtual python environment with Python version 3.11. This helps keep the install clean by keeping everything in a `venv` container that is easy to delete without disturbing other python projects or the OS python installation. It also allows the use of Python version 3.11 even if you have a different version installed.
-    - `python3.11 -m venv venv`
+
+```bash
+python3.11 -m venv venv
+```
+
 5.  Activate the python environment
-    - `source venv/bin/activate`
+
+```bash
+source venv/bin/activate
+```
+
 6.  Upgrade pip/setuptools/wheel
-    - `pip install --upgrade pip setuptools wheel`
+
+```bash
+pip install --upgrade pip setuptools wheel
+```
+
 7.  Install chatterbox
-    - `pip install chatterbox-tts`
+
+```bash
+pip install chatterbox-tts
+```
+
 8.  Create python file to hold Gradio Gui Code.
-    - `touch clone-gradio.py`
+
+```bash
+touch clone-gradio.py
+```
+
 9.  Open the file in a text editor or code editor and paste in this python code. [^chatter-clone-gradio]
 
 ```python
@@ -59,8 +87,12 @@ if __name__ == "__main__":
 
 ```
 
-10. Run the script
-    `python clone-gradio.py`
+10. Run the script in Terminal.
+
+```bash
+python clone-gradio.py
+```
+
 11. Wait for the models to download, this can take a while.
 12. Then go to the local URL address in terminal to use to clone voice for text to speech TTS.
 
@@ -69,7 +101,11 @@ if __name__ == "__main__":
 13. For more options such as emotions or multiple languages you need to create a new python file.
 14. To stop the current python file if it is still running in terminal. Click on the terminal window and press `control + C`.
 15. Create new python file with the touch command.
-    - `touch multi-gradio.py`
+
+```bash
+touch multi-gradio.py
+```
+
 16. Open the newly created file in text editor and paste this code.
 
 ```python
@@ -201,7 +237,3 @@ if __name__ == "__main__":
 ## References
 
 [^chatter-clone-gradio]: [Chatterbot Gradio Voice Clone](https://github.com/resemble-ai/chatterbox/blob/master/gradio_vc_app.py)
-
-```
-
-```
