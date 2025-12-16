@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 FAQ
 date: 2023-06-15T15:27:02
-lastmod: 2025-09-27T06:14:47
+lastmod: 2025-12-16T15:45:23
 tags:
   - Fusion 360
 ---
@@ -11,6 +11,7 @@ tags:
 - **How to move a body?** - Press m on the keyboard for the move / copy tool.
 - **How to select whole body and not just a face?** - Click on the underlined body in the outline after clicking one of its faces, or change the selection priority to bodies in the top right selection menu.
 - [How to export a .f3d Fusion 360 file?](./export-f3d-file-fusion-360.md)
+- [How to turn on dark mode](./dark-mode-fusion.md)
 
 ## Sketching
 
