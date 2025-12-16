@@ -1,12 +1,19 @@
 ---
 title: Text to Speech TTS
 date: 2025-12-12T03:44:17
-lastmod: 2025-12-15T14:31:26
+lastmod: 2025-12-15T19:57:14
 ---
 
 ## Open Source Text to Speech Models
 
 ### Chatterbox
+
+<div class="video-grid">
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/DokVGHgU8Zk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+- [Install Chatterbox on Mac](https://youtu.be/DokVGHgU8Zk)
 
 Install Chatterbox on a Mac with the Terminal app.
 
@@ -231,7 +238,11 @@ if __name__ == "__main__":
 ```
 
 16. Save the file and run it.
-    `python multi-gradio.py`
+
+```bash
+python multi-gradio.py
+```
+
 17. Wait for more models to download and then type in the local URL displayed in terminal into a browser.
 
 ## References
