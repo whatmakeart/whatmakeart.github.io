@@ -1,7 +1,7 @@
 ---
 title: Fusion 360
 date: 2023-05-26T02:50:47
-lastmod: 2025-10-01T09:18:51
+lastmod: 2025-12-17T07:25:02
 aliases:
   - Fusion 360
 ---
