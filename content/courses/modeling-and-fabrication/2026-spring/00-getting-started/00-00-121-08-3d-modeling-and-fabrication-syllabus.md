@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus 121.08 Wednesday
 date: 2026-01-16T09:00:00Z
-lastmod: 2025-12-18T14:39:51
+lastmod: 2025-12-18T15:04:25
 ---
 
 ### Course Information
@@ -10,7 +10,7 @@ Course Number: FNDN 121.08
 
 Department: Foundation
 
-Room: 205 + 201 Cleveland Institute of Art
+Room: 203 + 201 Cleveland Institute of Art
 
 Time: Wednesdays 9:00 am - 11:00 am & 12:00 pm - 2:30 pm
 
