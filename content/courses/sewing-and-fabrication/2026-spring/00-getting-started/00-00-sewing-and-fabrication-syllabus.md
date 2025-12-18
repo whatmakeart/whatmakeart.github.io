@@ -1,7 +1,7 @@
 ---
 title: 00.00 Sewing and Fabrication Syllabus
 date: 2026-01-12T09:00:00
-lastmod: 2025-12-09T07:05:17
+lastmod: 2025-12-18T15:00:50
 ---
 
 ### Course Information
@@ -30,25 +30,41 @@ This is a sewing and patternmaking class. The class will emphasize skills in mac
 
 ## Course Goals and Learning Objectives
 
-Students will be introduced to:
+### 200 Level
 
-- Industrial and domestic lock stitch sewing machines, special use commercial machines and their functions, such as the serger / marrow machine, chain stitch machine, post bed machines etc.
-- Basic seam types and their uses
-- Basic sewing applications and their uses
-- Traditional and non-traditional materials, processes and forms related to sewing as a construction process.
-- Identifying and sequencing the operations needed to fabricate a complex form
-- Flat pattern drafting
-- Visualizing three dimensional forms—and the attendant skills to analyze the relationship between a volumetric form and its surface/ skin.
+- Demonstrate introductory knowledge of industrial and domestic lock stitch sewing machines, including safe operation of special use commercial machines such as the serger.
+- Identify and execute basic seam types and their appropriate applications in construction.
+- Demonstrate basic proficiency in flat pattern drafting and the sequencing of operations needed to fabricate a form.
+- Translate 2D concepts into 3D forms, identifying the relationship between volumetric form and surface or skin.
+- Explore traditional and non-traditional materials in the context of sewing as a construction process.
+- Explore the cultural connotations of cloth and how they relate to meaning in a work of art.
+- Practice experimentation and risk-taking in the creation of studio work.
+- Utilize research to begin developing artistic ideas.
+- Participate in critiques to evaluate work and articulate basic analytical ideas regarding the work of peers.
 
-Students will explore:
+### 300 Level
 
-- Sewing as a fabrication system and its uses in art
-- Using the sewing machine to invent and construct planar materials
-- The relationship between the cultural connotations of cloth and the intended meaning of a work of art.
-- Experimentation and risk taking in studio practice
-- The role of research in developing ideas
-- The role of critique in evaluating and refining their work/ideas
-- Expand their ability to articulate complex ideas in critiquing the work of others.
+- Demonstrate intermediate proficiency and independence in the operation of industrial, domestic, and special use machines.
+- Analyze and select complex seam types and construction methods
+- Apply flatt pattern drafting to complex fabrication challenges
+- Analyze and resolve the relationship between complex volumetric forms and their skins
+- Integrate non-traditional materials effectively into sewing fabrication systems
+- Move beyond exploration to intentional application of the materiality of cloth and the conceptual intent of the work
+- Demonstrate a consistent methodology of experimentation that informs the direction of finished pieces.
+- Synthesize research into the physical production of the work.
+- Demonstrate an expanding vocabulary in critique, offering specific, actionable, and conceptually grounded feedback to peers.
+
+### 400 Level
+
+- Use specific sewing machines to achieve specialized aesthetic or structural results.
+- Innovate new construction processes to facilitate experimental forms.
+- Execute complex pattern drafting and fabrication sequences for ambitious, large-scale, or highly detailed forms with professional-level finish.
+- Subvert or expand upon traditional notions of volume and skin, using the sewing machine to invent novel planar materials and three-dimensional structures.
+- Fabricate stable forms from unconventional media.
+- Articulate a sophisticated understanding of the cultural and historical weight of textiles, positioning one’s own work within or against that history.
+- Develop a self-directed body of work where risk-taking leads to resolved, professional-quality outcomes.
+- Conduct deep, independent research that is clearly legible in the final artwork.
+- Lead critique discussions, demonstrating the ability to deconstruct complex ideas and relate peer work to broader contemporary art discourses.
 
 ## Course Organization / Method of Instruction
 

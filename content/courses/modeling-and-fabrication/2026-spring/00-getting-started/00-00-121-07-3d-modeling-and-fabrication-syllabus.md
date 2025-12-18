@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus 121.07 Thursday
 date: 2026-01-16T09:00:00Z
-lastmod: 2025-12-15T06:06:00
+lastmod: 2025-12-18T14:40:11
 ---
 
 ### Course Information
@@ -143,9 +143,9 @@ The following materials are not required for the course but may be useful to you
 | --         | March 12    | **No Class Spring Break**                                                                              |
 | 9          | March 19    | 3D Animation                                                                                           |
 | 10         | March 26    | Polygon Texturing                                                                                      |
-| 11         | April 2     | CNC                                                                                                    |
-| 12         | April 9     | CNC                                                                                                    |
-| 13         | April 16    | 3D Animation Crit and CNC Fabrication                                                                  |
+| 11         | April 2     | XR Studio Motion Capture                                                                               |
+| 12         | April 9     | CNC Design                                                                                             |
+| 13         | April 16    | CNC Fabrication                                                                                        |
 | 14         | April 23    | Photo Documentation and Studio Work                                                                    |
 | 15         | April 30    | Final Crit                                                                                             |
 | --         | May 5 - 9   | BFA Reviews and Exhibitions                                                                            |
