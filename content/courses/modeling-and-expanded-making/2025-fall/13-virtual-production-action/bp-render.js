@@ -4,6 +4,11 @@
  */
 
 (function () {
+  // --- START FIX: Prevent multiple initializations ---
+  if (window.bpRenderInitialized) return;
+  window.bpRenderInitialized = true;
+  // --- END FIX ---
+
   // --- 1. INJECT CSS (UE5 Style) ---
   const css = `
         .bp-container {
