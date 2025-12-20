@@ -6,7 +6,6 @@
 @import "bootstrap/variables";
 @import "bootstrap-docs/variables";
 @import "bootstrap/variables-dark";
-// Load docs components
 
 // 4. Include any default map overrides here
 
@@ -61,24 +60,15 @@
 // Load docs components
 
 @import "bootstrap-docs/navbar";
-// @import "bootstrap-docs/search";
-// @import "bootstrap-docs/masthead";
 @import "bootstrap-docs/content";
-@import "bootstrap-docs/skippy";
 @import "bootstrap-docs/sidebar";
 @import "bootstrap-docs/layout";
 @import "bootstrap-docs/toc";
-@import "bootstrap-docs/footer";
-// @import "bootstrap-docs/buttons";
-// @import "bootstrap-docs/callouts";
-@import "bootstrap-docs/brand";
-// @import "bootstrap-docs/colors";
-@import "bootstrap-docs/clipboard-js";
-// @import "bootstrap-docs/placeholder-img";
-@import "bootstrap-docs/scrolling";
 
-// Load docs dependencies
-// @import "bootstrap-docs/syntax";
-// @import "bootstrap-docs/anchor";
+// Load bd-docs styles converted to wma styles
 
+@import "whatmakeart-styles/footer";
+@import "whatmakeart-styles/scrolling"; // When navigating with the keyboard, prevent focus from landing behind the sticky header
+
+// Import Code Block Styles
 @import "syntax_onedark"; // Hugo Generated Monokai styles

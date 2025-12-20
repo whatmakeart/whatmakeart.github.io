@@ -620,8 +620,7 @@ acronym[title]:after {
 #bdNavbar,
 #bdNavbarOffcanvasLabel,
 .bd-sidebar,
-.bd-toc,
-.skippy {
+.bd-toc {
   display: none;
 }
 

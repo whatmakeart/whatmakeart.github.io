@@ -10,15 +10,7 @@
   color: #abb2bf;
   background-color: #282c34;
 }
-/* Other */
-.chroma .x {
-}
-/* Error */
-.chroma .err {
-}
-/* CodeLine */
-.chroma .cl {
-}
+
 /* LineLink */
 .chroma .lnlinks {
   outline: none;
@@ -179,12 +171,7 @@
   color: #56b6c2;
   font-weight: bold;
 }
-/* Literal */
-.chroma .l {
-}
-/* LiteralDate */
-.chroma .ld {
-}
+
 /* LiteralString */
 .chroma .s {
   color: #98c379;
@@ -277,9 +264,7 @@
 .chroma .ow {
   color: #56b6c2;
 }
-/* Punctuation */
-.chroma .p {
-}
+
 /* Comment */
 .chroma .c {
   color: #7f848e;
@@ -308,47 +293,16 @@
 .chroma .cpf {
   color: #7f848e;
 }
-/* Generic */
-.chroma .g {
-}
+
 /* GenericDeleted */
 .chroma .gd {
   color: #e06c75;
 }
-/* GenericEmph */
-.chroma .ge {
-}
-/* GenericError */
-.chroma .gr {
-}
-/* GenericHeading */
-.chroma .gh {
-}
+
 /* GenericInserted */
 .chroma .gi {
   color: #98c379;
   font-weight: bold;
-}
-/* GenericOutput */
-.chroma .go {
-}
-/* GenericPrompt */
-.chroma .gp {
-}
-/* GenericStrong */
-.chroma .gs {
-}
-/* GenericSubheading */
-.chroma .gu {
-}
-/* GenericTraceback */
-.chroma .gt {
-}
-/* GenericUnderline */
-.chroma .gl {
-}
-/* TextWhitespace */
-.chroma .w {
 }
 
 /* Target the code block container */
