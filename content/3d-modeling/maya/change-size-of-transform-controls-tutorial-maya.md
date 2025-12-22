@@ -5,8 +5,8 @@ lastmod: 2025-09-30T17:53:45
 description: Sometimes the cursor in Maya is super huge. How do you make the cursor or transform controls smaller in Maya?
 featured_image: /3d-modeling/maya/attachments/maya-change-size-of-move-tool-title.jpg
 tags:
+  - 3D-Modeling
   - Maya
-  - 3D Modeling
 aliases: /posts/change-size-of-transform-controls-maya-tutorial/
 ---
 

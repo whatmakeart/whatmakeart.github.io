@@ -1,12 +1,12 @@
 ---
 date: 2023-03-17T8:30:00-04:00
 lastmod: 2025-09-30T17:53:45
-description:
+description: null
 featured_image: /posts/images/what-is-a-slip-ring.jpg
 tags:
-  - Fabrication
   - Electronics
-  - Slip Ring
+  - Fabrication
+  - Slip-Ring
 title: What is a Slip Ring?
 ---
 

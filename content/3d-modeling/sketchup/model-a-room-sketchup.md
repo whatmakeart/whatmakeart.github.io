@@ -3,7 +3,7 @@ title: Model a Room in SketchUp
 date: 2024-09-04T06:16:12
 lastmod: 2025-09-30T17:53:45
 tags:
-  - 3D Modeling
+  - 3D-Modeling
   - SketchUp
 ---
 

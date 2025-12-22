@@ -4,8 +4,8 @@ lastmod: 2025-09-30T17:53:45
 description: Fast strobe light video for turning a screen into a strobe light.
 featured_image: /posts/images/strobe-light-fast.jpg
 tags:
-  - Video Effects
   - Strobe Light
+  - Video-Effects
 title: Strobe Light
 ---
 

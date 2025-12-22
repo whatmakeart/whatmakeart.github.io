@@ -1,12 +1,12 @@
 ---
 date: 2023-04-19T8:30:00-04:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T07:03:00
 description: In this Blender tutorial, I will show you how to quickly UV unwrap a strange object. This can be a complex shape to be able to UV unwrap, but there's a really easy way to do this in Blender.
 featured_image: /3d-modeling/blender/attachments/blender-smart-uv-project.jpg
 tags:
   - Blender
-  - 3D Modeling
-  - UV Unrwapping
+  - 3D-Modeling
+  - UV-Unrwapping
 title: How to UV Unwrap a Strange Object in Blender
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Add Materials - Blender
 date: 2023-06-14T13:48:44
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T06:59:29
 tags:
   - Blender
-  - 3D Modeling
+  - 3D-Modeling
 ---
 
 Adding Materials in [Blender](blender.md) works with shaders.

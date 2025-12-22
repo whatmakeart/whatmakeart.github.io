@@ -4,8 +4,8 @@ lastmod: 2025-09-30T17:53:45
 description: In this tutorial, I will show you how to export your SketchUp models for rendering in other applications. You can export your SketchUp models to Blender.
 featured_image: /3d-modeling/sketchup/attachments/sketchup-how-to-export.jpg
 tags:
+  - 3D-Modeling
   - SketchUp
-  - 3D Modeling
   - tutorial
 title: How to export SketchUp
 ---

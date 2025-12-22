@@ -4,7 +4,7 @@ date: 2021-04-18T14:46:26
 lastmod: 2025-09-30T17:53:45
 featured_image: /video/adobe-premiere-pro/attachments/run-fast-adobe-premiere-special-effect-tutorial.jpg
 tags:
-  - Adobe Premiere
+  - Adobe-Premiere
   - Tutorial
 title: Simple Run Fast Special Effect in Adobe Premiere
 aliases:

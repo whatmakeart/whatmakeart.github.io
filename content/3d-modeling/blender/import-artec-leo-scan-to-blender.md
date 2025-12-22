@@ -1,11 +1,11 @@
 ---
 title: Import Artec LEO Scan into Blender
 date: 2024-10-13T18:39:32
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T07:03:00
 tags:
-  - 3D Modeling
+  - 3D-Modeling
   - Blender
-  - 3D Scanning
+  - 3D-Scanning
 ---
 
 <div class="video-grid">

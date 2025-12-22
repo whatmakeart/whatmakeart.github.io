@@ -1,10 +1,10 @@
 ---
 title: Calibrate Photogrammetry Scanned Object Sçale in Blender
 date: 2025-01-21T14:15:56
-lastmod: 2025-01-21T14:18:18
+lastmod: 2025-12-22T06:59:29
 tags:
   - Blender
-  - 3D Modeling
+  - 3D-Modeling
   - Photogrammetry
   - Tutorial
 ---

@@ -1,11 +1,11 @@
 ---
 title: Flat Bottom 3D Scan with Boolean Intersect in Blender
 date: 2024-10-26T06:33:27
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T07:03:00
 tags:
   - Blender
   - Tutorial
-  - 3D Modeling
+  - 3D-Modeling
 ---
 
 <div class="iframe-16-9-container">

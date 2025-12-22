@@ -1,11 +1,11 @@
 ---
 date: 2023-04-26T8:30:00-04:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T06:59:29
 description: In this Blender tutorial, I will show you how to add a quick texture to a sphere and make sure it is UV wrapped correctly and then make sure the texture maps around the sphere. Sometimes when you add a texture, it doesn't go on exactly as expected.
 featured_image: /3d-modeling/blender/attachments/blender-checker-texture.jpg
 tags:
   - Blender
-  - 3D Modeling
+  - 3D-Modeling
   - Texturing
   - Tutorial
 title: How to Add a Quick Texture to a Sphere in Blender

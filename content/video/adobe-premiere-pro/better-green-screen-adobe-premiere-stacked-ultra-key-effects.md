@@ -3,7 +3,7 @@ title: How to Use Multiple Instances of Ultra Key in Premiere Pro for Green Scre
 date: 2023-09-04T16:10:36
 lastmod: 2025-09-30T17:53:45
 tags:
-  - Adobe Premiere
+  - Adobe-Premiere
   - Tutorial
 ---
 

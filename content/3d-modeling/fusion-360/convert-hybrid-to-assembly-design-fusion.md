@@ -2,6 +2,8 @@
 title: Convert Hybrid to Assembly Design
 date: 2025-12-16T15:37:46
 lastmod: 2025-12-17T07:18:06
+tags:
+  - Fusion-360
 ---
 
 <div class="video-grid">

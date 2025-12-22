@@ -5,8 +5,9 @@ lastmod: 2025-09-30T17:53:45
 description: In this Fusion 360 tutorial, I will show you how to make more robust parametric models for CNC Machining.
 featured_image: /3d-modeling/fusion-360/attachments/robust-parametric-models-fusion-360.jpg
 tags:
+  - 3D-Modeling
   - Fusion 360
-  - 3D Modeling
+  - Fusion-360
 ---
 
 <div class="iframe-16-9-container">

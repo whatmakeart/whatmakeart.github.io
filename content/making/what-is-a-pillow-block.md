@@ -5,7 +5,7 @@ description: A pillow block bearing is a type of bearing that is used to support
 featured_image: /posts/images/what-is-a-pillow-block.jpg
 tags:
   - Fabrication
-  - Pillow Block
+  - Pillow-Block
 title: What is a Pillow Block?
 ---
 

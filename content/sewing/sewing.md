@@ -1,7 +1,7 @@
 ---
 title: Sewing
 date: 2024-11-10T16:01:02
-lastmod: 2025-12-11T05:47:47
+lastmod: 2025-12-22T06:31:09
 ---
 
 Sewing is the process to use thread to mechanically attach to print planer pieces of [fabric](fabric.md) together. Generally, the pieces are cut in specific shapes that after so together will create a three-dimensional form. Often these forms are to fit around the shape of the human body or a piece of architecture.
@@ -31,12 +31,12 @@ The stitches made by hand are different than those made by a lock stitch machine
 ### Types of Hand Stitches
 
 - **Blind stitch** - nearly invisible on one side of the fabric
-- **Blanket Stitch** - binds the threads on the edge of woven fabrics to prevent unraveling - See: [How to Sew a Blanket Stitch](./how-to-sew-a-blanket-stitch.md)
+- **Blanket Stitch** - binds the threads on the edge of woven fabrics to prevent unraveling - See: [How to Sew a Blanket Stitch](how-to-sew-a-blanket-stitch.md)
 - **Overcast or Whipstich** - wraps around the edges of fabric and can prevent fraying, can also join pieces of fabric together such as a hem See: [how-to-sew-an-overcast-stitch](./how-to-sew-an-overcast-stitch.md)
 - **Buttonhole stitch** - similar to the blanket stitch but ties a knot with each stitch to make the stitching more durable to the wear and tear of button insertion - See: [How to sew a Button](./how-to-sew-a-button.md)
-- **Backstich** - basic hand stitch that is similar to the running stitch except that after comming back through the fabric, the sewer goes back to the location of the previous stitch and pushes the need through the fabric at the same location, doubling up the stitch - See: [How to Sew a Backstich](./how-to-sew-a-backstich.md)
-- **Basting Stitch** - temporary stitch used to hold pieces of fabric together during the construction process or to quickly mock up a form to check size and fit - See: [How to Sew a Basting Stitch](./how-to-sew-a-basting-stitch.md)
-- **Running Stitch** - basic hand stitch that goes into the fabric, travels a bit, and then back through the fabric in the opposite way. Multiple stitches can be made at once - See: [How to Sew a Running Stitch](./how-to-sew-a-running-stitch.md)
+- **Backstich** - basic hand stitch that is similar to the running stitch except that after comming back through the fabric, the sewer goes back to the location of the previous stitch and pushes the need through the fabric at the same location, doubling up the stitch - See: [How to Sew a Backstich](how-to-sew-a-backstich.md)
+- **Basting Stitch** - temporary stitch used to hold pieces of fabric together during the construction process or to quickly mock up a form to check size and fit - See: [How to Sew a Basting Stitch](how-to-sew-a-basting-stitch.md)
+- **Running Stitch** - basic hand stitch that goes into the fabric, travels a bit, and then back through the fabric in the opposite way. Multiple stitches can be made at once - See: [How to Sew a Running Stitch](how-to-sew-a-running-stitch.md)
 
 ### Types of Machine Stitches
 
@@ -113,10 +113,6 @@ An overlock stitch machine or [serger](serger.md) is used to keep the threads fr
 
 You need to use a larger needle. We have larger needles and the cabinet. A size 16 or 18 will work. You also need to adjust the bobbin case tension. When adjusting the bobbin case tension the little turn of the screw goes a long way. Maybe eighth to a quarter turn.
 
-Zipper Fly
-
-https://www.youtube.com/watch?v=ZUdvt4rMQXE
-
 # Sewing Material Suppliers
 
 ## Fabric
@@ -170,7 +166,7 @@ List of [Inflatable Companies](../making/inflatable-companies.md) that fabricate
 - [How to Sew a Button](./how-to-sew-a-button.md)
 - [How to Sew a Collar](./how-to-sew-a-collar.md)
 - [How to Sew a Rolled Hem](./how-to-sew-a-rolled-hem.md)
-- [How to Sew a Blind Hem](./how-to-sew-a-blind-hem.md)
+- [How to Sew a Blind Hem](how-to-sew-a-blind-hem.md)
 - [How to Sew a Dart](./how-to-sew-a-dart.md)
 - [how-to-adjust-sewing-machine tension](./how-to-adjust-sewing-machine-tension.md)
 - [How to Wind a Bobbin](./how-to-wind-a-bobbin.md)

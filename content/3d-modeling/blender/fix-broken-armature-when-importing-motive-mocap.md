@@ -1,10 +1,10 @@
 ---
 title: Fix Broken Armature When Importing Motive Mocap
 date: 2025-11-16T04:42:05
-lastmod: 2025-11-16T04:54:56
+lastmod: 2025-12-22T07:03:00
 tags:
   - Blender
-  - Motion Capture
+  - Motion-Capture
   - Motive
 ---
 

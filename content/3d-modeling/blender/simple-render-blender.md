@@ -1,12 +1,12 @@
 ---
 title: Simple Render - Blender
 date: 2023-04-12T8:30:00-04:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T07:03:00
 description: In this Blender tutorial, I will show you how to create a simple render of a cube with a backdrop and two lights.
 featured_image: /3d-modeling/blender/attachments/blender-basic-render.jpg
 tags:
   - Blender
-  - 3D Modeling
+  - 3D-Modeling
   - Rendering
 aliases:
   - /posts/blender-basic-render/

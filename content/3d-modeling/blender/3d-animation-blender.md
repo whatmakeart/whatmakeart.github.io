@@ -1,11 +1,11 @@
 ---
 title: 3D Animation - Blender
 date: 2023-06-14T11:45:49
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T06:59:29
 tags:
   - Blender
-  - 3D Animation
-  - 3D Modeling
+  - 3D-Animation
+  - 3D-Modeling
 ---
 
 [Blender](blender.md) can be used to create 3D animations. To set a keyframe in Blender press the I key.

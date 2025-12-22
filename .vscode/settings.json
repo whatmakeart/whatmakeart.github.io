@@ -51,5 +51,12 @@
     "content/courses/**/*",
     "content/zalgorithmic/**/*"
   ],
-  "foam.placeholders.exclude": ["**/_index.md"]
+  "foam.placeholders.exclude": ["**/_index.md"],
+
+  // Disable the specific "Markdown Notes" list editing (part of Foam)
+  // so it doesn't fight with Markdown All in One
+  "vscodeMarkdownNotes.list.continuation": false
+
+  // OPTIONAL: If you prefer Foam's logic, disable Markdown All in One's list editing instead:
+  // "markdown.extension.list.enabled": false
 }

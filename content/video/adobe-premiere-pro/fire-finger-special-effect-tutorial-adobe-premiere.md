@@ -4,9 +4,9 @@ date: 2021-04-17T14:40:26
 lastmod: 2025-09-30T17:53:45
 featured_image: /video/adobe-premiere-pro/attachments/fire-finger-special-effect-tutorial-adobe-premiere.jpg
 tags:
-  - Adobe Premiere
+  - Adobe-Premiere
   - Tutorial
-title: "Fire Finger Visual Special Effect"
+title: Fire Finger Visual Special Effect
 aliases:
   - /posts/fire-finger-special-effect-tutorial-adobe-premiere/
 ---

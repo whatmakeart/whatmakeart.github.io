@@ -3,8 +3,8 @@ title: 3D Modeling Basics - Maya
 date: 2023-06-16T05:44:28
 lastmod: 2025-09-30T17:53:45
 tags:
+  - 3D-Modeling
   - Maya
-  - 3D Modeling
 ---
 
 ## Maya User Interface Quick Start

@@ -1,9 +1,9 @@
 ---
 title: Fusion 360 Basic Creation Tools
 date: 2023-06-13T14:13:56
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T07:16:23
 tags:
-  - Fusion 360
+  - Fusion-360
 ---
 
 ## Polygon Primitives and Shapes

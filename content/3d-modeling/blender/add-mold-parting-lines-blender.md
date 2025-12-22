@@ -1,7 +1,10 @@
 ---
 title: Add Mold Parting Lines in Blender
 date: 2024-10-27T20:56:01
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T06:57:48
+tags:
+  - Blender
+  - 3D-Modeling
 ---
 
 Parting lines separate the different parts of a multi part mold and allow for casting more complex shapes.

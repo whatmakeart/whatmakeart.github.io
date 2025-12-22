@@ -1,12 +1,12 @@
 ---
 date: 2023-04-12T8:30:00-04:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T07:03:00
 description: In this Blender tutorial, I will show you how to move objects around in Blender. This is a basic tutorial, so it is perfect for beginners.
 featured_image: /3d-modeling/blender/attachments/blender-how-to-move.jpg
 tags:
   - Blender
-  - 3D Modeling
-  - Blender Basics
+  - 3D-Modeling
+  - Blender-Basics
 title: How to Move Objects - Blender
 draft: fa;lse
 ---

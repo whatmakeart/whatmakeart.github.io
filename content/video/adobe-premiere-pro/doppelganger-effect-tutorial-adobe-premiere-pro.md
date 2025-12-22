@@ -4,9 +4,9 @@ date: 2021-04-19T03:19:56
 lastmod: 2025-09-30T17:53:45
 featured_image: /video/adobe-premiere-pro/attachments/doppelganger-effect-adobe-premiere-tutorial.jpg
 tags:
-  - Adobe Premiere
+  - Adobe-Premiere
   - Tutorial
-title: "Doppelganger Special Effect Tutorial in Premiere Pro"
+title: Doppelganger Special Effect Tutorial in Premiere Pro
 aliases:
   - /posts/doppelganger-effect-tutorial-adobe-premiere-pro/
 ---

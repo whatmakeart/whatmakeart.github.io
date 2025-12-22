@@ -1,9 +1,9 @@
 ---
 title: Fusion 360 Basic Pattern Tools
 date: 2023-06-13T14:39:39
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T07:16:23
 tags:
-  - Fusion 360
+  - Fusion-360
 ---
 
 ## Examples of Patterns in the Environment

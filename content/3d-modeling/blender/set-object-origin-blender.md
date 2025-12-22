@@ -1,11 +1,11 @@
 ---
 title: Set Object Origin Blender
 date: 2025-02-10T07:14:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T07:03:00
 tags:
   - Blender
   - Tutorial
-  - 3D Modeling
+  - 3D-Modeling
 ---
 
 <div class="iframe-16-9-container">

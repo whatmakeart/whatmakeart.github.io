@@ -5,8 +5,8 @@ lastmod: 2025-09-30T17:53:45
 description: In this Autodesk Maya tutorial, I will show you how to create a photo swoop quickly and easily. I will also show you how to export a render image of your scene.
 featured_image: /3d-modeling/maya/attachments/maya-basic-render.jpg
 tags:
+  - 3D-Modeling
   - Maya
-  - 3D Modeling
   - Rendering
 aliases: /posts/maya-basic-render/
 ---

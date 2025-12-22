@@ -1,10 +1,10 @@
 ---
 date: 2023-01-26T8:30:00-04:00
 lastmod: 2025-09-30T17:53:45
-description:
+description: null
 featured_image: /posts/images/white-noise-black-screen.jpg
 tags:
-  - White Noise
+  - White-Noise
 title: White Noise Black Screen
 ---
 

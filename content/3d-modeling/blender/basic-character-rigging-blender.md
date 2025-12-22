@@ -1,7 +1,10 @@
 ---
 title: Basic Character Rigging Blender
 date: 2025-04-03T09:57:13
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T06:58:21
+Tags:
+  - Rigging
+  - 3D-Modeling
 ---
 
 - [Rigify Basic Human Rig Blender](https://youtu.be/XYQR-7DN1yk)

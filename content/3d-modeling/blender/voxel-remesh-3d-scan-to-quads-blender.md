@@ -1,11 +1,11 @@
 ---
 title: Voxel Remesh 3D Scan to Quads in Blender
 date: 2024-10-14T21:20:30
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T07:03:00
 tags:
   - Blender
-  - 3D Modeling
-  - 3D Scanning
+  - 3D-Modeling
+  - 3D-Scanning
 ---
 
 <div class="iframe-16-9-container">

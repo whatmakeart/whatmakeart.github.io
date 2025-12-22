@@ -4,7 +4,8 @@ date: 2023-06-14T13:04:03
 lastmod: 2025-09-30T18:44:13
 tags:
   - Fusion 360
-  - Laser Cutting
+  - Fusion-360
+  - Laser-Cutting
 ---
 
 Once your model is complete and each piece is a separate and labeled component, you are ready to lay your pieces flat to create a DXF toolpath file for the laser cutter.

@@ -4,8 +4,8 @@ lastmod: 2025-09-30T17:53:45
 description: In this tutorial, I will show you how to prepare your SketchUp models for export to Blender so you can make photorealistic renders.
 featured_image: /posts/sketchup-prepare-model-for-export.md
 tags:
+  - 3D-Modeling
   - SketchUp
-  - 3D Modeling
 title: SketchUp Prepare Model for Export
 ---
 

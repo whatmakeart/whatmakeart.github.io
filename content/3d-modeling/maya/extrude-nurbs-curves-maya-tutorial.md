@@ -5,8 +5,8 @@ lastmod: 2025-09-30T17:53:45
 description: Extrude a nurbs curve in Maya
 featured_image: /3d-modeling/maya/attachments/extrude-nurbs-curves-title.jpg
 tags:
+  - 3D-Modeling
   - Maya
-  - 3D Modeling
   - Tutorial
 aliases: /posts/extrude-nurbs-curves-maya-tutorial/
 ---

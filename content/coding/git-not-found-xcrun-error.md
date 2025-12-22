@@ -6,9 +6,9 @@ description: How can you fix your git installation when installed on a mac but V
 featured_image: /coding/attachments/git-not-found-title.jpg
 tags:
   - Coding
-  - Visual Studio Code
-  - git
   - Tutorial
+  - Visual-Studio-Code
+  - git
 ---
 
 <div class="iframe-16-9-container">

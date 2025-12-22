@@ -1,11 +1,11 @@
 ---
 title: Clean Up 3D Scan Imported Mesh in Blender
 date: 2024-10-14T06:35:26
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T06:59:14
 tags:
-  - 3D Modeling
+  - 3D-Modeling
   - Blender
-  - 3D Scanning
+  - 3D-Scanning
 ---
 
 <div class="video-grid">

@@ -1,10 +1,10 @@
 ---
 title: Retarget Motion Capture Animation with Rokoko Plugin
 date: 2025-09-30T17:53:52
-lastmod: 2025-11-17T05:50:41
+lastmod: 2025-12-22T07:03:00
 tags:
   - Blender
-  - Motion Capture
+  - Motion-Capture
   - Rokoko
 ---
 

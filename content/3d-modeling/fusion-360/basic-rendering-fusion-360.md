@@ -1,9 +1,9 @@
 ---
 title: Fusion 360 Basic Rendering
 date: 2023-06-14T05:57:42
-lastmod: 2025-09-30T18:29:26
+lastmod: 2025-12-22T07:16:23
 tags:
-  - Fusion 360
+  - Fusion-360
   - Rendering
 ---
 

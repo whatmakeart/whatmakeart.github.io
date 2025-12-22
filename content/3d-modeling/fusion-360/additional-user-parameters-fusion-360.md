@@ -1,9 +1,9 @@
 ---
 title: Fusion 360 Additional User Parameters
 date: 2023-06-14T13:27:40
-lastmod: 2024-01-25T05:33:11
+lastmod: 2025-12-22T07:16:23
 tags:
-  - Fusion 360
+  - Fusion-360
 ---
 
 User parameters in [Fusion 360](fusion-360.md) allow the use of variables and equations for dimensions of parts in a parametric model. All the dimensions could be based on proportions of a single dimension. For example the height could always be three times the width. The combination of parameters and sketch constraints make Fusion 360 a robust but flexible parametric modeling program.

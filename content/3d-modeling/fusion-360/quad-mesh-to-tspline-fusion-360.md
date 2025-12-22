@@ -3,8 +3,9 @@ title: Quad Mesh to T-Spline in Fusion 360
 date: 2024-10-27T10:50:30
 lastmod: 2025-09-30T17:53:45
 tags:
-  - 3D Modeling
+  - 3D-Modeling
   - Fusion 360
+  - Fusion-360
 ---
 
 <div class="iframe-16-9-container">

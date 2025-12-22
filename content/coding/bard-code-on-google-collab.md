@@ -5,8 +5,8 @@ lastmod: 2025-09-30T17:53:45
 description: Run Bard Code on Google Collab
 featured_image: /coding/attachments/can-bard-code.jpg
 tags:
+  - Artificial-Intelligence
   - Bard
-  - Artificial Intelligence
   - Coding
   - Tutorial
 ---

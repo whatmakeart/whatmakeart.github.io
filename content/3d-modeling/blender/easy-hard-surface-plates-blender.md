@@ -1,12 +1,12 @@
 ---
 date: 2022-12-13T8:30:00-04:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T06:59:56
 description: In this Blender tutorial, I will show you how to quickly change planes into steel plates or panels or any kind of hard surface geometry very quickly using a few modifiers.
 featured_image: /3d-modeling/blender/attachments/blender-easy-hardsurface-plates.jpg
 tags:
   - Blender
-  - 3D Modeling
-  - Hard Surface Modeling
+  - 3D-Modeling
+  - Hard-Surface-Modeling
 title: Easy Hard Surface Plates - Blender
 ---
 

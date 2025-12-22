@@ -1,13 +1,13 @@
 ---
 date: 2022-11-12T8:30:00-04:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T07:03:00
 description: In this Blender tutorial, I will show you how to model a low poly car using the cube or box modeling method.
 featured_image: /3d-modeling/blender/attachments/blender-low-poly-car.jpg
 tags:
   - Blender
-  - 3D Modeling
-  - Low Poly Modeling
-  - Car Modeling
+  - 3D-Modeling
+  - Low-Poly-Modeling
+  - Car-Modeling
 title: Low Poly Car Modeling - Blender
 ---
 

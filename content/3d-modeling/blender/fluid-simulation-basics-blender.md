@@ -1,11 +1,11 @@
 ---
 date: 2023-05-09T8:30:00-04:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T07:03:00
 description: Blender Fluid Simulation Basics
 featured_image: /3d-modeling/blender/attachments/blender-fluid-simulation-basics.jpg
 tags:
   - Blender
-  - 3D Modeling
+  - 3D-Modeling
 title: Fluid Simulation Basics - Blender
 ---
 

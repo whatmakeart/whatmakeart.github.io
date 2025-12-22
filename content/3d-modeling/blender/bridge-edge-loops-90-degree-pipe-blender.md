@@ -1,11 +1,11 @@
 ---
 title: Bridge Edge Loops 90 Degree Pipe Blender
 date: 2024-08-25T06:41:48
-lastmod: 2024-08-25T07:25:22
+lastmod: 2025-12-22T06:59:29
 tags:
   - Blender
   - Tutorial
-  - 3D Modeling
+  - 3D-Modeling
 ---
 
 <div class="container-16-9-iframe">

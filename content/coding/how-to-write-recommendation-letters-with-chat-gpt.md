@@ -5,8 +5,8 @@ lastmod: 2025-09-30T17:53:45
 description: How to write recommendation letters with chatGPT
 featured_image: /coding/attachments/chatgpt-recomendation-letter.jpg
 tags:
+  - Artificial-Intelligence
   - ChatGPT
-  - Artificial Intelligence
 ---
 
 <div class="iframe-16-9-container">

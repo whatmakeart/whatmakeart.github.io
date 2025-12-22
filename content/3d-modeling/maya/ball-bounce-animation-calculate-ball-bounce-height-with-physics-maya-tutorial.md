@@ -5,8 +5,8 @@ lastmod: 2025-09-30T17:53:45
 description: Use simple physics to calculate the bounce height in a ball animation
 featured_image: /3d-modeling/maya/attachments/maya-ball-bounce-physics-tutorial.jpg
 tags:
+  - 3D-Modeling
   - Maya
-  - 3D Modeling
 aliases: /posts/ball-bounce-animation-calculate-ball-bounce-height-with-physics-maya-tutorial/
 ---
 

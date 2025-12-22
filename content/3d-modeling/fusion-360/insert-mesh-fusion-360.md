@@ -3,8 +3,9 @@ title: Insert 3D Scan Mesh into Fusion 360
 date: 2025-02-28T05:50:43
 lastmod: 2025-09-30T17:53:45
 tags:
+  - 3D-Modeling
   - Fusion 360
-  - 3D Modeling
+  - Fusion-360
 ---
 
 <div class="iframe-16-9-container">

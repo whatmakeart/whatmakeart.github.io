@@ -1,11 +1,11 @@
 ---
 date: 2022-11-06T8:30:00-04:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-22T07:03:00
 description: In this Blender tutorial, I will show you how to create a procedural wood texture using only a few nodes.
 tags:
   - Blender
-  - 3D Modeling
-  - Procedural Texture
+  - 3D-Modeling
+  - Procedural-Texture
   - Rendering
 title: Procedural Wood Texture - Blender
 ---

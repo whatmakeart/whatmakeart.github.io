@@ -3,7 +3,7 @@ title: How to Track a 3D Camera in After Effects
 date: 2023-09-13T16:40:23
 lastmod: 2025-09-30T17:53:45
 tags:
-  - After Effects
+  - After-Effects
   - Tutorial
 ---
 

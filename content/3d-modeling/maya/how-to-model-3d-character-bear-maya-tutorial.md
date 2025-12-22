@@ -5,7 +5,7 @@ lastmod: 2025-09-30T17:53:45
 description: Learn how to 3d model a character in autodesk maya tutorial
 featured_image: /3d-modeling/maya/attachments/2022-3D-Model-Bear-in-Maya-Tutorial-Title.jpg
 tags:
-  - 3D Modeling
+  - 3D-Modeling
   - Maya
   - Tutorial
 aliases: /posts/how-to-model-3d-character-bear-maya-tutorial/

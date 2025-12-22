@@ -1,11 +1,11 @@
 ---
-title: "Teleport Special Effect Tutorial"
+title: Teleport Special Effect Tutorial
 date: 2021-04-23T12:06:56
 lastmod: 2025-09-30T17:53:45
-description: "Use Adobe Premiere to create this teleport special effect"
+description: Use Adobe Premiere to create this teleport special effect
 featured_image: /video/adobe-premiere-pro/attachments/teleport-special-effect-tutorial-in-adobe-premiere.jpg
 tags:
-  - Adobe Premiere
+  - Adobe-Premiere
   - Tutorial
 aliases:
   - /posts/teleport-special-effect-tutorial-using-adobe-premiere/

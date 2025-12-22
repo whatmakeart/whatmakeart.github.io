@@ -5,8 +5,8 @@ lastmod: 2025-09-30T17:53:45
 description: When 3D modeling in Maya it is convenient and helpful to have a reference image in your scene to make sure your 3D model proportions are correct
 featured_image: /3d-modeling/maya/attachments/Maya-insert-a-reference-image-title.jpg
 tags:
+  - 3D-Modeling
   - Maya
-  - 3D Modeling
   - Tutorial
 aliases: /posts/how-to-insert-reference-image-maya-tutorial/
 ---

@@ -5,7 +5,7 @@ lastmod: 2025-09-30T17:53:45
 description: Will AI Replace Writers?
 featured_image: /articles/attachments/will-artificial-intelligence-replace-writers.jpg
 tags:
-  - Artificial Intelligence
+  - Artificial-Intelligence
   - Bard
   - ChatGPT
 aliases: /posts/will-ai-replace-writers/

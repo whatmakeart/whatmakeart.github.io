@@ -5,8 +5,9 @@ lastmod: 2025-09-30T17:53:45
 description: In this Fusion 360 tutorial, I'll show you the difference between cut, join, and intersect. These are three of the most basic operations when you're using the combine tool in Fusion 360 with your 3D models.
 featured_image: /3d-modeling/fusion-360/attachments/fusion-360-join-cut-intersect.jpg
 tags:
+  - 3D-Modeling
   - Fusion 360
-  - 3D Modeling
+  - Fusion-360
 ---
 
 <div class="iframe-16-9-container">

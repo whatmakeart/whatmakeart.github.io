@@ -1,10 +1,10 @@
 ---
 title: How to Install the Rokoko Plugin for Blender
 date: 2025-11-16T04:42:05
-lastmod: 2025-11-16T04:43:43
+lastmod: 2025-12-22T07:03:00
 tags:
   - Blender
-  - Motion Capture
+  - Motion-Capture
   - Rokoko
 ---
 
