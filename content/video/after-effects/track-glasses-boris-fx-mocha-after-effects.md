@@ -2,6 +2,8 @@
 title: Track Glasses with Boris FX Mocha in After Effects
 date: 2024-09-26T21:26:32
 lastmod: 2025-09-30T17:53:45
+tags:
+  - After-Effects
 ---
 
 <div class="iframe-16-9-container">

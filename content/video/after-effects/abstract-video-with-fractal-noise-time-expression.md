@@ -2,6 +2,8 @@
 title: How to Make a Swirly Abstract Background in After Effects Using Time Expressions
 date: 2023-09-20T08:44:24
 lastmod: 2025-09-30T17:53:45
+tags:
+  - After-Effects
 ---
 
 <div class="video-grid">

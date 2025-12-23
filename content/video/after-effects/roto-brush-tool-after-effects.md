@@ -2,6 +2,8 @@
 title: Roto Brush Tool After Effects
 date: 2023-09-04T21:33:01
 lastmod: 2025-09-30T17:53:45
+tags:
+  - After-Effects
 ---
 
 <div class="iframe-16-9-container">

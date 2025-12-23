@@ -2,6 +2,8 @@
 title: Normalize 3D Camera Track in After Effects
 date: 2024-09-17T12:00:00
 lastmod: 2025-09-30T17:53:45
+tags:
+  - After-Effects
 ---
 
 <div class="video-grid">

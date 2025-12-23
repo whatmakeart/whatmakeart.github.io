@@ -2,6 +2,8 @@
 title: Laser Star Burst After Effects
 date: 2024-09-19T20:04:12
 lastmod: 2025-09-30T17:53:45
+tags:
+  - After-Effects
 ---
 
 <div class="iframe-16-9-container">

@@ -2,6 +2,8 @@
 title: Replace Clip with After Effects Composition and Undo
 date: 2024-09-24T08:46:55
 lastmod: 2025-09-30T17:53:45
+tags:
+  - After-Effects
 ---
 
 <div class="iframe-16-9-container">

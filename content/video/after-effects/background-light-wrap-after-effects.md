@@ -2,6 +2,8 @@
 title: Background Light Wrap After Effects
 date: 2023-09-04T21:23:08
 lastmod: 2025-09-30T17:53:45
+tags:
+  - After-Effects
 ---
 
 <div class="iframe-16-9-container">

@@ -2,6 +2,8 @@
 title: Add 3D Object to After Effects
 date: 2024-09-18T21:23:08
 lastmod: 2025-09-30T17:53:45
+tags:
+  - After-Effects
 ---
 
 <div class="iframe-16-9-container">
