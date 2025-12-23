@@ -2,6 +2,8 @@
 title: Reusable Timer Function
 date: 2023-06-17T14:53:17
 lastmod: 2023-09-07T20:34:26
+tags:
+  - Arduino
 ---
 
 The timer function below [^1] is from [Arduino Forum](https://forum.arduino.cc/) user, [Larry D](https://forum.arduino.cc/u/larryd). Other examples on the forums that expand this function into a [timer structure](https://forum.arduino.cc/t/millis-made-easier/378322/7), adapting the Blink Without Delay Example into [four different timer methods](https://forum.arduino.cc/t/millis-made-easier/378322/5), and a full [timer library](https://forum.arduino.cc/t/best-timer-library/944347/7).

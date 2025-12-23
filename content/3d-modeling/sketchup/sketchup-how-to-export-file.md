@@ -6,7 +6,7 @@ featured_image: /3d-modeling/sketchup/attachments/sketchup-how-to-export.jpg
 tags:
   - 3D-Modeling
   - SketchUp
-  - tutorial
+  - Tutorial
 title: How to export SketchUp
 ---
 

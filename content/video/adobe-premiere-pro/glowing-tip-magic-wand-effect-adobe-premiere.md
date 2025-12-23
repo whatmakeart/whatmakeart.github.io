@@ -6,7 +6,7 @@ description: Add a glowing tip to your magic wand
 featured_image: /video/adobe-premiere-pro/attachments/glowing-tip-magic-wand-effect-adobe-premiere.jpg
 tags:
   - Adobe-Premiere
-  - tutorial
+  - Tutorial
 aliases:
   - /posts/glowing-tip-magic-wand-effect-adobe-premiere/
 ---

@@ -4,9 +4,9 @@ date: 2025-04-20T07:18:05
 lastmod: 2025-09-30T17:53:45
 description: 8 Minute Timer counts down silently until it reaches 0:00 and then makes a sound to show time is up
 tags:
-  - 8 Minute Timer
+  - 8-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

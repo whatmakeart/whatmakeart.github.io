@@ -2,6 +2,8 @@
 title: How to Use Wood Chisels
 date: 2023-10-02T06:28:03
 lastmod: 2023-10-02T06:29:47
+tags:
+  - Fabrication
 ---
 
 Wood chisels can be used for a variety of woodworking tasks, such as shaping wood, cutting joints, making mortises, and removing material. Chisels are available in a variety of sizes and shapes, each designed for a specific purpose.

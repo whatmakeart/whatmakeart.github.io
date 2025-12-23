@@ -5,9 +5,9 @@ lastmod: 2025-09-30T17:53:45
 description: This video features a 12 minute countdown timer with an abstract animated background.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/12-minute-timer.jpg
 tags:
-  - 12 Minute Timer
+  - 12-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

@@ -2,6 +2,8 @@
 title: Arduino State Machine
 date: 2023-06-17T14:54:35
 lastmod: 2023-09-07T20:33:46
+tags:
+  - Arduino
 ---
 
 ## What is a State Machine?

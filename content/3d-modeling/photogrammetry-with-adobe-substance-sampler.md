@@ -4,7 +4,7 @@ date: 2025-01-21T14:22:12
 lastmod: 2025-01-21T14:23:34
 tags:
   - 3D-Modeling
-  - Adobe Substance Sampler
+  - Adobe-Substance-Sampler
   - Photogrammetry
   - Tutorial
 ---

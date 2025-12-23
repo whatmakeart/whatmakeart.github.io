@@ -3,8 +3,8 @@ title: p5.js Web Editor Basics
 date: 2024-01-10T13:48:17
 lastmod: 2025-09-30T17:53:45
 tags:
+  - Coding
   - p5.js
-  - coding
 ---
 
 <div class="iframe-16-9-container">

@@ -6,7 +6,7 @@ description: In this Fusion 360 tutorial, I will show you how to make more robus
 featured_image: /3d-modeling/fusion-360/attachments/robust-parametric-models-fusion-360.jpg
 tags:
   - 3D-Modeling
-  - Fusion 360
+  - CNC
   - Fusion-360
 ---
 

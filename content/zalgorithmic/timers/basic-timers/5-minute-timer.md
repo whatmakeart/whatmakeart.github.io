@@ -4,9 +4,9 @@ date: 2025-04-20T07:15:40
 lastmod: 2025-09-30T17:53:45
 description: 5 Minute Timer counts down silently until it reaches 0:00 and then makes a sound to show time is up
 tags:
-  - 5 Minute Timer
+  - 5-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

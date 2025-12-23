@@ -4,9 +4,9 @@ date: 2025-04-21T05:42:01
 lastmod: 2025-09-30T17:53:45
 description: This video features a 8 minute countdown timer with an abstract rainbow color swirl animated background.
 tags:
-  - 8 Minute Timer
+  - 8-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

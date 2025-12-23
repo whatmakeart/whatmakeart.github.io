@@ -4,9 +4,9 @@ date: 2025-04-21T05:46:23
 lastmod: 2025-09-30T17:53:45
 description: This video features a 14 minute countdown timer with an abstract rainbow color swirl animated background.
 tags:
-  - 14 Minute Timer
+  - 14-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

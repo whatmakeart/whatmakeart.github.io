@@ -5,7 +5,7 @@ description: In this Autodesk Fusion 360 tutorial, I will show you how to add to
 featured_image: /3d-modeling/fusion-360/attachments/tolerance-and-fit-fusion-360-intro.jpg
 tags:
   - 3D-Modeling
-  - Fusion 360
+  - CNC
   - Fusion-360
 title: Tolerance and Fit in Fusion 360
 spellcheck: off

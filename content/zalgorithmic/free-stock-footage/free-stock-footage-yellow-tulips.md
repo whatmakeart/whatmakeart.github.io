@@ -4,7 +4,7 @@ lastmod: 2025-09-30T17:53:45
 description: Free Stock Footage Yellow Tulips
 featured_image: /posts/images/free-stock-footage-yellow-tulips.jpg
 tags:
-  - Free Stock Footage
+  - Free-Stock-Footage
 title: Free Stock Footage Yellow Tulips
 ---
 

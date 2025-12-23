@@ -4,9 +4,9 @@ date: 2023-11-26T17:28:01
 lastmod: 2025-09-30T17:53:45
 description: This video features a 3 minute countdown timer with an abstract rainbow color swirl animated background.
 tags:
-  - 3 Minute Timer
+  - 3-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

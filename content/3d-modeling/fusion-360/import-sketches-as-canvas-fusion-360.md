@@ -3,7 +3,7 @@ title: Fusion 360 Import Sketches as Canvas
 date: 2023-06-14T05:54:43
 lastmod: 2025-09-30T18:43:27
 tags:
-  - Fusion 360
+  - Fusion-360
 ---
 
 Starting with a blank screen in a design can be challenging. Even if a rectangle is drawn as the first step in a sketch, there is no sense of scale. Adding dimensions to a sketch helps show scale.

@@ -3,7 +3,7 @@ title: Fusion 360 Rule Number One
 date: 2023-06-13T14:42:56
 lastmod: 2025-09-30T17:53:45
 tags:
-  - Fusion 360
+  - Fusion-360
 ---
 
 <div class="iframe-16-9-container">

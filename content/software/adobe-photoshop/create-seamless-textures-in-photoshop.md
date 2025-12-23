@@ -4,7 +4,7 @@ featured-image: /attachments/featured-images/seamless-textures-photoshop-tutoria
 date: 2023-06-15T05:50:58
 lastmod: 2025-09-30T17:53:45
 tags:
-  - tutorial
+  - Tutorial
 alias:
   - /software/how-to-create-seamless-textures/
 ---

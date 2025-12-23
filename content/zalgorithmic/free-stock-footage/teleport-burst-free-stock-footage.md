@@ -1,10 +1,11 @@
 ---
 date: 2021-01-01T09:56:20
 lastmod: 2025-09-30T17:53:45
-description: "Teleport Burst Free Stock Footage"
+description: Teleport Burst Free Stock Footage
 featured_image: ""
-tags: ["Free Stock Footage"]
-title: "Teleport Burst Free Stock Footage"
+tags:
+  - Free-Stock-Footage
+title: Teleport Burst Free Stock Footage
 ---
 
 <div class="iframe-16-9-container">

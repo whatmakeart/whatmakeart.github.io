@@ -3,7 +3,7 @@ title: Fusion 360 Make Manufacture Model Copy
 date: 2023-06-14T12:56:22
 lastmod: 2025-09-30T18:43:34
 tags:
-  - Fusion 360
+  - Fusion-360
 ---
 
 [![Manufacture Model in Fusion 360](attachments/2023-fusion-360-create-manufacture-model.png)](attachments/2023-fusion-360-create-manufacture-model.png)

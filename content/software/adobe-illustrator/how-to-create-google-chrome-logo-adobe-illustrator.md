@@ -6,7 +6,7 @@ description: Adobe Illustrator tutorial showing how to create the Google Chrome 
 featured_image: /software/adobe-illustrator/attachments/Chrome-Logo-made-in-Adobe-Illustrator.jpg
 tags:
   - Illustrator
-  - tutorial
+  - Tutorial
 aliases:
   - /posts/how-to-create-google-chrome-logo-adobe-illustrator/
 ---

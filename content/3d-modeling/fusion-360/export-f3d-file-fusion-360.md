@@ -3,7 +3,7 @@ title: Fusion 360 Export .f3d File
 date: 2023-06-13T16:07:14
 lastmod: 2024-01-25T05:33:11
 tags:
-  - Fusion 360
+  - Fusion-360
 ---
 
 Click on file > Export > choose .f3d

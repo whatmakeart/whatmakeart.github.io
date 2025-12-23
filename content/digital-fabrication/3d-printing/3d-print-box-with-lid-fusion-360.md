@@ -3,9 +3,8 @@ title: 3D Print Box with Lid Fusion 360
 date: 2025-01-23T07:00:39
 lastmod: 2025-09-30T17:53:45
 tags:
-  - 3D Printing
   - 3D-Modeling
-  - Fusion 360
+  - 3D-Printing
   - Fusion-360
 ---
 

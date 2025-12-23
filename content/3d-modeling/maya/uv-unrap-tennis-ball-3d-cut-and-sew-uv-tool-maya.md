@@ -7,8 +7,8 @@ featured_image: /3d-modeling/maya/attachments/maya-3d-cut-and-sew-uv-tool-tutori
 tags:
   - 3D-Modeling
   - Maya
+  - Tutorial
   - UV-Unrwapping
-  - tutorial
 aliases: /posts/uv-unrap-tennis-ball-3d-cut-and-sew-uv-tool-maya/
 ---
 

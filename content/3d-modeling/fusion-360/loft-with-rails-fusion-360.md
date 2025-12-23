@@ -5,7 +5,6 @@ description: The Loft tool in Fusion 360 is a powerful feature that allows you t
 featured_image: /3d-modeling/fusion-360/attachments/fusion-360-loft-with-rails.jpg
 tags:
   - 3D-Modeling
-  - Fusion 360
   - Fusion-360
 title: Fusion 360 Loft with Rails
 ---

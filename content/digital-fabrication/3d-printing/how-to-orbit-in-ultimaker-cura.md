@@ -6,7 +6,7 @@ description: How to Orbit in Ultimaker Cura
 featured_image: /digital-fabrication/3d-printing/attachments/how-to-orbit-in-ultimaker-cura.jpg
 aliases: /posts/how-to-orbit-in-ultimaker-cura/
 tags:
-  - 3D Printing
+  - 3D-Printing
 ---
 
 <div class="iframe-16-9-container">

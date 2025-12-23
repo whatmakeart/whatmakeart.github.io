@@ -72,6 +72,9 @@
     {
       "title": "content",
       "path": "[[workspace]]/content"
+    },
+    {
+      "path": "[[workspace]]/content/courses/modeling-and-expanded-making/2025-fall/02-3d-visualization-rendering-and-compositing"
     }
   ],
   "frontMatter.content.snippets": {

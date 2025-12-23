@@ -5,9 +5,9 @@ lastmod: 2025-09-30T17:53:45
 description: 1 Minute Fuzzy Ball Timer counts down silently until it reaches 0:00 and then makes a sound to show time is up
 featured_image: /zalgorithmic/timers/1-minute-timers/attachments/1-minute-timer-fuzzy-ball-thumb.jpg
 tags:
-  - 1 Minute Timer
+  - 1-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

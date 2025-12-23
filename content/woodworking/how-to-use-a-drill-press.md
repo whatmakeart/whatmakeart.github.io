@@ -2,6 +2,8 @@
 title: How to Use a Drill Press
 date: 2023-06-02T02:13:53
 lastmod: 2023-12-13T05:56:21
+tags:
+  - Fabrication
 ---
 
 1. **Choose the correct drill bit for the material you are drilling.** There are many different types of drill bits, each designed for a specific material. For example, you would use a different type of drill bit to drill wood than you would to drill metal.

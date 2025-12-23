@@ -2,6 +2,8 @@
 title: Wood Fasteners
 date: 2023-05-23T21:59:40
 lastmod: 2024-09-19T15:04:02
+tags:
+  - Fabrication
 ---
 
 # Screws

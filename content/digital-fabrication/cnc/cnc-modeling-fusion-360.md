@@ -3,8 +3,8 @@ title: Fusion 360 CNC Modeling
 date: 2023-06-14T13:25:50
 lastmod: 2025-09-30T18:32:56
 tags:
-  - Fusion 360
   - CNC
+  - Fusion-360
 ---
 
 ## Example CNC Models

@@ -6,7 +6,7 @@ description: Add a renderable camera to a Maya Scene and add Camera Movement
 featured_image: /3d-modeling/maya/attachments/add-renderable-camera-to-maya-scene-tutorial.jpg
 tags:
   - Maya
-  - tutorial
+  - Tutorial
 aliases: /posts/how-to-add-camera-to-maya-scene-tutorial/
 ---
 

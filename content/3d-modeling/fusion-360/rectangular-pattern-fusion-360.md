@@ -5,9 +5,8 @@ description: Fusion 360 Rectangular Pattern Tutorial for 3D modeling beginners
 featured_image: /3d-modeling/fusion-360/attachments/fusion-360-rectangular-pattern-title.jpg
 tags:
   - 3D-Modeling
-  - Fusion 360
   - Fusion-360
-  - tutorial
+  - Tutorial
 title: Fusion 360 Rectangular Pattern Tutorial
 ---
 

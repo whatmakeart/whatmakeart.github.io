@@ -6,7 +6,6 @@ description: Use t-splines in the form workspace of fusion 360 and extrude faces
 featured_image: /3d-modeling/fusion-360/attachments//extrude-t-spline-face-title.jpg
 tags:
   - 3D-Modeling
-  - Fusion 360
   - Fusion-360
 ---
 

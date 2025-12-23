@@ -3,7 +3,7 @@ title: Import DXF or SVG to Fusion 360
 date: 2023-10-08T11:10:49
 lastmod: 2025-09-30T17:53:45
 tags:
-  - Fusion 360
+  - Fusion-360
 ---
 
 <div class="video-grid">

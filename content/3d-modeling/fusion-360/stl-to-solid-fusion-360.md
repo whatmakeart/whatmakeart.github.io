@@ -2,6 +2,8 @@
 title: STL to Solid Fusion 360
 date: 2024-09-23T08:29:48
 lastmod: 2024-09-26T12:38:13
+tags:
+  - Fabrication
 ---
 
 <div class="iframe-16-9-container">

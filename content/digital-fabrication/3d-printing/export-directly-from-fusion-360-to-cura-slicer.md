@@ -3,9 +3,9 @@ title: Export Directly from Fusion 360 to Cura Slicer
 date: 2025-01-23T08:59:13
 lastmod: 2025-09-30T17:53:45
 tags:
-  - Fusion 360
-  - 3D Printing
+  - 3D-Printing
   - Cura
+  - Fusion-360
 ---
 
 <div class="iframe-16-9-container">

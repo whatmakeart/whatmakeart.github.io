@@ -4,7 +4,7 @@ date: 2024-02-29T06:03:01
 lastmod: 2025-09-30T17:53:45
 tags:
   - Maya
-  - tutorial
+  - Tutorial
 ---
 
 <div class="iframe-16-9-container">

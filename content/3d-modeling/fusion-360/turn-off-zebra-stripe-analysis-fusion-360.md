@@ -5,7 +5,7 @@ description: Turn Off Zebra Strip Analysis Fusion 360
 featured_image: /3d-modeling/fusion-360/attachments/turn-off-zebra-stripe-analysis-fusion-360/Turn off Zebra Analysis Fusion 360 Title.jpg
 tags:
   - 3D-Modeling
-  - Fusion 360
+  - Fusion-360
 title: Turn Off Zebra Strip Analysis Fusion 360
 ---
 

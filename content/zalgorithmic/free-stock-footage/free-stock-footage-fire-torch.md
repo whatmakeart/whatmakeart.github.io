@@ -5,7 +5,7 @@ lastmod: 2025-09-30T17:53:45
 description: Free Looping Stock Footage of a Fire Torch
 featured_image: /zalgorithmic/free-stock-footage/attachments/free-stock-footage-fire-torch.jpg
 tags:
-  - Free Stock Footage
+  - Free-Stock-Footage
 ---
 
 <div class="iframe-16-9-container">

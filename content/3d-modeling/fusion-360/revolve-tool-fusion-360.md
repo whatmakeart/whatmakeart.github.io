@@ -5,7 +5,6 @@ description: In this Autodesk Fusion 360 tutorial, I will quickly show you how t
 featured_image: /3d-modeling/fusion-360/attachments/fusion-360-revolve-tool.jpg
 tags:
   - 3D-Modeling
-  - Fusion 360
   - Fusion-360
 title: Fusion 360 Revolve Tool
 ---

@@ -5,9 +5,9 @@ lastmod: 2025-09-30T17:53:45
 description: This 14-minute timer features an abstract animated background that is perfect for focusing and staying on track.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/14-minute-timer.jpg
 tags:
-  - 14 Minute Timer
+  - 14-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

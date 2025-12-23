@@ -3,8 +3,8 @@ title: 3D Printed Clamp Fusion 360
 date: 2025-02-11T07:24:49
 lastmod: 2025-09-30T17:53:45
 tags:
-  - Fusion 360
-  - 3D Printing
+  - 3D-Printing
+  - Fusion-360
 ---
 
 <div class="iframe-16-9-container">

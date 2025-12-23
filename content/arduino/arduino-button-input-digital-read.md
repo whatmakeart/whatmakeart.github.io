@@ -2,6 +2,8 @@
 title: Arduino Button Input Digital Read
 date: 2023-06-17T06:46:03
 lastmod: 2023-09-07T20:33:05
+tags:
+  - Arduino
 ---
 
 ## Getting Information from the Arduino

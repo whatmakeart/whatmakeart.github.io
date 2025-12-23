@@ -6,7 +6,7 @@ featured_image: /3d-modeling/fusion-360/attachments/fusion-360-tongue-and-groove
 tags:
   - 3D-Modeling
   - CNC
-  - Fusion 360
+  - Fusion-360
 title: Tongue and Groove joints in Fusion 360 Tutorial
 ---
 

@@ -1,10 +1,12 @@
 ---
 date: 2022-02-22T8:28:00-04:00
 lastmod: 2025-09-30T17:53:45
-description: "3D Printable Adjustable Angle Bracket in Fusion 360"
-featured_image: "/posts/adjustable-parametric-3d-printedangle-bracket-in-fusion-360/3d print adjustable plywood bracket title.jpg"
-tags: ["3D Printing", "Fusion 360"]
-title: "3D Printable Adjustable Angle Bracket in Fusion 360"
+description: 3D Printable Adjustable Angle Bracket in Fusion 360
+featured_image: /posts/adjustable-parametric-3d-printedangle-bracket-in-fusion-360/3d print adjustable plywood bracket title.jpg
+tags:
+  - 3D-Printing
+  - Fusion-360
+title: 3D Printable Adjustable Angle Bracket in Fusion 360
 aliases:
   - /posts/adjustable-parametric-3d-printedangle-bracket-in-fusion-360
 ---

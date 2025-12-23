@@ -3,7 +3,7 @@ title: Fusion 360 Organic Forms with T-Splines
 date: 2023-06-15T05:25:26
 lastmod: 2025-09-30T18:35:41
 tags:
-  - Fusion 360
+  - Fusion-360
 ---
 
 ## Direct Modeling

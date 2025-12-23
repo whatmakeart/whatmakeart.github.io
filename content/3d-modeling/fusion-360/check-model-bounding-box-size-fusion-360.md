@@ -3,7 +3,7 @@ title: Fusion 360 Check Model Model Bounding Box Size
 date: 2023-06-15T05:27:44
 lastmod: 2024-01-25T05:33:11
 tags:
-  - Fusion 360
+  - Fusion-360
 ---
 
 In order to check the model bounding box size in [Fusion 360](fusion-360.md):

@@ -4,9 +4,9 @@ date: 2025-04-20T07:00:18
 lastmod: 2025-09-30T17:53:45
 description: 1 Minute Fish Timer counts down silently until it reaches 0:00 and then makes a sound to show time is up
 tags:
-  - 1 Minute Timer
+  - 1-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

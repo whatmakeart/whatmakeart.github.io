@@ -5,9 +5,9 @@ lastmod: 2025-09-30T17:53:45
 description: 15 Minute Timer
 featured_image: /zalgorithmic/timers/basic-timers/attachments/15-minute-timer.jpg
 tags:
-  - 15 Minute Timer
+  - 15-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

@@ -3,8 +3,8 @@ title: Processing for Artists
 date: 2023-09-28T05:36:06
 lastmod: 2024-01-17T03:48:35
 tags:
+  - Coding
   - processing
-  - coding
 ---
 
 It is important for artists to [learn coding](../learn-coding.md) to create interactive and generative art projects.

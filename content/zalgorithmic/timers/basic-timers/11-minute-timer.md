@@ -5,9 +5,9 @@ lastmod: 2025-09-30T17:53:45
 description: 11 Minute Timer counts down silently until it reaches 0:00 and then makes a sound to show time is up
 featured_image: /zalgorithmic/timers/basic-timers/attachments/11-minute-timer.jpg
 tags:
-  - 11 Minute Timer
+  - 11-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

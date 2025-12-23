@@ -5,7 +5,8 @@ lastmod: 2025-09-30T17:53:45
 description: Make a Whiteside Quarter Inch Flat End Mill Tool in Fusion 360
 featured_image: /digital-fabrication/cnc/make-flat-end-mill-tool-in-fusion-360.jpg
 tags:
-  - Fusion 360
+  - CNC
+  - Fusion-360
   - Shopbot
 aliases: /posts/quarter-inch-flat-end-mill-tool-in-fusion-360-for-shopbot/
 ---

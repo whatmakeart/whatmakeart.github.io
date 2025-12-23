@@ -5,9 +5,9 @@ lastmod: 2025-09-30T17:53:45
 description: Discover the versatility of a 2 Minute Timer in enhancing productivity for cooking, studying, workouts, and more.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/2-minute-timer-2.jpg
 tags:
-  - 2 Minute Timer
+  - 2-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

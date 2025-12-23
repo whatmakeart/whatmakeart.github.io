@@ -6,7 +6,7 @@ description: In this Fusion 360 tutorial, I'll show you the difference between c
 featured_image: /3d-modeling/fusion-360/attachments/fusion-360-join-cut-intersect.jpg
 tags:
   - 3D-Modeling
-  - Fusion 360
+  - CNC
   - Fusion-360
 ---
 

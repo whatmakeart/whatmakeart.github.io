@@ -4,9 +4,9 @@ date: 2025-04-21T05:51:08
 lastmod: 2025-09-30T17:53:45
 description: This video features a 40 minute countdown timer with an abstract rainbow color swirl animated background.
 tags:
-  - 40 Minute Timer
+  - 40-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

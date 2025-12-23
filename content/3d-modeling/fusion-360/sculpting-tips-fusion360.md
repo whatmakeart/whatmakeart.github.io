@@ -3,7 +3,7 @@ title: Fusion 360 Sculpting Tips
 date: 2023-05-26T02:50:47
 lastmod: 2024-01-25T05:33:11
 tags:
-  - Fusion 360
+  - Fusion-360
 ---
 
 - Use the scale command to flatten things, you can do this with edge loops, points or even faces

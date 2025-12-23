@@ -3,8 +3,8 @@ title: Color Modes p5.js
 date: 2024-01-11T06:35:05
 lastmod: 2025-09-30T17:53:45
 tags:
+  - Coding
   - p5.js
-  - coding
 ---
 
 <div class="iframe-16-9-container">

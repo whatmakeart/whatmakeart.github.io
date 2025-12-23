@@ -2,6 +2,8 @@
 title: Parametric Modeling
 date: 2023-05-23T21:59:41
 lastmod: 2024-02-21T09:49:19
+tags:
+  - Fabrication
 ---
 
 Parametric 3D modeling is a type of computer-aided design (CAD) that uses parameters to control the shape and geometry of a model. Parameters can be anything from simple dimensions to complex mathematical equations. By changing the values of parameters, designers can quickly and easily create different variations of a model, and to make changes to their designs without having to redraw the entire model from scratch.

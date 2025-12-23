@@ -2,6 +2,8 @@
 title: Basic RGB LED Arduino
 date: 2023-06-17T15:14:02
 lastmod: 2023-09-07T20:33:50
+tags:
+  - Arduino
 ---
 
 Through hole single RGB LEDS have 4 legs, one for each of the colors (red, green, blue), and one for the common anode or cathode. Unfortunately the best way to tell if an RGB LED has a common cathode (-) or anode (+) is to check with the supplier. The cathode/anode will be the longer leg. To be safe, make sure you install a resistor on each of the color legs.

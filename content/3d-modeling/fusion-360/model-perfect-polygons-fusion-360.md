@@ -5,7 +5,6 @@ lastmod: 2025-09-30T17:53:45
 description: Model Perfect polygons in Fusion 360
 tags:
   - 3D-Modeling
-  - Fusion 360
   - Fusion-360
 ---
 

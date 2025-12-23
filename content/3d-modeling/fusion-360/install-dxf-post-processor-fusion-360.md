@@ -3,7 +3,8 @@ title: Fusion 360 Install DXF Post Processor
 date: 2023-06-14T12:54:31
 lastmod: 2025-09-30T18:43:30
 tags:
-  - Fusion 360
+  - CNC
+  - Fusion-360
 ---
 
 When [laser-cutting](../../digital-fabrication/laser-cutting/laser-cutting.md) a part or a design, the information needs to be converted into data, known as gcode or a toolpath, that an be used by the laser cutter. To get usable toolpaths for the laser cutter we need to install a post processor. Post processing calculates the size of the material and toolpaths. Then it converts this to g-code to be used by a machine. In our case, we want to export a DXF file so we can separate the cutting and etching into different layers. Therefore we will install a DXF post processor provided by Autodesk. This will allow you to export your laser cut tool paths from [Fusion](./fusion-360.md) as a DXF file that you can open and edit in Illustrator.

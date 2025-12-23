@@ -3,7 +3,7 @@ title: 3D Printed Plywood Bracket
 date: 2022-02-22T8:29:00-04:00
 lastmod: 2025-09-30T17:53:45
 tags:
-  - 3D Printing
+  - 3D-Printing
   - - Fusion 360
 ---
 

@@ -5,9 +5,9 @@ lastmod: 2025-09-30T17:53:45
 description: This video features a 13 minute countdown timer with an abstract animated background.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/13-minute-timer.jpg
 tags:
-  - 13 Minute Timer
+  - 13-Minute-Timer
+  - Classroom-Timers
   - Timers
-  - Classroom Timers
 ---
 
 <div class="iframe-16-9-container">

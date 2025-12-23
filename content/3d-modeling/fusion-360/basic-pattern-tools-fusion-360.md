@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Basic Pattern Tools
 date: 2023-06-13T14:39:39
-lastmod: 2025-12-22T07:16:23
+lastmod: 2025-12-22T19:41:50
 tags:
   - Fusion-360
 ---
@@ -10,7 +10,7 @@ tags:
 
 ### Examples of Rectangular Patterns
 
-A rectangular pattern can have 1, 2, or 3 directional axis to form a grid to arrange the pattern. The windows in a building, legs of a table or chair, drawers in a cabinet, buttons on a game controller, wheels on a car, pixels on a computer monitor, and the aisles in a retail store are all layed out in neat rectangular rectangular patterns.
+A rectangular pattern can have 1, 2, or 3 directional axis to form a grid to arrange the pattern. The windows in a building, legs of a table or chair, drawers in a cabinet, buttons on a game controller, wheels on a car, pixels on a computer monitor, and the aisles in a retail store are all laid out in neat rectangular rectangular patterns.
 
 Where else do you see rectangular patterns?
 
@@ -57,5 +57,3 @@ Examine everyday objects around you and look for different types of patterns.
 </div>
 
 </div>
-
-## Further Reading

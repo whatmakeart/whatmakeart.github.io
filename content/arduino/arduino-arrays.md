@@ -2,6 +2,8 @@
 title: Arduino Arrays
 date: 2023-06-17T14:59:41
 lastmod: 2023-09-07T20:32:51
+tags:
+  - Arduino
 ---
 
 Arrays are a data structure that can store multiple values. Arrays can also be used to write less code for repeating actions such as `pinMode();`.
