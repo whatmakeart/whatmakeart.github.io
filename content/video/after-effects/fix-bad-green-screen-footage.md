@@ -1,7 +1,7 @@
 ---
 title: Fix Bad Green Screen Footage
-date: 2023-09-04T20:42:37
-lastmod: 2025-09-30T17:53:45
+date: 2023-09-04T20:42:37-04:00
+lastmod: 2025-12-23T06:54:48-04:00
 tags:
   - After-Effects
 ---
@@ -12,7 +12,7 @@ tags:
 
 ## Introduction
 
-In this tutorial, I will show you how to key out green screen footage in After Effects, even if you don't have a perfect green screen setup.
+In this tutorial, I will show you how to key out green screen footage in [After Effects](./after-effects.md), even if you don't have a perfect green screen setup.
 
 1. Import your green screen footage into After Effects.
 2. In the Effects & Presets window, type "key" and select the Keylight effect. Drag the effect onto your footage.
@@ -29,8 +29,7 @@ With a little practice, you can get excellent results even with imperfect green 
 
 ### Tips
 
-- For best results, use a well-lit green screen.
-- Make sure that the green screen is free of wrinkles and folds.
+- For best results, use a well-lit green screen that is free of wrinkles and folds. Refer to [Green Screen Shooting Basics](../green-screen-shooting-basics.md).
 - Use a garbage matte to mask out any areas of the green screen that are not being keyed out properly.
 - Experiment with the settings of the Keylight and Choker effects to get the best possible key.
 

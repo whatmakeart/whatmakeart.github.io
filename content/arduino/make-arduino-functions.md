@@ -5,6 +5,7 @@ description: Simplify your Arduino program by putting blocks of code into functi
 featured_image: /posts/images/make arduino functions.jpg
 tags:
   - Arduino
+  - Electronics
 title: Make Arduino Functions
 ---
 

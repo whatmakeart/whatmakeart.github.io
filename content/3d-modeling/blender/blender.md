@@ -1,7 +1,7 @@
 ---
 title: Blender
 date: 2023-05-26T02:54:03
-lastmod: 2025-12-22T06:59:29
+lastmod: 2025-12-23T06:40:05
 tags:
   - Blender
   - 3D-Modeling
@@ -35,7 +35,7 @@ tags:
 
 ## Blender Addons
 
-- [Auto Mirror Addon](./blender-auto-mirror.md)
+- [Auto Mirror Addon](auto-mirror-blender.md)
 - [Install Blenderkit](./install-blenderkit-blender.md)
 
 ## Blender Physics
@@ -73,7 +73,7 @@ tags:
 
 ## Blender Materials
 
-- [Blender Add Materials](./blender-add-materials.md)
+- [Blender Add Materials](add-materials-blender.md)
 - [Procedural Wood Texture](prodedural-wood-texture-blender.md)
 - [Delete All Materials Script](./delete-all-materials-blender-script.md)
 - [Display Textures on Objects](./display-textures-on-objects-blender.md)
@@ -96,7 +96,7 @@ tags:
 
 - [3D Print Tool Box Addon](./3d-print-toolbox-addon-blender.md)
 - [Add Mold Parting Lines](./add-mold-parting-lines-blender.md)
-- [3ds Export Addon](./blender-3ds-export-addon.md)
+- [3ds Export Addon](3ds-export-addon-blender.md)
 - [Calibrate Photogrammetry Object Scale](./calibrate-photogrammetry-scanned-object-scale-blender.md)
 - [Clean up 3D Scan Mesh](./clean-up-3d-scan-imported-mesh-blender.md)
 - [Flat Bottom 3D Scan Boolean Intersect](./flat-bottom-3d-scan-boolean-intersect-blender.md)

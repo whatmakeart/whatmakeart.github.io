@@ -2,6 +2,8 @@
 title: ESP32 Introduction
 date: 2025-01-27T18:17:55
 lastmod: 2025-01-27T18:29:00
+tags:
+  - Electronics
 ---
 
 ## Install Arduino IDE ESP32 Tools

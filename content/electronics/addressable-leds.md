@@ -2,6 +2,8 @@
 title: Addressable LEDs
 lastmod: 2024-12-05T20:09:06
 date: 2024-11-10T16:01:02
+tags:
+  - Electronics
 ---
 
 Addressable LEDs have an integrated chip that allows their color and brightness to be individually controlled. Addressable LEDs often come on long strips that can be cut to length at pre-determined points. Some addressable LEDs are packaged as large LED pixels used on buildings and large interactive media and sculptures.

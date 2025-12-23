@@ -2,6 +2,8 @@
 title: Crimping Wire
 lastmod: 2024-12-05T20:09:06
 date: 2024-11-10T16:01:02
+tags:
+  - Electronics
 ---
 
 Crimping wires is important to make secure solderless connections. This is especially important with stranded wire that often cannot support its own weight and spreads out when attached to a terminal screw or wrapped around a bolt. Attaching stranded wire to solderless connection points without using crimp terminals increases the likelihood of electrical shorts and project failure.

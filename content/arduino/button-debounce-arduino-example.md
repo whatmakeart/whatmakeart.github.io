@@ -2,6 +2,8 @@
 title: Button Debounce Arduino Example
 date: 2023-06-17T10:29:39
 lastmod: 2025-01-07T04:24:32
+tags:
+  - Electronics
 ---
 
 ## Button Too Fast?

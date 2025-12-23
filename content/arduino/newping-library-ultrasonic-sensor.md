@@ -4,6 +4,7 @@ date: 2023-06-17T10:38:22
 lastmod: 2023-09-07T20:34:13
 tags:
   - Arduino
+  - Electronics
 ---
 
 The previous ultrasonic sensor code example uses a state machine to control the timing of the pings and echos that determine an object's distance. This works but can be alot to include in your sketch, especially if you want to do other things and keep things tidy.

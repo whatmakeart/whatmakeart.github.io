@@ -43,7 +43,8 @@
     "**/_index.md",
     "**/README.md",
     "public/**/*",
-    "themes/**/*"
+    "themes/**/*",
+    "content/courses/**/*" // keeps course materials out of graph vizualisation
   ],
   "foam.files.attachmentExtensions": "zip f3d png blend ma mb pdf mp3 webm wav m4a mp4 avi mov rtf txt doc docx pages xls xlsx numbers ppt pptm pptx",
   "foam.orphans.exclude": [
@@ -55,8 +56,21 @@
 
   // Disable the specific "Markdown Notes" list editing (part of Foam)
   // so it doesn't fight with Markdown All in One
-  "vscodeMarkdownNotes.list.continuation": false
+  "vscodeMarkdownNotes.list.continuation": false,
 
   // OPTIONAL: If you prefer Foam's logic, disable Markdown All in One's list editing instead:
   // "markdown.extension.list.enabled": false
+
+  "foam.completion.linkFormat": "link",
+  "foam.completion.label": "title",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "content",
+      "path": "[[workspace]]/content",
+      "excludePaths": [
+        "courses" // Exclude the courses folder
+      ]
+    }
+  ],
+  "[markdown]": {}
 }

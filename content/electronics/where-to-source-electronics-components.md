@@ -2,6 +2,8 @@
 title: Where to Source Electronics Components
 lastmod: 2025-01-13T07:38:17
 date: 2025-01-07T04:41:41
+tags:
+  - Electronics
 ---
 
 ## Places to Shop

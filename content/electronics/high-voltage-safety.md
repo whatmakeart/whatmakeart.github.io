@@ -2,6 +2,8 @@
 title: High Voltage Safety
 date: 2023-06-17T15:34:53
 lastmod: 2024-01-10T13:59:04
+tags:
+  - Electronics
 ---
 
 For the purposes of this [safety](../making/safety.md) guide, high voltage means anything above 40-50 volts. When working on electronics it is common to encounter DC voltages from 3.3 volts, to 24 volts as well as AC mains voltages of 110 - 220 volts. Any higher voltages should be avoided without specific training.

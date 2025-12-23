@@ -1,7 +1,7 @@
 ---
 title: 06.10 Polygon Modeling Rendering Exercise Assignment
 date: 2024-02-22T12:00:00Z
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T06:40:05
 ---
 
 ## Assignment Deliverables
@@ -35,7 +35,7 @@ The videos below show how to make the example block in [Maya](https://youtu.be/l
 - [3 Point Lighting](https://youtu.be/1nYSVw6-GxA)
 - [Blender Tri Lighting Add On](https://youtu.be/SbMuowrbKe0)
 - [Blender Infinite Background for Render](https://youtu.be/lsEYDk00WFs)
-- [Blender Add Materials](../../../../3d-modeling/blender/blender-add-materials.md)
+- [Blender Add Materials](../../../../3d-modeling/blender/add-materials-blender.md)
 
 <div class="video-grid">
 

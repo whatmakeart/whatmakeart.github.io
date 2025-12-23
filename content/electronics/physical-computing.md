@@ -2,6 +2,8 @@
 title: Physical Computing
 date: 2023-05-23T21:59:41
 lastmod: 2025-01-09T07:13:26
+tags:
+  - Electronics
 ---
 
 Physical computing is the field of study and practice that combines computer science with electronics and mechanics to create interactive systems that can sense and respond to the physical world. It is also known as embedded systems design, interactive electronics, or DIY electronics.

@@ -2,6 +2,8 @@
 title: Heat Shrink Tubing
 lastmod: 2024-12-05T20:09:06
 date: 2024-11-10T16:01:02
+tags:
+  - Electronics
 ---
 
 Heat shrink tubing is usually made of PVC or Polyolefin. Polyolefin is generally a better material and has a longer shelf life since it is less effected by temperature fluctuations in storage.

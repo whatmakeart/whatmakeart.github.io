@@ -2,6 +2,8 @@
 title: Protect Raspberry Pi From Power Failure
 date: 2023-05-23T21:59:41
 lastmod: 2024-09-19T15:18:36
+tags:
+  - Electronics
 ---
 
 Protecting your Raspberry Pi from power failure - Raspberry Pi UPS

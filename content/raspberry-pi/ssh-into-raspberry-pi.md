@@ -2,6 +2,8 @@
 title: SSH into Raspberry Pi
 date: 2023-10-19T05:32:04
 lastmod: 2023-10-19T05:42:22
+tags:
+  - Electronics
 ---
 
 ## On a Mac

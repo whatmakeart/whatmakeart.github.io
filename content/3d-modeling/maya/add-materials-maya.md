@@ -1,7 +1,7 @@
 ---
 title: Add Materials - Maya
-date: 2023-06-15T14:18:30
-lastmod: 2024-02-27T05:09:37
+date: 2023-06-15T14:18:30-04:00
+lastmod: 2025-12-23T07:17:48-04:00
 ---
 
 [Maya](./maya.md) objects have a default Lambert shader applied by default. The base color of the Lambert shader can be customized to create different colors on objects.

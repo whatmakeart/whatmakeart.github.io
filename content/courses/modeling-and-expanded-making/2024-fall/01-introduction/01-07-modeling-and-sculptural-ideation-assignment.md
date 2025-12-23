@@ -1,7 +1,7 @@
 ---
 title: 01.07 Modeling and Sculptural Ideation Assignment
 date: 2024-08-21T09:00:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T06:40:05
 ---
 
 ## Assignment Deliverables
@@ -23,7 +23,7 @@ This assignment challenges students to explore the creative possibilities of rep
 
 1. Identify a simple, small, found object that you can obtain in quantities of 10 or more. Consider everyday objects such as bottle caps, paperclips, bolts, or dice. Ensure that the object is simple enough to be modeled within the scope of your current 3D modeling skills but has potential for interesting repetition and arrangement. Check out the SEM found objects carts in room 212H.
 2. Use [Blender](../../../../3d-modeling/blender/blender.md) to create an accurate model of your chosen found object. Pay close attention to dimensions and proportions to ensure the model is representative of the form and to scale. You may also 3D model in [Maya](../../../../3d-modeling/maya/maya.md), or [Fusion 360](../../../../3d-modeling/fusion-360/fusion-360.md),
-3. Use [texture paint](../../../../3d-modeling/blender/texture-paint-complex-objects-blender.md) to paint on your 3D model after UV unwrapping with [UV Smart Project](../../../../3d-modeling/blender/smart-uv-project-blender.md). You can also add preset [materials](../../../../3d-modeling/blender/blender-add-materials.md) to your model to closely resemble the physical object.
+3. Use [texture paint](../../../../3d-modeling/blender/texture-paint-complex-objects-blender.md) to paint on your 3D model after UV unwrapping with [UV Smart Project](../../../../3d-modeling/blender/smart-uv-project-blender.md). You can also add preset [materials](../../../../3d-modeling/blender/add-materials-blender.md) to your model to closely resemble the physical object.
 4. Use tools such as [duplication](../../../../3d-modeling/blender/duplicate-objects-blender.md), [moving](../../../../3d-modeling/blender/how-to-move-blender.md), [rotation](../../../../3d-modeling/blender/rotate-objects-blender.md), [scaling](../../../../3d-modeling/blender/scale-objects-blender.md), and the [array modifier](../../../../3d-modeling/blender/array-modifier-basics-blender.md) to create different three-dimensional arrangements of your modeled object within the 3D space. Think creatively about how the repetition of your object can generate new forms, patterns, or textures by considering the principles of design such as balance, symmetry, rhythm, and contrast.
 5. Create at least two different rendered images showcasing distinct arrangements of your object using appropriate lighting and camera settings to evaluate the aesthetic qualities of each composition. [Blender Rendering Basics](../../../../3d-modeling/blender/rendering-basics-blender.md)
 6. Write a brief reflection explaining your choice of the final arrangement, discussing your design process, and how this digital exploration might inform the construction of a physical sculpture.

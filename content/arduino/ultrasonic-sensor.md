@@ -4,6 +4,7 @@ date: 2023-06-17T10:37:29
 lastmod: 2023-09-07T20:34:43
 tags:
   - Arduino
+  - Electronics
 ---
 
 An ultrasonic sensor can send a sound wave out and measure the time it takes for it to bounce back off an object. By using the speed of sound, the distance to the "pinged" object can be determined. The [Arduino](arduino-introduction.md) can then perform functions based on the distance of objects.

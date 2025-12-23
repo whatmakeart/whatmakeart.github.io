@@ -2,6 +2,8 @@
 title: Electricity Safety
 lastmod: 2025-01-06T17:22:54
 date: 2024-11-10T16:01:02
+tags:
+  - Electronics
 ---
 
 It is essential to observer best practices and common sense when working with electricity and electronics.

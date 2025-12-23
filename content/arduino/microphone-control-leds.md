@@ -4,6 +4,7 @@ date: 2023-06-17T10:36:21
 lastmod: 2023-09-07T20:34:10
 tags:
   - Arduino
+  - Electronics
 ---
 
 This example uses an electret condenser microphone module to control the blinking of a [LED](../electronics/leds.md). With the addition of an external power supply, this code could control a strip of LEDs for a large display.

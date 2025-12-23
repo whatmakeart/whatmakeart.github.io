@@ -2,6 +2,8 @@
 title: Electronics Prototyping Basic Equipment
 date: 2025-01-13T04:44:22
 lastmod: 2025-01-13T04:45:18
+tags:
+  - Electronics
 ---
 
 ## Tools and Equipment for Electronics Prototyping

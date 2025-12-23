@@ -1,7 +1,7 @@
 ---
-Title: 02 AI and Copyright
+title: 02 AI and Copyright
 date: 2025-10-17T07:31:19
-lastmod: 2025-10-17T07:33:30
+lastmod: 2025-12-23T06:44:03
 ---
 
 <div class="video-grid">

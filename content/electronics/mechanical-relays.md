@@ -2,6 +2,8 @@
 title: Mechanical Relays
 date: 2023-06-17T15:24:59
 lastmod: 2024-01-10T13:59:04
+tags:
+  - Electronics
 ---
 
 A mechanical relay flips a physical switch with a magnet when a signal is sent to it. This keeps the signal wire and the high voltage and / or high current source load separated. Sometimes an LED is used to trigger and optical sensor that then switches the load. This type of isolation, optoisolation, offers even more circuit protection.

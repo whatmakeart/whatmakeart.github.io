@@ -2,6 +2,8 @@
 title: Electricity Basics
 lastmod: 2025-01-12T05:22:14
 date: 2024-11-10T16:01:02
+tags:
+  - Electronics
 ---
 
 ## What is Electricity?

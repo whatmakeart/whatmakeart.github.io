@@ -1,7 +1,7 @@
 ---
 title: Madmapper Basics
 date: 2023-10-08T17:36:34
-lastmod: 2023-12-13T06:55:51
+lastmod: 2025-12-23T07:19:56-04:00
 ---
 
 To get started with projection mapping with MadMapper, you will need:
@@ -39,6 +39,10 @@ To get started with projection mapping with MadMapper, you will need:
 ## Arduino Firmata
 
 ## Madmapper Resources
+
+[Add Controls Madmapper](./add-controls-madmapper.md)
+
+### External Resources
 
 - [Madmapper User Interface](https://madmapper.com/files/01-Introduction%20to%20the%20User%20Interface.pdf)
 - [Madmapper YouTube Channel Tutorials](https://www.youtube.com/@madmapperthemappingsoftwar9943/featured)

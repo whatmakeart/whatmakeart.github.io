@@ -2,6 +2,8 @@
 title: Fade LED with Arduino
 date: 2023-06-16T17:30:04
 lastmod: 2025-01-07T04:17:44
+tags:
+  - Electronics
 ---
 
 Now that we have the LED blinking with the Arduino, how can we adjust the brightness of the LED? We can vary the input into the LED very quickly over time to simulate a fading effect. Remember the Arduino is looping so fast that in most cases the program executes instantaneously as far as human perception is concerned. Although the Arduino is a digital device it can simulate analog signal output using Pulse Width Modulation or PWM. This is like turning a switch on and off vary quickly and leaving it on or off for specific amounts of time.

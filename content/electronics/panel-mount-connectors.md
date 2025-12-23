@@ -2,6 +2,8 @@
 title: Panel Mount Connectors
 lastmod: 2024-12-05T20:09:06
 date: 2024-11-10T16:01:02
+tags:
+  - Electronics
 ---
 
 Panel mount connectors install through a hole made in the side of the wall of an electronics enclosure. The connectors typically have threads to attach a securing nut to hold it tight to the panel. Sometimes the connectors use a spring tension clip to keep that panel side in place.

@@ -2,6 +2,8 @@
 title: Electronic Arts Artists and Projects
 lastmod: 2025-09-30T18:32:56
 date: 2024-11-10T16:01:02
+tags:
+  - Electronics
 ---
 
 <div class="auto-grid-wrapper">

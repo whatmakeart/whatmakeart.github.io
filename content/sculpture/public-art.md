@@ -1,7 +1,7 @@
 ---
-Title: Public Art
+title: Public Art
 date: 2023-05-26T03:13:33
-lastmod: 2024-09-04T05:47:11
+lastmod: 2025-12-23T06:46:01
 ---
 
 Public art is often funded by public funds such as tax revenue or private funds designated for public art in locations with a percent for art legislation requirements for building improvements.

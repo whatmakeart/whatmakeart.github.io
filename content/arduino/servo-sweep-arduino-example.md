@@ -2,6 +2,8 @@
 title: Servo Sweep with Arduino Example
 date: 2023-06-17T07:03:19
 lastmod: 2025-01-09T12:07:10
+tags:
+  - Electronics
 ---
 
 Servo motors can move in precise arcs differently than a free spinning motor like an electric drill. This control ability offers unique possibilities for projects.

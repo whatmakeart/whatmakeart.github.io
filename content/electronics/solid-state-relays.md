@@ -2,6 +2,8 @@
 title: Solid State Relays
 lastmod: 2024-12-05T20:09:06
 date: 2024-11-10T16:01:02
+tags:
+  - Electronics
 ---
 
 Solid state relays do not have a mechanical switch. Rather, they use a semiconductor to switch the electrical load. This makes for fast and silent switching. Solid state relays can last longer than mechanical relays due to the lack of moving parts.

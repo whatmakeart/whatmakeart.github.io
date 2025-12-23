@@ -2,6 +2,8 @@
 title: Servo Knob Arduino
 date: 2023-06-17T10:27:29
 lastmod: 2025-01-07T05:02:04
+tags:
+  - Electronics
 ---
 
 ## Do Something with the Input

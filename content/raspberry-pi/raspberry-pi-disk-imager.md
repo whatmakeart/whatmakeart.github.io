@@ -2,6 +2,8 @@
 title: Raspberry Pi Disk Imager
 date: 2024-01-23T06:05:13
 lastmod: 2025-09-30T17:53:45
+tags:
+  - Electronics
 ---
 
 <div class="iframe-16-9-container">

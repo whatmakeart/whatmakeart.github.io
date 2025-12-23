@@ -2,6 +2,8 @@
 title: Electronics Soldering Basics
 lastmod: 2025-02-09T20:47:39
 date: 2024-11-10T16:01:02
+tags:
+  - Electronics
 ---
 
 ## Soldering Equipment

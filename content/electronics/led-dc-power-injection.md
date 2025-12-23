@@ -2,6 +2,8 @@
 title: LED DC Power Injection
 date: 2023-10-06T09:30:00
 lastmod: 2025-03-17T04:33:19
+tags:
+  - Electronics
 ---
 
 LED power injection is a technique used to improve the performance and reliability of long LED strips. It involves connecting additional power supplies to the LED strip at multiple points along its length. This helps to reduce the voltage drop and current draw along the strip, which can cause brightness variations and premature LED failure.

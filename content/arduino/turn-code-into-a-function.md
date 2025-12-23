@@ -2,6 +2,8 @@
 title: Turn Code into a Function
 date: 2023-06-17T14:48:49
 lastmod: 2025-09-30T17:53:45
+tags:
+  - Electronics
 ---
 
 <div class="video-grid">

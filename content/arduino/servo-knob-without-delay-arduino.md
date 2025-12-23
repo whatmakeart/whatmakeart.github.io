@@ -2,6 +2,8 @@
 title: Servo Knob Without Delay - Arduino
 date: 2023-06-17T10:30:53
 lastmod: 2025-01-07T05:02:04
+tags:
+  - Electronics
 ---
 
 The first step to removing unecessary `delay();` from [Arduino](arduino-introduction.md) programs is to make a project with an LED that [can blink without a `delay();` function](./blink-led-without-delay-arduino.md). That example can be extended to add a button that works to debounce without `delay();`

@@ -4,6 +4,7 @@ date: 2023-06-17T06:46:03
 lastmod: 2023-09-07T20:33:05
 tags:
   - Arduino
+  - Electronics
 ---
 
 ## Getting Information from the Arduino
