@@ -6,7 +6,7 @@ lastmod: 2025-12-23T10:12:35-04:00
 
 Sewing is the process to use thread to mechanically attach to print planer pieces of [fabric](fabric.md) together. Generally, the pieces are cut in specific shapes that after so together will create a three-dimensional form. Often these forms are to fit around the shape of the human body or a piece of architecture.
 
-To get started sewing you only need a few basic supplies. The following supplies are recommended for beginners and nothing more is need to start hand sewing right away. Hand sewing is an important skill to know but a sewing machine is an essential tool for anyone pursuing sewing for more than emergency garment repair.
+To get started sewing you only need a few basic supplies. The following supplies are recommended for beginners and nothing more is need to start hand sewing right away. Hand sewing is an important skill to know but a sewing machine is an essential tool for anyone pursuing sewing for more than emergency garment repair. 
 
 ### Minimum Sewing Supplies
 

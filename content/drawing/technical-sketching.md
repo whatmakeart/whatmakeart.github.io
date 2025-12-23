@@ -1,7 +1,7 @@
 ---
 title: Technical Sketching
 date: 2023-11-28T05:54:38
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2025-12-23T11:28:07-04:00
 ---
 
 Technical sketching is a form of drawing used to visually communicate how and object is made, put together, or how something functions. Often dimensions of the object are written on the sketch as well as the precise scale of the drawing. A scaled drawing allows for small and large objects to be drawn at a reasonable size rather than their respective real world scale. Even if a drawing is not to scale it can still describe the form of the object.
@@ -34,7 +34,7 @@ Technical sketching uses a variety of visual projections and perspective techniq
 
 <figure>
 
-[![Isometric Perspective Example](attachments/2022-10-08-isometric-perspective.png)](attachments/2022-10-08-isometric-perspective.png)
+[![Isometric Perspective Example](./attachments/2022-10-08-isometric-perspective.png)](attachments/2022-10-08-isometric-perspective.png)
 
 <figcaption>
 
