@@ -1,6 +1,6 @@
 ---
 title: Electronics Soldering Basics
-lastmod: 2025-02-09T20:47:39
+lastmod: 2025-12-23T10:12:35-04:00
 date: 2024-11-10T16:01:02
 tags:
   - Electronics
@@ -9,7 +9,7 @@ tags:
 ## Soldering Equipment
 
 - solder
-- [solder spool](./how-to-use-a-solder-spool.md)
+- [solder spool](how-to-use-a-solder-spool.md)
 - soldering iron
 - soldering iron tips ( point, chisel, knife )
 - solder wick

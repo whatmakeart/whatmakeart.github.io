@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 FAQ
 date: 2023-06-15T15:27:02
-lastmod: 2025-12-17T07:25:02
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Fusion-360
 ---
@@ -10,8 +10,8 @@ tags:
 
 - **How to move a body?** - Press m on the keyboard for the move / copy tool.
 - **How to select whole body and not just a face?** - Click on the underlined body in the outline after clicking one of its faces, or change the selection priority to bodies in the top right selection menu.
-- [How to export a .f3d Fusion 360 file?](./export-f3d-file-fusion-360.md)
-- [How to turn on dark mode](./dark-mode-fusion.md)
+- [How to export a .f3d Fusion 360 file?](export-f3d-file-fusion-360.md)
+- [How to turn on dark mode](dark-mode-fusion.md)
 
 ## Sketching
 
@@ -29,7 +29,7 @@ tags:
 
 ### Basic Modeling
 
-- [Join, Cut, Intersect Operations](./join-cut-intersect-fusion-360-tutorial.md)
+- [Join, Cut, Intersect Operations](join-cut-intersect-fusion-360-tutorial.md)
 - [How do I split a body?](https://youtu.be/d4iPXS8g9ms)
 - [How to mirror an object?](https://youtu.be/vwCUjtsghdI)
 - **How to cut with an object after an object is already made?** - Use the move tool to make the objects overlap. Then use the combine tool to select a tool body (for cutting) and the target body (getting cut). It will show a red preview of what will be cut.
@@ -48,7 +48,7 @@ tags:
 
 ### Mesh Workspace
 
-- [STL to Solid](./stl-to-solid-fusion-360.md)
+- [STL to Solid](stl-to-solid-fusion-360.md)
 
 ### Form Workspace
 

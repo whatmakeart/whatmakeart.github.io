@@ -1,7 +1,7 @@
 ---
 title: 1 Minute Timer Natural Gas Meter
 date: 2025-04-20T06:50:25
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 description: 1 Minute Gas Meter Timer counts down silently until it reaches 0:00 and then makes a sound to show time is up
 featured_image: /zalgorithmic/timers/1-minute-timers/attachments/1-minute-timer-natutal-gas-meter-thumb.jpg
 tags:
@@ -16,4 +16,4 @@ tags:
 
 [1 Minute Timer Natural Gas Meter](https://youtu.be/D5dvU3sBqbg)
 
-![1 Minute Timer Natural Gas Meter](./attachments/1-minute-timer-natutal-gas-meter-thumb.jpg)
+![1 Minute Timer Natural Gas Meter](attachments/1-minute-timer-natutal-gas-meter-thumb.jpg)

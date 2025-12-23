@@ -1,7 +1,7 @@
 ---
 title: Rephotography
 date: 2024-11-29T10:17:20
-lastmod: 2024-12-13T06:41:07
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Rephotography can refer to the photographing of the same object or location at different times.
@@ -13,7 +13,7 @@ Later in 1998 Klett revisited sites in the west to rephotograph them again for a
 <div class="gallery-grid">
 <figure>
 
-[![William Henry Jackson Gateway of the Garden of the Gods](./attachments/William-Henry-Jackson_Gateway-of-the-Garden-of-the-Gods_Colorado-1873.jpg)](./attachments/William-Henry-Jackson_Gateway-of-the-Garden-of-the-Gods_Colorado-1873.jpg)
+[![William Henry Jackson Gateway of the Garden of the Gods](attachments/William-Henry-Jackson_Gateway-of-the-Garden-of-the-Gods_Colorado-1873.jpg)](attachments/William-Henry-Jackson_Gateway-of-the-Garden-of-the-Gods_Colorado-1873.jpg)
 
 <figcaption>
 
@@ -24,7 +24,7 @@ William Henry Jackson, Gateway of the Garden of the Gods, Colorado, 1873
 
 <figure>
 
-[![Mark Klett and JoAnn Verburg for the Rephotographic Survey Project, Gateway of the Garden of the Gods](./attachments/Mark-Klett-and-JoAnn-Verburg_Gateway-of-the-Garden-of-the-Gods_Colorado-Springs_CO_1977.jpg)](./attachments/Mark-Klett-and-JoAnn-Verburg_Gateway-of-the-Garden-of-the-Gods_Colorado-Springs_CO_1977.jpg)
+[![Mark Klett and JoAnn Verburg for the Rephotographic Survey Project, Gateway of the Garden of the Gods](attachments/Mark-Klett-and-JoAnn-Verburg_Gateway-of-the-Garden-of-the-Gods_Colorado-Springs_CO_1977.jpg)](attachments/Mark-Klett-and-JoAnn-Verburg_Gateway-of-the-Garden-of-the-Gods_Colorado-Springs_CO_1977.jpg)
 
 <figcaption>
 
@@ -39,7 +39,7 @@ In 1981, Sherrie Levine "rephotographed" an image of Allie Mae Burroughs[^jca-le
 <div class="gallery-grid">
 <figure>
 
-[![Walker Evans Alabama Tenant Farmers Wife 1936](./attachments/1936_Walker-Evans_Alabama-Tenant-Famer-Wife.jpg)](./attachments/1936_Walker-Evans_Alabama-Tenant-Famer-Wife.jpg)
+[![Walker Evans Alabama Tenant Farmers Wife 1936](attachments/1936_Walker-Evans_Alabama-Tenant-Famer-Wife.jpg)](attachments/1936_Walker-Evans_Alabama-Tenant-Famer-Wife.jpg)
 
 <figcaption>
 
@@ -49,7 +49,7 @@ Walker Evans, _Alabama Tenant Farmer Wife_, 1936, Gelatin silver print, 20.9 x 1
 </figure>
 <figure>
 
-[![Sherrie Levine After Walker Evans 4](./attachments/1981_Sherrie-Levine_After-Walker-Evans-4.jpg)](./attachments/1981_Sherrie-Levine_After-Walker-Evans-4.jpg)
+[![Sherrie Levine After Walker Evans 4](attachments/1981_Sherrie-Levine_After-Walker-Evans-4.jpg)](attachments/1981_Sherrie-Levine_After-Walker-Evans-4.jpg)
 
 <figcaption>
 
@@ -66,7 +66,7 @@ The iconic image of the cowboy in front of the clouds was reportedly shot by Jim
 <div class="gallery-grid">
 <figure>
 
-[![Tear Sheet Original Marlboro Ad](./attachments/Tear-Sheat_Original-Marlboro-Ad.jpg)](./attachments/Tear-Sheat_Original-Marlboro-Ad.jpg)
+[![Tear Sheet Original Marlboro Ad](attachments/Tear-Sheat_Original-Marlboro-Ad.jpg)](attachments/Tear-Sheat_Original-Marlboro-Ad.jpg)
 
 <figcaption>
 
@@ -76,7 +76,7 @@ Tear Sheet, Original Marlboro Ad _(This image is included on the basis of fair u
 </figure>
 <figure>
 
-[![Richard Prince Untitled (Cowboy) 1989](./attachments/1989_Richard-Prince-Cowboys-Untitled.jpg)](./attachments/1989_Richard-Prince-Cowboys-Untitled.jpg)
+[![Richard Prince Untitled (Cowboy) 1989](attachments/1989_Richard-Prince-Cowboys-Untitled.jpg)](attachments/1989_Richard-Prince-Cowboys-Untitled.jpg)
 
 <figcaption>
 

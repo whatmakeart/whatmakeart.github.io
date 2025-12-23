@@ -1,6 +1,6 @@
 ---
 title: ESP Modules
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-12-23T10:12:35-04:00
 date: 2024-11-10T16:01:02
 tags:
   - Electronics
@@ -12,7 +12,7 @@ Espressif created a series of Wi-Fi and Bluetooth enabled boards. These are ofte
 
 The ESP-8266 was one of the early ESP chips and modules. It is still available and still useful but the ESP-32 will likely have more capabilities for future projects.
 
-[![ESP-8266 Module Board](./attachments/2023-esp8266-module-board.jpg)](./attachments/2023-esp8266-module-board.jpg)
+[![ESP-8266 Module Board](attachments/2023-esp8266-module-board.jpg)](attachments/2023-esp8266-module-board.jpg)
 
 ## Espressif Resources
 

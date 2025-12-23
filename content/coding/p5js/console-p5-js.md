@@ -1,14 +1,14 @@
 ---
 title: Console p5.js
 date: 2024-01-22T13:43:23
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6mqHhBcZrdw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-In this programming tutorial, we're diving deeper into the [p5.js online web editor](./p5-js-web-editor-basics.md), particularly focusing on the console. The console is a crucial tool in the p5.js environment, located at the bottom of the editor beneath your code. It essentially serves three main purposes:
+In this programming tutorial, we're diving deeper into the [p5.js online web editor](p5-js-web-editor-basics.md), particularly focusing on the console. The console is a crucial tool in the p5.js environment, located at the bottom of the editor beneath your code. It essentially serves three main purposes:
 
 1. **Displaying Error Messages**: When your code has an issue, such as a syntax error, the console will display an error message. For instance, if you remove a curly bracket from your code, the console might show a syntax error, indicating a problem. While the error messages are sometimes vague, they usually provide enough information to help you locate the error. For example, it might highlight areas in your code where the error could be, allowing you to deduce that you've missed a curly bracket.
 
@@ -22,7 +22,7 @@ As your programming skills progress, especially with more complex projects, you'
 
 Remember, programming can have its challenges, but tools like the p5.js console are there to help you navigate and resolve issues as they arise. Happy coding!
 
-[![Console p5.js](./attachments/p5-js-console-thumb.jpg)](./attachments/p5-js-console-thumb.jpg)
+[![Console p5.js](attachments/p5-js-console-thumb.jpg)](attachments/p5-js-console-thumb.jpg)
 
 ## Console p5.js Video Transcript
 

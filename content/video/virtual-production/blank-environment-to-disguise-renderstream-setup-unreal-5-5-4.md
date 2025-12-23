@@ -1,7 +1,7 @@
 ---
 title: Blank Environment to disguise RenderStream Setup Unreal 5.5.4
 date: 2025-10-07T04:35:38
-lastmod: 2025-10-11T07:21:44
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="video-card">
@@ -13,13 +13,13 @@ lastmod: 2025-10-11T07:21:44
 </div>
 </div>
 
-To use an Unreal Project in disguise for [virtual production](./virtual-production.md) it must be setup correctly with the disguise RenderStream plugin with properly named "Cine Camera" actors. The versions of Unreal Engine, RenderStream plugin, and disguise must all match based on your specific setup. This guide shows how to setup a blank level for virtual Production with Unreal Engine 5.5.4. If you want to use an exiting environment or a Fab environment, this guide shows [how to setup a Fab Environment for disguise RenderStream with Unreal 5.5.4](./fab-environment-to-disguise-renderstram-setup-unreal-5-5-4.md).
+To use an Unreal Project in disguise for [virtual production](virtual-production.md) it must be setup correctly with the disguise RenderStream plugin with properly named "Cine Camera" actors. The versions of Unreal Engine, RenderStream plugin, and disguise must all match based on your specific setup. This guide shows how to setup a blank level for virtual Production with Unreal Engine 5.5.4. If you want to use an exiting environment or a Fab environment, this guide shows [how to setup a Fab Environment for disguise RenderStream with Unreal 5.5.4](fab-environment-to-disguise-renderstram-setup-unreal-5-5-4.md).
 
 ## Basic Instructions for Empty Unreal Scene
 
 1. Make sure you have the correct version (5.5.4) of Unreal Engine installed [How to install previous versions of Unreal Engine](../../3d-modeling/unreal-engine/install-previous-version-of-unreal-engine.md)
 2. Create a new Unreal Project version (5.5.4) - [How to Create a New Project in Unreal Engine 5.5.4](../../3d-modeling/unreal-engine/create-new-project-in-unreal-engine.md)
-3. Download the RenderStream Plugin from disguise and place it in a Plugins folder inside the Unreal Project [How to Install RenderStream for Unreal Engine 5.5](./install-disguise-renderstream-plugin.md)
+3. Download the RenderStream Plugin from disguise and place it in a Plugins folder inside the Unreal Project [How to Install RenderStream for Unreal Engine 5.5](install-disguise-renderstream-plugin.md)
 
 ### Setup New Unreal Project
 
@@ -31,7 +31,7 @@ To use an Unreal Project in disguise for [virtual production](./virtual-producti
    - In the search box, type `alpha`
      - Enable Support for Alpha Channel (a.k.a. turn on alpha output).
    - Close Project Settings, File → Save All
-4. Make sure the RenderStream plugin is present in this project. [How to Install RenderStream Plugin](./install-disguise-renderstream-plugin.md)
+4. Make sure the RenderStream plugin is present in this project. [How to Install RenderStream Plugin](install-disguise-renderstream-plugin.md)
    - Place the RenderStream plugin inside your project’s Plugins folder.
 5. Restart Unreal.
 

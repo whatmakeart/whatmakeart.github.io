@@ -1,7 +1,7 @@
 ---
 title: Soldering LED Strip Lights
 date: 2023-10-06T09:30:00
-lastmod: 2025-03-17T04:25:10
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Electronics
 ---
@@ -14,13 +14,13 @@ To solder LED strip lights, you will need the following tools and materials:
 - Wire cutters
 - LED strip lights
 - Power and signal wires
-- [Heat Shrink tubing](./heat-shrink-tubing.md)
+- [Heat Shrink tubing](heat-shrink-tubing.md)
 
 ## Soldering Resources
 
-- [Electronics Soldering Basics](./electronics-soldering-basics.md)
-- [Stripping Wire](./stripping-wire.md)
-- [Electrical Wire Basics](./electrical-wire-basics.md)
+- [Electronics Soldering Basics](electronics-soldering-basics.md)
+- [Stripping Wire](stripping-wire.md)
+- [Electrical Wire Basics](electrical-wire-basics.md)
 
 ## Instructions
 

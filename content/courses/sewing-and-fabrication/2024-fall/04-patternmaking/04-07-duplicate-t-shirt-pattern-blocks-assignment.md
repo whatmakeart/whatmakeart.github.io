@@ -1,7 +1,7 @@
 ---
 title: 04.07 Duplicate T-Shirt Pattern Blocks Assignment
 date: 2024-09-23T09:00:00
-lastmod: 2024-10-07T06:13:38
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -15,7 +15,7 @@ lastmod: 2024-10-07T06:13:38
 
 ## Overview
 
-Follow the [instructions](./04-04-how-to-duplicate-t-shirt-pattern.md) to create pattern blocks from a shirt or T-shirt.
+Follow the [instructions](04-04-how-to-duplicate-t-shirt-pattern.md) to create pattern blocks from a shirt or T-shirt.
 
 ## Grading Rubric
 

@@ -1,7 +1,7 @@
 ---
 title: 01.10 Assembled Scrap Fabric Sewn Collage Assignment
 date: 2024-08-26T09:00:00
-lastmod: 2024-09-06T10:32:47
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -29,7 +29,7 @@ lastmod: 2024-09-06T10:32:47
 
 <figure>
 
-[![Tommy Nguyen may the PLUSH be with you](./2024-08-23_Tommy_Nyguen_Sculpture-Center-1.jpg)](./2024-08-23_Tommy_Nyguen_Sculpture-Center-1.jpg)
+[![Tommy Nguyen may the PLUSH be with you](2024-08-23_Tommy_Nyguen_Sculpture-Center-1.jpg)](2024-08-23_Tommy_Nyguen_Sculpture-Center-1.jpg)
 
 <figcaption>
 
@@ -38,7 +38,7 @@ lastmod: 2024-09-06T10:32:47
  </figcaption></figure>
 <figure>
 
-[![Tommy Nguyen may the PLUSH be with you](./2024-08-23_Tommy_Nyguen_Sculpture-Center-2.jpg)](./2024-08-23_Tommy_Nyguen_Sculpture-Center-2.jpg)
+[![Tommy Nguyen may the PLUSH be with you](2024-08-23_Tommy_Nyguen_Sculpture-Center-2.jpg)](2024-08-23_Tommy_Nyguen_Sculpture-Center-2.jpg)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ lastmod: 2024-09-06T10:32:47
  </figcaption></figure>
  <figure>
 
-[![Tommy Nguyen may the PLUSH be with you](./2024-08-23_Tommy_Nyguen_Sculpture-Center-3.jpg)](./2024-08-23_Tommy_Nyguen_Sculpture-Center-3.jpg)
+[![Tommy Nguyen may the PLUSH be with you](2024-08-23_Tommy_Nyguen_Sculpture-Center-3.jpg)](2024-08-23_Tommy_Nyguen_Sculpture-Center-3.jpg)
 
 <figcaption>
 
@@ -57,7 +57,7 @@ lastmod: 2024-09-06T10:32:47
 
  <figure>
 
-[![Tommy Nguyen may the PLUSH be with you](./2024-08-23_Tommy_Nyguen_Sculpture-Center-4.jpg)](./2024-08-23_Tommy_Nyguen_Sculpture-Center-4.jpg)
+[![Tommy Nguyen may the PLUSH be with you](2024-08-23_Tommy_Nyguen_Sculpture-Center-4.jpg)](2024-08-23_Tommy_Nyguen_Sculpture-Center-4.jpg)
 
 <figcaption>
 

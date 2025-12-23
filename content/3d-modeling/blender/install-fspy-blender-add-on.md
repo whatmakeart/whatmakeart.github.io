@@ -1,7 +1,7 @@
 ---
 title: Install fSpy Blender Add-on
 date: 2024-08-28T09:00:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -9,7 +9,7 @@ lastmod: 2025-09-30T17:53:45
 </div>
 </div>
 
-This [Blender](./blender.md) tutorial shows how to install the fSpy importer add-on, which allows you to import your fSpy project files into Blender.
+This [Blender](blender.md) tutorial shows how to install the fSpy importer add-on, which allows you to import your fSpy project files into Blender.
 
 ### fSpy Blender Addo-on Installation Steps
 

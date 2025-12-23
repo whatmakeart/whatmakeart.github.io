@@ -1,7 +1,7 @@
 ---
 title: 06.05 Fusion Modeling Practice Assignment
 date: 2025-10-03T09:30:00
-lastmod: 2025-10-13T06:44:00
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -13,7 +13,7 @@ lastmod: 2025-10-13T06:44:00
 
 ## Assignment Overview
 
-[Fusion](../../../../3d-modeling/fusion-360/fusion-360.md) introduces new [parametric modeling](./06-04-parametric-modeling.md) concepts such as user parameters, sketch constraints, and the design timeline. To begin to understand and learn different parametric modeling techniques in Fusion, choose one of the Fusion modeling exercises below and complete it. The examples show the use of [sketch constraints](../../../../3d-modeling/fusion-360/sketch-constraints-fusion-360.md) in Fusion to completely constrain the sketches as well as the use of [user parameters](../../../../3d-modeling/fusion-360/basic-user-parameters-fusion-360.md) to efficiently change dimensions such as the thickness of plywood.
+[Fusion](../../../../3d-modeling/fusion-360/fusion-360.md) introduces new [parametric modeling](06-04-parametric-modeling.md) concepts such as user parameters, sketch constraints, and the design timeline. To begin to understand and learn different parametric modeling techniques in Fusion, choose one of the Fusion modeling exercises below and complete it. The examples show the use of [sketch constraints](../../../../3d-modeling/fusion-360/sketch-constraints-fusion-360.md) in Fusion to completely constrain the sketches as well as the use of [user parameters](../../../../3d-modeling/fusion-360/basic-user-parameters-fusion-360.md) to efficiently change dimensions such as the thickness of plywood.
 
 ### Process
 

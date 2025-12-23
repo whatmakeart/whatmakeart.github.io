@@ -1,7 +1,7 @@
 ---
 title: Madmapper Basics
 date: 2023-10-08T17:36:34
-lastmod: 2025-12-23T07:19:56-04:00
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 To get started with projection mapping with MadMapper, you will need:
@@ -40,7 +40,7 @@ To get started with projection mapping with MadMapper, you will need:
 
 ## Madmapper Resources
 
-[Add Controls Madmapper](./add-controls-madmapper.md)
+[Add Controls Madmapper](add-controls-madmapper.md)
 
 ### External Resources
 

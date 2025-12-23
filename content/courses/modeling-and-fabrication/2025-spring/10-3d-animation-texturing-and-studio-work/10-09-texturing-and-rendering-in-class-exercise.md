@@ -1,7 +1,7 @@
 ---
 title: 10.09 Texturing and Rendering In Class Exercise
 date: 2025-03-27T12:00:00Z
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -25,7 +25,7 @@ lastmod: 2025-09-30T17:53:45
 <div class="gallery-grid">
 <figure>
 
-[![Shell Texture](./shell-texture.png)](./shell-texture.png)
+[![Shell Texture](shell-texture.png)](shell-texture.png)
 
 <figcaption>
 
@@ -35,7 +35,7 @@ Texture Image
 </figure>
 <figure>
 
-[![Shell Texture Bump Map](./shell-texture-bump-map.png)](./shell-texture-bump-map.png)
+[![Shell Texture Bump Map](shell-texture-bump-map.png)](shell-texture-bump-map.png)
 
 <figcaption>
 
@@ -45,7 +45,7 @@ Bump Map
 </figure>
 <figure>
 
-[![Shell Texture Normal Map](./shell-texture-normal-map.png)](./shell-texture-normal-map.png)
+[![Shell Texture Normal Map](shell-texture-normal-map.png)](shell-texture-normal-map.png)
 
 <figcaption>
 

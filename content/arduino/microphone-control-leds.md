@@ -1,7 +1,7 @@
 ---
 title: Microphone Control LEDs
 date: 2023-06-17T10:36:21
-lastmod: 2023-09-07T20:34:10
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Arduino
   - Electronics
@@ -11,7 +11,7 @@ This example uses an electret condenser microphone module to control the blinkin
 
 ## Basic Mic Module Circuit Hook Up
 
-[![Basic Mic Module Circuit](./attachments/2023-basic-microphone-circuit.jpg)](./attachments/2023-basic-microphone-circuit.jpg)
+[![Basic Mic Module Circuit](attachments/2023-basic-microphone-circuit.jpg)](attachments/2023-basic-microphone-circuit.jpg)
 
 ## Basic Mic Code
 
@@ -56,7 +56,7 @@ This code uses a potentiometer to turn off the LED when the potentiometer reads 
 
 It also prints the value of the potentiometer from 0 - 1023 in the Serial Monitor of the Arduino IDE for testing the threshold. Go to Tools > Serial Monitor and match the 9600 speed and you will see the value of the potentiometer printed out every quarter second.
 
-[![Microphone Control LED with Arduino Circuit](./attachments/2023-microphone-control-led.jpg)](./attachments/2023-microphone-control-led.jpg)
+[![Microphone Control LED with Arduino Circuit](attachments/2023-microphone-control-led.jpg)](attachments/2023-microphone-control-led.jpg)
 
 ## Code to Mic Threshold Controlled by Potentiometer
 

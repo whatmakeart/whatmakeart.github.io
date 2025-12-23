@@ -1,7 +1,7 @@
 ---
 title: How to Sew a Plain Seam
 date: 2023-05-23T21:59:40
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="video-grid">
@@ -10,7 +10,7 @@ lastmod: 2025-09-30T17:53:45
 </div>
 </div>
 
-This tutorial video will show you how to sew a basic plain seam with a sewing machine. This is a fundamental [sewing](./sewing.md) skill that you will use for many different projects.
+This tutorial video will show you how to sew a basic plain seam with a sewing machine. This is a fundamental [sewing](sewing.md) skill that you will use for many different projects.
 
 ## Prerequisites
 
@@ -64,4 +64,4 @@ Now remember this seam has unfinished edges so it can unravel but it still looks
 
 ## Further Reading
 
-- [How to Sew Six Basic Seams](./how-to-sew-six-basic-seams.md)
+- [How to Sew Six Basic Seams](how-to-sew-six-basic-seams.md)

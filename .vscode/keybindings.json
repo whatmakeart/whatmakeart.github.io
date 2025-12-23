@@ -1,0 +1,5 @@
+{
+  "key": "option+l",
+  "command": "_markdown.insertLinkToWorkspaceFile",
+  "when": "editorTextFocus && !editorReadonly"
+}

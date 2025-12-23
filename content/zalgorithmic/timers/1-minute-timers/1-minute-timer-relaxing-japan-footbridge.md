@@ -1,7 +1,7 @@
 ---
 title: 1 Minute Timer Relaxing Japan Footbridge
 date: 2025-04-20T06:52:36
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 description: 1 Minute Relaxing Japan Footbridge Timer counts down silently until it reaches 0:00 and then makes a sound to show time is up
 featured_image: /zalgorithmic/timers/1-minute-timers/attachments/1-minute-timer-footbridge-japan-thumb.jpg
 tags:
@@ -16,4 +16,4 @@ tags:
 
 [1 Minute Timer Relaxing Japan Footbridge](https://youtu.be/oFKCoPaO10Y)
 
-![1 Minute Timer Japan Footbridge](./attachments/1-minute-timer-footbridge-japan-thumb.jpg)
+![1 Minute Timer Japan Footbridge](attachments/1-minute-timer-footbridge-japan-thumb.jpg)

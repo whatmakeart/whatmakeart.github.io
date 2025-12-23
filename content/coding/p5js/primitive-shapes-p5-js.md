@@ -1,7 +1,7 @@
 ---
 title: Primitive Shapes p5.js
 date: 2024-01-11T06:38:18
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Coding
   - p5.js
@@ -59,7 +59,7 @@ This tutorial in the "Programming for Artists" series introduces the basics of d
 
 This tutorial provides a foundational understanding of drawing with p5.js, crucial for any artist venturing into the world of creative coding. Remember, the key is to experiment and explore the various functions and their effects on the canvas. Happy programming and creative exploration!
 
-[![p5.js primitive shapes](./attachments/p5-js-primitive-shapes-thumb.png)](./attachments/p5-js-primitive-shapes-thumb.png)
+[![p5.js primitive shapes](attachments/p5-js-primitive-shapes-thumb.png)](attachments/p5-js-primitive-shapes-thumb.png)
 
 ## Primitive Shapes p5.js Video Transcript
 

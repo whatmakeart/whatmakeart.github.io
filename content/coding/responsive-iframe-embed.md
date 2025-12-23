@@ -1,7 +1,7 @@
 ---
 title: Responsive iframe Embed
 date: 2023-05-23T21:59:41
-lastmod: 2024-01-17T04:07:05
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Tutorial Description
@@ -10,7 +10,7 @@ iframes are not responsive by default. This code snippet shows how to add a bit 
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with [How-to-add-CSS-to-a-Webpage](./how-to-add-css-to-a-webpage.md) and basic [HTML](html.md).
+To complete this tutorial you should be familiar with [How-to-add-CSS-to-a-Webpage](how-to-add-css-to-a-webpage.md) and basic [HTML](html.md).
 
 ## Instructions
 
@@ -53,4 +53,4 @@ After following these instructions you should have an iframe that is responsive,
 
 ## Further Reading
 
-[Web-Design](web-design.md) [How to Make an Artist Portfolio Website](./artist-portfolio-website-how-to-guide.md)
+[Web-Design](web-design.md) [How to Make an Artist Portfolio Website](artist-portfolio-website-how-to-guide.md)

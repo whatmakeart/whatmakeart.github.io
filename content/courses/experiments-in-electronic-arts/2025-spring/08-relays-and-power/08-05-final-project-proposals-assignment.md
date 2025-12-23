@@ -1,7 +1,7 @@
 ---
 title: 08.05 - Final Project Proposals Assignment
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-03-18T05:06:36
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2025-03-18T05:06:36
 
 ## Description
 
-Review the [project description and requirements](./08-06-final-project-assignment.md), and then research and ideate potential ideas for your final project.
+Review the [project description and requirements](08-06-final-project-assignment.md), and then research and ideate potential ideas for your final project.
 
 ## Grading Rubric
 

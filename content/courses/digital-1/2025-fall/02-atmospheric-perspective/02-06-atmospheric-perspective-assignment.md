@@ -1,7 +1,7 @@
 ---
 title: 02.06 Atmospheric Perspective Assignment
 date: 2025-09-04T09:00:00Z
-lastmod: 2025-09-30T13:43:04
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -17,8 +17,8 @@ lastmod: 2025-09-30T13:43:04
 
 ### Key Concepts
 
-- [Atmospheric Perspective](./02-01-atmospheric-perspective.md)
-- Illusion of [Depth](./02-02-depth.md)
+- [Atmospheric Perspective](02-01-atmospheric-perspective.md)
+- Illusion of [Depth](02-02-depth.md)
 - Compositional Clarity and Emphasis
 
 ### Using Spatial Organization for Clarity and Focus

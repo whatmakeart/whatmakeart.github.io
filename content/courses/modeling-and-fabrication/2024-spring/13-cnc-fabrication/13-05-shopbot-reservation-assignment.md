@@ -1,7 +1,7 @@
 ---
 title: 13.05 ShopBot Reservation
 date: 2024-04-18T12:00:00Z
-lastmod: 2024-04-18T11:23:43
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -42,7 +42,7 @@ After you make your Fusion 360 model of your CNC project, lay the parts out flat
 
 [Purchase Plywood](https://my.cia.edu/ICS/Departments/CIA_Store/Fabrication_Studios/Wood/)
 
-[![Purchace Plywood](./2024-04-18-purchase-plywood.jpg)](https://my.cia.edu/ICS/Departments/CIA_Store/Fabrication_Studios/Wood/)
+[![Purchace Plywood](2024-04-18-purchase-plywood.jpg)](https://my.cia.edu/ICS/Departments/CIA_Store/Fabrication_Studios/Wood/)
 
 ## Grading Rubric
 

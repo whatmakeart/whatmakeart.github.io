@@ -1,7 +1,7 @@
 ---
 title: Artist Portfolio Website How To Guide
 date: 2021-04-11T08:07:38
-lastmod: 2025-08-17T23:03:11
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 # What is a Website?
@@ -312,7 +312,7 @@ In web design as well as most publishing it is best to keep the content separate
 
 ## What is HTML and CSS?
 
-[HTML](./html.md) stands for Hyper Text Markup Language and [CSS](./css.md) stands for Cascading Style Sheet. All you need to know is that the HTML tells the web browser what the content is. It tells the browser if the text is a heading, a paragraph, a link, an image or any other content on the webpage. Although most web browser have default display styles for HTML content, the HTML should not determine how your site looks.
+[HTML](html.md) stands for Hyper Text Markup Language and [CSS](css.md) stands for Cascading Style Sheet. All you need to know is that the HTML tells the web browser what the content is. It tells the browser if the text is a heading, a paragraph, a link, an image or any other content on the webpage. Although most web browser have default display styles for HTML content, the HTML should not determine how your site looks.
 
 The CSS tells the web browser how to display your content. It determines typefaces, text size, colors, borders, column layouts, how the page looks on mobile, animations, transitions and just about any type of visual styling you can imagine.
 

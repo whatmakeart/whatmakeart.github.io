@@ -1,7 +1,7 @@
 ---
 title: Random p5.js
 date: 2024-01-24T11:43:45
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -18,7 +18,7 @@ random(37, 92);
 
 _Note: The `random(37, 92)` function will not give 37 or 92. It will give from 37 up to 92. So it could be 91.999594 but never 92._
 
-What does it mean to "give" a value? Functions in programming in JavaScript and in other coding languages, have the option to "return" something. This can be a value or other activity. Instead of "creating" something like the [primitive shape functions](./primitive-shapes-p5-js.md) such as `circle(100,150,50);` the `random()` function returns a value. You can set a variable to this random value.
+What does it mean to "give" a value? Functions in programming in JavaScript and in other coding languages, have the option to "return" something. This can be a value or other activity. Instead of "creating" something like the [primitive shape functions](primitive-shapes-p5-js.md) such as `circle(100,150,50);` the `random()` function returns a value. You can set a variable to this random value.
 
 ```javascript
 // set variable to random value
@@ -82,7 +82,7 @@ function draw() {
 }
 ```
 
-[![Random p5.js](./attachments/random-p5js-thumb.jpg)](./attachments/random-p5js-thumb.jpg)
+[![Random p5.js](attachments/random-p5js-thumb.jpg)](attachments/random-p5js-thumb.jpg)
 
 <button class="text-start btn btn-outline-dark mb-3" style="width:100%;" type="button" data-bs-toggle="collapse" data-bs-target="#random-transcript" aria-expanded="false" aria-controls="random-transcript">
 

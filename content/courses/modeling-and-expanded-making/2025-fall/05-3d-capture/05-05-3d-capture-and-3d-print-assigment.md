@@ -1,7 +1,7 @@
 ---
 title: 05.05 3D Capture and 3D Print Assignment
 date: 2025-09-26T09:30:00
-lastmod: 2025-09-26T17:10:23
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -16,7 +16,7 @@ lastmod: 2025-09-26T17:10:23
 
 ## Assignment Overview
 
-3D capture brings the physical world into the digital 3D model world. This project explores three different methods of 3D capture, [photogrammetry](./05-02-photogrammetry.md), [3D scanning](./05-01-3d-scanning.md), and [gaussian splatting](./05-03-gaussian-splatting.md).
+3D capture brings the physical world into the digital 3D model world. This project explores three different methods of 3D capture, [photogrammetry](05-02-photogrammetry.md), [3D scanning](05-01-3d-scanning.md), and [gaussian splatting](05-03-gaussian-splatting.md).
 
 ### Process
 

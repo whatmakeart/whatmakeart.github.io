@@ -1,7 +1,7 @@
 ---
 title: 09.14 3D Animation Project Environment Building Assignment
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-04-03T10:00:12
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -13,7 +13,7 @@ lastmod: 2025-04-03T10:00:12
 
 ## Process
 
-Spend 3 hours modeling 3D environments for your [line animation project](./09-15-3d-line-animation-project-assignment.md). Use your story spines and storyboards as a guide. Make camera objects to see if your environment if matching what you want to show in your storyboards.
+Spend 3 hours modeling 3D environments for your [line animation project](09-15-3d-line-animation-project-assignment.md). Use your story spines and storyboards as a guide. Make camera objects to see if your environment if matching what you want to show in your storyboards.
 
 ### 3D Model File Exporting
 

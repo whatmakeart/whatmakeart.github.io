@@ -1,7 +1,7 @@
 ---
 title: 02.11 Basic Generative Assignment
 date: 2024-01-26T09:30:00
-lastmod: 2024-02-06T06:25:42
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -12,11 +12,11 @@ lastmod: 2024-02-06T06:25:42
 
 ## Assignment Requirements
 
-- use a minimum of 2 variables [Variables Basics](./02-03-variables-p5-js.md)
-- use an increment operator [Increment Operator Basics](./02-04-increment-operators-p5-js.md)
+- use a minimum of 2 variables [Variables Basics](02-03-variables-p5-js.md)
+- use an increment operator [Increment Operator Basics](02-04-increment-operators-p5-js.md)
 - use at least one built in p5.js variable such as `width`, `height`, `windowHeight`, `windowWidth`, `mouseX`, `mouseY`, `mouseIsPressed`
-- use a conditional statement [Conditional Statement Basics](./02-06-conditional-statements-p5-js.md)
-- use the `random()` function at least once [random() Basics](./02-05-random-p5-js.md)
+- use a conditional statement [Conditional Statement Basics](02-06-conditional-statements-p5-js.md)
+- use the `random()` function at least once [random() Basics](02-05-random-p5-js.md)
 - have fun and experiment
 
 We used primitive shapes and colors to make images in the previous assignment. Then we published those sketches to the web by saving them as a GitHub Repository and serving them on GitHub Pages. For the most part, those images were static or had basic variability.

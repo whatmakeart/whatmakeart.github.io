@@ -1,7 +1,7 @@
 ---
 title: Ultrasonic Sensor
 date: 2023-06-17T10:37:29
-lastmod: 2023-09-07T20:34:43
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Arduino
   - Electronics
@@ -13,7 +13,7 @@ An ultrasonic sensor can send a sound wave out and measure the time it takes for
 
 Hook up GND and 5V to the breadboard power rail and connect the same GND and 5V pins on the ultrasonic sensor module to their respective spots on the breadboard power rail. The ultrasonic trig pin connects to 11 and the the ultrasonic echo pin connects to 12. To blink an LED based on the distance reading, hook up an LED and a resistor to pin 10.
 
-[![Ultrasonic Sensor Circuit](./attachments/2023-ultrasonic-sensor-circuit-with-led.png)](./attachments/2023-ultrasonic-sensor-circuit-with-led.png)
+[![Ultrasonic Sensor Circuit](attachments/2023-ultrasonic-sensor-circuit-with-led.png)](attachments/2023-ultrasonic-sensor-circuit-with-led.png)
 
 ## UltraSonic Code without the Delay
 

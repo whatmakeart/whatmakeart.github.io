@@ -1,6 +1,6 @@
 ---
 date: 2023-04-26T8:30:00-04:00
-lastmod: 2025-12-22T06:59:29
+lastmod: 2025-12-23T10:12:35-04:00
 description: In this Blender tutorial, I will show you how to make a simple ball rig that you can use to animate squash and stretch. This can help you make your balls that you animate look more realistic by having them react to the environment.
 featured_image: /3d-modeling/blender/attachments/blender-ball-rigging.jpg
 tags:
@@ -17,7 +17,7 @@ title: Ball Rigging - Blender
 
 ## How to Make a Simple Ball Rig in Blender
 
-In this [Blender](./blender.md) tutorial, I will show you how to make a simple ball rig that you can use to animate squash and stretch. This can help you make your balls that you animate look more realistic by having them react to the environment.
+In this [Blender](blender.md) tutorial, I will show you how to make a simple ball rig that you can use to animate squash and stretch. This can help you make your balls that you animate look more realistic by having them react to the environment.
 
 We will start by creating a UV sphere and adding a texture to it. We will then add an armature to the sphere and parent it to the sphere. Finally, we will add keyframes to the armature to make the ball bounce.
 

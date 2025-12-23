@@ -1,7 +1,7 @@
 ---
 title: Mechanical Relays
 date: 2023-06-17T15:24:59
-lastmod: 2024-01-10T13:59:04
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Electronics
 ---
@@ -20,7 +20,7 @@ On the load side of the relay module, there are 3 screw terminals labled, NC, CO
 - Common - Wires connected to this terminal can connect to either the Normally Closed or Normally Open terminal depending if the relay is switched or not
 - Normally Open - Wires connected to this terminal make a closed circuit with the wires connected to Common only when power is applied to the relay
 
-[![Mechanical Relay Module](./attachments/2023-relay-module.png)](./attachments/2023-relay-module.png)
+[![Mechanical Relay Module](attachments/2023-relay-module.png)](attachments/2023-relay-module.png)
 
 ## Relay Module Wiring
 
@@ -44,7 +44,7 @@ If using a relay to switch any voltage 50v or higher, then the relay module and 
 
 <figure>
 
-[![Relay Module Wiring Diagram](./attachments/2023-arduino-relay-module-wiring-diagram.png)](./attachments/2023-arduino-relay-module-wiring-diagram.png)
+[![Relay Module Wiring Diagram](attachments/2023-arduino-relay-module-wiring-diagram.png)](attachments/2023-arduino-relay-module-wiring-diagram.png)
 
 <figcaption>
 
@@ -58,7 +58,7 @@ Just because a relay can switch high voltage and high current doesn't mean it ha
 
 <figure>
 
-[![Relay Module Wiring Diagram with LED](./attachments/2023-mechanical-relay-arduino-wiring-example.jpg)](./attachments/2023-mechanical-relay-arduino-wiring-example.jpg)
+[![Relay Module Wiring Diagram with LED](attachments/2023-mechanical-relay-arduino-wiring-example.jpg)](attachments/2023-mechanical-relay-arduino-wiring-example.jpg)
 
 <figcaption>
 

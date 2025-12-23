@@ -1,7 +1,7 @@
 ---
 title: 11.04 Sonic Arts Workshop Assignment
 date: 2023-11-14T09:00:00
-lastmod: 2024-11-12T05:23:44
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -16,7 +16,7 @@ lastmod: 2024-11-12T05:23:44
 
 </div>
 
-The [video examples](./11-03-sonic-arts-workshop-references.md) I pointed to (Anne-f Jacques, Petr Válek) purposely focus on recycled or low-cost materials and a provisional aesthetic. This is intended to give you permission to experiment and play (especially given the 1-week timeframe), but does not dictate any particular style or aesthetic. _The primary focus should be on the sound._
+The [video examples](11-03-sonic-arts-workshop-references.md) I pointed to (Anne-f Jacques, Petr Válek) purposely focus on recycled or low-cost materials and a provisional aesthetic. This is intended to give you permission to experiment and play (especially given the 1-week timeframe), but does not dictate any particular style or aesthetic. _The primary focus should be on the sound._
 
 You are welcome to use 3D printing to produce parts of your sculpture. This could be particularly appropriate for hubs/cams/levers to modify circular motion from the motors, or for tuned resonant cavities to amplify vibrating objects. Extruded plastic may be too soft to produce much sound directly, but feel free to experiment.
 
@@ -51,6 +51,6 @@ You are welcome to use 3D printing to produce parts of your sculpture. This coul
 ## Additional Resources
 
 - [Basic Electricity Safety](../../../../electronics/electricity-safety.md)
-- [Sonic Arts Workshop References](./11-03-sonic-arts-workshop-references.md)
+- [Sonic Arts Workshop References](11-03-sonic-arts-workshop-references.md)
 
 [^1]: _Motorized Sound Sculpture_ assignment text on this page was written by [Bob Drake](https://fluxmonkey.com/) it is used with permission in conjunction with his Sonic Arts Workshop.

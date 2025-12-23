@@ -1,12 +1,12 @@
 ---
 title: How to Thread a Home Sewing Machine
 date: 2023-05-23T21:59:40
-lastmod: 2024-08-26T06:39:27
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with basic [sewing](./sewing.md).
+To complete this tutorial you should be familiar with basic [sewing](sewing.md).
 
 ## Instructions
 
@@ -46,5 +46,5 @@ Threading a home sewing machine is a fundamental skill for anyone who sews. Prop
 
 ## Further Reading
 
-- [How to thread an industrial sewing machine](./how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)
-- [How to thread a serger](./how-to-thread-a-serger.md)
+- [How to thread an industrial sewing machine](how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)
+- [How to thread a serger](how-to-thread-a-serger.md)

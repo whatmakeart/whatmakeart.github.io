@@ -1,7 +1,7 @@
 ---
 title: 07.06 Projection Mapping Research Assignment
 date: 2024-10-08T12:00:00
-lastmod: 2024-10-09T06:25:05
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -12,7 +12,7 @@ lastmod: 2024-10-09T06:25:05
 
 ## Overview
 
-Review the [Projection Mapping Examples](./07-01-projection-mapping-examples.md)
+Review the [Projection Mapping Examples](07-01-projection-mapping-examples.md)
 
 - take screenshots / collect images of ones you like
 - add to pdf with brief written descriptions of what you liked and hated and why

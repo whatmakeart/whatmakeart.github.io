@@ -1,7 +1,7 @@
 ---
 title: Electronics Prototyping Basic Equipment
 date: 2025-01-13T04:44:22
-lastmod: 2025-01-13T04:45:18
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Electronics
 ---
@@ -49,4 +49,4 @@ A breadboard allows simple and quick electrical connections between the Arduino 
 
 ### Multimeters
 
-Multimeters allow you to measure voltage, current, resistance, continuity and other electrical properties. They are indispensable to troubleshooting electronics projects. [Learn more about multimeters.](./how-to-use-a-multimeter.md)
+Multimeters allow you to measure voltage, current, resistance, continuity and other electrical properties. They are indispensable to troubleshooting electronics projects. [Learn more about multimeters.](how-to-use-a-multimeter.md)

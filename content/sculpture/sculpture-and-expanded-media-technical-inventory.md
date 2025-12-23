@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2025-12-15T07:22:34
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -45,7 +45,7 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | [Digital Calipers](../making/how-to-use-digital-calipers.md)                                       |       |             |             |             |             |
 | Protractor                                                                                         |       |             |             |             |             |
 | Disc Sander                                                                                        |       |             |             |             |             |
-| [Stone Chisels](./stone-chisels.md)                                                                |       |             |             |             |             |
+| [Stone Chisels](stone-chisels.md)                                                                  |       |             |             |             |             |
 | [Pop Rivet Gun](../tools/how-to-use-a-pop-rivet-gun.md)                                            |       |             |             |             |             |
 | Prefelt                                                                                            |       |             |             |             |             |
 | Yarn Ball Winder                                                                                   |       |             |             |             |             |
@@ -205,7 +205,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | Dying Fabric                                                                                           |       |             |             |             |             |
 | Painting                                                                                               |       |             |             |             |             |
 | Spray Painting                                                                                         |       |             |             |             |             |
-| [Stone Carving](./stone-carving-basics.md)                                                             |       |             |             |             |             |
+| [Stone Carving](stone-carving-basics.md)                                                               |       |             |             |             |             |
 | Book Binding                                                                                           |       |             |             |             |             |
 | [Pixel Mapping](../electronics/pixel-mapping.md)                                                       |       |             |             |             |             |
 | Hand Sewing                                                                                            |       |             |             |             |             |

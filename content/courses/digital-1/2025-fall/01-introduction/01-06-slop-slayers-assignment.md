@@ -1,7 +1,7 @@
 ---
 title: 01.06 Slop Slayers Assignment
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-09-07T06:19:54
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -19,7 +19,7 @@ lastmod: 2025-09-07T06:19:54
 
 Using [Photoshop](../../../../software/adobe-photoshop/photoshop.md) transform a raw, unrefined AI-generated "Slop" image into a compelling, intentional, and technically proficient work of digital art.
 
-Use one or more of the provided images from Google's Gemini Image Generator that were generated using only the raw text from our [in-class exercise](./01-02-make-new-original-content-now-in-class-exercise.md) as a prompt. These images likely have compositional oddities, strange lighting, nonsensical details, and a general lack of artistic focus. Choose one or more of the images and become its "slayer." Identify its weaknesses and use your creativity to correct, enhance, and ultimately slay the slop.
+Use one or more of the provided images from Google's Gemini Image Generator that were generated using only the raw text from our [in-class exercise](01-02-make-new-original-content-now-in-class-exercise.md) as a prompt. These images likely have compositional oddities, strange lighting, nonsensical details, and a general lack of artistic focus. Choose one or more of the images and become its "slayer." Identify its weaknesses and use your creativity to correct, enhance, and ultimately slay the slop.
 
 ## Requirements
 
@@ -30,7 +30,7 @@ Combine multiple pixel based images into a purposeful and intentional compositio
 <div class="gallery-grid">
 <figure>
 
-[![AI Slop to Slay 1](./2025-08-28-AI-Slop-to-Slay-1.jpg)](./2025-08-28-AI-Slop-to-Slay-1.jpg)
+[![AI Slop to Slay 1](2025-08-28-AI-Slop-to-Slay-1.jpg)](2025-08-28-AI-Slop-to-Slay-1.jpg)
 
 <figcaption>
 
@@ -41,7 +41,7 @@ AI Slop to Slay 1
 
 <figure>
 
-[![AI Slop to Slay 2](./2025-08-28-AI-Slop-to-Slay-2.jpg)](./2025-08-28-AI-Slop-to-Slay-2.jpg)
+[![AI Slop to Slay 2](2025-08-28-AI-Slop-to-Slay-2.jpg)](2025-08-28-AI-Slop-to-Slay-2.jpg)
 
 <figcaption>
 
@@ -52,7 +52,7 @@ AI Slop to Slay 2
 
 <figure>
 
-[![AI Slop to Slay 3](./2025-08-28-AI-Slop-to-Slay-3.jpg)](./2025-08-28-AI-Slop-to-Slay-3.jpg)
+[![AI Slop to Slay 3](2025-08-28-AI-Slop-to-Slay-3.jpg)](2025-08-28-AI-Slop-to-Slay-3.jpg)
 
 <figcaption>
 

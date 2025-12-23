@@ -1,12 +1,12 @@
 ---
 title: 12.00 Introduction
 date: 2024-11-19T12:00:00
-lastmod: 2025-02-22T14:46:24
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Overview
 
-[Bob Drake](./12-01-bob-drake.md) visits class this week for part one of his Sound Art Workshop. In the first meeting, students will explore the fundamentals of sound art through introductions, discussions, and hands-on activities. The session begins with a round of personal introductions and reflections on sound art, followed by discussions on its distinct forms, characteristics, and vocabularies. Activities include demonstrating sound-making objects, analyzing sound qualities, and prototyping sculptural mechanisms to automate these sounds, fostering collaboration and problem-solving skills. This hands on workshop is accompanied by lecture, demonstrations, reference material, and in class activities.
+[Bob Drake](12-01-bob-drake.md) visits class this week for part one of his Sound Art Workshop. In the first meeting, students will explore the fundamentals of sound art through introductions, discussions, and hands-on activities. The session begins with a round of personal introductions and reflections on sound art, followed by discussions on its distinct forms, characteristics, and vocabularies. Activities include demonstrating sound-making objects, analyzing sound qualities, and prototyping sculptural mechanisms to automate these sounds, fostering collaboration and problem-solving skills. This hands on workshop is accompanied by lecture, demonstrations, reference material, and in class activities.
 
 ## Sound Art Workshop
 
@@ -22,4 +22,4 @@ Students will combine recent explorations in [3D modeling](../../../../3d-modeli
 
 ## References
 
-[^drake-overview]: _Sound Art for Time-Based Strategies - Fall 2024_ written by [Bob Drake](./12-01-bob-drake.md)
+[^drake-overview]: _Sound Art for Time-Based Strategies - Fall 2024_ written by [Bob Drake](12-01-bob-drake.md)

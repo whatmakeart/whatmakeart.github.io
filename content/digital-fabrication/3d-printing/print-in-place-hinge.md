@@ -1,10 +1,10 @@
 ---
 title: Print in Place Hinge
 date: 2023-06-16T05:36:43
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-Often 3D prints are thought of as static single objects rather than objects made up of multiple parts that can move independently. Because of the unique fabrication process of [3D printing](./3d-printing.md), objects that could not be made with traditional fabrication processes can exist. An example of an "impossible" part is a print in place hinge that is fully enclosed and can never come apart.
+Often 3D prints are thought of as static single objects rather than objects made up of multiple parts that can move independently. Because of the unique fabrication process of [3D printing](3d-printing.md), objects that could not be made with traditional fabrication processes can exist. An example of an "impossible" part is a print in place hinge that is fully enclosed and can never come apart.
 
 The 3D printer prints thin layers. When it gets to the gap between the housing of the hinge and the internal pin, it "bridges" the gap by moving quickly. Since the first layer of the pin is slightly higher than the housing, it tends to not stick to the housing. Layers continue to be built up until the housing is complete around an internal hinge pin that can now rotate freely, yet is fully encased in the housing.
 

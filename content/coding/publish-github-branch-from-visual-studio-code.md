@@ -1,7 +1,7 @@
 ---
 title: Publish GitHub Branch from Visual Studio Code
 date: 2024-01-10T09:23:08
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -12,7 +12,7 @@ This tutorial provides a clear step-by-step guide on how to publish a branch to 
 
 1. **Setting Up GitHub in Visual Studio Code**:
 
-   - In a [previous session](./setup-visual-studio-code-and-git.md), you set up your GitHub username and email and made your first commit, which in this case was an HTML boilerplate.
+   - In a [previous session](setup-visual-studio-code-and-git.md), you set up your GitHub username and email and made your first commit, which in this case was an HTML boilerplate.
    - Now, to publish this branch to GitHub, you'll use the GitHub extension that comes pre-installed in Visual Studio Code.
 
 2. **Publishing the Branch**:
@@ -51,4 +51,4 @@ I'm going to click, this will open up a sign-in screen for GitHub. Go ahead and 
 
 Then it gives us some options. I can go ahead and open up GitHub to see this and then I can also periodically run "git fetch". This is most likely a good thing to do so I'm going to click yes. And then I can open it up on GitHub and here we can see my repository. Right here I have my index.html and you can see that it merely has this HTML boiler plate. I can edit it here and then I can download my changes or better I can go ahead and edit it inside Visual Studio Code and then I can use Github as a repository to backup my changes. Hopefully this helps you sync and authenticate GitHub with Visual Studio Code.
 
-[![Publish GitHub Branch](./attachments/publish-github-branch-thumb.jpg)(./attachments/publish-github-branch-thumb.jpg)]
+[![Publish GitHub Branch](attachments/publish-github-branch-thumb.jpg)(./attachments/publish-github-branch-thumb.jpg)]

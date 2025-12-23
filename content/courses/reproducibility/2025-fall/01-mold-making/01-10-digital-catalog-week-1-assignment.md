@@ -1,7 +1,7 @@
 ---
 title: 01.10 Digital Catalog Week 1 Assignment
 date: 2025-08-27T12:00:00
-lastmod: 2025-12-01T20:00:10
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2025-12-01T20:00:10
 
 ## Assignment Overview
 
-Review the [Digital Catalog Assignment Overview](./01-09-digital-catalog-assignment-overview.md).
+Review the [Digital Catalog Assignment Overview](01-09-digital-catalog-assignment-overview.md).
 
 ## Grading Rubric
 

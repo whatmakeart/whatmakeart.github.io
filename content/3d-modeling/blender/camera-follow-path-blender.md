@@ -1,7 +1,7 @@
 ---
 title: Camera Follow Path in Blender
 date: 2023-12-07T10:49:25
-lastmod: 2025-12-22T06:59:29
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Blender
   - Tutorial
@@ -59,7 +59,7 @@ tags:
    - Use 'G' and 'Z' to position the path in your scene.
    - Enter Edit mode (Tab), adjust the vertices of the path to shape it as desired.
 
-[![Blender Camera Follow Path Screenshot](./attachments/20231207-camera-follow-path-blender-screenshot.jpg)](./attachments/20231207-camera-follow-path-blender-screenshot.jpg)
+[![Blender Camera Follow Path Screenshot](attachments/20231207-camera-follow-path-blender-screenshot.jpg)](attachments/20231207-camera-follow-path-blender-screenshot.jpg)
 
 9. **Applying Follow Path Constraint:**
 
@@ -96,7 +96,7 @@ This step-by-step tutorial is designed to guide you through the process of setti
 
 - [How to make a camera follow a path in Blender](https://youtu.be/5EQdQdtg-ao)
 
-[![Camera Follow a Path in Blender Video Tutorial](./attachments/20231207-blender-camera-follow-path.jpg)](https://youtu.be/5EQdQdtg-ao)
+[![Camera Follow a Path in Blender Video Tutorial](attachments/20231207-blender-camera-follow-path.jpg)](https://youtu.be/5EQdQdtg-ao)
 
 ## Blender Camera Follow Path Video Transcript
 

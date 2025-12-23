@@ -1,7 +1,7 @@
 ---
 title: 13.03 Time Based Synthesis Ideation Assignment
 date: 2023-11-28T09:00:00
-lastmod: 2024-11-12T06:31:24
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2024-11-12T06:31:24
 
 ## Overview
 
-Continue the ideation and project development ideas began in class. Make sketches and write down ideas on how you will complete the [Synthesis Project](./13-04-time-based-synthesis-assignment.md).
+Continue the ideation and project development ideas began in class. Make sketches and write down ideas on how you will complete the [Synthesis Project](13-04-time-based-synthesis-assignment.md).
 
 ## Grading Rubric
 

@@ -1,7 +1,7 @@
 ---
 title: 15.02 Technical Inventory Survey Assignment
 date: 2025-12-12T09:30:00
-lastmod: 2025-11-16T06:21:02
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2025-11-16T06:21:02
 
 ## Assignment Resources
 
-[Sculpture + Expanded Media Technical Inventory Survey](./15-01-sculpture-and-expanded-media-technical-inventory.md)
+[Sculpture + Expanded Media Technical Inventory Survey](15-01-sculpture-and-expanded-media-technical-inventory.md)
 
 ## Grading Rubric
 

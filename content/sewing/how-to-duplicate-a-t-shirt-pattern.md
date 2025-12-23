@@ -1,7 +1,7 @@
 ---
 title: How to Duplicate a T-Shirt Pattern
 date: 2023-05-23T21:59:40
-lastmod: 2025-09-30T18:50:55
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 This tutorial will show you how to make a copy of a t-shirt pattern from an existing t-shirt.
@@ -82,4 +82,4 @@ To complete this tutorial you should be familiar with basic pattern drafting too
 
 ## Further Reading
 
-- [How to Copy a Pants Pattern](./how-to-duplicate-a-pants-pattern.md)
+- [How to Copy a Pants Pattern](how-to-duplicate-a-pants-pattern.md)

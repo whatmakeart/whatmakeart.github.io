@@ -1,14 +1,14 @@
 ---
 title: Animation
 date: 2023-05-23T21:59:42
-lastmod: 2025-03-20T05:00:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Animation can be broadly separated into to categories: 2D Animation and 3D Animation.
 
 ## 2D Animation
 
-2D Animation can be as simple as a "flip book" on the edges of the pages of a book or use software to do the work of adding [keyframes](./keyframes.md) in between poses in the animation.
+2D Animation can be as simple as a "flip book" on the edges of the pages of a book or use software to do the work of adding [keyframes](keyframes.md) in between poses in the animation.
 
 ## 3D Animation
 

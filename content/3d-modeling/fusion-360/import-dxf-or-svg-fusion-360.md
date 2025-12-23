@@ -1,7 +1,7 @@
 ---
 title: Import DXF or SVG to Fusion 360
 date: 2023-10-08T11:10:49
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Fusion-360
 ---
@@ -12,9 +12,9 @@ tags:
 </div>
 </div>
 
-Learn how to [import SVG and DXF files into Fusion 360](https://www.youtube.com/watch?v=aMBnke14Wgg) for extrusion. This tutorial covers two methods: importing from your computer and importing from the cloud. Once you have imported your file, you can use it to create sketches, extrusions, and other features in [Fusion 360](./fusion-360.md).
+Learn how to [import SVG and DXF files into Fusion 360](https://www.youtube.com/watch?v=aMBnke14Wgg) for extrusion. This tutorial covers two methods: importing from your computer and importing from the cloud. Once you have imported your file, you can use it to create sketches, extrusions, and other features in [Fusion 360](fusion-360.md).
 
-One way to get started with Fusion 360 is to import SVG and DXF files from other programs, such as Adobe Illustrator or Inkscape. You will learn how to import files from your computer and from the cloud. Once you have imported your file, you will be able to use it to create sketches, extrusions, and other features in Fusion 360. You can also use the imported sketch to [create patterns](./basic-pattern-tools-fusion-360.md) on your objects in Fusion 360.
+One way to get started with Fusion 360 is to import SVG and DXF files from other programs, such as Adobe Illustrator or Inkscape. You will learn how to import files from your computer and from the cloud. Once you have imported your file, you will be able to use it to create sketches, extrusions, and other features in Fusion 360. You can also use the imported sketch to [create patterns](basic-pattern-tools-fusion-360.md) on your objects in Fusion 360.
 
 ## Instructions to Import DXF or SVG into Fusion 360
 

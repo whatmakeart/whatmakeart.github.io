@@ -1,7 +1,7 @@
 ---
 title: Import Artec LEO Scan into Blender
 date: 2024-10-13T18:39:32
-lastmod: 2025-12-22T07:03:00
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - 3D-Modeling
   - Blender
@@ -14,7 +14,7 @@ tags:
 </div>
 </div>
 
-The objective is to prepare the scan for further use in [Blender](./blender.md) and [Fusion 360](../fusion-360/fusion-360.md) for modeling and [3D printing](../../digital-fabrication/3d-printing/3d-printing.md).
+The objective is to prepare the scan for further use in [Blender](blender.md) and [Fusion 360](../fusion-360/fusion-360.md) for modeling and [3D printing](../../digital-fabrication/3d-printing/3d-printing.md).
 
 ## Importing and Scaling the OBJ File
 

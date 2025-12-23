@@ -1,12 +1,12 @@
 ---
 title: How to Sew a Double Welt Pocket
 date: 2023-05-23T21:59:40
-lastmod: 2025-09-30T18:50:55
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with: [how-to-cut-fabric](./how-to-cut-fabric.md) [How to Thread an Juki DDL 870 Industrial Sewing Machine](./how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)
+To complete this tutorial you should be familiar with: [how-to-cut-fabric](how-to-cut-fabric.md) [How to Thread an Juki DDL 870 Industrial Sewing Machine](how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)
 
 ## Instructions
 
@@ -34,7 +34,7 @@ To complete this tutorial you should be familiar with: [how-to-cut-fabric](./how
    1. Remember to press with the iron and do not drag the iron, lift and press, lift and press
 3. Draw out the welt on the interfacing on the garment piece
    1. 5" wide welt, using provided pattern ~1" from each side and each welt is ~1/4" tall centered vertically
-4. Place wrong sides of pocket facing and pocket lining together and stitch along long edge of facing at a 5/8" [seam-allowance](./seam-allowance.md) then backstitch
+4. Place wrong sides of pocket facing and pocket lining together and stitch along long edge of facing at a 5/8" [seam-allowance](seam-allowance.md) then backstitch
 5. Trim away the seam allowance of the pocket facing close to the stitching
 6. Repeat for the welt piece, paying attention to the orientation of the right sides of the fabric. All right sides are facing up.
 7. Trim away the seam allowance of the welt piece close to the stitching

@@ -1,6 +1,6 @@
 ---
 title: Long Signal Wires
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-12-23T10:12:35-04:00
 date: 2024-11-10T16:01:02
 tags:
   - Electronics
@@ -16,7 +16,7 @@ Ethernet Cable comes with twisted pair wires that are designed for single transm
 
 To get a Cat 5 cable to connect to and Arduino, use a module.
 
-[![Cat 5 Module](./attachments/2023-ethernet-cable-attached-to-modules.jpg)](./attachments/2023-ethernet-cable-attached-to-modules.jpg)
+[![Cat 5 Module](attachments/2023-ethernet-cable-attached-to-modules.jpg)](attachments/2023-ethernet-cable-attached-to-modules.jpg)
 
 ## Capacitors for Noise
 

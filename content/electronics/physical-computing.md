@@ -1,7 +1,7 @@
 ---
 title: Physical Computing
 date: 2023-05-23T21:59:41
-lastmod: 2025-01-09T07:13:26
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Electronics
 ---
@@ -19,7 +19,7 @@ Physical computing projects are typically programmed using a variety of software
 - Wire crimping connections
 - Heat shrink tape
 - Fuses
-- Wire gauge [electrical wire basics](./electrical-wire-basics.md)
+- Wire gauge [electrical wire basics](electrical-wire-basics.md)
 - Stranded vs solid
 - Solder vs crimped
 

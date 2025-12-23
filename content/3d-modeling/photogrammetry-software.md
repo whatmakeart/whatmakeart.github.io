@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry Software
 date: 2023-09-24T11:15:16
-lastmod: 2025-09-26T09:39:54
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Free Photogrammetry Software
@@ -28,7 +28,7 @@ lastmod: 2025-09-26T09:39:54
 
 ## Further Reading
 
-- [Gaussian Splatting](./gaussian-splatting.md)
+- [Gaussian Splatting](gaussian-splatting.md)
 
 [AliceVision | Photogrammetric Computer Vision Framework](https://alicevision.org/)
 [Meshroom on Google Colab](https://colab.research.google.com/gist/natowi/3044484ad0c98877692c399297e3ab7e/meshroomcolab.ipynb)

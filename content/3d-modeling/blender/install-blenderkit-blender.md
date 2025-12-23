@@ -1,7 +1,7 @@
 ---
 title: Install BlenderKit
 date: 2024-08-25T06:41:48
-lastmod: 2025-05-12T15:14:15
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Blender
 ---
@@ -10,7 +10,7 @@ tags:
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/DM2eyg3dxP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-BlenderKit is a fantastic resource for users of [Blender](./blender.md), an open-source [3D modeling program](../3d-modeling-software.md). It offers a vast library of assets that can significantly enhance your 3D modeling projects. Many of these assets are royalty-free, and there’s even a paid plan that grants access to a broader range of items. Here’s a step-by-step guide on how to install BlenderKit with Blender 4.2:
+BlenderKit is a fantastic resource for users of [Blender](blender.md), an open-source [3D modeling program](../3d-modeling-software.md). It offers a vast library of assets that can significantly enhance your 3D modeling projects. Many of these assets are royalty-free, and there’s even a paid plan that grants access to a broader range of items. Here’s a step-by-step guide on how to install BlenderKit with Blender 4.2:
 
 1. Open your web browser and navigate to [blenderkit.com](https://www.blenderkit.com).
 2. Click on the “Download BlenderKit” button. This will download a ZIP file containing everything needed for installation.

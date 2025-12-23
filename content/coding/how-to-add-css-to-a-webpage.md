@@ -1,10 +1,10 @@
 ---
 title: How to Add CSS to a Webpage
 date: 2023-05-23T21:59:40
-lastmod: 2023-10-23T05:52:54
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-There are three ways to add [CSS](./css.md) to a webpage, inline CSS, internal CSS, and external CSS. All of these methods can be used directly with [html](./html.md) or inserted dynamically with [javascript](./javascript.md).
+There are three ways to add [CSS](css.md) to a webpage, inline CSS, internal CSS, and external CSS. All of these methods can be used directly with [html](html.md) or inserted dynamically with [javascript](javascript.md).
 
 ## Inline CSS
 

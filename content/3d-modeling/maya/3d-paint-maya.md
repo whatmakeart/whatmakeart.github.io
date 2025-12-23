@@ -1,13 +1,13 @@
 ---
 title: 3D Paint - Maya
 date: 2023-06-15T05:46:29
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Maya 3D Paint Tool
 
 - [Maya 3D Paint Tool](https://youtu.be/JIOns8Tkmhs)
-- [Maya 3D Paint Complex Object](./3d-paint-tool-complex-object-maya.md)
+- [Maya 3D Paint Complex Object](3d-paint-tool-complex-object-maya.md)
 
 ## Advanced Texturing and Materials
 

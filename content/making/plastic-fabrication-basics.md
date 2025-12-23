@@ -1,7 +1,7 @@
 ---
 title: Plastic Fabrication Basics
 date: 2023-10-01T06:03:47
-lastmod: 2023-10-02T05:41:25
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - stub
 ---
@@ -20,4 +20,4 @@ tags:
 
 ## Further Reading
 
-- [Plastic Bending Basics](./plastic-bending-basics.md)
+- [Plastic Bending Basics](plastic-bending-basics.md)

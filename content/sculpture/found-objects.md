@@ -1,7 +1,7 @@
 ---
 title: Found Objects
 date: 2024-12-02T17:56:33
-lastmod: 2025-08-27T11:34:31
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 In art, found objects are materials used mostly as is or as they were found. This is in contrast to using raw materials manipulated into a new form such. If one "find" a coffee cup in the trash or at a store and then uses it as is as an art making material then it is a found object. If one uses ceramic clay to make a coffee cup, then it would not be considered a found object since it was make from raw materials.
@@ -13,7 +13,7 @@ Marcel Duchamp brought focus to using found objects in art with the concept of t
 <div class="gallery-grid">
 <figure>
 
-[![Marcel Duchamp letter to Suzanne Duchamp page 1](./attachments/1916-01-15_Marcel-Duchamp-letter-to-Suzanne-Duchamp-page-1.jpg)](./attachments/1916-01-15_Marcel-Duchamp-letter-to-Suzanne-Duchamp-page-1.jpg)
+[![Marcel Duchamp letter to Suzanne Duchamp page 1](attachments/1916-01-15_Marcel-Duchamp-letter-to-Suzanne-Duchamp-page-1.jpg)](attachments/1916-01-15_Marcel-Duchamp-letter-to-Suzanne-Duchamp-page-1.jpg)
 
 <figcaption>
 
@@ -25,7 +25,7 @@ Marcel Duchamp letter to Suzanne Duchamp, January 15, 1916, page 1, from the Arc
 
 <figure>
 
-[![Marcel Duchamp letter to Suzanne Duchamp page 2](./attachments/1916-01-15_Marcel-Duchamp-letter-to-Suzanne-Duchamp-page-2.jpg)](./attachments/1916-01-15_Marcel-Duchamp-letter-to-Suzanne-Duchamp-page-2.jpg)
+[![Marcel Duchamp letter to Suzanne Duchamp page 2](attachments/1916-01-15_Marcel-Duchamp-letter-to-Suzanne-Duchamp-page-2.jpg)](attachments/1916-01-15_Marcel-Duchamp-letter-to-Suzanne-Duchamp-page-2.jpg)
 
 <figcaption>
 
@@ -39,7 +39,7 @@ Marcel Duchamp letter to Suzanne Duchamp, January 15, 1916, page 1, from the Arc
 
 <figure>
 
-[![Fountain by Marcel Duchamp 1917](./attachments/1917-Marcel-Duchamp_Fountain_photograph-by_Alfred-Stieglitz.jpg)](./attachments/1917-Marcel-Duchamp_Fountain_photograph-by_Alfred-Stieglitz.jpg)
+[![Fountain by Marcel Duchamp 1917](attachments/1917-Marcel-Duchamp_Fountain_photograph-by_Alfred-Stieglitz.jpg)](attachments/1917-Marcel-Duchamp_Fountain_photograph-by_Alfred-Stieglitz.jpg)
 
 <figcaption>
 

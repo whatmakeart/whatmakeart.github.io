@@ -1,7 +1,7 @@
 ---
 title: 01.07 GitHub Account Sign Up Assignment
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-19T09:58:58
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -17,7 +17,7 @@ After signing up for these accounts, add your profile urls to the URL entry fiel
 
 1. Sign up for a [GitHub Education Account](https://education.github.com/sign_in) with your Student email address.
 
-[![GitHub Education Sign Up Page](./2024-01-19-github-education-account-sign-up.png)](./2024-01-19-github-education-account-sign-up.png)
+[![GitHub Education Sign Up Page](2024-01-19-github-education-account-sign-up.png)](2024-01-19-github-education-account-sign-up.png)
 
 2. Confirm your email.
 

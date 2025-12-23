@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Rule Number One
 date: 2023-06-13T14:42:56
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Fusion-360
 ---
@@ -12,7 +12,7 @@ tags:
 
 ## Fusion 360 Rule # 1
 
-[Fusion 360](./fusion-360.md) is a [parametric](../parametric-modeling.md) 3D modeling program that organizes a model into sketches, construction planes, bodies, surfaces, components, and assemblies. There are more elements to Fusion 360 but these are the most important. Everything done to the model in Fusion 360 is captured in a design history as a "feature." This is powerful because features can be edited at a later time to update a model.
+[Fusion 360](fusion-360.md) is a [parametric](../parametric-modeling.md) 3D modeling program that organizes a model into sketches, construction planes, bodies, surfaces, components, and assemblies. There are more elements to Fusion 360 but these are the most important. Everything done to the model in Fusion 360 is captured in a design history as a "feature." This is powerful because features can be edited at a later time to update a model.
 
 For example, if you are modeling a table and already finished the legs but want them to be taller or shorter, you can go back to the original sketch or feature, make the dimension change and the rest of the model will update automatically. Wow, sounds too good to be true. Well, it almost is. This automatic updating only works if you plan out your models and follow some best practices.
 

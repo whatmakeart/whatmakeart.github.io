@@ -1,7 +1,7 @@
 ---
 title: 02.07 Atmospheric Perspective Ideation Sketches and Original Content Collectoin Assignment
 date: 2025-09-04T09:00:00Z
-lastmod: 2025-09-30T06:25:25
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -17,7 +17,7 @@ lastmod: 2025-09-30T06:25:25
 
 Review what are [ideation sketches](02-05-ideation-sketches.md).
 
-Refer to the [Atmospheric Perspective Assignment](./02-06-atmospheric-perspective-assignment.md) for what to make ideation sketches of. For this project you need to make 5 different compositional ideation sketches. Then you need to redraw 2 of the original compositions a second time. This will make a minimum of 7 unique compositional sketches.
+Refer to the [Atmospheric Perspective Assignment](02-06-atmospheric-perspective-assignment.md) for what to make ideation sketches of. For this project you need to make 5 different compositional ideation sketches. Then you need to redraw 2 of the original compositions a second time. This will make a minimum of 7 unique compositional sketches.
 
 #### Submitting Your Sketches
 

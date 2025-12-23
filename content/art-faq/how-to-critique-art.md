@@ -1,7 +1,7 @@
 ---
 title: How to Critique Art
 date: 2021-04-05T08:56:42
-lastmod: 2025-09-18T06:02:16
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## What is a Critique?
@@ -20,7 +20,7 @@ Malcolm Gladwell popularized “deliberate practice” and the idea that it take
 
 <figure>
 
-[![Amounts of Weekly Practice of Violinists](./attachments/2019-violin-practice-levels-from-study.jpg)](./attachments/2019-violin-practice-levels-from-study.jpg)
+[![Amounts of Weekly Practice of Violinists](attachments/2019-violin-practice-levels-from-study.jpg)](attachments/2019-violin-practice-levels-from-study.jpg)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ The success of the critique requires everyone’s participation both verbally an
 
 ## Critique Etiquette
 
-[This](./art-school-critique-no-nos.md) is a list of [art critique, do's and don'ts](./art-school-critique-no-nos.md) assembled by faculty and students from real critique experiences.
+[This](art-school-critique-no-nos.md) is a list of [art critique, do's and don'ts](art-school-critique-no-nos.md) assembled by faculty and students from real critique experiences.
 
 ## References
 

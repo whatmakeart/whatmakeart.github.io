@@ -1,7 +1,7 @@
 ---
 title: Add Extra Power to Arduino Project
 date: 2023-06-17T11:06:08
-lastmod: 2023-09-07T20:32:48
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 The [Arduino](arduino-introduction.md) UNO operates at 5V. The Arduino UNO accepts up to 5.5V from the USB B connector. It also has a DC barrel jack that accepts 6-20V maximum with 7-12V the recommended range. The voltage supplied is regulated with a voltage regulator to 5V and 3.3V. The input voltage passes through and is available at the Vin pin. Power can also be supplied via the Vin pin.
@@ -34,6 +34,6 @@ The power label below has the following specifications.
 
 </div>
 
-![Image of Power Supply Input / Output Specs](./attachments/ac-dc-power-adapter-label.jpg)
+![Image of Power Supply Input / Output Specs](attachments/ac-dc-power-adapter-label.jpg)
 
 [^1]: https://store-usa.arduino.cc/products/arduino-uno-rev3 [(Web Archive)](https://web.archive.org/web/20221227093254/https://store-usa.arduino.cc/products/arduino-uno-rev3)

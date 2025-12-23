@@ -1,7 +1,7 @@
 ---
 title: Appropriation
 date: 2024-12-10T05:43:16
-lastmod: 2025-10-01T10:05:32
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 To appropriate means to take something for your own and as often synonymous with theft, stealing, taking, or poaching.[^cambridge-appropriation] It can also mean a specific amount of money set aside for a specific use such as Appropriations or Budget Bills in Congress.[^cbo] In both cases appropriation has connotations of acquiring and or use of a thing, sometimes with permission and sometimes without.
@@ -18,7 +18,7 @@ The Romans appropriated Greek column orders. The Romans did't steal the Greek co
 
 <figure>
 
-[![Column Orders](./attachments/1715-Lam-8-Diagram-of-column-orders-Juan-Bernabé-Palomino-engraver.jpg)](./attachments/1715-Lam-8-Diagram-of-column-orders-Juan-Bernabé-Palomino-engraver.jpg)
+[![Column Orders](attachments/1715-Lam-8-Diagram-of-column-orders-Juan-Bernabé-Palomino-engraver.jpg)](attachments/1715-Lam-8-Diagram-of-column-orders-Juan-Bernabé-Palomino-engraver.jpg)
 
 <figcaption>
 
@@ -29,7 +29,7 @@ Lam. 8. [Diagram of column orders.], Juan Bernabé Palomino, (Engraver) [^palomi
 
 <figure>
 
-[![The Parthenon from the southeast](./attachments/1897-parthenon-fromt-the-southeast-a-w-elson-and-co.jpg)](./attachments/1897-parthenon-fromt-the-southeast-a-w-elson-and-co.jpg)
+[![The Parthenon from the southeast](attachments/1897-parthenon-fromt-the-southeast-a-w-elson-and-co.jpg)](attachments/1897-parthenon-fromt-the-southeast-a-w-elson-and-co.jpg)
 
 <figcaption>
 
@@ -69,7 +69,7 @@ English speakers use the French _déjà vu_ rather than the longer "feeling like
 <div class="gallery-grid">
 <figure>
 
-[![Corn on a wagon](./attachments/2017-10-14-corn-on-a-wagon.jpg)](./attachments/2017-10-14-corn-on-a-wagon.jpg)
+[![Corn on a wagon](attachments/2017-10-14-corn-on-a-wagon.jpg)](attachments/2017-10-14-corn-on-a-wagon.jpg)
 
 </figure>
 

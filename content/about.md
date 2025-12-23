@@ -1,10 +1,10 @@
 ---
 title: About
 date: 2024-11-10T16:01:01
-lastmod: 2025-11-14T06:42:53
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-What? Make Art is a repository of open access college art [course materials](./courses/_index.md), art making videos, tutorials and [art making faq's](./art-faq/_index.md). Tutorials cover a wide range of topics including making, electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
+What? Make Art is a repository of open access college art [course materials](courses/_index.md), art making videos, tutorials and [art making faq's](art-faq/_index.md). Tutorials cover a wide range of topics including making, electronic art, digital art, Photoshop, Technical Drawing, Illustrator, After Effects, Adobe Premiere, 3d Modeling, 3d Printing, Animation, Maya, Fusion 360 and more.
 
 Art making tutorial videos start from a beginner level an progress to more advanced topics.
 

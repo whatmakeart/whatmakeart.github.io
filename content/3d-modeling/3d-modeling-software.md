@@ -1,16 +1,16 @@
 ---
 title: 3D Modeling Software
 date: 2023-05-26T02:50:47
-lastmod: 2024-08-09T15:44:40
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-You can never learn all the software nor should that be your goal. [3D modeling](./3d-modeling.md) is a vast domain and you should try multiple 3D modeling software packages so you can choose ones that you prefer.
+You can never learn all the software nor should that be your goal. [3D modeling](3d-modeling.md) is a vast domain and you should try multiple 3D modeling software packages so you can choose ones that you prefer.
 
 **Don't solely become an expert in a particular program** That is a potential dead end. Rather, **become an expert in the underlying concepts and fundamental principles** that all 3D software is based on. Then you can apply technique and theory to any software package in the future. The list of abandoned and obsolete software is long, but fundamental principles live on and support continued creative development beyond mere technical knowledge.
 
 Nevertheless, it is important to learn enough about how to use a software program to be able to create what you want. This may include in depth practice and training to learn complex workflows, but you should only learn what you need to know to get the project done.
 
-Most software has the ability to accomplish multiple tasks but is often better suited for specific workflows intended by the creators. 3D modeling software made for architects can be used to create character models but it would not be the best choice. Polygon mesh modeling software can be used to create precise geometric STL files for [3D printing](../digital-fabrication/3d-printing/3d-printing.md) but a dedicated [parametric](./parametric-modeling.md) or CAD style modeling program would make it much easier. Below is a non-exhaustive list of 3D modeling software that you will likely come across as you develop your skills and voice in 3D.
+Most software has the ability to accomplish multiple tasks but is often better suited for specific workflows intended by the creators. 3D modeling software made for architects can be used to create character models but it would not be the best choice. Polygon mesh modeling software can be used to create precise geometric STL files for [3D printing](../digital-fabrication/3d-printing/3d-printing.md) but a dedicated [parametric](parametric-modeling.md) or CAD style modeling program would make it much easier. Below is a non-exhaustive list of 3D modeling software that you will likely come across as you develop your skills and voice in 3D.
 
 Many 3D programs could be in multiple or all of the categories below.
 
@@ -24,7 +24,7 @@ Many 3D programs could be in multiple or all of the categories below.
 ### Machinist, Engineering, and Making
 
 - [FreeCAD](https://www.freecad.org/) - Free parametric 3D modeling software
-- [Fusion-360](./fusion-360/fusion-360.md) - Parametric 3D modeling software with builtin in CAM and rendering
+- [Fusion-360](fusion-360/fusion-360.md) - Parametric 3D modeling software with builtin in CAM and rendering
 - [Rhino3D](https://www.rhino3d.com/) - Often used by jewelers and included the visual programming language, grasshopper to make generative forms
 - [SOLIDWORKS](https://www.solidworks.com/)
 - [Catia](https://www.3ds.com/products/catia) - Complex software that combines CAD and simulations across a range of industries

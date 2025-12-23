@@ -1,7 +1,7 @@
 ---
 title: Export Video Frames as Images Adobe Media Encoder
 date: 2025-01-22T08:41:32
-lastmod: 2025-01-22T08:42:41
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="video-grid">
@@ -13,6 +13,6 @@ lastmod: 2025-01-22T08:42:41
 </div>
 
 - [Export Video Frames as Images Adobe Media Encoder](https://youtu.be/UPZJ5XlO_K4)
-- [Export frames as images Adobe Premiere](./adobe-premiere-pro/export-fames-as-images-premiere.md)
-- [Export only Keyframes with ffmpeg Video Tutorial](./export-only-keyframes-from-video-as-images-ffmpeg.md)
-- [Export Frames from Video as Images with ffmpeg](./export-frames-from-video-as-images-ffmpeg.md)
+- [Export frames as images Adobe Premiere](adobe-premiere-pro/export-fames-as-images-premiere.md)
+- [Export only Keyframes with ffmpeg Video Tutorial](export-only-keyframes-from-video-as-images-ffmpeg.md)
+- [Export Frames from Video as Images with ffmpeg](export-frames-from-video-as-images-ffmpeg.md)

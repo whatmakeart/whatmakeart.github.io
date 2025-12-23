@@ -1,7 +1,7 @@
 ---
 title: 15 Minute Timer
 date: 2023-05-13T13:48:34
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 description: 15 Minute Timer
 featured_image: /zalgorithmic/timers/basic-timers/attachments/15-minute-timer.jpg
 tags:
@@ -28,4 +28,4 @@ This timer is perfect for a variety of uses, including:
 
 - [15 Minute Timer](https://youtu.be/wrBk-bY4VEc)
 
-[![15 Minute Timer](./attachments/15-minute-timer.jpg)](https://youtu.be/wrBk-bY4VEc)
+[![15 Minute Timer](attachments/15-minute-timer.jpg)](https://youtu.be/wrBk-bY4VEc)

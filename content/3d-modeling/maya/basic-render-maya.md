@@ -1,7 +1,7 @@
 ---
 title: Maya Basic Render
 date: 2023-04-12T8:30:00-04:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 description: In this Autodesk Maya tutorial, I will show you how to create a photo swoop quickly and easily. I will also show you how to export a render image of your scene.
 featured_image: /3d-modeling/maya/attachments/maya-basic-render.jpg
 tags:
@@ -17,7 +17,7 @@ aliases: /posts/maya-basic-render/
 
 ## How to Create a Photo Swoop in Autodesk Maya and Export a Render Image
 
-In this [Autodesk Maya ](./maya.md)tutorial, I will show you how to create a photo swoop quickly and easily. I will also show you how to export a render image of your scene.
+In this [Autodesk Maya ](maya.md)tutorial, I will show you how to create a photo swoop quickly and easily. I will also show you how to export a render image of your scene.
 
 ## Step 1: Create a Photo Swoop
 

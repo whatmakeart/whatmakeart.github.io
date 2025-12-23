@@ -1,10 +1,10 @@
 ---
 title: One Page Zine Folding
 date: 2025-04-02T09:00:00
-lastmod: 2025-12-03T06:29:37
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-[![One page Zine on table](./attachments/2025-one-page-zine-on-table.jpg)](./attachments/2025-one-page-zine-on-table.jpg)
+[![One page Zine on table](attachments/2025-one-page-zine-on-table.jpg)](attachments/2025-one-page-zine-on-table.jpg)
 
 1. Fold the paper in half lengthwise. Burnish the fold flat.
 2. Unfold and flatten.

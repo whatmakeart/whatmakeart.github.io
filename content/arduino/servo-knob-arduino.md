@@ -1,7 +1,7 @@
 ---
 title: Servo Knob Arduino
 date: 2023-06-17T10:27:29
-lastmod: 2025-01-07T05:02:04
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Electronics
 ---
@@ -16,7 +16,7 @@ This circuit is similar to the sweep servo example but adds a potentiometer to c
 
 <figure>
 
-[![Servo Knob Circuit Example](./attachments/2025-servo-knob-circuit-from-arduino-docs.png)](./attachments/2025-servo-knob-circuit-from-arduino-docs.png)
+[![Servo Knob Circuit Example](attachments/2025-servo-knob-circuit-from-arduino-docs.png)](attachments/2025-servo-knob-circuit-from-arduino-docs.png)
 
 <figcaption>
 
@@ -74,4 +74,4 @@ void loop() {
 Soft potentiometer datasheet. [^2]
 
 [^1]: https://docs.arduino.cc/learn/electronics/servo-motors
-[^2]: https://www.spectrasymbol.com/wp-content/uploads/2016/12/SOFTPOT-DATA-SHEET-Rev-F3.pdf [(Archive)](./attachments/SOFTPOT-DATA-SHEET-Rev-F3.pdf)
+[^2]: https://www.spectrasymbol.com/wp-content/uploads/2016/12/SOFTPOT-DATA-SHEET-Rev-F3.pdf [(Archive)](attachments/SOFTPOT-DATA-SHEET-Rev-F3.pdf)

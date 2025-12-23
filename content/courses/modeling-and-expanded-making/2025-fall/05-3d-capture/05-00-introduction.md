@@ -1,12 +1,12 @@
 ---
 title: 05.00 Introduction
 date: 2025-09-26T09:30:00
-lastmod: 2025-09-26T13:49:14
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Overview
 
-[Photogrammetry](./05-02-photogrammetry.md) is a useful tool for capturing 3D Geometry and visual texture information from the real physical world. [3D Scanning](./05-01-3d-scanning.md) is able to capture more detail and more accurate geometry than photogrammetry, but requires more expensive 3D scanning equipment and software. [Gaussian Splatting](./05-03-gaussian-splatting.md) is a method of using "splats" or gaussian "smears" to rebuild a 3D scene rather than a mesh.
+[Photogrammetry](05-02-photogrammetry.md) is a useful tool for capturing 3D Geometry and visual texture information from the real physical world. [3D Scanning](05-01-3d-scanning.md) is able to capture more detail and more accurate geometry than photogrammetry, but requires more expensive 3D scanning equipment and software. [Gaussian Splatting](05-03-gaussian-splatting.md) is a method of using "splats" or gaussian "smears" to rebuild a 3D scene rather than a mesh.
 
 ## Learning Objectives
 

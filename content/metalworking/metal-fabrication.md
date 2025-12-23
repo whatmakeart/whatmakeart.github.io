@@ -1,7 +1,7 @@
 ---
 title: Metal Fabrication
 date: 2024-11-10T16:01:02
-lastmod: 2024-12-06T05:35:12
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - stub
 ---
@@ -14,7 +14,7 @@ There are multiple ways to [Fabrication](../making/fabrication.md) metal includi
 
 ### How to Bend Steel
 
-- [How-to-Bend-Flat-Stock-in-a-Vise](./how-to-bend-flat-stock-in-a-vise.md)
+- [How-to-Bend-Flat-Stock-in-a-Vise](how-to-bend-flat-stock-in-a-vise.md)
 - Flat Stock with a Metal Break
 - Solid Round Bar
 - Hollow Tubing
@@ -25,7 +25,7 @@ Use cutting oil when necessary.
 
 ### Ways to Cut Steel
 
-- [How to Use a Hacksaw](./how-to-use-a-hacksaw.md)hacksaw
+- [How to Use a Hacksaw](how-to-use-a-hacksaw.md)hacksaw
 - angle grinder
 - Cut Off Saw
 - Metal Bandsaw

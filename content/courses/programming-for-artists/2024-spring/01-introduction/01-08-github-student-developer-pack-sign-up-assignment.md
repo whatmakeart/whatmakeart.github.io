@@ -1,7 +1,7 @@
 ---
 title: 01.08 GitHub Student Developer Pack Sign Up Assignment
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-19T10:44:52
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -47,11 +47,11 @@ After signing up for a GitHub account with your student email address, then make
 2. Register for a [GitHub Student Developer Pack](https://education.github.com/pack).
 3. Confirm you are a student.
 
-[![GitHub Student Developer Pack Student Confirmation Page](./2024-01-19-github-student-developer-pack-student-confirmation.png)](./2024-01-19-github-student-developer-pack-student-confirmation.png)
+[![GitHub Student Developer Pack Student Confirmation Page](2024-01-19-github-student-developer-pack-student-confirmation.png)](2024-01-19-github-student-developer-pack-student-confirmation.png)
 
 4. Confirm your School.
 
-[![GitHub Student Developer Pack School Confirmation](./2024-01-19-github-student-developer-pack-school-entry.png)](./2024-01-19-github-student-developer-pack-school-entry.png)
+[![GitHub Student Developer Pack School Confirmation](2024-01-19-github-student-developer-pack-school-entry.png)](2024-01-19-github-student-developer-pack-school-entry.png)
 
 5. Follow any additional sign up prompts and email confirmation requests.
 6. Screenshot your confirmation email from GitHub or screenshot any errors or problems that arise. [How to take a screenshot](../../../../software/how-to-take-a-screenshot.md)

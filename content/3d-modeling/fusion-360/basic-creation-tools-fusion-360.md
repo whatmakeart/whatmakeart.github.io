@@ -1,16 +1,16 @@
 ---
 title: Fusion 360 Basic Creation Tools
 date: 2023-06-13T14:13:56
-lastmod: 2025-12-22T07:16:23
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Fusion-360
 ---
 
 ## Polygon Primitives and Shapes
 
-[Fusion 360](fusion-360.md) allows you to create fast [3D polygon primitives](./primitive-3d-forms-fusion-360.md) of specific sizes easily. You can create a a box, cylinder, sphere, torus, coil, or a pipe. To create any of these forms usually involves an initial click to define the starting surface or point, then a drag to set the first dimensions, a manipulation of parameters and then a confirmation of your choices. If you hover over most tools with your cursor in Fusion 360 it provides as brief description of what the tool does and how to use it.
+[Fusion 360](fusion-360.md) allows you to create fast [3D polygon primitives](primitive-3d-forms-fusion-360.md) of specific sizes easily. You can create a a box, cylinder, sphere, torus, coil, or a pipe. To create any of these forms usually involves an initial click to define the starting surface or point, then a drag to set the first dimensions, a manipulation of parameters and then a confirmation of your choices. If you hover over most tools with your cursor in Fusion 360 it provides as brief description of what the tool does and how to use it.
 
-When creating a new shape it defaults to a new body but you can also create a new component. Often it is helpful to create a new component to represent a part of your model or assembly as a first step, known as [Rule #1](./rule-number-one-fusion-360.md) in Fusion 360. If there are existing shapes in the model when you create a new form, then there are options for joining, cutting, intersect, as well as new body and new component.
+When creating a new shape it defaults to a new body but you can also create a new component. Often it is helpful to create a new component to represent a part of your model or assembly as a first step, known as [Rule #1](rule-number-one-fusion-360.md) in Fusion 360. If there are existing shapes in the model when you create a new form, then there are options for joining, cutting, intersect, as well as new body and new component.
 
 ### Creating New Forms
 
@@ -38,7 +38,7 @@ Additional creation tools help make more complex forms and designs. The basic cr
 
 ## Additional Creation Tools
 
-Fusion 360 offers many more tools including [pattern making tools](./basic-pattern-tools-fusion-360.md), thickening tools, boundary fill tools, tools for creating printed circuit boards, and many more.
+Fusion 360 offers many more tools including [pattern making tools](basic-pattern-tools-fusion-360.md), thickening tools, boundary fill tools, tools for creating printed circuit boards, and many more.
 
 ## Fusion 360 Basic Creation Tools Example Videos
 

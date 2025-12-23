@@ -1,7 +1,7 @@
 ---
 title: Pixel Dimensions vs DPI
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-08-28T08:47:22
+lastmod: 2025-12-23T10:12:35-04:00
 toc: true
 ---
 
@@ -12,7 +12,7 @@ Pixel dimensions or the number of pixels high and the number of pixels wide, is 
 <div class="gallery-grid">
 <figure>
 
-[![Photoshop pixel dimensions vs DPI](./attachments/2025-08-28-ignore-dpi-only-care-about-pixel-dimentions.png)](./attachments/2025-08-28-ignore-dpi-only-care-about-pixel-dimentions.png)
+[![Photoshop pixel dimensions vs DPI](attachments/2025-08-28-ignore-dpi-only-care-about-pixel-dimentions.png)](attachments/2025-08-28-ignore-dpi-only-care-about-pixel-dimentions.png)
 
 <figcaption>
 

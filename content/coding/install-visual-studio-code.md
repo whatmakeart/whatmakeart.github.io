@@ -1,7 +1,7 @@
 ---
 title: Install Visual Studio Code
 date: 2024-01-10T05:20:21
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -43,7 +43,7 @@ In this tutorial, we're diving into the installation process of Visual Studio Co
 ### Step 4: Setting Up Git for Version Control
 
 1. **Check Git Installation**: In the Source Control section, VS Code might indicate that Git isn't installed.
-2. **Install Git**: Follow the installation guide for your OS. [Setup VSC and git](./setup-visual-studio-code-and-git.md)
+2. **Install Git**: Follow the installation guide for your OS. [Setup VSC and git](setup-visual-studio-code-and-git.md)
 3. **Git Integration**: Once Git is installed, you can utilize VS Code's integrated source control features for your coding projects.
 
 ### Conclusion and Further Assistance

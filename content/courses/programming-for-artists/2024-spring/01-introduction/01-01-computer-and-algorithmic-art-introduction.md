@@ -1,7 +1,7 @@
 ---
 title: 01.01 Computer and Algorithmic Art
 date: 2024-01-19T09:30:00Z
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Intro to Computer and Algorithmic Art
@@ -11,7 +11,7 @@ Algorithmic Art predates the invention of the computer and digital technology. T
 <div class="gallery-grid">
 <figure>
 
-[![Girih Tiles](./2007-02-23-Girih-tile_Darb-i_Imam_shrine_Isfahan_Iran-Science.jpeg)](./2007-02-23-Girih-tile_Darb-i_Imam_shrine_Isfahan_Iran-Science.jpeg)
+[![Girih Tiles](2007-02-23-Girih-tile_Darb-i_Imam_shrine_Isfahan_Iran-Science.jpeg)](2007-02-23-Girih-tile_Darb-i_Imam_shrine_Isfahan_Iran-Science.jpeg)
 
 <figcaption>
 
@@ -22,7 +22,7 @@ Girih pattern on a spandrel from the Darb-i Imam shrine, Isfahan, Iran (1453 C.E
 </figure>
 <figure>
 
-[![Penrose Tiling](./2009-02-01-Penrose_Tiling_P1_over_P3.png)](./2009-02-01-Penrose_Tiling_P1_over_P3.png)
+[![Penrose Tiling](2009-02-01-Penrose_Tiling_P1_over_P3.png)](2009-02-01-Penrose_Tiling_P1_over_P3.png)
 
 <figcaption>
 
@@ -40,7 +40,7 @@ The instructions for _Wall Drawing #797_ read, "The first drafter has a black ma
 
 <figure>
 
-[![Sol LeWitt Wall Drawing #797](./1995-sol-lewitt-wall-drawing-797-mass-moca.jpg)](./1995-sol-lewitt-wall-drawing-797-mass-moca.jpg)
+[![Sol LeWitt Wall Drawing #797](1995-sol-lewitt-wall-drawing-797-mass-moca.jpg)](1995-sol-lewitt-wall-drawing-797-mass-moca.jpg)
 
 <figcaption>
 
@@ -51,7 +51,7 @@ WALL DRAWING #797, Sol LeWitt, at [MASS MoCA](https://massmoca.org/event/walldra
 
 Bruce Nauman's [_Body Pressure_](http://projects.e-flux.com/do_it/manuals/artists/n/N001/N001A_text.html) is a series of instructions for the viewer that are completed in sequence to complete the artwork.
 
-_Quad_, a play by Samuell Beckett, uses algorithmic instructions for the actors. The play begins, "The players (1, 2, 3, 4) pace the given area, each following his particular course. Area: square. Length of side: 6 paces." As we will see when setting up a "Canvas" in [p5.js](./01-04-p5js-introduction.md), this is very similar to the code `createCanvas(6, 6);` The play continues with listing the parameters for each of the four courses.
+_Quad_, a play by Samuell Beckett, uses algorithmic instructions for the actors. The play begins, "The players (1, 2, 3, 4) pace the given area, each following his particular course. Area: square. Length of side: 6 paces." As we will see when setting up a "Canvas" in [p5.js](01-04-p5js-introduction.md), this is very similar to the code `createCanvas(6, 6);` The play continues with listing the parameters for each of the four courses.
 
 |           |                                |
 | --------- | ------------------------------ |
@@ -77,7 +77,7 @@ Since an algorithm is a set of instructions, much like a recipe, humans can foll
 <div class="gallery-grid">
 <figure>
 
-[![Quad diagram excerpt by Samuell Beckett](./1984-page-291-quad-excerpt-samuell-beckett-collected-shorter-plays.png)](./1984-page-291-quad-excerpt-samuell-beckett-collected-shorter-plays.png)
+[![Quad diagram excerpt by Samuell Beckett](1984-page-291-quad-excerpt-samuell-beckett-collected-shorter-plays.png)](1984-page-291-quad-excerpt-samuell-beckett-collected-shorter-plays.png)
 
 <figcaption>
 
@@ -103,7 +103,7 @@ Vera Molnár worked with algorithmic art before having access to a computer and 
 <div class="gallery-grid">
 <figure>
 
-[![Vera Molnár From the Hommage à Dürer  cycle](./1982-Vera-Molnár-From-the-Hommage-à-Dürer-cycle-plotter-red-ink.jpg)](./1982-Vera-Molnár-From-the-Hommage-à-Dürer-cycle-plotter-red-ink.jpg)
+[![Vera Molnár From the Hommage à Dürer  cycle](1982-Vera-Molnár-From-the-Hommage-à-Dürer-cycle-plotter-red-ink.jpg)](1982-Vera-Molnár-From-the-Hommage-à-Dürer-cycle-plotter-red-ink.jpg)
 
 <figcaption>
 
@@ -114,7 +114,7 @@ Vera Molnár, From the Hommage à Dürer cycle, plotter, red ink, 1982, 41 x 40 
 
 <figure>
 
-[![Vera Molnár - Sainte Victoire in 16 Lines](./1989-2015-Vera-Molnár-Sainte-Victoire-in-16-lines.jpg)](./1989-2015-Vera-Molnár-Sainte-Victoire-in-16-lines.jpg)
+[![Vera Molnár - Sainte Victoire in 16 Lines](1989-2015-Vera-Molnár-Sainte-Victoire-in-16-lines.jpg)](1989-2015-Vera-Molnár-Sainte-Victoire-in-16-lines.jpg)
 
 <figcaption>
 
@@ -152,7 +152,7 @@ Jean Hans Arp used chance operations to create collage compositions. The uniform
 <div class="gallery-grid">
 <figure>
 
-[![Jean Hans Arp - Squares Arranged by Chance - 1916-1917](./1916-Jean-Hans-Arp-Untitled-Collage-with-Squares-Arranged-according-to-the-Law-of-Chance-1916–17.jpg)](./1916-Jean-Hans-Arp-Untitled-Collage-with-Squares-Arranged-according-to-the-Law-of-Chance-1916–17.jpg)
+[![Jean Hans Arp - Squares Arranged by Chance - 1916-1917](1916-Jean-Hans-Arp-Untitled-Collage-with-Squares-Arranged-according-to-the-Law-of-Chance-1916–17.jpg)](1916-Jean-Hans-Arp-Untitled-Collage-with-Squares-Arranged-according-to-the-Law-of-Chance-1916–17.jpg)
 
 <figcaption>
 
@@ -162,7 +162,7 @@ Jean (Hans) Arp - _Untitled_ (Collage with Squares Arranged According to the Law
 </figure>
 <figure>
 
-[![Jean Hans Arp - Squares Arranged by Chance - 1917](./1917-Jean-Hans-Arp-Untitled-Squares-Arranged-According-to-the-Laws-of-Chance-1917.jpg)](./1917-Jean-Hans-Arp-Untitled-Squares-Arranged-According-to-the-Laws-of-Chance-1917.jpg)
+[![Jean Hans Arp - Squares Arranged by Chance - 1917](1917-Jean-Hans-Arp-Untitled-Squares-Arranged-According-to-the-Laws-of-Chance-1917.jpg)](1917-Jean-Hans-Arp-Untitled-Squares-Arranged-According-to-the-Laws-of-Chance-1917.jpg)
 
 <figcaption>
 
@@ -221,7 +221,7 @@ Desmond Paul Henry used mechanical change operations similar to Jean Tinguely's 
 <div class="gallery-grid">
 <figure>
 
-[![Desmond](./1962-Desmond-Paul-Henry-picture_by_drawing_machine_1.jpg)](./1962-Desmond-Paul-Henry-picture_by_drawing_machine_1.jpg)
+[![Desmond](1962-Desmond-Paul-Henry-picture_by_drawing_machine_1.jpg)](1962-Desmond-Paul-Henry-picture_by_drawing_machine_1.jpg)
 
 <figcaption>
 
@@ -231,7 +231,7 @@ Desmond Paul Henry Picture Made by Drawing Machine [^desmond-1]
 </figure>
 <figure>
 
-[![Desmond](./Desmond-Paul-Henry_Drawing_Machine_1.jpg)](./Desmond-Paul-Henry_Drawing_Machine_1.jpg)
+[![Desmond](Desmond-Paul-Henry_Drawing_Machine_1.jpg)](Desmond-Paul-Henry_Drawing_Machine_1.jpg)
 
 <figcaption>
 

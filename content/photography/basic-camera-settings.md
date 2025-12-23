@@ -1,7 +1,7 @@
 ---
 title: Basic Camera Settings
 date: 2023-08-30T05:21:35
-lastmod: 2024-07-21T08:37:48
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## 3 Main Camera Settings
@@ -22,4 +22,4 @@ ISO refers to the sensitivity of the digital sensor in the camera. A higher ISO 
 
 With these three settings, you can understand how to use most still cameras. Each camera manufacturer will have these settings and slightly different places, but the basic principles are the same.
 
-[![2021-09-22-Camera-Cheat-Sheet-Whatmakeart](./attachments/2021-09-22-Camera-Cheat-Sheet-Whatmakeart.png)](./attachments/2021-09-22-Camera-Cheat-Sheet-Whatmakeart.png)
+[![2021-09-22-Camera-Cheat-Sheet-Whatmakeart](attachments/2021-09-22-Camera-Cheat-Sheet-Whatmakeart.png)](attachments/2021-09-22-Camera-Cheat-Sheet-Whatmakeart.png)

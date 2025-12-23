@@ -1,10 +1,10 @@
 ---
 title: Green Screen Shooting Basics
 date: 2023-09-29T05:38:58
-lastmod: 2023-09-29T05:41:15
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-A green screen is a useful tool for shooting footage designed for [chroma keying](./chroma-key-basics.md).
+A green screen is a useful tool for shooting footage designed for [chroma keying](chroma-key-basics.md).
 
 ## Basic Green Screen Setup
 
@@ -48,7 +48,7 @@ If shots involve camera motion that needs to be motion tracked, then make sure y
 
 During shooting, make sure to review the footage to make sure the subject did not accidentally go past the green screen during movement and wild action. This defeats the purpose of setting up a chroma key shot.
 
-Planning is key. Think about the final shot. If the subject will be in an epic background, then you probably don't want the camera close to the subject with a wide angle. Instead move the camera back away from the subject and zoom in to fill t he frame. The same holds true for camera height. Make sure the camera height and perspective used in the green screen shoot matches that of the planned composite scene.
+Planning is key. Think about the final shot. If the subject will be in an epic background, then you probably don't want the camera close to the subject with a wide angle. Instead move the camera back away from the subject and zoom in to fill t he frame. The same holds true for camera height. Make sure the camera height and [perspective](../art-faq/perspective.md) used in the green screen shoot matches that of the planned composite scene.
 
 ## Green Screen Shutter Speed Shot Test Exercise
 

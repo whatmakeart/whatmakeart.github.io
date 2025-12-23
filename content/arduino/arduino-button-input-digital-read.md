@@ -1,7 +1,7 @@
 ---
 title: Arduino Button Input Digital Read
 date: 2023-06-17T06:46:03
-lastmod: 2023-09-07T20:33:05
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Arduino
   - Electronics
@@ -17,7 +17,7 @@ The Arduino documentation explains how the pins on the Arduino can randomly "flo
 
 <figure>
 
-[![Arduino Button Circuit](./attachments/2023-arduino-button-digital-read-serial-example-circuit-from-arduino-docs.png)](./attachments/2023-arduino-button-digital-read-serial-example-circuit-from-arduino-docs.png)
+[![Arduino Button Circuit](attachments/2023-arduino-button-digital-read-serial-example-circuit-from-arduino-docs.png)](attachments/2023-arduino-button-digital-read-serial-example-circuit-from-arduino-docs.png)
 
 <figcaption>
 

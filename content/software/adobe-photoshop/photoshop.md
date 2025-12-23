@@ -1,7 +1,7 @@
 ---
 title: Photoshop
 date: 2023-05-23T21:59:41
-lastmod: 2025-09-15T19:02:36
+lastmod: 2025-12-23T10:12:35-04:00
 alias: /photography/photoshop/
 ---
 
@@ -17,7 +17,7 @@ Pixels are resolution dependent while vectors have infinite "resolution" since t
 
 ## Getting Started
 
-- [Set Pixel Dimensions in a New Document in Photoshop](./set-pixel-dimensions-new-document-photoshop.md)
+- [Set Pixel Dimensions in a New Document in Photoshop](set-pixel-dimensions-new-document-photoshop.md)
 - [Multi Color Gradients](https://youtu.be/3jhIOuoGHeQ)
 
 ## Layers
@@ -29,9 +29,9 @@ Pixels are resolution dependent while vectors have infinite "resolution" since t
 
 ## Selections
 
-- [Select Hair with Select and Mask Workspace](./select-hair-photoshop.md)
-- [Fix Jagged Selection Edges in Photoshop](./fix-jagged-selection-edges-in-photoshop.md)
-- [fix-photoshop-masks-with-dodge-and-burn](./fix-photoshop-masks-with-dodge-and-burn.md)
+- [Select Hair with Select and Mask Workspace](select-hair-photoshop.md)
+- [Fix Jagged Selection Edges in Photoshop](fix-jagged-selection-edges-in-photoshop.md)
+- [fix-photoshop-masks-with-dodge-and-burn](fix-photoshop-masks-with-dodge-and-burn.md)
 
 ### Lasso Selection Tools
 
@@ -42,14 +42,14 @@ Pixels are resolution dependent while vectors have infinite "resolution" since t
 
 ## Image Resolution
 
-- [Optimize Images for the Web with Batch Image Processing](./optimize-images-for-web-with-batch-image-processing-in-photoshop.md)
+- [Optimize Images for the Web with Batch Image Processing](optimize-images-for-web-with-batch-image-processing-in-photoshop.md)
 
 ## Smart Objects
 
 ## Photo Editing
 
 - [How to Edit Photos in Adobe Camera Raw](../../photography/how-to-edit-photos-in-adobe-camera-raw.md)
-- [White Balance Quick Photoshop Tutorial](./white-balance-quick-photoshop-tutorial.md)
+- [White Balance Quick Photoshop Tutorial](white-balance-quick-photoshop-tutorial.md)
 
 ## Smart Filters
 
@@ -59,16 +59,16 @@ Pixels are resolution dependent while vectors have infinite "resolution" since t
 
 ## Generative Fill
 
-- [Generative Fill](./photoshop-generative-fill.md)
+- [Generative Fill](photoshop-generative-fill.md)
 
 ## Photoshop FAQ
 
-- [Photoshop Brush Crosshairs not a Circle Fix](./photoshop-brush-crosshairs-not-a-circle.md)
+- [Photoshop Brush Crosshairs not a Circle Fix](photoshop-brush-crosshairs-not-a-circle.md)
 - [Restore Default Color Swatches in Photoshop](https://youtu.be/EjMIeKINMTQ)
 
 ## Photoshop Tutorials & How To
 
 - [Instant Depth Map with Depth Blur Neural Filter](https://youtu.be/SS6wtrVGCxM)
-- [Create Seamless Textures](./create-seamless-textures-in-photoshop.md)
+- [Create Seamless Textures](create-seamless-textures-in-photoshop.md)
 - [Create Palette from any Image](https://youtu.be/F6N3vcNVSug)
 - [Prepare Images in Photoshop for Laser Cutting Woodblocks for Printmaking](https://youtu.be/zAmTorlrH6k)

@@ -1,7 +1,7 @@
 ---
 title: Zippers
 date: 2023-06-03T04:02:59
-lastmod: 2024-07-21T08:39:48
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Zippers are a great way to attach different pieces of garments, bags, and sculptures. Zippers allow for a fast, secure, and repeatable attachment point that is somewhat flexible. Zippers are not limited to fabrics. A zipper can be attached to a portion of fabric and then attached to a solid object. Zippers allow large fabric sculptures to be broken down into smaller pieces for transport and then easy reassembly at the installation site.
@@ -22,6 +22,6 @@ Plastic coil zippers are very strong and resilient to minor damage and are usual
 
 ## Additional Reading
 
-- [How to Sew a Zipper](./how-to-sew-a-zipper.md)
-- [How to sew a Zipper Pocket](./sew-zipper-pocket-without-exposed-zipper-tape.md)
-- [Sewing](./sewing.md)
+- [How to Sew a Zipper](how-to-sew-a-zipper.md)
+- [How to sew a Zipper Pocket](sew-zipper-pocket-without-exposed-zipper-tape.md)
+- [Sewing](sewing.md)

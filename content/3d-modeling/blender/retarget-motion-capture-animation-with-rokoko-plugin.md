@@ -1,7 +1,7 @@
 ---
 title: Retarget Motion Capture Animation with Rokoko Plugin
 date: 2025-09-30T17:53:52
-lastmod: 2025-12-22T07:03:00
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Blender
   - Motion-Capture
@@ -18,12 +18,12 @@ tags:
 
 ## Mocap Retargeting Instructions
 
-1. Import your target character armature into [Blender](./blender.md). This is the character that will receive the mocap animation. Having this character armature in a T-pose is ideal. [How to make a quick T-Pose Armature](./t-pose-armature-from-mixamo.md)
+1. Import your target character armature into [Blender](blender.md). This is the character that will receive the mocap animation. Having this character armature in a T-pose is ideal. [How to make a quick T-Pose Armature](t-pose-armature-from-mixamo.md)
 2. Import the captured mocap animation FBX into Blender correctly.
    - Go to File → Import → FBX and navigate to your motion-capture animation file.
-   - Before you click Import, open the Armature options in the FBX importer and enable Automatic Bone Orientation. [How to import mocap armature with Aligned Bones](./fix-broken-armature-when-importing-motive-mocap.md)
+   - Before you click Import, open the Armature options in the FBX importer and enable Automatic Bone Orientation. [How to import mocap armature with Aligned Bones](fix-broken-armature-when-importing-motive-mocap.md)
    - Then click Import FBX.
-3. Make sure the Rokoko plugin is installed in Blender. [How to Install the Rokoko Plugin in Blender](./install-rokoko-plugin-for-blender.md)
+3. Make sure the Rokoko plugin is installed in Blender. [How to Install the Rokoko Plugin in Blender](install-rokoko-plugin-for-blender.md)
 4. Press the `n` key while your cursor is in the 3D Viewport to open the Rokoko side panel. Switch to the Rokoko tab.
 5. Move the playhead to frame 1 in the timeline so you have a consistent starting point.
 6. Select the imported mocap armature, this is your source animation. Select the green armature/figure icon on the right of the screen. Then set the armature to its Rest Position. You should see the mocap skeleton pop into a T-pose, matching your character’s T-pose. Having both armatures in the same pose is key for a clean retarget.

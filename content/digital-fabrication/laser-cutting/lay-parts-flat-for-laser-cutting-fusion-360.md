@@ -1,7 +1,7 @@
 ---
 title: Lay Parts Flat for Laser Cutting in Fusion 360
 date: 2023-06-14T13:04:03
-lastmod: 2025-09-30T18:44:13
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Fusion-360
   - Laser-Cutting
@@ -39,4 +39,4 @@ Top view of components of laser cut stand flat on plywood.
 
 ## Alternative Method without the Arrange Tool
 
-[Lay Parts Flat without Arrange Tool for Laser Cutting](./lay-parts-flat-without-arrange-tool-fusion-360.md)
+[Lay Parts Flat without Arrange Tool for Laser Cutting](lay-parts-flat-without-arrange-tool-fusion-360.md)

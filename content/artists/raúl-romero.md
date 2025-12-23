@@ -1,14 +1,14 @@
 ---
 title: Raúl Romero
 date: 2023-09-08T09:30:00
-lastmod: 2025-09-30T18:27:15
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="gallery-grid">
 
 <figure>
 
-[![Raúl Romero, Music for plants by plants](./attachments/Raúl-Romero_Music-for-plants-by-plants.jpg)](./attachments/Raúl-Romero_Music-for-plants-by-plants.jpg)
+[![Raúl Romero, Music for plants by plants](attachments/Raúl-Romero_Music-for-plants-by-plants.jpg)](attachments/Raúl-Romero_Music-for-plants-by-plants.jpg)
 
 <figcaption>
 
@@ -19,7 +19,7 @@ Raúl Romero, _Music for plants by plants_, 2018 - 2022, Image courtesy of the a
 
 <figure>
 
-[![Raúl Romero, Untitled, Tape Loop in D](./attachments/Raúl-Romero_Untitled-Tape-Loop-in-D.jpg)](./attachments/Raúl-Romero_Untitled-Tape-Loop-in-D.jpg)
+[![Raúl Romero, Untitled, Tape Loop in D](attachments/Raúl-Romero_Untitled-Tape-Loop-in-D.jpg)](attachments/Raúl-Romero_Untitled-Tape-Loop-in-D.jpg)
 
 <figcaption>
 
@@ -30,7 +30,7 @@ Raúl Romero, _Untitled, Tape Loop in D_, 2018, Image courtesy of the artist.
 
 <figure>
 
-[![Raúl Romero, Transmissions of Transcendental Aspirations](./attachments/Raúl-Romero_Transmissions-of-Transcendental-Aspirations.png)](./attachments/Raúl-Romero_Transmissions-of-Transcendental-Aspirations.png)
+[![Raúl Romero, Transmissions of Transcendental Aspirations](attachments/Raúl-Romero_Transmissions-of-Transcendental-Aspirations.png)](attachments/Raúl-Romero_Transmissions-of-Transcendental-Aspirations.png)
 
 <figcaption>
 

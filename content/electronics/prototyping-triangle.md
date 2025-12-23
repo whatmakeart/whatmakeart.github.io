@@ -1,10 +1,10 @@
 ---
 title: Prototyping Triangle
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-12-23T10:12:35-04:00
 date: 2024-11-10T16:01:02
 ---
 
-[![Prototyping Triangle](./attachments/2023-prototyping-triangle.jpg)](./attachments/2023-prototyping-triangle.jpg)
+[![Prototyping Triangle](attachments/2023-prototyping-triangle.jpg)](attachments/2023-prototyping-triangle.jpg)
 
 Making a new electronics project can be broken into three main categories:
 

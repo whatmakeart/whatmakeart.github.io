@@ -1,7 +1,7 @@
 ---
 title: Shot Types
 date: 2023-08-30T05:21:35
-lastmod: 2024-08-27T09:51:19
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Think about movies, cartoons or video games that you have experienced? Is everything shown in one static camera shot? Of course not. That would be boring and uninteresting. Using multiple cameras and camera angles breaks up videos and screen based media to show different parts with more detail.
@@ -23,7 +23,7 @@ For example, the use of wide establishing shots sets the scene. Interspersed clo
 
 <figure>
 
-![Establishing Shot](./attachments/2024-establishing-shot.jpg)
+![Establishing Shot](attachments/2024-establishing-shot.jpg)
 
 <figcaption>
 
@@ -34,7 +34,7 @@ Establishing Shot
 
 <figure>
 
-![Long Shot](./attachments/2024-long-shot.jpg)
+![Long Shot](attachments/2024-long-shot.jpg)
 
 <figcaption>
 
@@ -45,7 +45,7 @@ Long Shot
 
 <figure>
 
-![Full Shot](./attachments/2024-full-shot.jpg)
+![Full Shot](attachments/2024-full-shot.jpg)
 
 <figcaption>
 
@@ -56,7 +56,7 @@ Full Shot
 
 <figure>
 
-![Medium Shot](./attachments/2024-medium-shot.jpg)
+![Medium Shot](attachments/2024-medium-shot.jpg)
 
 <figcaption>
 
@@ -67,7 +67,7 @@ Medium Shot
 
 <figure>
 
-![Close Up Shot](./attachments/2024-close-up-shot.jpg)
+![Close Up Shot](attachments/2024-close-up-shot.jpg)
 
 <figcaption>
 
@@ -78,7 +78,7 @@ Close Up
 
 <figure>
 
-![Extreme Close Up](./attachments/2024-extreme-close-up-shot.jpg)
+![Extreme Close Up](attachments/2024-extreme-close-up-shot.jpg)
 
 <figcaption>
 
@@ -97,7 +97,7 @@ Using a simple shape like a ball as the subject of a composition does not change
 
 <figure>
 
-![Ball Establishing Shot](./attachments/2021-ball-establishing.jpg)
+![Ball Establishing Shot](attachments/2021-ball-establishing.jpg)
 
 <figcaption>
 
@@ -108,7 +108,7 @@ Establishing Shot
 
 <figure>
 
-![Ball Full Shot](./attachments/2021-ball-full-shot.jpg)
+![Ball Full Shot](attachments/2021-ball-full-shot.jpg)
 
 <figcaption>
 
@@ -119,7 +119,7 @@ Full Shot
 
 <figure>
 
-![Ball Medium Shot](./attachments/2021-ball-medium-shot.jpg)
+![Ball Medium Shot](attachments/2021-ball-medium-shot.jpg)
 
 <figcaption>
 
@@ -130,7 +130,7 @@ Medium Shot
 
 <figure>
 
-![Ball Close Up](./attachments/2021-ball-close-up.jpg)
+![Ball Close Up](attachments/2021-ball-close-up.jpg)
 
 <figcaption>
 
@@ -141,7 +141,7 @@ Close Up
 
 <figure>
 
-![Ball Extreme Close Up](./attachments/2021-ball-extreme-close-up.jpg)
+![Ball Extreme Close Up](attachments/2021-ball-extreme-close-up.jpg)
 
 <figcaption>
 
@@ -158,7 +158,7 @@ Think of the shot types above as changing the size of the frame or changing the 
 
 Common camera angles include aerial shots, bird's eye perspective and low angle shots also know as worm's eye view.
 
-It is a good rule of thumb to change the shot type and the angle of the camera for each scene, camera cut. If you are using [storyboards](./storyboards.md) then a rule of thumb is to create a new shot for each panel of your storyboards. This shot variety is more likely to keep the viewer engaged with your visuals than a single unchanging shot.
+It is a good rule of thumb to change the shot type and the angle of the camera for each scene, camera cut. If you are using [storyboards](storyboards.md) then a rule of thumb is to create a new shot for each panel of your storyboards. This shot variety is more likely to keep the viewer engaged with your visuals than a single unchanging shot.
 
 - Aerial Shots
 - High Angle
@@ -173,7 +173,7 @@ It is a good rule of thumb to change the shot type and the angle of the camera f
 
 <figure>
 
-![Low angle](./attachments/2024-low-angle-camera-angle.jpg)
+![Low angle](attachments/2024-low-angle-camera-angle.jpg)
 
 <figcaption>
 
@@ -184,7 +184,7 @@ Low Angle
 
 <figure>
 
-![High Angle](./attachments/2024-high-angle-camera-angle.jpg)
+![High Angle](attachments/2024-high-angle-camera-angle.jpg)
 
 <figcaption>
 
@@ -195,7 +195,7 @@ High Angle
 
 <figure>
 
-![Over the Shoulder](./attachments/2024-over-the-shoulder-camera-angle.jpg)
+![Over the Shoulder](attachments/2024-over-the-shoulder-camera-angle.jpg)
 
 <figcaption>
 
@@ -206,7 +206,7 @@ Over the Shoulder
 
 <figure>
 
-![Bird's Eye View](./attachments/2024-birds-eye-view-camera-angle.jpg)
+![Bird's Eye View](attachments/2024-birds-eye-view-camera-angle.jpg)
 
 <figcaption>
 
@@ -217,7 +217,7 @@ Bird's Eye View
 
 <figure>
 
-![Aerial](./attachments/2024-aerial-angle-camera-angle.jpg)
+![Aerial](attachments/2024-aerial-angle-camera-angle.jpg)
 
 <figcaption>
 
@@ -228,7 +228,7 @@ Aerial
 
 <figure>
 
-![Dutch Angle](./attachments/2024-dutch-angle-camera-angle.jpg)
+![Dutch Angle](attachments/2024-dutch-angle-camera-angle.jpg)
 
 <figcaption>
 
@@ -255,7 +255,7 @@ Use the rule of thirds when composing your shots and sequences.
 
 <figure>
 
-![Rule of Thirds](./attachments/RuleOfThirds-SideBySide.gif)
+![Rule of Thirds](attachments/RuleOfThirds-SideBySide.gif)
 
 <figcaption>
 

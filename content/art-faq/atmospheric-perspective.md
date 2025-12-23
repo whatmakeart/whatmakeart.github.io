@@ -1,7 +1,7 @@
 ---
 title: Atmospheric Perspective
 date: 2023-05-23T21:59:41
-lastmod: 2025-09-23T05:32:20
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 There are several visual clues we use every day to judge the distance or [depth](depth.md) of an object. The illusion of depth can be created in two-dimensional art by mimicking the way objects appear in real life when they recede into three-dimensional space. You can adjust the color saturation, the contrast in value and the sharpness of individual elements to mimic Atmospheric Perspective in order to create the illusion of depth in your work.
@@ -10,7 +10,7 @@ There are several visual clues we use every day to judge the distance or [depth]
 
 <figure>
 
-[![Tokyo Buildings Atmospheric Perspective](./attachments/2019-02-18-Tokyo-Buildings-Atmospheric-Perspectivey.jpg)](./attachments/2019-02-18-Tokyo-Buildings-Atmospheric-Perspectivey.jpg)
+[![Tokyo Buildings Atmospheric Perspective](attachments/2019-02-18-Tokyo-Buildings-Atmospheric-Perspectivey.jpg)](attachments/2019-02-18-Tokyo-Buildings-Atmospheric-Perspectivey.jpg)
 
 <figcaption>
 
@@ -20,7 +20,7 @@ Tokyo Buildings Atmospheric Perspective
 </figure>
 <figure>
 
-[![Great Smoky Mountains Atmospheric Perspective](./attachments/2025-06-22-Great-Smoky-Mountains-Atmospheric-Perspective.jpg)](./attachments/2025-06-22-Great-Smoky-Mountains-Atmospheric-Perspective.jpg)
+[![Great Smoky Mountains Atmospheric Perspective](attachments/2025-06-22-Great-Smoky-Mountains-Atmospheric-Perspective.jpg)](attachments/2025-06-22-Great-Smoky-Mountains-Atmospheric-Perspective.jpg)
 
 <figcaption>
 
@@ -60,7 +60,7 @@ Objects that are further away have more “air stuff” to contribute to this sc
 
 <figure>
 
-[![Roswell New Mexico Sunset](./attachments/2008-12-20-Roswell-New-Mexico-sunset.jpg)](./attachments/2008-12-20-Roswell-New-Mexico-sunset.jpg)
+[![Roswell New Mexico Sunset](attachments/2008-12-20-Roswell-New-Mexico-sunset.jpg)](attachments/2008-12-20-Roswell-New-Mexico-sunset.jpg)
 
 <figcaption>
 
@@ -70,7 +70,7 @@ Sunset in Roswell, New Mexico
 </figure>
 <figure>
 
-[![New Year Sunrise in Nara, Japan](./attachments/2023-01-01-New-Year-Sunrse-Japan.jpg)](./attachments/2023-01-01-New-Year-Sunrse-Japan.jpg)
+[![New Year Sunrise in Nara, Japan](attachments/2023-01-01-New-Year-Sunrse-Japan.jpg)](attachments/2023-01-01-New-Year-Sunrse-Japan.jpg)
 
 <figcaption>
 
@@ -88,7 +88,7 @@ Remember to also consider shifting the color to the red end of the spectrum for 
 
 <figure>
 
-[![The Harvesters Pieter Bruegel The Elder](./attachments/1565-The-Harvesters-Pieter-Bruegel-the-Elder-Atmospheric-Perspective.jpg)](./attachments/1565-The-Harvesters-Pieter-Bruegel-the-Elder-Atmospheric-Perspective.jpg)
+[![The Harvesters Pieter Bruegel The Elder](attachments/1565-The-Harvesters-Pieter-Bruegel-the-Elder-Atmospheric-Perspective.jpg)](attachments/1565-The-Harvesters-Pieter-Bruegel-the-Elder-Atmospheric-Perspective.jpg)
 
 <figcaption>
 

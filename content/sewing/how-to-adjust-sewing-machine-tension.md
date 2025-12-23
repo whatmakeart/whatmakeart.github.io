@@ -1,7 +1,7 @@
 ---
 title: How to Adjust Sewing Machine Tension
 date: 2023-05-23T21:59:40
-lastmod: 2024-09-19T15:09:37
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 This tutorial will show you how to diagnose sewing machine thread tension issues and fix the tension so you have smooth and even stitches.
@@ -11,7 +11,7 @@ This tutorial will show you how to diagnose sewing machine thread tension issues
 To complete this tutorial you should be familiar with:
 
 - [How to Thread an Juki DDL 870 Industrial Sewing Machine](../sewing/how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md) and / or [How-to-Thread-a-Home-Sewing-Machine](../sewing/how-to-thread-a-home-sewing-machine.md)
-- [How to Wind a Bobbin](./how-to-wind-a-bobbin.md)
+- [How to Wind a Bobbin](how-to-wind-a-bobbin.md)
 
 ## Instructions
 

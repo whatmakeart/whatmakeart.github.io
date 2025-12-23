@@ -1,7 +1,7 @@
 ---
 title: Increment Operator ++ p5.js
 date: 2024-01-23T19:39:40
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -43,7 +43,7 @@ Increment operators are not limited to addition. You can use `*=`, `/=`, and oth
 
 Incrementation is a powerful tool in programming, especially for breathing life into digital creations. By experimenting with different operators and values, you can create fascinating animations and interactive experiences.
 
-[![Increment Operator](./attachments/increment-variable-thumb.jpg)](./attachments/increment-variable-thumb.jpg)
+[![Increment Operator](attachments/increment-variable-thumb.jpg)](attachments/increment-variable-thumb.jpg)
 
 ## Increment Operator Video Transcript
 

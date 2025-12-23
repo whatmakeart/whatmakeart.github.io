@@ -1,6 +1,6 @@
 ---
 title: Crimping Wire
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-12-23T10:12:35-04:00
 date: 2024-11-10T16:01:02
 tags:
   - Electronics
@@ -40,16 +40,16 @@ Commonly but usually incorrectly referred to as Dupont connectors, these small c
 ### JST Connector Resources
 
 - [JST Connectors Wikipedia](https://en.wikipedia.org/wiki/JST_connector)
-- [JST's Precautions for Crimping Process Instructions](https://www.jst-mfg.com/precaution/eP-Crimp.pdf) [(Archive)](./attachments/eP-Crimp.pdf)
-- [JST Good Crimping Guide](https://www.jst-services.co.uk/docs/good%20crimping.pdf) [(Archive)](./attachments/JST-good-crimping.pdf)
+- [JST's Precautions for Crimping Process Instructions](https://www.jst-mfg.com/precaution/eP-Crimp.pdf) [(Archive)](attachments/eP-Crimp.pdf)
+- [JST Good Crimping Guide](https://www.jst-services.co.uk/docs/good%20crimping.pdf) [(Archive)](attachments/JST-good-crimping.pdf)
 - [JST Connector Types Mat Millman](https://www.mattmillman.com/info/crimpconnectors/common-jst-connector-types/)
 
 ## Crimping Resources
 
-- [Hatko Crimping Guidelines](https://www.hatko.com/uploads/files/files/KRiMP-PANO/Crimping-guidelines.pdf) [(Archive)](./attachments/Hatko-crimping-guidelines.pdf)
+- [Hatko Crimping Guidelines](https://www.hatko.com/uploads/files/files/KRiMP-PANO/Crimping-guidelines.pdf) [(Archive)](attachments/Hatko-crimping-guidelines.pdf)
 - [Mouser Crimping Catalog Article from TE Connectivity](https://www.mouser.com/catalog/additional/TE_Where%20Form%20Meets%20Function%205-1773452-5.pdf) [(Archive)](TE_Where Form Meets Function 5-1773452-5.pdf)
 - [Bradley Gawthrop's Wiring Bootcamp](https://youtu.be/FMXdXCYvLQQ)
-- [Crimping Where Form Meets Function](./attachments/TE_Where_Form_Meets_Function_5-1773452-5.pdf)
+- [Crimping Where Form Meets Function](attachments/TE_Where_Form_Meets_Function_5-1773452-5.pdf)
 
 [^1]: [JST PH Connector](https://www.jst-mfg.com/product/index.php?series=199)
 [^2]: [Adafruit Neopixel Product Page](https://www.adafruit.com/product/1376?length=1)

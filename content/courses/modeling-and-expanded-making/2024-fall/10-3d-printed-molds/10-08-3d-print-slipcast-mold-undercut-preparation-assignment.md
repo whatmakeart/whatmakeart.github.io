@@ -1,7 +1,7 @@
 ---
 title: 10.08 3D Print Slipcast Mold Undercut Preparation Assignment
 date: 2024-10-23T09:00:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -18,7 +18,7 @@ Use 3D modeling tools to identify undercuts, simplify undercuts, and create a sm
 ## Process
 
 1. Install the [3D Print Toolkit](../../../../3d-modeling/blender/3d-print-toolbox-addon-blender.md) Blender Addon to assist with the detection and removal of undercuts, and scaling the bounds of your model.
-2. Use a combination of sculpting tools in Blender and the 3D Print Toolkit to [remove undercuts](./10-03-remove-undercuts-blender.md).
+2. Use a combination of sculpting tools in Blender and the 3D Print Toolkit to [remove undercuts](10-03-remove-undercuts-blender.md).
 3. Use the 3D Print Toolkit to [scale the bounds of you model](https://youtu.be/jZhWRZBb05c&t=101) to ~7-8 inches so it fits in the 3D printer.
 
 ## Assignment Resources

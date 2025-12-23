@@ -1,30 +1,30 @@
 ---
 title: Cura Slicing Basics
 date: 2023-10-31T09:00:00
-lastmod: 2025-10-13T05:59:18
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Cura is a [3D printing](3d-printing.md) slicing program.
 
 1. Choose the correct 3D printer
 
-![Cura choose 3D printer](./attachments/20231031-cura-choose-3d-printer.png)
+![Cura choose 3D printer](attachments/20231031-cura-choose-3d-printer.png)
 
 2. Place STL files on the print bed.
 
-![Cura Place STL files on print bed](./attachments/20231031-cura-place-stl-files-on-bed.png)
+![Cura Place STL files on print bed](attachments/20231031-cura-place-stl-files-on-bed.png)
 
 3. Start with the recommended settings and choose if you need supports or not.
 
-![Cura standard settings with supports](./attachments/20231031-cura-standard-settings-with-supports.png)
+![Cura standard settings with supports](attachments/20231031-cura-standard-settings-with-supports.png)
 
 4. Preview the slicing of the print.
 
-![Cura slice preview](./attachments/20231031-cura-slice-preview.png)
+![Cura slice preview](attachments/20231031-cura-slice-preview.png)
 
 5. When everything is set, save the gcode file to disk.
 
-![Cura save 3D print file to disk](./attachments/20231031-cura-save-3d-print-file-to-disk.png)
+![Cura save 3D print file to disk](attachments/20231031-cura-save-3d-print-file-to-disk.png)
 
-- [How to Orbit in Cura](./how-to-orbit-in-ultimaker-cura.md)
-- [Advanced Ultimaker 2+ settings at think\[box\]](./advanced-ultimaker-2+-settings-thinkbox.md)
+- [How to Orbit in Cura](how-to-orbit-in-ultimaker-cura.md)
+- [Advanced Ultimaker 2+ settings at think\[box\]](advanced-ultimaker-2+-settings-thinkbox.md)

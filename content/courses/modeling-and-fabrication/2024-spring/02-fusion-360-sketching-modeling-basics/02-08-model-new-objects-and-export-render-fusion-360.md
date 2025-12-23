@@ -1,7 +1,7 @@
 ---
 title: "02.08 Model Objects in Fusion 360 and Export Render Images"
 date: 2024-01-25T12:00:00Z
-lastmod: 2024-02-21T09:49:19
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -65,15 +65,15 @@ Download the Fusion 360 model files to your computer. (To download a .f3d file y
 
 <div class="gallery-grid">
 
-[![Bottle render from Fusion 360](./2024-kuehnle-jimmy-bottle-sample-render.png)](./2024-kuehnle-jimmy-bottle-sample-render.png)
+[![Bottle render from Fusion 360](2024-kuehnle-jimmy-bottle-sample-render.png)](2024-kuehnle-jimmy-bottle-sample-render.png)
 
-[![Building Brick render from Fusion 360](./2024-kuehnle-jimmy-building-brick-sample-render.png)](./2024-kuehnle-jimmy-building-brick-sample-render.png)
+[![Building Brick render from Fusion 360](2024-kuehnle-jimmy-building-brick-sample-render.png)](2024-kuehnle-jimmy-building-brick-sample-render.png)
 
-[![Glue bottle sample render from Fusion 360](./2024-kuehnle-jimmy-glue-bottle-sample-render.png)](./2024-kuehnle-jimmy-glue-bottle-sample-render.png)
+[![Glue bottle sample render from Fusion 360](2024-kuehnle-jimmy-glue-bottle-sample-render.png)](2024-kuehnle-jimmy-glue-bottle-sample-render.png)
 
-[![Pencil Sharpener sample render in Fusion 360](./2024-kuehnle-jimmy-pencil-sharpener-sample-render.png)](./2024-kuehnle-jimmy-pencil-sharpener-sample-render.png)
+[![Pencil Sharpener sample render in Fusion 360](2024-kuehnle-jimmy-pencil-sharpener-sample-render.png)](2024-kuehnle-jimmy-pencil-sharpener-sample-render.png)
 
-[![Phone sample render in Fusion 360](./2024-kuehnle-jimmy-phone-sample-render.png)](./2024-kuehnle-jimmy-phone-sample-render.png)
+[![Phone sample render in Fusion 360](2024-kuehnle-jimmy-phone-sample-render.png)](2024-kuehnle-jimmy-phone-sample-render.png)
 
 </div>
 

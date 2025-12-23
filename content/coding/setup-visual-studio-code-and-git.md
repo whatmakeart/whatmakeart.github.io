@@ -1,7 +1,7 @@
 ---
 title: Setup Visual Studio Code and Git
 date: 2024-01-10T09:14:36
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -24,7 +24,7 @@ In this programming for artists tutorial, we'll explore how to resolve the issue
 
 3. **Using a Package Manager (Mac Users)**:
 
-   - If you're using a Mac and have Homebrew (a package manager) installed, you can install Git through the Terminal. [Install Homebrew](./install-homebrew.md)
+   - If you're using a Mac and have Homebrew (a package manager) installed, you can install Git through the Terminal. [Install Homebrew](install-homebrew.md)
    - Open Terminal and type `brew install git`.
    - After installation, verify the installation by typing `git --version` in Terminal. This command will display the installed Git version.
 
@@ -58,4 +58,4 @@ There are other ways to install git. If you've installed a package manager on Ma
 
 If I go up to the menu and I click Terminal - New Terminal, this can also be done directly in the Mac OS Terminal, I need to type a couple commands. The first command I'm going to type is "git config --global user.name" and then my username. Replace this with your own username and then you have have your username set for all your git installations. You can also change this per repository or per project folder in many different ways. Next I need to set my email. I'll type a second command very similar to the first this is "git config --global user.email and then my email. Once that is set then we can go ahead and click commit and we no longer have an error message. Then we can publish our branch to GitHub if we so choose after we enter in our GitHub credentials. So hopefully this helps you fix the git username and email not found error on Mac OS.
 
-[![Setup Visual Studio Code and Git](./attachments/vsc-and-github-thumb.jpg)](./attachments/vsc-and-github-thumb.jpg)
+[![Setup Visual Studio Code and Git](attachments/vsc-and-github-thumb.jpg)](attachments/vsc-and-github-thumb.jpg)

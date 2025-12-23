@@ -1,10 +1,10 @@
 ---
 title: How to Wind a Bobbin
 date: 2023-05-26T02:30:01
-lastmod: 2025-12-23T06:45:40
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-## Instructions for Winding a Bobbin on a [Juki DDL 8700](./how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)
+## Instructions for Winding a Bobbin on a [Juki DDL 8700](how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)
 
 1. Place an empty bobbin on the spindle.
 2. Pull the thread from the right spool down to the bobbin winder.

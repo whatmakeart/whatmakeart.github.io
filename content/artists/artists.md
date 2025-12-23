@@ -1,15 +1,15 @@
 ---
 title: Artists
 date: 2023-05-23T21:59:41
-lastmod: 2025-04-23T06:36:10
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-- [Creative Coding Artists](./computer-arts-artists-and-projects.md)
-- [Inflatable Artists](./inflatable-artists.md)
-- [Electronic Arts Artists and Projects](./electronics-arts-artists-and-projects.md)
-- [Fabric Artists](./fabric-artists.md)
+- [Creative Coding Artists](computer-arts-artists-and-projects.md)
+- [Inflatable Artists](inflatable-artists.md)
+- [Electronic Arts Artists and Projects](electronics-arts-artists-and-projects.md)
+- [Fabric Artists](fabric-artists.md)
 - [Video Art](../video/video-art.md)
-- [Animation Artists](./animation-artists.md)
+- [Animation Artists](animation-artists.md)
 
 It is important to look at the work of other artists to learn and be inspired.
 

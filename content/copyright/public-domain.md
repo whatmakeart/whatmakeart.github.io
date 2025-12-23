@@ -1,10 +1,10 @@
 ---
 title: Public Domain
 date: 2023-05-23T21:59:41
-lastmod: 2025-10-01T14:34:50
+lastmod: 2025-12-23T10:00:19-04:00
 ---
 
-The public domain is a collection of creative works that are not protected by intellectual property laws, such as [copyright](../copyright/copyright-for-artists.md), trademark, or patent laws. This means that anyone can use, reproduce, distribute, or modify these works without obtaining permission from the original copyright holder.
+The public domain is a collection of creative works that are not protected by intellectual property laws, such as [copyright](copyright-for-artists.md), trademark, or patent laws. This means that anyone can use, reproduce, distribute, or modify these works without obtaining permission from the original copyright holder.
 
 There are many different ways that a work can enter the public domain. Some works are automatically in the public domain because they are not eligible for copyright protection. For example, works of the United States federal government are in the public domain based on Title 17, Section 105 of the United States Copyright Law. [^1]
 

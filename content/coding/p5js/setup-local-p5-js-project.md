@@ -1,7 +1,7 @@
 ---
 title: Setup Local p5.js Project
 date: 2024-01-11T11:08:20
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Coding
   - p5.js
@@ -60,7 +60,7 @@ Now your p5.js project template is set up. You can start programming in p5.js, a
 
 This setup ensures that you have a robust and flexible development environment for your p5.js projects, with the ability to work offline, manage versions through Git, and easily test and deploy your projects.
 
-[![Setup p5.js Local Project](./attachments/setup-p5-js-local-project-thumb.jpg)](./attachments/setup-p5-js-local-project-thumb.jpg)
+[![Setup p5.js Local Project](attachments/setup-p5-js-local-project-thumb.jpg)](attachments/setup-p5-js-local-project-thumb.jpg)
 
 ## Setup p5.js Local Project Video Transcript
 

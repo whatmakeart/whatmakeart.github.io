@@ -1,10 +1,10 @@
 ---
 title: Draw a Floor Plan Blender
 date: 2024-09-03T20:44:53
-lastmod: 2024-09-04T08:09:55
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-After an image of a floor plan is imported into Blender and then [adjusted for the correct scale](./scale-floor-plan-blender.md), then 3D model geometry needs to be created. It is easiest to draw the outline of the floor plan while looking down from the top view. A simple floor plan can be drawn with straight edges.
+After an image of a floor plan is imported into Blender and then [adjusted for the correct scale](scale-floor-plan-blender.md), then 3D model geometry needs to be created. It is easiest to draw the outline of the floor plan while looking down from the top view. A simple floor plan can be drawn with straight edges.
 
 ## 3D Model from 2D Floor Plan Workflow in Blender
 
@@ -18,15 +18,15 @@ After an image of a floor plan is imported into Blender and then [adjusted for t
 8. Repeat this process until you have gone all the way around the perimeter of the floor plan.
 9. This created polygon floor can be extruded up.
 
-[Link to basic 3D Model of Example Gallery](./attachments/2023-Gallery-Model.blend)
+[Link to basic 3D Model of Example Gallery](attachments/2023-Gallery-Model.blend)
 
 <figure>
 
-[![Basic Gallery Model for use in Blender](./attachments/2023-basic-blender-gallery-model-image.png)](./attachments/2023-Gallery-Model.blend)
+[![Basic Gallery Model for use in Blender](attachments/2023-basic-blender-gallery-model-image.png)](attachments/2023-Gallery-Model.blend)
 
 <figcaption>
 
-Example of a basic prebuilt model of the gallery ready for ideation and visualization. [Link to Blender file](./attachments/2023-Gallery-Model.blend)
+Example of a basic prebuilt model of the gallery ready for ideation and visualization. [Link to Blender file](attachments/2023-Gallery-Model.blend)
 
 </figcaption>
 
@@ -34,5 +34,5 @@ Example of a basic prebuilt model of the gallery ready for ideation and visualiz
 
 ## Blender Modeling Resources
 
-- [Blender 3D Modeling Basics](./3d-modeling-basics-blender.md)
-- [Scale a Floor Plan in Blender](./scale-floor-plan-blender.md)
+- [Blender 3D Modeling Basics](3d-modeling-basics-blender.md)
+- [Scale a Floor Plan in Blender](scale-floor-plan-blender.md)

@@ -1,7 +1,7 @@
 ---
 title: Clone GitHub Template Repository
 date: 2024-01-11T16:41:22
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - git
   - GitHub
@@ -90,4 +90,4 @@ So we will be doing this with lots of projects in this course and then sharing t
 
 Happy programming.
 
-[![Clone GitHub Template Repository](./attachments/clone-github-template-thumb.png)](./attachments/clone-github-template-thumb.png)
+[![Clone GitHub Template Repository](attachments/clone-github-template-thumb.png)](attachments/clone-github-template-thumb.png)

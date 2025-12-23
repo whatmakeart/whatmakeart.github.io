@@ -1,10 +1,10 @@
 ---
 title: How to Mix Plaster
 date: 2024-12-05T16:16:13
-lastmod: 2025-01-15T07:23:02
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-[Plaster](./plaster.md) can be mixed by the less precise volume or "volcano method" or the more precise mass method.
+[Plaster](plaster.md) can be mixed by the less precise volume or "volcano method" or the more precise mass method.
 
 It is recommended to use the mass method unless you do not have access to a balance or scale. Using the mass method gives a much more consistent plaster mix than the volume method.
 
@@ -19,7 +19,7 @@ It is recommended to use the mass method unless you do not have access to a bala
 ## Process
 
 1. Calculate the volume of the space to fill with plaster.
-2. Use a [plaster calculator](./plaster-calculator.md) to determine the amount of water and plaster needed for the calculated volume. A chart for common amounts of plaster is included below.
+2. Use a [plaster calculator](plaster-calculator.md) to determine the amount of water and plaster needed for the calculated volume. A chart for common amounts of plaster is included below.
 3. Record the plaster mix ratio and amounts in your notes so you can recall them in the future. It is important for all parts of the mold to have the same density / mix of plaster.
 4. Place a scale inside the ventilated hood.
 5. Place your bucket or other suitable container. on the scale.

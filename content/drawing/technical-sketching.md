@@ -1,7 +1,7 @@
 ---
 title: Technical Sketching
 date: 2023-11-28T05:54:38
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Technical sketching is a form of drawing used to visually communicate how and object is made, put together, or how something functions. Often dimensions of the object are written on the sketch as well as the precise scale of the drawing. A scaled drawing allows for small and large objects to be drawn at a reasonable size rather than their respective real world scale. Even if a drawing is not to scale it can still describe the form of the object.
@@ -28,13 +28,13 @@ Different fields and disciplines use symbols and conventions to make technical s
 
 There are a few different types of three-dimensional technical sketches we have isometric sketches oblique sketches and perspective sketches. For the most part we will be using isometric sketches. Sometimes we will use perspective sketches to make a conceptual visualization but they are less useful for actual technical sketching. Two dimensional sketching we will use multi-view sketches that show the top side and front of an object. These will be lined up in playing with each other so that we can see how the different size relate to each other along with hidden elements shown by dotted lines.
 
-Technical sketching uses a variety of visual projections and perspective techniques depending on what information is most important to convey. Common types include isometric perspective drawing, Oblique Projections, and [third angle projections](./third-angle-projection.md).
+Technical sketching uses a variety of visual projections and perspective techniques depending on what information is most important to convey. Common types include isometric perspective drawing, Oblique Projections, and [third angle projections](third-angle-projection.md).
 
 <div class="gallery-grid">
 
 <figure>
 
-[![Isometric Perspective Example](./attachments/2022-10-08-isometric-perspective.png)](./attachments/2022-10-08-isometric-perspective.png)
+[![Isometric Perspective Example](attachments/2022-10-08-isometric-perspective.png)](attachments/2022-10-08-isometric-perspective.png)
 
 <figcaption>
 
@@ -45,7 +45,7 @@ Isometric Projection of a cube drawn at a 30 degree angle
 
 <figure>
 
-[![Oblique Projection Example](./attachments/2022-10-08-oblique-projection.png)](./attachments/2022-10-08-oblique-projection.png)
+[![Oblique Projection Example](attachments/2022-10-08-oblique-projection.png)](attachments/2022-10-08-oblique-projection.png)
 
 <figcaption>
 
@@ -56,7 +56,7 @@ Oblique Projection of a cube drawn at a 45 degree angle
 
 <figure>
 
-[![Third Angle Projection Example](./attachments/2022-01-11-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)](./attachments/2022-01-11-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)
+[![Third Angle Projection Example](attachments/2022-01-11-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)](attachments/2022-01-11-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)
 
 <figcaption>
 

@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-08-28T06:15:27
+lastmod: 2025-12-23T10:14:07-04:00
 ---
 
 ## Photoshop Guides

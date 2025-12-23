@@ -1,7 +1,7 @@
 ---
 title: How to Make a Countdown Timer in Adobe Premiere
 date: 2023-11-16T09:40:31
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -10,7 +10,7 @@ lastmod: 2025-09-30T17:53:45
 
 ## Create a Custom Countdown Timer in Adobe Premiere Pro: A Step-by-Step Guide
 
-This is a comprehensive guide on creating a customizable countdown timer in [Adobe Premiere Pro](./adobe-premiere.md). Whether you're just starting out in video editing or are looking to brush up on your skills, this tutorial is designed to help you add a dynamic and professional touch to your video projects.
+This is a comprehensive guide on creating a customizable countdown timer in [Adobe Premiere Pro](adobe-premiere.md). Whether you're just starting out in video editing or are looking to brush up on your skills, this tutorial is designed to help you add a dynamic and professional touch to your video projects.
 
 ### Getting Started with Your Sequence
 

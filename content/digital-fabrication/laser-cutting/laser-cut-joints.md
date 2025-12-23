@@ -1,7 +1,7 @@
 ---
 title: Laser Cut Joints
 date: 2024-11-10T16:01:01
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 There are many ways to join a laser cut project together ranging from gravity to glue to bolts to snap pieces. You can use a variety of ways to connect. Here are some example images of different methods of joining pieces together. There are many more ways. Search the internet for other methods of making laser cut joints.
@@ -10,13 +10,13 @@ There are many ways to join a laser cut project together ranging from gravity to
 
 ### Butt Joint Perpendicular
 
-![Butt Joint for Laser Cutting Perpendicular](./attachments/2024-02-07-laser-cut-butt-joint.jpg)
+![Butt Joint for Laser Cutting Perpendicular](attachments/2024-02-07-laser-cut-butt-joint.jpg)
 
 ### Planar Butt Joint
 
 <div class="gallery-grid">
 
-![Planar Butt Joint](./attachments/2024-02-07-planar-butt-joint.jpg)
+![Planar Butt Joint](attachments/2024-02-07-planar-butt-joint.jpg)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/id2I8982n_g?si=Lq7cuOC8s78Ly2S9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -131,7 +131,7 @@ Threaded inserts are more involved to install but make a durable attachment poin
 
 ## Compliant Joints and Mechanisms
 
-Compliant joints take advantage of the natural flexibility of materials. Joints that snap into place after bending out of the way are an example of compliant joints. A [living hinge](./laser-cut-living-hinge.md) is an example of a compliant mechanism.
+Compliant joints take advantage of the natural flexibility of materials. Joints that snap into place after bending out of the way are an example of compliant joints. A [living hinge](laser-cut-living-hinge.md) is an example of a compliant mechanism.
 
 ## Designing Joints for Clear Assembly by User
 

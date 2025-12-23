@@ -1,7 +1,7 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-04T08:43:42
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -116,55 +116,55 @@ It can be helpful to use an LLM to expand on a prompt before using the prompt to
 
 <figure>
 
-[![Art Student vs Ai Professor Game](./2025-12-04-art-student-vs-ai-professor-whatmakeart.jpg)](./art-student-vs-ai-professor.html)
+[![Art Student vs Ai Professor Game](2025-12-04-art-student-vs-ai-professor-whatmakeart.jpg)](art-student-vs-ai-professor.html)
 
 <figcaption>
 
-[Prompt used to create prompt for Game:](./art-student-vs-ai-professor.html) `write a prompt that would create an amazing html game all about how a student hates that their art school professor is making them code with a large language model since the student hates generative ai`
+[Prompt used to create prompt for Game:](art-student-vs-ai-professor.html) `write a prompt that would create an amazing html game all about how a student hates that their art school professor is making them code with a large language model since the student hates generative ai`
 
 </figcaption>
 </figure>
 
 <figure>
 
-[![Emoji Avalanche Game](./2025-12-04-emoji-avalanche-single-prompt-game-whatmakeart.jpg)](./emoji-avalanche.html)
+[![Emoji Avalanche Game](2025-12-04-emoji-avalanche-single-prompt-game-whatmakeart.jpg)](emoji-avalanche.html)
 
 <figcaption>
 
-[Emoji Avalanche Prompt:](./emoj-avalanche.html) `make a html single page game that has falling emoji that bound into each other and react with real physics and gravity the play need to move around with out getting hit they an press space to jump and have lots of parallax scrolling background`
+[Emoji Avalanche Prompt:](emoj-avalanche.html) `make a html single page game that has falling emoji that bound into each other and react with real physics and gravity the play need to move around with out getting hit they an press space to jump and have lots of parallax scrolling background`
 
 </figcaption>
 </figure>
 
 <figure>
 
-[![Breathing Box](./2025-12-04-breathing-box-whatmakeart.jpg)](./breathing-box.html)
+[![Breathing Box](2025-12-04-breathing-box-whatmakeart.jpg)](breathing-box.html)
 
 <figcaption>
 
-[Breathing Box Prompt:](./breathing-box.html) `Code a "Breathing Box" relaxation widget using HTML5 Canvas. It should be a soft blue square that expands and contracts rhythmically over 4 seconds. Add a slider so I can adjust the speed, and display the text "Breathe in... breathe out..." in sync with the animation.`
+[Breathing Box Prompt:](breathing-box.html) `Code a "Breathing Box" relaxation widget using HTML5 Canvas. It should be a soft blue square that expands and contracts rhythmically over 4 seconds. Add a slider so I can adjust the speed, and display the text "Breathe in... breathe out..." in sync with the animation.`
 
 </figcaption>
 </figure>
 
 <figure>
 
-[![Digital Soundboard](./2025-12-04-soundboard-whatmakeart.jpg)](./soundboard.html)
+[![Digital Soundboard](2025-12-04-soundboard-whatmakeart.jpg)](soundboard.html)
 
 <figcaption>
 
-[Digital Soundboard Prompt:](./soundboard.html) `I need a complete code setup for single page webpage, everything included (HTML/CSS/JS) for a soundboard. Create a CSS Grid with 2 columns and 2 rows. It should fill the whole screen. In each grid cell, place one of my images: assets/img1.jpg, assets/img2.jpg, etc. Make the images object-fit: cover so they fill the cell perfectly. When I hover over a cell, make it slightly brighter (filter brightness). When I click a cell, play the corresponding sound (assets/sound1.mp3, etc.) and make the image flash white for 100 milliseconds." For now make generated place holder graphics and sounds`
+[Digital Soundboard Prompt:](soundboard.html) `I need a complete code setup for single page webpage, everything included (HTML/CSS/JS) for a soundboard. Create a CSS Grid with 2 columns and 2 rows. It should fill the whole screen. In each grid cell, place one of my images: assets/img1.jpg, assets/img2.jpg, etc. Make the images object-fit: cover so they fill the cell perfectly. When I hover over a cell, make it slightly brighter (filter brightness). When I click a cell, play the corresponding sound (assets/sound1.mp3, etc.) and make the image flash white for 100 milliseconds." For now make generated place holder graphics and sounds`
 
 </figcaption>
 </figure>
 
 <figure>
 
-[![Physics Login Puzzle](./2025-12-04-physics-login-puzzle-whatmakeart.jpg)](./physics-login-puzzle.html)
+[![Physics Login Puzzle](2025-12-04-physics-login-puzzle-whatmakeart.jpg)](physics-login-puzzle.html)
 
 <figcaption>
 
-[Physics Login Puzzle Prompt:](./physics-login-puzzle.html) `Write a single web page in HTML and JavaScript that requires the user to do a puzzle like maybe move some blocks around to be in a line. And use some like physics. So like when they're moving the blocks around they bounce into each other and it's kind of cool. So basically they got to get the different shapes together and they have to do this before they log in to the page if they successfully do it then it logs in and it shows the text super huge on the screen you did it make this all in one single web page make sure all the code is correct and then give me everything working. now`
+[Physics Login Puzzle Prompt:](physics-login-puzzle.html) `Write a single web page in HTML and JavaScript that requires the user to do a puzzle like maybe move some blocks around to be in a line. And use some like physics. So like when they're moving the blocks around they bounce into each other and it's kind of cool. So basically they got to get the different shapes together and they have to do this before they log in to the page if they successfully do it then it logs in and it shows the text super huge on the screen you did it make this all in one single web page make sure all the code is correct and then give me everything working. now`
 
 </figcaption>
 </figure>

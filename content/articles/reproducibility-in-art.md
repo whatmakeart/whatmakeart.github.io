@@ -1,7 +1,7 @@
 ---
 title: Reproducibility in Art
 date: 2024-12-07T07:12:43
-lastmod: 2025-09-23T05:24:01
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 What is reproducibility? Does the original matter? Is a "reproduced" reproduction just as valuable? Is a copy of a book still the book?
@@ -13,7 +13,7 @@ If this is the earliest know printed book with a date, and it was with 40,000 ot
 <div class="gallery-grid">
 <figure>
 
-[![The Diamond Sutra Scroll from 868 AD](./attachments/868-05-11-The-Diamond-Sutra-Scroll-British-Library-China.jpg)](./attachments/868-05-11-The-Diamond-Sutra-Scroll-British-Library-China.jpg)
+[![The Diamond Sutra Scroll from 868 AD](attachments/868-05-11-The-Diamond-Sutra-Scroll-British-Library-China.jpg)](attachments/868-05-11-The-Diamond-Sutra-Scroll-British-Library-China.jpg)
 
 <figcaption>
 
@@ -32,7 +32,7 @@ Look at the two Dürer works below. There is a good chance that one jumps out as
 <div class="gallery-grid">
 <figure>
 
-[![Albrecht-Dürer The Four Horsemen from The Apocalypse](./attachments/1498-Albrecht-Dürer-The-Four-Horsemen-from-The-Apocalypse.jpg)](./attachments/1498-Albrecht-Dürer-The-Four-Horsemen-from-The-Apocalypse.jpg)
+[![Albrecht-Dürer The Four Horsemen from The Apocalypse](attachments/1498-Albrecht-Dürer-The-Four-Horsemen-from-The-Apocalypse.jpg)](attachments/1498-Albrecht-Dürer-The-Four-Horsemen-from-The-Apocalypse.jpg)
 
 <figcaption>
 
@@ -42,7 +42,7 @@ Albrecht-Dürer, _The Four Horsemen from "The Apocalypse"_, woodcut, 1498[^durer
 </figure>
 <figure>
 
-[![Virgin and Child with Saint Anne Albrecht Dürer probably 1519](./attachments/1519-Albrecht-Dürer-TVirgin-and-Child-with-Saint-Anne.jpg)](./attachments/1519-Albrecht-Dürer-TVirgin-and-Child-with-Saint-Anne.jpg)
+[![Virgin and Child with Saint Anne Albrecht Dürer probably 1519](attachments/1519-Albrecht-Dürer-TVirgin-and-Child-with-Saint-Anne.jpg)](attachments/1519-Albrecht-Dürer-TVirgin-and-Child-with-Saint-Anne.jpg)
 
 <figcaption>
 
@@ -61,7 +61,7 @@ An artist could put paper or a canvas in front of this inverted projection and t
 <div class="gallery-grid">
 <figure>
 
-[![Johann Zahns kleine transportable Camera obscura](./attachments/1900-Johann-Zahns-kleine-transportable-Camera-obscura.jpg)](./attachments/1900-Johann-Zahns-kleine-transportable-Camera-obscura.jpg)
+[![Johann Zahns kleine transportable Camera obscura](attachments/1900-Johann-Zahns-kleine-transportable-Camera-obscura.jpg)](attachments/1900-Johann-Zahns-kleine-transportable-Camera-obscura.jpg)
 
 <figcaption>
 
@@ -80,7 +80,7 @@ Why do museums care if their art objects were really made by famous artists or a
 <div class="gallery-grid">
 <figure>
 
-[![Crucifixion of St Andrew Copy](./attachments/1619_Black-Vega_Crucifixtion.jpg)](./attachments/1619_Black-Vega_Crucifixtion.jpg)
+[![Crucifixion of St Andrew Copy](attachments/1619_Black-Vega_Crucifixtion.jpg)](attachments/1619_Black-Vega_Crucifixtion.jpg)
 
 <figcaption>
 
@@ -90,7 +90,7 @@ Black-Vega _Crucifixion of St Andrew_, identified as a copy after Caravaggio. Ca
 </figure>
 <figure>
 
-[![Crucifixion of Saint Andrew by Caravaggio](./attachments/1606–7_The-Crucifixion-of-Saint-Andrew_Caravaggio.jpg)](./attachments/1606–7_The-Crucifixion-of-Saint-Andrew_Caravaggio.jpg)
+[![Crucifixion of Saint Andrew by Caravaggio](attachments/1606–7_The-Crucifixion-of-Saint-Andrew_Caravaggio.jpg)](attachments/1606–7_The-Crucifixion-of-Saint-Andrew_Caravaggio.jpg)
 
 <figcaption>
 
@@ -103,7 +103,7 @@ _The Crucifixion of Saint Andrew_, 1606–7. Caravaggio (Italian, 1571–1610). 
 <div class="gallery-grid">
 <figure>
 
-[![Seeing Double Caravaggio at the Cleveland Museum of Art](./attachments/20171202-Seeing-Double-Cleveland-Museum-of-Art.jpg)](./attachments/20171202-Seeing-Double-Cleveland-Museum-of-Art.jpg)
+[![Seeing Double Caravaggio at the Cleveland Museum of Art](attachments/20171202-Seeing-Double-Cleveland-Museum-of-Art.jpg)](attachments/20171202-Seeing-Double-Cleveland-Museum-of-Art.jpg)
 
 <figcaption>
 
@@ -122,7 +122,7 @@ Andy Warhol used photography, printmaking, and methods of mass production to mak
 <div class="gallery-grid">
 <figure>
 
-[![Andy Warhol Marylin x 100](./attachments/1962-Andy-Warhol-Maryln-x-100.jpg)](./attachments/1962-Andy-Warhol-Maryln-x-100.jpg)
+[![Andy Warhol Marylin x 100](attachments/1962-Andy-Warhol-Maryln-x-100.jpg)](attachments/1962-Andy-Warhol-Maryln-x-100.jpg)
 
 <figcaption>
 
@@ -137,7 +137,7 @@ Sometimes the choice of media of a work can be a source of originality but not a
 <div class="gallery-grid">
 <figure>
 
-[![Rogers v. Koons Image](./attachments/1992-Rogers_v_Koons.jpg)](./attachments/1992-Rogers_v_Koons.jpg)
+[![Rogers v. Koons Image](attachments/1992-Rogers_v_Koons.jpg)](attachments/1992-Rogers_v_Koons.jpg)
 
 <figcaption>
 
@@ -158,7 +158,7 @@ Most humans have not and will not see the _Mona Lisa_ in person, but the image i
 <div class="gallery-grid">
 <figure>
 
-[![Leonardo da Vinci, Mona Lisa, oil on poplar panel](./attachments/1519-Mona-Lisa-Leonardo-da-Vinci.jpg)](./attachments/1519-Mona-Lisa-Leonardo-da-Vinci.jpg)
+[![Leonardo da Vinci, Mona Lisa, oil on poplar panel](attachments/1519-Mona-Lisa-Leonardo-da-Vinci.jpg)](attachments/1519-Mona-Lisa-Leonardo-da-Vinci.jpg)
 
 <figcaption>
 
@@ -168,7 +168,7 @@ Leonardo da Vinci, _Mona Lisa_, oil on poplar panel, 77cm H x 53cm W, between ci
 </figure>
 <figure>
 
-[![Marcel Duchamp, L.H.O.O.Q.](./attachments/1919-Marcel_Duchamp-L.H.O.O.Q.jpg)](./attachments/1919-Marcel_Duchamp-L.H.O.O.Q.jpg)
+[![Marcel Duchamp, L.H.O.O.Q.](attachments/1919-Marcel_Duchamp-L.H.O.O.Q.jpg)](attachments/1919-Marcel_Duchamp-L.H.O.O.Q.jpg)
 
 <figcaption>
 
@@ -181,7 +181,7 @@ Marcel Duchamp, _L.H.O.O.Q._, 1919, originally published in 391, n. 12, March 19
 <div class="gallery-grid">
 <figure>
 
-[![Flag of Mona Lisa smoking a joint next to a flag Alice and a hooka smoking caterpillar as seen through the window of a smoke shop](./attachments/2025-08-27-mona-lisa-smoking-joint.jpg)](./attachments/2025-08-27-mona-lisa-smoking-joint.jpg)
+[![Flag of Mona Lisa smoking a joint next to a flag Alice and a hooka smoking caterpillar as seen through the window of a smoke shop](attachments/2025-08-27-mona-lisa-smoking-joint.jpg)](attachments/2025-08-27-mona-lisa-smoking-joint.jpg)
 
 <figcaption>
 

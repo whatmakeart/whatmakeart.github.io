@@ -1,7 +1,7 @@
 ---
 title: Sewing
 date: 2024-11-10T16:01:02
-lastmod: 2025-12-22T06:31:09
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Sewing is the process to use thread to mechanically attach to print planer pieces of [fabric](fabric.md) together. Generally, the pieces are cut in specific shapes that after so together will create a three-dimensional form. Often these forms are to fit around the shape of the human body or a piece of architecture.
@@ -11,7 +11,7 @@ To get started sewing you only need a few basic supplies. The following supplies
 ### Minimum Sewing Supplies
 
 - [Hand-Needles](hand-needles.md)
-- [thread](./sewing-thread.md)
+- [thread](sewing-thread.md)
 - scissors
 - pins
 
@@ -32,8 +32,8 @@ The stitches made by hand are different than those made by a lock stitch machine
 
 - **Blind stitch** - nearly invisible on one side of the fabric
 - **Blanket Stitch** - binds the threads on the edge of woven fabrics to prevent unraveling - See: [How to Sew a Blanket Stitch](how-to-sew-a-blanket-stitch.md)
-- **Overcast or Whipstich** - wraps around the edges of fabric and can prevent fraying, can also join pieces of fabric together such as a hem See: [how-to-sew-an-overcast-stitch](./how-to-sew-an-overcast-stitch.md)
-- **Buttonhole stitch** - similar to the blanket stitch but ties a knot with each stitch to make the stitching more durable to the wear and tear of button insertion - See: [How to sew a Button](./how-to-sew-a-button.md)
+- **Overcast or Whipstich** - wraps around the edges of fabric and can prevent fraying, can also join pieces of fabric together such as a hem See: [how-to-sew-an-overcast-stitch](how-to-sew-an-overcast-stitch.md)
+- **Buttonhole stitch** - similar to the blanket stitch but ties a knot with each stitch to make the stitching more durable to the wear and tear of button insertion - See: [How to sew a Button](how-to-sew-a-button.md)
 - **Backstich** - basic hand stitch that is similar to the running stitch except that after comming back through the fabric, the sewer goes back to the location of the previous stitch and pushes the need through the fabric at the same location, doubling up the stitch - See: [How to Sew a Backstich](how-to-sew-a-backstich.md)
 - **Basting Stitch** - temporary stitch used to hold pieces of fabric together during the construction process or to quickly mock up a form to check size and fit - See: [How to Sew a Basting Stitch](how-to-sew-a-basting-stitch.md)
 - **Running Stitch** - basic hand stitch that goes into the fabric, travels a bit, and then back through the fabric in the opposite way. Multiple stitches can be made at once - See: [How to Sew a Running Stitch](how-to-sew-a-running-stitch.md)
@@ -155,28 +155,28 @@ List of [Inflatable Companies](../making/inflatable-companies.md) that fabricate
 
 ## Sewing Tutorials
 
-- [How to Sew a Tote Bag](./how-to-sew-a-tote-bag-with-lining.md)
-- [how-to-cut-fabric](./how-to-cut-fabric.md)
-- [How to Duplicate a T-Shirt Pattern](./How-to-Duplicate-a-T-Shirt-Pattern.md)
-- [How to Use an Iron](./how-to-use-an-iron.md)
-- [How to Sew Sleeve Plackets](./how-to-sew-sleeve-plackets.md)
-- [How to Sew a Zipper Fly and Waistband](./how-to-sew-a-zipper-fly-and-waistband.md)
-- [How-to-Sew-Six-Basic-Seams](./How-to-Sew-Six-Basic-Seams.md)
-- [How-to-Copy-a-Pants-Pattern](./how-to-duplicate-a-pants-pattern.md)
-- [How to Sew a Button](./how-to-sew-a-button.md)
-- [How to Sew a Collar](./how-to-sew-a-collar.md)
-- [How to Sew a Rolled Hem](./how-to-sew-a-rolled-hem.md)
+- [How to Sew a Tote Bag](how-to-sew-a-tote-bag-with-lining.md)
+- [how-to-cut-fabric](how-to-cut-fabric.md)
+- [How to Duplicate a T-Shirt Pattern](How-to-Duplicate-a-T-Shirt-Pattern.md)
+- [How to Use an Iron](how-to-use-an-iron.md)
+- [How to Sew Sleeve Plackets](how-to-sew-sleeve-plackets.md)
+- [How to Sew a Zipper Fly and Waistband](how-to-sew-a-zipper-fly-and-waistband.md)
+- [How-to-Sew-Six-Basic-Seams](How-to-Sew-Six-Basic-Seams.md)
+- [How-to-Copy-a-Pants-Pattern](how-to-duplicate-a-pants-pattern.md)
+- [How to Sew a Button](how-to-sew-a-button.md)
+- [How to Sew a Collar](how-to-sew-a-collar.md)
+- [How to Sew a Rolled Hem](how-to-sew-a-rolled-hem.md)
 - [How to Sew a Blind Hem](how-to-sew-a-blind-hem.md)
-- [How to Sew a Dart](./how-to-sew-a-dart.md)
-- [how-to-adjust-sewing-machine tension](./how-to-adjust-sewing-machine-tension.md)
-- [How to Wind a Bobbin](./how-to-wind-a-bobbin.md)
-- [How to Sew a Double Welt Pocket](./how-to-sew-a-double-welt-pocket.md)
-- [Sew-Inseam-Pockets-with-French-Seams](./sew-inseam-pockets-with-french-seams.md)
-- [Sew-Zipper-Pocket-without-Exposed-Zipper-Tape](./sew-zipper-pocket-without-exposed-zipper-tape.md)
-- [How to Sew Pants](./how-to-sew-pants.md)
-- [How-to-Sew-a-Plain-Seam](./how-to-sew-a-plain-seam.md)
+- [How to Sew a Dart](how-to-sew-a-dart.md)
+- [how-to-adjust-sewing-machine tension](how-to-adjust-sewing-machine-tension.md)
+- [How to Wind a Bobbin](how-to-wind-a-bobbin.md)
+- [How to Sew a Double Welt Pocket](how-to-sew-a-double-welt-pocket.md)
+- [Sew-Inseam-Pockets-with-French-Seams](sew-inseam-pockets-with-french-seams.md)
+- [Sew-Zipper-Pocket-without-Exposed-Zipper-Tape](sew-zipper-pocket-without-exposed-zipper-tape.md)
+- [How to Sew Pants](how-to-sew-pants.md)
+- [How-to-Sew-a-Plain-Seam](how-to-sew-a-plain-seam.md)
 - [How-to-Make-Inflatables](../art-faq/how-to-make-inflatables.md)
-- [How-to-Sew-a-Cargo-Pocket](./how-to-sew-a-cargo-pocket.md)
+- [How-to-Sew-a-Cargo-Pocket](how-to-sew-a-cargo-pocket.md)
 
 ### External Sewing Links
 

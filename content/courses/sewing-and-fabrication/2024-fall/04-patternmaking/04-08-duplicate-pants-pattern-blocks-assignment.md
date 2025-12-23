@@ -1,7 +1,7 @@
 ---
 title: 04.08 Duplicate Pants Pattern BlocksAssignment
 date: 2024-09-23T09:00:00
-lastmod: 2024-10-07T06:13:49
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -15,7 +15,7 @@ lastmod: 2024-10-07T06:13:49
 
 ## Overview
 
-Follow the [instructions](./04-05-how-to-duplicate-pants-pattern.md) to create pattern blocks from a pair of pants or shorts.
+Follow the [instructions](04-05-how-to-duplicate-pants-pattern.md) to create pattern blocks from a pair of pants or shorts.
 
 ## Grading Rubric
 

@@ -1,14 +1,14 @@
 ---
 title: UV Mapping - Blender
 date: 2023-06-15T05:47:32
-lastmod: 2025-12-22T07:02:46
+lastmod: 2025-12-23T10:12:35-04:00
 Tags:
   - UV-Mapping
   - Blender
   - 3D-Modeling
 ---
 
-UV mapping in [Blender](./blender.md) is the process of assigning 2D [UV coordinates](../uv-coordinates.md) to 3D objects. This is necessary so that textures can be applied to the objects in a way that is consistent and predictable.
+UV mapping in [Blender](blender.md) is the process of assigning 2D [UV coordinates](../uv-coordinates.md) to 3D objects. This is necessary so that textures can be applied to the objects in a way that is consistent and predictable.
 
 This video shows how to use [Smart UV Project](https://youtu.be/MkT4xIhoaLM) in Blender.
 

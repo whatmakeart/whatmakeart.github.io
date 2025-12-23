@@ -1,7 +1,7 @@
 ---
 title: 09.03 Game Library Playground Assignment
 date: 2024-03-22T09:30:00
-lastmod: 2024-05-15T06:12:12
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -44,7 +44,7 @@ Document what you did and what happened. Be detailed and thorough.
 - [crafty.js](https://craftyjs.com/getting-started/) - Getting started
 - [pixi.js](https://pixijs.com/8.x/examples/basic/container) - Create a basic container
 
-Explore more [game libraries and engines](./09-01-game-libraries-and-engines.md).
+Explore more [game libraries and engines](09-01-game-libraries-and-engines.md).
 
 ### AI Assistnats
 

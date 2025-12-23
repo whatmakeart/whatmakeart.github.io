@@ -1,10 +1,10 @@
 ---
 title: 11.03 Sonic Arts Workshop References
 date: 2023-11-14T09:00:00
-lastmod: 2025-09-30T18:27:15
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) Sonic Arts Workshop [^1] in the fall 2023 [Time Based Strategies course](../00-getting-started/00-02-time-based-strategies-syllabus.md) in the [Sculpture + Expanded Media Department](https://www.cia.edu/academics/sculpture-expanded-media) at the [Cleveland Institute of Art](https://www.cia.edu/).
+This page includes resources and links from [Bob Drake's](11-02-bob-drake.md) Sonic Arts Workshop [^1] in the fall 2023 [Time Based Strategies course](../00-getting-started/00-02-time-based-strategies-syllabus.md) in the [Sculpture + Expanded Media Department](https://www.cia.edu/academics/sculpture-expanded-media) at the [Cleveland Institute of Art](https://www.cia.edu/).
 
 ## Listening
 
@@ -135,7 +135,7 @@ This page includes resources and links from [Bob Drake's](./11-02-bob-drake.md) 
 
 - Change rotary motion to linear using cams, cranks, levers [^2]
 
-[![Cam and Crank](./cam-and-crank-from-rice-university.gif)](./cam-and-crank-from-rice-university.gif)
+[![Cam and Crank](cam-and-crank-from-rice-university.gif)](cam-and-crank-from-rice-university.gif)
 
 ### Loose Coupling
 

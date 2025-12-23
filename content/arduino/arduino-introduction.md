@@ -1,14 +1,14 @@
 ---
 title: Arduino Introduction
 date: 2023-06-17T06:43:14
-lastmod: 2025-01-11T05:55:34
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Electronics
 ---
 
 <figure>
 
-[![Arduino Uno and a Breadboard](./attachments/2025-01-06-arduino-uno-and-breadboard.jpg)](./attachments/2025-01-06-arduino-uno-and-breadboard.jpg)
+[![Arduino Uno and a Breadboard](attachments/2025-01-06-arduino-uno-and-breadboard.jpg)](attachments/2025-01-06-arduino-uno-and-breadboard.jpg)
 
 <figcaption>
 

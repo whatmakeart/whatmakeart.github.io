@@ -1,10 +1,10 @@
 ---
 title: Fair Use
 date: 2023-05-23T21:59:41
-lastmod: 2024-11-30T18:23:24
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-In the United States, fair use allows people to use copyright works under certain circumstances. It is generally best to only use your own content and [public domain](./public-domain.md) content but it is important for to be familiar with fair use for creative projects or ideas that may require the use of copyrighted works made by others. In regards to fair use, someone might say, "5 under fives seconds of a song is ok to use." or "Less than 50% of a chapter is ok to use." but the law never mentions these often misquoted copyright myths. The only way to ultimately determine if using a copyrighted work is fair use is to find out in a court of law.  Courts use a four-part test to determine fair use. [^section-107]
+In the United States, fair use allows people to use copyright works under certain circumstances. It is generally best to only use your own content and [public domain](public-domain.md) content but it is important for to be familiar with fair use for creative projects or ideas that may require the use of copyrighted works made by others. In regards to fair use, someone might say, "5 under fives seconds of a song is ok to use." or "Less than 50% of a chapter is ok to use." but the law never mentions these often misquoted copyright myths. The only way to ultimately determine if using a copyrighted work is fair use is to find out in a court of law.  Courts use a four-part test to determine fair use. [^section-107]
 
 1. Is the use commercial or for non-profit education purposes?
 2. Is the original work creative or factual in nature?

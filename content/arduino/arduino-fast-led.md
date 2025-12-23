@@ -1,7 +1,7 @@
 ---
 title: Arduino FastLED
 date: 2023-06-17T15:21:02
-lastmod: 2023-09-07T20:33:19
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Arduino
   - Electronics
@@ -55,7 +55,7 @@ This diagrams below show how to wire up an addressable LED strip to an Arduino.
 <div class="gallery-grid">
 <figure>
 
-[![Wiring LED Strip to Arduino and Power Supply](./attachments/2023-rgb-led-strip-arduino.jpg)](./attachments/2023-rgb-led-strip-arduino.jpg)
+[![Wiring LED Strip to Arduino and Power Supply](attachments/2023-rgb-led-strip-arduino.jpg)](attachments/2023-rgb-led-strip-arduino.jpg)
 
 <figcaption>
 
@@ -67,7 +67,7 @@ Example wiring of and RGB LED strip to an Arduino
 
 <figure>
 
-[![Wiring LED Strip to Arduino and Power Supply with Resistor and Capacitor](./attachments/2023-rgb-led-strip-wiring-diagram-with-resistor-and-capacitor-tinkercad.jpg)](./attachments/2023-rgb-led-strip-wiring-diagram-with-resistor-and-capacitor-tinkercad.png)
+[![Wiring LED Strip to Arduino and Power Supply with Resistor and Capacitor](attachments/2023-rgb-led-strip-wiring-diagram-with-resistor-and-capacitor-tinkercad.jpg)](attachments/2023-rgb-led-strip-wiring-diagram-with-resistor-and-capacitor-tinkercad.png)
 
 <figcaption>
 

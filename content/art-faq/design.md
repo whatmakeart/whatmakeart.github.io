@@ -1,7 +1,7 @@
 ---
 title: Design
 date: 2023-05-23T21:59:41
-lastmod: 2025-09-18T07:50:38
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Design is an important process in making anything. Design can be good or bad. The term has different meanings depending on the context. It can refer to the process of making a design or designing an object. It can also mean the final design of the image or object.
@@ -10,7 +10,7 @@ Design is an important process in making anything. Design can be good or bad. Th
 
 The two most important principles of design are variety and unity. These exist on opposite ends of a spectrum and how much of each is included in a design greatly affects its success.
 
-1. [Depth](./depth.md) - refers to the illusion of visual depth in an image
+1. [Depth](depth.md) - refers to the illusion of visual depth in an image
 2. Motion
 3. Rhythm
 4. Flow
@@ -24,7 +24,7 @@ The two most important principles of design are variety and unity. These exist o
 12. Pattern
 13. Hierarchy
 14. Emphasis
-15. [Color](./color-theory.md)
+15. [Color](color-theory.md)
 
 ## Design Process
 
@@ -32,7 +32,7 @@ The design process is a fundamental way to approach making. Instead of trying to
 
 ### Design Techniques
 
-A [Charrette](./charrette.md) is a collaborative design process often used in urban planning.
+A [Charrette](charrette.md) is a collaborative design process often used in urban planning.
 
 ### Combine Image and Text
 
@@ -52,7 +52,7 @@ A [Charrette](./charrette.md) is a collaborative design process often used in ur
 
 ### Perspective
 
-- [Atmospheric Perspective](./atmospheric-perspective.md)
+- [Atmospheric Perspective](atmospheric-perspective.md)
 
 ### Visual Illusions
 

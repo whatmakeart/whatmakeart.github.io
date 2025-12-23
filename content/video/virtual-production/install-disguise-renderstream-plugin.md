@@ -1,7 +1,7 @@
 ---
 title: Install disguise RenderStream Plugin
 date: 2025-09-30T17:37:22
-lastmod: 2025-09-30T18:28:11
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="video-grid">
@@ -14,4 +14,4 @@ lastmod: 2025-09-30T18:28:11
 
 [Install RenderStream for Unreal Engine 5.5: Complete Setup Guide for disguise](https://youtu.be/BHl7JEeueDk)
 
-[![Install RenderStream for Unreal Engine 5.5: Complete Setup Guide for disguise](./attachments/install-disguise-renderstream-plugin.jpg)](https://youtu.be/BHl7JEeueDk)
+[![Install RenderStream for Unreal Engine 5.5: Complete Setup Guide for disguise](attachments/install-disguise-renderstream-plugin.jpg)](https://youtu.be/BHl7JEeueDk)

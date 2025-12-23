@@ -1,7 +1,7 @@
 ---
 title: 01.04 p5.js Introduction
 date: 2024-01-19T09:30:00Z
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## What is p5.js?
@@ -45,7 +45,7 @@ function draw() {
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/SYg862WYaic?si=XxzLlRN9jxMWpfa-?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-[p5.js Web Editor Basics](./p5-js-web-editor-basics.md)
+[p5.js Web Editor Basics](p5-js-web-editor-basics.md)
 
 ## Parts of a p5.js Program or Sketch
 
@@ -93,7 +93,7 @@ Different shapes can be drawn in p5.js such as triangles, circles (ellipses), li
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7U0wQlDod60?si=kL-nwYtDLqyy1VOt?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-[Basic Shapes in p5.js](./primitive-shapes-p5-js.md)
+[Basic Shapes in p5.js](primitive-shapes-p5-js.md)
 
 ### Color
 
@@ -113,7 +113,7 @@ These are completely saturated colors. A more pleasing color palette can be sele
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/uBj4dZmxONA?si=e3HsTRd8_PHR8KZo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-[Color in p5.js](./color-modes-p5-js.md)
+[Color in p5.js](color-modes-p5-js.md)
 
 ### Code Comments
 
@@ -138,7 +138,7 @@ An additional use for comments is to "comment out" parts of your code. When you 
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/A2pH3TOEgok?si=dv9BxZTB8orHlm8M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-[Code Comments](./code-comments-p5-js.md)
+[Code Comments](code-comments-p5-js.md)
 
 ### Errors in the Console
 
@@ -148,7 +148,7 @@ Errors will happen when coding. It is expected. When errors occur, look at the m
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6mqHhBcZrdw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-[Console p5.js](./console-p5-js.md)
+[Console p5.js](console-p5-js.md)
 
 ## References
 

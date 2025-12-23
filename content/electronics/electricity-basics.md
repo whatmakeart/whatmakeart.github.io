@@ -1,6 +1,6 @@
 ---
 title: Electricity Basics
-lastmod: 2025-01-12T05:22:14
+lastmod: 2025-12-23T10:12:35-04:00
 date: 2024-11-10T16:01:02
 tags:
   - Electronics
@@ -53,7 +53,7 @@ What does this mean in practice? Consider a couple extreme examples. [^petzold-1
 <div class="gallery-grid">
 <figure>
 
-[![Battery circuit with infinite resistance](./attachments/2025-01-10-battery-infinite-resistance-whatmakeart.png)](./attachments/2025-01-10-battery-infinite-resistance-whatmakeart.png)
+[![Battery circuit with infinite resistance](attachments/2025-01-10-battery-infinite-resistance-whatmakeart.png)](attachments/2025-01-10-battery-infinite-resistance-whatmakeart.png)
 
 <figcaption>
 
@@ -63,7 +63,7 @@ Battery with the near infinite resistance of the surrounding air
 </figure>
 <figure>
 
-[![Battery circuit with infinite current](./attachments/2025-01-10-battery-infinite-current-whatmakeart.png)](./attachments/2025-01-10-battery-infinite-current-whatmakeart.png)
+[![Battery circuit with infinite current](attachments/2025-01-10-battery-infinite-current-whatmakeart.png)](attachments/2025-01-10-battery-infinite-current-whatmakeart.png)
 
 <figcaption>
 
@@ -87,7 +87,7 @@ The formula for Watts is P = V \* I or Power (P) = Volts (V) x Current (I)
 
 <figure>
 
-[![Ohms and Watts Formula Circle](./attachments/2025-01-11-ohms-watts-circle-whatmakeart.png)](./attachments/2025-01-11-ohms-watts-circle-whatmakeart.png)
+[![Ohms and Watts Formula Circle](attachments/2025-01-11-ohms-watts-circle-whatmakeart.png)](attachments/2025-01-11-ohms-watts-circle-whatmakeart.png)
 
 <figcaption>
 

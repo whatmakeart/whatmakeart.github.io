@@ -1,7 +1,7 @@
 ---
 title: Laser Etched Relief Printing
 date: 2025-03-19T09:00:00
-lastmod: 2025-10-16T05:23:51
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Make sure the plate is not warped, it should lay flat on the press bed. Remember that the pulled print will be the inverse of the laser etching. The ink sticks to the raised "relief" parts of the plate or the "non-laser-etched" parts.
@@ -18,7 +18,7 @@ Make sure the plate is not warped, it should lay flat on the press bed. Remember
 
 <figure>
 
-[![Printmaking shellac sealing tools](./attachments/2025-10-15-printmaking-shellac-sealing-tools.jpg)](./attachments/2025-10-15-printmaking-shellac-sealing-tools.jpg)
+[![Printmaking shellac sealing tools](attachments/2025-10-15-printmaking-shellac-sealing-tools.jpg)](attachments/2025-10-15-printmaking-shellac-sealing-tools.jpg)
 
 <figcaption>
 
@@ -29,7 +29,7 @@ Printmaking Shellac Sealing Tools, (Diluted Shellac, Denatured Alcohol, Can Open
 
 <figure>
 
-[![Printmaking ventilated Table](./attachments/2025-10-15-printmaking-ventilated-table.jpg)](./attachments/2025-10-15-printmaking-ventilated-table.jpg)
+[![Printmaking ventilated Table](attachments/2025-10-15-printmaking-ventilated-table.jpg)](attachments/2025-10-15-printmaking-ventilated-table.jpg)
 
 <figcaption>
 
@@ -61,7 +61,7 @@ Printmaking Ventilated Table
 <div class="gallery-grid">
 <figure>
 
-[![Takach Floor Model Etching Press](./attachments/2025-10-15-takach-floor-model-etching-press.jpg)](./attachments/2025-10-15-takach-floor-model-etching-press.jpg)
+[![Takach Floor Model Etching Press](attachments/2025-10-15-takach-floor-model-etching-press.jpg)](attachments/2025-10-15-takach-floor-model-etching-press.jpg)
 
 <figcaption>
 
@@ -72,7 +72,7 @@ Takach Floor Model Etching Press
 
 <figure>
 
-[![Takach Etching Press Roller Pressure Handle](./attachments/2025-10-15-takach-etching-press-9-over-2-preasure-handle.jpg)](./attachments/2025-10-15-takach-etching-press-9-over-2-preasure-handle.jpg)
+[![Takach Etching Press Roller Pressure Handle](attachments/2025-10-15-takach-etching-press-9-over-2-preasure-handle.jpg)](attachments/2025-10-15-takach-etching-press-9-over-2-preasure-handle.jpg)
 
 <figcaption>
 
@@ -102,7 +102,7 @@ Takach Etching Press Roller Pressure Handle Showing "9 over 2" aka "9 covering 2
 
 <figure>
 
-[![Printmaking Ink Tools](./attachments/2025-10-15-printmaking-ink-tools.jpg)](./attachments/2025-10-15-printmaking-ink-tools.jpg)
+[![Printmaking Ink Tools](attachments/2025-10-15-printmaking-ink-tools.jpg)](attachments/2025-10-15-printmaking-ink-tools.jpg)
 
 <figcaption>
 
@@ -113,7 +113,7 @@ Printmaking Ink Tools, (Hyde Ink Knife, Razor Scraper, Matboard Scrap)
 
 <figure>
 
-[![Printmaking Inks in Tubs](./attachments/2025-10-15-print-making-ink-tubs.jpg)](./attachments/2025-10-15-print-making-ink-tubs.jpg)
+[![Printmaking Inks in Tubs](attachments/2025-10-15-print-making-ink-tubs.jpg)](attachments/2025-10-15-print-making-ink-tubs.jpg)
 
 <figcaption>
 

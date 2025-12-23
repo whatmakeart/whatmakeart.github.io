@@ -1,7 +1,7 @@
 ---
 title: Simple Render - Blender
 date: 2023-04-12T8:30:00-04:00
-lastmod: 2025-12-22T07:03:00
+lastmod: 2025-12-23T10:12:35-04:00
 description: In this Blender tutorial, I will show you how to create a simple render of a cube with a backdrop and two lights.
 featured_image: /3d-modeling/blender/attachments/blender-basic-render.jpg
 tags:
@@ -52,6 +52,6 @@ Once you are happy with the lighting, you can render the scene. To do this, go t
 
 ## Further Reading
 
-- [Blender Rendering Basics](./rendering-basics-blender.md)
-- [Blender Infinite Background](./infinite-background-blender.md)
-- [Blender Three Point Lighting Addon](./3-point-lighting-add-on-blender.md)
+- [Blender Rendering Basics](rendering-basics-blender.md)
+- [Blender Infinite Background](infinite-background-blender.md)
+- [Blender Three Point Lighting Addon](3-point-lighting-add-on-blender.md)

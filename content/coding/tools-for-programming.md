@@ -1,7 +1,7 @@
 ---
 title: Tools for Programming
 date: 2024-01-19T09:30:00Z
-lastmod: 2025-01-13T05:20:14
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 What tools are needed to program or code?
@@ -36,11 +36,11 @@ A web browser will allow you to preview web based programming projects and test 
 
 ## Programming Languages
 
-If you tell a human to draw a red circle in the middle of a page, unless they are newly born, they will understand what you mean and be able to execute the instructions. Computers do not understand this type of natural language instruction. This will likely change with ever developing Large Language Models (LLMs) and [AI](./ai-artificial-intelligence.md), but for now you need to use a specific programming language that the computer understands in order to give it instructions to follow.
+If you tell a human to draw a red circle in the middle of a page, unless they are newly born, they will understand what you mean and be able to execute the instructions. Computers do not understand this type of natural language instruction. This will likely change with ever developing Large Language Models (LLMs) and [AI](ai-artificial-intelligence.md), but for now you need to use a specific programming language that the computer understands in order to give it instructions to follow.
 
 - C
 - C++
-- [Javascript](./javascript.md)
+- [Javascript](javascript.md)
 - Python
 - Swift - [https://docs.swift.org/swift-book/](https://docs.swift.org/swift-book/)
 - Rust

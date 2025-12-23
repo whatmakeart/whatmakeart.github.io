@@ -1,7 +1,7 @@
 ---
 title: 03.06 Which Reality Video Ideation Assignment
 date: 2023-09-12T09:00:00
-lastmod: 2023-09-26T06:11:23
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,9 +11,9 @@ lastmod: 2023-09-26T06:11:23
 
 ## Overview
 
-Review the artists and videos on the [Abstract Video](../02-video-selection-tools-and-effects/02-09-abstract-video.md) page in this module as well as the artists and videos on the [green screen video art](./03-02-green-screen-video-art.md) page. Watch the videos, visit the artists' websites, go down algorithmic rabbit holes on YouTube and Vimeo. Make notes about what you find interesting and why.
+Review the artists and videos on the [Abstract Video](../02-video-selection-tools-and-effects/02-09-abstract-video.md) page in this module as well as the artists and videos on the [green screen video art](03-02-green-screen-video-art.md) page. Watch the videos, visit the artists' websites, go down algorithmic rabbit holes on YouTube and Vimeo. Make notes about what you find interesting and why.
 
-Review the criteria for the [Which Reality Video Assignment](./03-08-which-reality-green-screen-video-assignment.md). Use your video research as the basis for developing your own ideas and ideation about future abstract video creations a created reality video that uses abstract video, motion tracking and green screens.
+Review the criteria for the [Which Reality Video Assignment](03-08-which-reality-green-screen-video-assignment.md). Use your video research as the basis for developing your own ideas and ideation about future abstract video creations a created reality video that uses abstract video, motion tracking and green screens.
 
 ## Grading Rubric
 

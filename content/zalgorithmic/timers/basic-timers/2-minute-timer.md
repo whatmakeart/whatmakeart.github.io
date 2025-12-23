@@ -1,7 +1,7 @@
 ---
 title: 2 Minute Timer
 date: 2022-01-01T07:32:16
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 description: Discover the versatility of a 2 Minute Timer in enhancing productivity for cooking, studying, workouts, and more.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/2-minute-timer-2.jpg
 tags:
@@ -49,4 +49,4 @@ The 2 Minute Timer is more than just a time-tracking device; it's an ally in you
 
 Ready to enhance your productivity? Try the 2 Minute Timer today and experience the difference in your daily routine!
 
-[![2 Minute Timer](./attachments/2-minute-timer-2.jpg)](https://youtu.be/42EAQEXQR2Y)
+[![2 Minute Timer](attachments/2-minute-timer-2.jpg)](https://youtu.be/42EAQEXQR2Y)

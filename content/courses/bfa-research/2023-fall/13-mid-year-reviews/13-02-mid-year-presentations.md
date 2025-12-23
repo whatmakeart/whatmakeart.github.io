@@ -1,7 +1,7 @@
 ---
 title: 13.02 Mid-Year Presentations
 date: 2023-12-04T12:00:00
-lastmod: 2023-12-10T14:56:24
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2023-12-10T14:56:24
 
 ## Overview
 
-This week students present work for their mid-year review. Requirements for mid-year reviews from the [BFA Thesis Committee guidelines](./2023-2024_VA_BFA_Thesis_Committee.pdf) are listed below. Please refer to the form for clarification.
+This week students present work for their mid-year review. Requirements for mid-year reviews from the [BFA Thesis Committee guidelines](2023-2024_VA_BFA_Thesis_Committee.pdf) are listed below. Please refer to the form for clarification.
 
 ### VA BFA Midyear Evaluation Form 2022/2023 [^1]
 
@@ -45,4 +45,4 @@ The rubric is based on the evaluation criteria on the mid-year review form.
 
 </div>
 
-[^1]: Student requirements from Visual Arts ["2023 - 2024 VA BFA Thesis Committee" document](./2023-2024_VA_BFA_Thesis_Committee.pdf)
+[^1]: Student requirements from Visual Arts ["2023 - 2024 VA BFA Thesis Committee" document](2023-2024_VA_BFA_Thesis_Committee.pdf)

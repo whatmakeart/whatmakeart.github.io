@@ -1,7 +1,7 @@
 ---
 title: How to Use Wood Chisels
 date: 2023-10-02T06:28:03
-lastmod: 2023-10-02T06:29:47
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Fabrication
 ---
@@ -11,7 +11,7 @@ Wood chisels can be used for a variety of woodworking tasks, such as shaping woo
 ## Wood Chisel Safety
 
 - Wear safety glasses to protect your eyes from flying chips.
-- Use a sharp chisel. A dull chisel is more likely to slip and cause an injury. [How to sharpen a chisel](./how-to-sharpen-a-chisel.md)
+- Use a sharp chisel. A dull chisel is more likely to slip and cause an injury. [How to sharpen a chisel](how-to-sharpen-a-chisel.md)
 - Always cut away from your body.
 - Keep your hands behind the chisel blade.
 

@@ -1,10 +1,10 @@
 ---
 title: Cardboard Construction
 date: 2023-06-14T05:51:08
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-Cardboard is a great material for making prototypes and models. As a [material for making](./materials-for-making.md), it is relatively cheap, easy to find, strong and lightweight. During [fabrication](../making/fabrication.md) it can be cut, sanded, bent, fastened and glued. Multiple layers of cardboard can be built up to make a panel a desired thickness or to build a [scale cardboard to plywood](./scale-cardboard-to-plywood.md).
+Cardboard is a great material for making prototypes and models. As a [material for making](materials-for-making.md), it is relatively cheap, easy to find, strong and lightweight. During [fabrication](../making/fabrication.md) it can be cut, sanded, bent, fastened and glued. Multiple layers of cardboard can be built up to make a panel a desired thickness or to build a [scale cardboard to plywood](scale-cardboard-to-plywood.md).
 
 Tab and slot cardboard construction techniques allow a design to assemble and disassemble without glue. This can be helpful when a design might be changed or when the final design may also use slot and tab construction such as in laser cutting.
 

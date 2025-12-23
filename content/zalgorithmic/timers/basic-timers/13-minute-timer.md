@@ -1,7 +1,7 @@
 ---
 title: 13 Minute Timer
 date: 2023-05-15T8:30:00-04:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 description: This video features a 13 minute countdown timer with an abstract animated background.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/13-minute-timer.jpg
 tags:
@@ -29,4 +29,4 @@ This video features a [13 minute countdown timer](https://youtu.be/7Vfls3dJLZI) 
 - Add a touch of style and sophistication to your projects
 - Perfect for presentations, videos, and more
 
-[![13 Minute Timer](./attachments/13-minute-timer.jpg)](https://youtu.be/7Vfls3dJLZI)
+[![13 Minute Timer](attachments/13-minute-timer.jpg)](https://youtu.be/7Vfls3dJLZI)

@@ -1,7 +1,7 @@
 ---
 title: Prepare DXF File for Laser Cutting
 date: 2023-06-14T13:02:24
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 - [Illustrator DXF to Epilog Laser Cutter Prep](https://youtu.be/FhIUHIMpJMY)
@@ -31,19 +31,19 @@ Open Adobe Illustrator
 
 - Change the document settings so the units are millimeters and not points or pixels
 
-[![Illustrator Document Settings Units to millimeters](./attachments/2024-02-01-document-setup-ilustrator-millimeters.png)](./attachments/2024-02-01-document-setup-ilustrator-millimeters.png)
+[![Illustrator Document Settings Units to millimeters](attachments/2024-02-01-document-setup-ilustrator-millimeters.png)](attachments/2024-02-01-document-setup-ilustrator-millimeters.png)
 
 - Confirm the scale of the drawing by measuring a known distance
 - If you used [boxes.py](https://www.festi.info/boxes.py/) to make your cut file, it has an option to include a 100 mm rectangle for dimension confirmation. An SVG export from [boxes.py](https://www.festi.info/boxes.py/) should show the rectangle as having a 100 mm with if Illustrator's document units are set to millimeters
 - If you made the cut file from Fusion 360 or other 3D modeling software, then confirm a known dimension from your design. If you added a kerf adjustment, make sure to take that into account when measuring in Illustrator.
 
-[![Confirm the scale of a known distance or dimension](./attachments/2024-02-01-confirm-known-dimensions-illustrator.png)](./attachments/2024-02-01-confirm-known-dimensions-illustrator.png)
+[![Confirm the scale of a known distance or dimension](attachments/2024-02-01-confirm-known-dimensions-illustrator.png)](attachments/2024-02-01-confirm-known-dimensions-illustrator.png)
 
 - Adjust the Artboard to the correct size to contain your drawing
 - Think of the Artboard as your raw material, it should not be larger than the material you will cut on the laser cutter
 - If the Artboard is real world size, and your drawing does not fit on the Artboard then something is wrong and you should double check your measurements
 
-![Illustrator Artboard Settings](./attachments/artboard-settings.png)
+![Illustrator Artboard Settings](attachments/artboard-settings.png)
 
 - Make sure all paths that will be cut through are individually "closed"
 - To close a path, select all of the segments and "join" them by pressing Command J or Control J
@@ -53,7 +53,7 @@ Open Adobe Illustrator
 - Change stroke width to .001 points
 - Any red stroke with a width of .001 will be cut all the way through.
 
-![Change Stroke Color](./attachments/red-stroke.png)
+![Change Stroke Color](attachments/red-stroke.png)
 
 - Select the Path
 - Set the Fill to transparent
@@ -61,7 +61,7 @@ Open Adobe Illustrator
 - Change stroke width to .5 points
 - Any blue stroke with a width of .5 will be etched.
 
-![Change Stroke Color to Blue](./attachments/blue-stroke.png)
+![Change Stroke Color to Blue](attachments/blue-stroke.png)
 
 - Save your file
 - Upload to Google Drive for later access

@@ -1,7 +1,7 @@
 ---
 title: 11.06 Artist Website Portfolio Assignment
 date: 2025-11-06T09:00:00Z
-lastmod: 2025-11-20T06:45:44
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -13,7 +13,7 @@ lastmod: 2025-11-20T06:45:44
 
 ## Assignment Overview
 
-An online presence can be cruicial for a creative professional's career and for sharing their work. While it is [not necessary to have a website to be an artist](./11-04-artist-website-portfolio.md), it is a good idea to have an online portfolio unless you have a specific reason to not have one.
+An online presence can be cruicial for a creative professional's career and for sharing their work. While it is [not necessary to have a website to be an artist](11-04-artist-website-portfolio.md), it is a good idea to have an online portfolio unless you have a specific reason to not have one.
 
 ### Prepare Images
 

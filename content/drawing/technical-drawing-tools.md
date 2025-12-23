@@ -1,7 +1,7 @@
 ---
 title: Technical Drawing Tools
 date: 2023-05-26T02:34:30
-lastmod: 2025-09-30T18:49:07
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -18,4 +18,4 @@ lastmod: 2025-09-30T18:49:07
 - Protractor
 - Tape
 - [Digital Calipers](../making/how-to-use-digital-calipers.md)
-- [Architectural and Engineering Scale](./how-to-use-architectural-and-engineering-scales.md)
+- [Architectural and Engineering Scale](how-to-use-architectural-and-engineering-scales.md)

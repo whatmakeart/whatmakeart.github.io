@@ -1,16 +1,16 @@
 ---
 title: p5.js Conditional Statement Ball Bounce
 date: 2024-01-24T05:13:57
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/y14SpHKL1gg?si=XlEGEaZWYJ_C8yf-?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-In this "Programming for Artists" tutorial, we're going to enhance a simple animation of a ball moving across the screen in a programming environment, using [JavaScript](../javascript.md) with the graphical library p5.js. From the [previous tutorial](./conditional-statements-p5-js.md), the initial state of the program has the ball moving in one direction until it goes off-screen. Our goal is to modify the code so that the ball bounces back when it reaches the edge of the screen.
+In this "Programming for Artists" tutorial, we're going to enhance a simple animation of a ball moving across the screen in a programming environment, using [JavaScript](../javascript.md) with the graphical library p5.js. From the [previous tutorial](conditional-statements-p5-js.md), the initial state of the program has the ball moving in one direction until it goes off-screen. Our goal is to modify the code so that the ball bounces back when it reaches the edge of the screen.
 
-Initially, the ball's movement is controlled by using the [increment operator](./increment-operator-p5-js.md) to incrementally increase the [variable](./variables-p5-js.md) for the `x` coordinate, causing it to move horizontally and by incrementally increasing the variable for the `y` coordinate, causing it to move in the vertical direction. To make the ball bounce back, we introduce a `speedX` variable set to 1. This variable is used to modify the `x` value (`x = x + speedX`). This gives the same functionality as the original. In order to reverse the direction of the ball's movement when the ball reaches the screen's width, we multiply `speedX` by -1 to change the sign of the variable.
+Initially, the ball's movement is controlled by using the [increment operator](increment-operator-p5-js.md) to incrementally increase the [variable](variables-p5-js.md) for the `x` coordinate, causing it to move horizontally and by incrementally increasing the variable for the `y` coordinate, causing it to move in the vertical direction. To make the ball bounce back, we introduce a `speedX` variable set to 1. This variable is used to modify the `x` value (`x = x + speedX`). This gives the same functionality as the original. In order to reverse the direction of the ball's movement when the ball reaches the screen's width, we multiply `speedX` by -1 to change the sign of the variable.
 
 To create a similar vertical movement, we introduce a `speedY` variable and apply the same logic. The ball's vertical position is updated by `y = y + speedY`. Conditional statements are used to check if the ball exceeds the screen's boundaries (both width and height), and if so, the respective speed variable (`speedX` or `speedY`) is multiplied by -1 to reverse the direction.
 
@@ -64,7 +64,7 @@ function draw() {
 }
 ```
 
-[![if OR conditional ball bounce javascript p5.js](./attachments/if-or-conditional-ball-bounce-thumb.jpg)](./attachments/if-or-conditional-ball-bounce-thumb.jpg)
+[![if OR conditional ball bounce javascript p5.js](attachments/if-or-conditional-ball-bounce-thumb.jpg)](attachments/if-or-conditional-ball-bounce-thumb.jpg)
 
 ## p5.js Ball Bounce Video Transcript
 

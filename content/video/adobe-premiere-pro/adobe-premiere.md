@@ -1,14 +1,14 @@
 ---
 title: Adobe Premiere
 date: 2023-05-26T03:29:06
-lastmod: 2025-12-06T06:32:58
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Adobe Premiere Pro Basics
 
 ### Importing footage
 
-The first step is to import your footage into Premiere Pro. You can do this by dragging and dropping files into the Project panel, or by using the Import command from the file menu. [How to import video footage into Premiere Pro](./how-to-import-video-into-premiere-pro.md)
+The first step is to import your footage into Premiere Pro. You can do this by dragging and dropping files into the Project panel, or by using the Import command from the file menu. [How to import video footage into Premiere Pro](how-to-import-video-into-premiere-pro.md)
 
 ### Organizing your footage
 
@@ -37,23 +37,23 @@ Once you are finished editing your video, you can export it to a variety of form
 
 ## Adobe Premiere Pro Getting Started Tutorials
 
-- [Import Video Footage](./how-to-import-video-into-premiere-pro.md)
+- [Import Video Footage](how-to-import-video-into-premiere-pro.md)
 
 ## Adobe Premiere Pro Video Tutorials
 
-- [Adobe Premiere Add Music and Sound](./adobe-premiere-add-music-and-sound.md)
-- [Adobe Premiere Import Image Sequence](./adobe-premiere-import-image-sequence.md)
+- [Adobe Premiere Add Music and Sound](adobe-premiere-add-music-and-sound.md)
+- [Adobe Premiere Import Image Sequence](adobe-premiere-import-image-sequence.md)
 
 ## Adobe Premiere Green Screen Tutorials
 
-- [Key Out Green Screen With Ultra Key](./adobe-premiere-green-screen-ultrakey-tutorial.md)
-- [Better Keying with Stacked Ultra Key Effects](./better-green-screen-adobe-premiere-stacked-ultra-key-effects.md)
+- [Key Out Green Screen With Ultra Key](adobe-premiere-green-screen-ultrakey-tutorial.md)
+- [Better Keying with Stacked Ultra Key Effects](better-green-screen-adobe-premiere-stacked-ultra-key-effects.md)
 
 ## Adobe Premiere Pro VFX Tutorials
 
-- [Video Double Effect](./doppelganger-effect-tutorial-adobe-premiere-pro.md)
-- [Run Fast Effect](./adobe-premiere-run-fast-special-effect-tutorial.md)
-- [Flying Effect](./flying-visual-effect-tutorial-adobe-premiere.md)
-- [Fire Finger Effect](./fire-finger-special-effect-tutorial-adobe-premiere.md)
-- [Teleport Effect](./teleport-special-effect-tutorial-using-adobe-premiere.md)
-- [Magic Wand Effect](./glowing-tip-magic-wand-effect-adobe-premiere.md)
+- [Video Double Effect](doppelganger-effect-tutorial-adobe-premiere-pro.md)
+- [Run Fast Effect](adobe-premiere-run-fast-special-effect-tutorial.md)
+- [Flying Effect](flying-visual-effect-tutorial-adobe-premiere.md)
+- [Fire Finger Effect](fire-finger-special-effect-tutorial-adobe-premiere.md)
+- [Teleport Effect](teleport-special-effect-tutorial-using-adobe-premiere.md)
+- [Magic Wand Effect](glowing-tip-magic-wand-effect-adobe-premiere.md)

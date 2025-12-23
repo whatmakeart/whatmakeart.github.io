@@ -1,7 +1,7 @@
 ---
 title: Narrative Arc
 date: 2023-05-23T21:59:41
-lastmod: 2025-03-20T11:33:35
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## What is a Narrative Arc?
@@ -36,7 +36,7 @@ A [Story Spine](story-spine.md) is simple method to break a story down into 9 pa
 
 Writing a Story Spine and Storyboards will give you an outline and direction to work from. Rather than working with everything possible in the universe, a Story Spine and Story Boards will narrow the scope and set limitations that you can work creatively within.
 
-[Link to Blank Fillable Story Spine Sheet](./attachments/story-spine-sheet.docx)
+[Link to Blank Fillable Story Spine Sheet](attachments/story-spine-sheet.docx)
 
 ### Story Spine Structure
 

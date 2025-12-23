@@ -1,7 +1,7 @@
 ---
 title: Woodworking
 date: 2023-05-23T21:59:40
-lastmod: 2024-12-06T05:36:42
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Woodworking is the manipulation of wood material into new forms and designs. Wood can be cut and joined together with [Wood-Joints](wood-joints.md), [Wood-Fasteners](wood-fasteners.md), and [wood glue](wood-glue.md).
@@ -12,12 +12,12 @@ Woodworking is the manipulation of wood material into new forms and designs. Woo
 
 - [How to Use a Panel Saw](how-to-use-a-panel-saw.md)
 - [How to Use a Table Saw](how-to-use-a-table-saw.md)
-- [How to Use a Compound Miter Saw](./how-to-use-a-compound-miter-saw.md)
+- [How to Use a Compound Miter Saw](how-to-use-a-compound-miter-saw.md)
 - [How to Use a Bandsaw](how-to-use-a-bandsaw.md)
 - [How to use a Scrollsaw](how-to-use-a-scroll-saw.md)
 - [How to Use a Crosscut Sled](how-to-use-a-crosscut-sled.md)
 - [How to Rip a Board](how-to-rip-a-board.md)
-- [How to Identify the Crown of a Board](./how-to-identify-the-crown-of-a-board.md)
+- [How to Identify the Crown of a Board](how-to-identify-the-crown-of-a-board.md)
 - [How to Support Long Boards for Cutting](how-to-support-long-boards-for-cutting.md)
 - [How to Use a Stopblock to Make Repeatable Cuts](how-to-use-a-stopblock-to-make-repeatable-cuts.md)
 - [How To Use a Feather Board](how-to-use-a-feather-board.md)
@@ -55,7 +55,7 @@ Woodworking is the manipulation of wood material into new forms and designs. Woo
 - [How to Use Driver Drills](how-to-use-a-driver-drill.md)
 - [Countersinking](../making/countersinking.md)
 - [How to Use. Wood Clamps](how-to-use-Wood-clamps.md)
-- [How to Use Wood Glue](./how-to-use-wood-glue.md)
+- [How to Use Wood Glue](how-to-use-wood-glue.md)
 - [How to Use Wood Dowels](how-to-use-wood-dowels.md)
 - [How to Use Wood Biscuits](how-to-use-wood-biscuits.md)
 - [how-to-build-a-wall](../making/how-to-build-a-wall.md)

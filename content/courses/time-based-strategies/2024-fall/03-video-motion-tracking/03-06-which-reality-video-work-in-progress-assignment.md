@@ -1,7 +1,7 @@
 ---
 title: 03.07 Which Reality Video Work in Progress Assignment
 date: 2024-09-10T12:00:00
-lastmod: 2024-09-17T12:37:46
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -17,7 +17,7 @@ Any state of completion is ok, the final video is not due until next week. This 
 
 Work on your project shooting footage and editing. Upload a snapshot of your progress to date. There is no need to polish the work in progress, it is simply a record of what has been completed so far so it can be assessed by the group while there is still time to work on the project. This way the final version of the project has an opportunity to improve.
 
-Take another look at the criteria for the [Which Reality Video Assignment](./03-07-which-reality-video-assignment.md) and reflect on your project, describing what you have completed on the video and what you plan to complete to finish it.
+Take another look at the criteria for the [Which Reality Video Assignment](03-07-which-reality-video-assignment.md) and reflect on your project, describing what you have completed on the video and what you plan to complete to finish it.
 
 ## Grading Rubric
 

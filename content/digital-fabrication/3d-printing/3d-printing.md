@@ -1,7 +1,7 @@
 ---
 title: 3D Printing
 date: 2023-05-23T21:59:42
-lastmod: 2025-10-13T06:02:04
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 3D Printing is an [additive-processes](../../sculpture/additive-processes.md) of [fabrication](../../making/fabrication.md).
@@ -40,25 +40,25 @@ After the printing process is complete, the loose powder is removed from the bui
 
 ## Creating Models for 3D Printing
 
-[3D modeling software](../../3d-modeling/3d-modeling-software.md) is used to create the digital design or model that will be translated into G-code for printing on a 3D printer. Depending on the type of 3D printer specific [3D print design guidelines](./3d-print-design-guidelines.md) should be followed.
+[3D modeling software](../../3d-modeling/3d-modeling-software.md) is used to create the digital design or model that will be translated into G-code for printing on a 3D printer. Depending on the type of 3D printer specific [3D print design guidelines](3d-print-design-guidelines.md) should be followed.
 
 ### Making STL Files
 
-- [Export STL from Blender](./export-stl-blender.md)
-- [Export STL from Fusion 360](./export-stl-fusion-360.md)
-- [Export STL from Maya](./export-stl-maya.md)
+- [Export STL from Blender](export-stl-blender.md)
+- [Export STL from Fusion 360](export-stl-fusion-360.md)
+- [Export STL from Maya](export-stl-maya.md)
 
 ### 3D Print Slicers
 
 #### Bambu Studio
 
-- [Bambu Studio Installation](./bambu-studio-installation.md)
-- [Import STL into Bambu Studio](./import-stl-into-bambu-studio.md)
+- [Bambu Studio Installation](bambu-studio-installation.md)
+- [Import STL into Bambu Studio](import-stl-into-bambu-studio.md)
 
 #### Cura
 
-- [Cura Slicing Basics](./cura-slicing-basics.md)
-- [How to Orbit in Cura](./how-to-orbit-in-ultimaker-cura.md)
+- [Cura Slicing Basics](cura-slicing-basics.md)
+- [How to Orbit in Cura](how-to-orbit-in-ultimaker-cura.md)
 
 ## Gluing 3D Prints
 
@@ -68,14 +68,14 @@ ABS plastic has more glueing options than the PLA plastic. Plastic solvent glues
 
 ## Further Reading
 
-- [3D Printing Terms](./3d-printing-terms.md)
-- [3D Print Design Guidelines](./3d-print-design-guidelines.md)
+- [3D Printing Terms](3d-printing-terms.md)
+- [3D Print Design Guidelines](3d-print-design-guidelines.md)
 
 ### Example Modeling Tutorials
 
-- [3D Print Modeling in Fusion 360](./3d-print-modeling-fusion-360.md)
+- [3D Print Modeling in Fusion 360](3d-print-modeling-fusion-360.md)
 - [Print in Place Hinge](print-in-place-hinge.md)
-- [3D Print in Place Ball and Socket Hinge](./3d-print-in-place-ball-and-socket-hinge-fusion-360.md)
+- [3D Print in Place Ball and Socket Hinge](3d-print-in-place-ball-and-socket-hinge-fusion-360.md)
 
 ### External Links
 

@@ -1,7 +1,7 @@
 ---
 title: 01.09 3D Modeling Installation Ideation Blender
 date: 2023-08-25T09:30:00Z
-lastmod: 2024-02-22T06:45:54
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Once a 3D model of an exhibition space is made in Blender, it can easily be duplicated inside the software. This is like having multiple blank templates to create sketches and ideas in. By creating approximate sized objects representing an installation concept inside a to scale 3D model, you can quickly get a sense of how it will look in the space and if a particular idea is worth pursuing.
@@ -14,7 +14,7 @@ Blender allows the creation of cameras. It is useful to create a few cameras of 
 
 <figure>
 
-[![Example of duplicating Model in Blender](./2023-3D-Modeling-interation-Blender-Example.png)](./2023-3D-Modeling-interation-Blender-Example.png)
+[![Example of duplicating Model in Blender](2023-3D-Modeling-interation-Blender-Example.png)](2023-3D-Modeling-interation-Blender-Example.png)
 
 <figcaption>
 

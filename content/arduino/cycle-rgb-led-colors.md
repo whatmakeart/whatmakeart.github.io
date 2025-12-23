@@ -1,7 +1,7 @@
 ---
 title: Cycle RGB LED Colors
 date: 2023-06-17T15:15:05
-lastmod: 2023-09-07T20:34:03
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Arduino
   - Electronics
@@ -24,7 +24,7 @@ tags:
 
 <figure>
 
-[![RGB LED Circuit](./attachments/2023-rgb-led-cycle-colors-circuit.png)](./attachments/2023-rgb-led-cycle-colors-circuit.png)
+[![RGB LED Circuit](attachments/2023-rgb-led-cycle-colors-circuit.png)](attachments/2023-rgb-led-cycle-colors-circuit.png)
 
 <figcaption>
 

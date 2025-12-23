@@ -1,7 +1,7 @@
 ---
 title: Auto Rig with Mixamo and Import into Blender
 date: 2023-12-05T05:28:46
-lastmod: 2025-12-22T06:59:29
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Tutorial
   - Blender
@@ -15,7 +15,7 @@ tags:
 
 ## Guide to 3D Modeling and Animation with Adobe Mixamo
 
-[![Auto Rigging in Mixamo](./attachments/20231205-auto-rigging-in-mixamo.png)](./attachments/20231205-auto-rigging-in-mixamo.png)
+[![Auto Rigging in Mixamo](attachments/20231205-auto-rigging-in-mixamo.png)](attachments/20231205-auto-rigging-in-mixamo.png)
 
 1. **Introduction to Mixamo**
 
@@ -52,8 +52,8 @@ tags:
 
 - Links to:
 - [Adobe Mixamo](https://www.mixamo.com/)
-- [Blender](./blender.md)
+- [Blender](blender.md)
 - [Maya](../maya/maya.md)
-- [Embed Textures in FBX File in Blender](./embed-textures-in-fbx-export-blender.md)
+- [Embed Textures in FBX File in Blender](embed-textures-in-fbx-export-blender.md)
 
-[![Mixamo Auto Rig Video Tutorial](./attachments/20231205-mixamo-auto-rig.jpg)](https://youtu.be/0-FWVd6oCXg)
+[![Mixamo Auto Rig Video Tutorial](attachments/20231205-mixamo-auto-rig.jpg)](https://youtu.be/0-FWVd6oCXg)

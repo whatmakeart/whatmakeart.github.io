@@ -1,7 +1,7 @@
 ---
 title: CSS
 date: 2023-05-23T21:59:41
-lastmod: 2024-09-19T17:52:22
+lastmod: 2025-12-23T10:12:35-04:00
 tags: CSS
 ---
 
@@ -9,7 +9,7 @@ CSS stands for Cascading Style Sheets and is the language used for the visual st
 
 ## CSS Tutorials
 
-- [CSS Crash Course](./css-crash-course.md)
+- [CSS Crash Course](css-crash-course.md)
 
 ## CSS Articles
 

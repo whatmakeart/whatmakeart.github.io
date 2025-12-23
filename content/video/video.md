@@ -1,18 +1,18 @@
 ---
 title: Video
 date: 2023-05-23T21:59:40
-lastmod: 2025-12-17T07:22:04
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Narrative Video Structure
 
-A [Story Spine](./story-spine.md) can be used to develop a 3 part [Narrative-Arc](./narrative-arc.md) to structure a video.
+A [Story Spine](story-spine.md) can be used to develop a 3 part [Narrative-Arc](narrative-arc.md) to structure a video.
 
 ## Video Installation Techniques
 
-[Video Wall](./video-wall.md) consists of multiple video screens and / or projectors playing linked contend in a multi-channel video installation.
+[Video Wall](video-wall.md) consists of multiple video screens and / or projectors playing linked contend in a multi-channel video installation.
 
-Digital video files are saved in different formats called [video codecs](./video-codecs.md).
+Digital video files are saved in different formats called [video codecs](video-codecs.md).
 
 ## External Links
 

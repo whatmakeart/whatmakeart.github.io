@@ -1,7 +1,7 @@
 ---
 title: Projection Mapping Software
 date: 2023-09-29T06:00:14
-lastmod: 2024-10-14T20:32:39
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Projection Mapping Content Creation Resources
@@ -41,4 +41,4 @@ lastmod: 2024-10-14T20:32:39
 - [Scalable Display Technologies](https://www.scalabledisplay.com/) - multi projector automated alignment software
 - [Mapping Matter](https://www.mappingmatter.com/) - projection mapping simulation and iteration software rather than for content creation
 
-- [Projection Mapping Examples](./projection-mapping-examples.md)
+- [Projection Mapping Examples](projection-mapping-examples.md)

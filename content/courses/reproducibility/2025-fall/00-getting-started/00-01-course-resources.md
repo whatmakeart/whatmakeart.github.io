@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2025-08-27T12:00:00
-lastmod: 2025-12-03T10:29:20
+lastmod: 2025-12-23T10:14:07-04:00
 ---
 
 ## Technical and Reference Resources

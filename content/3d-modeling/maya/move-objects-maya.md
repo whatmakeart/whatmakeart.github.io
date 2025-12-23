@@ -1,7 +1,7 @@
 ---
 title: Move Objects in Maya
 date: 2025-03-06T04:28:55
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Maya
   - Tutorial
@@ -13,7 +13,7 @@ tags:
 
 [Move Objects Maya](https://youtu.be/fda8xMeOADI)
 
-[![Move objects in Maya](./attachments/maya-move-objects-thumb.jpg)](https://youtu.be/fda8xMeOADI)
+[![Move objects in Maya](attachments/maya-move-objects-thumb.jpg)](https://youtu.be/fda8xMeOADI)
 
 <details>
 <summary>
@@ -22,7 +22,7 @@ tags:
 
 </summary>
 
-In this [Autodesk Maya](./maya.md) tutorial, I'm going to show you how you can move and manipulate objects in Maya.
+In this [Autodesk Maya](maya.md) tutorial, I'm going to show you how you can move and manipulate objects in Maya.
 
 When you see these green lines, that means you are in object mode. If you press w on your keyboard, that'll bring up the move tool. I can click on the move tool gizmo and move in different directions. So if I click on this axis then I move that way. This will move it back. This will move it up in the y axis.
 

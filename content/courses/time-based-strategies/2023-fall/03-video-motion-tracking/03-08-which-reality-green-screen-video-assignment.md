@@ -1,7 +1,7 @@
 ---
 title: 03.08 Which Reality Green Screen Video Assignment
 date: 2023-09-12T09:00:00
-lastmod: 2023-09-23T17:21:02
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -13,7 +13,7 @@ lastmod: 2023-09-23T17:21:02
 
 ## Assignment Overview
 
-Review the examples of [abstract video](../02-video-selection-tools-and-effects/02-09-abstract-video.md) from the previous week as well as the [green screen video art examples](./03-02-green-screen-video-art.md) from this week. Note different techniques used in the videos to create new realities. Consider how the separation of a character or object from its original context allows for the construction of new visuals and constructed spaces.
+Review the examples of [abstract video](../02-video-selection-tools-and-effects/02-09-abstract-video.md) from the previous week as well as the [green screen video art examples](03-02-green-screen-video-art.md) from this week. Note different techniques used in the videos to create new realities. Consider how the separation of a character or object from its original context allows for the construction of new visuals and constructed spaces.
 
 Use a combination of chroma keying, rotoscoping, luma keys, generative video, found footage, sounds, 3D environments and other video compositing techniques to answer the question, "Which reality?" Is this reality or is it an illusion? How do we know what is real when human perceptions are disconnected from the nature of the universe?
 

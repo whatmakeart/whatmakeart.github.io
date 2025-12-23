@@ -1,7 +1,7 @@
 ---
 title: 02.13 Interactive Sculpture
 date: 2025-01-27T12:00:00Z
-lastmod: 2025-01-27T20:08:15
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -51,7 +51,7 @@ Don't hesitate to ask for help with:
 
 #### Example Interactive Servo Prompt
 
-Include all of the code from the [WiFiAccessPoint example](./02-12-wireless-button-led.md) with one of these prompts or make your own.
+Include all of the code from the [WiFiAccessPoint example](02-12-wireless-button-led.md) with one of these prompts or make your own.
 
 - _"Adapt the included code to serve a webpage with buttons that turn the LED on and off. Include a slider control thst controls the sweep of a servo motor. Also include an 'auto servo' button that initiates a series of servo motions that increase in size in speed until hitting max and then decreasing size and speed. This cycle would loop, with subtle randomness until input is detected from the slider control. If the 'auto servo' button is pressed again then the servo loop starts again, also include a servo stop button that stops the servo loop."_
 

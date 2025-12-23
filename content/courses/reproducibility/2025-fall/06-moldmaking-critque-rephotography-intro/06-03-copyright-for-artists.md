@@ -1,7 +1,7 @@
 ---
 title: 06.03 Copyright for Artists
 date: 2025-10-01T12:00:00
-lastmod: 2025-08-20T15:21:27
+lastmod: 2025-12-23T10:14:07-04:00
 toc: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 12.02 Sound Art Workshop 1st Meeting
 date: 2024-11-19T12:00:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Sound Art Workshop Session Notes [^drake-notes]
@@ -93,4 +93,4 @@ Prototype sculptural devices which simulate the playing / sounding actions stude
 
 ## References
 
-[^drake-notes]: All content written by [Bob Drake](./12-01-bob-drake.md), included with permission and slightly modified to fit into course formatting.
+[^drake-notes]: All content written by [Bob Drake](12-01-bob-drake.md), included with permission and slightly modified to fit into course formatting.

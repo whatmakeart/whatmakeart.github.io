@@ -1,7 +1,7 @@
 ---
 title: Installation Art
 date: 2023-07-10T16:51:25
-lastmod: 2024-09-04T05:40:51
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## What is Installation Art?
@@ -100,7 +100,7 @@ If an installation is intended to only work in a certain location it is consider
 <div class="gallery-grid">
 <figure>
 
-[![ACHAEOLOGY by Judy Pfaff](./attachments/2021A53_ARCHAEOLOGY-by-Judy-Pfaff-photo-by-Peter-Aaron.jpeg)](./attachments/2021A53_ARCHAEOLOGY-by-Judy-Pfaff-photo-by-Peter-Aaron.jpeg)
+[![ACHAEOLOGY by Judy Pfaff](attachments/2021A53_ARCHAEOLOGY-by-Judy-Pfaff-photo-by-Peter-Aaron.jpeg)](attachments/2021A53_ARCHAEOLOGY-by-Judy-Pfaff-photo-by-Peter-Aaron.jpeg)
 
 <figcaption>
 
@@ -111,7 +111,7 @@ AR.CHAE.OL.O.GY by [Judy Pfaff](https://www.judypfaffstudio.com/) from 2021. Pho
 
 <figure>
 
-[![Flow of Life by Chiharu Shiota](./attachments/2017_Flow-of-Life_by-Chiharu-Shiota_Shanghai_Photo-Jiang-Wenyi-web.jpg)](./attachments/2017_Flow-of-Life_by-Chiharu-Shiota_Shanghai_Photo-Jiang-Wenyi-web.jpg)
+[![Flow of Life by Chiharu Shiota](attachments/2017_Flow-of-Life_by-Chiharu-Shiota_Shanghai_Photo-Jiang-Wenyi-web.jpg)](attachments/2017_Flow-of-Life_by-Chiharu-Shiota_Shanghai_Photo-Jiang-Wenyi-web.jpg)
 
 <figcaption>
 
@@ -127,7 +127,7 @@ AR.CHAE.OL.O.GY by [Judy Pfaff](https://www.judypfaffstudio.com/) from 2021. Pho
 
 <figure>
 
-[![Beyond Memory by Chiharu Shiota](./attachments/2019_Beyond-Memory_by-Chiharu-Shiota_Gropius-Bau_photo-Sunhi-Mang-web.jpg)](./attachments/2019_Beyond-Memory_by-Chiharu-Shiota_Gropius-Bau_photo-Sunhi-Mang-web.jpg)
+[![Beyond Memory by Chiharu Shiota](attachments/2019_Beyond-Memory_by-Chiharu-Shiota_Gropius-Bau_photo-Sunhi-Mang-web.jpg)](attachments/2019_Beyond-Memory_by-Chiharu-Shiota_Gropius-Bau_photo-Sunhi-Mang-web.jpg)
 
 <figcaption>
 
@@ -143,7 +143,7 @@ AR.CHAE.OL.O.GY by [Judy Pfaff](https://www.judypfaffstudio.com/) from 2021. Pho
 
 <figure>
 
-[![Conversations Between Others by Chiharu Shiota](./attachments/2023_Conversations-Between-Others_by-Chiharu-Shiota_Yuelai-Musuem_photo-Zhao-Mingxu_9-web.jpg)](./attachments/2023_Conversations-Between-Others_by-Chiharu-Shiota_Yuelai-Musuem_photo-Zhao-Mingxu_9-web.jpg)
+[![Conversations Between Others by Chiharu Shiota](attachments/2023_Conversations-Between-Others_by-Chiharu-Shiota_Yuelai-Musuem_photo-Zhao-Mingxu_9-web.jpg)](attachments/2023_Conversations-Between-Others_by-Chiharu-Shiota_Yuelai-Musuem_photo-Zhao-Mingxu_9-web.jpg)
 
 <figcaption>
 

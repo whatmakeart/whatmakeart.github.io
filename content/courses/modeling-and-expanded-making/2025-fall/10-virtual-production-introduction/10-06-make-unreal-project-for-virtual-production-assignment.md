@@ -1,7 +1,7 @@
 ---
 title: 10.06 Make Unreal Project for Virtual Production Assignment
 date: 2025-10-31T09:30:00
-lastmod: 2025-11-12T04:44:36
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -15,8 +15,8 @@ Create an Unreal Project with the disguise RenderStream plugin added and set up 
 
 Review the guides below:
 
-- [Blank Environment to disguise RenderStream Setup Unreal 5.5.4](./10-03-blank-environment-to-disguise-renderstream-setup-unreal-5-5-4.md)
-- [10.04 Fab Environment to disguise RenderStream Setup Unreal 5.5.4](./10-04-fab-environment-to-disguise-renderstream-setup-unreal-5-5-4%20copy.md)
+- [Blank Environment to disguise RenderStream Setup Unreal 5.5.4](10-03-blank-environment-to-disguise-renderstream-setup-unreal-5-5-4.md)
+- [10.04 Fab Environment to disguise RenderStream Setup Unreal 5.5.4](10-04-fab-environment-to-disguise-renderstream-setup-unreal-5-5-4%20copy.md)
 
 It is recommended that you add objects and elements to your scene based on your ideas and desired environment.
 

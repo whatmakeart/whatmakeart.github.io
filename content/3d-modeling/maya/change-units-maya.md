@@ -1,7 +1,7 @@
 ---
 title: Change Units in Maya
 date: 2025-03-06T04:28:55
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Maya
   - Tutorial
@@ -13,4 +13,4 @@ tags:
 
 [Change Units in Maya](https://youtu.be/XJcL8W5LHjs)
 
-[![Change cm to inches in Maya](./attachments/maya-cm-to-inches-thumb.jpg)](https://youtu.be/XJcL8W5LHjs)
+[![Change cm to inches in Maya](attachments/maya-cm-to-inches-thumb.jpg)](https://youtu.be/XJcL8W5LHjs)

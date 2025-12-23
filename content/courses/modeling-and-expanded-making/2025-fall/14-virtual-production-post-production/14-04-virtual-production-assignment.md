@@ -1,7 +1,7 @@
 ---
 title: 14.04 Virtual Production Assignment
 date: 2025-12-05T09:30:00
-lastmod: 2025-12-06T09:20:59
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -35,8 +35,8 @@ Each student still turns in the project. The final video may be from the same so
 
 ### Assignment Resources
 
-- [Premiere Pro](./14-02-premiere-pro.md)
-- [Sound Editing Basics](./14-03-sound-editing-basics.md)
+- [Premiere Pro](14-02-premiere-pro.md)
+- [Sound Editing Basics](14-03-sound-editing-basics.md)
 - [Shot Types](../../../../video/shot-types.md)
 
 ## Grading Rubric

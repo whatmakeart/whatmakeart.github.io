@@ -1,7 +1,7 @@
 ---
 title: Record Laser Sound Effect
 date: 2025-10-30T09:00:00Z
-lastmod: 2025-11-05T16:07:19
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="video-grid">
@@ -13,6 +13,6 @@ lastmod: 2025-11-05T16:07:19
 
 ## Additional Resources
 
-- [Set Audio Hardware Adobe Audition](./set-audio-hardward-adobe-audition.md)
-- [Create New Audio File Adobe Audition](./create-new-audio-file-adobe-audition.md)
-- [Export MP3 from Adobe Audition](./export-mp3-adobe-audition.md)
+- [Set Audio Hardware Adobe Audition](set-audio-hardward-adobe-audition.md)
+- [Create New Audio File Adobe Audition](create-new-audio-file-adobe-audition.md)
+- [Export MP3 from Adobe Audition](export-mp3-adobe-audition.md)

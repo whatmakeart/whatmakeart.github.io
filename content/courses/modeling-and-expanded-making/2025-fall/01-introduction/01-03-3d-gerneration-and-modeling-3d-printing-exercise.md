@@ -1,7 +1,7 @@
 ---
 title: 01.03 3D Generation and Modeling 3D Print Exercise
 date: 2025-08-29T09:30:00
-lastmod: 2025-09-07T06:17:50
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Exercise Deliverables
@@ -81,7 +81,7 @@ If exporting an STL or OBJ from Blender, make sure to subdivide the mesh multipl
 
 ### Slice Meshes and 3D Print with Bambu Studio
 
-Using [Bambu Studio](./01-04-bambu-studio-installation.md), students will slice their 3D objects and combine them into printable 3mf project files.
+Using [Bambu Studio](01-04-bambu-studio-installation.md), students will slice their 3D objects and combine them into printable 3mf project files.
 
 ### Further Reading
 

@@ -1,12 +1,12 @@
 ---
 title: Tools
 date: 2023-05-23T21:59:40
-lastmod: 2025-08-17T22:48:37
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Humans are tool makers and tool users. Tools extend the abilities of our minds and bodies. Some tools are portable while others are the size of factories such as a large gantry crane in a foundry.
 
-Every maker will have tools and [Materials-for-Making](./materials-for-making.md) that they rely on almost daily and would not be able to complete their work without. Other tools will be used less frequently but are nevertheless essential.
+Every maker will have tools and [Materials-for-Making](materials-for-making.md) that they rely on almost daily and would not be able to complete their work without. Other tools will be used less frequently but are nevertheless essential.
 
 When acquiring tools there is a balance between buying the best quality tools that will last and buying inexpensive tools that will get the job done good enough. The latter is often ideal when trying out a new process or completing a specialty task that you do not anticipate repeating. Even in these cases it is a good idea to get the best quality tools you can whether you purchase, rent, or borrow the tools.
 

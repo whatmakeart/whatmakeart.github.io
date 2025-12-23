@@ -1,10 +1,10 @@
 ---
 title: 3D Scanning
 date: 2023-12-12T07:03:31
-lastmod: 2025-09-26T13:36:04
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-3D scanning is able to capture more detail and more accurate geometry than [photogrammetry](./photogrammetry.md), but requires more expensive 3D scanning equipment and software. There are two main types of 3D scanning, Structured Light scanning and LiDAR scanning.
+3D scanning is able to capture more detail and more accurate geometry than [photogrammetry](photogrammetry.md), but requires more expensive 3D scanning equipment and software. There are two main types of 3D scanning, Structured Light scanning and LiDAR scanning.
 
 Structured Light scanning projects a known pattern of light at a 3D object. Two cameras record the light that bounces back to them and measure its deformations from reflecting off the 3D surface of the object. The two cameras use triangulation to reconstruct where the points of the object are in space. LiDAR shoots lasers out and waits for the return bounce of the lasers from the object. It calculates the position of different points of the objects based on the travel time of emitted light to create a point cloud. This is similar to radar except the "L" stands for laser instead of the "r" for radio in radar.
 

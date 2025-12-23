@@ -1,7 +1,7 @@
 ---
 title: 02.07 Pocket Sewing Exercise Assignment
 date: 2024-09-09T09:00:00
-lastmod: 2024-09-09T14:56:58
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -15,7 +15,7 @@ lastmod: 2024-09-09T14:56:58
 
 1. If not completed, finish the Patch Pocket and Double Welt pocket started in class.
 2. Sew an additional Double Welt Pocket just like we did in class. [Double Welt Pocket Sewing Instructions](../../../../sewing/how-to-sew-a-double-welt-pocket.md)
-3. Sew a zipper pocket using zipper distributed in class. Follow the [zipper pocket instructions](./02-06-how-to-sew-a-zipper-pocket.md)) The zipper pocket instructions show a french seam to finish the pocket bag. You can use a serger or a french seam. If you use a serger you do not need to flip the pocket bag backwards like the video shows, you can sew the pocket bag just like the double welt pocket.
+3. Sew a zipper pocket using zipper distributed in class. Follow the [zipper pocket instructions](02-06-how-to-sew-a-zipper-pocket.md)) The zipper pocket instructions show a french seam to finish the pocket bag. You can use a serger or a french seam. If you use a serger you do not need to flip the pocket bag backwards like the video shows, you can sew the pocket bag just like the double welt pocket.
 4. Finish the edges of the fabric squares that the pockets are attached to.
 5. Bring all 4 pockets to class next week.
 

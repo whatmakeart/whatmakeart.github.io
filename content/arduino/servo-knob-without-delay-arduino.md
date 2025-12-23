@@ -1,14 +1,14 @@
 ---
 title: Servo Knob Without Delay - Arduino
 date: 2023-06-17T10:30:53
-lastmod: 2025-01-07T05:02:04
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Electronics
 ---
 
-The first step to removing unecessary `delay();` from [Arduino](arduino-introduction.md) programs is to make a project with an LED that [can blink without a `delay();` function](./blink-led-without-delay-arduino.md). That example can be extended to add a button that works to debounce without `delay();`
+The first step to removing unecessary `delay();` from [Arduino](arduino-introduction.md) programs is to make a project with an LED that [can blink without a `delay();` function](blink-led-without-delay-arduino.md). That example can be extended to add a button that works to debounce without `delay();`
 
-The servo examples from the Arduino documentation, [sweep](./servo-sweep-arduino-example.md) and [knob](./servo-knob-arduino.md), both use `delay();`. This section shows how to remove the delay from the knob example but could be applied to sweep as well by following the principles of [how to remove `delay();` from an Arduino sketch](./how-to-remove-delay-from-arduino-sketch.md) instructions.
+The servo examples from the Arduino documentation, [sweep](servo-sweep-arduino-example.md) and [knob](servo-knob-arduino.md), both use `delay();`. This section shows how to remove the delay from the knob example but could be applied to sweep as well by following the principles of [how to remove `delay();` from an Arduino sketch](how-to-remove-delay-from-arduino-sketch.md) instructions.
 
 ## Wrap the Task in a Millisecond Timer
 
@@ -60,7 +60,7 @@ if (currentMillis - previousMillis >= interval) {
 
 ### Example Circuit Adding a Blinking LED
 
-[![Servo Knob and Blink without Delay Circuit](./attachments/2023-servo-knob-and-blink-without-delay.png)](./attachments/2023-servo-knob-and-blink-without-delay.png)
+[![Servo Knob and Blink without Delay Circuit](attachments/2023-servo-knob-and-blink-without-delay.png)](attachments/2023-servo-knob-and-blink-without-delay.png)
 
 ### Example Code With Blinking LED and Servo
 

@@ -1,7 +1,7 @@
 ---
 title: Copyright for Artists
 date: 2023-05-23T21:59:41
-lastmod: 2025-08-19T07:52:22
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Public Domain Cases

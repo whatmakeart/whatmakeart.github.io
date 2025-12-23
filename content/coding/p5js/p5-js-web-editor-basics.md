@@ -1,7 +1,7 @@
 ---
 title: p5.js Web Editor Basics
 date: 2024-01-10T13:48:17
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Coding
   - p5.js
@@ -23,11 +23,11 @@ p5.js is a fantastic library that combines the power of programming with the bea
 
 ## Drawing Shapes and Responding to Input
 
-1. **Colors in p5.js**: Colors can be defined in different ways. A single number gives a grayscale value, while three numbers specify red, green, and blue (RGB) values. [p5.js color modes](./color-modes-p5-js.md)
+1. **Colors in p5.js**: Colors can be defined in different ways. A single number gives a grayscale value, while three numbers specify red, green, and blue (RGB) values. [p5.js color modes](color-modes-p5-js.md)
 2. **Drawing an Ellipse**: Use `ellipse(50, 50, 80, 80);` to draw an ellipse. The first two numbers are the x and y coordinates of the center, while the last two are its width and height.
 3. **Interactive Elements**: Make your art interactive using variables like `mouseX` and `mouseY`, which store the mouse's current position. You can make the ellipse follow the mouse around the canvas with these.
 4. **Exploring p5.js Reference**: For more functions and variables, check the comprehensive p5.js reference page. It's a treasure trove of information and capabilities.
-5. [p5.js Primitive Shapes Tutorial](./primitive-shapes-p5-js.md)
+5. [p5.js Primitive Shapes Tutorial](primitive-shapes-p5-js.md)
 
 ## Saving and Sharing Your Work
 
@@ -43,7 +43,7 @@ p5.js is a fantastic library that combines the power of programming with the bea
 
 p5.js really opens up a world of creative possibilities through programming. It's a platform where art and code meet, allowing you to express your creativity in unique ways. Enjoy exploring, and happy programming!
 
-[![p5.js Web Editor Tutorial](./attachments/p5js-web-editor-thumb.jpg)](./attachments/p5js-web-editor-thumb.jpg)
+[![p5.js Web Editor Tutorial](attachments/p5js-web-editor-thumb.jpg)](attachments/p5js-web-editor-thumb.jpg)
 
 ## P5.js Web Editor Basics Video Transcript
 

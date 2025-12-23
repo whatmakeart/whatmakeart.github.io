@@ -1,7 +1,7 @@
 ---
 title: Install GitHub Command Line
 date: 2024-01-11T16:16:57
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -14,7 +14,7 @@ Thank you for sharing this programming tutorial focused on installing and authen
 
 #### For macOS Users:
 
-1. **Prerequisites**: Ensure you have [Homebrew installed](./install-homebrew.md) on your macOS. Homebrew is a package manager that simplifies the installation of software on macOS.
+1. **Prerequisites**: Ensure you have [Homebrew installed](install-homebrew.md) on your macOS. Homebrew is a package manager that simplifies the installation of software on macOS.
 
 2. **Installation Command**:
    - Open a Terminal window on your Mac.
@@ -93,4 +93,4 @@ Hopefully this helps you authenticate GitHub command line with your GitHub accou
 
 Happy programming.
 
-[![Install GitHub CLI](./attachments/install-github-cli-thumb.png)](./attachments/install-github-cli-thumb.png)
+[![Install GitHub CLI](attachments/install-github-cli-thumb.png)](attachments/install-github-cli-thumb.png)

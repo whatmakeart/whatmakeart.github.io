@@ -1,7 +1,7 @@
 ---
 title: Fab Environment to disguise RenderStream Setup Unreal 5.5.4
 date: 2025-10-10T06:10:29
-lastmod: 2025-11-12T04:42:51
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="video-grid">
@@ -12,7 +12,7 @@ lastmod: 2025-11-12T04:42:51
 
 </div>
 
-The following [virtual production](./virtual-production.md) guide shows [how to setup a Fab Environment for disguise RenderStream with Unreal 5.5.4](https://youtu.be/gJLWQFV2bWA). If you do not need an environment from Fab then refer to [How to setup a Blank Environment for disguise RenderStream with Unreal 5.5.4](./blank-environment-to-disguise-renderstream-setup-unreal-5-5-4.md).
+The following [virtual production](virtual-production.md) guide shows [how to setup a Fab Environment for disguise RenderStream with Unreal 5.5.4](https://youtu.be/gJLWQFV2bWA). If you do not need an environment from Fab then refer to [How to setup a Blank Environment for disguise RenderStream with Unreal 5.5.4](blank-environment-to-disguise-renderstream-setup-unreal-5-5-4.md).
 
 ### Setup New Unreal Project
 
@@ -24,7 +24,7 @@ The following [virtual production](./virtual-production.md) guide shows [how to 
    - In the search box, type `alpha`
      - Enable Support for Alpha Channel (a.k.a. turn on alpha output).
    - Close Project Settings, File → Save All
-4. Make sure the RenderStream plugin is present in this project. [How to Install RenderStream Plugin](./install-disguise-renderstream-plugin.md)
+4. Make sure the RenderStream plugin is present in this project. [How to Install RenderStream Plugin](install-disguise-renderstream-plugin.md)
    - Place the RenderStream plugin inside your project’s Plugins folder.
 5. Restart Unreal.
 

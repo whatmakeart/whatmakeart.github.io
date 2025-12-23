@@ -1,7 +1,7 @@
 ---
 title: 03.08 Which Reality Video Assignment
 date: 2024-09-10T12:00:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -15,9 +15,9 @@ lastmod: 2025-09-30T17:53:45
 
 Answer the question, "Which reality?" Is this reality or is it an illusion? How do we know what is real when human perceptions are disconnected from the nature of the universe?
 
-Review the artists and videos on the [green screen video art](./03-01-green-screen-video-art.md) page. Watch the videos, visit the artists' websites, go down algorithmic rabbit holes on YouTube and Vimeo. Make notes about what you find interesting and why. Also, take a second look the artists and videos on the [Abstract Video](../02-video-selection-tools-and-effects/02-09-abstract-video.md) page in the previous module.
+Review the artists and videos on the [green screen video art](03-01-green-screen-video-art.md) page. Watch the videos, visit the artists' websites, go down algorithmic rabbit holes on YouTube and Vimeo. Make notes about what you find interesting and why. Also, take a second look the artists and videos on the [Abstract Video](../02-video-selection-tools-and-effects/02-09-abstract-video.md) page in the previous module.
 
-Use a combination of [chroma keying](../02-video-selection-tools-and-effects/02-02-chroma-key-basics.md), [rotoscoping](../02-video-selection-tools-and-effects/02-07-roto-brush-tool-after-effects.md), [generative video](./03-02-generate-abstract-video.md), [found footage](../02-video-selection-tools-and-effects/02-12-public-domain.md), sounds, 3D environments and other video compositing techniques.
+Use a combination of [chroma keying](../02-video-selection-tools-and-effects/02-02-chroma-key-basics.md), [rotoscoping](../02-video-selection-tools-and-effects/02-07-roto-brush-tool-after-effects.md), [generative video](03-02-generate-abstract-video.md), [found footage](../02-video-selection-tools-and-effects/02-12-public-domain.md), sounds, 3D environments and other video compositing techniques.
 
 ### Final Video Requirements
 

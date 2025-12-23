@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling for Laser Cutting in Fusion
 date: 2024-11-05T10:30:48
-lastmod: 2025-10-13T06:17:56
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ### Laser Cut Design Process and Workflow with Fusion
@@ -26,23 +26,23 @@ lastmod: 2025-10-13T06:17:56
 
 - [Create a Laser Cutting Tool in Fusion](../laser-cutting/fusion-360-create-laser-cutting-tool.md)
 - [Install DXF Post Processor](../../3d-modeling/fusion-360/install-dxf-post-processor-fusion-360.md)
-- [Lay Parts Flat for Laser Cutting](./lay-parts-flat-for-laser-cutting-fusion-360.md)
-- [Export Laser Cut Toolpaths to DXF](./export-laser-cut-toolpaths-to-dxf-fusion-360.md)
+- [Lay Parts Flat for Laser Cutting](lay-parts-flat-for-laser-cutting-fusion-360.md)
+- [Export Laser Cut Toolpaths to DXF](export-laser-cut-toolpaths-to-dxf-fusion-360.md)
 
 ### Laser Cutting Joints
 
-Numerous [Laser Cut Joints](./laser-cut-joints.md) help align and assemble flat laser cut pieces into functional 3D forms.
+Numerous [Laser Cut Joints](laser-cut-joints.md) help align and assemble flat laser cut pieces into functional 3D forms.
 
-- [Captive Nut Joints](./laser-cut-captive-nut-joints.md)
-- [Pinned Finger Joints](./pinned-finger-joints-laser-cutting.md)
-- [T-Slot Finger Joints](./t-slot-finger-joints-laser-cutting.md)
+- [Captive Nut Joints](laser-cut-captive-nut-joints.md)
+- [Pinned Finger Joints](pinned-finger-joints-laser-cutting.md)
+- [T-Slot Finger Joints](t-slot-finger-joints-laser-cutting.md)
 
 ### Fusion Laser Cutting Modeling Tutorials
 
 - [Laser Cut Box with Finger Joints](https://youtu.be/ZrcqauNvt0M)
-- [Laser Cut Acrylic House in Fusion](./laser-cut-acrylic-house-in-fusion-360.md)
-- [Laser Cut Cell Phone Stand](./laser-cut-cell-phone-stand.md)
+- [Laser Cut Acrylic House in Fusion](laser-cut-acrylic-house-in-fusion-360.md)
+- [Laser Cut Cell Phone Stand](laser-cut-cell-phone-stand.md)
 - [Laser Cut Box on 3D Printed Clamp](https://youtu.be/0mCZvQgD5Ek)
 - [Laser Cut USB Cord Holder](https://youtu.be/fk_Cpybc3ro)
-- [Create Laminated 3D Forms from Flat Sheets in Fusion](./create-laminated-3d-forms-from-flat-sheets-fusion-360.md)
-- [Laser Cut Living Hinge](./laser-cut-living-hinge.md)
+- [Create Laminated 3D Forms from Flat Sheets in Fusion](create-laminated-3d-forms-from-flat-sheets-fusion-360.md)
+- [Laser Cut Living Hinge](laser-cut-living-hinge.md)

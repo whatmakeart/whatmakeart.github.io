@@ -1,10 +1,10 @@
 ---
 title: Episode 01 AI Philosophy The Cosmic Dance of Consciousness
 date: 2023-12-07T11:28:27
-lastmod: 2023-12-07T11:48:28
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-![AI Philosophy Episode 1](./attachments/AI-Philosophy-Podcast-Icon.jpg)
+![AI Philosophy Episode 1](attachments/AI-Philosophy-Podcast-Icon.jpg)
 
 **Introduction** (0:00-2:00)
 

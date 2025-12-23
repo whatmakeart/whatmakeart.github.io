@@ -1,10 +1,10 @@
 ---
 title: Basic Sewing Tools
 date: 2024-08-26T08:26:07
-lastmod: 2024-08-26T08:31:19
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-![Basic Sewing Tools](./attachments/2024-08-26-basic-sewing-tools.jpg)
+![Basic Sewing Tools](attachments/2024-08-26-basic-sewing-tools.jpg)
 
 ## Basic Sewing Tools
 

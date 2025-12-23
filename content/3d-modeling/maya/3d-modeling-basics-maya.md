@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling Basics - Maya
 date: 2023-06-16T05:44:28
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - 3D-Modeling
   - Maya
@@ -13,7 +13,7 @@ tags:
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/-SpVNiRqeKY?si=-UGVKSDZk_-JlTDa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-[Maya](./maya.md) is a [3D modeling](../3d-modeling.md) program that can be overwhelming at the start but like any software, becomes much easier and understandable with a bit of use. The official [Maya Help Documentation](https://help.autodesk.com/view/MAYAUL/2025/ENU/) is a great place to get started with the basics of Maya as well as explore advanced topics.
+[Maya](maya.md) is a [3D modeling](../3d-modeling.md) program that can be overwhelming at the start but like any software, becomes much easier and understandable with a bit of use. The official [Maya Help Documentation](https://help.autodesk.com/view/MAYAUL/2025/ENU/) is a great place to get started with the basics of Maya as well as explore advanced topics.
 
 ## Maya Keyboard Shortcuts [^1]
 
@@ -54,7 +54,7 @@ tags:
 
 <figure>
 
-[![Maya default scene with cube](./attachments/2024-02-22-maya-cube.jpg)](./attachments/2024-02-22-maya-cube.jpg)
+[![Maya default scene with cube](attachments/2024-02-22-maya-cube.jpg)](attachments/2024-02-22-maya-cube.jpg)
 
 <figcaption>
 
@@ -64,7 +64,7 @@ Maya Default Scene with cube
 </figure>
 
 - [Maya User Interface](https://youtu.be/-SpVNiRqeKY)
-- [Change Units in Maya](./change-units-maya.md)
+- [Change Units in Maya](change-units-maya.md)
 - [Maya Polygon Modeling Tools](https://youtu.be/eBEitxaRYQs)
 - [Maya Hole in a Cube](https://youtu.be/EIKiJUmUH7A)
 - [Maya Beginner Polygon Modeling Tutorial](https://youtu.be/lLItO9mBwxM)

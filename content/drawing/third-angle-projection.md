@@ -1,7 +1,7 @@
 ---
 title: Third Angle Projection
 date: 2023-06-14T12:18:16
-lastmod: 2025-09-30T18:35:41
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Third angle projection is a method of drawing a three dimensional object on a two dimensional plane or piece of paper. It is a type of orthographic projection that shows how an object looks from different directions on the same drawing. The different views line up and can be used to project dimensions from one view to another view using orthogonal (perpendicular) lines. The three views are front, side and top. The other common multi angle projection method is first angle projection but we will focus on third angle projections.
@@ -12,11 +12,11 @@ The main difference between third and first angle projection is the conceptual p
 
 The diagram below shows the point of view of the viewer indicated by the red arrows. The quadrants are labeled and the 3rd angle projection is in the lower left. The projections of the objects are on the horizontal and vertical planes. Pay attention to the orientation of the projection top or bottom of the cone in relation to the side projection.
 
-[![First and Third Angle Projections](./attachments/2023-01-11-First-and-Third-Angle-Projection-Quadrants-Rendering-Annotated-Jimmy-Kuehnle-small.jpg)](./attachments/2023-01-11-First-and-Third-Angle-Projection-Quadrants-Rendering-Annotated-Jimmy-Kuehnle.png)
+[![First and Third Angle Projections](attachments/2023-01-11-First-and-Third-Angle-Projection-Quadrants-Rendering-Annotated-Jimmy-Kuehnle-small.jpg)](attachments/2023-01-11-First-and-Third-Angle-Projection-Quadrants-Rendering-Annotated-Jimmy-Kuehnle.png)
 
 The symbols indicating the type of projection indicate type of projection by depicting a cone as seen above. For a third angle projection the symbol shows the top/front of the cone with the side of the cone to the side. This is the only way these views can be unfolded flat from the three dimensional image above. In first angle projection the side of the cone is shown and then the bottom/back is shown to the side. This diagram indicates the location of the projection plane in reference to the object and the viewer.
 
-[![First and Third Angle Projection Symbols](./attachments/2023-01-11-First-and-Third-Angle-Projection-Symbols-Jimmy-Kuehnle.jpg)](./attachments/2023-01-11-First-and-Third-Angle-Projection-Symbols-Jimmy-Kuehnle.jpg)
+[![First and Third Angle Projection Symbols](attachments/2023-01-11-First-and-Third-Angle-Projection-Symbols-Jimmy-Kuehnle.jpg)](attachments/2023-01-11-First-and-Third-Angle-Projection-Symbols-Jimmy-Kuehnle.jpg)
 
 Third angle projections are more common in the United States while first angle projections are more common in Europe but both can be used to show multi view orthographic projections of 3D objects on 2D planes. Up to six views can be included but usually only three views are enough to have enough information to fabricate or make an object. Remember that the goal of an orthographic projection is to efficiently give all of the information needed to precisely model or fabricate an object.
 
@@ -26,9 +26,9 @@ Often dimensions are added to projection drawings to indicate the diameter of ho
 
 <div class="gallery-grid">
 
-[![Example Third Angle Projection](./attachments/2022-01-11-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)](./attachments/2022-01-11-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)
+[![Example Third Angle Projection](attachments/2022-01-11-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)](attachments/2022-01-11-Third-Angle-Projection-Example-Jimmy-Kuehnle.jpg)
 
-[![Example Object](./attachments/2022-01-11-Third-Angle-Projection-Example-Object-Jimmy-Kuehnle.jpg)](./attachments/2022-01-11-Third-Angle-Projection-Example-Object-Jimmy-Kuehnle.png)
+[![Example Object](attachments/2022-01-11-Third-Angle-Projection-Example-Object-Jimmy-Kuehnle.jpg)](attachments/2022-01-11-Third-Angle-Projection-Example-Object-Jimmy-Kuehnle.png)
 
 </div>
 

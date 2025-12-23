@@ -1,7 +1,7 @@
 ---
 title: How to Sew a Tote Bag with Lining
 date: 2023-11-28T05:54:38
-lastmod: 2025-09-30T18:50:55
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/826t3yvck6c?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
@@ -12,7 +12,7 @@ This tutorial shows how to cut the pattern pieces for a tote bag with a lining a
 
 ## Prerequisites
 
-To complete this tutorial you should know [How to Thread an Juki DDL 870 Industrial Sewing Machine](./how-to-thread-a-home-sewing-machine.md), [how-to-cut-fabric](./how-to-cut-fabric.md), and [How-to-Sew-Six-Basic-Seams](./how-to-sew-six-basic-seams.md).
+To complete this tutorial you should know [How to Thread an Juki DDL 870 Industrial Sewing Machine](how-to-thread-a-home-sewing-machine.md), [how-to-cut-fabric](how-to-cut-fabric.md), and [How-to-Sew-Six-Basic-Seams](how-to-sew-six-basic-seams.md).
 
 ## Instructions
 
@@ -29,5 +29,5 @@ After following these instructions you should have a custom sewn tote bag with a
 
 ## Further Reading
 
-[Sewing](./sewing.md)
-[Garment Construction Basics](./garment-construction-basics.md)
+[Sewing](sewing.md)
+[Garment Construction Basics](garment-construction-basics.md)

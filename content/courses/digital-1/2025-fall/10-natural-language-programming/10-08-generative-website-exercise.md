@@ -1,7 +1,7 @@
 ---
 title: 10.08 Generative Website Assignment
 date: 2025-10-30T09:00:00Z
-lastmod: 2025-11-20T06:45:16
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -31,9 +31,9 @@ Potential forms:
 
 ## Assignment Resources
 
-- [GitHub Copilot Model Selection](./10-01-github-copilot-model-selection.md)
-- [Copilot Web Game](./10-03-copilot-web-game.md)
-- [Add Image Sprite](./10-05-add-image-sprite.md)
+- [GitHub Copilot Model Selection](10-01-github-copilot-model-selection.md)
+- [Copilot Web Game](10-03-copilot-web-game.md)
+- [Add Image Sprite](10-05-add-image-sprite.md)
 
 ### Sound Resources
 

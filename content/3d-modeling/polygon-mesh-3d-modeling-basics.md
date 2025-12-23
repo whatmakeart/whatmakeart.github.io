@@ -1,7 +1,7 @@
 ---
 title: Polygon Mesh 3D Modeling Basics
 date: 2023-06-14T13:54:43
-lastmod: 2024-08-11T05:57:22
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Approaches to Making 3D Models
@@ -16,7 +16,7 @@ lastmod: 2024-08-11T05:57:22
 
 ## Polygon Mesh 3D Modeling Terms
 
-[![Polygon Mesh](./attachments/2024-02-21-polygon-mesh.png)](./attachments/2024-02-21-polygon-mesh.png)
+[![Polygon Mesh](attachments/2024-02-21-polygon-mesh.png)](attachments/2024-02-21-polygon-mesh.png)
 
 ### Vertex
 
@@ -92,7 +92,7 @@ vn 0.7541692853 -0.4985180497 -0.4274439812
 
 <figure>
 
-[![Vertex Normals](./attachments/2024-02-21-vertex-normals.jpg)](./attachments/2024-02-21-vertex-normals.jpg)
+[![Vertex Normals](attachments/2024-02-21-vertex-normals.jpg)](attachments/2024-02-21-vertex-normals.jpg)
 
 <figcaption>
 
@@ -103,7 +103,7 @@ Vertex Normals
 
 <figure>
 
-[![Vertex Per Face Normals](./attachments/2024-02-21-vertex-per-face-normals.jpg)](./attachments/2024-02-21-vertex-per-face-normals.jpg)
+[![Vertex Per Face Normals](attachments/2024-02-21-vertex-per-face-normals.jpg)](attachments/2024-02-21-vertex-per-face-normals.jpg)
 
 <figcaption>
 
@@ -114,7 +114,7 @@ Vertex Per Face Normals
 
 <figure>
 
-[![Face Normals](./attachments/2024-02-21-face-normals.jpg)](./attachments/2024-02-21-face-normals.jpg)
+[![Face Normals](attachments/2024-02-21-face-normals.jpg)](attachments/2024-02-21-face-normals.jpg)
 
 <figcaption>
 
@@ -148,8 +148,8 @@ vt 0.9860912561 0.3404420018
 
 ## Polygon Mesh 3D Modeling Software Guides
 
-This [Blender vs Maya Polygon Modeling Comparison](./blender-vs-maya.md) show ways to accomplish the same tasks in Maya and Blender, two popular 3D Modeling programs.
+This [Blender vs Maya Polygon Modeling Comparison](blender-vs-maya.md) show ways to accomplish the same tasks in Maya and Blender, two popular 3D Modeling programs.
 
-- [Blender Modeling Basics](./blender/3d-modeling-basics-blender.md)
-- [Maya Modeling Basics](./maya/3d-modeling-basics-maya.md)
-- [Fusion 360 Modeling Basics](./fusion-360/organic-forms-with-t-splines-fusion-360.md)
+- [Blender Modeling Basics](blender/3d-modeling-basics-blender.md)
+- [Maya Modeling Basics](maya/3d-modeling-basics-maya.md)
+- [Fusion 360 Modeling Basics](fusion-360/organic-forms-with-t-splines-fusion-360.md)

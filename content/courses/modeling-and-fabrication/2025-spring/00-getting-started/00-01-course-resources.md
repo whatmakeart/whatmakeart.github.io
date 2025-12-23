@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2025-01-16T12:00:00Z
-lastmod: 2024-12-14T07:29:34
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Course Introduction
@@ -44,7 +44,7 @@ The course introduces basic technical sketching, third angle projections, 3D mod
 - [Ultimaker Support](https://support.ultimaker.com/s/)
 - [Adobe Premiere User Guide](https://helpx.adobe.com/premiere-pro/user-guide.html)
 
-[![Modeling and Fabrication Course](./2025-modeling-and-fabrication-course-image.jpg)](./2025-modeling-and-fabrication-course-image.jpg)
+[![Modeling and Fabrication Course](2025-modeling-and-fabrication-course-image.jpg)](2025-modeling-and-fabrication-course-image.jpg)
 
 ## Digital II Modeling and Fabrication Course Topics
 
@@ -68,4 +68,4 @@ The course introduces basic technical sketching, third angle projections, 3D mod
 
 ## Course Information
 
-- [Syllabus](./00-00-3d-modeling-and-fabrication-syllabus.md)
+- [Syllabus](00-00-3d-modeling-and-fabrication-syllabus.md)

@@ -1,7 +1,7 @@
 ---
 title: AI
 date: 2023-05-23T21:59:42
-lastmod: 2025-10-31T04:16:53
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## AI Creation
@@ -30,8 +30,8 @@ I read "Computer Algorithms Analyzing Paintings" in the November 19, 2014 _Artfo
 
 ## AI Videos
 
-- [ChatGPT Resume](./chatgpt-resume.md)
-- [Google Bard vs OpenAI ChatGPT](./google-bard-vs-openai-chatgpt.md)
+- [ChatGPT Resume](chatgpt-resume.md)
+- [Google Bard vs OpenAI ChatGPT](google-bard-vs-openai-chatgpt.md)
 -
 
 ## AI Links

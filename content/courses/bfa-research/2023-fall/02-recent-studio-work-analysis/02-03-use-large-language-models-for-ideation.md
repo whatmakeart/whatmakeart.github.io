@@ -1,7 +1,7 @@
 ---
 title: 02.03 Use Large Language Models for Ideation (as of Fall 2023)
 date: 2023-09-11T12:00:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## What are LLMs?
@@ -41,7 +41,7 @@ Some are not heeding the advice of caution such as the online site _Gizmodo_ tha
 
 ## Large Language Model Ideation Exercise
 
-Choose a LLM of your choice and try asking it questions about art. See how the conversation goes. Ask it for new ideas. It will likely not be very helpful without giving it some information about yourself or your art. Use the information from the previous [Creative Practice Awareness Exercise](./02-03-use-large-language-models-for-ideation.md) and feed it to the LLM.
+Choose a LLM of your choice and try asking it questions about art. See how the conversation goes. Ask it for new ideas. It will likely not be very helpful without giving it some information about yourself or your art. Use the information from the previous [Creative Practice Awareness Exercise](02-03-use-large-language-models-for-ideation.md) and feed it to the LLM.
 
 ### Ideas to try
 

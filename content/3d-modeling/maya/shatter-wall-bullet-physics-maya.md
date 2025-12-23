@@ -1,7 +1,7 @@
 ---
 title: Shatter Wall with Bullet Physics Maya
 date: 2024-02-29T06:03:01
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Maya
   - Tutorial
@@ -47,7 +47,7 @@ This tutorial provides an in-depth guide on creating a dynamic simulation in May
 
 This tutorial guides through the process of setting up, configuring, and executing a dynamic shattering simulation in Maya using the Bullet physics solver. It covers the initial setup, including creating the wall and floor, enabling the Bullet solver, preparing the objects for simulation, and running the simulation to achieve the desired effect of a wall shattering upon impact by a ball. This process showcases the capabilities of Maya's physics simulation tools for creating complex dynamic animations.
 
-[![Shatter Wall with Bullet Physics Maya Tutorial](./attachments/2024-02-29-shatter-wall-bullet-physics-maya.jpg)](./attachments/2024-02-29-shatter-wall-bullet-physics-maya.jpg)
+[![Shatter Wall with Bullet Physics Maya Tutorial](attachments/2024-02-29-shatter-wall-bullet-physics-maya.jpg)](attachments/2024-02-29-shatter-wall-bullet-physics-maya.jpg)
 
 <details>
 <sumamry>

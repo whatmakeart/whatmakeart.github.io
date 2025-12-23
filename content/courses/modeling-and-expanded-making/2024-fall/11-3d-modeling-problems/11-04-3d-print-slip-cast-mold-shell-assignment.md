@@ -1,7 +1,7 @@
 ---
 title: 11.04 3D Print Slip Cast Mold Shell Assignment
 date: 2024-10-30T09:00:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -19,7 +19,7 @@ Clean up and fix any remaining problems with your 3D print slip cast mold 3D mod
 1. Fix any remaining [undercuts](../10-3d-printed-molds/10-03-remove-undercuts-blender.md) in your model if needed.
 2. Create a mesh to be the form of your mold. This can be a cube but can also be a more contoured shape related to your model.
 3. Add parting lines to separate mold into multiple parts. You can [add parting lines in Blender](../10-3d-printed-molds//10-04-add-mold-parting-lines-blender.md)
-4. [Solidify the parting lines](./11-03-fix-non-manifold-edges-on-solidify-modifier-examples.md) in preparation for separating the mold block.
+4. [Solidify the parting lines](11-03-fix-non-manifold-edges-on-solidify-modifier-examples.md) in preparation for separating the mold block.
    - Make sure solidified parting line is completely manifold and all normals are facing outside.
    - Double check that the parting lines are not creating new undercuts that might prevent the mold pieces from separating.
 5. First subtract the head from the mold block with a difference Boolean.

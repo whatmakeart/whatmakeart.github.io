@@ -1,12 +1,12 @@
 ---
 title: 04.04 Technical Synthesis Sculpture Assignment 1
 date: 2023-09-25T12:00:00
-lastmod: 2023-09-25T20:10:13
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
 
-- First of a pair of artworks made using specified tools and techniques from the [Sculpture + Expanded Media Technical Inventory Exercise](./04-02-sculpture-technical-inventory-exercise.md)
+- First of a pair of artworks made using specified tools and techniques from the [Sculpture + Expanded Media Technical Inventory Exercise](04-02-sculpture-technical-inventory-exercise.md)
 - Written description of the process and things learned. (.pdf)
   - Label file YYYYMMDD Lastname Firstname Technical Synthesis Description 1.pdf
 
@@ -14,7 +14,7 @@ lastmod: 2023-09-25T20:10:13
 
 You will make two different projects. The second project will begin after the first one, although some research and learning may overlap in time. Use the process below to complete the first project.
 
-Review your responses to the [Sculpture + Expanded Media Technical Inventory Exercise](./04-02-sculpture-technical-inventory-exercise.md). Make special note of any items in the "What?" category as well as the "Heard Of" category. Choose a minimum of one item each from the "What?", "Heard Of?", and "Used Before" categories for both the "Tools / Equipment" and "Skills / Techniques" inventories. Make a plan to create a piece that uses these items in its creation.
+Review your responses to the [Sculpture + Expanded Media Technical Inventory Exercise](04-02-sculpture-technical-inventory-exercise.md). Make special note of any items in the "What?" category as well as the "Heard Of" category. Choose a minimum of one item each from the "What?", "Heard Of?", and "Used Before" categories for both the "Tools / Equipment" and "Skills / Techniques" inventories. Make a plan to create a piece that uses these items in its creation.
 
 In the initial stage write down the 6 selected items. Briefly research each one and record your findings. Write down the next steps needed for you to begin to learn enough about the items to use them in an artwork. Plan a sequence of learning and making since some steps will need to come before others. Use this sequence as a guide to begin ideation about the planned artwork. These initial ideas will likely change as you gain more experience with new tools and processes.
 

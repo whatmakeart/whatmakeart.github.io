@@ -1,7 +1,7 @@
 ---
 title: CNC Basics
 date: 2023-05-23T21:59:41
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 CNC or computer numeric control is a great way to fabricate precise parts. CNC tools very based on the type of material they cut, the dimensions and directions they are able to cut in, and the type of cutting head.
@@ -12,21 +12,21 @@ Often, CNC machines use a spinning cutting tool. This limits the insides of corn
 
 Is important to consider tolerances when making tool paths for CNC machining. A 3D model is made to nominal dimensions, meaning the ideal perfect dimensions of the piece. If something has a 2-in hole and it is made 2 in then it will not fit. Either. The hole needs to be slightly larger or the part needs to be slightly smaller.
 
-Best practice is to design a 3D model to nominal dimensions, and then build in the [tolerances](./cnc-tolerance-and-fit.md) based on the materials and the design into the [tool paths](./shopbot-toolpaths-fusion-360.md) before cutting out the part.
+Best practice is to design a 3D model to nominal dimensions, and then build in the [tolerances](cnc-tolerance-and-fit.md) based on the materials and the design into the [tool paths](shopbot-toolpaths-fusion-360.md) before cutting out the part.
 
 ## ShopBot Two Axis CNC Machine
 
 A ShopBot is a brand of 2 Axis CNC machine. It is relatively user friendly and affordable. Models can be made in [3D modeling software](../../3d-modeling/3d-modeling-software.md) and then converted to G-Code toolpaths. The tool paths are loaded into the ShopBot for cutting.
 
-- [CNC Tolerance and Fit](./cnc-tolerance-and-fit.md)
-- [Pocket Cuts and Joints](./cnc-pocket-cuts-and-joints.md)
-- [Dog Bone Fillets Fusion 360](./cnc-fillets-fusion-360.md)
+- [CNC Tolerance and Fit](cnc-tolerance-and-fit.md)
+- [Pocket Cuts and Joints](cnc-pocket-cuts-and-joints.md)
+- [Dog Bone Fillets Fusion 360](cnc-fillets-fusion-360.md)
 
 ## Fusion 360 CNC
 
-- [Create Shopbot Tool Fusion 360](./create-shopbot-tool-fusion-360.md)
-- [Shopbot Toolpaths Fusion 360](./shopbot-toolpaths-fusion-360.md)
-- [Secure Workpiece Shopbot](./securing-the-workpiece-to-the-shopbot.md)
+- [Create Shopbot Tool Fusion 360](create-shopbot-tool-fusion-360.md)
+- [Shopbot Toolpaths Fusion 360](shopbot-toolpaths-fusion-360.md)
+- [Secure Workpiece Shopbot](securing-the-workpiece-to-the-shopbot.md)
 
 ## CNC Video Tutorials
 

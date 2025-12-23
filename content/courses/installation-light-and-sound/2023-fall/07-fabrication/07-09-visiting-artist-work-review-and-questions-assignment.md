@@ -1,7 +1,7 @@
 ---
 title: 03.03 Visiting Artist Work Review and Questions
 date: 2023-10-06T09:30:00
-lastmod: 2023-10-05T20:28:43
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -14,7 +14,7 @@ Preparations for the "first" visit of Bob Drake next week include preparing to p
 
 ## Instructions
 
-1. Review [Bob Drake's work](./07-08-bob-drake.md).
+1. Review [Bob Drake's work](07-08-bob-drake.md).
 2. Make note of what you find interesting
 3. Add pictures and links as needed.
 4. Write a minimum of 5 questions that you have for Bob.

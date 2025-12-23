@@ -1,7 +1,7 @@
 ---
 title: Plastic Bending Basics
 date: 2023-10-01T06:31:34
-lastmod: 2023-10-02T05:41:25
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Bending plastic is a process of shaping it into a desired form using heat such as an oven or a [heat gun](../tools/how-to-use-a-heat-gun.md)
@@ -18,9 +18,9 @@ Bending plastic is a process of shaping it into a desired form using heat such a
 - Apply heat evenly to the plastic to avoid warping.
 - Bend the plastic slowly and carefully to avoid cracking.
 - Overbend the plastic slightly to compensate for springback.
-- Use a [jig](./jigs.md) or bending machine to ensure accurate bends.
+- Use a [jig](jigs.md) or bending machine to ensure accurate bends.
 - Cool the plastic slowly and evenly to avoid stress cracks.
-- For [bending PVC tubes](./bend-pvc-pipe.md) compressed air can be used as a support inside a sealed pipe to prevent the pipe from collapsing when heated and bent.
+- For [bending PVC tubes](bend-pvc-pipe.md) compressed air can be used as a support inside a sealed pipe to prevent the pipe from collapsing when heated and bent.
 
 ## Plastic Bending Safety
 

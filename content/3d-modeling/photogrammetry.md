@@ -1,10 +1,10 @@
 ---
 title: Photogrammetry
 date: 2024-09-25T05:06:07
-lastmod: 2025-09-26T13:30:29
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-Photogrammetry is a useful tool for capturing 3D Geometry and visual texture information from the real physical world. [Photogrammetry software](./photogrammetry-software.md) uses multiple 2D images takes from different yet overlapping angles to create a 3D mesh with textures. It is accessible with little more than a cell phone camera needed for compelling results. While purpose built, industrial photogrammetry rigs and workflows can achieve a high level of accuracy, general photogrammetry often produces stunning visual textures but underwhelming 3D geometry. To achieve the highest physical detail and most accurate 3D model from the real world, [3D scanning](./3d-scanning.md) is recommended.
+Photogrammetry is a useful tool for capturing 3D Geometry and visual texture information from the real physical world. [Photogrammetry software](photogrammetry-software.md) uses multiple 2D images takes from different yet overlapping angles to create a 3D mesh with textures. It is accessible with little more than a cell phone camera needed for compelling results. While purpose built, industrial photogrammetry rigs and workflows can achieve a high level of accuracy, general photogrammetry often produces stunning visual textures but underwhelming 3D geometry. To achieve the highest physical detail and most accurate 3D model from the real world, [3D scanning](3d-scanning.md) is recommended.
 
 ## Photogrammetry Best Practices
 
@@ -38,5 +38,5 @@ Equipment built specifically for photogrammetry capture can speed up the process
 
 ### Working with Photogrammetry Created 3D Meshes
 
-- [Calibrate Photogrammetry Scanned Object Scale in Blender](./photogrammetry-with-photocatch.md)
-- [Place 3D Models in 2d Photos with Blender](./blender/place-3d-model-in-2d-photo-blender-fspy.md)
+- [Calibrate Photogrammetry Scanned Object Scale in Blender](photogrammetry-with-photocatch.md)
+- [Place 3D Models in 2d Photos with Blender](blender/place-3d-model-in-2d-photo-blender-fspy.md)

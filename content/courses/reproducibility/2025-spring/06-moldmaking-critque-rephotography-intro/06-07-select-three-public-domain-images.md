@@ -1,7 +1,7 @@
 ---
 title: 06.07 Process Three Public Domain Images for Laser Etching Assignment
 date: 2025-02-26T09:00:00
-lastmod: 2025-10-01T14:38:58
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -13,7 +13,7 @@ lastmod: 2025-10-01T14:38:58
 
 ## Assignment Overview
 
-Images must be sourced from the [public domain](./06-05-public-domain.md) or be n image that you have a license to. The images may not be created by you.
+Images must be sourced from the [public domain](06-05-public-domain.md) or be n image that you have a license to. The images may not be created by you.
 
 Image information to include
 

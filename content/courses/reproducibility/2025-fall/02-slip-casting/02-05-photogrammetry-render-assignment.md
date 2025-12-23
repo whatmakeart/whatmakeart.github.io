@@ -1,7 +1,7 @@
 ---
 title: 02.05 Photogrammetry Render Assignment
 date: 2025-09-03T12:00:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -17,7 +17,7 @@ lastmod: 2025-09-30T17:53:45
 
 ## Process
 
-1. Select an object for [photogrammetry](./02-04-photogrammetry.md). This can be the original object that you made a mold of or a pulled slip-cast of from the mold.
+1. Select an object for [photogrammetry](02-04-photogrammetry.md). This can be the original object that you made a mold of or a pulled slip-cast of from the mold.
 2. Set your object on an approximately waist high platform in a bright but flatly lit room. If a well lit room with even lighting is not available, then noon on a cloudy day outside works well.
 3. Capture multiple images of the object from multiple angles for photogrammetry:
    - Each part of the object must be taken from a minimum of two angles with overlapping information from other images.

@@ -1,12 +1,12 @@
 ---
 title: Two Part Slip Cast Mold
 date: 2024-12-05T16:32:19
-lastmod: 2025-01-15T08:58:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-A two part slip cast mold made of [plaster](./plaster.md) allows for the creation of more complex cast forms than are possible with a one piece mold.
+A two part slip cast mold made of [plaster](plaster.md) allows for the creation of more complex cast forms than are possible with a one piece mold.
 
-Ideal objects for slip casting should be relatively simple and not have deep [undercuts](./undercuts.md). More complex objects may need more than two mold parts or may need to be disassembled into multiple parts to be used with a two part plaster mold.
+Ideal objects for slip casting should be relatively simple and not have deep [undercuts](undercuts.md). More complex objects may need more than two mold parts or may need to be disassembled into multiple parts to be used with a two part plaster mold.
 
 ## Process
 
@@ -23,7 +23,7 @@ Ideal objects for slip casting should be relatively simple and not have deep [un
 11. Use coils of mold clay to seal all the edges and the corners.
 12. Apply mold soap to prevent the plaster from sticking to the cottle boards or the object to be cast.
 13. Calculate the volume of the mold cavity. Mark a vertical line on the cottle boards 1.5" above the highest point of the object.
-14. Mix the plaster according to the [plaster mixing instructions](./how-to-mix-plaster.md).
+14. Mix the plaster according to the [plaster mixing instructions](how-to-mix-plaster.md).
 15. Pour the plaster in gently and check for leaks.
 16. Wait for the plaster to set up, then remove the cottle boards.
 17. Reattach the cottle boards.

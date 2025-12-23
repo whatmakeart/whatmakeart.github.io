@@ -1,7 +1,7 @@
 ---
 title: 12.04 Sound Recordings Assignment
 date: 2024-11-19T12:00:00
-lastmod: 2025-02-22T15:13:43
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -27,4 +27,4 @@ Download SpaceControl multichannel authoring tool ([https://github.com/raphaelra
 
 ## References
 
-[^drake-recording]: Assignment written by [Bob Drake](./12-01-bob-drake.md)
+[^drake-recording]: Assignment written by [Bob Drake](12-01-bob-drake.md)

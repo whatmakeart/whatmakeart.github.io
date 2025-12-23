@@ -1,7 +1,7 @@
 ---
 title: "00.01 Syllabus"
 date: 2024-01-18T09:00:00Z
-lastmod: 2024-01-17T05:38:42
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Digital II: Modeling and Fabrication Syllabus
@@ -26,7 +26,7 @@ Semester: Spring 2024
 
 [Course Website](https://whatmakeart.com/courses/modeling-and-fabrication/2024-spring/)
 
-[Syllabus PDF Download](./2024-3d-modeling-and-fabrication-syllabus.pdf)
+[Syllabus PDF Download](2024-3d-modeling-and-fabrication-syllabus.pdf)
 
 ## Course Description
 

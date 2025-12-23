@@ -1,7 +1,7 @@
 ---
 title: 00.02 How to Succeed in this Course
 date: 2024-01-18T09:00:00Z
-lastmod: 2024-01-17T06:13:13
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## How to Succeed in this Course
@@ -18,4 +18,4 @@ lastmod: 2024-01-17T06:13:13
 - Don’t fall behind - we progress quickly and steadily!
 - Don't wait until the last minute to begin your projects.
 
-[![Study Well](./2024-grass.jpg)](./2024-grass.jpg)
+[![Study Well](2024-grass.jpg)](2024-grass.jpg)

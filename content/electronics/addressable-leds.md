@@ -1,6 +1,6 @@
 ---
 title: Addressable LEDs
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-12-23T10:12:35-04:00
 date: 2024-11-10T16:01:02
 tags:
   - Electronics
@@ -31,7 +31,7 @@ Common addressable RGB LED protocols include:
 
 <figure>
 
-[![Addressable Strip RGB LEDs](./attachments/2023-addressable-strip-rgb-leds.jpg)](./attachments/2023-addressable-strip-rgb-leds.jpg)
+[![Addressable Strip RGB LEDs](attachments/2023-addressable-strip-rgb-leds.jpg)](attachments/2023-addressable-strip-rgb-leds.jpg)
 
 <figcaption>
 
@@ -42,7 +42,7 @@ Addressable Strip RGBW LEDs
 
 <figure>
 
-[![RGB LED Prototype](./attachments/2018-rgb-strip-leds-illuminated-prototype.jpg)](./attachments/2018-rgb-strip-leds-illuminated-prototype.jpg)
+[![RGB LED Prototype](attachments/2018-rgb-strip-leds-illuminated-prototype.jpg)](attachments/2018-rgb-strip-leds-illuminated-prototype.jpg)
 
 <figcaption>
 
@@ -53,7 +53,7 @@ RGB Strip LED Prototype
 
 <figure>
 
-[![LED Pixel Matrix](./attachments/2018-led-pixel-matrix.jpg)](./attachments/2018-led-pixel-matrix.jpg)
+[![LED Pixel Matrix](attachments/2018-led-pixel-matrix.jpg)](attachments/2018-led-pixel-matrix.jpg)
 
 <figcaption>
 
@@ -72,7 +72,7 @@ It is important that the ground of the power supply and the ground of the microc
 
 <figure>
 
-[![Switching Power Supply for LEDs](./attachments/2018-switching-power-supply.jpg)](attachments/2018-switching-power-supply.jpg)
+[![Switching Power Supply for LEDs](attachments/2018-switching-power-supply.jpg)](attachments/2018-switching-power-supply.jpg)
 
 <figcaption>
 

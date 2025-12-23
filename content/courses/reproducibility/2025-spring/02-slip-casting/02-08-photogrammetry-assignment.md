@@ -1,7 +1,7 @@
 ---
 title: 02.08 Photogrammetry Assignment
 date: 2025-01-29T09:00:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -26,7 +26,7 @@ lastmod: 2025-09-30T17:53:45
    - A video from 360 degrees around the object. One pass should be a low angle, one pass should be perpendicular, and one pass should be from a high angle. Move steady, keeping the object in focus.
    - A series of photos taken from around the object works well. Fill the frame and make sure the object is in focus. One 360 pass from a low angle, one from perpendicular, and one from a high angle. You can take additional detail shots from closer in.
 4. Use photogrammetry software to create a textured 3D mesh of your object.
-5. Download the [prepared render scene for Blender](./02-07-import-3d-model-into-pedestal-render-scene-blender.md).
+5. Download the [prepared render scene for Blender](02-07-import-3d-model-into-pedestal-render-scene-blender.md).
 6. Import the mesh into Blender.
 7. Scale and position the object on the virtual pedestal.
 8. Clean up the mesh of unwanted parts as needed.
@@ -61,8 +61,8 @@ lastmod: 2025-09-30T17:53:45
 
 ### Photogrammetry 3D Model Creation
 
-- [Photogrammetry with Adobe Substance Sampler](./02-05-photogrammetry-adobe-substance-sampler.md) - needs a folder of images
-- [Photogrammetry with Photocatch](./02-06-photogrammetry-photocatch.md) - works with a video or a folder of images
+- [Photogrammetry with Adobe Substance Sampler](02-05-photogrammetry-adobe-substance-sampler.md) - needs a folder of images
+- [Photogrammetry with Photocatch](02-06-photogrammetry-photocatch.md) - works with a video or a folder of images
 - [Additional Photogrammetry Software](../../../../3d-modeling/photogrammetry-software.md)
 
 ### Working with Photogrammetry Models in Blender

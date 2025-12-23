@@ -1,6 +1,6 @@
 ---
 title: Solid State Relays
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-12-23T10:12:35-04:00
 date: 2024-11-10T16:01:02
 tags:
   - Electronics
@@ -16,7 +16,7 @@ Wiring a solid state relay is similar to a mechanical relay.
 
 <figure>
 
-[![99 Solid State Relays Hooked Up](./attachments/2019-99-solid-state-relay-arduino.jpg)](./attachments/2019-99-solid-state-relay-arduino.jpg)
+[![99 Solid State Relays Hooked Up](attachments/2019-99-solid-state-relay-arduino.jpg)](attachments/2019-99-solid-state-relay-arduino.jpg)
 
 <figcaption>
 
@@ -27,7 +27,7 @@ Many solid state relay modules hooked up to an Arduino Mega
 
 <figure>
 
-[![High Current Solid State Relays for Arduino](./attachments/2019-high-current-solid-state-relays-arduino.jpg)](./attachments/2019-high-current-solid-state-relays-arduino.jpg)
+[![High Current Solid State Relays for Arduino](attachments/2019-high-current-solid-state-relays-arduino.jpg)](attachments/2019-high-current-solid-state-relays-arduino.jpg)
 
 <figcaption>
 

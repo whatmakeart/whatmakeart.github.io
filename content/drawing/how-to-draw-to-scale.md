@@ -1,7 +1,7 @@
 ---
 title: How to Draw to Scale
 date: 2023-05-23T21:59:40
-lastmod: 2024-09-19T15:16:00
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 This tutorial will show how to make drawings to scale. Make scale drawings, or drawings that are a different size than what they depict, but accurately represent the proportional sizes of all the components. The ability to make accurate scale drawings is an essential sculpture and making skill.
@@ -11,8 +11,8 @@ This tutorial will show how to make drawings to scale. Make scale drawings, or d
 To complete this tutorial you should be familiar with:
 
 - [How to Use Measuring Tools Accurately](../making/how-to-use-measuring-tools-accurately.md)
-- Basic [Drawing-Tools](./drawing-tools.md)
-- [Technical Drawing Tools](./technical-drawing-tools.md)
+- Basic [Drawing-Tools](drawing-tools.md)
+- [Technical Drawing Tools](technical-drawing-tools.md)
 
 ## Instructions
 
@@ -23,6 +23,6 @@ To complete this tutorial you should be familiar with:
 
 ## Further Reading
 
-- [How to use Architectural and Engineering Scales](./how-to-use-architectural-and-engineering-scales.md)
-- [How to Enlarge a Drawing with a Grid](./how-to-enlarge-a-drawing-with-a-grid.md)
-- [Third Angle Projection](./third-angle-projection.md)
+- [How to use Architectural and Engineering Scales](how-to-use-architectural-and-engineering-scales.md)
+- [How to Enlarge a Drawing with a Grid](how-to-enlarge-a-drawing-with-a-grid.md)
+- [Third Angle Projection](third-angle-projection.md)

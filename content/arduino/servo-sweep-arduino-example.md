@@ -1,7 +1,7 @@
 ---
 title: Servo Sweep with Arduino Example
 date: 2023-06-17T07:03:19
-lastmod: 2025-01-09T12:07:10
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Electronics
 ---
@@ -16,7 +16,7 @@ The servo motor should be powered from an external power supply or a dedicated a
 
 <figure>
 
-[![Servo Motor Sweep Wiring](./attachments/2025-servo-sweep-circuit.png)](./attachments/2025-servo-sweep-circuit.png)
+[![Servo Motor Sweep Wiring](attachments/2025-servo-sweep-circuit.png)](attachments/2025-servo-sweep-circuit.png)
 
 <figcaption>
 

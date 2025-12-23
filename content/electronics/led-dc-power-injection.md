@@ -1,7 +1,7 @@
 ---
 title: LED DC Power Injection
 date: 2023-10-06T09:30:00
-lastmod: 2025-03-17T04:33:19
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Electronics
 ---
@@ -14,11 +14,11 @@ Generally, the lower the voltage of the LEDs the more often power injection is n
 
 For example, a 10-meter run of WS2812B LED strip at full brightness may require power injection every 5 meters. However, the same 10-meter run of LEDs at half brightness may not require any power injection at all.
 
-- Always disconnect the power supply from the LED strip before making any connections and follow basic [electricity safety](./electricity-safety.md).
+- Always disconnect the power supply from the LED strip before making any connections and follow basic [electricity safety](electricity-safety.md).
 - Use power supplies with the same voltage and current rating.
 - Always maintain a common DC ground connection point between all power supplies used in the system.
 - Don't connect the positive terminals of separate power supplies.
 - Connect the power supplies to the LED strip at evenly spaced intervals.
 - Make sure that the power supply wires are of sufficient gauge to handle the current load.
-- Make sure that the connections are secure and insulated to prevent electrical shock. [heat shrink tubing](./heat-shrink-tubing.md) can protect the connections and add some structural support
+- Make sure that the connections are secure and insulated to prevent electrical shock. [heat shrink tubing](heat-shrink-tubing.md) can protect the connections and add some structural support
 - Do not overload the power supplies or the LED strip.

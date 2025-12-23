@@ -1,7 +1,7 @@
 ---
 title: 06.07 Select Three Public Domain Images
 date: 2025-10-01T12:00:00
-lastmod: 2025-12-01T19:42:05
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -15,11 +15,11 @@ lastmod: 2025-12-01T19:42:05
 
 ## Assignment Overview
 
-[Appropriate](./06-02-appropriation.md) a minimum of 3 images and process a minimum of 1 for laser etching in preparation for printmaking. Images must be sourced from the [public domain](./06-05-public-domain.md) or be an image that you have a license to. The original images may **not** be created by you.
+[Appropriate](06-02-appropriation.md) a minimum of 3 images and process a minimum of 1 for laser etching in preparation for printmaking. Images must be sourced from the [public domain](06-05-public-domain.md) or be an image that you have a license to. The original images may **not** be created by you.
 
 ### Process
 
-1. Search [public domain](./06-05-public-domain.md) image repositories for images to appropriate. Look for images that interest you and will hold your attention. Make sure to source images from reputable sites and do not rely on a search engine public domain classification.
+1. Search [public domain](06-05-public-domain.md) image repositories for images to appropriate. Look for images that interest you and will hold your attention. Make sure to source images from reputable sites and do not rely on a search engine public domain classification.
 2. Record the source information about each image. Include the following information for each image in a document.
    - Title of Image if available
    - Creator of image if available

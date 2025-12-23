@@ -1,7 +1,7 @@
 ---
 title: Configure Username and Email in Git Mac
 date: 2024-01-10T09:01:28
-lastmod: 2025-10-31T03:57:14
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -10,7 +10,7 @@ lastmod: 2025-10-31T03:57:14
 
 To fix the "get username or email not found" error message in Git on macOS, especially when you're using Visual Studio Code (VS Code) as shown in your example, you need to configure your Git username and email. This error typically occurs when you try to make your first commit in a new Git installation and haven't set up your user identity yet. Here's a step-by-step guide to resolve this:
 
-[How to set GitHub Username and Email in Windows](./configure-username-email-in-git-windows.md)
+[How to set GitHub Username and Email in Windows](configure-username-email-in-git-windows.md)
 
 1. **Open the Terminal in VS Code**: Since you're already in VS Code, open an integrated terminal by going to the menu and selecting `Terminal` -> `New Terminal`. This terminal works just like your macOS terminal.
 

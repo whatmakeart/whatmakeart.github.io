@@ -1,7 +1,7 @@
 ---
 title: 11.04 Time Based Synthesis Ideation Assignment
 date: 2024-11-12T12:00:00
-lastmod: 2024-11-27T05:44:50
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2024-11-27T05:44:50
 
 ## Overview
 
-Continue the ideation and project development ideas began in class. Make sketches and write down ideas on how you will complete the [Synthesis Project](./11-05-time-based-synthesis-assignment.md).
+Continue the ideation and project development ideas began in class. Make sketches and write down ideas on how you will complete the [Synthesis Project](11-05-time-based-synthesis-assignment.md).
 
 ## Grading Rubric
 

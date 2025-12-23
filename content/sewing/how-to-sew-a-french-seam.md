@@ -1,7 +1,7 @@
 ---
 title: How to Sew a French Seam?
 date: 2024-08-22T06:16:32
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -44,4 +44,4 @@ This is a great seam finish and is very simple to do although it is difficult to
 
 ## Further Reading
 
-- [How to Sew Six Basic Seams](./how-to-sew-six-basic-seams.md)
+- [How to Sew Six Basic Seams](how-to-sew-six-basic-seams.md)

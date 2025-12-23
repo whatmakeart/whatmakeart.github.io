@@ -1,7 +1,7 @@
 ---
 title: 04.05 Room 3D Modeling Revision and Texture Assignment
 date: 2025-09-19T09:30:00
-lastmod: 2025-09-26T07:37:04
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -52,7 +52,7 @@ Design and layout a new conceptual room. This interior space is only limited by 
 
 [Blenderkit](../../../../3d-modeling/blender/install-blenderkit-blender.md) is a good source of materials, textures, doors, windows, and other 3d objects to use in your room model. If you apply a texture to an object, make sure to UV unwrap it.
 
-- [Student 3D Modeling Questions from Class](./04-03-3d-modeling-student-questions.md)
+- [Student 3D Modeling Questions from Class](04-03-3d-modeling-student-questions.md)
 - [How to Install Blenderkit](../../../../3d-modeling/blender/install-blenderkit-blender.md)
 - [Smart UV Project](../../../../3d-modeling/blender/smart-uv-project-blender.md)
 - [How to Scale fSpy Camera to Existing 3D Model in Blender](../../../../3d-modeling/blender/scale-fspy-camera-to-existing-3d-model-in-blender.md)

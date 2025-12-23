@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Check Model Model Bounding Box Size
 date: 2023-06-15T05:27:44
-lastmod: 2024-01-25T05:33:11
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Fusion-360
 ---
@@ -12,11 +12,11 @@ In order to check the model bounding box size in [Fusion 360](fusion-360.md):
 - Check the properties of the component that you want to export to know the bounding box size.
 - The total bounding box should be less than 50mm in all directions.
 
-![Fusion 360 Properties Browser](./attachments/2022-Fusion-360-Properties-Browser.png)
+![Fusion 360 Properties Browser](attachments/2022-Fusion-360-Properties-Browser.png)
 
 Right click on the body or component in the browser. Then select properties.
 
-![Fusion 360 Bounding Box](./attachments/2022-Fusion-360-Bounding-Box.png)
+![Fusion 360 Bounding Box](attachments/2022-Fusion-360-Bounding-Box.png)
 
 There is a small black triangle that needs to be clicked to show the bounding box information. Then you can see the bounding box dimensions. These should be below 50mm in all directions of x y and z.
 

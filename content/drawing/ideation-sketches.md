@@ -1,12 +1,12 @@
 ---
 title: Ideation Sketches
 date: 2023-06-13T16:11:02
-lastmod: 2025-09-30T18:31:43
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## What is Ideation Sketching?
 
-Ideation [sketching](./sketching.md) is an important part of the creative process. There are many ways to make and generate ideas. The simplest way is with small thumbnail sketches with a pencil on paper. One of the most important skills you can develop is idea generation. Even more important is the ability to develop and refine initial ideas.
+Ideation [sketching](sketching.md) is an important part of the creative process. There are many ways to make and generate ideas. The simplest way is with small thumbnail sketches with a pencil on paper. One of the most important skills you can develop is idea generation. Even more important is the ability to develop and refine initial ideas.
 
 Draw sketches that convey your idea and excite the viewer. Also draw sketches that explore how your concept could possibly be assembled and made.
 
@@ -28,7 +28,7 @@ After an initial bout of ideation go back through your sketches and see which on
 
 Sculpture commissions go through an initial planning phase and design phase. Once those approvals are complete, detailed drawings, contracts, and timelines are agreed upon. Then fabrication of the work begins. The drawings you make should be communicative of all aspects of your project and show how things will go together.
 
-Will you use a screw? Glue? Welding? What sizes? What materials? This will take multiple [technical sketches](./technical-sketching.md) and multiple views. [Third angle projections](./third-angle-projection.md) are an established convention for drawings that communication the form of an object from multiple angles.
+Will you use a screw? Glue? Welding? What sizes? What materials? This will take multiple [technical sketches](technical-sketching.md) and multiple views. [Third angle projections](third-angle-projection.md) are an established convention for drawings that communication the form of an object from multiple angles.
 
 Some sections of a larger drawing may require larger scaled detail drawings. If there are 4 identical corners, you can draw a detail of 1 corner and make a note that the other corners are the same.
 
@@ -60,15 +60,15 @@ Example of [Hepp Maccoy](../artists/hepp-maccoy.md) working out interactive fan 
 
 <div class="gallery-grid">
 
-[![Hepp Maccoy Air Max Day fan layout sketch](./attachments/2018-03-22-air-max-day-sketch-hepp-maccoy-1.jpg)](./attachments/2018-03-22-air-max-day-sketch-hepp-maccoy-1.jpg)
+[![Hepp Maccoy Air Max Day fan layout sketch](attachments/2018-03-22-air-max-day-sketch-hepp-maccoy-1.jpg)](attachments/2018-03-22-air-max-day-sketch-hepp-maccoy-1.jpg)
 
-[![Hepp Maccoy Air Max Day fan programming sketch](./attachments/2018-03-22-air-max-day-sketch-hepp-maccoy-2.jpg)](./attachments/2018-03-22-air-max-day-sketch-hepp-maccoy-2.jpg)
+[![Hepp Maccoy Air Max Day fan programming sketch](attachments/2018-03-22-air-max-day-sketch-hepp-maccoy-2.jpg)](attachments/2018-03-22-air-max-day-sketch-hepp-maccoy-2.jpg)
 
-[![Hepp Maccoy Air Max Day Power Supply Fabrication](./attachments/2018-03-20-air-max-day-power-supply-fabrication-hepp-maccoy.jpg)](./attachments/2018-03-20-air-max-day-power-supply-fabrication-hepp-maccoy.jpg)
+[![Hepp Maccoy Air Max Day Power Supply Fabrication](attachments/2018-03-20-air-max-day-power-supply-fabrication-hepp-maccoy.jpg)](attachments/2018-03-20-air-max-day-power-supply-fabrication-hepp-maccoy.jpg)
 
-[![Hepp Maccoy Air Max Day Power Supply Installation](./attachments/2018-03-20-air-max-day-power-supply-installation-hepp-maccoy.jpg)](./attachments/2018-03-20-air-max-day-power-supply-installation-hepp-maccoy.jpg)
+[![Hepp Maccoy Air Max Day Power Supply Installation](attachments/2018-03-20-air-max-day-power-supply-installation-hepp-maccoy.jpg)](attachments/2018-03-20-air-max-day-power-supply-installation-hepp-maccoy.jpg)
 
-[![Hepp Maccoy Air Max Day Fan Wall Installation](./attachments/2018-03-20-air-max-day-fan-wall-installation-hepp-maccoy.jpg)](./attachments/2018-03-20-air-max-day-fan-wall-installation-hepp-maccoy.jpg)
+[![Hepp Maccoy Air Max Day Fan Wall Installation](attachments/2018-03-20-air-max-day-fan-wall-installation-hepp-maccoy.jpg)](attachments/2018-03-20-air-max-day-fan-wall-installation-hepp-maccoy.jpg)
 
 <div class="iframe-16-9-container">
 <iframe class="vimeoIframe" title="vimeo-player" src="https://player.vimeo.com/video/285928549?h=4cb888d89f" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -82,17 +82,17 @@ Example of [Hepp Maccoy](../artists/hepp-maccoy.md) working out interactive fan 
 
 <div class="gallery-grid">
 
-[![Raul Romero Ideation Sketch](./attachments/2023-Raul-Romero-Ideation-Sketch-1.jpg)](./attachments/2023-Raul-Romero-Ideation-Sketch-1.jpg)
+[![Raul Romero Ideation Sketch](attachments/2023-Raul-Romero-Ideation-Sketch-1.jpg)](attachments/2023-Raul-Romero-Ideation-Sketch-1.jpg)
 
-[![Raul Romero Ideation Sketch](./attachments/2023-Raul-Romero-Ideation-Sketch-2.jpg)](./attachments/2023-Raul-Romero-Ideation-Sketch-2.jpg)
+[![Raul Romero Ideation Sketch](attachments/2023-Raul-Romero-Ideation-Sketch-2.jpg)](attachments/2023-Raul-Romero-Ideation-Sketch-2.jpg)
 
-[![Raul Romero Fabrication Sequence](./attachments/2023-Raul-Romero-Fabrication-Sequence-1.jpg)](./attachments/2023-Raul-Romero-Fabrication-Sequence-1.jpg)
+[![Raul Romero Fabrication Sequence](attachments/2023-Raul-Romero-Fabrication-Sequence-1.jpg)](attachments/2023-Raul-Romero-Fabrication-Sequence-1.jpg)
 
-[![Raul Romero Fabrication Sequence](./attachments/2023-Raul-Romero-Fabrication-Sequence-2.jpg)](./attachments/2023-Raul-Romero-Fabrication-Sequence-2.jpg)
+[![Raul Romero Fabrication Sequence](attachments/2023-Raul-Romero-Fabrication-Sequence-2.jpg)](attachments/2023-Raul-Romero-Fabrication-Sequence-2.jpg)
 
-[![Raul Romero Fabrication Sequence](./attachments/2023-Raul-Romero-Fabrication-Sequence-3.jpg)](./attachments/2023-Raul-Romero-Fabrication-Sequence-3.jpg)
+[![Raul Romero Fabrication Sequence](attachments/2023-Raul-Romero-Fabrication-Sequence-3.jpg)](attachments/2023-Raul-Romero-Fabrication-Sequence-3.jpg)
 
-[![Raul Romero Fabrication Sequence](./attachments/2023-Raul-Romero-Fabrication-Sequence-4.jpg)](./attachments/2023-Raul-Romero-Fabrication-Sequence-4.jpg)
+[![Raul Romero Fabrication Sequence](attachments/2023-Raul-Romero-Fabrication-Sequence-4.jpg)](attachments/2023-Raul-Romero-Fabrication-Sequence-4.jpg)
 
 </div>
 
@@ -102,17 +102,17 @@ The [Dragomi Art Car](https://dragomi.org/about/) did not spontaneously come int
 
 <div class="gallery-grid">
 
-[![Making of Dragomi Art Car](./attachments/2015-making-of-dragomi-art-car-sketch.jpg)](./attachments/2015-making-of-dragomi-art-car-sketch.jpg)
+[![Making of Dragomi Art Car](attachments/2015-making-of-dragomi-art-car-sketch.jpg)](attachments/2015-making-of-dragomi-art-car-sketch.jpg)
 
-[![Making of Dragomi Art Car](./attachments/2015-dragomi-Art-car-concept-image.png)](./attachments/2015-dragomi-Art-car-concept-image.png)
+[![Making of Dragomi Art Car](attachments/2015-dragomi-Art-car-concept-image.png)](attachments/2015-dragomi-Art-car-concept-image.png)
 
-[![Making of Dragomi Art Car](./attachments/2015-making-of-dragomi-art-car-bare-bones.jpg)](./attachments/2015-making-of-dragomi-art-car-bare-bones.jpg)
+[![Making of Dragomi Art Car](attachments/2015-making-of-dragomi-art-car-bare-bones.jpg)](attachments/2015-making-of-dragomi-art-car-bare-bones.jpg)
 
-![Dragomi Art Car Pixel Mapping](./attachments/2019-dragomi-art-car-3D-design-pixel-mapping.png)
+![Dragomi Art Car Pixel Mapping](attachments/2019-dragomi-art-car-3D-design-pixel-mapping.png)
 
-[![Dragomi Art Car](./attachments/2018-dragomi-burningman-2018-art-01.jpg)](./attachments/2018-dragomi-burningman-2018-art-01.jpg)
+[![Dragomi Art Car](attachments/2018-dragomi-burningman-2018-art-01.jpg)](attachments/2018-dragomi-burningman-2018-art-01.jpg)
 
-[![Dragomi Art Car](./attachments/2018-dragomi-burningman-2018-art-car-03.jpg)](./attachments/2018-dragomi-burningman-2018-art-car-03.jpg)
+[![Dragomi Art Car](attachments/2018-dragomi-burningman-2018-art-car-03.jpg)](attachments/2018-dragomi-burningman-2018-art-car-03.jpg)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" title="vimeo-player" src="https://player.vimeo.com/video/326638229?h=21a4eefcbf" width="640" height="360" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,12 +1,12 @@
 ---
 title: Casting
 date: 2024-11-10T16:01:02
-lastmod: 2025-05-15T06:00:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-Casting takes a material that is in a flowing or liquid state and puts that material into a container or [mold](./molds.md) that restricts its flow until it stops flowing. The method for stopping the flow can be either temperature or chemical based.
+Casting takes a material that is in a flowing or liquid state and puts that material into a container or [mold](molds.md) that restricts its flow until it stops flowing. The method for stopping the flow can be either temperature or chemical based.
 
-For example, in [slip casting](./slip-casting.md) of clay, when the clay dries, it no longer flows and can be removed from the mold.
+For example, in [slip casting](slip-casting.md) of clay, when the clay dries, it no longer flows and can be removed from the mold.
 
 ## Types of Casting
 
@@ -26,7 +26,7 @@ Iron Casting requires much hirer heat than bronze or aluminum casting.
 
 ### Plaster Casting
 
-Plaster casting is a reliable method of making a positive cast of a form. [Plaster](./plaster.md) is also often used as a [mold making](./molds.md) material.
+Plaster casting is a reliable method of making a positive cast of a form. [Plaster](plaster.md) is also often used as a [mold making](molds.md) material.
 
 ### Materials Used in Casting
 

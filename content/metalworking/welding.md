@@ -1,7 +1,7 @@
 ---
 title: Welding
 date: 2024-11-10T16:01:02
-lastmod: 2024-12-05T19:52:24
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Welding is the process of fusing metal together at high temperatures so that individual pieces of metal become a simgle piece of metal. Thermoplastics that can also be fused together with welding processes.
@@ -48,7 +48,7 @@ When TIG welding it is also important to wipe down and clean the filler rod befo
 
 ## Welding Safety
 
-- Always [Inspect Welding Equipment Before Use](./how-to-safety-inspect-welding-equipment-before-use.md) to ensure it is in proper working order and all safety devices and materials are in place and not damaged.
+- Always [Inspect Welding Equipment Before Use](how-to-safety-inspect-welding-equipment-before-use.md) to ensure it is in proper working order and all safety devices and materials are in place and not damaged.
 - Always wear safety glasses in addition to a face shield when grinding, one or the other is not enough, use both. Small bits of metal can bounce off you then your face shield and then your eye.
 - Avoid touching random pieces of metal and assume that everything is extremely hot and sharp
 - Clean metal before welding to make better welds and to remove harmful contaminates that might vaporize and be inhaled

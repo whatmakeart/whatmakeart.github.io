@@ -1,12 +1,12 @@
 ---
 title: Virtual Production
 date: 2025-09-30T16:52:15
-lastmod: 2025-11-04T06:15:02
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 Virtual Production uses a combination of technologies to create a realtime simulated environment for capturing video, creating experiences, or visualizing spaces.
 
-- [Virtual Production Tutorials](./virtual-production-tutorials.md)
+- [Virtual Production Tutorials](virtual-production-tutorials.md)
 
 ## LED Volumes
 

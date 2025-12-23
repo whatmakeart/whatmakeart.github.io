@@ -1,12 +1,12 @@
 ---
 title: How to Sew a Cargo Pocket
 date: 2023-05-23T21:59:41
-lastmod: 2024-07-20T05:02:55
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with [How to Thread an Juki DDL 870 Industrial Sewing Machine](./how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md) [How to Sew a Patch Pocket](./how-to-sew-a-patch-pocket.md)
+To complete this tutorial you should be familiar with [How to Thread an Juki DDL 870 Industrial Sewing Machine](how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md) [How to Sew a Patch Pocket](how-to-sew-a-patch-pocket.md)
 
 ## Instructions
 
@@ -36,4 +36,4 @@ This technique uses a second piece of fabric to create the bellows part of the c
 
 ## Further Reading
 
-- [History of Pockets and Missing Pockets](./history-of-pockets-&-missing-pockets.md)
+- [History of Pockets and Missing Pockets](history-of-pockets-&-missing-pockets.md)

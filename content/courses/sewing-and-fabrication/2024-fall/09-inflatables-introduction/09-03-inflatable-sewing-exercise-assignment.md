@@ -1,7 +1,7 @@
 ---
 title: 09.03 Inflatable Sewing Exercise Assignment
 date: 2024-10-28T09:00:00
-lastmod: 2024-10-28T19:46:12
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -14,7 +14,7 @@ Learn about module forms and batch processing of inflatable components by sewing
 
 <figure>
 
-[![Inflatable Exercise 3D Render Image](./2024-10-28-inflatable-sewing-exercise-3d-render.jpg)](./2024-10-28-inflatable-sewing-exercise-3d-render.jpg)
+[![Inflatable Exercise 3D Render Image](2024-10-28-inflatable-sewing-exercise-3d-render.jpg)](2024-10-28-inflatable-sewing-exercise-3d-render.jpg)
 
 <figcaption>
 

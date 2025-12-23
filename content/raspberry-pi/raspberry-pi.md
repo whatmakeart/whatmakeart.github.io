@@ -1,7 +1,7 @@
 ---
 title: Raspberry Pi
 date: 2023-05-23T21:59:41
-lastmod: 2025-01-09T07:13:26
+lastmod: 2025-12-23T10:12:35-04:00
 aliases:
   - Raspberry Pi
 tags:
@@ -12,10 +12,10 @@ A Raspberry Pi is a single board computer that is often used for low power on-si
 
 ## Raspberry Pi Tutorials
 
-- [How to SSH into a RaspberryPi](./ssh-into-raspberry-pi.md)
-- [Protect-Raspberry-Pi-From-Power-Failure](./protect-raspberry-pi-from-power-failure.md)
-- [Raspberry-Pi-Auto-Start-Scripts](./raspberry-pi-run-on-boot.md)
-- [Outputting-Sound-with-Raspberry-Pi](./outputting-sound-with-raspberry-pi.md)
+- [How to SSH into a RaspberryPi](ssh-into-raspberry-pi.md)
+- [Protect-Raspberry-Pi-From-Power-Failure](protect-raspberry-pi-from-power-failure.md)
+- [Raspberry-Pi-Auto-Start-Scripts](raspberry-pi-run-on-boot.md)
+- [Outputting-Sound-with-Raspberry-Pi](outputting-sound-with-raspberry-pi.md)
 - [Asynchronous video capture with OpenCV and Python – Blitzblit](http://blog.blitzblit.com/2017/12/24/asynchronous-video-capture-in-python-with-opencv/)
 
 ### Multiple Audio File Playback Raspberry Pi Links

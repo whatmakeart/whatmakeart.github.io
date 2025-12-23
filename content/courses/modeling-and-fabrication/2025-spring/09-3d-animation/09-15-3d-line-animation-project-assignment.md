@@ -1,13 +1,13 @@
 ---
 title: 09.15 3D Line Animation Project Assignment
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-04-13T09:20:31
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Line Animation Starter Project Files
 
-- [Maya Line Animation Starter Project File](./2025-Line-Animation-Maya.zip)
-- [Blender Line Animation Starter Project Archive File](./2025-Line-Animation-Blender.blend)
+- [Maya Line Animation Starter Project File](2025-Line-Animation-Maya.zip)
+- [Blender Line Animation Starter Project Archive File](2025-Line-Animation-Blender.blend)
 
 ## Assignment Deliverables
 
@@ -45,26 +45,26 @@ Create a 30 second long video composed in Adobe Premiere using images created an
 
 <figure>
 
-[![Blender Line Animation Frame](./2025-blender-line-animation-frame.jpg)](./2025-blender-line-animation-frame.jpg)
+[![Blender Line Animation Frame](2025-blender-line-animation-frame.jpg)](2025-blender-line-animation-frame.jpg)
 
 <figcaption>
 
 Starting and Ending "Line" Animation Frame Rendered in Blender
 
-[Blender Line Animation Starter Project File](./2025-Line-Animation-Blender.blend)
+[Blender Line Animation Starter Project File](2025-Line-Animation-Blender.blend)
 
 </figcaption>
 </figure>
 
 <figure>
 
-[![Maya Line Animation Frame](./2025-maya-line-animation-frame.jpg)](./2025-maya-line-animation-frame.jpg)
+[![Maya Line Animation Frame](2025-maya-line-animation-frame.jpg)](2025-maya-line-animation-frame.jpg)
 
 <figcaption>
 
 Starting and Ending "Line" Animation Frame Rendered in Maya
 
-[Maya Line Animation Starter Project Archive File](./2025-Line-Animation-Maya.zip)
+[Maya Line Animation Starter Project Archive File](2025-Line-Animation-Maya.zip)
 
 </figcaption>
 </figure>
@@ -77,8 +77,8 @@ Composes an animation that navigates through an inventive 3D environment crafted
 
 ## Process
 
-1. Draft a [Story Spine](./09-05-story-spines.md) that follows a basic narrative arc. This will give you guidelines and a plan to make your animation.
-2. Use the story spine to draw [storyboards](./09-06-storyboards.md) of the scenes and different camera angles that you want to use. Draw a page of storyboards to use a a guide for production.
+1. Draft a [Story Spine](09-05-story-spines.md) that follows a basic narrative arc. This will give you guidelines and a plan to make your animation.
+2. Use the story spine to draw [storyboards](09-06-storyboards.md) of the scenes and different camera angles that you want to use. Draw a page of storyboards to use a a guide for production.
 3. Start with the animation template files that have the "background cube" and the "line." Keep the beginning and the end of the scenes as is but modify the rest of the frames and objects outside the view of the beginning and ending camera to create a 3D environment or "animation set" of 3D modeled objects. This environment should be real world scale and be interesting enough to use as a setting for your animation. You can model different items for your scene and combine the meshes and group them together. You can save the items all in one scene or save each item as a different scene and import them into your main scene.
 4. Use the UV mapping editor in Maya to map the UVs of your objects Apply the Textures and edit as needed. You can also use Adobe's Substance Painter to add detailed textures. Smooth your object and then save it as an .obj file to import into Substance Painter. Then you can use all of the materials in Substance Painter.
 5. Add lights to the scene.

@@ -1,7 +1,7 @@
 ---
 title: Color Modes p5.js
 date: 2024-01-11T06:35:05
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Coding
   - p5.js
@@ -58,7 +58,7 @@ To apply this knowledge in p5.js, start by experimenting with the `rectMode()` a
 
 Remember, p5.js offers a versatile platform for creative coding, and mastering these basics opens up a world of possibilities in digital art and interactive designs.
 
-[![p5.js Color Mode Basics](./attachments/p5-js-color-modes-basic-thumb.png)](./attachments/p5-js-color-modes-basic-thumb.png)
+[![p5.js Color Mode Basics](attachments/p5-js-color-modes-basic-thumb.png)](attachments/p5-js-color-modes-basic-thumb.png)
 
 ## Color Modes p5.js Video Transcript
 

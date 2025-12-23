@@ -1,10 +1,10 @@
 ---
 title: Virtual Production Tutorials
 date: 2025-09-30T16:46:02
-lastmod: 2025-11-20T06:22:25
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-The tutorials below are for getting started with [virtual production](./virtual-production.md).
+The tutorials below are for getting started with [virtual production](virtual-production.md).
 
 ## Unreal Engine For Virtual Production with disguise
 
@@ -13,16 +13,16 @@ The tutorials below are for getting started with [virtual production](./virtual-
 - [How to Create a New Level in Unreal Engine 5.5.4](../../3d-modeling/unreal-engine/create-new-level-in-unreal-engine.md)
 - [How To Add Unreal Engine Environments from the Fab Marketplace](../../3d-modeling/unreal-engine/add-epic-games-fab-assets-to-library.md)
 - [Add 3D Environment from Fab Marketplace to Unreal Project](../../3d-modeling/unreal-engine/add-fab-3d-environment-to-unreal-project.md)
-- [Install RenderStream for Unreal Engine 5.5: Complete Setup Guide for disguise](./install-disguise-renderstream-plugin.md)
-- [Blank Environment to disguise RenderStream Setup Unreal 5.5.4](./blank-environment-to-disguise-renderstream-setup-unreal-5-5-4.md)
-- [Fab Environment to disguise RenderStream Setup Unreal 5.5.4](./fab-environment-to-disguise-renderstram-setup-unreal-5-5-4.md)
+- [Install RenderStream for Unreal Engine 5.5: Complete Setup Guide for disguise](install-disguise-renderstream-plugin.md)
+- [Blank Environment to disguise RenderStream Setup Unreal 5.5.4](blank-environment-to-disguise-renderstream-setup-unreal-5-5-4.md)
+- [Fab Environment to disguise RenderStream Setup Unreal 5.5.4](fab-environment-to-disguise-renderstram-setup-unreal-5-5-4.md)
 
 ## Hardware Camera Guides
 
 - [Calibrate Zoom and Focus Encoders for Virtual Production](https://youtu.be/ZXbMbc55ZOA)
 - [Change Battery on Red Komodo X](https://youtu.be/ZrvHKjlMgK8)
-- [Unmount Drive in AJA Ki Pro Ultra Video Recorder](./unmount-drive-in-aja-ki-pro-ultra-video-recorder.md)
-- [ETC Gio @ 5 Lighting Board](./etc-gio-at-5-lighting-console.md)
+- [Unmount Drive in AJA Ki Pro Ultra Video Recorder](unmount-drive-in-aja-ki-pro-ultra-video-recorder.md)
+- [ETC Gio @ 5 Lighting Board](etc-gio-at-5-lighting-console.md)
 
 ## Software Guides
 

@@ -1,7 +1,7 @@
 ---
 title: Code Comments p5.js
 date: 2024-01-11T06:04:21
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Coding
   - p5.js
@@ -45,7 +45,7 @@ In this tutorial on programming for artists, the concept of code comments is int
 
 In summary, comments are a vital part of programming, particularly in artistic and creative coding, where experiments and modifications are frequent. They help in keeping track of changes, understanding the functionality of various code segments, and maintaining a clear and understandable codebase. As emphasized in the tutorial, always strive to document your code clearly, whether it's for personal use or for sharing with others.
 
-[![Code Comments p5.js](./attachments/code-comments-thumb.png)](./attachments/code-comments-thumb.png)
+[![Code Comments p5.js](attachments/code-comments-thumb.png)](attachments/code-comments-thumb.png)
 
 ## Code Comments p5.js Video Transcript
 

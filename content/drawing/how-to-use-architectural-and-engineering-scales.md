@@ -1,7 +1,7 @@
 ---
 title: How to Use Architectural and Engineering Scales
 date: 2023-10-02T05:55:20
-lastmod: 2023-10-02T06:12:31
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Architectural Scale
@@ -57,4 +57,4 @@ For example, if you want to draw a wall that is 20 feet long on a drawing with a
 - 1 inch = 50 feet
 - 1 inch = 60 feet
 
-[^1]: [Using Engineer and Architectural Scales - US Fire Administration](https://www.usfa.fema.gov/downloads/pdf/nfa/engineer-architect-scales.pdf) [(Archive)](./attachments/using-engineer-architect-scales-usfa.pdf)
+[^1]: [Using Engineer and Architectural Scales - US Fire Administration](https://www.usfa.fema.gov/downloads/pdf/nfa/engineer-architect-scales.pdf) [(Archive)](attachments/using-engineer-architect-scales-usfa.pdf)

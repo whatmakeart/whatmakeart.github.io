@@ -1,14 +1,14 @@
 ---
 title: 3D Modeling - Maya
 date: 2023-06-15T05:57:34
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 We covered the basics of 3D modeling in Maya earlier in the course. Maya is a robust programs with many more features than could be covered in a semester course, but enough can be learned in a short time in order to create impressive forms, renders and animations.
 
 ## Maya Basic Modeling Review
 
-The videos below go over the [Maya](./maya.md) user interface and the basic polygon modeling tools. If you have not used Maya, this is a good place to start. For more introductory modeling techniques, refer to the earlier course module.
+The videos below go over the [Maya](maya.md) user interface and the basic polygon modeling tools. If you have not used Maya, this is a good place to start. For more introductory modeling techniques, refer to the earlier course module.
 
 - [Maya User Interface](https://youtu.be/-SpVNiRqeKY)
 - [Maya Polygon Modeling Tools](https://youtu.be/eBEitxaRYQs)

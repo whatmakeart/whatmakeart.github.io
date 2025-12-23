@@ -1,7 +1,7 @@
 ---
 title: 12 Minute Countdown Timer
 date: 2023-05-15T8:30:00-04:00
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 description: This video features a 12 minute countdown timer with an abstract animated background.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/12-minute-timer.jpg
 tags:
@@ -47,4 +47,4 @@ Our 12-minute countdown timer with an abstract animated background is more than 
 
 Don't forget to watch the video and use this unique timer to bring a new dimension to your content. Subscribe for more creative tools and share this with your network to help others discover this useful resource.
 
-[![12 Minute Timer](./attachments/12-minute-timer.jpg)](https://youtu.be/NS-_N1cBg8Y)
+[![12 Minute Timer](attachments/12-minute-timer.jpg)](https://youtu.be/NS-_N1cBg8Y)

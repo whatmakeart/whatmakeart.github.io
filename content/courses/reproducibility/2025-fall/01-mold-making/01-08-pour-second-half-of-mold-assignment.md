@@ -1,7 +1,7 @@
 ---
 title: 01.08 Pour Second Half of Mold Assignment
 date: 2025-08-27T12:00:00
-lastmod: 2025-12-01T19:22:52
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -14,8 +14,8 @@ Repeat the mold making and plaster pouring process for the second half of your m
 
 ### Resources
 
-- [Two Part Slip Cast Mold](./01-05-two-part-slipcast-mold.md)
-- [Mixing Plaster](./01-06-mixing-plaster.md)
+- [Two Part Slip Cast Mold](01-05-two-part-slipcast-mold.md)
+- [Mixing Plaster](01-06-mixing-plaster.md)
 
 ## Grading Rubric
 

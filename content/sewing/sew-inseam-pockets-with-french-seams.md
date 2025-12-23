@@ -1,14 +1,14 @@
 ---
 title: Sew Inseam Pockets with French Seams
 date: 2023-05-23T21:59:40
-lastmod: 2025-09-30T18:50:55
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
-This tutorial will show you how to sew simple inseam pockets and finish the seams with [french seams](./how-to-sew-a-french-seam.md).
+This tutorial will show you how to sew simple inseam pockets and finish the seams with [french seams](how-to-sew-a-french-seam.md).
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with [how to thread a sewing machine](./how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md) and how to sew inseam pockets.
+To complete this tutorial you should be familiar with [how to thread a sewing machine](how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md) and how to sew inseam pockets.
 
 ## Instructions
 
@@ -16,4 +16,4 @@ To complete this tutorial you should be familiar with [how to thread a sewing ma
 
 ## Further Reading
 
-- [History of Pockets and Missing Pockets](./history-of-pockets-&-missing-pockets.md)
+- [History of Pockets and Missing Pockets](history-of-pockets-&-missing-pockets.md)

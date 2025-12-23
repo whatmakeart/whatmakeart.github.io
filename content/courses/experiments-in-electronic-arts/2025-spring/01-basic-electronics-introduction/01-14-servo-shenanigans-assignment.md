@@ -1,7 +1,7 @@
 ---
 title: 01.14 - Servo Shenanigans Assignment
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-01-27T07:03:37
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2025-01-27T07:03:37
 
 ## Process
 
-Review the [Arduino Servo Example](./01-08-arduino-servo.md).
+Review the [Arduino Servo Example](01-08-arduino-servo.md).
 
 1. Attach your servo motor to the Arduino and upload the example sketch.
 2. Modify the parameters to change the behavior of the servo motor.

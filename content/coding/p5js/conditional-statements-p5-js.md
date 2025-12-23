@@ -1,7 +1,7 @@
 ---
 title: p5.js Conditional Statements
 date: 2024-01-24T05:16:23
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -98,7 +98,7 @@ if (myVariable >= 20 && myVariable <= 86) {
 }
 ```
 
-[![Conditional Statements p5.js](./attachments/if-else-introduction-thumb.jpg)](./attachments/if-else-introduction-thumb.jpg)
+[![Conditional Statements p5.js](attachments/if-else-introduction-thumb.jpg)](attachments/if-else-introduction-thumb.jpg)
 
 ## Conditional Statements p5.js Video Transcript
 

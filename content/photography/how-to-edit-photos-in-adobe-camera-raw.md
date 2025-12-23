@@ -1,7 +1,7 @@
 ---
 title: How to Edit Photos in Adobe Camera Raw
 date: 2023-05-30T00:40:53
-lastmod: 2025-10-09T06:25:57
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 [Photoshop](../software/adobe-photoshop/photoshop.md) has a plugin called Camera Raw that can edit raw camera images as well as other digital images.
@@ -43,7 +43,7 @@ While there’s overlap among tools, this top-to-bottom flow is a good place to 
 
 ### Start at the Top: Read the Histogram
 
-[![Camera Raw Histogram](./attachments/2025-10-09-adobe-camera-raw-histogram.jpg)](./attachments/2025-10-09-adobe-camera-raw-histogram.jpg)
+[![Camera Raw Histogram](attachments/2025-10-09-adobe-camera-raw-histogram.jpg)](attachments/2025-10-09-adobe-camera-raw-histogram.jpg)
 
 At the top right you’ll see the histogram, but this one is special: it combines red, green, blue, and luminance. Hover your cursor and you’ll see labeled regions blacks, shadows, exposure (the midrange), highlights, and whites. These match the sliders in the Basic panel.
 

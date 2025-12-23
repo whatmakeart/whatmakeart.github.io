@@ -1,14 +1,14 @@
 ---
 title: Sew Zipper Pocket without Exposed Zipper
 date: 2023-05-23T21:59:40
-lastmod: 2025-09-30T18:50:55
+lastmod: 2025-12-23T10:12:35-04:00
 ---
 
 This tutorial will show you how to attach a zipper without showing the zipper tape. This requires a lining on the inside of the pocket.
 
 ## Prerequisites
 
-To complete this tutorial you should be familiar with [How to Attach Fusible Interfacing](./how-to-attach-fusible-interfacing.md)
+To complete this tutorial you should be familiar with [How to Attach Fusible Interfacing](how-to-attach-fusible-interfacing.md)
 
 ## Instructions
 
@@ -49,4 +49,4 @@ Zippers are a great way to finish off a pocket but often instructions to add a z
 
 ## Further Reading
 
-- [History of Pockets and Missing Pockets](./history-of-pockets-&-missing-pockets.md)
+- [History of Pockets and Missing Pockets](history-of-pockets-&-missing-pockets.md)

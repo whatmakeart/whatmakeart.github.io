@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling Basics - Blender
 date: 2023-06-14T13:46:52
-lastmod: 2025-12-22T06:59:29
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Blender
   - 3D-Modeling
@@ -13,7 +13,7 @@ tags:
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/d54uJufn1pA?si=jOpx5BL0q9mdviJP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-[Blender](./blender.md) is a [3D modeling](../3d-modeling.md) program that can be overwhelming at the start but like any software, becomes much easier and understandable with a bit of use. The official online [Blender Reference Manual](https://docs.blender.org/manual/en/latest/index.html) is a good place to learn the basics and investigate advanced topics.
+[Blender](blender.md) is a [3D modeling](../3d-modeling.md) program that can be overwhelming at the start but like any software, becomes much easier and understandable with a bit of use. The official online [Blender Reference Manual](https://docs.blender.org/manual/en/latest/index.html) is a good place to learn the basics and investigate advanced topics.
 
 ## Blender Keyboard Shortcuts
 
@@ -54,7 +54,7 @@ tags:
 
 <figure>
 
-[![Blender default scene](./attachments/2023-blender-default-scene.png)](./attachments/2023-blender-default-scene.png)
+[![Blender default scene](attachments/2023-blender-default-scene.png)](attachments/2023-blender-default-scene.png)
 
 <figcaption>
 
@@ -64,7 +64,7 @@ Blender Default Scene with cube
 </figure>
 
 - [Blender User Interface](https://youtu.be/d54uJufn1pA)
-- [Change Units in Blender](./change-units-blender.md)
+- [Change Units in Blender](change-units-blender.md)
 - [Blender Polygon Modeling Tools](https://docs.blender.org/manual/en/latest/modeling/index.html)
 - [Blender Hole in Cube](https://youtu.be/COyvicPBTSA)
 - [Blender Beginner Polygon Modeling Tutorial](https://youtu.be/L5e7ysUUI7A)
@@ -111,7 +111,7 @@ Blender Default Scene with cube
 
 ### Further Blender Modeling Topics
 
-- [90 Degree Pipe Bend](./bridge-edge-loops-90-degree-pipe-blender.md)
+- [90 Degree Pipe Bend](bridge-edge-loops-90-degree-pipe-blender.md)
 - [Inset Across Mirror Modifier](https://youtu.be/FWhQdcOmP_8)
 - [Blender Low Poly Car Model Tutorial](https://youtu.be/zvAXVnefhy8)
 - [Bevel and Sub D](https://youtu.be/R73wtu1Ixnw)

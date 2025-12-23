@@ -1,7 +1,7 @@
 ---
 title: ESP32 Introduction
 date: 2025-01-27T18:17:55
-lastmod: 2025-01-27T18:29:00
+lastmod: 2025-12-23T10:12:35-04:00
 tags:
   - Electronics
 ---
@@ -11,7 +11,7 @@ tags:
 <div class="gallery-grid">
 <figure>
 
-[![Install ESP 32 Board Manager tools in Arduino IDE](./attachments/2025-01-27-add-esp2-boaard-manager.jpg)](./attachments/2025-01-27-add-esp2-boaard-manager.jpg)
+[![Install ESP 32 Board Manager tools in Arduino IDE](attachments/2025-01-27-add-esp2-boaard-manager.jpg)](attachments/2025-01-27-add-esp2-boaard-manager.jpg)
 
 <figcaption>
 
@@ -22,7 +22,7 @@ Install ESP32 Board Manager tools in Arduino IDE
 
 <figure>
 
-[![Install ESP32 Servo Library](./attachments/2025-01-27-install-esp32servo-library.jpg)](./attachments/2025-01-27-install-esp32servo-library.jpg)
+[![Install ESP32 Servo Library](attachments/2025-01-27-install-esp32servo-library.jpg)](attachments/2025-01-27-install-esp32servo-library.jpg)
 
 <figcaption>
 
