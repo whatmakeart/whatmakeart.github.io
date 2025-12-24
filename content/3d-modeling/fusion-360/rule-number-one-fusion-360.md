@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Rule Number One
-date: 2023-06-13T14:42:56
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-06-13T14:42:56-04:00
+lastmod: 2025-12-24T06:42:09-04:00
 tags:
   - Fusion-360
 ---
@@ -25,3 +25,13 @@ When getting started try to follow Rule #1:
 3. Activate the component
 
 Of course you might not always do this when you are experimenting or trying something out, but it is still a good habit to get into because often a simple experiment becomes a full working design.
+
+## Fusion Rule #1 for Intent Driven Design
+
+Now Rule #1 = "Choose the correct design intent first."
+
+1. Choose Part Design to model a single standalone object meant to be manufactured or inserted into an assembly.
+2. Choose Assembly Design to build an assembly by inserting or creating external components and sometimes editing them in place.
+3. Choose Hybrid Design to use the historical Fusion workflow with core modeling tools and assembly tools in the same file. This is best for quick restriction free ideation and concept development.
+
+Even though some workflows are changing some best practices remain the same. It is still best to name everything immediately. Working in the new intent driven design paradigm, activating the component can be thought of as having one purpose per file.

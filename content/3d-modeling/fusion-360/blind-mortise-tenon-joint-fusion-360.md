@@ -1,13 +1,13 @@
 ---
+title: Blind Mortise and Tenon Joints in Fusion 360 Tutorial
 date: 2023-03-14T16:31:00-04:00
-lastmod: 2025-12-22T07:22:59
+lastmod: 2025-12-24T06:12:10-04:00
 description: In this Fusion 360 tutorial, I will show you how to model a blind tenon joint to use on a CNC machine.
 featured_image: /3d-modeling/fusion-360/attachments/fusion-360-blind-mortise-tenon-cnc-joint.jpg
 tags:
   - Fusion-360
   - 3D-Modeling
   - CNC
-title: Blind Mortise and Tenon Joints in Fusion 360 Tutorial
 ---
 
 <div class="iframe-16-9-container">
@@ -16,7 +16,7 @@ title: Blind Mortise and Tenon Joints in Fusion 360 Tutorial
 
 ## How to Model a Blind Tenon Joint in Fusion 360
 
-In this Fusion 360 tutorial, I will show you how to model a blind tenon joint to use on a CNC machine. This is a great joint because it looks nice both on the inside and the outside of the joint, and it has a lot of nice glue surface. However, there are a couple of things you want to watch out for when adding the fillets that allow the router bit to get into the corners.
+In this [Fusion 360](fusion-360.md) tutorial, I will show you how to model a blind tenon joint to use on a CNC machine. This is a great joint because it looks nice both on the inside and the outside of the joint, and it has a lot of nice glue surface, and are a strong way to join plywood when making cabinets. However, there are a couple of things you want to watch out for when adding the fillets that allow the router bit to get into the corners.
 
 ### What You Will Need
 
@@ -55,4 +55,4 @@ In this Fusion 360 tutorial, I will show you how to model a blind tenon joint to
 
 ## Conclusion
 
-In this tutorial, you learned how to model a blind tenon joint in Fusion 360. This is a great joint for use on CNC machines because it is strong and easy to make. With a little practice, you will be able to model blind tenon joints in no time!Blind mortise and tenon joints are a strong way to join plywood when making cabinets. This Fusion 360 tutorial shows how to design and 3d model blind mortise and tenon joints for fabrication on a CNC router.
+In this tutorial, you learned how to model a blind tenon joint in Fusion 360. This is a great joint for use on CNC machines because it is strong and easy to make. With a little practice, you will be able to model blind tenon joints in no time.

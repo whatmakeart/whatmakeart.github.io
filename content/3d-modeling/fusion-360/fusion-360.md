@@ -1,24 +1,28 @@
 ---
 title: Fusion 360
 date: 2023-05-26T02:50:47
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2025-12-24T11:37:55-04:00
 tags:
   - Fusion-360
 ---
 
 Fusion 360 is a [parametric modeling](../parametric-modeling.md) program combined with CAM output for [CNC milling](../../digital-fabrication/cnc/cnc-basics.md), [laser cutting](../../digital-fabrication/laser-cutting/laser-cutting.md), and [3D printing](../../digital-fabrication/3d-printing/3d-printing.md) that simplifies going from digital ideas inside the computer to physical output.
 
+## Autodesk Fusion QuickStart
+
+- Install Fusion <!-- TODO Fusion 360 Install Video -->
+- Education License <!-- TODO Fusion Education License Instructions Page and Video-->
 - [Fusion 360 Rule #1](rule-number-one-fusion-360.md)
 - [Fusion 360 FAQ](fusion-360-faq.md)
 
-## Fusion 360 Sculpting
+### Fusion 360 Sculpting
 
 In addition to traditional parametric CAD modeling tools, Fusion 360 also has a sculpting workspace that uses [t-splines to make organic forms](organic-forms-with-t-splines-fusion-360.md).
 
 - [T-Splines Introduction](https://youtu.be/8vGrRR_TLEg)
 - [Fusion-360-Sculpting-Tips](sculpting-tips-fusion360.md)
 
-## Fusion 360 Rendering
+### Fusion 360 Rendering
 
 Fusion 360 has a robust local and cloud rendering engine with built in materials. Some materials are fully 3D mapped and seamlessly cover complex shapes and forms. Get started with [basic rendering in Fusion 360](basic-rendering-fusion-360.md)
 

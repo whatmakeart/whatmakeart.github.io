@@ -1,9 +1,11 @@
 ---
 title: Parametric Modeling
 date: 2023-05-23T21:59:41
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2025-12-24T11:36:25-04:00
 tags:
   - Fabrication
+  - 3D-Modeling
+  - Parametric-Modeling
 ---
 
 Parametric 3D modeling is a type of computer-aided design (CAD) that uses parameters to control the shape and geometry of a model. Parameters can be anything from simple dimensions to complex mathematical equations. By changing the values of parameters, designers can quickly and easily create different variations of a model, and to make changes to their designs without having to redraw the entire model from scratch.
@@ -15,6 +17,8 @@ One of the key advantages of parametric modeling is that it allows designers to 
 Parametric 3D modeling is used in a wide variety of industries, including manufacturing, product design, architecture, and engineering. It is particularly well-suited for designing products that need to be mass-produced, such as cars, electronics, and medical devices.
 
 [Fusion 360](fusion-360/fusion-360.md) is a parametric modeling [3D Modeling](3d-modeling.md) program.
+
+Modeling complex assemblies can be approached in many ways. Two common was are Top Down Design and Bottom Up Design. Fusion is thought of as a Top Down Design tool since all of the parts are modeled in place. A Bottom Up Design starts with base parts or parts from an external manufacture and builds the design by assembling the individual parts.
 
 ## Fusion 360 Parametric Modeling
 

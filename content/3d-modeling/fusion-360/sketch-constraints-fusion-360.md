@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Sketch Constraints
 date: 2023-06-13T14:40:45
-lastmod: 2025-09-30T18:35:41
+lastmod: 2025-12-24T11:34:33-04:00
 tags:
   - Fusion-360
 ---
@@ -22,18 +22,26 @@ With the use of sketch constraints, it is not necessary to give dimensions to ev
 
 ## Types of Sketch Constraints
 
-- **Horizontal / Vertical** - Keeps a line, or two points, including a midpoint or the origin in a vertical or horizontal relationship. When the constraint is applied it picks the orientation that is closest to how the elements are on the screen at the time.
-- **Coincident** - two points are stuck together or a single point is constrained along a line or a curve
-- **Tangent** - A line is constrained to a single point on a circle, arc, or curve and are not able to cross over each other even if the line is short and does not touch the curve.
-- **Equal** - Makes two lines the same length, or two circles the same size, or two angles the same degree.
-- **Parallel** - Keeps two lines or the edges of shapes parallel so that they never intersect.
-- **Perpendicular** - Constrains two lines, or the edge of a shape and a line to a 90 degree angle.
+- **Horizontal / Vertical** - Keeps a line, or two points, including a midpoint or the origin in a vertical or horizontal relationship. When the constraint is applied it picks the orientation that is closest to how the elements are on the screen at the time. <!-- TODO Horizontal Constraint Tutorial Fusion -->
+
+- **Coincident** - two points are stuck together or a single point is constrained along a line or a curve <!-- TODO Coincident Constraint Tutorial Fusion -->
+
+- **Tangent** - A line is constrained to a single point on a circle, arc, or curve and are not able to cross over each other even if the line is short and does not touch the curve. <!-- TODO Tangent Constraint Tutorial Fusion -->
+
+- **Equal** - Makes two lines the same length, or two circles the same size, or two angles the same degree. <!-- TODO Equal Constraint Tutorial Fusion -->
+
+- **Parallel** - Keeps two lines or the edges of shapes parallel so that they never intersect. <!-- TODO Horizontal Parallel Tutorial Fusion -->
+
+- **Perpendicular** - Constrains two lines, or the edge of a shape and a line to a 90 degree angle. <!-- TODO Perpendicular Constraint Tutorial Fusion -->
+
 - **Locked** - Keeps the selected sketch objects locked in place even if there are not enough other constraints. Turns the sketch lines green.
 - **Midpoint** - Keeps the objects half way between the ends of a line.
 - **Concentric** - Keeps two circles, arcs, or ellipses locked to the same center point
 - **Colinear** - Locks two object along a line.
 - **Symmetry** - Makes two objects stay the same size and in the same position across an axis.
 - **Curvature** - Keeps continuous G2 curvature between two sketch objects.
+
+<!-- TODO Add Constraint Quick Tips Videos such as Did You Know? -->
 
 ## Fusion 360 Sketch Constraints Example Videos
 

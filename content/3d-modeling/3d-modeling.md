@@ -1,7 +1,10 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2025-12-23T17:58:06-04:00
+tasks:
+  - TODO add more detail about modeling and design intent
+  - TODO add concept of quick vs detailed
 ---
 
 What is a model? What is a 3D model? What is the difference between an analog and a digital 3D model? How does 2D [technical sketching](../drawing/technical-sketching.md) relate to 3D modeling?

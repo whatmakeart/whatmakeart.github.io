@@ -1,7 +1,7 @@
 ---
 title: 01.05 Draw Two Objects in Third Angle Projection Assignment
-date: 2026-01-16T09:00:00Z
-lastmod: 2025-12-15T05:57:15
+date: 2026-01-14T09:00:00-04:00
+lastmod: 2025-12-24T06:51:08-04:00
 ---
 
 ## Assignment Deliverables
@@ -31,7 +31,7 @@ Label the files:
 
 8. Write the dimensions on your freehand third angle projections. Mark metric somewhere on the page and note the units as mm. Label each view, Front, Top, Side/Right. Use your T-Square and triangles to draw straight lines for the dimensions. Think about where you put the dimensions so it is clear and legible by anyone.
 
-9. Cleanly scan both sketches.
+9. Cleanly scan both sketches or use a phone photo. Submitted images should have flat lighting, no shadows, clean crop, and minimum of 1000s of pixels per side.
 
 10. Label and upload your images.
 
@@ -86,3 +86,9 @@ Label the files:
 | File Management                 | 10 points |
 
 </div>
+
+### Self Critique Prompts
+
+- Which lines communicate structure vs decoration?
+- Where would modeling break if dimensions are missing?
+- What’s one ambiguity you could remove with a note?

@@ -1,7 +1,7 @@
 ---
 title: 01.07 Fusion 360 Exercise Exported Render Assignment
-date: 2026-01-16T09:00:00Z
-lastmod: 2025-12-15T06:00:11
+date: 2026-01-14T09:00:00-04:00
+lastmod: 2025-12-23T14:56:48-04:00
 ---
 
 ## Assignment Deliverables

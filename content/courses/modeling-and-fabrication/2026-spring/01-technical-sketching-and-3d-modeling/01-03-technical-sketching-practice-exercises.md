@@ -1,29 +1,30 @@
 ---
 title: 01.03 Technical Sketching Assignment
-date: 2026-01-16T09:00:00Z
-lastmod: 2025-12-15T05:57:15
+date: 2026-01-14T09:00:00-04:00
+lastmod: 2025-12-24T06:53:18-04:00
 ---
 
 ## Assignment Deliverables
 
-You will upload three separate, scanned, and labeled JPEGs, PNGs, or PDFs of the following the sketching practice exercises:
+Upload three separate, scanned, and labeled JPEGs, PNGs, or PDFs of the following the sketching practice exercises:
 
 1.  Page filled with straight lines
-    - Label the scanned image as: YYYYMMDD Lastname Firstname page of straight lines.jpg
+    - Label the scanned image as: YYYY-MM-DD Lastname Firstname page of straight lines.jpg
 2.  Freehand isometric cube with three isometric circles
-    - Label the scanned image as: YYYYMMDD Lastname Firstname freehand isometric cube and circles.jpg
+    - Label the scanned image as: YYYY-MM-DD Lastname Firstname freehand isometric cube and circles.jpg
 3.  Isometric Cube with three isometric circles drawn with T-Square and Compass
-    - Label the scanned image as: YYYYMMDD Lastname Firstname isometric cube and circles t-square and compass.jpg
+    - Label the scanned image as: YYYY-MM-DD Lastname Firstname isometric cube and circles t-square and compass.jpg
 
 ## Assignment Instructions
 
-Using loose sheets of paper, <span style="text-decoration: underline;">not</span> in your sketchbooks, do each of the following sketching exercises on your own.
+Using loose sheets of paper, _not_ in your sketchbooks, do each of the following sketching exercises on your own.
 
 ### 1. Page Filled with Straight Lines
 
 Draw a minimum of 1 page filled with straight lines. It is a good idea to do this multiple times until you get the hang of it. It will help you in your sketching in all of your classes. Remember to draw from the shoulder. Video demo of [drawing freehand straight lines](https://www.youtu.be/UUQa2CtzIwE).
 
-<div class="two-column-grid"><div>
+<div class="two-column-grid">
+<div>
 
 ### 2. Freehand Isometric Cube with Circles
 
@@ -35,7 +36,8 @@ After you have a page of good straight lines, then follow the video to draw an i
 
 </div>
 
-<div class="two-column-grid"><div>
+<div class="two-column-grid">
+<div>
 
 ### 3. Isometric Cube with Circles using Drawing Tools
 

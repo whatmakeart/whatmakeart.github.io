@@ -1,7 +1,7 @@
 ---
 title: 02.00 Introduction to Modeling Basics
-date: 2025-01-23T12:00:00Z
-lastmod: 2025-01-22T19:15:43
+date: 2025-01-23T12:00:00-04:00
+lastmod: 2025-12-23T12:48:19-04:00
 ---
 
 ## Overview

@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Basic Rendering
 date: 2023-06-14T05:57:42
-lastmod: 2025-12-22T07:16:23
+lastmod: 2025-12-24T11:37:55-04:00
 tags:
   - Fusion-360
   - Rendering
@@ -9,7 +9,7 @@ tags:
 
 ## Rendering Aspect Ratio
 
-Fusion 360 defaults to the viewport aspect ratio when rendering images. This often creates images that are extra wide and not very usable. It is better to select a specific aspect ratio for your rendered images. You can make custom ratios but to start off stick with the following aspect ratios 1:1, 3:4, 16:9 all in either vertical or horizontal orientation. [Aspect Ratio Demo Video](https://youtu.be/NLr1FG27BGs)
+[Fusion 360](fusion-360.md) defaults to the viewport aspect ratio when rendering images. This often creates images that are extra wide and not very usable. It is better to select a specific aspect ratio for your rendered images. You can make custom ratios but to start off stick with the following aspect ratios 1:1, 3:4, 16:9 all in either vertical or horizontal orientation. [Aspect Ratio Demo Video](https://youtu.be/NLr1FG27BGs)
 
 ## Cloud Rendering vs Local Rendering
 

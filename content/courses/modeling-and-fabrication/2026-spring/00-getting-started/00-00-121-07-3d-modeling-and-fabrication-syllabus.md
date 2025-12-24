@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus 121.07 Thursday
-date: 2026-01-16T09:00:00Z
-lastmod: 2025-12-18T15:08:08
+date: 2026-01-14T09:00:00-04:00
+lastmod: 2025-12-24T06:30:38-04:00
 ---
 
 ### Course Information
@@ -133,20 +133,20 @@ The following materials are not required for the course but may be useful to you
 | **Module** | **Date**    | **Topic**                                                                                              |
 | ---------- | ----------- | ------------------------------------------------------------------------------------------------------ |
 | 1          | January 15  | [Technical Sketching and 3D Modeling](../01-technical-sketching-and-3d-modeling/01-00-introduction.md) |
-| 2          | January 22  | Fusion 360 Sketching and Modeling Basics                                                               |
+| 2          | January 22  | Fusion Basics                                                                                          |
 | 3          | January 29  | 3D Printing                                                                                            |
 | 4          | February 5  | Laser Cutting                                                                                          |
-| 5          | February 12 | Laser Cutting Fabrication                                                                              |
-| 6          | February 19 | Project Revisions and 3D Scanning                                                                      |
+| 5          | February 12 | Laser Fabrication                                                                                      |
+| 6          | February 19 | Polygon Modeling Fundamentals                                                                          |
 | 7          | February 26 | Clamp Critique and 3D Scan Cleanup                                                                     |
 | 8          | March 5     | Polygon Mesh 3D Modeling                                                                               |
 | --         | March 12    | **No Class Spring Break**                                                                              |
 | 9          | March 19    | 3D Animation                                                                                           |
 | 10         | March 26    | Polygon Texturing                                                                                      |
 | 11         | April 2     | XR Studio Motion Capture                                                                               |
-| 12         | April 9     | CNC Design                                                                                             |
+| 12         | April 9     | CNC Design / Modeling                                                                                  |
 | 13         | April 16    | CNC Fabrication                                                                                        |
-| 14         | April 23    | Photo Documentation and Studio Work                                                                    |
+| 14         | April 23    | Photo Documentation                                                                                    |
 | 15         | April 30    | Final Crit                                                                                             |
 | --         | May 5 - 9   | BFA Reviews and Exhibitions                                                                            |
 

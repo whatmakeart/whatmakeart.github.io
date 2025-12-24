@@ -1,7 +1,10 @@
 ---
 title: 00.01 Course Resources
-date: 2026-01-14T09:00:00Z
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2026-01-14T09:00:00-04:00
+lastmod: 2025-12-23T17:46:13-04:00
+tasks:
+  - TODO add Links
+  - TODO make video
 ---
 
 ## Course Introduction
@@ -69,3 +72,7 @@ The course introduces basic technical sketching, third angle projections, 3D mod
 ## Course Information
 
 - [Syllabus](00-00-121-08-3d-modeling-and-fabrication-syllabus.md)
+
+## External Resources
+
+[CAD Quest](https://cadquest.io) - Online learning platform that presents CAD challenges and puzzles

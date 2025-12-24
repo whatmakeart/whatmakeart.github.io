@@ -1,9 +1,10 @@
 ---
 title: Fusion 360 Basic Creation Tools
 date: 2023-06-13T14:13:56
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2025-12-24T11:37:14-04:00
 tags:
   - Fusion-360
+  - 3D-Modeling
 ---
 
 ## Polygon Primitives and Shapes
@@ -23,22 +24,26 @@ When creating a new shape it defaults to a new body but you can also create a ne
 
 Without any additional knowledge of Fusion 360, relatively complex and detailed forms can be made through the combination of new primitive shapes and the use of joining, cutting and intersecting. It is not wrong to 3D model using only these tools, but once the idea goes beyond simple designs there are more efficient, easier, and better ways to create a 3D model.
 
+<!-- TODO make section about Sketching to 3D video Fusion -->
+
 ## Basic Creation Tools
 
 Additional creation tools help make more complex forms and designs. The basic creation tools include Extrude, Revolve, Sweep, Loft, Rib, Web, Emboss, and Mirror. These creation tools are found in many different 3D modeling programs. It is important to understand the underlying concept of these operations for form creation so you can model in Fusion 360 as well as other software as needed in the future. In different software, sometimes they may have different names or different controls but the method of form creation is the name.
 
-- **Extrude** - Pulls a flat face, plane or curved surface in or out in a uniform way to create new geometry. It can be used to join, cut, or intersect. The extrude tool is a bedrock function of most 3D modeling software, including Fusion 360. It is so fundamental to 3D modeling that it has a space on the top menu bar in Fusion 360 and is the only creation tool that automatically shows its keyboard shortcut of (E).
+- **Extrude** - Pulls a flat face, plane or curved surface in or out in a uniform way to create new geometry. It can be used to join, cut, or intersect. The extrude tool is a bedrock function of most 3D modeling software, including Fusion 360. It is so fundamental to 3D modeling that it has a space on the top menu bar in Fusion 360 and is the only creation tool that automatically shows its keyboard shortcut of (E). <!-- TODO make Extrude video Fusion -->
 - **Revolve** - Spins a sketch profile or a face around a central axis to create a radial form. It can spin a full 360 degrees or only a partial amount. [Revolve Demo Video](https://youtu.be/VzossdZbGtk)
-- **Sweep** - Unlike revolve, the sweep tool takes a profile sketch and "sweeps" or pulls it along another path. This can be a straight path or a curved path. Note that the path used for the sweep cannot be a "closed" path.
-- **Loft** - Loft connects two or more sketch planes together in a smooth way. These can be lined up along a curve to create transitions. A guide rail can be used to further customize how the transitions from shape to shape occur. [Loft Demo video](https://youtu.be/OTBZuSGG6bc)
-- **Rib** - Creates structural supports of a specified thickness from sketch lines that connect to the nearest faces in the object.
-- **Web** - Creates internal structural supports from sketch lines that connect to the nearest faces in the object.
-- **Emboss** - Pulls out a sketch profile from a surface an even amount to create a raised surface. Can also be used to cut.
+- **Sweep** - Unlike revolve, the sweep tool takes a profile sketch and "sweeps" or pulls it along another path. This can be a straight path or a curved path. Note that the path used for the sweep cannot be a "closed" path. <!-- TODO make Sweep video Fusion -->
+- **Loft** - Loft connects two or more sketch planes together in a smooth way. These can be lined up along a curve to create transitions. A guide rail can be used to further customize how the transitions from shape to shape occur. [Loft Demo video](https://youtu.be/OTBZuSGG6bc) <!-- TODO make basic loft video Fusion -->
+- **Rib** - Creates structural supports of a specified thickness from sketch lines that connect to the nearest faces in the object. <!-- TODO make Rib video Fusion -->
+- **Web** - Creates internal structural supports from sketch lines that connect to the nearest faces in the object. <!-- TODO make Web video Fusion -->
+- **Emboss** - Pulls out a sketch profile from a surface an even amount to create a raised surface. Can also be used to cut. <!-- TODO make Emboss video Fusion -->
 - **Mirror** - The mirror tool can mirror geometry across a mid-plane. This is useful for creating symmetrical objects so you only have to model one side. Then if changes need to be made, only one side needs to be modified and the mirrored side updates automatically. [Mirror Demo Video](https://youtu.be/vwCUjtsghdI)
 
 ## Additional Creation Tools
 
 Fusion 360 offers many more tools including [pattern making tools](basic-pattern-tools-fusion-360.md), thickening tools, boundary fill tools, tools for creating printed circuit boards, and many more.
+
+<!-- TODO add surfacing tools tutorials-->
 
 ## Fusion 360 Basic Creation Tools Example Videos
 

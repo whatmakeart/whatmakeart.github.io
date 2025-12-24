@@ -1,7 +1,7 @@
 ---
 title: Primitive 3D Forms Fusion 360
 date: 2025-01-23T06:08:29
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-24T11:37:55-04:00
 tags:
   - 3D-Modeling
   - Fusion-360
@@ -12,3 +12,6 @@ tags:
 </div>
 
 [Primitive 3D Forms Fusion 360](https://youtu.be/4XFlH1HGziM)
+
+<!-- TODO Add Video Transcript -->
+<!-- TODO Add Tutorial Written Instructions -->

@@ -1,6 +1,6 @@
 ---
 date: 2023-03-27T8:30:00-04:00
-lastmod: 2024-12-05T20:09:06
+lastmod: 2025-12-24T11:37:55-04:00
 description: In this Autodesk Fusion 360 tutorial, I will show you how to add tolerance to models for CNC Machining.
 featured_image: /3d-modeling/fusion-360/attachments/tolerance-and-fit-fusion-360-intro.jpg
 tags:
@@ -58,3 +58,5 @@ Once you have created a CNC tool path, you can cut the model. To do this, follow
 5. The model will be cut.
 
 I hope this tutorial has helped you to learn how to add tolerance to models for CNC Machining in Autodesk Fusion 360.
+
+<!-- TODO Add Tolerance and Fit Video -->

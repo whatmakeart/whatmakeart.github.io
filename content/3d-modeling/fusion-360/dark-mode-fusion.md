@@ -1,7 +1,7 @@
 ---
 title: Dark Mode Fusion
 date: 2025-12-16T15:34:52
-lastmod: 2025-12-22T19:43:56
+lastmod: 2025-12-24T11:37:55-04:00
 tags:
   - Fusion-360
 ---
@@ -14,3 +14,6 @@ tags:
 </div>
 
 [Dark Mode Fusion](https://youtu.be/QuqP7uwnuVs)
+
+<!-- TODO Add Video Transcript -->
+<!-- TODO Add Tutorial Written Instructions -->

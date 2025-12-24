@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus 121.08 Wednesday
-date: 2026-01-16T09:00:00Z
-lastmod: 2025-12-18T15:04:25
+date: 2026-01-14T09:00:00-04:00
+lastmod: 2025-12-23T14:56:48-04:00
 ---
 
 ### Course Information

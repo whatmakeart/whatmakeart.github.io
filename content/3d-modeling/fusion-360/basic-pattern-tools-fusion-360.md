@@ -1,9 +1,10 @@
 ---
 title: Fusion 360 Basic Pattern Tools
 date: 2023-06-13T14:39:39
-lastmod: 2025-12-22T19:41:50
+lastmod: 2025-12-24T11:37:22-04:00
 tags:
   - Fusion-360
+  - 3D-Modeling
 ---
 
 ## Examples of Patterns in the Environment
@@ -26,15 +27,19 @@ The lamp posts along a winding parkway, LEDs in a fancy car headlight, cut outs 
 
 Where else do you see patterns along a path?
 
-## Pattern Tools in Fusion 360
+## Pattern Tools in Autodesk Fusion
 
-Fusion 360 allows you to create patterns of objects or features. This is a powerful way to make complex additions to a model in a quick and editable way. You can create a rectangular pattern, a circular pattern, or a pattern on a path.
+[Fusion 360](fusion-360.md) allows you to create patterns of objects or features. This is a powerful way to make complex additions to a model in a quick and editable way. You can create a rectangular pattern, a circular pattern, or a pattern on a path.
 
 Examine everyday objects around you and look for different types of patterns.
 
 - **Rectangular Pattern** - Lays out objects or features along a rectangular pattern from a central origin. [Rectangular Pattern Video Demo](https://youtu.be/Y0nYNZvL0EA)
-- **Circular Pattern** - Lays out objects or features along a circular pattern from a central origin.
+- **Circular Pattern** - Lays out objects or features along a circular pattern from a central origin. <!-- TODO Circular pattern video Fusion -->
 - **Pattern Along a Path** - Lays out objects or features along a custom linear path that can be organic, geometric, or a combination. [Video demonstration of pattern along a path.](https://youtu.be/9xit7JRPQ0A)
+
+### Pattern Best Practices in Fusion
+
+In Fusion it is better to make patterns in the 3D workspace rather than in 2D sketches. This is also true for[mirroring objects ](how-to-mirror-a-body-fusion-360.md) in Fusion. Avoiding 2D sketch patterns increases efficiency, improves performance, and allows more flexibility for design iteration. The recommended workflow is to create a solid, or extrude, or design feature and [//]: # (TODO: This is also a highly portable comment method.) <!-- TODO 3D Patterns vs 2D Sketch Patterns video Fusion>
 
 ## Pattern Example Videos
 

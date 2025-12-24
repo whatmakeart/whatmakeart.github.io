@@ -1,7 +1,7 @@
 ---
 title: Insert McMaster-Carr Component Fusion 360
 date: 2025-02-07T06:18:21
-lastmod: 2025-05-12T15:03:18
+lastmod: 2025-12-24T11:37:55-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -9,3 +9,6 @@ lastmod: 2025-05-12T15:03:18
 </div>
 
 [Insert McMaster-Carr Component Fusion 360](https://youtu.be/8fbk9jAjV-g)
+
+<!-- TODO Add Video Transcript -->
+<!-- TODO Add Tutorial Written Instructions -->

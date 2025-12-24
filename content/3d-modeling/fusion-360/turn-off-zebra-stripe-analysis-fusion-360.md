@@ -1,6 +1,6 @@
 ---
 date: 2022-02-27T8:30:00-04:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2025-12-24T11:37:55-04:00
 description: Turn Off Zebra Strip Analysis Fusion 360
 featured_image: /3d-modeling/fusion-360/attachments/turn-off-zebra-stripe-analysis-fusion-360/Turn off Zebra Analysis Fusion 360 Title.jpg
 tags:
@@ -24,3 +24,6 @@ Fusion 360 has all kinds of great inspection tools including zebra analysis. If 
 So hopefully this will help you not get stuck with leaving your zebra analysis on in Fusion 360.
 
 Happy 3D modeling.
+
+<!-- TODO Add Video Transcript -->
+<!-- TODO Add Tutorial Written Instructions -->
