@@ -1,7 +1,7 @@
 ---
 title: Blender vs Maya
 date: 2024-01-26T05:22:49
-lastmod: 2025-09-30T17:53:45
+lastmod: 2025-12-29T07:13:09-04:00
 ---
 
 ## Blender vs Maya Basic Rendering

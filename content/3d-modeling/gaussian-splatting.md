@@ -1,7 +1,7 @@
 ---
 title: Gaussian Splatting
-date: 2024-09-11T06:45:54
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2024-09-11T06:45:54-04:00
+lastmod: 2026-01-04T07:54:35-04:00
 ---
 
 Gaussian Splatting is a method of using "splats" or gaussian "smears" to rebuild a 3D scene rather than a mesh. It became more well known from a [Siggraph 2023 3D Gaussian Splatting Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/). It is a technique that overcomes some of the limitations of [photogrammetry](photogrammetry-software.md) when creating 3D representations from photographic sources. Since the technology is relatively new, it is computationally intensive but will likely be a large part of the future of 3D modeling and representation

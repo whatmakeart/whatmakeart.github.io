@@ -1,7 +1,7 @@
 ---
 title: Open Any Image in Adobe Camera Raw
-date: 2023-05-30T00:40:53
-lastmod: 2025-10-09T06:16:47
+date: 2023-05-30T00:40:53-04:00
+lastmod: 2025-12-28T07:08:11-04:00
 ---
 
 [Photoshop](../software/adobe-photoshop/photoshop.md) has a plugin called Camera Raw that can edit raw camera images as well as other digital images. You can launch Camera Raw from Adobe Bridge, Photoshop, or After Effects. In Bridge, Shift-click to select multiple raw photos, right-click, and choose Open in Camera Raw.

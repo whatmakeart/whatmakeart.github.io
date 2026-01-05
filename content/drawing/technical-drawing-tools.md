@@ -1,7 +1,7 @@
 ---
 title: Technical Drawing Tools
-date: 2023-05-26T02:34:30
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-05-26T02:34:30-04:00
+lastmod: 2025-12-29T07:53:24-04:00
 ---
 
 <div class="iframe-16-9-container">

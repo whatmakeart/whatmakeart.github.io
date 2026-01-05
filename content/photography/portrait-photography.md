@@ -1,7 +1,7 @@
 ---
 title: Portrait Photography
-date: 2023-06-22T06:11:38
-lastmod: 2024-01-17T04:08:30
+date: 2023-06-22T06:11:38-04:00
+lastmod: 2025-12-28T07:08:11-04:00
 ---
 
 ## Two Light Portraits

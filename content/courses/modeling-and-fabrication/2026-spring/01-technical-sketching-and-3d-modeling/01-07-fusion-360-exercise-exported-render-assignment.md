@@ -1,7 +1,7 @@
 ---
 title: 01.07 Fusion 360 Exercise Exported Render Assignment
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-01-02T17:05:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -15,7 +15,7 @@ lastmod: 2025-12-23T14:56:48-04:00
 2. Add a material to the object other than the default grey steel. Press "a" on your keyboard to bring up the appearance browser. Select the material of your choice. It doesn't have to be wood and it doesn't have to be the same material on each face. Experiment and see what happens.
 3. Export a render of your part as a PNG. You can render on your machine or in the cloud. Double check that the object is not super tiny in the render preview.
 4. In the render settings make sure one of the dimensions is set to 4000px so you have enough resolution and choose a 1:1, 3:4, or 16:9 aspect ratio.
-5. Label the render image file and upload it. YYYYMMDD Lastname Firstname 3D Modeling Exercise Render.png
+5. Label the render image file and upload it. YYYY-MM-DD Lastname Firstname 3D Modeling Exercise Render.png
 
 ## Practice Modeling
 

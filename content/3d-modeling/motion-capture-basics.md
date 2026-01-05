@@ -1,7 +1,7 @@
 ---
 title: Motion Capture Basics
-date: 2023-10-02T06:40:49
-lastmod: 2024-12-01T06:07:30
+date: 2023-10-02T06:40:49-04:00
+lastmod: 2026-01-04T07:54:35-04:00
 ---
 
 With the advent of computer vision and machine learning, dedicated motion capture suits are no longer required to get motion capture data for 3D character animation.

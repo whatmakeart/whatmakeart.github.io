@@ -1,7 +1,7 @@
 ---
 title: Rephotography
-date: 2024-11-29T10:17:20
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2024-11-29T10:17:20-04:00
+lastmod: 2025-12-28T07:07:28-04:00
 ---
 
 Rephotography can refer to the photographing of the same object or location at different times.

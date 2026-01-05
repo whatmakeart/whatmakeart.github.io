@@ -1,8 +1,10 @@
 ---
 title: Photogrammetry Software
-date: 2023-09-24T11:15:16
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-09-24T11:15:16-04:00
+lastmod: 2026-01-04T07:57:21-04:00
 ---
+
+There are free and paid software for [Photogrammetry](photogrammetry.md).
 
 ## Free Photogrammetry Software
 

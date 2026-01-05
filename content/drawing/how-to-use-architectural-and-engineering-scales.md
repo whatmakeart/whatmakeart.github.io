@@ -1,7 +1,7 @@
 ---
 title: How to Use Architectural and Engineering Scales
-date: 2023-10-02T05:55:20
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-10-02T05:55:20-04:00
+lastmod: 2026-01-02T16:58:39-04:00
 ---
 
 ## Architectural Scale
@@ -10,7 +10,7 @@ An architectural scale is a specialized ruler that is used to measure and draw o
 
 To measure a distance on the drawing, place the zero mark of the scale at the beginning of the distance you want to measure. Then, read the number on the scale that aligns with the end of the distance.
 
-To draw a distance on the drawing, place the zero mark of the scale at the beginning of the distance you want to draw. Then, mark the desired length on the drawing using a pencil or other drafting tool.
+To draw a distance on the drawing, place the zero mark of the scale at the beginning of the distance you want to draw. Then, mark the desired length on the drawing using a pencil or other [drawing tool](drawing-tools.md).
 
 ### Architectural Scale Example
 

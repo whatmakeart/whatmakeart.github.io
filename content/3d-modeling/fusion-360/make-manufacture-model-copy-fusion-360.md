@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Make Manufacture Model Copy
 date: 2023-06-14T12:56:22
-lastmod: 2025-09-30T18:43:34
+lastmod: 2025-12-26T06:49:33-04:00
 tags:
   - Fusion-360
 ---
@@ -16,12 +16,13 @@ If you make changes to the manufacture model, it does not update the design mode
 
 You can have multiple manufacture models.
 
-<div class="vidoe-grid">
+<div class="video-grid">
 <div class="video-card">
 
 ## Make a Manufacture Model Copy of Your Design
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/bhVPR4CUOUk?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/bhVPR4CUOUk?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+</div>
+
 </div>

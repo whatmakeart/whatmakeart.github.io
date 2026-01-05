@@ -33,6 +33,7 @@
     "retarget",
     "retargeted",
     "Retargting",
+    "retopology",
     "Revit",
     "Rokoko",
     "spatialized",
@@ -40,12 +41,13 @@
     "wisk"
   ],
   "foam.files.exclude": [
+
     "**/_index.md",
     "**/README.md",
     "public/**/*",
     "themes/**/*"
-    //"content/courses/**/*", // keeps course materials out of graph vizualisation
-    //"content/zalgorithmic/**/*" // keeps course materials out of graph vizualisation
+    "content/courses/**/*", //keeps course materials out of graph vizualisation and wikilink search
+    "content/zalgorithmic/**/*" // keeps course materials out of graph vizualisation
   ],
   "foam.files.attachmentExtensions": "zip f3d png blend ma mb pdf mp3 webm wav m4a mp4 avi mov rtf txt doc docx pages xls xlsx numbers ppt pptm pptx",
   "foam.orphans.exclude": [

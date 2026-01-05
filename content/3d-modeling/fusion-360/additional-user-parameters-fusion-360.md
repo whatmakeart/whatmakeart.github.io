@@ -1,7 +1,7 @@
 ---
-title: Fusion 360 Additional User Parameters
+title: Additional User Parameters - Fusion 360
 date: 2023-06-14T13:27:40
-lastmod: 2025-12-24T11:37:04-04:00
+lastmod: 2025-12-26T07:01:11-04:00
 tags:
   - Fusion-360
   - Parametric-Modeling

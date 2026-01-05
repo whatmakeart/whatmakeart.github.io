@@ -1,7 +1,7 @@
 ---
 title: Third Angle Projection
-date: 2023-06-14T12:18:16
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-06-14T12:18:16-04:00
+lastmod: 2025-12-29T07:53:24-04:00
 ---
 
 Third angle projection is a method of drawing a three dimensional object on a two dimensional plane or piece of paper. It is a type of orthographic projection that shows how an object looks from different directions on the same drawing. The different views line up and can be used to project dimensions from one view to another view using orthogonal (perpendicular) lines. The three views are front, side and top. The other common multi angle projection method is first angle projection but we will focus on third angle projections.

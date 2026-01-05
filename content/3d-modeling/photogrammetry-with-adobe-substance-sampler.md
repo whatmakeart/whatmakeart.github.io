@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry with Adobe Substance 3D Sampler
-date: 2025-01-21T14:22:12
-lastmod: 2025-01-21T14:23:34
+date: 2025-01-21T14:22:12-04:00
+lastmod: 2026-01-04T07:55:26-04:00
 tags:
   - 3D-Modeling
   - Adobe-Substance-Sampler

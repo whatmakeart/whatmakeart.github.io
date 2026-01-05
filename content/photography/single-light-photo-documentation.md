@@ -1,7 +1,7 @@
 ---
 title: Single Light Photo Documentation
-date: 2025-11-16T06:06:05
-lastmod: 2025-11-16T06:08:15
+date: 2025-11-16T06:06:05-04:00
+lastmod: 2025-12-28T07:07:15-04:00
 ---
 
 <div class="iframe-16-9-container">

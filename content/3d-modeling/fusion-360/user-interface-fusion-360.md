@@ -1,7 +1,7 @@
 ---
-title: Fusion 360 User Interface
-date: 2023-06-14T12:21:53
-lastmod: 2025-12-24T06:45:45-04:00
+title: User Interface - Fusion 360
+date: 2023-06-14T12:21:53-04:00
+lastmod: 2025-12-26T07:27:53-04:00
 tags:
   - Fusion-360
 ---

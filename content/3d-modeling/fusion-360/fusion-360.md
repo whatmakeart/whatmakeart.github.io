@@ -1,19 +1,25 @@
 ---
 title: Fusion 360
 date: 2023-05-26T02:50:47
-lastmod: 2025-12-24T11:37:55-04:00
+lastmod: 2025-12-28T07:05:52-04:00
 tags:
   - Fusion-360
 ---
 
 Fusion 360 is a [parametric modeling](../parametric-modeling.md) program combined with CAM output for [CNC milling](../../digital-fabrication/cnc/cnc-basics.md), [laser cutting](../../digital-fabrication/laser-cutting/laser-cutting.md), and [3D printing](../../digital-fabrication/3d-printing/3d-printing.md) that simplifies going from digital ideas inside the computer to physical output.
 
-## Autodesk Fusion QuickStart
+## Autodesk Fusion QuickStart Orientation & Setup
 
 - Install Fusion <!-- TODO Fusion 360 Install Video -->
 - Education License <!-- TODO Fusion Education License Instructions Page and Video-->
-- [Fusion 360 Rule #1](rule-number-one-fusion-360.md)
+- User Interface Tutorial Fusion
+- Navigation Basics: Orbit, Pan, Zoom, ViewCube, Essential Shortcuts
 - [Fusion 360 FAQ](fusion-360-faq.md)
+- Troubleshooting for Makers?
+- [Fusion 360 Rule #1](rule-number-one-fusion-360.md)
+- Fusion Fundamentals (Start Here)
+
+Basic workflow follows the pattern of making a 3D sketch and then extruding 3D features from the profiles of the sketch.
 
 ### Fusion 360 Sculpting
 

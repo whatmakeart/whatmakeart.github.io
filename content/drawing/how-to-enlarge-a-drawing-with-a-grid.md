@@ -1,7 +1,7 @@
 ---
 title: How to Enlarge a Drawing with a Grid
-date: 2023-05-23T21:59:40
-lastmod: 2024-09-19T15:18:36
+date: 2023-05-23T21:59:40-04:00
+lastmod: 2025-12-29T07:53:24-04:00
 tags:
   - stub
 ---

@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry with Photocatch
-date: 2025-01-21T14:15:56
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2025-01-21T14:15:56-04:00
+lastmod: 2026-01-04T07:55:26-04:00
 tags:
   - 3D-Modeling
   - Photocatch

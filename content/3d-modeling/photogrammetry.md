@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry
-date: 2024-09-25T05:06:07
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2024-09-25T05:06:07-04:00
+lastmod: 2026-01-04T07:54:55-04:00
 ---
 
 Photogrammetry is a useful tool for capturing 3D Geometry and visual texture information from the real physical world. [Photogrammetry software](photogrammetry-software.md) uses multiple 2D images takes from different yet overlapping angles to create a 3D mesh with textures. It is accessible with little more than a cell phone camera needed for compelling results. While purpose built, industrial photogrammetry rigs and workflows can achieve a high level of accuracy, general photogrammetry often produces stunning visual textures but underwhelming 3D geometry. To achieve the highest physical detail and most accurate 3D model from the real world, [3D scanning](3d-scanning.md) is recommended.

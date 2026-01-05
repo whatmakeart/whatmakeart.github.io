@@ -1,7 +1,7 @@
 ---
 title: Photo Matching with fSpy
-date: 2024-08-20T13:54:16
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2024-08-20T13:54:16-04:00
+lastmod: 2026-01-04T07:55:26-04:00
 aliaes:
   - /3d-modeling/photo-matching-with-fspy/
 ---

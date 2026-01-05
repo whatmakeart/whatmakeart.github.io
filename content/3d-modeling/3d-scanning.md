@@ -1,7 +1,7 @@
 ---
 title: 3D Scanning
-date: 2023-12-12T07:03:31
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-12-12T07:03:31-04:00
+lastmod: 2026-01-04T07:55:34-04:00
 ---
 
 3D scanning is able to capture more detail and more accurate geometry than [photogrammetry](photogrammetry.md), but requires more expensive 3D scanning equipment and software. There are two main types of 3D scanning, Structured Light scanning and LiDAR scanning.

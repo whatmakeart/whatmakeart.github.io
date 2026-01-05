@@ -1,7 +1,7 @@
 ---
 title: Prevent Your Hand from Smudging your Drawing
-date: 2024-01-26T05:12:00
-lastmod: 2025-09-30T17:53:45
+date: 2024-01-26T05:12:00-04:00
+lastmod: 2025-12-29T07:53:24-04:00
 ---
 
 Great drawing tip from artist [Tony Ingrisano](https://www.tonyingrisano.com/) on how to prevent your hand from smudging your drawing as you work.

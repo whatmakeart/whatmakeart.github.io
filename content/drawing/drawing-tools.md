@@ -1,7 +1,7 @@
 ---
 title: Drawing Tools
-date: 2023-05-23T21:59:41
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-05-23T21:59:41-04:00
+lastmod: 2026-01-02T16:59:29-04:00
 ---
 
 The following tools and equipment will help make good drawings whether simple [sketches](sketching.md) or highly detailed renderings.
@@ -17,5 +17,10 @@ The following tools and equipment will help make good drawings whether simple [s
 - Pencils
 - Pens
 - Markers
+- [Architectural and Engineering Scales](how-to-use-architectural-and-engineering-scales.md)
 
+## Miscellaneous Drawing Tools
+
+- Kneaded Eraser
+- Plastic Eraser
 - [Technical Drawing Tools](technical-drawing-tools.md)

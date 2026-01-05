@@ -1,7 +1,7 @@
 ---
 title: Pixel Dimensions vs DPI
-date: 2025-08-28T09:00:00Z
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2025-08-28T09:00:00-04:00
+lastmod: 2025-12-28T07:08:11-04:00
 toc: true
 ---
 

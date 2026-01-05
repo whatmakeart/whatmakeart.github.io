@@ -1,7 +1,7 @@
 ---
 title: Sketching
-date: 2023-05-23T21:59:41
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-05-23T21:59:41-04:00
+lastmod: 2025-12-29T07:53:24-04:00
 ---
 
 Sketching is a great process for visualizing ideas and refining your ideas before committing to making. Pencils and paper are relatively cheap and with practice it only takes a few minutes to sketch out an idea in order to begin to evaluate it.

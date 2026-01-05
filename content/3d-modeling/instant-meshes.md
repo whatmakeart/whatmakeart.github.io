@@ -1,7 +1,7 @@
 ---
 title: Instant Meshes
-date: 2024-10-27T10:53:03
-lastmod: 2025-09-30T17:53:45
+date: 2024-10-27T10:53:03-04:00
+lastmod: 2026-01-04T07:54:35-04:00
 ---
 
 [Instant Meshes](https://github.com/wjakob/instant-meshes) is "an interactive meshing software developed as part of the publication _Instant Field-Aligned Meshes_ by Wenzel Jakob, Marco Tarini, Daniele Panozzo, and Olga Sorkine-Hornung." [^instant-meshes]

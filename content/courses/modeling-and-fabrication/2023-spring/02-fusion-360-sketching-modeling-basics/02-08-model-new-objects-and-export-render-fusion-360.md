@@ -1,7 +1,7 @@
 ---
 title: "02.08 Model Objects in Fusion 360 and Export Render Images"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-02-21T09:49:19
+lastmod: 2026-01-04T07:54:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -67,7 +67,7 @@ Download the Fusion 360 model files to your computer. (To download a .f3d file y
 
 <div class="image-card">
 
-[![Fusion 360 Example 1 with Environment](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-1-with-Environment.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-1-with-Environment.jpg)
+[![Fusion 360 Example 1 with Environment](./2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-1-with-Environment.jpg)](./2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-1-with-Environment.jpg)
 
 Toy Block with Environment
 
@@ -75,7 +75,7 @@ Toy Block with Environment
 
 <div class="image-card">
 
-[![Fusion 360 Example 2 with Custom HDRI](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Custom-HDRI.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Custom-HDRI.jpg)
+[![Fusion 360 Example 2 with Custom HDRI](./2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Custom-HDRI.jpg)](./2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Custom-HDRI.jpg)
 
 Drinking Glass with Custom HDRI
 
@@ -83,7 +83,7 @@ Drinking Glass with Custom HDRI
 
 <div class="image-card">
 
-[![Fusion 360 Example 2 with Environment](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Environment.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Environment.jpg)
+[![Fusion 360 Example 2 with Environment](./2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Environment.jpg)](./2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Environment.jpg)
 
 Drinking Glass with Environment
 
@@ -91,7 +91,7 @@ Drinking Glass with Environment
 
 <div class="image-card">
 
-[![Fusion 360 Example 2 with Transparent Background](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Transparent-Background.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Transparent-Background.jpg)
+[![Fusion 360 Example 2 with Transparent Background](./2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Transparent-Background.jpg)](./2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Transparent-Background.jpg)
 
 Drinking Glass with Transparent Background
 
@@ -99,7 +99,7 @@ Drinking Glass with Transparent Background
 
 <div class="image-card">
 
-[![Fusion 360 Example 3 with Environment](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Environment.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Environment.jpg)
+[![Fusion 360 Example 3 with Environment](./2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Environment.jpg)](./2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Environment.jpg)
 
 Binder Clip with Environment
 
@@ -107,7 +107,7 @@ Binder Clip with Environment
 
 <div class="image-card">
 
-[![Fusion 360 Example 3 with Transparent Background](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Transparent-Background.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Transparent-Background.jpg)
+[![Fusion 360 Example 3 with Transparent Background](./2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Transparent-Background.jpg)](./2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Transparent-Background.jpg)
 
 Binder Clip with Transparent Background
 

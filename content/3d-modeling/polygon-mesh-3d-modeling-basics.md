@@ -1,7 +1,7 @@
 ---
-title: Polygon Mesh 3D Modeling Basics
-date: 2023-06-14T13:54:43
-lastmod: 2025-12-23T10:12:35-04:00
+title: Polygon Mesh 3D Model Basics
+date: 2023-06-14T13:54:43-04:00
+lastmod: 2026-01-03T06:55:43-04:00
 ---
 
 ## Approaches to Making 3D Models
@@ -126,7 +126,7 @@ Face Normals
 
 ### UV Coordinates
 
-UV coordinates describe the mesh and the triangles in a flat 2D coordinate space that contains the image or procedural texture information.
+[UV Coordinates](uv-coordinates.md) describe the mesh and the triangles in a flat 2D coordinate space that contains the image or procedural texture information.
 
 Below is the raw output of the `vt` or texture coordinates from the example OBJ file. Notice that each coordinate only has 2 numbers instead of 3 like the vertices. That is because the texture is a 2D image file that only has U and V coordinates.
 
@@ -148,7 +148,7 @@ vt 0.9860912561 0.3404420018
 
 ## Polygon Mesh 3D Modeling Software Guides
 
-This [Blender vs Maya Polygon Modeling Comparison](blender-vs-maya.md) show ways to accomplish the same tasks in Maya and Blender, two popular 3D Modeling programs.
+This [Blender vs Maya Polygon Modeling Comparison](blender-vs-maya.md) show ways to accomplish the same tasks in [Maya](maya/maya.md) and [Blender](blender/blender.md), two popular 3D Modeling programs.
 
 - [Blender Modeling Basics](blender/3d-modeling-basics-blender.md)
 - [Maya Modeling Basics](maya/3d-modeling-basics-maya.md)

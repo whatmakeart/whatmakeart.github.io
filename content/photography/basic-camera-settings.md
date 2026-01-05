@@ -1,7 +1,7 @@
 ---
 title: Basic Camera Settings
-date: 2023-08-30T05:21:35
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-08-30T05:21:35-04:00
+lastmod: 2025-12-28T07:08:11-04:00
 ---
 
 ## 3 Main Camera Settings

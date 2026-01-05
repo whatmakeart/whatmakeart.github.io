@@ -1,7 +1,7 @@
 ---
 title: Parametric Modeling
-date: 2023-05-23T21:59:41
-lastmod: 2025-12-24T11:36:25-04:00
+date: 2023-05-23T21:59:41-04:00
+lastmod: 2026-01-04T07:55:26-04:00
 tags:
   - Fabrication
   - 3D-Modeling
