@@ -1,7 +1,7 @@
 ---
 title: How to Sew a Serged Seam with Top Stitching Home Serger
-date: 2024-09-06T10:31:35
-lastmod: 2025-09-30T17:53:45
+date: 2024-09-06T10:31:35-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 <div class="iframe-16-9-container">

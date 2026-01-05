@@ -1,7 +1,7 @@
 ---
 title: How to Thread a Juki DDL 8700
-date: 2023-05-23T21:59:40
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-05-23T21:59:40-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe width="560" height="315" src="https://www.youtube.com/embed/ByMZ_x4DyIk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
@@ -13,7 +13,7 @@ This tutorial will identify the main components of a Juki DDL 8700 lockstich ind
 To complete this tutorial you should be familiar with basic [Sewing](sewing.md). You will need:
 
 - thread
-- a properly sized needle
+- a properly sized needle - _see_ [How to Select Needle and Thread Size](how-to-select-needle-and-thread-size.md)
 - a bobbin
 - a bobbin case
 - Juki DDL 8700

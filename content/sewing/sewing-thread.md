@@ -1,7 +1,7 @@
 ---
 title: Sewing Thread
-date: 2024-09-09T08:39:53
-lastmod: 2025-12-22T06:27:36
+date: 2024-09-09T08:39:53-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 ![Sewing Thread](attachments/2024-09-07-sewing-thread.jpg)

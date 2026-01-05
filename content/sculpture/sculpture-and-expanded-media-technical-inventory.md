@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-01-05T06:58:33-04:00
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -36,7 +36,7 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | Domestic Sewing Machine                                                                            |       |             |             |             |             |
 | Seamless Backdrop                                                                                  |       |             |             |             |             |
 | Bolt Cutters                                                                                       |       |             |             |             |             |
-| [Crochet Hook](../sewing/how-to-use-crochet-hooks.md)                                              |       |             |             |             |             |
+| [Crochet Hook](../fibers/crochet-hooks.md)                                                         |       |             |             |             |             |
 | Bobbin Winder                                                                                      |       |             |             |             |             |
 | Stick Shuttle                                                                                      |       |             |             |             |             |
 | Hydraulic Press                                                                                    |       |             |             |             |             |

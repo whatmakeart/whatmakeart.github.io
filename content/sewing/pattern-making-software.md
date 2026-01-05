@@ -1,7 +1,7 @@
 ---
 title: Pattern Making Software
-date: 2025-12-09T07:21:14
-lastmod: 2025-12-09T08:25:34
+date: 2025-12-09T07:21:14-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 - [Browzwear](https://browzwear.com/)

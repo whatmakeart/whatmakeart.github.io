@@ -1,7 +1,7 @@
 ---
 title: Woven Fabrics
-date: 2023-05-23T21:59:41
-lastmod: 2025-12-11T05:48:40
+date: 2023-05-23T21:59:41-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 Woven fabrics are very common and used for many purposes. Woven fabrics are identifiable by the crisscrossing threads that interlace or overlap one another at 90° angles.

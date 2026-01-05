@@ -1,7 +1,7 @@
 ---
 title: How to Wind a Bobbin
-date: 2023-05-26T02:30:01
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-05-26T02:30:01-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 ## Instructions for Winding a Bobbin on a [Juki DDL 8700](how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)

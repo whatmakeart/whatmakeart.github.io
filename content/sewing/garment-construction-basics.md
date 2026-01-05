@@ -1,8 +1,10 @@
 ---
 title: Garment Construction Basics
-date: 2023-10-02T12:00:00
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-10-02T12:00:00-04:00
+lastmod: 2026-01-05T06:54:34-04:00
 ---
+
+[Sewing](sewing.md) a garment is a great way to learn pattern making and many useful fabric fabrication techniques.
 
 ## Garment Construction Tutorials
 
@@ -13,8 +15,3 @@ lastmod: 2025-12-23T10:12:35-04:00
 - [How to Copy a Pants Pattern](how-to-duplicate-a-pants-pattern.md)
 - [How to Sew Pants](how-to-sew-pants.md)
 - [How to Sew a Double Welt Pocket](how-to-sew-a-double-welt-pocket.md)
-
-## Sewing Tutorials
-
-- [How to Thread Juki Sewing Machine](how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)
-- [How to Sew Six Basic Seams](how-to-sew-six-basic-seams.md)

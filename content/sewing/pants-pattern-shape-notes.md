@@ -1,7 +1,7 @@
 ---
 title: Pants Pattern Shape Notes
-date: 2024-07-20T13:18:11
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2024-07-20T13:18:11-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 - The waistband does not need to be 100% horizontal, it can have a curve and rise

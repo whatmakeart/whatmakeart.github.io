@@ -1,7 +1,7 @@
 ---
 title: How to Sew a Patch Pocket
-date: 2024-11-10T16:01:02
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2024-11-10T16:01:02-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 tags:
   - stub
 ---

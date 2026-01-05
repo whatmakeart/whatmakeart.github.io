@@ -1,7 +1,7 @@
 ---
 title: How to Attach Fusible Interfacing
-date: 2023-06-02T02:24:27
-lastmod: 2024-07-19T11:36:44
+date: 2023-06-02T02:24:27-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 Fusible interfacing attaches to fabric with glue and stiffens the fabric and makes it stronger. IT is often used in garment facings, around pockets and button holes, and other locations where more dimension is desired.

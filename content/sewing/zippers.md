@@ -1,7 +1,7 @@
 ---
 title: Zippers
-date: 2023-06-03T04:02:59
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-06-03T04:02:59-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 Zippers are a great way to attach different pieces of garments, bags, and sculptures. Zippers allow for a fast, secure, and repeatable attachment point that is somewhat flexible. Zippers are not limited to fabrics. A zipper can be attached to a portion of fabric and then attached to a solid object. Zippers allow large fabric sculptures to be broken down into smaller pieces for transport and then easy reassembly at the installation site.

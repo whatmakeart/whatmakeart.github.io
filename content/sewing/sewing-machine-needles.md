@@ -1,7 +1,7 @@
 ---
 title: Sewing Machine Needles
-date: 2024-11-10T16:01:02
-lastmod: 2024-12-05T20:09:06
+date: 2024-11-10T16:01:02-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 Successful [Sewing](Sewing.md) with a sewing machine requires matching up materials, equipment, and intended task. important to have the correct needle for your sewing machine. Sewing machine needles differ in materials, size, and intended purpose.
@@ -18,3 +18,36 @@ The two main types of sewing machine needles can be split into two categories, h
 - Scarf - concave section of the needle above the tip and the eye that allows the hook to capture the thread to make a stitch
 - Eye - place where the thread passes through
 - Tip - end of the needle that first goes through the fabric, it can be pointy, blunt or even ball tipped
+
+- [How to Select Needle and Thread Size](how-to-select-needle-and-thread-size.md)
+
+Sewing machine needles are classified by their needle system, the size of the needle, the the type of needle point.
+
+## Needle Size Chart
+
+Needle size is the diameter of the needle and is often listed in Metric and US sizes. Metric needle size numbers represent hundredths of a millimeter. Size 80 = .8 mm and size 125 = 1.25 mm in diameter. Unless you are using a specialty machine you will rarely encounter needle sizes 120/19 and above.
+
+| Metric Size | US Size |
+| ----------- | ------- |
+| 80          | 12      |
+| 85          | 13      |
+| 90          | 14      |
+| 95          | 15      |
+| 100         | 16      |
+| 105         | 17      |
+| 110         | 18      |
+| 120         | 19      |
+| 125         | 20      |
+| 130         | 21      |
+| 140         | 22      |
+| 160         | 23      |
+| 180         | 24      |
+| 200         | 25      |
+| 230         | 26      |
+| 250         | 27      |
+| 280         | 28      |
+| 300         | 29      |
+|             |         |
+
+v
+v

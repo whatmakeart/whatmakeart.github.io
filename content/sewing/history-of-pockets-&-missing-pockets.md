@@ -1,7 +1,7 @@
 ---
 title: History of Pockets & Missing Pockets
-date: 2023-05-23T21:59:41
-lastmod: 2024-07-19T06:14:01
+date: 2023-05-23T21:59:41-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 Pockets are 1000s of years old. Otzi, the so called “Iceman” from approximately 3300 BCE had a belt with a pouch pocket that contained tools including a drill, awl made from bone and dried materials to use a tinder for making fires. [^edn1] Men and women carried little pouches that hung from their garments. In the 17th century these transformed into tie-on pockets that were worn under clothes and petticoats. Garments had slits on the sides to access the contents of the tie-on pockets.
@@ -18,7 +18,7 @@ Modern fashion designers and clothing trends have not helped bring pockets back.
 
 Even baby clothes have gendered pocket inequality. What is a non-crawling baby boy going to put in his multipocketed pants? Not sure but his baby sister won’t be putting anything in her pocketless pants. This might not seem like a big deal for a six-month-old but becomes a real limiting factor when kids get older. If a three-year-old girl’s shorts don’t have pockets but a boy’s do then a not-so-subtle message is conveyed. Boys can carry rocks, toys, pencils and other fun stuff and sill use their hands while girls, well, not so much. Usha Lee McFarling recounts in the _Los Angeles Times_ a story about her daughter’s annoyance at not even being able to carry lip balm in the fake pockets of her ski pants while her brother’s pants had pockets aplenty.[^edn9] Recently some clothing lines have begun to address this issue in children’s clothing by prominently adding pockets to girl’s clothes. Woman are also making brands that make pants with useable pockets.[^edn10]
 
-There is no reason for this discrepancy between men’s and women’s’ clothing in terms of pockets or the lack thereof. Fortunately, there is growing movement on social media and in popular culture to demand more and better pockets in women’s clothing. An article by Sam White from _InStyle_ chronicles people’s anger at the lack of pockets in women’s clothing. People tell stories of buying men’s clothing for the pockets, not wanting to always carry a purse, using their male partner’s pockets to carry things on walks, a trans woman’s surprise at the unexpected loss of pockets once wearing woman’s clothing and a [Reddit](https://www.reddit.com/r/Wellthatsucks/comments/mj6ghq/s21_ultra_in_my_wifes_jeans_vs_my_18_month_old/) post that shows how a 18 month old boy’s pants have bigger pockets than his mother’s jeans.[^edn11]
+There is no reason for this discrepancy between men’s and women’s’ clothing in terms of pockets or the lack thereof. Fortunately, there is growing movement on social media and in popular culture to demand more and better pockets in women’s clothing. An article by Sam White from _InStyle_ chronicles people’s anger at the lack of pockets in women’s clothing. People tell stories of buying men’s clothing for the pockets, not wanting to always carry a purse, using their male partner’s pockets to carry things on walks, a trans woman’s surprise at the unexpected loss of pockets once wearing woman’s clothing and a [Reddit post](https://www.reddit.com/r/Wellthatsucks/comments/mj6ghq/s21_ultra_in_my_wifes_jeans_vs_my_18_month_old/) that shows how a 18 month old boy’s pants have bigger pockets than his mother’s jeans.[^edn11]
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 title: How to Sew a Mock Flat Felled Seam
-date: 2024-08-23T05:17:54
-lastmod: 2025-09-30T17:53:45
+date: 2024-08-23T05:17:54-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 <div class="iframe-16-9-container">

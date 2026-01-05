@@ -1,7 +1,7 @@
 ---
 title: How to Sew a Busted Seam
-date: 2024-08-26T05:49:54
-lastmod: 2025-09-30T17:53:45
+date: 2024-08-26T05:49:54-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 <div class="iframe-16-9-container">

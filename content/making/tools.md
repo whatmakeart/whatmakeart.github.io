@@ -1,18 +1,18 @@
 ---
 title: Tools
 date: 2023-05-23T21:59:40
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-01-05T07:00:25-04:00
 ---
 
 Humans are tool makers and tool users. Tools extend the abilities of our minds and bodies. Some tools are portable while others are the size of factories such as a large gantry crane in a foundry.
 
-Every maker will have tools and [Materials-for-Making](materials-for-making.md) that they rely on almost daily and would not be able to complete their work without. Other tools will be used less frequently but are nevertheless essential.
+Every maker will have tools and [materials for making](materials-for-making.md) that they rely on almost daily and would not be able to complete their work without. Other tools will be used less frequently but are nevertheless essential.
 
 When acquiring tools there is a balance between buying the best quality tools that will last and buying inexpensive tools that will get the job done good enough. The latter is often ideal when trying out a new process or completing a specialty task that you do not anticipate repeating. Even in these cases it is a good idea to get the best quality tools you can whether you purchase, rent, or borrow the tools.
 
 ## Starter Tool Kit
 
-To get started with making you need some tools. At a minimum you need a pencil and some paper to begin [Writing](../art-faq/writing.md) down and [Sketching](../drawing/sketching.md) your ideas.
+To get started with making you need some tools. At a minimum you need a pencil and some paper to begin [writing](../art-faq/writing.md) down and [sketching](../drawing/sketching.md) your ideas.
 
 ### Recommended Starter Tools
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use Crochet Hooks
-date: 2023-10-01T06:10:49
-lastmod: 2023-10-01T06:18:15
+date: 2023-10-01T06:10:49-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 To use crochet hooks, you will need a crochet hook and a ball of yarn.

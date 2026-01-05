@@ -1,7 +1,7 @@
 ---
 title: How to Sew Sleeve Plackets
-date: 2023-05-23T21:59:40
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-05-23T21:59:40-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 This tutorial will show you how to sew sleeve plackets on a dress shirt or jacket. Sleeve plackets finish the raw edges of garments with narrow cuffs that need to open to allow a hand to fit through. The cuff can be secured with a zipper in the case of a leather jacket or with a button on a dress shirt.

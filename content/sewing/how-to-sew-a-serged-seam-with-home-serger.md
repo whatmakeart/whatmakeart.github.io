@@ -1,7 +1,7 @@
 ---
 title: How to Sew a Serged Seam with a Home Serger
-date: 2024-08-26T05:55:08
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2024-08-26T05:55:08-04:00
+lastmod: 2026-01-05T06:57:30-04:00
 ---
 
 <div class="iframe-16-9-container">
