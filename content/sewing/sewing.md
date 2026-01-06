@@ -1,7 +1,7 @@
 ---
 title: Sewing
 date: 2024-11-10T16:01:02-04:00
-lastmod: 2026-01-05T06:57:30-04:00
+lastmod: 2026-01-06T06:36:23-04:00
 ---
 
 Sewing is the process to use thread to mechanically attach to print planer pieces of [fabric](fabric.md) together. Generally, the pieces are cut in specific shapes that after so together will create a three-dimensional form. Often these forms are to fit around the shape of the human body or a piece of architecture.
@@ -119,6 +119,10 @@ An overlock stitch machine or [serger](serger.md) is used to keep the threads fr
 1. How can I use thicker thread in the machine?
 
 You need to use a larger needle. We have larger needles and the cabinet. A size 16 or 18 will work. You also need to adjust the bobbin case tension. When adjusting the bobbin case tension the little turn of the screw goes a long way. Maybe eighth to a quarter turn.
+
+2. How to accurately sew curves?
+
+Focus on the tangent point of the curve as it goes by the needle. It is a mistake to look at the fabric as it approaches the presser foot. Look at the fabric as it is tangent to the needle since that is where the curve is.
 
 ## Sewing Material Suppliers
 

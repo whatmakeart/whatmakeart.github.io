@@ -1,10 +1,10 @@
 ---
 title: Autodesk Education License Fusion
 date: 2025-12-26T07:11:40-04:00
-lastmod: 2026-01-05T17:29:14-04:00
+lastmod: 2026-01-06T05:59:59-04:00
 ---
 
-These instructions show how to register for and Autodesk for Education account and install [Fusion](fusion-360.md).
+These instructions show eligible students how to register for and Autodesk for Education account and install [Fusion](fusion-360.md).
 
 <div class="two-column-instructions-grid">
 
@@ -32,7 +32,11 @@ These instructions show how to register for and Autodesk for Education account a
 
 ![2025-10-05-select-student-for-fusion-plan.jpg](attachments/2025-10-05-select-student-for-fusion-plan.jpg)
 
+<div>
+
 4. Click “Continue” to move to account verification
+
+</div>
 
 ![2026-01-05-autodesk-requires-verification.jpg](attachments/2026-01-05-autodesk-requires-verification.jpg)
 

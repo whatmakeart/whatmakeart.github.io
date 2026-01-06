@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2026-01-12T09:00:00
-lastmod: 2025-12-09T06:26:17
+lastmod: 2026-01-06T06:46:10-04:00
 ---
 
 ## Sewing Material Suppliers
@@ -56,7 +56,6 @@ The online retailers below also have a wide selection of fabric but you must pla
 
 - [Wawak Sewing](https://www.superiorthreads.com/)
 - [The Zipper Lady](https://www.thezipperlady.com/)
-- [Jo-Ann’s Fabrics](https://www.joann.com/)
 - [UpCycle Parts Shop](https://www.upcyclepartsshop.org/)
 
 ## Scissors and Sharpening Tools
@@ -73,7 +72,8 @@ The online retailers below also have a wide selection of fabric but you must pla
 - [The Crochet Coral Reef Keeps Spawning, Hyperbolically - The New York Times](https://www.nytimes.com/2024/01/15/science/mathematics-crochet-coral.html)
 - [Why Don’t Women’s Clothes Have More Pockets?](https://www.nytimes.com/2023/11/06/style/pockets-womens-clothing.html)
 
-## Online
+## Online Resources
 
-[383 Design](https://www.youtube.com/@383design)
-[Techpacker](https://techpacker.com/blog/)
+- [383 Design](https://www.youtube.com/@383design)
+- [Techpacker](https://techpacker.com/blog/)
+- [Patternstudio101](https://www.patternstudio101.com/)
