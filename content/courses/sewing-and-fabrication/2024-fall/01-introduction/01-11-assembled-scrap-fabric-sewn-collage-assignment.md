@@ -1,7 +1,7 @@
 ---
-title: 01.10 Assembled Scrap Fabric Sewn Collage Assignment
+title: 01.11 Assembled Scrap Fabric Sewn Collage Assignment
 date: 2024-08-26T09:00:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-01-10T11:29:31-04:00
 ---
 
 ## Assignment Deliverables

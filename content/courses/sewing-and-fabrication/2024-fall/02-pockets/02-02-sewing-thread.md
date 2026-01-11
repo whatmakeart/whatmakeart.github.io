@@ -1,8 +1,8 @@
 ---
 title: 02.02 Sewing Thread
 date: 2024-09-09T09:00:00
-lastmod: 2024-09-09T08:40:59
+lastmod: 2026-01-11T17:25:03-04:00
 toc: true
 ---
 
-![Link to included file content](../../../../sewing/sewing-thread.md)
+![Link to included file content](../../../../sewing/thread.md

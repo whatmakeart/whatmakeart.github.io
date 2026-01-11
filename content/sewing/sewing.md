@@ -1,17 +1,19 @@
 ---
 title: Sewing
 date: 2024-11-10T16:01:02-04:00
-lastmod: 2026-01-06T06:36:23-04:00
+lastmod: 2026-01-11T17:25:03-04:00
 ---
 
-Sewing is the process to use thread to mechanically attach to print planer pieces of [fabric](fabric.md) together. Generally, the pieces are cut in specific shapes that after so together will create a three-dimensional form. Often these forms are to fit around the shape of the human body or a piece of architecture.
+Sewing is the process to use thread to mechanically attach pieces of [fabric](fabric.md) together with a needle and thread. Sewing can be done by hand as it has been done for thousands of years or it can be done with a sewing machine.
 
-To get started sewing you only need a few basic supplies. The following supplies are recommended for beginners and nothing more is need to start hand sewing right away. Hand sewing is an important skill to know but a sewing machine is an essential tool for anyone pursuing sewing for more than emergency garment repair.
+## Sewing Quick Start
 
-### Minimum Sewing Supplies
+To get started sewing you only need a few basic supplies to get hand sewing right away. Hand sewing is an important skill to know but or anyone pursuing sewing for more than the occasional emergency garment repair, a sewing machine is an essential tool.
+
+### Minimum Hand Sewing Supplies
 
 - [Hand Needles](hand-needles.md)
-- [Sewing Thread](sewing-thread.md)
+- [Sewing Thread](thread.md
 - scissors
 - pins
 
@@ -42,7 +44,7 @@ The stitches made by hand are different than those made by a lock stitch machine
 - **Blanket Stitch** - binds the threads on the edge of woven fabrics to prevent unraveling - See: [How to Sew a Blanket Stitch](how-to-sew-a-blanket-stitch.md)
 - **Overcast or Whipstich** - wraps around the edges of fabric and can prevent fraying, can also join pieces of fabric together such as a hem See: [How to Sew an Overcast Stitch](how-to-sew-an-overcast-stitch.md)
 - **Buttonhole stitch** - similar to the blanket stitch but ties a knot with each stitch to make the stitching more durable to the wear and tear of button insertion - See: [How to Sew a Button](how-to-sew-a-button.md)
-- **Backstich** - basic hand stitch that is similar to the running stitch except that after comming back through the fabric, the sewer goes back to the location of the previous stitch and pushes the need through the fabric at the same location, doubling up the stitch - See: [How to Sew a Backstich](how-to-sew-a-backstich.md)
+- **Backstich** - basic hand stitch that is similar to the running stitch except that after coming back through the fabric, the sewer goes back to the location of the previous stitch and pushes the need through the fabric at the same location, doubling up the stitch - See: [How to Sew a Backstich](how-to-sew-a-backstich.md)
 - **Basting Stitch** - temporary stitch used to hold pieces of fabric together during the construction process or to quickly mock up a form to check size and fit - See: [How to Sew a Basting Stitch](how-to-sew-a-basting-stitch.md)
 - **Running Stitch** - basic hand stitch that goes into the fabric, travels a bit, and then back through the fabric in the opposite way. Multiple stitches can be made at once - See: [How to Sew a Running Stitch](how-to-sew-a-running-stitch.md)
 
@@ -52,6 +54,7 @@ The stitches made by hand are different than those made by a lock stitch machine
 - cover
 - lockstich
 - overlock
+- bar tack
 
 ### Types of Machines
 
@@ -61,9 +64,9 @@ The stitches made by hand are different than those made by a lock stitch machine
 
 ### Domestic vs Industrial Machines
 
-Domestic or consumer sewing machines are cheap and versatile. Most can to a multitude o stitch types but because they are not single purpose built they tend to do each task worse than a dedicated machine. For example, on multi-purpose domestic machine may have an edge stitch function to try to capture fraying fabric edges, but it would be no match for even a domestic serger.
+Domestic or consumer sewing machines are cheap and versatile. Most can sew a multitude of stitch types but because they are not single purpose built they tend to do each task worse than a dedicated machine. For example, a multi-purpose domestic machine may have an edge stitch function to try to capture fraying fabric edges, but it would be no match for even a domestic serger.
 
-All domestics sewing machines can sew in a straight line, but they will be limited in the thickness of fabric that they can sew through, and the number of layers of even thin fabric that they can sew through as well as how thicker thread can't be used. Generally, if one is careful, they can work around these issues. But eventually the strength and specific built purpose of industrial machines is essential to make sewn objects.
+All domestics sewing machines can sew in a straight line, but they will be limited in the thickness of fabric that they can sew through, and the number of layers of even thin fabric that they can simultaneously sew through as well as the maximum thread weight that can be used. Generally, if one is careful, they can work around these issues. But eventually the strength and specific built purpose of industrial machines is essential to make sewn objects.
 
 #### Basic Sewing Machine Parts
 
@@ -84,7 +87,9 @@ All domestics sewing machines can sew in a straight line, but they will be limit
 - Thread Spool Holder
 - Motor
 
-## Different Machine Sewn Seams
+## Machine Sewn Seams
+
+Sewing manufacturing seams are classified by standards. ISO 4916 is an international standardization of seam types separated into 8 different classes of seams.
 
 ### Straight or Plain
 
@@ -127,8 +132,6 @@ Focus on the tangent point of the curve as it goes by the needle. It is a mistak
 ## Sewing Material Suppliers
 
 ### Fabric
-
-[Jo-Ann’s Fabrics](https://www.joann.com/) - 1533 Golden Gate Plaza #153 – (440) 684-1567
 
 Thrift Stores such as Goodwill, Salvation Army, the Cache are good places to get unique materials for projects.
 

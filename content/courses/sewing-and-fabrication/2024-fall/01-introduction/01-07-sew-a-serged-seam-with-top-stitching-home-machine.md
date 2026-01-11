@@ -1,7 +1,7 @@
 ---
-title: 01.07 Sew a Serged Seam with Top Stitching with Home Machine
-date: 2024-08-26T09:00:00
-lastmod: 2024-09-06T10:33:42
+title: 01.07 Sew a Serged Seam with Top Stitching with Home Serger
+date: 2024-08-26T09:00:00-04:00
+lastmod: 2026-01-10T11:29:01-04:00
 toc: true
 ---
 
