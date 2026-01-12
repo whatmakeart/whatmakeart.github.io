@@ -1,7 +1,7 @@
 ---
-title: 01.10 Seam Sewing Practice Assignment
+title: 01.11 Seam Sewing Practice Assignment
 date: 2026-01-12T09:00:00-04:00
-lastmod: 2026-01-12T11:42:24
+lastmod: 2026-01-12T11:45:05
 ---
 
 ## Assignment Deliverables
