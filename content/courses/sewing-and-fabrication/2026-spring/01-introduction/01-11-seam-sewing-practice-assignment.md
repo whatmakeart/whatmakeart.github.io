@@ -1,8 +1,10 @@
 ---
 title: 01.11 Seam Sewing Practice Assignment
 date: 2026-01-12T09:00:00-04:00
-lastmod: 2026-01-12T13:20:16
+lastmod: 2026-01-12T13:34:47
 ---
+
+[Click here to see full assignment if Canvas LMS app cuts off content](https://cia.instructure.com/courses/2141/assignments/16469?module_item_id=42501)
 
 ## Assignment Deliverables
 
