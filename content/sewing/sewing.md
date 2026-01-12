@@ -1,7 +1,7 @@
 ---
 title: Sewing
 date: 2024-11-10T16:01:02-04:00
-lastmod: 2026-01-11T21:03:16-04:00
+lastmod: 2026-01-12T05:41:11-04:00
 ---
 
 Sewing is the process to mechanically attach pieces of fabric together with a needle and thread.
@@ -23,53 +23,13 @@ Beyond the bare minimum it is a good idea to begin collect [basic sewing tools](
 
 [Hand sewing](hand-sewing.md) has existed for thousands of years and can be done anywhere and doesn't need electricity. Some sewing stitches and tailoring techniques can only be done by hand such as a decorative hand stitched buttonhole. The stitches made by hand are different than those made by a machine. Hand sewing is an important skill to know but or anyone pursuing sewing for more than the occasional emergency garment repair, a sewing machine is an essential tool.
 
-Early sewing machines also did not need electricity but instead used the caloric burn of the operator through a foot pedal to move the needle and make stitches. A machine stitch will generally be more consistent, faster, and stronger than a hand stitch. Whenever possible a machine should be used to sew materials together so time is not wasted with less effective hand stitching. Just about every kind of stitch can be made by various sewing machines.
-
-### Domestic vs Industrial Machines
-
-Domestic sewing machines or consumer sewing machines are cheap and versatile. Most can sew a multitude of stitch types but because they are not single purpose built they tend to do each task worse than a dedicated machine. For example, a multi-purpose domestic machine may have an edge stitch function to try to capture fraying fabric edges, but it would be no match for even a domestic serger.
-
-All domestics sewing machines can sew in a straight line, but they will be limited in the thickness of fabric that they can sew through, and the number of layers of even thin fabric that they can simultaneously sew through as well as the maximum thread weight that can be used. Generally, if one is careful, they can work around these issues. But eventually the strength and specific built purpose of industrial machines is essential to make sewn objects.
-
-### Types of Machines
-
-- Lock Stich
-- [Serger](serger.md)
-- Specific Task Designed Industrial Machines
-  - cover stitch machine
-  - overarm flat felling machine
-  - webbing cross stitch
-  - jeans riveter
-  - Bar Tack
-
-#### Basic Sewing Machine Parts
-
-- Bobbin
-- Needle
-- Feed Dogs
-- Bobbin Case
-- Needle Bar
-- Presser Foot
-- Rotary Hook
-- Bobbin Winder
-- Thread Routing
-- Thread Tensioner
-- Tension Spring
-- Stitch Length Adjuster
-- Reverse Stitch Lever
-- Tension Discs
-- Thread Spool Holder
-- Motor
-
-## Machine Sewn Seams
-
-Sewing manufacturing seams are classified by standards. ISO 4916 is an international standardization of seam types separated into 8 different classes of seams. Outside of the apparel industry and factory technichal specification sheets there are [essential machine sewn seams](essential-machine-sewn-seams.md) than every person who sews should know.
+[Sewing machines](sewing-machine.md) can make just about every kind of stitch. Early sewing machines also did not need electricity but instead used the caloric burn of the operator through a foot pedal to move the needle and make stitches. A machine stitch will generally be more consistent, faster, and stronger than a hand stitch. Whenever possible a machine should be used to sew materials together so time is not wasted with less effective hand stitching.
 
 ## Technical Sewing Design Practices
 
 - Pattern Drafting
 - Draping
-- Garment Construction
+- [Garment Construction Basics](garment-construction-basics.md)
 - Taking Measurements
 - Soft Goods
 - Soft Structures

@@ -1,12 +1,14 @@
 ---
 title: How to Sew a French Seam?
 date: 2024-08-22T06:16:32-04:00
-lastmod: 2026-01-05T06:57:30-04:00
+lastmod: 2026-01-12T05:51:54-04:00
 ---
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/LFx-pu-o64I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+The French Seam is ISO 4916 1.06.03
 
 ### How to Sew a French Seam Steps
 

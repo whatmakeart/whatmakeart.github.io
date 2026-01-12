@@ -1,12 +1,18 @@
 ---
 title: Sewing Machine Needles
 date: 2024-11-10T16:01:02-04:00
-lastmod: 2026-01-11T21:05:43-04:00
+lastmod: 2026-01-12T05:36:30-04:00
 ---
 
-Successful [sewing](Sewing.md) with a sewing machine requires matching up materials, equipment, and intended task. important to have the correct needle for your sewing machine. Sewing machine needles differ in materials, size, and intended purpose.
+Successful [sewing](sewing.md) with a sewing machine requires matching up materials, equipment, and intended task. It is important to have the correct needle for your sewing machine. Sewing machine needles differ in materials, size, and intended purpose.
+
+## Industrial Machine Needles vs Home Machine Needles
 
 Sewing machine needles can be split into two categories, home sewing machine needles and industrial sewing machine needles. Home sewing machine needles are usually identified by the half round flattened shank part that inserts into the needle bar of the sewing machine to ensure proper orientation. Industrial sewing machine needles have many different sizes but most common industrial needles have a completely round shaft that inserts into the needle bar and allows for fine adjustment of the orientation of the needle.
+
+- [How to Select Needle and Thread Size](how-to-select-needle-and-thread-size.md)
+
+Sewing machine needles are classified by their needle system, the size of the needle, the the type of needle point.
 
 ## Sewing Machine Needle Parts
 
@@ -18,10 +24,6 @@ Sewing machine needles can be split into two categories, home sewing machine nee
 - Scarf - concave section of the needle above the tip and the eye that allows the hook to capture the thread to make a stitch
 - Eye - place where the thread passes through
 - Tip - end of the needle that first goes through the fabric, it can be pointy, blunt or even ball tipped
-
-- [How to Select Needle and Thread Size](how-to-select-needle-and-thread-size.md)
-
-Sewing machine needles are classified by their needle system, the size of the needle, the the type of needle point.
 
 ## Needle Size Chart
 
