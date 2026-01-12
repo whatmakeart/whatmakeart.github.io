@@ -1,10 +1,10 @@
 ---
 title: How to Adjust Sewing Machine Tension
 date: 2023-05-23T21:59:40-04:00
-lastmod: 2026-01-05T06:57:30-04:00
+lastmod: 2026-01-11T21:05:43-04:00
 ---
 
-This [Sewing](sewing.md) tutorial will show you how to diagnose sewing machine thread tension issues and fix the tension so you have smooth and even stitches.
+This [sewing](sewing.md) tutorial will show you how to diagnose sewing machine thread tension issues and fix the tension so you have smooth and even stitches.
 
 ## Prerequisites
 

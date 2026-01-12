@@ -1,7 +1,7 @@
 ---
 title: Thread
 date: 2024-09-09T08:39:53-04:00
-lastmod: 2026-01-11T17:24:47-04:00
+lastmod: 2026-01-11T17:28:27-04:00
 ---
 
 <figure>
@@ -16,7 +16,7 @@ Sewing thread of different sizes.
 
 </figure>
 
-Thread is made of lengths of yarns or filaments joined together by twisting or spinning. [Sewing](sewing.md) uses thread to join fabric together.
+Thread is made of lengths of yarns or filaments joined together by twisting or spinning. Thread is used in [sewing](sewing.md) to join fabric together.
 
 ### Thread Materials
 

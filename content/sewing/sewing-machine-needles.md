@@ -1,12 +1,12 @@
 ---
 title: Sewing Machine Needles
 date: 2024-11-10T16:01:02-04:00
-lastmod: 2026-01-05T06:57:30-04:00
+lastmod: 2026-01-11T21:05:43-04:00
 ---
 
-Successful [Sewing](Sewing.md) with a sewing machine requires matching up materials, equipment, and intended task. important to have the correct needle for your sewing machine. Sewing machine needles differ in materials, size, and intended purpose.
+Successful [sewing](Sewing.md) with a sewing machine requires matching up materials, equipment, and intended task. important to have the correct needle for your sewing machine. Sewing machine needles differ in materials, size, and intended purpose.
 
-The two main types of sewing machine needles can be split into two categories, home sewing machine needles and industrial sewing machine needles. Home sewing machine needles are usually identified by the half round flattened shank part that inserts into the needle bar of the sewing machine to ensure proper orientation. Industrial sewing machine needles have many different sizes but most common industrial needles have a completely round shaft that inserts into the needle bar and allows for fine adjustment of the orientation of the needle.
+Sewing machine needles can be split into two categories, home sewing machine needles and industrial sewing machine needles. Home sewing machine needles are usually identified by the half round flattened shank part that inserts into the needle bar of the sewing machine to ensure proper orientation. Industrial sewing machine needles have many different sizes but most common industrial needles have a completely round shaft that inserts into the needle bar and allows for fine adjustment of the orientation of the needle.
 
 ## Sewing Machine Needle Parts
 
@@ -47,7 +47,3 @@ Needle size is the diameter of the needle and is often listed in Metric and US s
 | 250         | 27      |
 | 280         | 28      |
 | 300         | 29      |
-|             |         |
-
-v
-v

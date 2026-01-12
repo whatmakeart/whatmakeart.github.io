@@ -1,10 +1,10 @@
 ---
 title: Pattern Adjustments
 date: 2026-01-10T05:42:25-04:00
-lastmod: 2026-01-10T05:47:42-04:00
+lastmod: 2026-01-11T19:30:50-04:00
 ---
 
-### Adjusting Buttondown shirt for a Full Belly
+### Adjusting Buttondown Shirt for a Full Belly
 
 - unbutton shirt so side seam does not pull
 - Check if side seam is in correct place and confirm back of shirt is correct size.
@@ -17,3 +17,5 @@ lastmod: 2026-01-10T05:47:42-04:00
 - move this pice down to match the bottom seam
 - Fill in the gaps with paper
 - This method keeps the side seam the same and does not require sleeve adjustments since the armhole length stays the same.
+
+### Adding Darts at the Waist

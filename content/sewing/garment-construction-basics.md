@@ -1,10 +1,13 @@
 ---
 title: Garment Construction Basics
 date: 2023-10-02T12:00:00-04:00
-lastmod: 2026-01-11T15:24:25-04:00
+lastmod: 2026-01-11T17:41:16-04:00
 ---
 
 [Sewing](sewing.md) a garment is a great way to learn pattern making and many useful fabric fabrication techniques. Generally, the pieces are cut in specific shapes that after sewn together will create a three-dimensional form. Often these forms are to fit around the shape of the human body or a piece of architecture.
+
+- [Pants Pattern Shape Notes](pants-pattern-shape-notes.md)
+- [Pattern Adjustments](pattern-adjustments.md)
 
 ## Garment Construction Tutorials
 

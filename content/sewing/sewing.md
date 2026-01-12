@@ -1,72 +1,46 @@
 ---
 title: Sewing
 date: 2024-11-10T16:01:02-04:00
-lastmod: 2026-01-11T17:25:03-04:00
+lastmod: 2026-01-11T21:03:16-04:00
 ---
 
-Sewing is the process to use thread to mechanically attach pieces of [fabric](fabric.md) together with a needle and thread. Sewing can be done by hand as it has been done for thousands of years or it can be done with a sewing machine.
+Sewing is the process to mechanically attach pieces of fabric together with a needle and thread.
 
 ## Sewing Quick Start
 
-To get started sewing you only need a few basic supplies to get hand sewing right away. Hand sewing is an important skill to know but or anyone pursuing sewing for more than the occasional emergency garment repair, a sewing machine is an essential tool.
+To get started sewing you only need a few basic supplies.
 
 ### Minimum Hand Sewing Supplies
 
 - [Hand Needles](hand-needles.md)
-- [Sewing Thread](thread.md
-- scissors
-- pins
+- [Thread](thread.md)
+- [Fabric](fabric.md)
+- Scissors
 
-### Additional Recommended Sewing Supplies
-
-- [Zippers](zippers.md)
-- Sewing machine
-- Rulers
-- Marking pencils
-- iron
-- rotary cutter
-- fabric weights
-- pattern paper
-- seam ripper
-- thread trimmer
-- bobbin winder
-- thimble
+Beyond the bare minimum it is a good idea to begin collect [basic sewing tools](basic-sewing-tools.md).
 
 ## Hand Sewing vs Machine Sewing
 
-Hand sewing can be done anywhere and doesn't need electricity. Early sewing machines also did not need electricity but instead used the caloric burn of the operator through a foot pedal to move the needle and make stitches.
+[Hand sewing](hand-sewing.md) has existed for thousands of years and can be done anywhere and doesn't need electricity. Some sewing stitches and tailoring techniques can only be done by hand such as a decorative hand stitched buttonhole. The stitches made by hand are different than those made by a machine. Hand sewing is an important skill to know but or anyone pursuing sewing for more than the occasional emergency garment repair, a sewing machine is an essential tool.
 
-The stitches made by hand are different than those made by a lock stitch machine. A machine stitch will generally be more consistent, faster, and stronger than a hand stitch. Whenever possible a machine should be used to sew materials together so time is not wasted with less effective hand stitching. Just about every kind of stitch can be made by various sewing machines. A notable exception is a decorative hand stitched buttonhole.
+Early sewing machines also did not need electricity but instead used the caloric burn of the operator through a foot pedal to move the needle and make stitches. A machine stitch will generally be more consistent, faster, and stronger than a hand stitch. Whenever possible a machine should be used to sew materials together so time is not wasted with less effective hand stitching. Just about every kind of stitch can be made by various sewing machines.
 
-### Types of Hand Stitches
+### Domestic vs Industrial Machines
 
-- **Blind stitch** - nearly invisible on one side of the fabric
-- **Blanket Stitch** - binds the threads on the edge of woven fabrics to prevent unraveling - See: [How to Sew a Blanket Stitch](how-to-sew-a-blanket-stitch.md)
-- **Overcast or Whipstich** - wraps around the edges of fabric and can prevent fraying, can also join pieces of fabric together such as a hem See: [How to Sew an Overcast Stitch](how-to-sew-an-overcast-stitch.md)
-- **Buttonhole stitch** - similar to the blanket stitch but ties a knot with each stitch to make the stitching more durable to the wear and tear of button insertion - See: [How to Sew a Button](how-to-sew-a-button.md)
-- **Backstich** - basic hand stitch that is similar to the running stitch except that after coming back through the fabric, the sewer goes back to the location of the previous stitch and pushes the need through the fabric at the same location, doubling up the stitch - See: [How to Sew a Backstich](how-to-sew-a-backstich.md)
-- **Basting Stitch** - temporary stitch used to hold pieces of fabric together during the construction process or to quickly mock up a form to check size and fit - See: [How to Sew a Basting Stitch](how-to-sew-a-basting-stitch.md)
-- **Running Stitch** - basic hand stitch that goes into the fabric, travels a bit, and then back through the fabric in the opposite way. Multiple stitches can be made at once - See: [How to Sew a Running Stitch](how-to-sew-a-running-stitch.md)
+Domestic sewing machines or consumer sewing machines are cheap and versatile. Most can sew a multitude of stitch types but because they are not single purpose built they tend to do each task worse than a dedicated machine. For example, a multi-purpose domestic machine may have an edge stitch function to try to capture fraying fabric edges, but it would be no match for even a domestic serger.
 
-### Types of Machine Stitches
-
-- Zigzag
-- cover
-- lockstich
-- overlock
-- bar tack
+All domestics sewing machines can sew in a straight line, but they will be limited in the thickness of fabric that they can sew through, and the number of layers of even thin fabric that they can simultaneously sew through as well as the maximum thread weight that can be used. Generally, if one is careful, they can work around these issues. But eventually the strength and specific built purpose of industrial machines is essential to make sewn objects.
 
 ### Types of Machines
 
 - Lock Stich
 - [Serger](serger.md)
-- Specific Task Designed Industrial Machines ( cover stitch, automatic flat felling machine, webbing cross stitch, jeans riveter, etc)
-
-### Domestic vs Industrial Machines
-
-Domestic or consumer sewing machines are cheap and versatile. Most can sew a multitude of stitch types but because they are not single purpose built they tend to do each task worse than a dedicated machine. For example, a multi-purpose domestic machine may have an edge stitch function to try to capture fraying fabric edges, but it would be no match for even a domestic serger.
-
-All domestics sewing machines can sew in a straight line, but they will be limited in the thickness of fabric that they can sew through, and the number of layers of even thin fabric that they can simultaneously sew through as well as the maximum thread weight that can be used. Generally, if one is careful, they can work around these issues. But eventually the strength and specific built purpose of industrial machines is essential to make sewn objects.
+- Specific Task Designed Industrial Machines
+  - cover stitch machine
+  - overarm flat felling machine
+  - webbing cross stitch
+  - jeans riveter
+  - Bar Tack
 
 #### Basic Sewing Machine Parts
 
@@ -89,79 +63,20 @@ All domestics sewing machines can sew in a straight line, but they will be limit
 
 ## Machine Sewn Seams
 
-Sewing manufacturing seams are classified by standards. ISO 4916 is an international standardization of seam types separated into 8 different classes of seams.
+Sewing manufacturing seams are classified by standards. ISO 4916 is an international standardization of seam types separated into 8 different classes of seams. Outside of the apparel industry and factory technichal specification sheets there are [essential machine sewn seams](essential-machine-sewn-seams.md) than every person who sews should know.
 
-### Straight or Plain
+## Technical Sewing Design Practices
 
-A straight seam is made by placing the 'right' sides of the fabric together lining up the edges. Then the fabric is fed through the sewing machine under the presser foot with the desired seam allowance, which is how much space is left between the stitching and the cut edge.
-
-### True Flat Felled
-
-A true flat-filled seem has interlocking edges of fabric and two sets of stitching going through four layers of the fabric. This is done with specialty equipment and machines that feed the fabric into the presser foot and make the fold.
-
-With a bit of practice and some ingenuity, this can also be made on a straight stitch machine or a domestic home sewing machine. It is not as fast but it is just as strong. Flat-filled seams are often used on the inside inseam of pants so they do not split since they go through four layers of fabric.
-
-### Mock or Faux Flat Felled
-
-A Faux Flat Felled seam is made starting with the wrong sides of the fabric together lining up the edges. Then press the seam to one side. Trim the lower seam allowance in half. Fold the top seam allowance around the bottom seam allowance enclosing it. Use an iron to press the seam allowance flat and around the bottom allowance. Make sure the width is even. Stitch a second set of stitches along this folded edge. This seam is not as strong as a true flat-felled seam that goes through four layers of fabric twice.
-
-### French Seam
-
-A french seam is made by placing the wrong sides of the fabric together lining up the edges. Then stitch a 1/4 inch seam allowance. Press the fabric and then topstich.
-
-### Busted Seam
-
-This seam is often seen on the outside of jeans. Sometimes it uses the selvage edge of the fabric. The selvage edge of the fabric is the factory edge that does not unravel. Other times it uses surged edges of fabric. It is a basic straight seam that then is pressed flat and open, or "busted" open.
-
-### Serged
-
-An overlock stitch machine or [serger](serger.md) is used to keep the threads from unravelling on the cut edge of woven and knit fabrics. A serger is ideal for stretchy fabrics since the the stitches will resist breaking when the fabric is stretched. Since a serger cannot backstitch, the chain from the serger needs to be secured so the seam does not unravel.
-
-### Bound
-
-## Sewing FAQ
-
-1. How can I use thicker thread in the machine?
-
-You need to use a larger needle. We have larger needles and the cabinet. A size 16 or 18 will work. You also need to adjust the bobbin case tension. When adjusting the bobbin case tension the little turn of the screw goes a long way. Maybe eighth to a quarter turn.
-
-2. How to accurately sew curves?
-
-Focus on the tangent point of the curve as it goes by the needle. It is a mistake to look at the fabric as it approaches the presser foot. Look at the fabric as it is tangent to the needle since that is where the curve is.
+- Pattern Drafting
+- Draping
+- Garment Construction
+- Taking Measurements
+- Soft Goods
+- Soft Structures
 
 ## Sewing Material Suppliers
 
-### Fabric
-
-Thrift Stores such as Goodwill, Salvation Army, the Cache are good places to get unique materials for projects.
-
-The online retailers below also have a wide selection of fabric but you must plan ahead due to shipping times.
-
-- [https://www.sewingworkshop.com/](https://www.sewingworkshop.com/)
-- [https://www.rockywoods.com/](https://www.rockywoods.com/)
-- [https://www.emmaonesock.com/](https://www.emmaonesock.com/)
-
-### Straps / Buckles / Webbing
-
-- [https://www.strapworks.com/](https://www.strapworks.com/)
-
-### Thread / Needles
-
-- [https://www.superiorthreads.com/](https://www.superiorthreads.com/)
-- [https://www.thethreadexchange.com/](https://www.thethreadexchange.com/)
-
-### Patterns
-
-- [https://www.burdastyle.com/](https://www.burdastyle.com/)
-- [https://www.simplicity.com/](https://www.simplicity.com/)
-- [https://mccallpattern.mccall.com/](https://mccallpattern.mccall.com/)
-- [https://www.colettepatterns.com/](https://www.colettepatterns.com/)
-
-### Vinyl Suppliers
-
-[Trivantage](http://www.trivantage.com/) Only sells wholesale.
-
-[Phoenix Tent and Awning Company](http://www.phoenixtent.com/contact-email-hours.html) info@phoenixtent.com Mailing Address Corporate Office/Showroom 2829 E. McDowell Road Phoenix, AZ 85008
+[Sewing Materials and Equipment Supplier List](sewing-materials-and-equipment-supplier-list.md)
 
 ## Sewing Fabricators
 
@@ -169,59 +84,73 @@ List of [Inflatable Companies](../making/inflatable-companies.md) that fabricate
 
 ### Sewing Tutorials
 
-- [How to Sew a Tote Bag](how-to-sew-a-tote-bag-with-lining.md)
-- [how-to-cut-fabric](how-to-cut-fabric.md)
-- [How to Duplicate a T-Shirt Pattern](How-to-Duplicate-a-T-Shirt-Pattern.md)
+- [Sewing FAQ](sewing-faq.md)
+
+#### General Sewing Tutorials
+
+- [How to Cut Fabric](how-to-cut-fabric.md)
 - [How to Use an Iron](how-to-use-an-iron.md)
+- [How to Sew Six Basic Seams](How-to-Sew-Six-Basic-Seams.md)
+
+#### Machine Tutorials
+
+- [How to adjust Sewing Machine Tension](how-to-adjust-sewing-machine-tension.md)
+- [How to Wind a Bobbin](how-to-wind-a-bobbin.md)
+
+#### Sewing Fabrication Tutorials
+
+- [How to Make Inflatables](../art-faq/how-to-make-inflatables.md)
+
+#### Garment Sewing Tutorials
+
+- [How to Sew a Tote Bag](how-to-sew-a-tote-bag-with-lining.md)
+- [How to Duplicate a T-Shirt Pattern](How-to-Duplicate-a-T-Shirt-Pattern.md)
 - [How to Sew Sleeve Plackets](how-to-sew-sleeve-plackets.md)
 - [How to Sew a Zipper Fly and Waistband](how-to-sew-a-zipper-fly-and-waistband.md)
-- [How-to-Sew-Six-Basic-Seams](How-to-Sew-Six-Basic-Seams.md)
-- [How-to-Copy-a-Pants-Pattern](how-to-duplicate-a-pants-pattern.md)
+- [How to Copy a Pants Pattern](how-to-duplicate-a-pants-pattern.md)
 - [How to Sew a Button](how-to-sew-a-button.md)
 - [How to Sew a Collar](how-to-sew-a-collar.md)
 - [How to Sew a Rolled Hem](how-to-sew-a-rolled-hem.md)
 - [How to Sew a Blind Hem](how-to-sew-a-blind-hem.md)
 - [How to Sew a Dart](how-to-sew-a-dart.md)
-- [how-to-adjust-sewing-machine tension](how-to-adjust-sewing-machine-tension.md)
-- [How to Wind a Bobbin](how-to-wind-a-bobbin.md)
 - [How to Sew a Double Welt Pocket](how-to-sew-a-double-welt-pocket.md)
-- [Sew-Inseam-Pockets-with-French-Seams](sew-inseam-pockets-with-french-seams.md)
-- [Sew-Zipper-Pocket-without-Exposed-Zipper-Tape](sew-zipper-pocket-without-exposed-zipper-tape.md)
+- [Sew Inseam Pockets with French Seams](sew-inseam-pockets-with-french-seams.md)
+- [Sew Zipper Pocket without Exposed Zipper Tape](sew-zipper-pocket-without-exposed-zipper-tape.md)
 - [How to Sew Pants](how-to-sew-pants.md)
-- [How-to-Sew-a-Plain-Seam](how-to-sew-a-plain-seam.md)
-- [How-to-Make-Inflatables](../art-faq/how-to-make-inflatables.md)
-- [How-to-Sew-a-Cargo-Pocket](how-to-sew-a-cargo-pocket.md)
+- [How to Sew a Plain Seam](how-to-sew-a-plain-seam.md)
+- [How to Sew a Cargo Pocket](how-to-sew-a-cargo-pocket.md)
 
 ### External Sewing Links
 
-#### Patterns
-
-- [Plushie Patterns at sew desu ne](https://cholyknight.com/plushies/)
-
-#### REFERENCES / TECHNICAL
+#### Sewing Technical References
 
 The sites below contain a wealth of information about sewing and pattern making and are worth browsing and reading.
 
-- [https://www.allfreesewing.com/Basics-and-Tutorials](https://www.allfreesewing.com/Basics-and-Tutorials)
-- [http://www.blueprintsforsewing.com/tutorials](http://www.blueprintsforsewing.com/tutorials)
-- [https://fashion-incubator.com/tutorials/](https://fashion-incubator.com/tutorials/)
-- [https://www.threadsmagazine.com/](https://www.threadsmagazine.com/)
+- [All Free Sewing Tutorials](https://www.allfreesewing.com/Basics-and-Tutorials)
+- [Blueprints for Sewing Tutorials](http://www.blueprintsforsewing.com/tutorials)
+- [Fashion Incubator Tutorials](https://fashion-incubator.com/tutorials/)
+- [Threads Magazine](https://www.threadsmagazine.com/)
+- [383 Design](https://www.youtube.com/@383design)
+- [Techpacker](https://techpacker.com/blog/)
+- [Patternstudio101](https://www.patternstudio101.com/)
 
-#### Books
+#### Sewing Books
 
 - The Entrepreneur’s Guide to Sewn Product Manufacturing by Kathleen Fasanella 1997. ISBN 0-9663208-4-0
 - Metric Pattern Cutting by Winifred Aldrich. Book. Publisher: Blackwell Science. ISBN 0-632-03612-5
 - Pattern-making Made Easy Book. by Connie Crawford. ISBN 0-964-95167-3
 - Sewing for the Apparel Industry by Claire Schaeffer. (2nd Edition) Book. ISBN 0-131-88443-3
 
-#### Articles
+#### Sewing Articles
 
-[Amazon has developed an AI Fashion Designer](https://www.technologyreview.com/s/608668/amazon-has-developed-an-ai-fashion-designer/)
+- [Amazon has developed an AI Fashion Designer](https://www.technologyreview.com/s/608668/amazon-has-developed-an-ai-fashion-designer/) - Technology Review
+- [The archive saving home sewing history from the trash](https://www.theverge.com/23169321/commercial-pattern-archive-home-sewing-database) - The Verge
+- [The Most Influential Jeans Guy You’ve Never Heard Of](https://www.nytimes.com/2024/05/28/style/benjamin-talley-smith-denim-jeans.html) - The New York Times
+- [The Crochet Coral Reef Keeps Spawning, Hyperbolically](https://www.nytimes.com/2024/01/15/science/mathematics-crochet-coral.html) - The New York Times
+- [Why Don’t Women’s Clothes Have More Pockets?](https://www.nytimes.com/2023/11/06/style/pockets-womens-clothing.html) - The New York Times
 
-[Making Sense of Pattern Grading](http://www.threadsmagazine.com/item/4368/making-sense-of-pattern-grading/page/all) - Threads Magazine
+#### Factory Sewing Processes
 
-Big Picture Science podcast Apt to Adapt June 9, 2014
-
-Electric sewing machines - after the introduction of the electric sewing machine vs the pedal driven machine it saved -15 calories an hour which added up to -51000 calories a year, enough to run a few marathons.
-
-[The archive saving home sewing history from the trash](https://www.theverge.com/23169321/commercial-pattern-archive-home-sewing-database) - The Verge
+- [T-Shirt Construction Video](https://www.youtube.com/watch?v=CFC7lqUvDFU)
+- [Dress Shirt Construction Video](https://www.youtube.com/watch?v=N64icKv4bjw)
+- [Jeans Construction Video](https://www.youtube.com/watch?v=HPpcAlpoeRI)

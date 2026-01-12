@@ -1,7 +1,7 @@
 ---
 title: Sergers
 date: 2023-05-23T21:59:41-04:00
-lastmod: 2026-01-05T06:57:30-04:00
+lastmod: 2026-01-11T20:13:25-04:00
 ---
 
 A serger, also known as an overlocker, is a sewing machine that trims the fabric edge, sews it together, and finishes the seam in one step. Sergers are often used for finishing seams on knit fabrics, as well as for sewing garments, home décor projects, and crafts.
@@ -16,6 +16,8 @@ To thread a serger, you will need to thread the upper looper, lower looper, and 
 - Lower looper: The lower looper thread is the thread that forms the chain stitch on the back of the seam. It is less visible than the upper looper thread.
 
 Consult your serger's manual for specific instructions on how to thread your machine.
+
+- [How to Thread a Serger](how-to-thread-a-serger.md)
 
 ### Adjusting the Serger Settings
 
