@@ -1,7 +1,7 @@
 ---
 title: 14.02 Revised Interactive Web Experience Assignment
 date: 2025-12-04T09:00:00Z
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-01-12T11:42:38
 ---
 
 ## Assignment Deliverables
@@ -131,7 +131,7 @@ It can be helpful to use an LLM to expand on a prompt before using the prompt to
 
 <figcaption>
 
-[Emoji Avalanche Prompt:](emoj-avalanche.html) `make a html single page game that has falling emoji that bound into each other and react with real physics and gravity the play need to move around with out getting hit they an press space to jump and have lots of parallax scrolling background`
+[Emoji Avalanche Prompt:](emoji-avalanche.html) `make a html single page game that has falling emoji that bound into each other and react with real physics and gravity the play need to move around with out getting hit they an press space to jump and have lots of parallax scrolling background`
 
 </figcaption>
 </figure>
