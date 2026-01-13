@@ -120,6 +120,8 @@
       <!-- Decide if we can transform safely -->
       {{- $name := .Name -}}
       {{- if not $name }}{{- $name = path.Base $path -}}{{- end -}}
+      {{- /* Check if image is over 1MB (1,048,576 bytes) */ -}}
+      {{- $isLargeEnough := ge (len .Content) 1048576 -}}
       {{- $ext := lower (path.Ext $name) -}}
       {{- $rasterExts := slice ".jpg" ".jpeg" ".png" ".webp" ".gif" ".tif" ".tiff" ".bmp" -}}
       {{- $looksRaster := in $rasterExts $ext -}}
@@ -139,7 +141,7 @@
           {{- $isContainer = true -}}
         {{- end -}}
       {{- end -}}
-      {{- $canTransform := and $looksRaster (not $isLFSPointer) (not $isContainer) -}}
+      {{- $canTransform := and $looksRaster (not $isLFSPointer) (not $isContainer) $isLargeEnough -}}
 
       {{- if $canTransform -}}
         {{- $large  := .Resize "1600x" -}}
