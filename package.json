@@ -1,5 +1,8 @@
 {
+  "name": "whatmakeart-site",
+  "version": "1.0.0",
   "devDependencies": {
+    "pagefind": "^1.1.0",
     "prettier": "^2.8.8",
     "prettier-plugin-go-template": "^0.0.13"
   }

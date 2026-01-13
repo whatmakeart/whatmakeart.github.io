@@ -1,4 +1,3 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
@@ -13,7 +12,7 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true # Prevents the "deployment_queued" hang
 
 defaults:
   run:
@@ -22,60 +21,40 @@ defaults:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.148.2
-      # Put Hugo's cache in the workspace so Actions cache can persist it
-      HUGO_CACHEDIR: ${{ github.workspace }}/.hugo_cache
-
     steps:
-      - name: Install Hugo CLI
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-
-      - name: Install Dart Sass
-        run: sudo snap install dart-sass
-
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: recursive
+          fetch-depth: 0 # Essential for Hugo's .GitInfo and site-map accuracy
 
-      # Cache Hugo processed resources (e.g., image derivatives in resources/_gen)
-      - name: Cache Hugo resources
-        uses: actions/cache@v4
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
         with:
-          path: |
-            resources/_gen
-          key: ${{ runner.os }}-hugo-res-${{ hashFiles('layouts/**', 'themes/**', 'config.*', 'hugo.*', '**/*.{jpg,jpeg,png,webp,avif,gif,svg}') }}
-          restore-keys: |
-            ${{ runner.os }}-hugo-res-
+          hugo-version: "latest" # Automatically uses the newest stable version
+          extended: true
 
-      # Cache Hugo internal caches (modules/files cache)
-      - name: Cache Hugo internal cache
-        uses: actions/cache@v4
-        with:
-          path: |
-            .hugo_cache
-            ~/.cache/hugo
-          key: ${{ runner.os }}-hugo-cache-${{ hashFiles('go.mod', 'go.sum', 'config.*', 'hugo.*') }}
-          restore-keys: |
-            ${{ runner.os }}-hugo-cache-
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
 
-      # Setup Node with npm cache (helps npx/pagefind and any npm deps)
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "npm"
+          cache: "npm" # Caches your Pagefind and Prettier dependencies
 
-      - name: Install Node.js dependencies
-        run: |
-          if [[ -f package-lock.json || -f npm-shrinkwrap.json ]]; then
-            npm ci
-          else
-            echo "No lockfile found; skipping npm ci."
-          fi
+      - name: Install dependencies
+        run: npm ci
+
+      # CRITICAL FOR LARGE SITES: Cache processed images
+      # This prevents Hugo from resizing thousands of images on every single push
+      - name: Cache Hugo resources
+        uses: actions/cache@v4
+        with:
+          path: resources/_gen
+          key: ${{ runner.os }}-hugo-res-${{ hashFiles('**/resources/_gen/**') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-res-
 
       - name: Setup Pages
         id: pages
@@ -84,14 +63,14 @@ jobs:
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
         run: |
           hugo \
+            --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Run Pagefind@alpha
-        run: npm_config_yes=true npx pagefind --site "public"
+      - name: Run Pagefind
+        run: npx pagefind --site "public"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
