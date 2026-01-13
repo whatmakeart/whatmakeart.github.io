@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 CNC Modeling
 date: 2023-06-14T13:25:50
-lastmod: 2025-09-30T18:32:56
+lastmod: 2026-01-13T14:48:52
 tags:
   - CNC
   - Fusion-360
@@ -19,7 +19,7 @@ This [video](https://youtu.be/9utpuieg5lI) shows the process of creating a simpl
 
 ![CNC Hex Stool Parts Laid Flat](../../3d-modeling/fusion-360/attachments/2021-hex-stool-rendering-parts-flat.jpg)
 
-![CNC Hex Stool Parts Laid Flat Screenshot](../../3d-modeling/fusion-360/attachments/2021-hex-stool-screenshot-parts-flat.png)
+![CNC Hex Stool Parts Laid Flat Screenshot](../../3d-modeling/fusion-360/attachments/2021-hex-stool-screenshot-parts-flat.jpg)
 
 </div>
 
@@ -33,7 +33,7 @@ This [video](https://youtu.be/GzknioA34F8) shows the process of creating a simpl
 
 ![End Table Parts Flat](../../3d-modeling/fusion-360/attachments/2021-end-table-rendering-parts-flat.jpg)
 
-![End Table Parts Flat Screenshot](../../3d-modeling/fusion-360/attachments/2021-end-table-screenshot-parts-flat.png)
+![End Table Parts Flat Screenshot](../../3d-modeling/fusion-360/attachments/2021-end-table-screenshot-parts-flat.jpg)
 
 </div>
 
@@ -47,7 +47,7 @@ This [video](https://youtu.be/I6FEMdtcrpI) shows the process of creating a simpl
 
 ![CNC Circle Stool Parts Layed Flat](../../3d-modeling/fusion-360/attachments/2021-circle-stool-rendering-parts-flat.jpg)
 
-![CNC Circle Stool Parts Layed Flat Screenshot](../../3d-modeling/fusion-360/attachments/2021-circle-stool-screenshot-of-parts-flat.png)
+![CNC Circle Stool Parts Layed Flat Screenshot](../../3d-modeling/fusion-360/attachments/2021-circle-stool-screenshot-of-parts-flat.jpg)
 
 </div>
 
@@ -57,11 +57,11 @@ This [video](https://youtu.be/GqXQ8TdzYRE) shows the process of creating a simpl
 
 <div class="gallery-grid">
 
-![CNC Plywood Chair](../../3d-modeling/fusion-360/attachments/2021-cnc-chair-rendering.png)
+![CNC Plywood Chair](../../3d-modeling/fusion-360/attachments/2021-cnc-chair-rendering.jpg)
 
 ![CNC Plywood Chair Parts Layed Flat](../../3d-modeling/fusion-360/attachments/2021-cnc-chair-rendering-parts-flat.jpg)
 
-![CNC Plywood Chair Parts Layed Flat Screenshot](../../3d-modeling/fusion-360/attachments/2021-cnc-chair-screenshot-parts-flat.png)
+![CNC Plywood Chair Parts Layed Flat Screenshot](../../3d-modeling/fusion-360/attachments/2021-cnc-chair-screenshot-parts-flat.jpg)
 
 </div>
 

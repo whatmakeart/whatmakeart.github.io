@@ -1,7 +1,7 @@
 ---
 title: Polygon Mesh 3D Model Basics
 date: 2023-06-14T13:54:43-04:00
-lastmod: 2026-01-03T06:55:43-04:00
+lastmod: 2026-01-13T14:48:52
 ---
 
 ## Approaches to Making 3D Models
@@ -16,7 +16,7 @@ lastmod: 2026-01-03T06:55:43-04:00
 
 ## Polygon Mesh 3D Modeling Terms
 
-[![Polygon Mesh](attachments/2024-02-21-polygon-mesh.png)](attachments/2024-02-21-polygon-mesh.png)
+[![Polygon Mesh](attachments/2024-02-21-polygon-mesh.jpg)](attachments/2024-02-21-polygon-mesh.jpg)
 
 ### Vertex
 

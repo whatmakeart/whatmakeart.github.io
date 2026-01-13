@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling Basics - Blender
 date: 2023-06-14T13:46:52
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-01-13T14:48:52
 tags:
   - Blender
   - 3D-Modeling
@@ -54,7 +54,7 @@ tags:
 
 <figure>
 
-[![Blender default scene](attachments/2023-blender-default-scene.png)](attachments/2023-blender-default-scene.png)
+[![Blender default scene](attachments/2023-blender-default-scene.jpg)](attachments/2023-blender-default-scene.jpg)
 
 <figcaption>
 

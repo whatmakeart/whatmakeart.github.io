@@ -1,7 +1,7 @@
 ---
 title: Cura Slicing Basics
 date: 2023-10-31T09:00:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-01-13T14:48:52
 ---
 
 Cura is a [3D printing](3d-printing.md) slicing program.
@@ -12,15 +12,15 @@ Cura is a [3D printing](3d-printing.md) slicing program.
 
 2. Place STL files on the print bed.
 
-![Cura Place STL files on print bed](attachments/20231031-cura-place-stl-files-on-bed.png)
+![Cura Place STL files on print bed](attachments/2023-10-31-cura-place-stl-files-on-bed.jpg)
 
 3. Start with the recommended settings and choose if you need supports or not.
 
-![Cura standard settings with supports](attachments/20231031-cura-standard-settings-with-supports.png)
+![Cura standard settings with supports](attachments/2023-10-31-cura-standard-settings-with-supports.jpg)
 
 4. Preview the slicing of the print.
 
-![Cura slice preview](attachments/20231031-cura-slice-preview.png)
+![Cura slice preview](attachments/20231031-cura-slice-preview.jpg)
 
 5. When everything is set, save the gcode file to disk.
 

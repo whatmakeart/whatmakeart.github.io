@@ -1,7 +1,7 @@
 ---
 title: 3D Print Design Guidelines
 date: 2023-06-15T05:23:20
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-01-13T14:48:52
 ---
 
 ## General 3D Print Rules for FFF Printing without Dissolvable Supports
@@ -35,7 +35,7 @@ Chamfers are often better than fillets because no over hang and can be printed i
 
 <figure>
 
-![3D Print Angles](attachments/2022-3D-Print-Angles-at-Angle.png)
+![3D Print Angles](attachments/2022-3D-Print-Angles-at-Angle.jpg)
 
 <figcaption>
 
@@ -45,7 +45,7 @@ Red models will not print without supports but green models will because they ri
 </figure>
 <figure>
 
-![3D Print Angles Square](attachments/2022-3D-Print-Angles-Square.png)
+![3D Print Angles Square](attachments/2022-3D-Print-Angles-Square.jpg)
 
 Red models will not print without supports but green models will because they rise up at 45 degrees
 
@@ -53,7 +53,7 @@ Red models will not print without supports but green models will because they ri
 </figure>
 <figure>
 
-![3D Print Angles Round](attachments/2022-3D-Print-Angles-Round.png)
+![3D Print Angles Round](attachments/2022-3D-Print-Angles-Round.jpg)
 
 Red models will not print without supports but green models will because they rise up at 45 degrees
 

@@ -1,10 +1,10 @@
 ---
 title: Re-Link Texture Images in Blender
 date: 2023-12-08T05:11:09
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-01-13T14:48:52
 ---
 
-[![Relink Texture Images in Blender](attachments/20231206-re-link-texture-image-file-blender.png)](attachments/20231206-re-link-texture-image-file-blender.png)
+[![Relink Texture Images in Blender](attachments/20231206-re-link-texture-image-file-blender.jpg)](attachments/20231206-re-link-texture-image-file-blender.jpg)
 
 ## Re-Link Texture Images in Blender
 
