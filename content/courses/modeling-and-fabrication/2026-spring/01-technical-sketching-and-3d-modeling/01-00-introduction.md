@@ -1,7 +1,7 @@
 ---
 title: 01.00 Introduction to Technical Sketching and 3D Modeling
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-02T17:00:54-04:00
+lastmod: 2026-01-13T12:29:13
 ---
 
 ## Overview
@@ -30,3 +30,4 @@ We will use multiple [3D modeling software](../../../../3d-modeling/3d-modeling-
 - orthographic projection
 - dimensioning
 - scale
+- working drawing
