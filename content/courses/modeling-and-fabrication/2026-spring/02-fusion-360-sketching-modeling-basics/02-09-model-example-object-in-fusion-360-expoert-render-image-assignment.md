@@ -1,7 +1,7 @@
 ---
 title: 02.09 Model Example Object in Fusion 360 and Export Render Image
 date: 2026-01-21T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-01-13T14:13:41
 ---
 
 ## Assignment Deliverables
@@ -87,7 +87,7 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 
 <div class="image-card">
 
-[![Fusion 360 Example 1 with Environment](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-1-with-Environment.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-1-with-Environment.jpg)
+[![Fusion 360 Example 1 with Environment](../../2023-spring/02-fusion-360-sketching-modeling-basics/2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-1-with-Environment.jpg)](../../2023-spring/02-fusion-360-sketching-modeling-basics/2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-1-with-Environment.jpg)
 
 Toy Block with Environment
 
@@ -95,7 +95,7 @@ Toy Block with Environment
 
 <div class="image-card">
 
-[![Fusion 360 Example 2 with Custom HDRI](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Custom-HDRI.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Custom-HDRI.jpg)
+[![Fusion 360 Example 2 with Custom HDRI](../../2023-spring/02-fusion-360-sketching-modeling-basics/2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Custom-HDRI.jpg)](../../2023-spring/02-fusion-360-sketching-modeling-basics/2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Custom-HDRI.jpg)
 
 Drinking Glass with Custom HDRI
 
@@ -103,7 +103,7 @@ Drinking Glass with Custom HDRI
 
 <div class="image-card">
 
-[![Fusion 360 Example 2 with Environment](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Environment.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Environment.jpg)
+[![Fusion 360 Example 2 with Environment](../../2023-spring/02-fusion-360-sketching-modeling-basics/2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Environment.jpg)](../../2023-spring/02-fusion-360-sketching-modeling-basics/2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Environment.jpg)
 
 Drinking Glass with Environment
 
@@ -111,7 +111,7 @@ Drinking Glass with Environment
 
 <div class="image-card">
 
-[![Fusion 360 Example 2 with Transparent Background](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Transparent-Background.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Transparent-Background.jpg)
+[![Fusion 360 Example 2 with Transparent Background](../../2023-spring/02-fusion-360-sketching-modeling-basics/2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Transparent-Background.jpg)](../../2023-spring/02-fusion-360-sketching-modeling-basics/2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-2-with-Transparent-Background.jpg)
 
 Drinking Glass with Transparent Background
 
@@ -119,7 +119,7 @@ Drinking Glass with Transparent Background
 
 <div class="image-card">
 
-[![Fusion 360 Example 3 with Environment](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Environment.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Environment.jpg)
+[![Fusion 360 Example 3 with Environment](../../2023-spring/02-fusion-360-sketching-modeling-basics/2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Environment.jpg)](../../2023-spring/02-fusion-360-sketching-modeling-basics/2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Environment.jpg)
 
 Binder Clip with Environment
 
@@ -127,7 +127,7 @@ Binder Clip with Environment
 
 <div class="image-card">
 
-[![Fusion 360 Example 3 with Transparent Background](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Transparent-Background.jpg)](2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Transparent-Background.jpg)
+[![Fusion 360 Example 3 with Transparent Background](../../2023-spring/02-fusion-360-sketching-modeling-basics/2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Transparent-Background.jpg)](../../2023-spring/02-fusion-360-sketching-modeling-basics/2022-Kuehnle-Jimmy-Model-Object-from-Sketch-Fusion-360-Example-3-with-Transparent-Background.jpg)
 
 Binder Clip with Transparent Background
 

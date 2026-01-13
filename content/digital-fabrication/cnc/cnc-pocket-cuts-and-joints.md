@@ -1,7 +1,7 @@
 ---
 title: CNC Pocket Cuts and Joints
 date: 2023-06-15T14:28:14
-lastmod: 2025-09-30T18:32:56
+lastmod: 2026-01-13T14:13:41
 ---
 
 Although, a laser cutter can only etch on to the surface of the material or cut all the way through, a CNC router can make non-through cuts and 3 dimensional cuts. It can round off the top and make three-dimensional sculptural forms by cutting away parts of the material.
@@ -37,7 +37,7 @@ Additional joints that can be made by CNC machines are:
 
 <figure>
 
-[![Blind Mortise Tenon Joint](2023-cnc-blind-mortise-tenon-joint.jpg)](2023-cnc-blind-mortise-tenon-joint.png)
+[![Blind Mortise Tenon Joint](2023-cnc-blind-mortise-tenon-joint.jpg)](2023-cnc-blind-mortise-tenon-joint.jpg)
 
 <figcaption>
 
@@ -48,7 +48,7 @@ Blind Mortise Tenon Joint
 
 <figure>
 
-[![Tongue and Groove Joint](2023-cnc-tongue-and-groove-joint.jpg)](2023-cnc-tongue-and-groove-joint.png)
+[![Tongue and Groove Joint](2023-cnc-tongue-and-groove-joint.jpg)](2023-cnc-tongue-and-groove-joint.jpg)
 
 <figcaption>
 

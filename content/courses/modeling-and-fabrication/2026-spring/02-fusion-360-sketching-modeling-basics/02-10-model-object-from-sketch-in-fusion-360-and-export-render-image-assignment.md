@@ -1,7 +1,7 @@
 ---
 title: 02.10 Model Object from Sketch in Fusion 360 and Export Render Image
 date: 2026-01-21T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-01-13T13:50:34
 ---
 
 ## Assignment Deliverables
@@ -65,15 +65,15 @@ Download the Fusion 360 model files to your computer. (To download a .f3d file y
 
 <div class="gallery-grid">
 
-[![Bottle render from Fusion 360](2024-kuehnle-jimmy-bottle-sample-render.png)](2024-kuehnle-jimmy-bottle-sample-render.png)
+[![Bottle render from Fusion 360](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-bottle-sample-render.png)](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-bottle-sample-render.png)
 
-[![Building Brick render from Fusion 360](2024-kuehnle-jimmy-building-brick-sample-render.png)](2024-kuehnle-jimmy-building-brick-sample-render.png)
+[![Building Brick render from Fusion 360](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-building-brick-sample-render.png)](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-building-brick-sample-render.png)
 
-[![Glue bottle sample render from Fusion 360](2024-kuehnle-jimmy-glue-bottle-sample-render.png)](2024-kuehnle-jimmy-glue-bottle-sample-render.png)
+[![Glue bottle sample render from Fusion 360](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-glue-bottle-sample-render.png)](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-glue-bottle-sample-render.png)
 
-[![Pencil Sharpener sample render in Fusion 360](2024-kuehnle-jimmy-pencil-sharpener-sample-render.png)](2024-kuehnle-jimmy-pencil-sharpener-sample-render.png)
+[![Pencil Sharpener sample render in Fusion 360](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-pencil-sharpener-sample-render.png)](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-pencil-sharpener-sample-render.png)
 
-[![Phone sample render in Fusion 360](2024-kuehnle-jimmy-phone-sample-render.png)](2024-kuehnle-jimmy-phone-sample-render.png)
+[![Phone sample render in Fusion 360](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-phone-sample-render.jpg)](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-phone-sample-render.jpg)
 
 </div>
 

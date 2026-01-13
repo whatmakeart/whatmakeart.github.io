@@ -1,13 +1,13 @@
 ---
 title: Plaster Ratio Calculator
 date: 2024-11-29T07:18:02
-lastmod: 2024-11-29T08:09:17
+lastmod: 2026-01-13T14:12:55
 toc: true
 ---
 
 ## Plaster to Water Mixing Calculator (70:100 Ratio)
 
-The calculator uses a mixing ratio of 70 parts plaster to 100 parts water by weight based on the normal consitancy of USG No.1 Pottery Plaster. [^plaster-data]
+The calculator uses a mixing ratio of 70 parts water to 100 parts plaster by weight based on the normal consitancy of USG No.1 Pottery Plaster. [^plaster-data]
 
 <!-- Calculate Plaster Needed -->
 
@@ -125,103 +125,152 @@ Use this to calculate the amount of water needed if you have a given fixed amoun
 <div id="resultVolume" class="result mt-2" aria-live="polite"></div>
 
 <script>
-    // Conversion factors to base units (ml for volume, grams for weight)
-    const volumeToML = {
-        "ml": 1,
-        "l": 1000,
-        "fl_oz": 29.5735,
-        "cup": 236.588,
-        "pint": 473.176,
-        "quart": 946.353,
-        "gallon": 3785.41
-    };
+  // =========================
+  // Plaster Ratio Calculator
+  // 70 parts water : 100 parts plaster (by WEIGHT)
+  // =========================
 
-    const weightToGrams = {
-        "g": 1,
-        "kg": 1000,
-        "oz": 28.3495,
-        "lb": 453.592
-    };
+  // --- Unit conversion factors to base units ---
+  // Base volume unit: milliliters (ml)
+  // Base weight unit: grams (g)
+  const volumeToML = {
+    ml: 1,
+    l: 1000,
+    fl_oz: 29.5735,
+    cup: 236.588,
+    pint: 473.176,
+    quart: 946.353,
+    gallon: 3785.41
+  };
 
-    function calculateFromWater() {
-        var waterAmount = parseFloat(document.getElementById('waterAmount').value);
-        var waterUnit = document.getElementById('waterUnit').value;
-        var plasterUnit = document.getElementById('plasterUnit').value;
+  const weightToGrams = {
+    g: 1,
+    kg: 1000,
+    oz: 28.3495,
+    lb: 453.592
+  };
 
-        if (isNaN(waterAmount) || waterAmount <= 0) {
-            alert('Please enter a valid amount of water.');
-            return;
-        }
+  // --- Ratio constants (by weight) ---
+  const WATER_PARTS = 70;
+  const PLASTER_PARTS = 100;
 
-        // Convert water amount to ml
-        var waterInML = waterAmount * volumeToML[waterUnit];
+  // Multipliers derived from 70:100 (water:plaster)
+  const PLASTER_PER_WATER = PLASTER_PARTS / WATER_PARTS; // 100/70 = 1.428571...
+  const WATER_PER_PLASTER = WATER_PARTS / PLASTER_PARTS; // 70/100 = 0.7
 
-        // Calculate plaster amount in grams
-        var plasterInGrams = 0.7 * waterInML;
+  // --- Assumption ---
+  // Water density ~ 1 g/ml (close enough for studio mixing calculations)
+  // So: water_ml ≈ water_g
 
-        // Convert plaster amount to selected unit
-        var plasterAmount = plasterInGrams / weightToGrams[plasterUnit];
+  // --- Mold volume mode note ---
+  // Many studio recipes use a "slurry expansion factor": once plaster is added,
+  // the total slurry volume is larger than the starting water volume.
+  // If slurry_volume ≈ water_volume * SLURRY_VOLUME_FACTOR,
+  // then water_volume_needed ≈ mold_volume / SLURRY_VOLUME_FACTOR
+  const SLURRY_VOLUME_FACTOR = 1.2; // your original value (20% expansion)
 
-        plasterAmount = plasterAmount.toFixed(2);
-        document.getElementById('resultWater').innerHTML = 'You need <strong>' + plasterAmount + ' ' + plasterUnit + '</strong> of plaster.';
+  // Optional extra margin (spills / leftover in bucket). Set to 1.0 to disable.
+  const EXTRA_MARGIN_FACTOR = 1.0; // e.g. 1.05 for +5% extra
+
+  // --- Helpers ---
+  function readPositiveNumber(inputId, label) {
+    const v = parseFloat(document.getElementById(inputId).value);
+    if (isNaN(v) || v <= 0) {
+      alert(`Please enter a valid ${label}.`);
+      return null;
     }
+    return v;
+  }
 
-    function calculateFromPlaster() {
-        var plasterAmount = parseFloat(document.getElementById('plasterAmount').value);
-        var plasterInputUnit = document.getElementById('plasterInputUnit').value;
-        var waterOutputUnit = document.getElementById('waterOutputUnit').value;
+  function formatNumber(n, decimals = 2) {
+    return Number(n).toFixed(decimals);
+  }
 
-        if (isNaN(plasterAmount) || plasterAmount <= 0) {
-            alert('Please enter a valid amount of plaster.');
-            return;
-        }
+  // =========================
+  // 1) Given Water -> Plaster
+  // =========================
+  function calculateFromWater() {
+    const waterAmount = readPositiveNumber("waterAmount", "amount of water");
+    if (waterAmount === null) return;
 
-        // Convert plaster amount to grams
-        var plasterInGrams = plasterAmount * weightToGrams[plasterInputUnit];
+    const waterUnit = document.getElementById("waterUnit").value;
+    const plasterUnit = document.getElementById("plasterUnit").value;
 
-        // Calculate water amount in ml
-        var waterInML = plasterInGrams / 0.7;
+    // Convert water volume to ml
+    const waterInML = waterAmount * volumeToML[waterUnit];
 
-        // Convert water amount to selected unit
-        var waterAmount = waterInML / volumeToML[waterOutputUnit];
+    // Convert water to grams (1 ml ~ 1 g)
+    const waterInGrams = waterInML;
 
-        waterAmount = waterAmount.toFixed(2);
-        document.getElementById('resultPlaster').innerHTML = 'You need <strong>' + waterAmount + ' ' + waterOutputUnit + '</strong> of water.';
-    }
+    // Correct ratio: plaster = water * (100/70)
+    const plasterInGrams = waterInGrams * PLASTER_PER_WATER;
 
-    function calculateFromVolume() {
-        var moldVolume = parseFloat(document.getElementById('moldVolume').value);
-        var moldUnit = document.getElementById('moldUnit').value;
-        var volumeWaterUnit = document.getElementById('volumeWaterUnit').value;
-        var volumePlasterUnit = document.getElementById('volumePlasterUnit').value;
+    // Convert plaster to selected unit
+    const plasterOut = plasterInGrams / weightToGrams[plasterUnit];
 
-        if (isNaN(moldVolume) || moldVolume <= 0) {
-            alert('Please enter a valid mold volume.');
-            return;
-        }
+    document.getElementById("resultWater").innerHTML =
+      `You need <strong>${formatNumber(plasterOut)} ${plasterUnit}</strong> of plaster.`;
+  }
 
-        // Convert mold volume to ml
-        var moldVolumeInML = moldVolume * volumeToML[moldUnit];
+  // =========================
+  // 2) Given Plaster -> Water
+  // =========================
+  function calculateFromPlaster() {
+    const plasterAmount = readPositiveNumber("plasterAmount", "amount of plaster");
+    if (plasterAmount === null) return;
 
-        // Calculate total mix volume (account for 20% increase)
-        var totalMixVolume = moldVolumeInML / 1.2;
+    const plasterInputUnit = document.getElementById("plasterInputUnit").value;
+    const waterOutputUnit = document.getElementById("waterOutputUnit").value;
 
-        // Water volume in ml
-        var waterInML = totalMixVolume;
+    // Convert plaster to grams
+    const plasterInGrams = plasterAmount * weightToGrams[plasterInputUnit];
 
-        // Plaster weight in grams
-        var plasterInGrams = 0.7 * waterInML;
+    // Correct ratio: water = plaster * (70/100)
+    const waterInGrams = plasterInGrams * WATER_PER_PLASTER;
 
-        // Convert water volume to selected unit
-        var waterAmount = waterInML / volumeToML[volumeWaterUnit];
-        // Convert plaster weight to selected unit
-        var plasterAmount = plasterInGrams / weightToGrams[volumePlasterUnit];
+    // Convert water grams to ml (1 g ~ 1 ml)
+    const waterInML = waterInGrams;
 
-        waterAmount = waterAmount.toFixed(2);
-        plasterAmount = plasterAmount.toFixed(2);
+    // Convert ml to selected output unit
+    const waterOut = waterInML / volumeToML[waterOutputUnit];
 
-        document.getElementById('resultVolume').innerHTML = 'You need <strong>' + waterAmount + ' ' + volumeWaterUnit + '</strong> of water and <strong>' + plasterAmount + ' ' + volumePlasterUnit + '</strong> of plaster.';
-    }
+    document.getElementById("resultPlaster").innerHTML =
+      `You need <strong>${formatNumber(waterOut)} ${waterOutputUnit}</strong> of water.`;
+  }
+
+  // ==========================================
+  // 3) Given Mold Volume -> Water + Plaster
+  // ==========================================
+  function calculateFromVolume() {
+    const moldVolume = readPositiveNumber("moldVolume", "mold volume");
+    if (moldVolume === null) return;
+
+    const moldUnit = document.getElementById("moldUnit").value;
+    const volumeWaterUnit = document.getElementById("volumeWaterUnit").value;
+    const volumePlasterUnit = document.getElementById("volumePlasterUnit").value;
+
+    // Convert mold volume to ml
+    const moldVolumeInML = moldVolume * volumeToML[moldUnit];
+
+    // Compute water volume needed to yield slurry volume ≈ mold volume
+    // then add optional margin
+    const waterInML =
+      (moldVolumeInML / SLURRY_VOLUME_FACTOR) * EXTRA_MARGIN_FACTOR;
+
+    // Water grams (1 ml ~ 1 g)
+    const waterInGrams = waterInML;
+
+    // Plaster grams using correct ratio
+    const plasterInGrams = waterInGrams * PLASTER_PER_WATER;
+
+    // Convert outputs
+    const waterOut = waterInML / volumeToML[volumeWaterUnit];
+    const plasterOut = plasterInGrams / weightToGrams[volumePlasterUnit];
+
+    document.getElementById("resultVolume").innerHTML =
+      `You need <strong>${formatNumber(waterOut)} ${volumeWaterUnit}</strong> of water and ` +
+      `<strong>${formatNumber(plasterOut)} ${volumePlasterUnit}</strong> of plaster.`;
+  }
 </script>
 
 ## References

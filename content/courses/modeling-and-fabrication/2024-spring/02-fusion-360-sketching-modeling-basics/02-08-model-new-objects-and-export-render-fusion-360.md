@@ -1,7 +1,7 @@
 ---
 title: "02.08 Model Objects in Fusion 360 and Export Render Images"
 date: 2024-01-25T12:00:00Z
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-01-13T14:13:41
 ---
 
 ## Assignment Deliverables
@@ -73,7 +73,7 @@ Download the Fusion 360 model files to your computer. (To download a .f3d file y
 
 [![Pencil Sharpener sample render in Fusion 360](2024-kuehnle-jimmy-pencil-sharpener-sample-render.png)](2024-kuehnle-jimmy-pencil-sharpener-sample-render.png)
 
-[![Phone sample render in Fusion 360](2024-kuehnle-jimmy-phone-sample-render.png)](2024-kuehnle-jimmy-phone-sample-render.png)
+[![Phone sample render in Fusion 360](2024-kuehnle-jimmy-phone-sample-render.jpg)](2024-kuehnle-jimmy-phone-sample-render.jpg)
 
 </div>
 
