@@ -1,14 +1,14 @@
 ---
 title: "03.07 Laser Cut Design Research"
 date: 2024-02-01T12:00:00Z
-lastmod: 2024-02-08T05:45:53
+lastmod: 2026-01-14T04:49:14-04:00
 ---
 
 <div class="two-column-grid">
 
 [![Laser Cut Parts Layed Out](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Parts-Layed-Out.jpg)](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Parts-Layed-Out.jpg)
 
-[![Laser Cut Stand Assembled](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Assembeled.jpg)](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Assembeled.jpg)
+[![Laser Cut Stand Assembled](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Assembled.jpg)](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Assembled.jpg)
 
 </div>
 

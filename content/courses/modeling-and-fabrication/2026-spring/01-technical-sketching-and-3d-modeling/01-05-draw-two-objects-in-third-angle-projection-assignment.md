@@ -1,17 +1,17 @@
 ---
 title: 01.05 Draw Two Objects in Third Angle Projection Assignment
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-04T07:54:35-04:00
+lastmod: 2026-01-14T06:10:55-04:00
 ---
 
 ## Assignment Deliverables
 
-Upload 2 separate, labeled JPEGs, PNGs, or PDFs of 2 different objects drawn in [third angle projection](../../../../drawing/third-angle-projection.md) on paper. One is drawn freehand and one is drawn with technical drawing tools.
-
-Label the files:
-
-- YYYYMMDD Lastname Firstname object in third angle projection freehand.jpg
-- YYYYMMDD Lastname Firstname object in third angle projection tsquare.jpg
+1. [Third angle projection](../../../../drawing/third-angle-projection.md) drawing of an object drawn freehand
+   - Scan or photograph your drawing
+   - Label the digital file YYYY-MM-DD Lastname Firstname third angle projection freehand.jpg
+1. [Third angle projection](../../../../drawing/third-angle-projection.md) drawing of an object drawn with technical drawing tools
+   - Scan or photograph your drawing
+   - Label the digital file YYYY-MM-DD Lastname Firstname third angle projection drawing tools.jpg
 
 ## Instructions
 

@@ -1,7 +1,7 @@
 ---
 title: Fusion 360
 date: 2023-05-26T02:50:47
-lastmod: 2025-12-28T07:05:52-04:00
+lastmod: 2026-01-14T05:39:31-04:00
 tags:
   - Fusion-360
 ---
@@ -11,8 +11,8 @@ Fusion 360 is a [parametric modeling](../parametric-modeling.md) program combine
 ## Autodesk Fusion QuickStart Orientation & Setup
 
 - Install Fusion <!-- TODO Fusion 360 Install Video -->
-- Education License <!-- TODO Fusion Education License Instructions Page and Video-->
-- User Interface Tutorial Fusion
+- [Education License](./autodesk-education-licence-fusion.md)
+- [User Interface Fusion](./user-interface-fusion-360.md)
 - Navigation Basics: Orbit, Pan, Zoom, ViewCube, Essential Shortcuts
 - [Fusion 360 FAQ](fusion-360-faq.md)
 - Troubleshooting for Makers?

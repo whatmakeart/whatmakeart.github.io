@@ -41,12 +41,11 @@
     "wisk"
   ],
   "foam.files.exclude": [
-
     "**/_index.md",
     "**/README.md",
     "public/**/*",
-    "themes/**/*"
-    "content/courses/**/*", //keeps course materials out of graph vizualisation and wikilink search
+    "themes/**/*",
+    //"content/courses/**/*", //keeps course materials out of graph vizualisation and wikilink search
     "content/zalgorithmic/**/*" // keeps course materials out of graph vizualisation
   ],
   "foam.files.attachmentExtensions": "zip f3d png blend ma mb pdf mp3 webm wav m4a mp4 avi mov rtf txt doc docx pages xls xlsx numbers ppt pptm pptx",
@@ -55,9 +54,10 @@
     "**/README.md",
     "public/**/*",
     "themes/**/*",
-    "content/courses/**/*",
+    //"content/courses/**/*",
     "content/zalgorithmic/**/*"
   ],
+  "foam.graph.exclude": ["content/courses/**/*"],
   "foam.placeholders.exclude": ["**/_index.md"],
 
   // Disable the specific "Markdown Notes" list editing (part of Foam)

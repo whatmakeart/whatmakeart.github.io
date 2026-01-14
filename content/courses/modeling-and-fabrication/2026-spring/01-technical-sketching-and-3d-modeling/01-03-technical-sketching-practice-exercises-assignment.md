@@ -1,7 +1,7 @@
 ---
-title: 01.03 Technical Sketching Assignment
+title: 01.03 Technical Sketching Practice Exercises Assignment
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2025-12-24T06:53:18-04:00
+lastmod: 2026-01-14T06:11:21-04:00
 ---
 
 ## Assignment Deliverables
@@ -106,7 +106,7 @@ The videos below demonstrate how to practice drawing straight lines freehand. Th
 | Page of Straight Lines                    | 10 points |
 | Isometric Cube with Circles Freehand      | 20 points |
 | Isometric Cube with Circles with T-Square | 20 points |
-| Sketch Documentation                      | 20 points |
+| Sketch Documentation Quality              | 20 points |
 | File Management                           | 10 points |
 
 </div>

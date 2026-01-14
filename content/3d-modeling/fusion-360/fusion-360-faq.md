@@ -1,15 +1,13 @@
 ---
 title: Fusion 360 FAQ
 date: 2023-06-15T15:27:02
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-01-14T05:25:54-04:00
 tags:
   - Fusion-360
 ---
 
 ## Introduction
 
-- **How to move a body?** - Press m on the keyboard for the move / copy tool.
-- **How to select whole body and not just a face?** - Click on the underlined body in the outline after clicking one of its faces, or change the selection priority to bodies in the top right selection menu.
 - [How to export a .f3d Fusion 360 file?](export-f3d-file-fusion-360.md)
 - [How to turn on dark mode](dark-mode-fusion.md)
 
@@ -37,6 +35,8 @@ tags:
 - [How to Revolve?](https://youtu.be/VzossdZbGtk)
 - [How to make perfect polygons?](https://youtu.be/Gpplnrtf3UE)
 - [How to change model xyz orientation](https://youtu.be/xHsBKSrwHSg)
+- **How to move a body?** - Press m on the keyboard for the move / copy tool.
+- **How to select whole body and not just a face?** - Click on the underlined body in the outline after clicking one of its faces, or change the selection priority to bodies in the top right selection menu.
 
 ### Intermediate Modeling
 

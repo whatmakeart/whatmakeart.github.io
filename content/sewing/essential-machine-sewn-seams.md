@@ -1,7 +1,7 @@
 ---
 title: Essential Machine Sewn Seams
 date: 2026-01-11T21:02:09-04:00
-lastmod: 2026-01-12T11:36:52
+lastmod: 2026-01-14T05:05:36-04:00
 ---
 
 ### Straight or Plain Seam
@@ -12,13 +12,13 @@ A straight seam is made by placing the 'right' sides of the fabric together lini
 
 ### Mock or Faux Flat Felled Seam
 
-ISO 4916 2.04.06 A Faux Flat Felled seam is made starting with the wrong sides of the fabric together lining up the edges. Then press the seam to one side. Trim the lower seam allowance in half. Fold the top seam allowance around the bottom seam allowance enclosing it. Use an iron to press the seam allowance flat and around the bottom allowance. Make sure the width is even. Stitch a second set of stitches along this folded edge. This seam is not as strong as a true flat-felled seam that goes through four layers of fabric twice.
+ISO 4916 2.04.06 is a Mock or Faux Flat Felled seam is made starting with the wrong sides of the fabric together lining up the edges. Then press the seam to one side. Trim the lower seam allowance in half. Fold the top seam allowance around the bottom seam allowance enclosing it. Use an iron to press the seam allowance flat and around the bottom allowance. Make sure the width is even. Stitch a second set of stitches along this folded edge. This seam is not as strong as a true flat-felled seam that goes through four layers of fabric twice.
 
 - [How to Sew a Mock Flat Felled Seam](how-to-sew-a-mock-flat-felled-seam.md)
 
 ### French Seam
 
-ISO 4916 1.06.03 is call a French Seam and it encases the raw edges of the fabric in the seam.A french seam is made by placing the wrong sides of the fabric together lining up the edges. Then stitch a 1/4 inch seam allowance. Press the fabric and then topstich.
+ISO 4916 1.06.03 is called a French Seam and it encases the raw edges of the fabric in the seam.A french seam is made by placing the wrong sides of the fabric together lining up the edges. Then stitch a 1/4 inch seam allowance. Press the fabric and then topstich.
 
 - [How to Sew a French Seam?](how-to-sew-a-french-seam.md)
 
@@ -40,7 +40,7 @@ An overlock stitch machine or [serger](serger.md) is used to keep the threads fr
 
 ### True Flat Felled
 
-ISO 4916 2.04.06 is sometime called a Felled Seam or True Flat Felled Seam. A true flat-filled seem has interlocking edges of fabric and two sets of stitching going through four layers of the fabric. This is done with specialty equipment and machines that feed the fabric into the presser foot and make the fold.
+ISO 4916 2.04.03 or ASTM LSc is often called a Felled Seam or True Flat Felled Seam. A true flat-filled seem has interlocking edges of fabric and two sets of stitching going through four layers of the fabric. This is done with specialty equipment and machines that feed the fabric into the presser foot and make the fold.
 
 With a bit of practice and some ingenuity, this can also be made on a straight stitch machine or a domestic home sewing machine. It is not as fast but it is just as strong. Flat-filled seams are often used on the inside inseam of pants so they do not split since they go through four layers of fabric.
 

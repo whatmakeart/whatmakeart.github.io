@@ -1,7 +1,7 @@
 ---
 title: "03.04 Laser Cut Design Research"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2026-01-14T04:49:14-04:00
 ---
 
 # Design Laser Cut Phone / Tablet or Laptop Stand - Design Research
@@ -10,7 +10,7 @@ lastmod: 2024-01-04T13:15:02
 
 [![Laser Cut Parts Layed Out](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Parts-Layed-Out.jpg)](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Parts-Layed-Out.jpg)
 
-[![Laser Cut Stand Assembled](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Assembeled.jpg)](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Assembeled.jpg)
+[![Laser Cut Stand Assembled](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Assembled.jpg)](../../../../digital-fabrication/laser-cutting/attachments/2021-Laser-Cut-Stand-Assembled.jpg)
 
 </div>
 
