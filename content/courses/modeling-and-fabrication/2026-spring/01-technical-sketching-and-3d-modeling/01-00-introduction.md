@@ -1,7 +1,7 @@
 ---
 title: 01.00 Introduction to Technical Sketching and 3D Modeling
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-13T12:57:05
+lastmod: 2026-01-14T06:39:26-04:00
 ---
 
 ## Overview
@@ -18,13 +18,13 @@ We will use multiple [3D modeling software](../../../../3d-modeling/3d-modeling-
 - Differentiate between artistic drawing and technical communication
 - Sketch objects using [third angle projections](01-04-third-angle-projections.md)
 - 3D model a basic object in Fusion 360
-- Create a rendered image of a 3D modeled object in Fusion 360
+- Create a rendered image of a 3D modeled object in Autodesk Fusion
 
 ## Key Terms
 
-- technical sketching
-- 3D modeling
-- third angle projection
+- [3D modeling](01-01-3d-modeling.md)
+- [technical sketching](01-02-technical-sketching.md)
+- [third angle projection](01-04-third-angle-projections.md)
 - isometric perspective
 - parametric modeling
 - orthographic projection

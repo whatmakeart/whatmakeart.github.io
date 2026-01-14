@@ -1,7 +1,7 @@
 ---
-title: 01.07 Fusion 360 Exercise Exported Render Assignment
+title: 01.07 Fusion Modeling Exercise Exported Render Assignment
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-14T06:11:21-04:00
+lastmod: 2026-01-14T06:39:59-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2026-01-14T06:11:21-04:00
 
 ## Assignment Instructions
 
-1. Watch the [Fusion 360 3D Modeling Exercise](https://youtu.be/arTAFuBS-qI) video. This walks you through modeling your first part in Fusion. It introduces sketches, sketch constraints, appearances as well as rendering. Follow along and make the part from the example. You can use the sketch of the part below for reference.
+1. Watch the [Fusion 3D Modeling Exercise](https://youtu.be/arTAFuBS-qI) video. This walks you through modeling your first part in Fusion. It introduces sketches, sketch constraints, appearances as well as rendering. Follow along and make the part from the example. You can use the sketch of the part below for reference.
 2. Add a material to the object other than the default grey steel. Press "a" on your keyboard to bring up the appearance browser. Select the material of your choice. It doesn't have to be wood and it doesn't have to be the same material on each face. Experiment and see what happens.
 3. Export a render of your part as a PNG. You can render on your machine or in the cloud. Double check that the object is not super tiny in the render preview.
 4. In the render settings make sure one of the dimensions is set to 4000px so you have enough resolution and choose a 1:1, 3:4, or 16:9 aspect ratio.
@@ -30,7 +30,7 @@ You can use [this sketch](../../../../drawing/attachments/2022-Sketch-of-Sample-
 <div class="tutorial-video-gallery">
 <div class="video-card">
 
-### 2. Fusion 360 3D Modeling Exercise
+### 2. Fusion 3D Modeling Exercise
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/arTAFuBS-qI" width="300" height="150" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 

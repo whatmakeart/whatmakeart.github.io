@@ -1,7 +1,7 @@
 ---
 title: Fusion 360
 date: 2023-05-26T02:50:47
-lastmod: 2026-01-14T05:39:31-04:00
+lastmod: 2026-01-14T06:35:42-04:00
 tags:
   - Fusion-360
 ---
@@ -11,15 +11,14 @@ Fusion 360 is a [parametric modeling](../parametric-modeling.md) program combine
 ## Autodesk Fusion QuickStart Orientation & Setup
 
 - Install Fusion <!-- TODO Fusion 360 Install Video -->
-- [Education License](./autodesk-education-licence-fusion.md)
-- [User Interface Fusion](./user-interface-fusion-360.md)
+- [Education License](autodesk-education-licence-fusion.md)
+- [User Interface Fusion](user-interface-fusion-360.md)
+- [Fusion Fundamentals (Start Here)](fusion-fundamentals.md)
 - Navigation Basics: Orbit, Pan, Zoom, ViewCube, Essential Shortcuts
 - [Fusion 360 FAQ](fusion-360-faq.md)
-- Troubleshooting for Makers?
 - [Fusion 360 Rule #1](rule-number-one-fusion-360.md)
-- Fusion Fundamentals (Start Here)
 
-Basic workflow follows the pattern of making a 3D sketch and then extruding 3D features from the profiles of the sketch.
+The basic Fusion workflow follows the pattern of making a 2D sketch and then extruding 3D features from the profiles of the sketch. To edit a form in Fusion it is best to edit the original sketch if possible.
 
 ### Fusion 360 Sculpting
 
@@ -42,6 +41,19 @@ Parametric modeling allows the use of variables or parameters to stand in for ha
 
 golden_ratio = (1+sqrt(5))/2 length = width * golden_ratio width = sqrt(4*sphere_radius^2/(1+golden_ratio^2))
 
-- [3D Model a Penguin in Form Workspace Fusion 360](3d-model-a-penguin-character-for-3d-printing-fusion-360.md)
-- [3D Print Box with Lid Fusion 360](../../digital-fabrication/3d-printing/3d-print-box-with-lid-fusion-360.md)
-- [3D Printable Adjustable Angle Bracket in Fusion 360](../../digital-fabrication/3d-printing/adjustable-parametric-3d-printed-angle-bracket-in-fusion-360.md)
+## Fusion Modeling Tutorials
+
+### 3D Printing Fusion Modeling Tutorials
+
+- [Parametric 3D Print in Place Hinge Fusion Tutorial](../../digital-fabrication/3d-printing/3d-print-in-place-hinge-fusion-360.md)
+- [3D Print in Place Hinge - Ball and Socket Style - Fusion](../../digital-fabrication/3d-printing/3d-print-in-place-ball-and-socket-hinge-fusion-360.md)
+- [3D Model a Penguin in Form Workspace Fusion](3d-model-a-penguin-character-for-3d-printing-fusion-360.md)
+- [3D Print Box with Lid Fusion](../../digital-fabrication/3d-printing/3d-print-box-with-lid-fusion-360.md)
+- [3D Printable Adjustable Angle Bracket in Fusion](../../digital-fabrication/3d-printing/adjustable-parametric-3d-printed-angle-bracket-in-fusion-360.md)
+- [3D Printed Earrings in a Large Star Shape in Fusion Tutorial](../../digital-fabrication/3d-printing/3d-print-star-earrings-fusion-360-tutorial.md)
+- [3D Printed 90 Degree Angle Bracket](../../digital-fabrication/3d-printing/3d-printed-90-degree-angle-bracket.md)
+- [3D Printed Clamp Fusion 360](../../digital-fabrication/3d-printing/3d-printed-clamp-fusion-360.md)
+- [3D Printed Clamp Captive Nuts Fusion 360](../../digital-fabrication/3d-printing/3d-printed-clamp-captive-nuts-fusion-360.md)
+- [3D Printed Go Pro Style Clamp Mount](../../digital-fabrication/3d-printing/3d-printed-go-pro-style-clamp-mount.md)
+- [3D Printed Plywood Bracket](../../digital-fabrication/3d-printing/3d-printed-plywood-bracket.md)
+- [3D Printed Threaded Lid Jar Fusion 360](../../digital-fabrication/3d-printing/3d-printed-jar-threaded-lid-fusion-360.md)
