@@ -1,12 +1,12 @@
 ---
 title: 01.07 Fusion Modeling Exercise Exported Render Assignment
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-14T06:39:59-04:00
+lastmod: 2026-01-14T07:45:09-04:00
 ---
 
 ## Assignment Deliverables
 
-1. Upload a minimum of 1 render image of the Fusion 360 Modeling Exercise
+1. Upload a minimum of 1 render image of the Fusion Modeling Exercise
    - Label your exported render image: YYYY-MM-DD Lastname Firstname 3D Modeling Exercise Render.png
 
 ## Assignment Instructions
@@ -27,7 +27,7 @@ You can use [this sketch](../../../../drawing/attachments/2022-Sketch-of-Sample-
 
 [![this sketch](../../../../drawing/attachments/2022-Sketch-of-Sample-Part-for-Fusion-360-Modeling-Exercise.jpeg)](../../../../drawing/attachments/2022-Sketch-of-Sample-Part-for-Fusion-360-Modeling-Exercise.jpeg)
 
-<div class="tutorial-video-gallery">
+<div class="video-grid">
 <div class="video-card">
 
 ### 2. Fusion 3D Modeling Exercise

@@ -1,7 +1,7 @@
 ---
 title: 01.03 AI Mesh Generation Exercise
 date: 2024-08-21T09:00:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-01-14T07:36:34-04:00
 toc: true
 ---
 
@@ -10,7 +10,7 @@ AI mesh generation uses trained models to generate a 3D mesh from a 2D source im
 <div class="gallery-grid">
 <figure>
 
-[![Boxing Bunny Image made with Google Gemini](2024-boxing-rabbit-from-google-gemini.jpg)](2024-boxing-rabbit-from-google-gemini.jpg)
+[![Boxing Bunny Image made with Google Gemini](../../../../3d-modeling/attachments/2024-boxing-rabbit-from-google-gemini.jpg)](../../../../3d-modeling/attachments/2024-boxing-rabbit-from-google-gemini.jpg)
 
 <figcaption>
 
@@ -20,7 +20,7 @@ Boxing Bunny image made with Google Gemini
 </figure>
 <figure>
 
-![Boxing Bunny Video made with VFusion3D](2024-boxing-bunny-vfusion3d-rotate-video.gif)
+![Boxing Bunny Video made with VFusion3D](../../../../3d-modeling/attachments/2024-boxing-bunny-vfusion3d-rotate-video.gif)
 
 <figcaption>
 

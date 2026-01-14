@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2026-01-14T06:57:21-04:00
+lastmod: 2026-01-14T07:44:55-04:00
 tasks:
 ---
 
@@ -259,20 +259,15 @@ Generative AI can synthesize 3D models from text prompts and 2D images by estima
 
 Neural Radiance Fields (NeRFs) use deep learning to create 3D models from multiple 2D images or sometimes even a single 2D image.
 
-This article, _[The Pathway to the Metaverse Begins With 3D Modeling](https://www.entrepreneur.com/article/425643)_, in _The Entrepreneur_ examines the upcoming metaverse and how 3D modeled assets will be essential for the metaverse to work. 3D modelers will need to create the 3D digital objects for now, but soon [AI-Artificial-Intelligence](../coding/ai-artificial-intelligence.md) will likely play a bigger role in the automatic creation of 3D digital objects. Currently AI is able to produce realistic 2D images and make crude 3D models from photographs. This capability will exponentially grow in the future.
-
 In 2022 Google demonstrated DreamFusion that created 3D models from text prompts. OpenAI also demonstrated Shape-E in 2023.
 
 [VFusion3D](https://junlinhan.github.io/projects/vfusion3d.html), released in July 2024 can generate 3D meshes from images in seconds.
 
-In 2025 Trencent released Hunyuan3D 2.1. [Hunyuan3D 2.1 Demo on Hugging Face](https://huggingface.co/spaces/tencent/Hunyuan3D-2.1) Image to 3D mesh generator by Tencent.
+In 2025 Hitem3D demoed Sparc3D that created high fidelity and detailed polygon meshes from 2D Images. [Sparc3D demo on Hugging Face](https://huggingface.co/spaces/ilcve21/Sparc3D)
 
-<script
-	type="module"
-	src="https://gradio.s3-us-west-2.amazonaws.com/4.44.0/gradio.js"
-></script>
+In 2025 Trencent released Hunyuan3D 2.1. [Hunyuan3D 2.1 Demo on Hugging Face](https://huggingface.co/spaces/tencent/Hunyuan3D-2.1) Image to 3D mesh generator by Tencent. The model was updated to version 3.1. [Officail Hunyuan 3D site](https://3d.hunyuan.tencent.com/login?redirect_url=https%3A%2F%2F3d.hunyuan.tencent.com%2F)
 
-<gradio-app src="https://tencent-hunyuan3d-2-1.hf.space"></gradio-app>
+This article, _[The Pathway to the Metaverse Begins With 3D Modeling](https://www.entrepreneur.com/article/425643)_, in _The Entrepreneur_ examines the upcoming metaverse and how 3D modeled assets will be essential for the metaverse to work. 3D modelers will need to create the 3D digital objects for now, but soon [AI-Artificial-Intelligence](../coding/ai-artificial-intelligence.md) will likely play a bigger role in the automatic creation of 3D digital objects. Currently AI is able to produce realistic 2D images and make crude 3D models from photographs. This capability will exponentially grow in the future.
 
 <div class="video-grid">
 
@@ -300,6 +295,28 @@ Your browser does not support the video tag.
 <figcaption>
 
 OpenAI's Shape-E in 2023 [^shape-e]. [MIT License](https://github.com/openai/shap-e/blob/main/LICENSE)
+
+</figcaption>
+</figure>
+
+<figure>
+
+![Boxing Bunny Video made with VFusion3D](attachments/2024-boxing-bunny-vfusion3d-rotate-video.gif)
+
+<figcaption>
+
+3D Model from 2D image created with VFusion3D in 2024
+
+</figcaption>
+</figure>
+
+<figure>
+
+![Boxing Bunny Video made with VFusion3D](attachments/2026-01-14-boxing-bunny-hunyuan-3-1.gif)
+
+<figcaption>
+
+3D Model from 2D image created with Hunyuan 3.1 in 2026
 
 </figcaption>
 </figure>
