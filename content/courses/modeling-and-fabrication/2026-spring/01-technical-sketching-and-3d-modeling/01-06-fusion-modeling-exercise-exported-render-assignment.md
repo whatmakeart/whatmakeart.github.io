@@ -1,7 +1,7 @@
 ---
-title: 01.07 Fusion Modeling Exercise Exported Render Assignment
+title: 01.06 Fusion Modeling Exercise Exported Render Assignment
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-14T07:45:09-04:00
+lastmod: 2026-01-14T11:52:40
 ---
 
 ## Assignment Deliverables
@@ -12,9 +12,9 @@ lastmod: 2026-01-14T07:45:09-04:00
 ## Assignment Instructions
 
 1. Watch the [Fusion 3D Modeling Exercise](https://youtu.be/arTAFuBS-qI) video. This walks you through modeling your first part in Fusion. It introduces sketches, sketch constraints, appearances as well as rendering. Follow along and make the part from the example. You can use the sketch of the part below for reference.
-2. Add a material to the object other than the default grey steel. Press "a" on your keyboard to bring up the appearance browser. Select the material of your choice. It doesn't have to be wood and it doesn't have to be the same material on each face. Experiment and see what happens.
+2. Add a material to the object other than the default grey steel. Press "a" on your keyboard to bring up the appearance browser. Select the material of your choice. It doesn't have to be wood and it doesn't have to be the same material on each face. Experiment and see what happens. [Change Appearances Fusion](../../../../3d-modeling/fusion-360/change-appearances-fusion.md)
 3. Export a render of your part as a PNG. You can render on your machine or in the cloud. Double check that the object is not super tiny in the render preview.
-4. In the render settings make sure one of the dimensions is set to 4000px so you have enough resolution and choose a 1:1, 3:4, or 16:9 aspect ratio.
+4. In the render settings make sure one of the dimensions is set to 4000px so you have enough resolution and choose a 1:1, 3:4, or 16:9 aspect ratio. [Render Aspect Ratio Fusion](../../../../3d-modeling/fusion-360/render-aspect-ratio-fusion.md)
 5. Label the render image file and upload it. YYYY-MM-DD Lastname Firstname 3D Modeling Exercise Render.png
 
 ## Practice Modeling
@@ -45,7 +45,7 @@ You can use [this sketch](../../../../drawing/attachments/2022-Sketch-of-Sample-
 | ----------------------------------------------------- | --------- |
 | Object Form and Proportions compared to example block | 30 points |
 | Material Applied                                      | 20 points |
-| Render Exported                                       | 10 points |
+| Render Exported                                       | 20 points |
 | Render Composition                                    | 10 points |
 | File Management and Labeling                          | 10 points |
 

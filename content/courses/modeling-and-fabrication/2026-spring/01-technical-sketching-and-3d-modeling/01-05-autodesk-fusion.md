@@ -1,7 +1,7 @@
 ---
-title: 01.06 Autodesk Fusion
+title: 01.05 Autodesk Fusion
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-14T06:36:47-04:00
+lastmod: 2026-01-14T11:52:40
 toc: true
 ---
 

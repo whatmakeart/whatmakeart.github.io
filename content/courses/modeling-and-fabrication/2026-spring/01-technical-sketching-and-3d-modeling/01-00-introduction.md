@@ -1,7 +1,7 @@
 ---
 title: 01.00 Introduction
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-14T06:52:47-04:00
+lastmod: 2026-01-14T11:52:40
 ---
 
 ## Overview
@@ -16,7 +16,7 @@ We will use multiple [3D modeling software](../../../../3d-modeling/3d-modeling-
 - Practice technical drawing and sketching techniques
 - Draw isometric cubes and circles with triangles and a compass
 - Differentiate between artistic drawing and technical communication
-- Sketch objects using [third angle projections](01-04-third-angle-projections.md)
+- Sketch objects using [third angle projections](01-03-third-angle-projections.md)
 - 3D model a basic object in Fusion 360
 - Create a rendered image of a 3D modeled object in Autodesk Fusion
 
@@ -24,7 +24,7 @@ We will use multiple [3D modeling software](../../../../3d-modeling/3d-modeling-
 
 - [3D modeling](01-01-3d-modeling.md)
 - [technical sketching](01-02-technical-sketching.md)
-- [third angle projection](01-04-third-angle-projections.md)
+- [third angle projection](01-03-third-angle-projections.md)
 - isometric perspective
 - parametric modeling
 - orthographic projection

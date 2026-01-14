@@ -1,7 +1,7 @@
 ---
-title: 01.05 Draw Two Objects in Third Angle Projection Assignment
+title: 01.04 Draw Two Objects in Third Angle Projection Assignment
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-14T06:23:57-04:00
+lastmod: 2026-01-14T11:52:40
 ---
 
 ## Assignment Deliverables
