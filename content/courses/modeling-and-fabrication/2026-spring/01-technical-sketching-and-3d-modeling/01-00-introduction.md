@@ -1,7 +1,7 @@
 ---
-title: 01.00 Introduction to Technical Sketching and 3D Modeling
+title: 01.00 Introduction
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-14T06:39:26-04:00
+lastmod: 2026-01-14T06:52:47-04:00
 ---
 
 ## Overview

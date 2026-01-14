@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2026-01-04T07:54:35-04:00
+lastmod: 2026-01-14T06:57:21-04:00
 tasks:
 ---
 
@@ -266,6 +266,13 @@ In 2022 Google demonstrated DreamFusion that created 3D models from text prompts
 [VFusion3D](https://junlinhan.github.io/projects/vfusion3d.html), released in July 2024 can generate 3D meshes from images in seconds.
 
 In 2025 Trencent released Hunyuan3D 2.1. [Hunyuan3D 2.1 Demo on Hugging Face](https://huggingface.co/spaces/tencent/Hunyuan3D-2.1) Image to 3D mesh generator by Tencent.
+
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/4.44.0/gradio.js"
+></script>
+
+<gradio-app src="https://tencent-hunyuan3d-2-1.hf.space"></gradio-app>
 
 <div class="video-grid">
 

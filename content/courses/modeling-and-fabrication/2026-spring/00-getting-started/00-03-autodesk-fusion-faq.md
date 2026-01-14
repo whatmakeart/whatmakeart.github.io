@@ -1,7 +1,7 @@
 ---
-title: 00.03 Fusion 360 FAQ
+title: 00.03 Autodesk Fusion FAQ
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-05T17:13:22-04:00
+lastmod: 2026-01-14T06:50:09-04:00
 toc: true
 ---
 

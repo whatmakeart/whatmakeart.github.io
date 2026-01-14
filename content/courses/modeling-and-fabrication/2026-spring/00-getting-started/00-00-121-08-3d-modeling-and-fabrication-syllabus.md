@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus 121.08 Wednesday
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-01-14T06:45:51-04:00
 ---
 
 ### Course Information
@@ -96,7 +96,6 @@ Projects must be turned in on time. On time is before the beginning of class on 
 - Eraser
 - Safety Goggles (not needed on first day)
 - Hearing Protection (not needed on first day)
-- ~$50-$75 for fabrication materials to complete projects
 
 ## Recommended Materials
 
