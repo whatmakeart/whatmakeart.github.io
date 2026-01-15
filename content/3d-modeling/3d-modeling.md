@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2026-01-14T07:44:55-04:00
+lastmod: 2026-01-15T09:20:16-04:00
 tasks:
 ---
 
@@ -163,16 +163,6 @@ Not all 3D modeling starts from scratch. Reality capture is a way to acquire 3D 
 - Pivot Points - The specific spot an object rotates around.
 - Origin - The (0,0,0) center point of the Global Space.
 
-#### Geometry Types
-
-- Polygon - Closed 2D shape with 3 or more non-colinear points
-- Mesh - Surface made of connected polygons
-- BRep - Boundary Representation
-- NURBS - Non-Uniform Rational B-Splines
-- Quad - Four sided polygon face in a 3D model mesh.
-- Voxels - 3D pixels that represent volume at fixed or variable resolutions. Used in simulations and medical data such as CT scans.
-- Primitive Solids - Cubes, Spheres, Toruses, Cones, Helixes
-
 #### Surface Properties
 
 - Normals - Direction that the polygon is facing or the direction a group of polygons is facing.
@@ -219,7 +209,7 @@ Computers store 3D shapes and geometry in different ways. Many types of 3D model
 
 Polygon mesh models use polygons to create a shell or wireframe around the volume of the object.
 
-What is a polygon? A polygon is a closed 2D shape with minimum of 3 non-colinear points. These points are connected to form edges. When 3 or more edges connect to form a closed face, such as a triangle, square, hexagon, or many-many-agon, then it becomes a polygon. Every digital face has a "Front" and a "Back" indicated by its Normal Vector. If a Normal is flipped, the computer thinks the face is inside-out. This can cause lighting errors in renders and errors with modeling operations such as booleans. Generally it is best to ensure your Normals are facing outward.
+A polygon is a closed 2D shape with minimum of 3 non-colinear points. These points are connected to form edges. When 3 or more edges connect to form a closed face, such as a triangle, square, hexagon, or many-many-agon, then it becomes a polygon. Every digital face has a "Front" and a "Back" indicated by its Normal Vector. If a Normal is flipped, the computer thinks the face is inside-out. This can cause lighting errors in renders and errors with modeling operations such as booleans. Generally it is best to ensure your Normals are facing outward. A mesh is a surface made of connected polygons
 
 At its basic form, a mesh model is 4 parts, 3 vertices that make of the edges of the triangle face, and a normal vector, that indicates which direction it is pointed. In the file this is represented as a list of coordinate points (X, Y, Z) connected by straight lines with additional coordinate information about face normals, the way the polygons are pointed. A mesh sphere is an approximation, it is not actually round. It is more like a disco ball made of thousands of tiny flat faces. If you zoom in close enough, you will always see the jagged edges of the polygons unlike a CAD type model.
 
@@ -259,15 +249,13 @@ Generative AI can synthesize 3D models from text prompts and 2D images by estima
 
 Neural Radiance Fields (NeRFs) use deep learning to create 3D models from multiple 2D images or sometimes even a single 2D image.
 
-In 2022 Google demonstrated DreamFusion that created 3D models from text prompts. OpenAI also demonstrated Shape-E in 2023.
-
-[VFusion3D](https://junlinhan.github.io/projects/vfusion3d.html), released in July 2024 can generate 3D meshes from images in seconds.
-
-In 2025 Hitem3D demoed Sparc3D that created high fidelity and detailed polygon meshes from 2D Images. [Sparc3D demo on Hugging Face](https://huggingface.co/spaces/ilcve21/Sparc3D)
-
-In 2025 Trencent released Hunyuan3D 2.1. [Hunyuan3D 2.1 Demo on Hugging Face](https://huggingface.co/spaces/tencent/Hunyuan3D-2.1) Image to 3D mesh generator by Tencent. The model was updated to version 3.1. [Officail Hunyuan 3D site](https://3d.hunyuan.tencent.com/login?redirect_url=https%3A%2F%2F3d.hunyuan.tencent.com%2F)
-
 This article, _[The Pathway to the Metaverse Begins With 3D Modeling](https://www.entrepreneur.com/article/425643)_, in _The Entrepreneur_ examines the upcoming metaverse and how 3D modeled assets will be essential for the metaverse to work. 3D modelers will need to create the 3D digital objects for now, but soon [AI-Artificial-Intelligence](../coding/ai-artificial-intelligence.md) will likely play a bigger role in the automatic creation of 3D digital objects. Currently AI is able to produce realistic 2D images and make crude 3D models from photographs. This capability will exponentially grow in the future.
+
+### 3D Generative Model Progression
+
+#### 2022 - 2023
+
+In 2022 Google demonstrated DreamFusion that created 3D models from text prompts. OpenAI also demonstrated Shape-E in 2023.
 
 <div class="video-grid">
 
@@ -299,6 +287,14 @@ OpenAI's Shape-E in 2023 [^shape-e]. [MIT License](https://github.com/openai/sha
 </figcaption>
 </figure>
 
+</div>
+
+#### 2024
+
+[VFusion3D](https://junlinhan.github.io/projects/vfusion3d.html), released in July 2024 can generate 3D meshes from images in seconds.
+
+<div class="gallery-grid">
+
 <figure>
 
 ![Boxing Bunny Video made with VFusion3D](attachments/2024-boxing-bunny-vfusion3d-rotate-video.gif)
@@ -316,7 +312,67 @@ OpenAI's Shape-E in 2023 [^shape-e]. [MIT License](https://github.com/openai/sha
 
 <figcaption>
 
-3D Model from 2D image created with Hunyuan 3.1 in 2026
+3D Model from 2D image created with Tencent's Hunyuan 3.1 in 2026
+
+</figcaption>
+</figure>
+
+</div>
+
+#### 2025
+
+In 2025 Hitem3D demoed Sparc3D that created high fidelity and detailed polygon meshes from 2D Images. [Sparc3D demo on Hugging Face](https://huggingface.co/spaces/ilcve21/Sparc3D)
+
+#### 2026
+
+In 2026 Tencent updated its 3D generative model to Hunyuan3D 3.1 from the previously released Hunyuan3D 2.1. [Hunyuan3D 2.1 Demo on Hugging Face](https://huggingface.co/spaces/tencent/Hunyuan3D-2.1) Image to 3D mesh generator by Tencent. [Official Hunyuan3D site](https://3d.hunyuan.tencent.com/login?redirect_url=https%3A%2F%2F3d.hunyuan.tencent.com%2F)
+
+<div class="gallery-grid">
+
+<figure>
+
+![American Gothic Painting by Grant Wood 1930](attachments/1930-Grant_Wood_-_American_Gothic.jpg)
+
+<figcaption>
+
+American Gothic Painting by Grant Wood 1930
+
+</figcaption>
+</figure>
+
+<figure>
+
+![3D Generated model made with Tencent's Hunyuan 3.1 model in 2026](attachments/2026-01-15-American-Gothic-Grant-Wood-Tencent-Hunyuan-3.1-3D-Generation.gif)
+
+<figcaption>
+
+3D Generated model made with Tencent's Hunyuan 3.1 model in 2026
+
+</figcaption>
+</figure>
+
+</div>
+
+<div class="gallery-grid">
+
+<figure>
+
+![Baccus by Caravaggio 1592](attachments/1592-Baccus-Caravaggio-painting.jpg)
+
+<figcaption>
+
+Baccus by Carrivaggio
+
+</figcaption>
+</figure>
+
+<figure>
+
+![3D Generated model made with Tencent's Hunyuan 3.1 model in 2026](attachments/2026-01-15-Baccus-Caravaggio-Tencent-Hunuyan-3.1-3d-model.gif)
+
+<figcaption>
+
+3D Generated model made with Tencent's Hunyuan 3.1 model in 2026
 
 </figcaption>
 </figure>

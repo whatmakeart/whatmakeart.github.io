@@ -1,13 +1,13 @@
 ---
 title: 01.06 Fusion Modeling Exercise Exported Render Assignment
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-14T11:52:40
+lastmod: 2026-01-15T08:28:47-04:00
 ---
 
 ## Assignment Deliverables
 
 1. Upload a minimum of 1 render image of the Fusion Modeling Exercise
-   - Label your exported render image: YYYY-MM-DD Lastname Firstname 3D Modeling Exercise Render.png
+   - Label your exported render image: YYYY-MM-DD Lastname Firstname 3D Modeling Exercise Render (`.png')
 
 ## Assignment Instructions
 
@@ -46,7 +46,7 @@ You can use [this sketch](../../../../drawing/attachments/2022-Sketch-of-Sample-
 | Object Form and Proportions compared to example block | 30 points |
 | Material Applied                                      | 20 points |
 | Render Exported                                       | 20 points |
-| Render Composition                                    | 10 points |
+| Render Composition                                    | 20 points |
 | File Management and Labeling                          | 10 points |
 
 </div>

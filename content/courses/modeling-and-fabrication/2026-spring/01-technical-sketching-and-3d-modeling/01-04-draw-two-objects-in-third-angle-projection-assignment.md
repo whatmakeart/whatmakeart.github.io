@@ -1,7 +1,7 @@
 ---
 title: 01.04 Draw Two Objects in Third Angle Projection Assignment
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-14T11:52:40
+lastmod: 2026-01-15T08:32:37-04:00
 ---
 
 ## Assignment Deliverables
@@ -91,7 +91,7 @@ lastmod: 2026-01-14T11:52:40
 | Freehand Clear Dimensions       | 10 points |
 | T-Square Third Angle Projection | 25 points |
 | T-Square Clear Dimensions       | 10 points |
-| Documentation                   | 20 points |
-| File Management                 | 10 points |
+| Documentation Quality           | 20 points |
+| File Management and Labeling    | 10 points |
 
 </div>
