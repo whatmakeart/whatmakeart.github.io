@@ -1,20 +1,19 @@
 ---
 title: 02.10 Model Example Object in Fusion 360 and Export Render Image
 date: 2026-01-21T09:00:00-04:00
-lastmod: 2026-01-21T07:05:19-04:00
+lastmod: 2026-01-21T08:42:03
 ---
 
 ## Assignment Deliverables
 
 Upload the following:
 
-- 1 high resolution, labeled render image (1:1, 4:3, 16:9 aspect ratio, 4000px minimum largest side)
-- 1 exported Fusion 360 .f3d file [How to export .f3d File](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
-
-Label your files:
-
-- YYYYMMDD Lastname Firstname Render Image of Example Model.png/jpg
-- YYYYMMDD Lastname Firstname Fusion 360 Example Model.f3d
+1. 1 high resolution render image of a modeled example object
+   - (1:1, 4:3, 16:9 aspect ratio, 4000px minimum largest side)
+   - Label the file YYYY-MM-DD Lastname Firstname Render Image of Example Model (`.png`, `.jpg`)
+2. 1 exported Fusion `.f3d` 3D model file
+   - [How to export .f3d File](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
+   - Label the file YYYY-MM-DD Lastname Firstname Fusion Example Model File.f3d
 
 ## Instructions
 

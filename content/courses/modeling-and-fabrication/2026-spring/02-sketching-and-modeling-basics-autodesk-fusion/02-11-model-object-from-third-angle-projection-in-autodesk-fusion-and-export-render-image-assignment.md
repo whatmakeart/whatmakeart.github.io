@@ -1,20 +1,19 @@
 ---
 title: 02.11 Model Object from Third Angle Projection in Autodesk Fusion and Export Render Image Assignment
 date: 2026-01-21T09:00:00-04:00
-lastmod: 2026-01-21T07:05:19-04:00
+lastmod: 2026-01-21T08:44:00
 ---
 
 ## Assignment Deliverables
 
 Upload the following:
 
-- 1 high resolution, labeled render image (1:1, 4:3, 16:9 aspect ratio, 4000px minimum largest side)
-- 1 exported Fusion 360 .f3d file [How to export .f3d File](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
-
-Label your files:
-
-- YYYYMMDD Lastname Firstname Render Custom Model 1.png/jpg
-- YYYYMMDD Lastname Firstname Fusion 360 Custom Model 1.f3d
+1. 1 high resolution render image of a modeled object from a third angle projection
+   - (1:1, 4:3, 16:9 aspect ratio, 4000px minimum largest side)
+   - Label the file YYYY-MM-DD Lastname Firstname Render Image of Custom Model (`.png`, `.jpg`)
+2. 1 exported Fusion `.f3d` 3D model file
+   - [How to export .f3d File](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
+   - Label the file YYYY-MM-DD Lastname Firstname Fusion Custom Model File.f3d
 
 ## Overview
 
@@ -22,13 +21,13 @@ Now that you have modeled a complete model from on of the example modeling exerc
 
 There is no "right" way to model your object. Try to think of the main shapes. Break those down into pieces and then model the main form. Add details after you get the main forms. Look at the example videos to see different techniques and approaches to modeling simple objects.
 
-Using your third angle projection sketches, make a model at least one of your objects in Fusion 360. Use [Rule Number 1](https://youtu.be/ZYXSJ6EQ9S4) to divide you object into components. Label your components and make sure to activate each component when you are working on it. It is easy to forget which component is activated so it is good practice to right click on the component and isolate it so it is the only thing you can see. Remember to click the dot in the browser to activate the component that you want to work on so that the design history in the timeline stays with that component.
+Using your third angle projection sketches, make a model at least one of your objects in Fusion. Use [Rule Number 1](https://youtu.be/ZYXSJ6EQ9S4) to divide you object into components. Label your components and make sure to activate each component when you are working on it. It is easy to forget which component is activated so it is good practice to right click on the component and isolate it so it is the only thing you can see. Remember to click the dot in the browser to activate the component that you want to work on so that the design history in the timeline stays with that component.
 
 ## Instructions
 
 1. Model at least 1 of your objects but you may model more.
 2. Make all of the dimensions that you need are in your third angle projection sketch.
-3. If any dimensions are missing from the sketch, remeasure the object so you have the information needed to make an accurate model in Fusion 360.
+3. If any dimensions are missing from the sketch, remeasure the object so you have the information needed to make an accurate model in Fusion.
 4. If you do not like the objects from your third angle projections, you can choose new objects. Draw new third angle projections with dimensions so you can make the 3D models.
 5. Use the basic Fusion 360 modeling techniques covered in this course. You likely will not be able to model every detail exactly, but give it your best shot to have some representation of each part of the object in your Fusion 360 model.
 6. Remember Rule #1 - make a component, label the component, and activate it. This will help keep your design history timeline cleaner.
@@ -57,7 +56,7 @@ Using your third angle projection sketches, make a model at least one of your ob
 
 ### Download Fusion .f3d files
 
-Download the Fusion 360 model files to your computer. (To download a .f3d file you need to go to the file menu and click "...export". Then you can save a .f3d file to your computer.) Upload the .f3d files along with your render image.
+Download the Fusion model files to your computer. (To download a .f3d file you need to go to the file menu and click "...export". Then you can save a .f3d file to your computer.) Upload the .f3d files along with your render image.
 
 .f3d Files are a way to share Fusion models. If you have questions about your model during this assignment or during this course, download your .f3d file and send your questions and .f3d file to your instructor via email.
 
@@ -65,7 +64,7 @@ Download the Fusion 360 model files to your computer. (To download a .f3d file y
 
 <div class="gallery-grid">
 
-[![Bottle render from Fusion 360](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-bottle-sample-render.png)](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-bottle-sample-render.png)
+[![Bottle render from Fusion 360](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-bottle-sample-render.png)](2024-kuehnle-jimmy-bottle-sample-render.png)
 
 [![Building Brick render from Fusion 360](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-building-brick-sample-render.png)](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-building-brick-sample-render.png)
 
