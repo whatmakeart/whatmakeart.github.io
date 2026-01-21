@@ -1,7 +1,7 @@
 ---
 title: 02.10 Model Example Object in Fusion 360 and Export Render Image
 date: 2026-01-21T09:00:00-04:00
-lastmod: 2026-01-21T08:42:03
+lastmod: 2026-01-21T11:55:16
 ---
 
 ## Assignment Deliverables
@@ -17,7 +17,13 @@ Upload the following:
 
 ## Instructions
 
-Choose 1 of the example objects from the demo videos. The choice is up to you. Follow along and make the 3D model using the techniques in the video. Then make a render and upload it with the exported .f3d file of the model from Fusion 360. You can put any materials you want on the models to make interesting renders, but should try your best to make them the same size and shape.
+1. Choose 1 of the example objects from the Fusion modeling demo videos. The choice is up to you.
+2. Follow along and make the 3D model using the techniques in the video.
+3. Setup and compose a render scene.
+4. Render the image, save it, label it, and upload it
+5. Export a.f3d file of the model from Fusion, label it, and upload it.
+
+You can put any materials you want on the models to make interesting renders, but should try your best to make them the same size and shape.
 
 ## Fusion 360 Example Modeling Videos
 
@@ -83,9 +89,9 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 | ----------------------------------------------- | --------- |
 | Object Form and Proportions match example model | 30 points |
 | Material Applied                                | 20 points |
-| Render Exported                                 | 10 points |
-| Render Composition                              | 10 points |
-| File Management                                 | 10 points |
+| Render Exported                                 | 20 points |
+| Render Composition                              | 20 points |
+| File Management and Labeling                    | 10 points |
 
 </div>
 

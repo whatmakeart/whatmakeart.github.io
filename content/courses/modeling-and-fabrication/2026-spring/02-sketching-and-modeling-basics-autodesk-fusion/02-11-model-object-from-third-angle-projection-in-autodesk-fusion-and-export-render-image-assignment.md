@@ -1,7 +1,7 @@
 ---
 title: 02.11 Model Object from Third Angle Projection in Autodesk Fusion and Export Render Image Assignment
 date: 2026-01-21T09:00:00-04:00
-lastmod: 2026-01-21T08:44:00
+lastmod: 2026-01-21T11:55:35
 ---
 
 ## Assignment Deliverables
@@ -29,7 +29,7 @@ Using your third angle projection sketches, make a model at least one of your ob
 2. Make all of the dimensions that you need are in your third angle projection sketch.
 3. If any dimensions are missing from the sketch, remeasure the object so you have the information needed to make an accurate model in Fusion.
 4. If you do not like the objects from your third angle projections, you can choose new objects. Draw new third angle projections with dimensions so you can make the 3D models.
-5. Use the basic Fusion 360 modeling techniques covered in this course. You likely will not be able to model every detail exactly, but give it your best shot to have some representation of each part of the object in your Fusion 360 model.
+5. Use the basic Fusion modeling techniques covered in this course. You likely will not be able to model every detail exactly, but give it your best shot to have some representation of each part of the object in your Fusion 360 model.
 6. Remember Rule #1 - make a component, label the component, and activate it. This will help keep your design history timeline cleaner.
 7. Use sketches to map out the views from your sketch. Then use Extrude and other modeling operations to begin defining the form.
 8. Continue to refine the form with tools such as fillet, chamfer, and shell from the modify menu in Fusion 360.
