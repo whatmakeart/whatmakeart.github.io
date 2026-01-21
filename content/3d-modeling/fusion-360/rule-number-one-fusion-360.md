@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Rule Number One
 date: 2023-06-13T14:42:56-04:00
-lastmod: 2025-12-24T06:42:09-04:00
+lastmod: 2026-01-20T11:59:41-04:00
 tags:
   - Fusion-360
 ---

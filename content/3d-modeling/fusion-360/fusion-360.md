@@ -1,7 +1,7 @@
 ---
 title: Fusion 360
 date: 2023-05-26T02:50:47
-lastmod: 2026-01-14T06:35:42-04:00
+lastmod: 2026-01-21T07:05:19-04:00
 tags:
   - Fusion-360
 ---
@@ -19,6 +19,17 @@ Fusion 360 is a [parametric modeling](../parametric-modeling.md) program combine
 - [Fusion 360 Rule #1](rule-number-one-fusion-360.md)
 
 The basic Fusion workflow follows the pattern of making a 2D sketch and then extruding 3D features from the profiles of the sketch. To edit a form in Fusion it is best to edit the original sketch if possible.
+
+Sketches are created on a plane or on the face of an existing part. Then 2D geometry is generaly drawn to create a profile. The profile is then used to cread 3D geometry or to modify existing geometry.
+
+### Fusion Viewing and Navigation
+
+- Orbit - Move a virtual camera or view around a 3D model in space on a the screen.
+  - Hold Shift + Middle Mouse Button
+- Pan - Move the virtual camera parallel to the plane of the screen in any direction.
+  - Hold Middle Mouse Button
+- Zoom - Moving the virtual camera closer or farther away from a 3D model on the screen.
+  - Scroll Middle Mouse Button
 
 ### Fusion 360 Sculpting
 

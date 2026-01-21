@@ -1,7 +1,7 @@
 ---
-title: 02.04 Fusion 360 Rule Number 1
+title: 02.07 Rule Number 1 Autodesk Fusion
 date: 2026-01-21T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-01-21T07:05:19-04:00
 toc: true
 ---
 

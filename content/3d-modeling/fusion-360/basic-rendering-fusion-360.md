@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Basic Rendering
 date: 2023-06-14T05:57:42
-lastmod: 2025-12-24T11:37:55-04:00
+lastmod: 2026-01-20T06:00:57-04:00
 tags:
   - Fusion-360
   - Rendering
@@ -9,11 +9,22 @@ tags:
 
 ## Rendering Aspect Ratio
 
-[Fusion 360](fusion-360.md) defaults to the viewport aspect ratio when rendering images. This often creates images that are extra wide and not very usable. It is better to select a specific aspect ratio for your rendered images. You can make custom ratios but to start off stick with the following aspect ratios 1:1, 3:4, 16:9 all in either vertical or horizontal orientation. [Aspect Ratio Demo Video](https://youtu.be/NLr1FG27BGs)
+[Fusion](fusion-360.md) defaults to the viewport aspect ratio when rendering images. This often creates images that are extra wide and not very usable. It is better to select a specific aspect ratio for your rendered images. You can make custom ratios but to start off stick with the following aspect ratios 1:1, 3:4, 16:9 all in either vertical or horizontal orientation. [Aspect Ratio Demo Video](https://youtu.be/NLr1FG27BGs)
 
 ## Cloud Rendering vs Local Rendering
 
 Rendering in the cloud costs credits but can be faster than a local computer, especially for multiple renders although there is an initial wait for the cloud render queue.
+
+## Rendering Materials
+
+- [Change Appearances in Fusion](change-appearances-fusion.md)
+- [Create Custom Materials for Rendering](create-custom-materials-for-rendering.md)
+
+<!-- TODO Add lighting rendering video -->
+
+<!-- TODO Add basic environment selection video -->
+
+<!-- TODO Add viewport quick render video -->
 
 ## HDRI Environment Photos for Render Backgrounds
 

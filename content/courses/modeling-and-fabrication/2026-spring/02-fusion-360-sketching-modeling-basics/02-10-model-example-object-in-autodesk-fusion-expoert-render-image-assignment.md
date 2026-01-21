@@ -1,7 +1,7 @@
 ---
-title: 02.09 Model Example Object in Fusion 360 and Export Render Image
+title: 02.10 Model Example Object in Fusion 360 and Export Render Image
 date: 2026-01-21T09:00:00-04:00
-lastmod: 2026-01-13T14:13:41
+lastmod: 2026-01-21T07:05:19-04:00
 ---
 
 ## Assignment Deliverables
@@ -23,9 +23,18 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 ## Fusion 360 Example Modeling Videos
 
 <div class="video-grid">
+
 <div class="video-card">
 
-### 1. Model USB Plug from Third Angle Projection
+### Screwdriver
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/YgRV2KPkYdg?rel=0" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+</div>
+
+<div class="video-card">
+
+### USB Plug
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/VLx9AsbZ8R0?rel=0" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
@@ -33,7 +42,7 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 
 <div class="video-card">
 
-### 2. Model Toy Block
+### Toy Block
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/OJx09e5SrEw?rel=0" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
@@ -41,7 +50,7 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 
 <div class="video-card">
 
-### 3. Model Drinking Glass
+### Drinking Glass
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/2agSzLpN8Z0?rel=0" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
@@ -49,7 +58,7 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 
 <div class="video-card">
 
-### 4. Model Binder Clip
+### Binder Clip
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/MLphWafTfWY?rel=0" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
@@ -57,7 +66,7 @@ Choose 1 of the example objects from the demo videos. The choice is up to you. F
 
 <div class="video-card">
 
-### 5. Model Padlock
+### Padlock
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/8CNllmIHQN0?rel=0" title="YouTube video player" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 

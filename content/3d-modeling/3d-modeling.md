@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2026-01-15T09:20:16-04:00
+lastmod: 2026-01-21T07:05:19-04:00
 tasks:
 ---
 
@@ -62,15 +62,13 @@ Begin with references, constraints, and intent. The intent could be visual so th
 
 Before modeling in 3D, you must be able to think and sketch in 2D. You do not need to become a mechanical drafter to model well, but you do need 2D to 3D spatial literacy. Explore in 3D first since WD sketching is one of the fastest ways to get ideas out of your head. Exploring and refining [sketches](../drawing/technical-sketching.md) can prevent wasting time valuable time creating unnecessary or poorly considered 3D models. The testing of ideas and concepts whether aesthetic or physical is essential.
 
-Technical sketching and orthographic Projection are useful because they force you to look at an object from the Top, Front, and Side without perspective distortion. This helps clarify proportion and structure. Even a rough, hand drawn orthographic sketch can reveal important information for decisions about alignment, symmetry, interfaces, and scale. That’s why basic fluency with technical sketching is and essential part of becoming skilled in 3D. It trains your brain to understand 3D relationships with precision, even when the drawing is quick and imperfect. Sketching also reduces the the tendency to stick with the first thing you think of and regretting it later. You can generate ten variations on paper before you commit to one direction in 3D.
+Technical sketching and orthographic projection are useful because they force you to look at an object from the Top, Front, and Side without perspective distortion. This helps clarify proportion and structure. Even a rough, hand drawn orthographic sketch can reveal important information for decisions about alignment, symmetry, interfaces, and scale. That’s why basic fluency with technical sketching is and essential part of becoming skilled in 3D. It trains your brain to understand 3D relationships with precision, even when the drawing is quick and imperfect. Sketching also reduces the the tendency to stick with the first thing you think of and regretting it later. You can generate ten variations on paper before you commit to one direction in 3D.
 
-The point of learning and practicing 3D modeling is not to produce a single perfect object. It’s to build a repeatable process for turning ideas into form We're less interested in mastering all the intricacies of a particular piece of software then we are about having good ideas and sound processes.
+The point of learning and practicing 3D modeling with design intent is not to produce a single perfect object. It’s to build a repeatable process for turning ideas into form We're less interested in mastering all the intricacies of a particular piece of software then we are about having good ideas and sound processes.
 
 ### Choosing the Goal then the 3D Modeling Method
 
-Many beginners try to learn software. A better approach is to learn a repeatable modeling process that works in any software.
-
-Before opening software, define what the model is for, because different factors determine which method of 3D modeling or software to use.
+Many beginners try to learn software. A better approach is to learn a repeatable modeling process that works in any software. Before opening software, define what the model is for, because different factors determine which method of 3D modeling method or software to use.
 
 1. What is The intended output of the model?
 
@@ -85,37 +83,31 @@ Consider if the target output is for visual consumption or physical fabrication 
 8. Accuracy of form required
 9. Visual vs physical representation
 
-### 3D Modeling Software
+## 3D Modeling Software
 
-[Software used for 3D-Modeling](3d-modeling-software.md) is often grouped into two buckets based on the intended final output, but real workflows blend categories. A strong modeler can switch tools easily because they understand the universal rules of geometry and 3D form.
+[Software used for 3D-Modeling](3d-modeling-software.md) is often grouped into two buckets based on the intended final output, but real workflows blend categories. A strong modeler can switch tools easily because they understand the universal rules of geometry and 3D form. The specific software you use is just an interface. The underlying 3D thinking is what matters.
 
-The bucket of CAD (Computer Aided Design), focuses on 3D models, and designs that serve as a set of instructions for outputting physical objects into the real work.
+### CAD - Computer Aided Design
 
-The bucket of DCC (Digital Content Creation) focuses on output as an image or a pixel meant for visual consumption. The specific software you use is just an interface. The underlying 3D thinking is what matters.
-
-Architects use software that specializes in larger objects, photorealistic renderings and precise real world dimensions such as AutoCAD or [SketchUp](sketchup/sketchup.md). Machinists or industrial designers use more traditional CAD software such as SolidWorks or [Fusion 360](fusion-360/fusion-360.md) that feature precision, [parametric modeling](parametric-modeling.md), and structural simulations. Animators may prefer software with robust animation timelines and tools that aid in character rigging and animation special effects, such as [Blender](blender/blender.md) or [Maya](maya/maya.md). Visual effects artists may use Houdini, Cinema 4D, and all of the above.
-
-## Core 3D Modeling Techniques
-
-The same looking object could be modeled with any of the 3D modeling techniques, but depending on the intended use of the modeled certain processes are more ideal.
-
-### Solid Modeling (CAD)
+The bucket of CAD (Computer Aided Design), focuses on 3D models, and designs that serve as a set of instructions for outputting physical objects into the real work. Architects use software that specializes in larger objects, photorealistic renderings and precise real world dimensions such as AutoCAD or [SketchUp](sketchup/sketchup.md). Machinists or industrial designers use more traditional CAD software such as SolidWorks or [Fusion 360](fusion-360/fusion-360.md) that feature precision, [parametric modeling](parametric-modeling.md), and structural simulations.
 
 Computer Aided Design (CAD) 3D modeling usually uses the solid method since it creates precise mathematical models of objects that can be produced in the real world. The solid object would be ready for digital fabrication such as 3D printing, laser cutting, or CNC machining. Solid modeling can not use the same visual tricks afforded to mesh modeling since a zero thickness wall that looks great in a render image, cannot be physically fabricated. Software can use exact dimensions and specifications from technical drawings to create precise machinable surfaces.
 
-### Surface Modeling
+#### Surface Modeling
 
 Surface modeling uses surfaces to create complex skins that are trimmed with other surfaces to become solids.
 
-### Constructive Solid Geometry CSG
+#### Constructive Solid Geometry CSG
 
-Constructive Solid Geometry using boolean operations to combine and subtract from primitive solids to precisely add and carve away form to reach the desired result.
+Constructive Solid Geometry using boolean operations to combine and subtract from primitive solids to precisely add and carve away form to reach the desired result. Primitive solids include cubes, spheres, toroidal shapes, cones, and helixes.
 
-### Parametric Modeling
+#### Parametric Modeling
 
 Parametric 3D modeling is a type of computer-aided design (CAD) that uses parameters to control the shape and geometry of a model. It can use parameters and variables to create models through a generative, parametric process. If you change a parameter such as `Length = 100mm` to `150mm`, then the entire model updates automatically.
 
-### Mesh Modeling (DCC)
+### DCC - Digital Content Creation
+
+The bucket of DCC (Digital Content Creation) focuses on output as an image or a pixel meant for visual consumption. Animators may prefer software with robust animation timelines and tools that aid in character rigging and animation special effects, such as [Blender](blender/blender.md) or [Maya](maya/maya.md). Visual effects artists may use Houdini, Cinema 4D, and all of the above.
 
 #### Digital Sculpting
 
@@ -129,9 +121,25 @@ Box Modeling is a form of Sub-D modeling that starts with a cube and extrudes fa
 
 Cheating, or making meshes that intersect, float in midair, or have zero thickness can be a skill since as long as the final output for the camera or the viewer looks good, how it is constructed is less important.
 
-### Procedural Modeling
+#### Procedural Modeling
 
 Procedural Modeling uses algorithms and recipes to generate geometry and models based on specific actions. Great for patterns, environments, repetition, and systems.
+
+## Core 3D Modeling Techniques
+
+The same looking object could be modeled with any of the 3D modeling techniques, but depending on the intended use of the modeled certain processes are more ideal. Different programs have different buttons, but most 3D form is built from a small set of fundamental moves and operations. Once you understand these core techniques, learning new software becomes mostly vocabulary and interface muscle memory.
+
+- Extrude - Pulling a 2D profile into 3D space.
+- Revolve - Spinning a 2D profile around an axis.
+- Loft - Creates a skin that bridges multiple non-colinear 2D profiles spaced apart.
+- Sweep - Dragging a 2D profile shape along a linear path.
+- Transform - Move, Rotate, or Scale bodies or components in 3D space.
+- Tessellation - Converts smooth, curves, surfaces, and faces, into discrete entities such as lines or polygons.
+- Decimate - Reduces number of polygons based on level of retained detail and accuracy of original mesh.
+- Boolean Operations
+  - Union - Adds A to B
+  - Difference - Subtracts B from A
+  - Intersect - Keeps only the parts of A and B that overlap in space
 
 ## 3D Reality Capture
 
@@ -148,12 +156,6 @@ Not all 3D modeling starts from scratch. Reality capture is a way to acquire 3D 
 ## Fundamental 3D Modeling Concepts
 
 ### 3D Modeling Terms
-
-#### Viewing and Navigation
-
-- Orbit - Move a virtual camera or view around a 3D model in space on a computer screen.
-- Pan - Move the virtual camera parallel to the plane of the screen in any direction.
-- Zoom - Moving the virtual camera closer or farther away from a 3D model on the screen.
 
 #### Spatial Concepts
 
@@ -176,27 +178,6 @@ Not all 3D modeling starts from scratch. Reality capture is a way to acquire 3D 
 - Manifold - Model must have clearly defined inside and outside and be closed.
 - Watertight - No gaps in the mesh so that it would not leak if filled with water.
 
-#### Core Modeling Techniques
-
-Different programs have different buttons, but most 3D form is built from a spall set of fundamental moves. Once you understand these core techniques, learning new software becomes mostly vocabulary and interface muscle memory.
-
-- Extrude - Pulling a 2D profile into 3D space.
-- Revolve - Spinning a 2D profile around an axis.
-- Loft - Creates a skin that bridges multiple non-colinear 2D profiles spaced apart.
-- Sweep - Dragging a 2D profile shape along a linear path.
-- Transform - Move, Rotate, or Scale bodies or components in 3D space.
-- Tessellation - Converts smooth, curves, surfaces, and faces, into discrete entities such as lines or polygons.
-- Decimate - Reduces number of polygons based on level of retained detail and accuracy of original mesh.
-- Boolean Operations
-  - Union - Adds A to B
-  - Difference - Subtracts B from A
-  - Intersect - Keeps only the parts of A and B that overlap in space
-
-#### Software Categories
-
-- DCC - Digital Content Creation
-- CAD - Computer Aided Design
-
 ## Types of 3D Geometry
 
 3D geometry data is different than 2D geometry data. 2D geometry only captures height and width. 3D geometry adds the dimension of depth. 3D models generally create a representation of a volume of an object, often referred to as a solid, or a representation of the surfaces of an object referred to as a shell or boundary.
@@ -209,7 +190,7 @@ Computers store 3D shapes and geometry in different ways. Many types of 3D model
 
 Polygon mesh models use polygons to create a shell or wireframe around the volume of the object.
 
-A polygon is a closed 2D shape with minimum of 3 non-colinear points. These points are connected to form edges. When 3 or more edges connect to form a closed face, such as a triangle, square, hexagon, or many-many-agon, then it becomes a polygon. Every digital face has a "Front" and a "Back" indicated by its Normal Vector. If a Normal is flipped, the computer thinks the face is inside-out. This can cause lighting errors in renders and errors with modeling operations such as booleans. Generally it is best to ensure your Normals are facing outward. A mesh is a surface made of connected polygons
+A polygon is a closed 2D shape with minimum of 3 non-colinear points. These points are connected to form edges. When 3 or more edges connect to form a closed face, such as a triangle, square, hexagon, or many-many-agon, then it becomes a polygon. Every digital face has a "Front" and a "Back" indicated by its Normal Vector. If a Normal is flipped, the computer thinks the face is inside-out. This can cause lighting errors in renders and errors with modeling operations such as booleans. Generally it is best to ensure your Normals are facing outward. A mesh is a surface made of connected polygons. A quad refers to a four sided polygon face in a 3D model mesh.
 
 At its basic form, a mesh model is 4 parts, 3 vertices that make of the edges of the triangle face, and a normal vector, that indicates which direction it is pointed. In the file this is represented as a list of coordinate points (X, Y, Z) connected by straight lines with additional coordinate information about face normals, the way the polygons are pointed. A mesh sphere is an approximation, it is not actually round. It is more like a disco ball made of thousands of tiny flat faces. If you zoom in close enough, you will always see the jagged edges of the polygons unlike a CAD type model.
 
@@ -221,7 +202,7 @@ A point cloud is a list of 3D points in space that may or may not have edges, or
 
 #### Volumetric Voxel Models
 
-Volumetric models use voxels, 3D pixels that have a base resolution and represent the volume of a form at a fixed resolution. They represent the voxels all the way through the cylinder rather than just the equation of a cylinder or the outside faces of a cylinder.
+Volumetric models use voxels, 3D pixels that represent the volume of a form at a fixed or variable resolution. They represent the voxels all the way through the cylinder rather than just the equation of a cylinder or the outside faces of a cylinder. Used in simulations and medical data such as CT scans.
 
 #### Gaussian Splat Models
 

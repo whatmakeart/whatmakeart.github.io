@@ -1,7 +1,7 @@
 ---
-title: 02.10 Model Object from Sketch in Fusion 360 and Export Render Image
+title: 02.11 Model Object from Third Angle Projection in Autodesk Fusion and Export Render Image Assignment
 date: 2026-01-21T09:00:00-04:00
-lastmod: 2026-01-13T13:50:34
+lastmod: 2026-01-21T07:05:19-04:00
 ---
 
 ## Assignment Deliverables
