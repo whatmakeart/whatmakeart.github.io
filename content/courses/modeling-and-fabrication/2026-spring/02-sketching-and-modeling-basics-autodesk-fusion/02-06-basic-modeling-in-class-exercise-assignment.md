@@ -1,7 +1,7 @@
 ---
 title: 02.06 Basic Modeling In Class Exercise Assignment
 date: 2026-01-21T09:00:00-04:00
-lastmod: 2026-01-21T08:57:18
+lastmod: 2026-01-21T10:32:42
 ---
 
 ## Assignment Deliverables
@@ -10,6 +10,9 @@ lastmod: 2026-01-21T08:57:18
     - Show the Design Timeline at the bottom of the screen that includes at least one of each of the following features.
 
 ## Assignment Overview
+
+- [Fusion Basic Creation Tools](../../../../3d-modeling/fusion-360/basic-creation-tools-fusion-360.md)
+- [Fusion Basic Pattern Tools](../../../../3d-modeling/fusion-360/basic-pattern-tools-fusion-360.md)
 
 Start by building the core structure of your object. You can perform these steps in any order, but all features must be present in the design timeline in Fusion.
 
