@@ -1,7 +1,7 @@
 ---
 title: Fusion 360
 date: 2023-05-26T02:50:47
-lastmod: 2026-01-21T07:05:19-04:00
+lastmod: 2026-01-22T07:46:46-04:00
 tags:
   - Fusion-360
 ---
@@ -20,7 +20,7 @@ Fusion 360 is a [parametric modeling](../parametric-modeling.md) program combine
 
 The basic Fusion workflow follows the pattern of making a 2D sketch and then extruding 3D features from the profiles of the sketch. To edit a form in Fusion it is best to edit the original sketch if possible.
 
-Sketches are created on a plane or on the face of an existing part. Then 2D geometry is generaly drawn to create a profile. The profile is then used to cread 3D geometry or to modify existing geometry.
+Sketches are created on a plane or on the face of an existing part. Then 2D geometry is generally drawn to create a profile. The profile is then used to create 3D geometry or to modify existing geometry.
 
 ### Fusion Viewing and Navigation
 

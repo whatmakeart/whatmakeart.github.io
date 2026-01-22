@@ -1,7 +1,7 @@
 ---
-title: 02.10 Model Example Object in Fusion 360 and Export Render Image
+title: 02.10 Model Example Object in Autodesk Fusion and Export Render Image
 date: 2026-01-21T09:00:00-04:00
-lastmod: 2026-01-21T11:55:16
+lastmod: 2026-01-22T07:46:46-04:00
 ---
 
 ## Assignment Deliverables

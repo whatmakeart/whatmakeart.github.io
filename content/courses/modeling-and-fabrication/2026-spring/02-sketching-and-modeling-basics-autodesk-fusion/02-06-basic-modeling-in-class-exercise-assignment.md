@@ -1,20 +1,19 @@
 ---
 title: 02.06 Basic Modeling In Class Exercise Assignment
 date: 2026-01-21T09:00:00-04:00
-lastmod: 2026-01-21T10:32:42
+lastmod: 2026-01-22T06:00:40-04:00
 ---
 
 ## Assignment Deliverables
 
-1.  Create a single object or objects that use all of the primary creation, modification, and pattern tools in Autodesk Fusion.
-    - Show the Design Timeline at the bottom of the screen that includes at least one of each of the following features.
+1.  Create a single object or objects that use all of the primary creation, modification, and pattern tools in Autodesk Fusion. Spend time in class using the modeling tools and asking questions. You do not turn anything in for this in class exercise.
 
 ## Assignment Overview
 
 - [Fusion Basic Creation Tools](../../../../3d-modeling/fusion-360/basic-creation-tools-fusion-360.md)
 - [Fusion Basic Pattern Tools](../../../../3d-modeling/fusion-360/basic-pattern-tools-fusion-360.md)
 
-Start by building the core structure of your object. You can perform these steps in any order, but all features must be present in the design timeline in Fusion.
+Start by building the core structure of your object. You can perform these steps in any order, but all features should be present in the design timeline in Fusion. You don’t have to model anything specific, the point is to successfully use each tool once
 
 - **Revolve:** Create a profile sketch and revolve it around an axis to create a base or a central pillar.
 - **Extrude:** Sketch a shape on a plane or a face and extrude it to add volume, subtract volume, or intersect volume.

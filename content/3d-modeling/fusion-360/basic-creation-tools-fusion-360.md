@@ -1,7 +1,7 @@
 ---
 title: Fusion Basic Creation Tools
 date: 2023-06-13T14:13:56
-lastmod: 2026-01-21T06:01:58-04:00
+lastmod: 2026-01-22T06:19:03-04:00
 tags:
   - Fusion-360
   - 3D-Modeling
@@ -9,7 +9,7 @@ tags:
 
 ## Polygon Primitives and Shapes
 
-[Fusion](fusion-360.md) allows you to create fast [3D polygon primitives](primitive-3d-forms-fusion-360.md) of specific sizes easily. You can create a a box, cylinder, sphere, torus, coil, or a pipe. To create any of these forms usually involves an initial click to define the starting surface or point, then a drag to set the first dimensions, a manipulation of parameters and then a confirmation of your choices. If you hover over most tools with your cursor in Fusion it provides as brief description of what the tool does and how to use it.
+[Autodesk's Fusion](fusion-360.md) allows you to create fast [3D polygon primitives](primitive-3d-forms-fusion-360.md) of specific sizes easily. You can create a a box, cylinder, sphere, torus, coil, or a pipe. To create any of these forms usually involves an initial click to define the starting surface or point, then a drag to set the first dimensions, a manipulation of parameters and then a confirmation of your choices. If you hover over most tools with your cursor in Fusion it provides as brief description of what the tool does and how to use it.
 
 When creating a new shape it defaults to a new body but you can also create a new component. Often it is helpful to create a new component to represent a part of your model or assembly as a first step, known as [Rule #1](rule-number-one-fusion-360.md) in Fusion. If there are existing shapes in the model when you create a new form, then there are options for joining, cutting, intersect, as well as new body and new component.
 
@@ -22,7 +22,7 @@ When creating a new shape it defaults to a new body but you can also create a ne
 - **New Component** - Creates a new component with the newly created body as part of that component.
 - [Join, Cut, Intersect Video Demo](https://youtu.be/iLr9d8Gp7Ls)
 
-Without any additional knowledge of Fusion 360, relatively complex and detailed forms can be made through the combination of new primitive shapes and the use of joining, cutting and intersecting. It is not wrong to 3D model using only these tools, but once the idea goes beyond simple designs there are more efficient, easier, and better ways to create a 3D model.
+Without any additional knowledge of Fusion, relatively complex and detailed forms can be made through the combination of new primitive shapes and the use of joining, cutting and intersecting. It is not wrong to 3D model using only these tools, but once the idea goes beyond simple designs there are more efficient, easier, and better ways to create a 3D model.
 
 <!-- TODO make section about Sketching to 3D video Fusion -->
 

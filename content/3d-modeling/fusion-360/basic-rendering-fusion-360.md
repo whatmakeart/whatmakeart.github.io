@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Basic Rendering
 date: 2023-06-14T05:57:42
-lastmod: 2026-01-20T06:00:57-04:00
+lastmod: 2026-01-22T05:42:00-04:00
 tags:
   - Fusion-360
   - Rendering
@@ -9,7 +9,9 @@ tags:
 
 ## Rendering Aspect Ratio
 
-[Fusion](fusion-360.md) defaults to the viewport aspect ratio when rendering images. This often creates images that are extra wide and not very usable. It is better to select a specific aspect ratio for your rendered images. You can make custom ratios but to start off stick with the following aspect ratios 1:1, 3:4, 16:9 all in either vertical or horizontal orientation. [Aspect Ratio Demo Video](https://youtu.be/NLr1FG27BGs)
+[Fusion](fusion-360.md) defaults to the viewport aspect ratio when rendering images. This often creates images that are extra wide and not very usable. It is better to select a specific aspect ratio for your rendered images. You can make custom ratios but to start off stick with the following aspect ratios 1:1, 3:4, 16:9 all in either vertical or horizontal orientation.
+
+- [Aspect Ratio Demo Video](https://youtu.be/NLr1FG27BGs)
 
 ## Cloud Rendering vs Local Rendering
 
@@ -38,7 +40,7 @@ Download the photo that you want and then you can attach a custom environment in
 
 <div class="video-card">
 
-### 1. Rendering Aspect Ratio
+### Rendering Aspect Ratio
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/NLr1FG27BGs?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
@@ -46,7 +48,7 @@ Download the photo that you want and then you can attach a custom environment in
 
 <div class="video-card">
 
-### 2. Custom HDRI Background
+### Custom HDRI Background
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/MmJL4zjfmic?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
@@ -54,7 +56,7 @@ Download the photo that you want and then you can attach a custom environment in
 
 <div class="video-card">
 
-### 3. Create Custom Materials for Rendering
+### Create Custom Materials for Rendering
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" src="https://www.youtube.com/embed/2-k1KDkzIqU?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
