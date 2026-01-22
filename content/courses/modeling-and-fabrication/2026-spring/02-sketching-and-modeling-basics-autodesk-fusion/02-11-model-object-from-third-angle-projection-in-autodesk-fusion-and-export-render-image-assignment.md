@@ -1,7 +1,7 @@
 ---
 title: 02.11 Model Object from Third Angle Projection in Autodesk Fusion and Export Render Image Assignment
 date: 2026-01-21T09:00:00-04:00
-lastmod: 2026-01-21T11:55:35
+lastmod: 2026-01-22T08:27:38
 ---
 
 ## Assignment Deliverables
@@ -64,7 +64,7 @@ Download the Fusion model files to your computer. (To download a .f3d file you n
 
 <div class="gallery-grid">
 
-[![Bottle render from Fusion 360](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-bottle-sample-render.png)](2024-kuehnle-jimmy-bottle-sample-render.png)
+[![Bottle render from Fusion 360](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-bottle-sample-render.png)](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-bottle-sample-render.png)
 
 [![Building Brick render from Fusion 360](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-building-brick-sample-render.png)](../../2024-spring/02-fusion-360-sketching-modeling-basics/2024-kuehnle-jimmy-building-brick-sample-render.png)
 
@@ -84,8 +84,8 @@ Download the Fusion model files to your computer. (To download a .f3d file you n
 | -------------------------------------- | --------- |
 | Convincing Object Form and Proportions | 30 points |
 | Materials Applied                      | 20 points |
-| Render Exported                        | 10 points |
-| Render Composition                     | 10 points |
-| File Management                        | 10 points |
+| Render Exported                        | 20 points |
+| Render Composition                     | 20 points |
+| File Management and Labeling           | 10 points |
 
 </div>
