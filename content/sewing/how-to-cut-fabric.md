@@ -1,8 +1,10 @@
 ---
 Title: How to Cut Fabric
 date: 2024-11-10T16:01:02-04:00
-lastmod: 2026-01-11T17:31:33-04:00
+lastmod: 2026-01-23T07:13:11-04:00
 ---
+
+<!-- TODO Fabric Cutting Basic Video -->
 
 ### Fabric Cutting Tips
 

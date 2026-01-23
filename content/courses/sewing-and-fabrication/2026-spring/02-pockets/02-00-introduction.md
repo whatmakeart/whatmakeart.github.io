@@ -1,7 +1,7 @@
 ---
 title: 02.00 Introduction
 date: 2026-01-19T09:00:00-04:00
-lastmod: 2026-01-07T07:39:19-04:00
+lastmod: 2026-01-23T12:42:59-04:00
 ---
 
 Students build on their foundational sewing skills by learning to construct a variety of pockets, a key element in garment and bag design. Moving beyond basic seams, the focus this week is on creating patch pockets, cargo pockets, double welt pockets, and zipper pockets. Through hands-on instruction, students will learn to apply techniques like using fusible interfacing, working with zippers, and finishing raw edges with French seams or serging. These skills are essential for creating clean, professional-looking pockets that are both functional and aesthetically pleasing.
@@ -18,11 +18,15 @@ The week also emphasizes applying these techniques in a design project. Students
 
 ### Key Terms:
 
-- Patch Pocket
-- Cargo Pocket
-- Double Welt Pocket
-- Zipper Pocket
+- [Patch Pocket](./02-03-patch-pocket.md)
+- [Cargo Pocket](./02-04-cargo-pocket.md)
+- [Double Welt Pocket](./02-05-double-welt-pocket.md)
+- [Zipper Pocket](./02-06-how-to-sew-a-zipper-pocket.md)
 - Fusible Interfacing
-- French Seams
+- [Inverted Pleat Pocket](../../../../sewing/inverted-pleat-pocket.md)
+- [Box Pleat Pocket](../../../../sewing/box-pleat-pocket.md)
+- [Accordion Pocket](../../../../sewing/accordion-pocket.md)
+- [Sew Inseam Pockets with French Seams](../../../../sewing/sew-inseam-pockets-with-french-seams.md)
+- [Sew Zipper Pocket without Exposed Zipper](../../../../sewing/sew-zipper-pocket-without-exposed-zipper-tape.md)
 - Serging
 - Lining

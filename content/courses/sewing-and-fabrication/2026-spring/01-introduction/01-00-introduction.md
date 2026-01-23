@@ -1,7 +1,7 @@
 ---
 title: 01.00 Introduction
 date: 2026-01-12T09:00:00-04:00
-lastmod: 2026-01-07T07:39:19-04:00
+lastmod: 2026-01-23T07:11:07-04:00
 ---
 
 ## Overview
@@ -19,3 +19,15 @@ This learning module is designed to introduce students to the foundational skill
 - sew a serged seam
 - sew a serged seam with top stitching
 - sew a busted seam
+
+## Key Terms
+
+- French Seam
+- Plain Seam
+- Mock Flat Felled Seam
+- Serged Seam
+- Felled Seam
+- Busted Seam
+- Bobbin
+- Top Stitch
+- Lockstitch
