@@ -1,7 +1,7 @@
 ---
 title: 03.05 3D Modeling and 3D Printing Exercise
 date: 2026-01-28T09:00:00-04:00
-lastmod: 2026-01-28T08:38:16-04:00
+lastmod: 2026-01-28T10:12:33-04:00
 ---
 
 ## Assignment Deliverables
@@ -22,7 +22,7 @@ lastmod: 2026-01-28T08:38:16-04:00
 ### Print in Place Box
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/CD1XSw5toJk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/P-WW6b1J3L8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -73,10 +73,10 @@ lastmod: 2026-01-28T08:38:16-04:00
 
 </div>
 
-[Print in Place Box](https://youtu.be/P-WW6b1J3L8)
-[Print in Place Phone Holder](https://youtu.be/BkKg_YwFCDA)
-[3D Printed Clamp Fusion](https://youtu.be/HenImRbfuZg)
-[Print in Place Cone Hinge](https://youtu.be/wFejArLliwg)
+- [Print in Place Box](https://youtu.be/P-WW6b1J3L8)
+- [Print in Place Phone Holder](https://youtu.be/BkKg_YwFCDA)
+- [3D Printed Clamp Fusion](https://youtu.be/HenImRbfuZg)
+- [Print in Place Cone Hinge](https://youtu.be/wFejArLliwg)
 
 ## Additional Resources
 
