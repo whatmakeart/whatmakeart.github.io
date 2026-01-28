@@ -1,7 +1,7 @@
 ---
 title: 03.08 3D Print and Laser Cut Ideation Sketches Assignment
 date: 2024-04-11T12:00:00Z
-lastmod: 2025-01-30T18:06:35
+lastmod: 2026-01-28T07:12:27-04:00
 ---
 
 ## Assignment Deliverables
@@ -37,7 +37,7 @@ You will tackle specific design challenges using the 3D printing fabrication pro
 
 Often creative work has arbitrary restrictions on the creative process. There may be challenges based on material availability, budget, time, aesthetic criteria and countless other constraints on what you can make. Part of your job as an artist and designer is to work around these restraints and still create new and compelling creative works of culture.
 
-For this project you are required to design a 3D printed clamping mechanism that attaches to a specific object such as a desk or a workbench. The clamp base will be designed to accommodate planar forms cut from a laser cutter. While a3D printer could print a flat rectangle of plastic, it would be slow, wasteful, weak, and not very flat. Plywood and acrylic sheet are already flat and are goo planar building materials. How can you use the relative strengths of each material to create something better than using one material alone?
+For this project you are required to design a 3D printed clamping mechanism that attaches to a specific object such as a desk or a workbench. The clamp base will be designed to accommodate planar forms cut from a laser cutter. While a 3D printer could print a flat rectangle of plastic, it would be slow, wasteful, weak, and not very flat. Plywood and acrylic sheet are already flat and are good planar building materials. How can you use the relative strengths of each material to create something better than using one material alone?
 
 ## Grading Rubric
 

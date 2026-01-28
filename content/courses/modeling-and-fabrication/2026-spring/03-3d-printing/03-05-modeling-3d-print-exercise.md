@@ -1,7 +1,7 @@
 ---
 title: 03.05 3D Modeling and 3D Printing Exercise
 date: 2026-01-28T09:00:00-04:00
-lastmod: 2026-01-27T21:51:31-04:00
+lastmod: 2026-01-28T06:52:03-04:00
 ---
 
 ## Assignment Deliverables
@@ -76,6 +76,7 @@ lastmod: 2026-01-27T21:51:31-04:00
 [Print in Place Box](https://youtu.be/P-WW6b1J3L8)
 [Print in Place Phone Holder](https://youtu.be/BkKg_YwFCDA)
 [3D Printed Clamp Fusion](https://youtu.be/HenImRbfuZg)
+[Print in Place Cone Hinge](https://youtu.be/wFejArLliwg)
 
 ## Additional Resources
 

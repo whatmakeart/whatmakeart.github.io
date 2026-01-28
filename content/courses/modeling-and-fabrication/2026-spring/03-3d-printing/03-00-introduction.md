@@ -1,12 +1,12 @@
 ---
 title: 03.00 Introduction
 date: 2026-01-28T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-01-28T07:12:40-04:00
 ---
 
 ## Overview
 
-This module introduces [3D Printing](../../../../digital-fabrication/3d-printing/3d-printing.md) as a way to output digital models into the physical world. 3D printing is an additive process, meaning material is added to existing material rather than being cut away such as with a saw, laser cutter, CNC, or waterjet. [T-Splines](https://youtu.be/8vGrRR_TLEg) in Fusion 360 allow for the creation of organic forms than can be combined with parametric models to create decorative and functional parts. 3D printing is a quick way to be able to produce a physical model in order to hold a complex 3D model in your hands. Some models and forms can only be made by 3D printing and are not possible with traditional manufacturing or fabrication techniques.
+This module introduces [3D printing](../../../../digital-fabrication/3d-printing/3d-printing.md) as a way to output digital models into the physical world. 3D printing is an additive process, meaning material is added to existing material rather than being cut away such as with a saw, laser cutter, CNC, or waterjet. [T-Splines](https://youtu.be/8vGrRR_TLEg) in Fusion 360 allow for the creation of organic forms than can be combined with parametric models to create decorative and functional parts. 3D printing is a quick way to be able to produce a physical model in order to hold a complex 3D model in your hands. Some models and forms can only be made by 3D printing and are not possible with traditional manufacturing or fabrication techniques.
 
 Before working on a final version of a project it is important to understand the process. To better understand FFF 3D printing, we will make small test prints. This will familiarize you with how to export an STL file, how to use slicing software to prepare your file, how to load filament into the printer, what can go wrong with overhangs and supports, and other intangibles that are only learnable through experience. We will keep the 3D print test prints small so when inevitable problems occur not a lot of time or material is wasted. It is a good idea to make multiple test prints, making changes to your model based on how the print turns out.
 
