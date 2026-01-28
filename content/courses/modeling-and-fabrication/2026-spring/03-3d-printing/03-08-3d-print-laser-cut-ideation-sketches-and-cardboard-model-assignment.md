@@ -1,7 +1,7 @@
 ---
 title: 03.08 3D Print and Laser Cut Ideation Sketches and Cardboard Model Assignment
 date: 2026-01-28T09:00:00-04:00
-lastmod: 2026-01-28T11:56:39-04:00
+lastmod: 2026-01-28T12:01:25-04:00
 ---
 
 ## Assignment Deliverables
@@ -70,9 +70,9 @@ Laser Cut: Large surface areas, structural planes, diffusion panels.
 | -------------------------- | --------- |
 | Minimum 5 thumbnails       | 40 points |
 | Minimum 3 revised sketches | 40 points |
-| Sketch Documentation       | 10 points |
+| Sketch Documentation       | 20 points |
 | File Management            | 10 points |
-| Cardboard Model Assembled  | 20 points |
+| Cardboard Model Assembled  | 30 points |
 | Cardboard Model Design     | 30 points |
 | Cardboard Model Clarity    | 30 points |
 
