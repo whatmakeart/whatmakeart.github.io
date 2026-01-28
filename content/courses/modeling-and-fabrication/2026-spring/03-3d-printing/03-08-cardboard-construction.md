@@ -1,7 +1,7 @@
 ---
-title: 03.06 Cardboard Construction
+title: 03.08 Cardboard Construction
 date: 2026-01-28T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-01-27T21:56:12-04:00
 toc: true
 ---
 

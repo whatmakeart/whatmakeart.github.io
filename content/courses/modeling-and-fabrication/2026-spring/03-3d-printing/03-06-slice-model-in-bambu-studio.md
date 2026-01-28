@@ -1,7 +1,7 @@
 ---
-title: 05.10 Slice Model in Bambu Studio
-date: 2025-02-14T12:00:00Z
-lastmod: 2026-01-27T21:55:34-04:00
+title: 03.06 Slice Model in Bambu Studio
+date: 2026-01-28T09:00:00-04:00
+lastmod: 2026-01-27T21:54:28-04:00
 toc: true
 ---
 
