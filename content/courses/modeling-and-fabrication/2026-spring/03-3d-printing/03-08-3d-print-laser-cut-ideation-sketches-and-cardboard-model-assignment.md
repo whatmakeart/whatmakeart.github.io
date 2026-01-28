@@ -1,7 +1,7 @@
 ---
-title: 03.09 3D Print and Laser Cut Ideation Sketches Assignment
+title: 03.08 3D Print and Laser Cut Ideation Sketches and Cardboard Model Assignment
 date: 2026-01-28T09:00:00-04:00
-lastmod: 2026-01-28T07:12:40-04:00
+lastmod: 2026-01-28T08:38:01-04:00
 ---
 
 ## Assignment Deliverables

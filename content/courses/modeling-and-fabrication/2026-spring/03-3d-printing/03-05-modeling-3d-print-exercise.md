@@ -1,7 +1,7 @@
 ---
 title: 03.05 3D Modeling and 3D Printing Exercise
 date: 2026-01-28T09:00:00-04:00
-lastmod: 2026-01-28T06:52:03-04:00
+lastmod: 2026-01-28T08:38:16-04:00
 ---
 
 ## Assignment Deliverables
