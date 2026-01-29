@@ -1,38 +1,42 @@
 ---
 title: Fabric Artists
 date: 2024-10-28T21:04:49
-lastmod: 2024-12-06T13:15:55
+lastmod: 2026-01-29T07:01:52-04:00
 ---
 
-- [Hanae Mori](https://www.metmuseum.org/toah/hd/hnmr/hd_hnmr.htm)
-- [Sarah Zapata](https://www.sarah-zapata.com/)
-- [Emma Shannon](https://emmashannon.is/me/) - digital e-textiles and interactive wearables
+- [Alexandra Kehayoglou](https://alexandrakehayoglou.com/)
+- [Anish Kapoor](https://anishkapoor.com/)
+- [Asya Kozina](https://asya-kozina.com/)
+- [Claes Oldenburg](https://www.google.com/search?q=claes+oldenburg)
 - [Cory Infinite](https://www.coryinfinite.com/)
-- Saya Woolfalk
-- Jeila Gueramian
-- Nicole McLaughlin
-- Ernesto Neto
-- Guda Koster
-- Do Ho Suh
-- Richard Tuttle
-- Mari Katayama
-- John Grade
-- Mariko Kusumoto
-- Tristin Lowe
-- Sarah Appelbaum
-- Jessi Reaves
-- Kris Lemsalu
-- Victoria Lewis
-- Asya Kozina
-- Molly Gochman
-- Joana Vosconcelos
-- Rowan Mersh
-- Sharon Bartel-Clements
-- Lee Boroson
-- Evgeny Antufiev
-- Alexandra Kehayoglou
-- Anish Kapoor
-- Janet Echelman
-- Pneuhaus
-- Nick Cave
-- Sarah Zapata - textile Artist
+- [Do Ho Suh](https://art21.org/artist/do-ho-suh/)
+- [Emma Shannon](https://emmashannon.is/me/) - digital e-textiles and interactive wearables
+- [Ernesto Neto](https://www.google.com/search?q=ernesto+neto)
+- [Evgeny Antufiev](https://www.google.com/search?q=Evgeny+Antufiev)
+- [Guda Koster](https://gudakoster.nl/)
+- [Hanae Mori](https://www.metmuseum.org/toah/hd/hnmr/hd_hnmr.htm)
+- [Hannah Woo](https://kadist.org/people/hannah-woo/)
+- [Janet Echelman](https://www.echelman.com/)
+- [Jeila Gueramian](https://www.jeila.com/)
+- [Jessi Reaves](https://www.google.com/search?q=Jessi+Reaves)
+- [Joana Vosconcelos](https://www.joanavasconcelos.com/en)
+- [John Grade](https://www.johngrade.com/)
+- [Kris Lemsalu](https://www.google.com/search?q=kris+lemsalu)
+- [Lee Boroson](https://www.leeboroson.com/art/)
+- [Mari Katayama](https://marikatayama.com/)
+- [Mariko Kusumoto](https://www.marikokusumoto.com/)
+- [Molly Gochman](https://mollygochman.com/)
+- [Nick Cave](https://art21.org/artist/nick-cave/)
+- [Nicole McLaughlin](https://nicolemclaughlin.com/)
+- [Pneuhaus](https://www.pneu.haus/)
+- [Richard Tuttle](https://www.google.com/search?q=richard+tuttle)
+- [Rowan Mersh](https://rowanmersh.com/)
+- [Sarah Appelbaum](https://www.sarahapplebaum.com/)
+- [Sarah Zapata](https://www.sarah-zapata.com/)
+- [Sarah Zapata](https://www.sarah-zapata.com/)
+- [Saya Woolfalk](https://www.sayawoolfalk.com/)
+- [Sharon Bartel-Clements](https://bartelclements.com/)
+- [Sterling Ruby](https://icamiami.org/exhibition/sterling-ruby/)
+- [Tristin Lowe](https://www.tristinlowe.org/)
+- [Vanessa Barrage](https://vanessabarragao.com/)
+- [Victoria Lewis](https://www.victorialewis.ca/)

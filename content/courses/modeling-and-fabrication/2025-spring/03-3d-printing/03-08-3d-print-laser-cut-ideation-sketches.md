@@ -1,7 +1,7 @@
 ---
 title: 03.08 3D Print and Laser Cut Ideation Sketches Assignment
 date: 2024-04-11T12:00:00Z
-lastmod: 2026-01-28T07:12:27-04:00
+lastmod: 2026-01-29T05:35:11-04:00
 ---
 
 ## Assignment Deliverables
@@ -23,12 +23,12 @@ lastmod: 2026-01-28T07:12:27-04:00
 
 You will tackle specific design challenges using the 3D printing fabrication process in combination with [Laser Cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md).
 
-### Project Minimum Design Requirements
+### Final Lamp Project Minimum Design Requirements
 
 - Use 3D Printed Clamping Mechanism
 - Use 1/8" - 1/4" plywood or clear acrylic
 - Have a minimum of 1 [laser cut joint](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md)
-- Have a minimum of 1 fastener joint
+- Have a minimum of 1 fastener joint <!-- TODO make fastener joint video -->
 - Have a minimum of 1 3D printed thread joint
 - Have a minimum of 1 surface with laser engraving or etching
 - Create a joint or connection between the 3D print and the laser cut piece(s)
