@@ -1,7 +1,7 @@
 ---
-title: 04.07 Install DXF Post Processor in Autodesk Fusion
-date: 2026-02-11T09:00:00-04:00
-lastmod: 2026-02-04T08:31:57-04:00
+title: 04.06 Install DXF Post Processor in Autodesk Fusion
+date: 2026-02-04T09:00:00-04:00
+lastmod: 2026-02-04T09:10:25-04:00
 toc: true
 ---
 

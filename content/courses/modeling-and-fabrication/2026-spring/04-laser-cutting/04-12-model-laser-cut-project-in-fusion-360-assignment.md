@@ -1,7 +1,7 @@
 ---
 title: 04.11 Model 3D Print and Laser Cut Project in Fusion 360 Assignment
 date: 2026-02-04T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-02-04T09:10:25-04:00
 ---
 
 ## Assignment Deliverables
