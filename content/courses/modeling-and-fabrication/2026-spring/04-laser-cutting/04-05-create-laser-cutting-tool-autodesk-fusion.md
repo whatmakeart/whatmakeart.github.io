@@ -1,7 +1,7 @@
 ---
-title: 05.03 Fusion 360 Create Laser Cutting Tool
+title: 04.05 Create Laser Cutting Tool Autodesk Fusion
 date: 2026-02-11T09:00:00-04:00
-lastmod: 2026-02-04T07:24:06-04:00
+lastmod: 2026-02-04T08:31:57-04:00
 toc: true
 ---
 

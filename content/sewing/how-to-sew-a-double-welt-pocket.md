@@ -1,12 +1,29 @@
 ---
 title: How to Sew a Double Welt Pocket
 date: 2023-05-23T21:59:40-04:00
-lastmod: 2026-01-23T12:42:59-04:00
+lastmod: 2026-02-04T08:35:03-04:00
 ---
+
+<div class="video-grid">
+<div class="video-card">
+
+### Double Welt Pocket with Pressing Jig Tutorial
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/uAzSeh7YCTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Double Welt Pocket Multiple Piece Pocket Bag Tutorial
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/1U-0yYVQ5X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
+</div>
+</div>
 </div>
 
 ## Prerequisites
@@ -17,6 +34,9 @@ To complete this tutorial you should be familiar with:
 - [How to Thread an Juki DDL 870 Industrial Sewing Machine](how-to-thread-an-juki-ddl-870-industrial-sewing-machine.md)
 
 ## Instructions
+
+- [Double Welt Pocket with Pressing Jig Tutorial](https://youtu.be/uAzSeh7YCTE)
+- [Double Welt Pocket Multiple Piece Pocket Bag Tutorial](https://youtu.be/1U-0yYVQ5X0)
 
 ### Pieces Needed
 
@@ -67,3 +87,12 @@ To complete this tutorial you should be familiar with:
 ## Further Reading
 
 [History-of-Pockets-&-Missing-Pockets](../Sewing/History-of-Pockets-&-Missing-Pockets.md)
+
+## Welt Pocket Notes
+
+### Single Welt
+
+- To size a single welt pocket welt, double the size of the welt opening height, add an inch to the bottom and add an inch to each side.
+- Alway add interfacing to the back of the welt material
+- Fold in half, press and serge the open side
+- Mark a half inch line on the welt
