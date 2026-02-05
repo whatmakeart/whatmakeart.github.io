@@ -1,7 +1,7 @@
 ---
 title: 04.01 Ideation Sketch Self Assessment and Peer Discussion
 date: 2026-02-04T09:00:00-04:00
-lastmod: 2026-02-04T08:31:57-04:00
+lastmod: 2026-02-05T16:59:25-04:00
 ---
 
 Reply to the discussion thread with a written self assessment of your ideation sketches and cardboard model of your lamp concept. You do not need to answer the questions below but they may be helpful to guide your self assessment and evaluation of your ideation process.

@@ -1,35 +1,33 @@
 ---
 title: 04.12 Lamp Prototype 3D Model and Render Image Assignment
 date: 2026-02-04T09:00:00-04:00
-lastmod: 2026-02-05T07:21:45-04:00
+lastmod: 2026-02-05T16:59:25-04:00
 ---
 
 ## Assignment Deliverables
 
-1.  3D model file of lamp prototype
-
-- Fusion .f3d model file
-- Blender .blend model file
-- Label file YYYY-MM-DD Lastname Firstname Lamp Prototype Model (`.f3d`,`.blend`,`.ma`, `.mb`)
-
-2.  Rendering(s) of project with appearances applied
-    - Label file(s) YYYY-MM-DD Lastname Firstname Lamp Prototype Render 1 (`.png`,`.jpg`)
+1. 3D model file of lamp prototype using Fusion, Blender, Maya, or other 3D software
+   - Label file YYYY-MM-DD Lastname Firstname Lamp Prototype Model (`.f3d`,`.blend`,`.ma`, `.mb`)
+2. Rendering(s) of lamp prototype model with appearances or textures applied
+   - Label file(s) YYYY-MM-DD Lastname Firstname Lamp Prototype Render 1 (`.png`,`.jpg`)
 
 ## Assignment Overview
 
-Using your sketches, cardboard model, and peer feedback, make a digital 3D model of your prototype lamp 3D print and laser cut project in Fusion. Each piece of the project should be a separate component so the parts can be laid flat for laser cutting and arranged on the print bed for 3D printing.
+Using your sketches, cardboard model, and peer feedback, make a digital 3D model of your prototype lamp 3D print and laser cut project in Fusion. You can use any additional 3D or 2D software as needed to complete the project. Spend ~4 hours working on your 3D model. You might not complete every part of the lamp. That is ok. Work on the project for a real 4 hours. Then spend ~30 minutes making a render image of your progress so far.
 
-You are required to use at least one user parameter dimension for "ply" or the thickness of the material you are cutting. Materials vary in width, so we will [measure the material before cutting](https://youtu.be/a7HOiBC_81s) on the laser cutter. When we know the real thickness of the material [using digital calipers](https://youtu.be/oOZjbbe6YZk), then we can change the "ply" variable and the model will produce an accurate cut file for the laser cutter. Fusion is able to make a kerf adjustment based on the thickness of the laser.
+Each piece of the lamp model should be a separate component. If it will be a different piece in real life then it should be a separate component in the Fusion model. This will allow the the parts can be laid flat for laser cutting and arranged on the print bed for 3D printing.
+
+You are required to use at least one user parameter dimension for "ply" for the thickness of the material you are cutting. Materials vary in thickness, so we will [measure the material before cutting](https://youtu.be/a7HOiBC_81s) on the laser cutter. When we know the real thickness of the material [using digital calipers](https://youtu.be/oOZjbbe6YZk), then we can change the "ply" variable and the model will produce an accurate cut file for the laser cutter. Fusion is able to make a kerf adjustment based on the thickness of the laser.
 
 ### Minimum Design Requirements
 
-- Use 3D Printed Part
-- Use 1/8" - 1/4" plywood or clear acrylic
+- Use a 3D Printed Part
+- Use a 1/8" - 1/4" plywood / acrylic / paper laser cut part
 - Have a minimum of 1 [laser cut joint](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md)
 - Have a minimum of 1 fastener joint
 - Have a minimum of 1 3D printed thread joint
 - Have a minimum of 1 surface with laser engraving or etching
-- Create a joint or connection between the 3D print and the laser cut piece(s)
+- Create an intentional joint or connection between the 3D print and the laser cut piece(s)
 
 ### Design Considerations
 
@@ -44,19 +42,19 @@ How will the design of the 3D print form and the laser cut pieces work together?
 - Will you use snap clips?
 - Will you use captive nut joints?
 
-## Model in Fusion 360
+### Model in Fusion
 
-As an option, you can import your sketches to use as guides you start your first sketch. You need to calibrate the size of the sketch to be the correct scale in your Fusion 360 file. Then you can use the sketch as a guide to create your digital sketch. This step is not necessary but can be helpful. This video shows [how to import an image as a canvas](https://youtu.be/-3SMfrnWMTE) in Fusion 360.
+As an option, you can import your sketches to use as guides you start your first sketch. You need to calibrate the size of the sketch to be the correct scale in your Fusion file. Then you can use the sketch as a guide to create your digital sketch. This step is not necessary but can be helpful. This video shows [how to import an image as a canvas](https://youtu.be/-3SMfrnWMTE) in Fusion.
 
 If you are making detailed organic forms or drawing an image to use as the contours of the sides or other parts of your stand it can be difficult to draw complex shapes and images in Fusion. You can draw you image or character in Illustrator and export it as an SVG or DXF. Then you can import that file into Fusion 360. Once in fusion the file acts as a sketch and you can extrude it right away to be a piece of your model. This workflow is often better than drawing a complex organic form in Fusion.
 
-### Keep Parts as Separate Components
+#### Keep Parts as Separate Components
 
 Make a new component at the top level of you model for each part. The top level should be the "parent" of each of the other components. The components should be at the same outline level in the browser and not nested inside each other.
 
-## Add Appearances and Export Render
+#### Add Appearances and Export Render
 
-In Fusion 360 add appearances to you model as you wish and export a render.
+In Fusion add appearances to you model as you wish and export a render.
 
 Make the model look the way you want the final product to look. If you are going to paint pieces then paint the pieces in the render. If you will have etchings then place image decal(s) on the model to represent the etchings.
 
