@@ -1,25 +1,29 @@
 ---
-title: 04.11 Model 3D Print and Laser Cut Project in Fusion 360 Assignment
+title: 04.12 Lamp Prototype 3D Model and Render Image Assignment
 date: 2026-02-04T09:00:00-04:00
-lastmod: 2026-02-04T09:10:25-04:00
+lastmod: 2026-02-05T07:21:45-04:00
 ---
 
 ## Assignment Deliverables
 
-1.  Fusion 360 .f3d model file
-    - Label file YYYYMMDD Lastname Firstname Clamp Model.f3d
-2.  Rendering(s) of project with appearances applied (.png or .jpg)
-    - Label file(s) YYYYMMDD Lastname Firstname Clamp Render 1.png
+1.  3D model file of lamp prototype
+
+- Fusion .f3d model file
+- Blender .blend model file
+- Label file YYYY-MM-DD Lastname Firstname Lamp Prototype Model (`.f3d`,`.blend`,`.ma`, `.mb`)
+
+2.  Rendering(s) of project with appearances applied
+    - Label file(s) YYYY-MM-DD Lastname Firstname Lamp Prototype Render 1 (`.png`,`.jpg`)
 
 ## Assignment Overview
 
-Using your sketches, cardboard model, and peer feedback, make a digital 3D model of your 3D print clamp and laser cut project in Fusion 360. Each piece of the project should be a separate component so the parts can be laid flat for laser cutting and arranged on the print bed for 3D printing.
+Using your sketches, cardboard model, and peer feedback, make a digital 3D model of your prototype lamp 3D print and laser cut project in Fusion. Each piece of the project should be a separate component so the parts can be laid flat for laser cutting and arranged on the print bed for 3D printing.
 
-You are required to use at least one user parameter dimension for "ply" or the thickness of the material you are cutting. Materials vary in width, so we will [measure the material before cutting](https://youtu.be/a7HOiBC_81s) on the laser cutter. When we know the real thickness of the material [using digital calipers](https://youtu.be/oOZjbbe6YZk), then we can change the "ply" variable and the model will produce an accurate cut file for the laser cutter. Fusion 360 is able to make a kerf adjustment based on the thickness of the laser.
+You are required to use at least one user parameter dimension for "ply" or the thickness of the material you are cutting. Materials vary in width, so we will [measure the material before cutting](https://youtu.be/a7HOiBC_81s) on the laser cutter. When we know the real thickness of the material [using digital calipers](https://youtu.be/oOZjbbe6YZk), then we can change the "ply" variable and the model will produce an accurate cut file for the laser cutter. Fusion is able to make a kerf adjustment based on the thickness of the laser.
 
 ### Minimum Design Requirements
 
-- Use 3D Printed Clamping Mechanism
+- Use 3D Printed Part
 - Use 1/8" - 1/4" plywood or clear acrylic
 - Have a minimum of 1 [laser cut joint](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md)
 - Have a minimum of 1 fastener joint
