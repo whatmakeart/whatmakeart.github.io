@@ -1,7 +1,7 @@
 ---
 title: 04.12 Lamp Prototype 3D Model and Render Image Assignment
 date: 2026-02-04T09:00:00-04:00
-lastmod: 2026-02-05T16:59:25-04:00
+lastmod: 2026-02-05T19:11:23-04:00
 ---
 
 ## Assignment Deliverables
@@ -124,7 +124,7 @@ A selection of fasteners are available for your use in the project. Your are not
 ### Insert McMaster-Carr Component
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/8fbk9jAjV-grel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/8fbk9jAjV-g?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
