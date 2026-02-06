@@ -1,10 +1,14 @@
 ---
 title: How to Sew a Cargo Pocket
 date: 2023-05-23T21:59:41-04:00
-lastmod: 2026-01-07T07:42:20-04:00
+lastmod: 2026-02-05T20:44:48-04:00
 ---
 
-<!-- TODO cargo pocket video -->
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/22kHSbMDcsA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+[Cargo Pocket with Pleat](https://youtu.be/22kHSbMDcsA)
 
 ## Prerequisites
 

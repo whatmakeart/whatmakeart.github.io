@@ -1,7 +1,7 @@
 ---
 title: 02.07 Pocket Sewing Exercise Assignment
 date: 2026-01-19T09:00:00-04:00
-lastmod: 2026-02-05T19:31:00-04:00
+lastmod: 2026-02-05T20:40:02-04:00
 ---
 
 ## Assignment Deliverables
@@ -12,8 +12,8 @@ lastmod: 2026-02-05T19:31:00-04:00
 
 ## Assignment Overview
 
-1. Sew a Patch Pocket
-2. Sew a Cargo Pocket with a pleat.
+1. Sew a Patch Pocket [Patch Pocket Sewing Instructions](../../../../sewing/how-to-sew-a-patch-pocket.md)
+2. Sew a Cargo Pocket with a pleat. [Cargo Pocket Sewing Instructions](../../../../sewing/how-to-sew-a-cargo-pocket.md)
 3. Sew a Double Welt Pocket. [Double Welt Pocket Sewing Instructions](../../../../sewing/how-to-sew-a-double-welt-pocket.md)
 4. Finish the edges of the fabric squares that the pockets are attached to.
 5. Bring all 3 pockets to class next week.
