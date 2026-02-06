@@ -1,7 +1,7 @@
 ---
-title: 03.05 Bring Pants and Shirt to Class Assignment
-date: 2026-02-02T09:00:00-04:00
-lastmod: 2026-02-02T04:48:16-04:00
+title: 02.08 Bring Pants and Shirt to Class Assignment
+date: 2026-01-19T09:00:00-04:00
+lastmod: 2026-02-05T19:36:30-04:00
 ---
 
 ## Assignment Deliverables
@@ -10,7 +10,7 @@ lastmod: 2026-02-02T04:48:16-04:00
 
 ## Overview
 
-- Make sure the shirt and pants fit well
+- Make sure the shirt and pants fit you well
 - Avoid stretchy fabrics
 
 ## Grading Rubric
@@ -20,5 +20,6 @@ lastmod: 2026-02-02T04:48:16-04:00
 | Assessment    | Weight    |
 | ------------- | --------- |
 | Brought Pants | 50 points |
+| Brought Shirt | 50 points |
 
 </div>
