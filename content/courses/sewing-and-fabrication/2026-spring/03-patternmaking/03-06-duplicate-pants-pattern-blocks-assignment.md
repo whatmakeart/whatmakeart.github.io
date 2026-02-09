@@ -1,7 +1,7 @@
 ---
-title: 04.08 Duplicate Pants Pattern Blocks Assignment
+title: 03.06 Duplicate Pants Pattern Blocks Assignment
 date: 2026-02-09T09:00:00-04:00
-lastmod: 2026-02-08T21:11:12-04:00
+lastmod: 2026-02-09T07:00:38-04:00
 ---
 
 ## Assignment Deliverables

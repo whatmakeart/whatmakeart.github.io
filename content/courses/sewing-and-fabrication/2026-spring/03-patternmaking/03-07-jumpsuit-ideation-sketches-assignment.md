@@ -1,7 +1,7 @@
 ---
-title: 04.09 Jumpsuit Ideation Sketches Assignment
+title: 03.07 Jumpsuit Ideation Sketches Assignment
 date: 2026-02-09T09:00:00-04:00
-lastmod: 2026-02-08T21:41:20-04:00
+lastmod: 2026-02-09T07:00:38-04:00
 ---
 
 ## Assignment Deliverables
