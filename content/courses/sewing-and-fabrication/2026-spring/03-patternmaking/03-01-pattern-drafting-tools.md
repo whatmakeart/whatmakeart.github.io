@@ -1,7 +1,7 @@
 ---
 title: 04.02 Pattern Drafting Tools
-date: 2024-09-23T09:00:00
-lastmod: 2026-02-08T20:58:58-04:00
+date: 2026-02-09T09:00:00-04:00
+lastmod: 2026-02-08T21:06:13-04:00
 toc: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 02.00 Introduction
-date: 2026-01-19T09:00:00-04:00
-lastmod: 2026-01-23T12:42:59-04:00
+date: 2026-02-02T09:00:00-04:00
+lastmod: 2026-02-08T21:06:13-04:00
 ---
 
 Students build on their foundational sewing skills by learning to construct a variety of pockets, a key element in garment and bag design. Moving beyond basic seams, the focus this week is on creating patch pockets, cargo pockets, double welt pockets, and zipper pockets. Through hands-on instruction, students will learn to apply techniques like using fusible interfacing, working with zippers, and finishing raw edges with French seams or serging. These skills are essential for creating clean, professional-looking pockets that are both functional and aesthetically pleasing.

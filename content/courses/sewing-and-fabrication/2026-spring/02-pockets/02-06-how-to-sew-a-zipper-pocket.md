@@ -1,7 +1,7 @@
 ---
 title: 02.06 How to Sew a Zipper Pocket
-date: 2026-01-19T09:00:00-04:00
-lastmod: 2026-01-07T07:39:19-04:00
+date: 2026-02-02T09:00:00-04:00
+lastmod: 2026-02-08T21:06:13-04:00
 toc: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 02.07 Pocket Sewing Exercise Assignment
-date: 2026-01-19T09:00:00-04:00
-lastmod: 2026-02-05T20:40:02-04:00
+date: 2026-02-02T09:00:00-04:00
+lastmod: 2026-02-08T21:06:13-04:00
 ---
 
 ## Assignment Deliverables

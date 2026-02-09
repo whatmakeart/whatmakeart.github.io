@@ -1,7 +1,7 @@
 ---
 title: 02.08 Bring Pants and Shirt to Class Assignment
-date: 2026-01-19T09:00:00-04:00
-lastmod: 2026-02-05T19:36:30-04:00
+date: 2026-02-02T09:00:00-04:00
+lastmod: 2026-02-08T21:01:31-04:00
 ---
 
 ## Assignment Deliverables

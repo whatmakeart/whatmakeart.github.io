@@ -1,7 +1,7 @@
 ---
-title: 03.00 Introduction
-date: 2026-02-02T09:00:00-04:00
-lastmod: 2026-02-02T04:48:21-04:00
+title: 06.00 Introduction
+date: 2026-03-02T09:00:00-04:00
+lastmod: 2026-02-08T21:41:20-04:00
 ---
 
 ## Overview

@@ -1,7 +1,7 @@
 ---
 title: 00.00 Sewing and Fabrication Syllabus
 date: 2026-01-12T09:00:00
-lastmod: 2025-12-18T15:03:26
+lastmod: 2026-02-08T21:06:13-04:00
 ---
 
 ### Course Information
@@ -77,24 +77,24 @@ This is a sewing and patternmaking class. The class will emphasize skills in mac
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**    | **Topic**                        |
-| -------- | ----------- | -------------------------------- |
-| 1        | January 12  | Introduction                     |
-| --       | January 19  | MLK Day - No Class               |
-| 2        | January 26  | Pockets                          |
-| 3        | February 2  | Pattern Making                   |
-| 4        | February 9  | Garment Sewing                   |
-| 5        | February 16 | Lecture / Workshop / Studio Work |
-| 6        | February 23 | Lecture / Workshop / Studio Work |
-| 7        | March 2     | Lecture / Workshop / Studio Work |
-| --       | March 9     | Spring Break - No Class          |
-| 8        | March 16    | Lecture / Workshop / Studio Work |
-| 9        | March 23    | Lecture / Workshop / Studio Work |
-| 10       | March 30    | Lecture / Workshop / Studio Work |
-| 11       | April 6     | Lecture / Workshop / Studio Work |
-| 12       | April 13    | Runway Project                   |
-| 13       | April 20    | Studio Work                      |
-| 14       | April 27    | Final Crit                       |
+| **Week** | **Date**    | **Topic**                                                   |
+| -------- | ----------- | ----------------------------------------------------------- |
+| 1        | January 12  | [Introduction](../01-introduction/01-00-introduction.md)    |
+| --       | January 19  | MLK Day - No Class                                          |
+| --       | January 26  | Snow Day - No Class                                         |
+| 2        | February 2  | [Pockets](../02-pockets/02-00-introduction.md)              |
+| 3        | February 9  | [Pattern Making](../03-patternmaking/03-00-introduction.md) |
+| 4        | February 16 | Garment Sewing                                              |
+| 5        | February 23 | Lecture / Workshop / Studio Work                            |
+| 6        | March 2     | Lecture / Workshop / Studio Work                            |
+| 7        | March 9     | Lecture / Workshop / Studio Work                            |
+| --       | March 16    | Spring Break - No Class                                     |
+| 8        | March 23    | Lecture / Workshop / Studio Work                            |
+| 9        | March 30    | Lecture / Workshop / Studio Work                            |
+| 10       | April 6     | Lecture / Workshop / Studio Work                            |
+| 11       | April 13    | Lecture / Workshop / Studio Work                            |
+| 12       | April 20    | Runway Project                                              |
+| 13       | April 27    | Final Crit                                                  |
 
 </div>
 
