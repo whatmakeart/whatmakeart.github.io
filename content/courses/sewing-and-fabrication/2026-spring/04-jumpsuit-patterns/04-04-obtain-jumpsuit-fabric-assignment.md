@@ -1,7 +1,7 @@
 ---
-title: 03.08 Obtain Jumpsuit Fabric Assignment
-date: 2026-02-09T09:00:00-04:00
-lastmod: 2026-02-09T07:00:38-04:00
+title: 04.04 Obtain Jumpsuit Fabric Assignment
+date: 2026-02-16T09:00:00-04:00
+lastmod: 2026-02-10T05:38:40-04:00
 ---
 
 ## Assignment Deliverables

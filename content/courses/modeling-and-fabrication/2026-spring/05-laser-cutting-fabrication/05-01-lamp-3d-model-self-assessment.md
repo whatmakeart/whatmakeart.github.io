@@ -1,7 +1,7 @@
 ---
-title: 05.01 Laser Cut Fusion Model Self Assessment
+title: 05.01 Lamp 3D Model Self Assessment
 date: 2026-02-11T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-02-10T20:28:25-04:00
 ---
 
 Answer the prompts below in a reply to this discussion thread. You can also answer different prompts related to the assessment of your 3D model.

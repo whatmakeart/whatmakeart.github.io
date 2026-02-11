@@ -1,7 +1,7 @@
 ---
 title: Laser Cutting
 date: 2023-05-23T21:59:41
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-02-10T20:28:25-04:00
 ---
 
 Laser cutting is a precise method of cutting a design from a material using a digital file as a guide. It uses a high-powered laser to slice materials such as wood, plastic, glass, metal, and paper into custom shapes and designs.
@@ -88,7 +88,7 @@ The type of laser determines which materials you can cut, but some materials are
 - [Install DXF Post Processor Fusion 360](../../3d-modeling/fusion-360/install-dxf-post-processor-fusion-360.md)
 - [Export Laser Cut Toolpaths to DXF Fusion 360](export-laser-cut-toolpaths-to-dxf-fusion-360.md)
 - [Make Laser Cutting Tool in Fusion 360](fusion-360-create-laser-cutting-tool.md)
-- [Revise 3D Models for Laser Cutting in Fusion 360](fusion-360-laser-cut-3d-model-revisions.md)
+- [Revise 3D Models for Laser Cutting in Fusion 360](laser-cut-3d-model-revisions-autodesk-fusion.md)
 - [Laser Cut Acrylic House in Fusion 360](laser-cut-acrylic-house-in-fusion-360.md)
 - [Laser Cut Box Added to 3D Printed Clamp in Fusion 360](laser-cut-box-added-to-3d-printed-clamp-fusion-360.md)
 - [Create Laminated 3D Forms from Flat Sheets](create-laminated-3d-forms-from-flat-sheets-fusion-360.md)

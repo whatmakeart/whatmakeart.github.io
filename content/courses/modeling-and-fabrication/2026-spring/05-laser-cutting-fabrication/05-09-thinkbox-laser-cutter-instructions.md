@@ -1,13 +1,13 @@
 ---
 title: 05.09 think[box] Laser Cutter Instructions
 date: 2026-02-11T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-02-10T20:28:25-04:00
 ---
 
 Below are instructions provided by Case Western Reserve University's think\[box\] for using the Epilog Laser Cutters. [^1]
 
 [think[box] Laser Cutter Instructions Google Doc](https://docs.google.com/document/d/1THtZxKe0K76fE4k8w1Bikl-HjNa7T3N6uXe4KDLk5Sc/edit)
 
-<iframe style="width:100%; height:100vh;  " src="https://docs.google.com/document/d/1THtZxKe0K76fE4k8w1Bikl-HjNa7T3N6uXe4KDLk5Sc/edit"></iframe>
+<iframe style="width:100%; height:90vh;  " src="https://docs.google.com/document/d/1THtZxKe0K76fE4k8w1Bikl-HjNa7T3N6uXe4KDLk5Sc/edit"></iframe>
 
 [^1]: [think[box] Laser Cutters](https://case.edu/thinkbox/equipment/laser-cutters) [(Web Archive)](https://web.archive.org/web/20240104221515/https://case.edu/thinkbox/equipment/laser-cutters)

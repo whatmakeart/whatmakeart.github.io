@@ -1,17 +1,17 @@
 ---
-title: 05.12 Laser Cut, 3D Print and Assemble Project Version 1 Assignment
+title: 05.11 Lamp Prototype Parts Assignment
 date: 2026-02-11T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-02-10T20:30:40-04:00
 ---
 
 ## Assignment Deliverables
 
-1. Upload an updated and revised Fusion 360 Model file (.f3d)
-   - Label file YYYYMMDD Lastname Firstname Updated Model.f3d
-2. Upload an updated render image of 3D model with design changes (png, jpg)
-   - Label file YYYYMMDD Lastname Firstname Updated Render image
-3. Laser cut a minimum of 1 piece of your project as modeled in Fusion 360
-4. 3D Print a minimum of 1 piece of your project as modeled in Fusion 360
+1. Upload an updated and revised Fusion 360 Model file
+   - Label file YYYY-MM-DD Lastname Firstname Updated Model (`.f3d`)
+2. Upload an updated render image of 3D model with design changes
+   - Label file YYYY-MM-DD Lastname Firstname Updated Render image (`.png`, `.jpg`)
+3. Laser cut a minimum of 1 piece of your project as modeled in Fusion
+4. 3D Print a minimum of 1 piece of your project as modeled in Fusion
 5. Bring assembled (as possible) 3D print & laser cut project to class
 
 ## Assignment Overview
