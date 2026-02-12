@@ -1,22 +1,21 @@
 ---
 title: 05.11 Lamp Prototype Parts Assignment
 date: 2026-02-11T09:00:00-04:00
-lastmod: 2026-02-10T20:30:40-04:00
+lastmod: 2026-02-12T08:33:43-04:00
 ---
 
 ## Assignment Deliverables
 
-1. Upload an updated and revised Fusion 360 Model file
-   - Label file YYYY-MM-DD Lastname Firstname Updated Model (`.f3d`)
+1. Upload an updated and revised 3D Model file of your lamp project
+   - Label file YYYY-MM-DD Lastname Firstname Updated 3D Model (`.f3d`, `.blend`, `.ma`)
 2. Upload an updated render image of 3D model with design changes
    - Label file YYYY-MM-DD Lastname Firstname Updated Render image (`.png`, `.jpg`)
-3. Laser cut a minimum of 1 piece of your project as modeled in Fusion
-4. 3D Print a minimum of 1 piece of your project as modeled in Fusion
-5. Bring assembled (as possible) 3D print & laser cut project to class
+3. Laser cut a minimum of 1 piece or a part of a piece of your project
+4. 3D Print a minimum of 1 piece or part of a piece of your project
 
 ## Assignment Overview
 
-Make changes to your Fusion 360 model to improve the design of your 3D printed clamp and laser cut project. Sometimes it is best to go back in the timeline to make changes, other times it is easier to edit from the end of the timeline. The goal is to have a better 3D model than what you started with.
+Make changes to your Fusion 3D model to improve the design of your 3D printed clamp and laser cut project. Sometimes it is best to go back in the timeline to make changes, other times it is easier to edit from the end of the timeline. The goal is to have a better 3D model than what you started with.
 
 ### Points to consider?
 
@@ -41,22 +40,19 @@ You are only required to have a minimum of 1 laser cut piece from your Fusion 36
 
 ### Laser Cutting
 
-Go to the think\[box\] and cut out your project's laser cut pieces .If something doesn't work out right, modify your model and try to cut it out again. If you need additional plywood, plywood of a different thickness, or acrylic sheet then contact your instructor.
+#### Fab Studios Laser Cutting
+
+Bring your exported DXF file to the Fab Studios to use the laser cutter.
+
+#### think\[box\] Laser Cutting
+
+Bring your exported DXF file to the think\[box\] to use the laser cutter.
+
+If something doesn't work out right, modify your model and try to cut it out again. If you need additional plywood, plywood of a different thickness, or acrylic sheet then contact your instructor.
 
 ### 3D Printing
 
 Use the 3D printers in Fab Studios, in Foundation Studios,or at the think\[box\] to print the 3D printed parts of your project. Print as soon as you can since the 3D printing takes more time then laser cutting.
-
-## Assemble Project
-
-Assemble the pieces that you laser cut and 3D printed. If you only have 2 pieces, do you best to test how the scale of the laser cut piece and the 3D printed piece relate.
-
-1. Remove the supports from the 3D printed parts. Use sandpaper or a sander to remove burn marks on the flat planar surfaces and discoloration from ash. The burn marks on the thin edges are fine as is.
-2. Then use a combination of friction fit, glue, and fasteners to assemble your laser cut and 3D Print clamp project as much as possible. Put together the pieces that fit Nd make note of pieces that don't.
-3. If time permits then reprint any parts that were the wrong size and re-cut any laser cut parts that were incorrect.
-4. Remove any excess glue.
-5. Sand any rough edges.
-6. Bring project to class.
 
 ## Using Acrylic
 
@@ -78,95 +74,3 @@ The laser cutters can cut acrylic plastic. Make sure you leave the protective pa
 | File Management            | 10 points |
 
 </div>
-
-## Assignment Resources
-
-### Laser Cutting
-
-<div class="video-grid">
-
-<div class="video-card">
-
-## Create Laser Cutter Tool with Specific Kerf
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/-B6DXF9aE5s?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-## Download and Install DXF Post Process for Fusion 360
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/CBu6vl6Bqos?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Lay Parts Flat with Arrange for Laser Cutting
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/jeQPJHHwVN4?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Export DXF Toolpath with Kerf Compensation
-
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/6JFHMV7A9TU?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-</div>
-
-<div class="video-card">
-
-#### Prepare Laser Cut DXF file in Illustrator
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/FhIUHIMpJMY?si=hUK-0PKmJ6ppLuDR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-</div>
-
-### 3D Printing
-
-<div class="video-grid">
-
-<div class="video-card">
-
-### Export 3mf from Fusion 360
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NyXJhfod6_8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Export Directly to Bambu Studio from Fusion 360
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/IQRAddzsP8U?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Export Directly to Cura from Fusion 360
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/z-hJ3_zSiww?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Export STL Fusion 360
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/I-ltiZdUFOA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div>
