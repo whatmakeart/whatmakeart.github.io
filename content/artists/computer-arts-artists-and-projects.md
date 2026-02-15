@@ -1,7 +1,7 @@
 ---
 title: Computer Arts Artists and Projects
 date: 2024-01-19T09:30:00Z
-lastmod: 2025-01-17T12:17:16
+lastmod: 2026-02-15T08:00:43-04:00
 ---
 
 Below are artists who have made work involving computers, code, technology, generative art, new media, algorithms, and an entire cosmic bucket full of nearly innumerable genres, techniques, types of creative output. Peruse the list, go down glow in the dark rabbit holes, pick artists at random, take notes, save images, be inspired. It is important to not work in a "studio silo" without knowing what others are doing in the field.
@@ -10,6 +10,7 @@ Below are artists who have made work involving computers, code, technology, gene
 
 <div class="auto-grid-wrapper">
 
+- [Daito Manabe](https://www.daito.ws/en/)
 - [Adam Cole](https://linktr.ee/adamcole.studio)
 - [Akiko Yamashita](https://akikoyamashita.com/)
 - [Alessandro Perini](https://alessandroperini.com/portfolio/polifonia-liquida/)
