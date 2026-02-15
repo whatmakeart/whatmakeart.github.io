@@ -1,7 +1,7 @@
 ---
 title: 05.10 Lamp Prototype Parts Assignment
 date: 2026-02-11T09:00:00-04:00
-lastmod: 2026-02-15T08:00:43-04:00
+lastmod: 2026-02-15T08:22:15-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,13 +11,17 @@ lastmod: 2026-02-15T08:00:43-04:00
 2. Upload an updated render image of your revised 3D model
    - Label file YYYY-MM-DD Lastname Firstname Updated Render Image (`.png`, `.jpg`)
 3. Laser cut a minimum of 1 piece or a part of a piece of your project
+   - Bring physical laser cut part to class
 4. 3D Print a minimum of 1 piece or part of a piece of your project
+   - Bring physical 3D printed Part to class
 
 ## Assignment Overview
 
 Review your self assessment comments from class. Use this as a guide to make revisions to your digital 3D model file.
 
 Make changes to your digital 3D model to improve the design of your 3D printed and laser cut lamp project. In Autodesk Fusion it is best to go back in the design timeline to make changes to design features. Sometimes it is easier to edit from the end of the design timeline. The goal is to have a better 3D model than what you started with.
+
+The laser cut part and 3D printed part may be full of mistakes or may not work at all. That is ok. This is the prototype part of the design phase. Of course you should strive for parts that work but do not limit your experimentation. There is no penalty for something not working. The only incorrect way to experiment and prototype is to do nothing.
 
 ### Materials
 
@@ -104,7 +108,7 @@ Use the 3D printers in Fab Studios, in Foundation Studios,or at the think\[box\]
 | Design Revisions and 3D Model Updates | 50 points |
 | Laser cut part cut                    | 40 points |
 | 3D Print part printed                 | 40 points |
-| Fusion Model File Uploaded            | 20 points |
+| 3D Model File Uploaded                | 20 points |
 | Render Image Uploaded                 | 20 points |
 | Render Image Aspect Ratio             | 20 points |
 | File Management and labeling          | 10 points |
