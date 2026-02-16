@@ -1,7 +1,7 @@
 ---
 title: 05.10 Lamp Prototype Parts Assignment
 date: 2026-02-11T09:00:00-04:00
-lastmod: 2026-02-16T06:12:40-04:00
+lastmod: 2026-02-16T06:58:44-04:00
 ---
 
 ## Assignment Deliverables
@@ -58,6 +58,14 @@ How your spend your time on the assignment is up to you but the recommendations 
   - Render image
   - Export 3D Model file [Fusion Export .f3d File](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
   - Label and upload render image and 3D model file
+
+### Demo Project Laser Cut Walkthrough
+
+If you are not sure where to start with the laser cut portion of your project, you can follow along with the example demo lamp stand below. Use the same technique to export a DXF for one of the parts from your project to laser cut.
+
+1. [Laser Cut Lamp Stand Example Project Demo](https://youtu.be/Uw43fyI6Y1s)
+2. [Lay Laser Cut Part Flat](https://youtu.be/6rVW04byXi4)
+3. [Export DXF for Laser Cutting](https://youtu.be/qD1ih2MjHAQ)
 
 ### 3D Modeling and Design Points to Consider
 
