@@ -1,7 +1,7 @@
 ---
 title: 04.06 Multi Component Example Models for Laser cutting
-date: 2024-02-08T12:00:00Z-04:00
-lastmod: 2026-02-16T06:16:27-04:00
+date: 2024-02-08T12:00:00-04:00
+lastmod: 2026-02-16T07:59:06-04:00
 toc: true
 ---
 
