@@ -1,7 +1,7 @@
 ---
-title: 05.05 3D Printing Instructions
+title: 05.05 3D Printing Preparation Instructions
 date: 2026-02-11T09:00:00-04:00
-lastmod: 2026-02-15T08:43:45-04:00
+lastmod: 2026-02-16T06:12:12-04:00
 ---
 
 ### Exporting for 3D Printing

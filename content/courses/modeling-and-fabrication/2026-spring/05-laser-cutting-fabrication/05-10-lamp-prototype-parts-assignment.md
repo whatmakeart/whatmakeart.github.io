@@ -1,7 +1,7 @@
 ---
 title: 05.10 Lamp Prototype Parts Assignment
 date: 2026-02-11T09:00:00-04:00
-lastmod: 2026-02-16T05:35:20-04:00
+lastmod: 2026-02-16T06:12:40-04:00
 ---
 
 ## Assignment Deliverables
@@ -47,16 +47,16 @@ How your spend your time on the assignment is up to you but the recommendations 
 - ~ 2 hours revising and updating your digital 3D model file
 - ~ 1 hour for for laser cutting
   - Laying parts flat [Lay Parts Flat for Laser Cutting in Fusion](../../../../digital-fabrication/laser-cutting/lay-parts-flat-for-laser-cutting-fusion-360.md)
-  - Exporting DXF
-  - Cutting part in Fab Studios
+  - Exporting DXF [Export Laser Cut Toolpaths to DXF in Fusion 360](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-fusion-360.md)
+  - Cutting part in Fab Studios [Fab Studios Laser Cutter Instructions](05-08-fab-studios-laser-cutter-instructions.md)
 - ~ 1 hour for 3D Printing
-  - Export STL or 3mf file
-  - 3D Print at Fab Studios or Foundation 3D printers
+  - Export STL or 3mf file [Export 3mf File From Fusion](../../../../digital-fabrication/3d-printing/export-3mf-for-3d-printing-fusion-360.md)
+  - 3D Print at Fab Studios or Foundation 3D printers [3D Printing Preparation Instructions](05-05-3d-printing-instructions.md)
 - ~ 30 minutes for render image and upload
-  - Set aspect ratio
+  - Set aspect ratio [Render Aspect Ratio Fusion](../../../../3d-modeling/fusion-360/render-aspect-ratio-fusion.md)
   - Setup render image composition
   - Render image
-  - Export 3D Model file
+  - Export 3D Model file [Fusion Export .f3d File](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
   - Label and upload render image and 3D model file
 
 ### 3D Modeling and Design Points to Consider
