@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling for Laser Cutting in Fusion
 date: 2024-11-05T10:30:48
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-02-16T03:42:51-04:00
 ---
 
 ### Laser Cut Design Process and Workflow with Fusion
@@ -9,10 +9,10 @@ lastmod: 2025-12-23T10:12:35-04:00
 1. Sketch out design ideas on paper or digital sketchbook
 2. Selecting 3D Modeling software, ideally a [parametric modeling](../../3d-modeling/parametric-modeling.md) program such as [Fusion 360](../../3d-modeling/fusion-360/fusion-360.md)
 3. Model the parts of your design paying attention to joints, where pieces meet, and how thick the material is. [User parameters](../../3d-modeling/fusion-360/basic-user-parameters-fusion-360.md) act as variables and allow the model to change based on user input
-4. Lay all of the parts flat
+4. Lay all of the parts flat [Lay Parts Flat for Laser Cutting in Fusion](lay-parts-flat-for-laser-cutting-fusion-360.md)
 5. Prepare a tool path that takes into account the width or kerf of the laser
-6. Export a DXF file for cutting
-7. Prepare the DXF file according to the instructions of a particular laser cutter.
+6. Export a DXF file for cutting [Export Laser Cut Toolpaths to DXF in Fusion](export-laser-cut-toolpaths-to-dxf-fusion-360.md)
+7. Prepare the DXF file according to the instructions of a particular laser cutter. [Prepare DXF File for Laser Cutting](prepare-dxf-file-for-laser-cutting.md)
 
 ## Fusion Laser Cutting Guides
 

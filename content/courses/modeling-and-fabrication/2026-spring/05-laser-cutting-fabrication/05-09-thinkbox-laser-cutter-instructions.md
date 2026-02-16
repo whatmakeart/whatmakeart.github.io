@@ -1,7 +1,7 @@
 ---
-title: 05.07 think[box] Laser Cutter Instructions
+title: 05.09 think[box] Laser Cutter Instructions
 date: 2026-02-11T09:00:00-04:00
-lastmod: 2026-02-15T08:22:15-04:00
+lastmod: 2026-02-15T08:50:43-04:00
 ---
 
 Below are instructions provided by Case Western Reserve University's think\[box\] for using the Epilog Laser Cutters. [^1]

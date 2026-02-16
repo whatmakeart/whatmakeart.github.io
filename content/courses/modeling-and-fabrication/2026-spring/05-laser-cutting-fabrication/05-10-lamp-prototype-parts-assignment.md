@@ -1,7 +1,7 @@
 ---
 title: 05.10 Lamp Prototype Parts Assignment
 date: 2026-02-11T09:00:00-04:00
-lastmod: 2026-02-15T08:22:15-04:00
+lastmod: 2026-02-16T05:35:20-04:00
 ---
 
 ## Assignment Deliverables
@@ -46,7 +46,7 @@ How your spend your time on the assignment is up to you but the recommendations 
 
 - ~ 2 hours revising and updating your digital 3D model file
 - ~ 1 hour for for laser cutting
-  - Laying parts flat
+  - Laying parts flat [Lay Parts Flat for Laser Cutting in Fusion](../../../../digital-fabrication/laser-cutting/lay-parts-flat-for-laser-cutting-fusion-360.md)
   - Exporting DXF
   - Cutting part in Fab Studios
 - ~ 1 hour for 3D Printing
