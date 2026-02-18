@@ -1,18 +1,12 @@
 ---
 title: 06.05 Two Versions of 3D Print and Laser Cut Prototype Assignment
 date: 2026-02-18T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-02-18T08:46:59-04:00
 ---
 
 ## Assignment Deliverables
 
 1. Version 1 of Laser Cut 3D Printed Clamp Prototype
-   - All pieces 3D printed
-   - all pieces laser cut
-   - 3D Printed Threads
-   - Laser Cut Joint
-   - Fastener
-2. Revised and Improved Version 2 of Laser Cut 3D Printed Clamp Prototype
    - All pieces 3D printed
    - all pieces laser cut
    - 3D Printed Threads
