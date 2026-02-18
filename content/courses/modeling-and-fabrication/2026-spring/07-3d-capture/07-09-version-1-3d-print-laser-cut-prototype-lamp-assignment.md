@@ -1,7 +1,7 @@
 ---
 title: 06.05 Two Versions of 3D Print and Laser Cut Prototype Assignment
-date: 2026-02-18T09:00:00-04:00
-lastmod: 2026-02-18T09:22:52-04:00
+date: 2026-02-25T09:00:00-04:00
+lastmod: 2026-02-18T16:34:25-04:00
 ---
 
 ## Assignment Deliverables

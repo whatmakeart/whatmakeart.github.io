@@ -1,10 +1,10 @@
 ---
-title: 06.01 In Prgress Self Assessment
+title: 06.01 In Progress Self Assessment
 date: 2025-02-20T12:00:00Z
-lastmod: 2025-02-20T09:38:26
+lastmod: 2026-02-18T15:31:59-04:00
 ---
 
-Now that you have laser cut out at leat one part and 3D printed at least one part, there are probably many things that you would want to do differently if you started your project from scratch. The design process is an iterative process full of successes and setbacks. When we realize something that we should have done in a design it is not a failure, rather it is a success because we have learned something about the design process and our project.
+Now that you have laser cut out at least one part and 3D printed at least one part, there are probably many things that you would want to do differently if you started your project from scratch. The design process is an iterative process full of successes and setbacks. When we realize something that we should have done in a design it is not a failure, rather it is a success because we have learned something about the design process and our project.
 
 Reflect on your design process including the ideation process, the digital modeling process in Fusion 360, the physical output laser cutting, the 3D printing process, and the assembly fit process. Answer the questions below about your project.
 
