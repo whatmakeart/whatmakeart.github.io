@@ -1,7 +1,7 @@
 ---
 title: 06.03 Project Progress Report Assignment
 date: 2026-02-18T09:00:00-04:00
-lastmod: 2026-02-18T16:20:24-04:00
+lastmod: 2026-02-18T16:45:56-04:00
 ---
 
 ## Assignment Deliverables
@@ -20,6 +20,13 @@ A strong progress report documents your current state,so someone else can unders
 This checkpoint is a mini design review. Your goal is to compile clear evidence of what you have completed so far, what changed since your earlier sketches/model, what is working, what is not, and what you will do next. The objective is to evaluate the success of the how the additive 3D printed components are currently interfacing with the subtractive laser-cut planar forms.
 
 ### Assignment Requirements
+
+#### Work on Your Lamp Project
+
+1. Work for 3.5 - 4 hours on your lamp project. This will be different for each person since everyone's project is different. You will likely be 3D modeling, laser cutting, 3D printing, testing, evaluating, and repeating the cycle.
+2. Spend 30 minutes to 1 hour making a report about what you did in item 1 above.
+3. There is no incorrect answer unless you do not do items 1 and 2 above.
+4. Email questions.
 
 #### Written Summary
 
