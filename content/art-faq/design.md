@@ -1,7 +1,7 @@
 ---
 title: Design
-date: 2023-05-23T21:59:41
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2023-05-23T21:59:41-04:00
+lastmod: 2026-02-18T06:48:24-04:00
 ---
 
 Design is an important process in making anything. Design can be good or bad. The term has different meanings depending on the context. It can refer to the process of making a design or designing an object. It can also mean the final design of the image or object.
@@ -28,7 +28,7 @@ The two most important principles of design are variety and unity. These exist o
 
 ## Design Process
 
-The design process is a fundamental way to approach making. Instead of trying to make a final version of an object from the beginning, an approach that is bound to fail, one can take an incremental and iterative approach to making. The design process usually begins with thinking and [Sketching](../drawing/sketching.md).
+The [design process](design-process.md) is a fundamental way to approach making. Instead of trying to make a final version of an object from the beginning, an approach that is bound to fail, one can take an incremental and iterative approach to making. The design process usually begins with thinking and [sketching](../drawing/sketching.md).
 
 ### Design Techniques
 
