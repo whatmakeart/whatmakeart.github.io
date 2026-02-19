@@ -103,4 +103,5 @@ weight = 60
   [[module.mounts]]
     source = "content"
     target = "assets"    # <-- note: assets (no /content)
-    excludeFiles = ["**/*.md", "**/_index.md", "**/index.md"]
+      # Use 'files' with a '!' to exclude
+    files = ["! **/*.md", "! **/_index.md", "! **/index.md"]

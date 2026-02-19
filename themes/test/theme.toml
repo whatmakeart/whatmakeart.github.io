@@ -12,4 +12,7 @@ min_version = "0.41.0"
 
 [author]
   name = "Jimmy Kuehnle"
+  email = "whatmakeart@gmail.com"
   homepage = "https://www.whatmakeart.com/"
+
+
