@@ -1,7 +1,7 @@
 ---
 title: 00.00 Sewing and Fabrication Syllabus
 date: 2026-01-12T09:00:00
-lastmod: 2026-02-08T21:06:13-04:00
+lastmod: 2026-02-23T05:01:01-04:00
 ---
 
 ### Course Information
@@ -84,12 +84,12 @@ This is a sewing and patternmaking class. The class will emphasize skills in mac
 | --       | January 26  | Snow Day - No Class                                         |
 | 2        | February 2  | [Pockets](../02-pockets/02-00-introduction.md)              |
 | 3        | February 9  | [Pattern Making](../03-patternmaking/03-00-introduction.md) |
-| 4        | February 16 | Garment Sewing                                              |
+| 4        | February 16 | [Zipper Fly](../04-zipper-fly/04-00-introduction.md)        |
 | 5        | February 23 | Lecture / Workshop / Studio Work                            |
 | 6        | March 2     | Lecture / Workshop / Studio Work                            |
-| 7        | March 9     | Lecture / Workshop / Studio Work                            |
-| --       | March 16    | Spring Break - No Class                                     |
-| 8        | March 23    | Lecture / Workshop / Studio Work                            |
+| --       | March 9     | Spring Break - No Class                                     |
+| 7        | March 16    | Lecture / Workshop / Studio Work                            |
+| 8        | March 23    |                                                             |
 | 9        | March 30    | Lecture / Workshop / Studio Work                            |
 | 10       | April 6     | Lecture / Workshop / Studio Work                            |
 | 11       | April 13    | Lecture / Workshop / Studio Work                            |
