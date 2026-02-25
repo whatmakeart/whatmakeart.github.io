@@ -1,7 +1,7 @@
 ---
-title: 07.09 3D Scan Mesh Upload Assignment
+title: 07.07 3D Scan Mesh Upload Assignment
 date: 2026-02-25T09:00:00-04:00
-lastmod: 2026-02-25T05:43:13-04:00
+lastmod: 2026-02-25T06:18:48-04:00
 ---
 
 ## Assignment Deliverables

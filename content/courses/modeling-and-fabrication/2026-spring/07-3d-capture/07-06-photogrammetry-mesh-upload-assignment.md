@@ -1,7 +1,7 @@
 ---
-title: 07.08 Photogrammetry Mesh Upload Assignment
+title: 07.06 Photogrammetry Mesh Upload Assignment
 date: 2026-02-25T09:00:00-04:00
-lastmod: 2026-02-25T05:49:43-04:00
+lastmod: 2026-02-25T06:18:38-04:00
 ---
 
 ## Assignment Deliverables
