@@ -1,7 +1,7 @@
 ---
 title: 07.07 3D Scan Mesh Upload Assignment
 date: 2026-02-25T09:00:00-04:00
-lastmod: 2026-02-25T06:18:48-04:00
+lastmod: 2026-02-25T08:50:32-04:00
 ---
 
 ## Assignment Deliverables
@@ -64,7 +64,7 @@ lastmod: 2026-02-25T06:18:48-04:00
 | Assessment                   | Weight |
 | ---------------------------- | ------ |
 | obj Mesh File Uploaded       | 30     |
-| png Texture File Uploaded    | 30     |
+| Image Texture File Uploaded  | 30     |
 | mtl Material File Uploaded   | 30     |
 | File Management and Labeling | 10     |
 
