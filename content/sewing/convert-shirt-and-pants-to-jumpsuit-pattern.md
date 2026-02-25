@@ -1,7 +1,7 @@
 ---
 title: Convert Shirt and Pants to Jumpsuit Pattern
 date: 2024-09-23T09:00:00-04:00
-lastmod: 2026-02-23T08:49:56-04:00
+lastmod: 2026-02-23T16:21:15-04:00
 ---
 
 To transition from a shirt and pants pattern to a custom jumpsuit, you’ll need to account for specific design features and functional details to ensure you can get into your jumpsuit and it fits well. Below are some pointers to help you incorporate these elements effectively.
@@ -17,7 +17,6 @@ The jumpsuit must open or stretch in someway to allow the wearer's body to fit i
 - Side seam opening
 - Crazy stretchy elastic neck opening
 - Separating waist opening
--
 
 ### Jumpsuit Opening Closure Methods
 

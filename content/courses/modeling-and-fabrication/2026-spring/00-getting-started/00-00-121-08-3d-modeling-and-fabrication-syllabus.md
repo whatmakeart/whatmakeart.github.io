@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus 121.08 Wednesday
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-02-18T09:21:57-04:00
+lastmod: 2026-02-24T20:02:47-04:00
 ---
 
 ### Course Information
@@ -137,8 +137,8 @@ The following materials are not required for the course but may be useful to you
 | 4          | February 4  | [Laser Cutting](../04-laser-cutting/04-00-introduction.md)                                                                                 |
 | 5          | February 11 | [Laser Cutting Fabrication](../05-laser-cutting-fabrication/05-00-introduction.md)                                                         |
 | 6          | February 18 | [Project Revisions](../06-project-revisions/06-00-introduction.md)                                                                         |
-| 7          | February 25 | 3D Capture                                                                                                                                 |
-| 8          | March 4     | Polygon Mesh 3D Modeling                                                                                                                   |
+| 7          | February 25 | [3D Capture](../07-3d-capture/07-00-introduction.md)                                                                                       |
+| 8          | March 4     | [Polygon Mesh 3D Modeling](../08-polygon-3d-modeling/08-00-introduction.md)                                                                |
 | --         | March 11    | **No Class Spring Break**                                                                                                                  |
 | 9          | March 18    | 3D Animation                                                                                                                               |
 | 10         | March 25    | Polygon Texturing                                                                                                                          |

@@ -1,7 +1,7 @@
 ---
-title: 07.01 Insert 3D Scan Mesh into Fusion 360
+title: 07.05 Insert 3D Scan Mesh into Fusion 360
 date: 2026-02-25T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-02-24T20:31:28-04:00
 toc: true
 ---
 

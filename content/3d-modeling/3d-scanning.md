@@ -1,7 +1,7 @@
 ---
 title: 3D Scanning
 date: 2023-12-12T07:03:31-04:00
-lastmod: 2026-01-04T07:55:34-04:00
+lastmod: 2026-02-24T20:31:28-04:00
 ---
 
 3D scanning is able to capture more detail and more accurate geometry than [photogrammetry](photogrammetry.md), but requires more expensive 3D scanning equipment and software. There are two main types of 3D scanning, Structured Light scanning and LiDAR scanning.
@@ -21,7 +21,7 @@ Structured Light scanning projects a known pattern of light at a 3D object. Two 
 
 Artec webinar for 3D body scanning includes many tips, some of which are summarized below.[^body-scan-webinar] Refer to [Artec 3D's website](https://www.artec3d.com/)for more information
 
-- Fabric types to avoid when 3D scanning
+- Fabric types to avoid when 3D scanning people
   - black leather
   - velvet
   - shiny or glossy materials

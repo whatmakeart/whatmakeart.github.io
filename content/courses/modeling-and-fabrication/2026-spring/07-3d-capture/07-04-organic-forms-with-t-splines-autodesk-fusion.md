@@ -1,7 +1,7 @@
 ---
 title: 07.04 Organic Forms with T-Splines Fusion 360
 date: 2026-02-25T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-02-24T20:09:55-04:00
 toc: true
 ---
 

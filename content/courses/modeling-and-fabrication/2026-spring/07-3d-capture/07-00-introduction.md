@@ -1,7 +1,7 @@
 ---
 title: 07.00 Introduction
 date: 2026-02-25T09:00:00-04:00
-lastmod: 2026-02-19T06:36:42-04:00
+lastmod: 2026-02-24T20:11:23-04:00
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ Beyond simple capture, this module focuses on the technical workflow of cleaning
 ## Keywords
 
 - Photogrammetry
-- Structured Light
+- Structured Light Scanning
 - Mesh Scan
 - T-Splines
 - Voxel Remesh

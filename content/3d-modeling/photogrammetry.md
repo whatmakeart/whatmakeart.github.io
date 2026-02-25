@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry
 date: 2024-09-25T05:06:07-04:00
-lastmod: 2026-01-04T07:54:55-04:00
+lastmod: 2026-02-24T20:09:55-04:00
 ---
 
 Photogrammetry is a useful tool for capturing 3D Geometry and visual texture information from the real physical world. [Photogrammetry software](photogrammetry-software.md) uses multiple 2D images takes from different yet overlapping angles to create a 3D mesh with textures. It is accessible with little more than a cell phone camera needed for compelling results. While purpose built, industrial photogrammetry rigs and workflows can achieve a high level of accuracy, general photogrammetry often produces stunning visual textures but underwhelming 3D geometry. To achieve the highest physical detail and most accurate 3D model from the real world, [3D scanning](3d-scanning.md) is recommended.
@@ -27,7 +27,6 @@ Equipment built specifically for photogrammetry capture can speed up the process
 ### Software Guides
 
 - [Photogrammetry with Photocatch](../3d-modeling/photogrammetry-with-photocatch.md) - works with a video or a folder of images
-- [Photogrammetry with Adobe Substance Sampler](../3d-modeling/photogrammetry-with-adobe-substance-sampler.md) - needs a folder of images _Note: Substance 3D Sampler removed 3D Object creation in version 5.1 but it is still included in version 5.0 and earlier._
 
 ### Exporting Frames from Video for Photogrammetry
 
