@@ -1,19 +1,30 @@
 ---
 title: 07.08 Photogrammetry Mesh Upload Assignment
 date: 2026-02-25T09:00:00-04:00
-lastmod: 2026-02-24T20:31:28-04:00
+lastmod: 2026-02-25T05:49:43-04:00
 ---
 
 ## Assignment Deliverables
 
-1. Upload exported `obj` of photogrammetry scan of object
-   - Label file YYYY-MM-DD Lastname Firstname Photogrammetry Mesh.obj
-2. Upload exported `png` texture file from photogrammetry scan of object
-   - Label file YYYY-MM-DD Lastname Firstname Photogrammetry Texture.png
-3. Upload exported `mtl` material file from photogrammetry scan of object
-   - Label file YYYY-MM-DD Lastname Firstname Photogrammetry Material.mtl
+1. Upload exported 3D mesh of photogrammetry scan of object
+   - Label file YYYY-MM-DD Lastname Firstname Photogrammetry Mesh (`.obj`)
+2. Upload exported diffuse image texture file from photogrammetry scan of object
+   - Label file YYYY-MM-DD Lastname Firstname Photogrammetry Scan Texture (`.png`, `.jpg`)
+3. Upload exported material file from photogrammetry scan of object
+   - Label file YYYY-MM-DD Lastname Firstname Photogrammetry Scan Material (`.mtl`)
 
 ## Assignment Overview
+
+[Photogrammetry](../../../../3d-modeling/photogrammetry.md) is a quick way to capture 3D geometry from the physical world for use in digital 3D modeling programs.
+
+### Process
+
+1. Use photogrammetry to capture the form of a 3D physical object.
+2. Take photos and / or video of your object from all angles with overlapping information.
+3. Process the scan data with [Photogrammetry Software](../../../../3d-modeling/photogrammetry-software.md)
+4. Export an OBJ mesh file, image texture file, and a material file.
+5. Label the files.
+6. Upload the files to the assignment page. _If the mesh file is too large to upload, then you can optimize it to make a smaller file size or upload to a cloud file sharing service and share the link._
 
 ## Assignment Resources
 

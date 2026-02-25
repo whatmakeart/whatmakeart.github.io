@@ -1,7 +1,7 @@
 ---
 title: 3D Scanning
 date: 2023-12-12T07:03:31-04:00
-lastmod: 2026-02-24T20:31:28-04:00
+lastmod: 2026-02-25T05:39:28-04:00
 ---
 
 3D scanning is able to capture more detail and more accurate geometry than [photogrammetry](photogrammetry.md), but requires more expensive 3D scanning equipment and software. There are two main types of 3D scanning, Structured Light scanning and LiDAR scanning.
@@ -13,7 +13,7 @@ Structured Light scanning projects a known pattern of light at a 3D object. Two 
 - [Einscan H Series Scanner Quick Start Guide](https://support.einscan.com/en/support/solutions/articles/60000955990-einscan-h2-quick-start-guide)
 - [Einscan Scanning Tips](https://support.einscan.com/en/support/solutions/60000334498)
 - [Einscan H Series Guides](https://support.einscan.com/en/support/solutions/60000323052)
-- [Einscan H2 Scanner](https://www.einscan.com/handheld-3d-scanner/einscan-h/)
+- [Einscan HX Series Guides](https://support.einscan.com/en/support/solutions/60000322163)
 
 ## Artec Leo Scanner
 
