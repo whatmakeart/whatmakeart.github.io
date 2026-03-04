@@ -1,7 +1,7 @@
 ---
 title: Polygon Mesh 3D Model Basics
 date: 2023-06-14T13:54:43-04:00
-lastmod: 2026-03-03T20:28:44-04:00
+lastmod: 2026-03-03T20:43:33-04:00
 ---
 
 ## Approaches to Making 3D Models
@@ -40,7 +40,9 @@ v 0.1589666903 -0.2815119028 -0.1055894122
 v 0.02803074755 -0.5320419073 0.04221494123
 ```
 
-- Edge
+### Edge
+
+An edge is formed when two vertexes are connected by a straight line.
 
 ### Face
 
@@ -146,7 +148,7 @@ vt 0.9925649166 0.3487592936
 vt 0.9860912561 0.3404420018
 ```
 
-## Polygon Modeling Edgeflow
+## Polygon Modeling Edge Flow
 
 Modeling in quads or 4 sided polygons is a common and useful technique in polygon modeling. However, if an entire model was limited to a simple grid of squares it would be limiting and inefficient. Polygon modeling uses a concept of edge loops and edge flow. THis is helpful for selecting parts of a 3D model, is helpful for the sub-D smoothing algorithms, and make better deformations when animating 3D mesh models.
 
@@ -163,8 +165,8 @@ Polygon modeling edge loop and edge flow reduction patterns.
 
 ## Polygon Mesh 3D Modeling Software Guides
 
-This [Blender vs Maya Polygon Modeling Comparison](blender-vs-maya.md) show ways to accomplish the same tasks in [Maya](maya/maya.md) and [Blender](blender/blender.md), two popular 3D Modeling programs.
+This [Blender vs Maya Polygon Modeling Comparison](blender-vs-maya.md) show ways to accomplish the same tasks in [Maya](maya/maya.md) and [Blender](blender/blender.md), two popular [3D Modeling](3d-modeling.md) programs.
 
 - [Blender Modeling Basics](blender/3d-modeling-basics-blender.md)
 - [Maya Modeling Basics](maya/3d-modeling-basics-maya.md)
-- [Fusion 360 Modeling Basics](fusion-360/organic-forms-with-t-splines-fusion-360.md)
+- [Fusion Modeling Basics](fusion-360/organic-forms-with-t-splines-fusion-360.md)

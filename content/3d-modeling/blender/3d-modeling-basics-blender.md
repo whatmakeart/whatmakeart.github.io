@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling Basics - Blender
 date: 2023-06-14T13:46:52
-lastmod: 2026-01-13T14:48:52
+lastmod: 2026-03-03T21:23:21-04:00
 tags:
   - Blender
   - 3D-Modeling
@@ -23,18 +23,18 @@ tags:
 
 <div class="responsive-table-markdown">
 
-| Blender Key                  | Action                    |
-| ---------------------------- | ------------------------- |
-| T                            | Transform                 |
-| G                            | Move                      |
-| R                            | Rotate                    |
-| S                            | Scale                     |
-| HOME (win) or fn+Left Arrow  | Frame all                 |
-| NUMPAD . (can be customized) | Frame selected            |
-| tab                          | toggle edit / object mode |
-| 1                            | vertex mode               |
-| 2                            | edge mode                 |
-| 3                            | face mode                 |
+| Blender Key                             | Action                    |
+| --------------------------------------- | ------------------------- |
+| B                                       | Select                    |
+| G                                       | Move                      |
+| R                                       | Rotate                    |
+| S                                       | Scale                     |
+| HOME                                    | Frame all                 |
+| ~ tilde or NUMPAD . (can be customized) | Frame selected            |
+| tab                                     | toggle edit / object mode |
+| 1                                       | vertex mode               |
+| 2                                       | edge mode                 |
+| 3                                       | face mode                 |
 
 </div>
 
@@ -74,7 +74,7 @@ Blender Default Scene with cube
 - [Blender Move Objects](https://youtu.be/t4MtOUyOkPM)
 - [Blender Merge Vertices](https://youtu.be/Jipi8XjDwsc)
 - [Blender Auto Mirror](https://youtu.be/f7UeiFP0Gvc)
-- Blender Object vs Edit Mode
+- Blender Object vs Edit Mode <!-- TODO Blender Object vs Edit Mode Video -->
 - [Blender Extrude](https://docs.blender.org/manual/en/dev/modeling/meshes/editing/mesh/extrude.html)
 - [Blender Apply All Transforms](https://docs.blender.org/manual/en/dev/scene_layout/object/editing/apply.html)
 
@@ -86,6 +86,24 @@ Blender Default Scene with cube
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/d54uJufn1pA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Blender Move Objects
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/t4MtOUyOkPM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Blender Auto Mirror
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/f7UeiFP0Gvc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -131,15 +149,6 @@ Blender Default Scene with cube
 
 <div class="video-card">
 
-### Blender Auto Mirror
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/f7UeiFP0Gvc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
 ### Blender Inset Across Mirror Modifier
 
 <div class="iframe-16-9-container">
@@ -171,15 +180,6 @@ Blender Default Scene with cube
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/HGdw5ywWxQI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Blender Move Objects
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/t4MtOUyOkPM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

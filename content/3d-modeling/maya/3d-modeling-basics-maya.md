@@ -1,13 +1,17 @@
 ---
 title: 3D Modeling Basics - Maya
 date: 2023-06-16T05:44:28
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-03-03T21:05:48-04:00
+aliases:
+  - /3d-modeling/3d-modeling-maya/
 tags:
   - 3D-Modeling
   - Maya
 ---
 
 ## Maya User Interface Quick Start
+
+The videos below go over the [Maya](maya.md) user interface and the basic polygon modeling tools. If you have not used Maya, this is a good place to start.
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/-SpVNiRqeKY?si=-UGVKSDZk_-JlTDa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -42,11 +46,11 @@ tags:
 
 <div class="responsive-table-markdown">
 
-| Mouse Control                                      | Action        |
-| -------------------------------------------------- | ------------- |
-| alt (option) + left mouse Button                   | rotate camera |
-| alt (option) + middle mouse Button                 | pan camera    |
-| alt (option ) + right mouse button or scroll wheel | zoom camera   |
+| Mouse Control                                      | Action       |
+| -------------------------------------------------- | ------------ |
+| alt (option) + left mouse button                   | orbit camera |
+| alt (option) + middle mouse button                 | pan camera   |
+| alt (option ) + right mouse button or scroll wheel | zoom camera  |
 
 </div>
 
@@ -72,9 +76,9 @@ Maya Default Scene with cube
 ## Maya Basic Modeling
 
 - [Maya Move Objects](https://youtu.be/fda8xMeOADI)
-- Maya Merge Vertices
+- Maya Merge Vertices <!-- TODO Maya Merge Verticies Video -->
 - [Maya Mirror Tool](https://youtu.be/k6MKu9YxXr0)
-- Maya Object vs Face vs Edge vs Vertex Mode
+- Maya Object vs Face vs Edge vs Vertex Mode <!-- TODO Maya Object vs Face vs Edge Mode Video -->
 - [Maya Extrude](https://youtu.be/yyExyA67log)
 - [Maya Freeze Transformations](https://youtu.be/1SXvWTiMkjs)
 
