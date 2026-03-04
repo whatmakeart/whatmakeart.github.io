@@ -1,7 +1,7 @@
 ---
 title: Polygon Mesh 3D Model Basics
 date: 2023-06-14T13:54:43-04:00
-lastmod: 2026-01-13T14:48:52
+lastmod: 2026-03-03T20:28:44-04:00
 ---
 
 ## Approaches to Making 3D Models
@@ -145,6 +145,21 @@ vt 0.9874465466 0.3374119401
 vt 0.9925649166 0.3487592936
 vt 0.9860912561 0.3404420018
 ```
+
+## Polygon Modeling Edgeflow
+
+Modeling in quads or 4 sided polygons is a common and useful technique in polygon modeling. However, if an entire model was limited to a simple grid of squares it would be limiting and inefficient. Polygon modeling uses a concept of edge loops and edge flow. THis is helpful for selecting parts of a 3D model, is helpful for the sub-D smoothing algorithms, and make better deformations when animating 3D mesh models.
+
+<figure>
+
+![Polygon Edge Flow Reduction Patterns](./attachments/2026-03-03-polygon-modeling-edge-loop-flow-reduction-patterns.jpeg)
+
+<figcaption>
+
+Polygon modeling edge loop and edge flow reduction patterns.
+
+</figcaption>
+</figure>
 
 ## Polygon Mesh 3D Modeling Software Guides
 

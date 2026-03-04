@@ -1,7 +1,7 @@
 ---
 title: 10.09 Texturing and Rendering In Class Exercise
 date: 2026-03-25T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-03-03T20:28:50-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,10 +11,6 @@ lastmod: 2025-12-23T14:56:48-04:00
    - Minimum of 1 use of each of the following (Texture Image, Bump)
    - Minimum of 1 light source
    - Render 2 different camera views of the scene at a minimum 1920x1080 or 3840x2160 (.png or .jpg)
-2. Upload Blender **or** a Maya project saved as a Maya Scene Archive
-   (.blend and a Maya scene archive .zip)
-   - When using Blender, make sure to [pack all external assets](https://youtu.be/x6H6HFBLRlUl) File > External Data > Automatically Pack Resources.
-   - When using Maya, make sure to export [Maya Scene Archive](https://youtu.be/gic-kMWKjNI) of the scene with all of the texture files.
 
 ## Assignment Overview
 

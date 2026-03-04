@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus 121.07 Thursday
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-02-24T20:10:28-04:00
+lastmod: 2026-03-03T20:28:50-04:00
 ---
 
 ### Course Information
@@ -145,7 +145,7 @@ The following materials are not required for the course but may be useful to you
 | 11         | April 2     | XR Studio Motion Capture                                                                                                                   |
 | 12         | April 9     | CNC Design / Modeling                                                                                                                      |
 | 13         | April 16    | CNC Fabrication                                                                                                                            |
-| 14         | April 23    | [Photo Documentation](../14-photo-documentation/14-00-introduction.md)                                                                     |
+| 14         | April 23    | [Photo Documentation](../14-virtual-production/14-00-introduction.md)                                                                      |
 | 15         | April 30    | [Final Crit](../15-final-critique/15-00-introduction.md)                                                                                   |
 | --         | May 5 - 9   | BFA Reviews and Exhibitions                                                                                                                |
 

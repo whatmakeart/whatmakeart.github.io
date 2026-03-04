@@ -1,7 +1,7 @@
 ---
 title: 09.14 3D Animation Project Environment Building Assignment
 date: 2026-03-18T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-03-03T20:02:40-04:00
 ---
 
 ## Assignment Deliverables
@@ -24,8 +24,8 @@ Spend 3 hours modeling 3D environments for your [line animation project](09-15-3
 
 ### Rendering
 
-- [Maya Rendering Basics](../08-polygon-3d-modeling/08-07-maya-rendering-basics.md)
-- [Blender Rendering Basics](../08-polygon-3d-modeling/08-06-blender-rendering-basics.md)
+- [Maya Rendering Basics](../08-polygon-3d-modeling/08-08-maya-rendering-basics.md)
+- [Blender Rendering Basics](../08-polygon-3d-modeling/08-07-blender-rendering-basics.md)
 
 ## Grading Rubric
 

@@ -1,7 +1,7 @@
 ---
-title: 08.04 Blender Add Materials
+title: 08.05 Blender Add Materials
 date: 2026-03-04T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-03-03T20:28:50-04:00
 toc: true
 ---
 
