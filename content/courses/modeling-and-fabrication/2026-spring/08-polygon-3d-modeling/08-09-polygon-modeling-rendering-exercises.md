@@ -1,7 +1,7 @@
 ---
 title: 08.09 Polygon Modeling Rendering Exercise Assignment
 date: 2026-03-04T09:00:00-04:00
-lastmod: 2026-03-04T07:09:16-04:00
+lastmod: 2026-03-04T08:42:46-04:00
 ---
 
 ## Assignment Deliverables
@@ -44,6 +44,24 @@ For small scenes it is efficient to "pack" all assets such as image textures and
 Maya projects are set up with a folder structure in the file system of the computer OS. If the location or the path to the files changes then Maya will not be able to locate them as the image textures are not saved in the Maya project file. This keeps the Maya file small and allows for collaboration with teams, but requires attention to detail to make sure assets stay organized.
 
 - When sharing a Maya project, make sure to export [Maya Scene Archive](https://youtu.be/gic-kMWKjNI) of the scene with all of the texture files.
+
+## Assignment Resources
+
+### Maya
+
+- [Add Materials - Maya](../../../../3d-modeling/maya/add-materials-maya.md)
+- [Maya Basic Render](../../../../3d-modeling/maya/basic-render-maya.md)
+- [Archive a Maya Scene](../../../../3d-modeling/maya/archive-maya-scene.md)
+- [Maya Infinite Photo Backdrop](../../../../3d-modeling/maya/infinite-photo-backdrop-maya.md)
+- [Maya Three Point Lighting Tutorial](../../../../3d-modeling/maya/three-point-lighting-maya-tutorial.md)
+
+### Blender
+
+- [Add Materials - Blender](../../../../3d-modeling/blender/add-materials-blender.md)
+- [Rendering Basics - Blender](../../../../3d-modeling/blender/rendering-basics-blender.md)
+- [Pack External Resources in Blender](../../../../3d-modeling/blender/pack-external-resources-blender.md)
+- [Infinite Background - Blender](../../../../3d-modeling/blender/infinite-background-blender.md)
+- [3 Point Lighting Addon - Blender](../../../../3d-modeling/blender/3-point-lighting-add-on-blender.md)
 
 <div class="video-grid">
 
@@ -91,14 +109,16 @@ Maya projects are set up with a folder structure in the file system of the compu
 
 | Assessment                             | Weight    |
 | -------------------------------------- | --------- |
-| 1920 x 1080 pixel render image Maya    | 30 points |
+| 1920 x 1080 pixel render image Maya    | 20 points |
 | Minimum of 2 lights Maya               | 20 points |
 | Minimum of 2 objects Maya              | 20 points |
-| Non Default Materials Maya             | 20 points |
+| Non Default Materials Maya             | 15 points |
 | 1920 x 1080 pixel render image Blender | 30 points |
 | Minimum of 2 lights Blender            | 20 points |
 | Minimum of 2 objects Blender           | 20 points |
-| Non Default Materials Blender          | 20 points |
+| Non Default Materials Blender          | 15 points |
+| Maya Archive Scene File Uploaded       | 20 points |
+| .blend file uploaded                   | 20 points |
 | File Management and Labeling           | 10 points |
 
 </div>
