@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling Basics - Blender
 date: 2023-06-14T13:46:52
-lastmod: 2026-03-03T21:23:21-04:00
+lastmod: 2026-03-04T06:35:16-04:00
 tags:
   - Blender
   - 3D-Modeling
@@ -74,7 +74,7 @@ Blender Default Scene with cube
 - [Blender Move Objects](https://youtu.be/t4MtOUyOkPM)
 - [Blender Merge Vertices](https://youtu.be/Jipi8XjDwsc)
 - [Blender Auto Mirror](https://youtu.be/f7UeiFP0Gvc)
-- Blender Object vs Edit Mode <!-- TODO Blender Object vs Edit Mode Video -->
+- [Blender Object vs Edit Mode](https://youtu.be/w8DLBlx_jCE)
 - [Blender Extrude](https://docs.blender.org/manual/en/dev/modeling/meshes/editing/mesh/extrude.html)
 - [Blender Apply All Transforms](https://docs.blender.org/manual/en/dev/scene_layout/object/editing/apply.html)
 
@@ -122,73 +122,6 @@ Blender Default Scene with cube
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/L5e7ysUUI7A?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-</div>
-
-### Further Blender Modeling Topics
-
-- [90 Degree Pipe Bend](bridge-edge-loops-90-degree-pipe-blender.md)
-- [Inset Across Mirror Modifier](https://youtu.be/FWhQdcOmP_8)
-- [Blender Low Poly Car Model Tutorial](https://youtu.be/zvAXVnefhy8)
-- [Bevel and Sub D](https://youtu.be/R73wtu1Ixnw)
-- [Hard Surface Plates](https://youtu.be/HGdw5ywWxQI)
-- [Blender Change Modeling Units](https://youtu.be/7S1p17VvFiA)
-- [Blender Export STL](https://docs.blender.org/manual/en/dev/addons/import_export/mesh_stl.html)
-
-<div class="video-grid">
-<div class="video-card">
-
-### Blender Merge Vertices
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Jipi8XjDwsc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Blender Inset Across Mirror Modifier
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/FWhQdcOmP_8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Blender Low Poly Car Model
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/zvAXVnefhy8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Blender Bevel and Sub D
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/R73wtu1Ixnw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### Blender Hard Surface Plates
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/HGdw5ywWxQI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-### 90 Degree Pipe Bend
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/9SCNEIp2Wp8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

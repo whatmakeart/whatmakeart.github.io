@@ -1,29 +1,32 @@
 ---
 title: 08.09 Polygon Modeling Rendering Exercise Assignment
 date: 2026-03-04T09:00:00-04:00
-lastmod: 2026-03-03T20:28:50-04:00
+lastmod: 2026-03-04T07:09:16-04:00
 ---
 
 ## Assignment Deliverables
 
-1. Render image of an object modeled in [Blender](../../../../3d-modeling/blender/blender.md) or [Maya](../../../../3d-modeling/maya/maya.md)
-   - Label file YYYYMMDD Lastname Firstname Polygon Modeling Render Image (`.png`, `.jpg`)
-2. Upload Blender file **or** a Maya project saved as a Maya Scene Archive
-   - Label file YYYY-MM-DD Lastname Firstname Polygon Modeling Render Image
-     (.blend and a Maya scene archive .zip)
+1. Render image of example block object modeled in Blender
+   - Label file YYYYMMDD Lastname Firstname Polygon Modeling Blender Render Image (`.png`, `.jpg`)
+2. Upload Blender file with external assets packed
+   - Label file YYYY-MM-DD Lastname Firstname Polygon Modeling Exercise (`.blend`)
+3. Render image of example block object modeled in Maya
+   - Label file YYYYMMDD Lastname Firstname Polygon Modeling Maya Render Image (`.png`, `.jpg`)
+4. Upload Maya project file saved as a Maya Scene Archive
+   - Label file YYYY-MM-DD Lastname Firstname Polygon Modeling Exercise (`.zip`)
 
 ## Assignment Overview
 
-Rendering in Blender and Maya take a bit more setup than rendering in Fusion 360. The extra steps required ultimately allow for more customization of the renders. Once a scene is setup with lights and objects, then everything can be animated.
+Rendering in Blender and Maya take a bit more setup than rendering in Fusion. The extra steps required ultimately allow for more customization of the renders. Once a scene is setup with lights and objects, then everything can be animated.
 
-This exercise introduces using lights and physical based material shaders in Blender in Maya. To render an image, it must have lights setup in the correct locations to light the object or scene. Varying the intensity and distance of the lights will change the look of the render dramatically. Experiment and render multiple versions of the scene that you create.
+This exercise introduces using lights and physical based material shaders in [Blender](../../../../3d-modeling/blender/blender.md) and [Maya](../../../../3d-modeling/maya/maya.md). To render an image, it must have lights setup in the correct locations to light the object or scene. Varying the intensity and distance of the lights will change the look of the render dramatically. Experiment and render multiple versions of the scene that you create.
 
 ### Render Image Requirements
 
 - Contain the Basic Block Model from the example. You can add more to the image or the model but there must be one modeled block.
 - Minimum 1920 x 1080 pixel render image
 - Minimum of 2 lights (can have more lights)
-- Minimum of 2 objects, model and background (can have many more objects)
+- Minimum of 2 objects, model and ground plane (can have many more objects)
 - Apply materials and/or shaders to objects and background
 
 ### Model File Export Requirements
@@ -86,12 +89,16 @@ Maya projects are set up with a folder structure in the file system of the compu
 
 <div class="responsive-table-markdown">
 
-| Assessment                     | Weight    |
-| ------------------------------ | --------- |
-| 1920 x 1080 pixel render image | 30 points |
-| Minimum of 2 lights            | 20 points |
-| Minimum of 2 objects           | 20 points |
-| Apply Materials                | 20 points |
-| File Management and Labeling   | 10 points |
+| Assessment                             | Weight    |
+| -------------------------------------- | --------- |
+| 1920 x 1080 pixel render image Maya    | 30 points |
+| Minimum of 2 lights Maya               | 20 points |
+| Minimum of 2 objects Maya              | 20 points |
+| Non Default Materials Maya             | 20 points |
+| 1920 x 1080 pixel render image Blender | 30 points |
+| Minimum of 2 lights Blender            | 20 points |
+| Minimum of 2 objects Blender           | 20 points |
+| Non Default Materials Blender          | 20 points |
+| File Management and Labeling           | 10 points |
 
 </div>

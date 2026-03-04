@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling Basics - Maya
 date: 2023-06-16T05:44:28
-lastmod: 2026-03-03T21:05:48-04:00
+lastmod: 2026-03-04T06:25:34-04:00
 aliases:
   - /3d-modeling/3d-modeling-maya/
 tags:
@@ -78,7 +78,7 @@ Maya Default Scene with cube
 - [Maya Move Objects](https://youtu.be/fda8xMeOADI)
 - Maya Merge Vertices <!-- TODO Maya Merge Verticies Video -->
 - [Maya Mirror Tool](https://youtu.be/k6MKu9YxXr0)
-- Maya Object vs Face vs Edge vs Vertex Mode <!-- TODO Maya Object vs Face vs Edge Mode Video -->
+- [Maya Object vs Face vs Edge vs Vertex Mode](https://youtu.be/D187TPexyow)
 - [Maya Extrude](https://youtu.be/yyExyA67log)
 - [Maya Freeze Transformations](https://youtu.be/1SXvWTiMkjs)
 

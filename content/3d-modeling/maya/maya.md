@@ -1,7 +1,7 @@
 ---
 title: Maya
 date: 2023-05-26T02:50:47
-lastmod: 2026-03-03T20:56:10-04:00
+lastmod: 2026-03-04T06:29:11-04:00
 ---
 
 Maya is a [3D modeling](../3d-modeling.md) and 3D animation software program made by Autodesk. 3D models are created in scene files and then textures and lighting are added before rendering an image. Maya is commercial software that cost money to use for commercial purposes, an alternative open source 3D modeling and animation software package is [Blender](../blender/blender.md). There is a robust online community and it can be a great alternative for individual artists and small production companies. There are plugins to [Blender](../blender/blender.md) that cost money but the base software is free and open source and quite capable.
@@ -23,6 +23,7 @@ Press 3 for the smooth polygon mesh display
 - [Import vs Reference Scene](importing-scenes-vs-referencing-scenes-maya-tutorial.md)
 - [Archive Maya Scene](archive-maya-scene.md)
 - [Insert Reference Image](how-to-insert-reference-image-maya-tutorial.md)
+- [Object Mode vs Component Mode](object-mode-vs-component-mode-maya.md)
 
 ### Rendering in Maya
 
