@@ -1,7 +1,7 @@
 ---
 title: 08.09 Polygon Modeling Rendering Exercise Assignment
 date: 2026-03-04T09:00:00-04:00
-lastmod: 2026-03-04T08:42:46-04:00
+lastmod: 2026-03-05T06:40:33-04:00
 ---
 
 ## Assignment Deliverables
@@ -24,8 +24,8 @@ This exercise introduces using lights and physical based material shaders in [Bl
 ### Render Image Requirements
 
 - Contain the Basic Block Model from the example. You can add more to the image or the model but there must be one modeled block.
-- Minimum 1920 x 1080 pixel render image
-- Minimum of 2 lights (can have more lights)
+- Minimum 1920 x 1080 pixel render image <!-- TODO how to change render image size maya video --> <!-- TODO how to change render image size blender video -->
+- Minimum of 2 lights (can have more lights) <!-- TODO how to add lights maya video --> <!-- TODO how to add lights blender video -->
 - Minimum of 2 objects, model and ground plane (can have many more objects)
 - Apply materials and/or shaders to objects and background
 

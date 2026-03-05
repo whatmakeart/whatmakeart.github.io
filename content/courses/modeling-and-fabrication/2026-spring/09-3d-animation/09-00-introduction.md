@@ -1,7 +1,7 @@
 ---
 title: 09.00 Introduction
 date: 2026-03-18T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-03-05T06:42:22-04:00
 ---
 
 ## Overview
@@ -19,8 +19,8 @@ lastmod: 2025-12-23T14:56:48-04:00
 
 - [animation](09-01-animation.md)
 - [keyframes](09-02-keyframes.md)
-- interpolation
-- graph editor
+- interpolation <!-- TODO Keyframe Interpolation Basics Video -->
+- graph editor <!-- TODO Maya graph editor Basics Video --> <!-- TODO Blender graph editor Basics Video -->
 - [sound effect](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
 - [shot types](09-03-shot-types.md)
 - [storyboards](09-06-storyboards.md)
