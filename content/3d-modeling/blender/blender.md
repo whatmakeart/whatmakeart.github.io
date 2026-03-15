@@ -1,7 +1,7 @@
 ---
 title: Blender
 date: 2023-05-26T02:54:03
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-03-13T06:59:02-04:00
 tags:
   - Blender
   - 3D-Modeling
@@ -19,7 +19,7 @@ tags:
 - [Duplicate Objects](duplicate-objects-blender.md)
 - [Easy Hard Surface Plates](easy-hard-surface-plates-blender.md)
 - [3D Text](how-to-make-3d-text-blender.md)
-- [How to Move](how-to-move-blender.md)
+- [How to Move](move-objects-blender.md)
 - [Low Poly Car Modeling](low-poly-car-modeling-blender.md)
 - [Move Single Array Object](move-single-array-object-blender.md)
 - [Pack External Resources](pack-external-resources-blender.md)

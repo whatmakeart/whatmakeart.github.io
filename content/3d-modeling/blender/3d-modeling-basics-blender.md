@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling Basics - Blender
 date: 2023-06-14T13:46:52
-lastmod: 2026-03-04T06:35:16-04:00
+lastmod: 2026-03-13T06:57:30-04:00
 tags:
   - Blender
   - 3D-Modeling
@@ -71,10 +71,10 @@ Blender Default Scene with cube
 
 ## Blender Basic Modeling
 
-- [Blender Move Objects](https://youtu.be/t4MtOUyOkPM)
+- [Blender Move Objects](move-objects-blender.md)
 - [Blender Merge Vertices](https://youtu.be/Jipi8XjDwsc)
-- [Blender Auto Mirror](https://youtu.be/f7UeiFP0Gvc)
-- [Blender Object vs Edit Mode](https://youtu.be/w8DLBlx_jCE)
+- [Blender Auto Mirror](auto-mirror-blender.md)
+- [Blender Object vs Edit Mode](object-mode-vs-edit-mode-blender.md)
 - [Blender Extrude](https://docs.blender.org/manual/en/dev/modeling/meshes/editing/mesh/extrude.html)
 - [Blender Apply All Transforms](https://docs.blender.org/manual/en/dev/scene_layout/object/editing/apply.html)
 

@@ -1,7 +1,7 @@
 ---
 title: Scale a Floor Plan in Blender
 date: 2023-06-22T13:05:49
-lastmod: 2025-09-30T17:53:45
+lastmod: 2026-03-13T06:59:25-04:00
 ---
 
 <div class="video-grid">
@@ -78,4 +78,4 @@ Here are the floor plan scale steps in more detail:
    - Look at the floor plan and find other dimensions that you can measure.
    - Compare the scaled floor plan image to the other dimensions and make sure that they are the same.
 
-- [Blender how to move](how-to-move-blender.md)
+- [Blender how to move](move-objects-blender.md)

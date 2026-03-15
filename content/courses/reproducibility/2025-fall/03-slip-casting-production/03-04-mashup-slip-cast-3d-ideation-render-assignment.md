@@ -1,7 +1,7 @@
 ---
 title: 03.04 Mashup Slip Cast 3D Ideation Render Assignment
 date: 2025-09-10T12:00:00
-lastmod: 2025-12-01T19:42:05
+lastmod: 2026-03-13T06:59:02-04:00
 ---
 
 ## Assignment Deliverables
@@ -26,7 +26,7 @@ lastmod: 2025-12-01T19:42:05
 ### FAQ
 
 1. How do I import a scan into Blender? [Import OBJ into Blender](https://youtu.be/JG1msAX7PFo)
-2. How do I move an object in Blender? [Move objects in Blender](../../../../3d-modeling/blender/how-to-move-blender.md)
+2. How do I move an object in Blender? [Move objects in Blender](../../../../3d-modeling/blender/move-objects-blender.md)
 3. How do I rotate the object in Blender? [Rotate objects in Blender](../../../../3d-modeling/blender/rotate-objects-blender.md)
 4. How do I scale the object in Blender? [Scale objects in Blender](../../../../3d-modeling/blender/scale-objects-blender.md)
 5. How do I duplicate the object in Blender? [Duplicate objects in Blender](../../../../3d-modeling/blender/display-textures-on-objects-blender.md)

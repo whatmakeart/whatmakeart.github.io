@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-21T09:00:00
-lastmod: 2024-09-23T08:31:39
+lastmod: 2026-03-13T06:59:02-04:00
 ---
 
 ## Sketching
@@ -20,7 +20,7 @@ lastmod: 2024-09-23T08:31:39
 - [BlenderKit Website](https://www.blenderkit.com/)
 - [Bridge Edge Loops 90 Degree Pipe Bend](../../../../3d-modeling/blender/bridge-edge-loops-90-degree-pipe-blender.md)
 - [HDRI Backgrounds Blender](../../../../3d-modeling/blender/hdri-background-blender.md)
-- [How to Move Objects Blender](../../../../3d-modeling/blender/how-to-move-blender.md)
+- [How to Move Objects Blender](../../../../3d-modeling/blender/move-objects-blender.md)
 
 ### Blender Addons
 

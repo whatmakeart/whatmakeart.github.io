@@ -1,7 +1,7 @@
 ---
 title: 00.00 Sewing and Fabrication Syllabus
 date: 2026-01-12T09:00:00
-lastmod: 2026-02-23T05:01:01-04:00
+lastmod: 2026-03-15T16:22:38-04:00
 ---
 
 ### Course Information
@@ -77,24 +77,24 @@ This is a sewing and patternmaking class. The class will emphasize skills in mac
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**    | **Topic**                                                   |
-| -------- | ----------- | ----------------------------------------------------------- |
-| 1        | January 12  | [Introduction](../01-introduction/01-00-introduction.md)    |
-| --       | January 19  | MLK Day - No Class                                          |
-| --       | January 26  | Snow Day - No Class                                         |
-| 2        | February 2  | [Pockets](../02-pockets/02-00-introduction.md)              |
-| 3        | February 9  | [Pattern Making](../03-patternmaking/03-00-introduction.md) |
-| 4        | February 16 | [Zipper Fly](../04-zipper-fly/04-00-introduction.md)        |
-| 5        | February 23 | Lecture / Workshop / Studio Work                            |
-| 6        | March 2     | Lecture / Workshop / Studio Work                            |
-| --       | March 9     | Spring Break - No Class                                     |
-| 7        | March 16    | Lecture / Workshop / Studio Work                            |
-| 8        | March 23    |                                                             |
-| 9        | March 30    | Lecture / Workshop / Studio Work                            |
-| 10       | April 6     | Lecture / Workshop / Studio Work                            |
-| 11       | April 13    | Lecture / Workshop / Studio Work                            |
-| 12       | April 20    | Runway Project                                              |
-| 13       | April 27    | Final Crit                                                  |
+| **Week** | **Date**    | **Topic**                                                                        |
+| -------- | ----------- | -------------------------------------------------------------------------------- |
+| 1        | January 12  | [Introduction](../01-introduction/01-00-introduction.md)                         |
+| --       | January 19  | MLK Day - No Class                                                               |
+| --       | January 26  | Snow Day - No Class                                                              |
+| 2        | February 2  | [Pockets](../02-pockets/02-00-introduction.md)                                   |
+| 3        | February 9  | [Pattern Making](../03-patternmaking/03-00-introduction.md)                      |
+| 4        | February 16 | [Zipper Fly](../04-zipper-fly/04-00-introduction.md)                             |
+| 5        | February 23 | [Jumpsuit Patterns](../05-jumpsuit-patterns/05-00-introduction.md)               |
+| 6        | March 2     | [Jumpsuit Sewing](../06-jumpsuit-sewing/06-00-introduction.md)                   |
+| --       | March 9     | Spring Break - No Class                                                          |
+| 7        | March 16    | [Fabric Fabrication](../07-fabric-fabrication/07-00-introduction.md)             |
+| 8        | March 23    | [Inflatables Introduction](../08-inflatables-introduction/08-00-introduction.md) |
+| 9        | March 30    | [Inflatable Studio Work](../09-inflatable-studio-work/11-00-introduction.md)     |
+| 10       | April 6     | [Inflatable Studio Work](../10-inflatable-studio-work/11-00-introduction.md)     |
+| 11       | April 13    | [Inflatable Studio Work](../11-inflatable-studio-work/11-00-introduction.md)     |
+| 12       | April 20    | [Studio Work](../12-studio-work/12-00-introduction.md)                           |
+| 13       | April 27    | Final Crit                                                                       |
 
 </div>
 
