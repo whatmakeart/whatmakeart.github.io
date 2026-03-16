@@ -1,7 +1,7 @@
 ---
-title: 05.05 Jumpsuit Sewing Assignment
+title: 06.04 Jumpsuit Sewing Assignment
 date: 2026-03-02T09:00:00-04:00
-lastmod: 2026-03-16T06:12:32-04:00
+lastmod: 2026-03-16T06:35:45-04:00
 ---
 
 ## Assignment Deliverables
