@@ -1,7 +1,7 @@
 ---
 title: Inflatable Artists
 date: 2024-10-28T06:07:28
-lastmod: 2025-09-30T18:31:43
+lastmod: 2026-03-15T20:38:38-04:00
 ---
 
 <div class="auto-grid-wrapper">
@@ -9,7 +9,7 @@ lastmod: 2025-09-30T18:31:43
 - [Google - inflatable art](https://www.google.com/search?q=inflatable+art&udm=2)
 - [AKA Airways](https://www.akairways.com/)
 - [Aeolian Ride](http://www.aeolian-ride.info/)
-- Alan Parkinson
+- [Alan Parkinson](https://architects-of-air.com/)
 - [Alex Schweder](http://www.alexschweder.com/category/inflatables/)
 - [Ant Farm](<https://en.wikipedia.org/wiki/Ant_Farm_(group)>)
 - [Architects of Air](https://www.architects-of-air.com/)
@@ -17,7 +17,7 @@ lastmod: 2025-09-30T18:31:43
 - [Claire Ashley](https://clairehelenashley.com/)
 - [Clive Murphy](https://collabcubed.com/2011/08/11/clive-murphy-inflatable-sculptures-plus/)
 - [Cyril Lancelin](https://www.townandconcrete.com/works)
-- David Cross
+- [David Cross](https://www.davidcrossartist.com/)
 - [ENESS](https://www.eness.com/)
 - [Filthy Luker](https://www.designsinair.com/)
 - [Florentijn Hofman](https://florentijnhofman.com/)
@@ -32,14 +32,14 @@ lastmod: 2025-09-30T18:31:43
 - [Karina Smigla-Bobinski](https://smigla-bobinski.com/)
 - [Kurt Perschke](https://redballproject.com/about/)
 - [Mariana Manhães](https://www.marianamanhaes.com/)
-- Maurice Agis
+- [Maurice Agis](https://www.telegraph.co.uk/news/obituaries/culture-obituaries/art-obituaries/6350529/Maurice-Agis.html)
 - [Max Streicher](https://www.maxstreicher.com/)
 - [Michael Shaw](https://michaelshaw.art/)
 - [Michela Picchi](http://michelapicchi.com/)
-- Nancy Davidson
+- [Nancy Davidson](https://www.nancydavidson.com/)
 - [Momoyo Torimitsu](https://www.momoyotorimitsu.com/)
 - [Paul McCarthy](https://www.hauserwirth.com/artists/2796-paul-mccarthy/)
-- Patricia Piccinini
+- [Patricia Piccinini](https://www.patriciapiccinini.net/)
 - [Penique Productions](https://www.peniqueproductions.com/)
 - [Plastique Fantastique](https://plastique-fantastique.de/)
 - [Pnuehaus](https://www.pneu.haus/)
@@ -194,7 +194,7 @@ lastmod: 2025-09-30T18:31:43
 [Tim Hawkinson](https://en.wikipedia.org/wiki/Tim_Hawkinson)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/D5aOUJ0QXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Y-3-U798LrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -212,7 +212,7 @@ Ant Farm Video Inflatables
 David Cross - Level Playing Field
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/AZ9uIDP-o-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/WQlLri2sPd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 title: 00.00 Sewing and Fabrication Syllabus
 date: 2026-01-12T09:00:00
-lastmod: 2026-03-15T16:22:38-04:00
+lastmod: 2026-03-15T20:40:49-04:00
 ---
 
 ### Course Information
@@ -90,8 +90,8 @@ This is a sewing and patternmaking class. The class will emphasize skills in mac
 | --       | March 9     | Spring Break - No Class                                                          |
 | 7        | March 16    | [Fabric Fabrication](../07-fabric-fabrication/07-00-introduction.md)             |
 | 8        | March 23    | [Inflatables Introduction](../08-inflatables-introduction/08-00-introduction.md) |
-| 9        | March 30    | [Inflatable Studio Work](../09-inflatable-studio-work/11-00-introduction.md)     |
-| 10       | April 6     | [Inflatable Studio Work](../10-inflatable-studio-work/11-00-introduction.md)     |
+| 9        | March 30    | [Inflatable Design](../09-inflatable-design/09-00-introduction.md)               |
+| 10       | April 6     | [Inflatable Studio Work](../10-inflatable-studio-work/10-00-introduction.md)     |
 | 11       | April 13    | [Inflatable Studio Work](../11-inflatable-studio-work/11-00-introduction.md)     |
 | 12       | April 20    | [Studio Work](../12-studio-work/12-00-introduction.md)                           |
 | 13       | April 27    | Final Crit                                                                       |
