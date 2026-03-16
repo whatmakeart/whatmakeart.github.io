@@ -1,7 +1,7 @@
 ---
 title: Convert Shirt and Pants to Jumpsuit Pattern
 date: 2024-09-23T09:00:00-04:00
-lastmod: 2026-02-23T16:21:15-04:00
+lastmod: 2026-03-16T06:26:36-04:00
 ---
 
 To transition from a shirt and pants pattern to a custom jumpsuit, you’ll need to account for specific design features and functional details to ensure you can get into your jumpsuit and it fits well. Below are some pointers to help you incorporate these elements effectively.
@@ -100,7 +100,6 @@ Pleats add volume and texture to a garment. To add pleats to your jumpsuit, exte
 
 - Add 1-2" for hems on the pants and sleeves, depending on your planned fabric’s thickness.
 - Cuffs and sleeve plackets can be added to the ends of sleeves for a more structured look.
-- Topstitching along seam lines such as the zipper, waistband, and sleeve cuffs adds durability and a polished appearance.
 - If you want to include pockets in your design (e.g., patch pockets, cargo pockets), be sure to account for the extra fabric needed for pockets and seam allowances.
 
 ### Finalize the Jumpsuit Block
