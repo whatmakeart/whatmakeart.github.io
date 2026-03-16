@@ -1,7 +1,7 @@
 ---
 title: 07.02 Sewing Tubes to Circles and Holes
 date: 2026-03-16T09:00:00-04:00
-lastmod: 2026-03-16T07:51:21-04:00
+lastmod: 2026-03-16T08:19:49-04:00
 ---
 
 Sewing circles into tubes requires different size circles depending if the circle is a cap on the end of a tube or a hold the tube is inserting into.
@@ -36,300 +36,316 @@ For a hole:
 
 Both pieces sew to the same tube because their seam-line diameter is 8".
 
-<div class="container py-4 py-lg-5">
-    <div class="row g-4">
-      <div class="col-12">
-        <div class="border rounded-4 p-4 bg-body">
-          <h1 class="display-6 fw-semibold mb-3">Tube Pattern Piece Calculator</h1>
-          <p class="lead mb-0">
-            Enter the <strong>finished tube diameter</strong> and <strong>finished tube length</strong> to calculate the cut sizes for the tube body,
-            the end cap, and the insertion hole in a larger fabric panel.
-          </p>
+<div class="container py-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-success text-white">
+            <h1 class="h5 mb-0">Fabric Tube & Cylinder Template Generator</h1>
         </div>
-      </div>
-      <div class="col-12 col-lg-4">
-        <div class="card h-100">
-          <div class="card-header">
-            <h2 class="h5 mb-0">Inputs</h2>
-          </div>
-          <div class="card-body">
-            <div class="mb-3">
-              <label for="diameter" class="form-label fw-semibold">Finished tube diameter</label>
-              <input id="diameter" type="number" min="0" step="0.01" value="8" class="form-control" />
-              <div class="form-text">This is the sewn diameter of the finished tube.</div>
+        <div class="card-body">
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="mb-3">
+                        <label class="form-label fw-bold small text-uppercase text-success">Tube Diameter (D)</label>
+                        <input type="number" id="tubeDiam" class="form-control" value="8" step="0.1">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label fw-bold small text-uppercase">Tube Length / Height (H)</label>
+                        <input type="number" id="tubeHeight" class="form-control" value="12" step="0.1">
+                    </div>
+                    <hr class="my-3">
+                    <div class="mb-3">
+                        <label class="form-label fw-bold small text-uppercase">End Cap 1 (Top/Left)</label>
+                        <select id="capStyle1" class="form-select">
+                            <option value="cap">Solid Cap</option>
+                            <option value="hole">Receiver Hole in Square Panel</option>
+                        </select>
+                    </div>
+                    <div class="mb-3 d-none" id="sqSizeContainer1">
+                        <label class="form-label fw-bold small text-uppercase">Square 1 Size</label>
+                        <input type="number" id="sqSize1" class="form-control" value="10" step="0.5">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label fw-bold small text-uppercase">End Cap 2 (Bottom/Right)</label>
+                        <select id="capStyle2" class="form-select">
+                            <option value="cap">Solid Cap</option>
+                            <option value="hole">Receiver Hole in Square Panel</option>
+                        </select>
+                    </div>
+                    <div class="mb-3 d-none" id="sqSizeContainer2">
+                        <label class="form-label fw-bold small text-uppercase">Square 2 Size</label>
+                        <input type="number" id="sqSize2" class="form-control" value="10" step="0.5">
+                    </div>
+                    <hr class="my-3">
+                    <div class="mb-3">
+                        <label class="form-label fw-bold small text-uppercase">Seam Allowance (Inches)</label>
+                        <input type="number" id="seam" class="form-control" value="0.5" step="0.0625">
+                    </div>
+                    <div id="output" class="alert alert-secondary py-2 small font-monospace"></div>
+                    <button class="btn btn-success w-100 fw-bold shadow-sm" onclick="exportSVG()">
+                        Download 1:1 SVG
+                    </button>
+                </div>
+                <div class="col-md-8">
+                    <label class="form-label fw-bold small text-uppercase text-muted">Template Preview</label>
+                    <div class="border rounded bg-light p-2 text-center">
+                        <canvas id="tubeCanvas" style="max-width: 100%; height: auto;"></canvas>
+                    </div>
+                    <p class="text-muted small mt-2 text-center">
+                        Solid Green/Black: Cut Lines | Dashed: Stitch Lines | Ticks: Quarter Marks
+                    </p>
+                </div>
             </div>
-            <div class="mb-3">
-              <label for="length" class="form-label fw-semibold">Finished tube length</label>
-              <input id="length" type="number" min="0" step="0.01" value="12" class="form-control" />
-              <div class="form-text">This is the sewn length from one seam line to the other.</div>
-            </div>
-            <div class="row g-3">
-              <div class="col-12 col-sm-6 col-lg-12 col-xl-6">
-                <label for="seam" class="form-label fw-semibold">Seam allowance</label>
-                <input id="seam" type="number" min="0" step="0.01" value="0.5" class="form-control" />
-                <div class="form-text">Default is 0.5 inches.</div>
-              </div>
-              <div class="col-12 col-sm-6 col-lg-12 col-xl-6">
-                <label for="decimals" class="form-label fw-semibold">Round display to</label>
-                <select id="decimals" class="form-select">
-                  <option value="2" selected>2 decimals</option>
-                  <option value="3">3 decimals</option>
-                  <option value="4">4 decimals</option>
-                </select>
-                <div class="form-text">Display only. Internal math stays full precision.</div>
-              </div>
-            </div>
-            <div class="d-flex flex-wrap gap-2 mt-4">
-              <button class="btn btn-primary" id="resetBtn" type="button">Reset Example</button>
-              <button class="btn btn-outline-secondary" id="copyBtn" type="button">Copy Results</button>
-            </div>
-            <div class="text-danger fw-semibold mt-3" id="error" aria-live="polite"></div>
-          </div>
         </div>
-      </div>
-      <div class="col-12 col-lg-8">
-        <div class="card h-100">
-          <div class="card-header">
-            <h2 class="h5 mb-0">Calculated pattern pieces</h2>
-          </div>
-          <div class="card-body">
-            <div class="alert alert-primary mb-4" role="note">
-              <div><strong>Tube body cut width</strong> = π × finished diameter + 2 × seam allowance</div>
-              <div><strong>Tube body cut height</strong> = finished length + 2 × seam allowance</div>
-              <div><strong>Tube cap cut diameter</strong> = finished diameter + 2 × seam allowance</div>
-              <div><strong>Insertion hole cut diameter</strong> = finished diameter − 2 × seam allowance</div>
-            </div>
-            <div class="row g-3 mb-4">
-              <div class="col-12 col-md-4">
-                <div class="card h-100">
-                  <div class="card-body">
-                    <div class="badge text-bg-success mb-2">Tube body</div>
-                    <h3 class="h6">Cut rectangle</h3>
-                    <div class="fs-3 fw-bold" id="bodyRect">—</div>
-                    <p class="text-body-secondary mb-0" id="bodyRectDetail">—</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-12 col-md-4">
-                <div class="card h-100">
-                  <div class="card-body">
-                    <div class="badge text-bg-success mb-2">End cap</div>
-                    <h3 class="h6">Cut circle diameter</h3>
-                    <div class="fs-3 fw-bold" id="capDia">—</div>
-                    <p class="text-body-secondary mb-0" id="capDetail">—</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-12 col-md-4">
-                <div class="card h-100">
-                  <div class="card-body">
-                    <div class="badge text-bg-success mb-2">Insertion opening</div>
-                    <h3 class="h6">Cut hole diameter</h3>
-                    <div class="fs-3 fw-bold" id="holeDia">—</div>
-                    <p class="text-body-secondary mb-0" id="holeDetail">—</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="table-responsive mb-4">
-              <table class="table table-bordered align-middle mb-0">
-                <thead>
-                  <tr>
-                    <th>Pattern piece</th>
-                    <th>Cut size</th>
-                    <th>What it does</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td><strong>Tube Body</strong></td>
-                    <td id="rowBody">—</td>
-                    <td>Roll into a cylinder and sew the short ends together.</td>
-                  </tr>
-                  <tr>
-                    <td><strong>Tube Cap</strong></td>
-                    <td id="rowCap">—</td>
-                    <td>Sews onto one end of the tube to close it.</td>
-                  </tr>
-                  <tr>
-                    <td><strong>Insertion Hole</strong></td>
-                    <td id="rowHole">—</td>
-                    <td>Cut this opening in the larger fabric piece, then sew the other end of the tube into it.</td>
-                  </tr>
-                  <tr>
-                    <td><strong>Finished Circumference</strong></td>
-                    <td id="rowCirc">—</td>
-                    <td>This is the finished seam-line width that the tube wraps around.</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-            <div class="card mb-4">
-              <div class="card-body">
-                <h3 class="h6 mb-3">Diagram</h3>
-                <svg viewBox="0 0 860 430" aria-labelledby="diagramTitle diagramDesc" role="img">
-                  <title id="diagramTitle">Tube pattern diagram</title>
-                  <desc id="diagramDesc">A diagram showing the body rectangle, tube cap circle, and smaller insertion hole.</desc>
-                  <rect x="20" y="24" width="390" height="250" rx="18" fill="none" stroke="currentColor" stroke-opacity="0.25" stroke-width="2"/>
-                  <text x="44" y="60" font-size="22" font-weight="700" fill="currentColor">Tube body rectangle</text>
-                  <rect x="70" y="95" width="290" height="115" rx="10" fill="none" stroke="currentColor" stroke-width="3"/>
-                  <line x1="70" y1="230" x2="360" y2="230" stroke="currentColor" stroke-width="2" stroke-dasharray="6 6"/>
-                  <line x1="380" y1="95" x2="380" y2="210" stroke="currentColor" stroke-width="2" stroke-dasharray="6 6"/>
-                  <text x="172" y="248" text-anchor="middle" font-size="17" fill="currentColor">width = circumference + seam allowance</text>
-                  <text x="398" y="158" font-size="17" fill="currentColor" transform="rotate(90 398 158)">height = finished length + seam allowance</text>
-                  <rect x="438" y="24" width="402" height="382" rx="18" fill="none" stroke="currentColor" stroke-opacity="0.25" stroke-width="2"/>
-                  <text x="462" y="60" font-size="22" font-weight="700" fill="currentColor">Circular pieces</text>
-                  <circle cx="555" cy="180" r="88" fill="none" stroke="currentColor" stroke-width="3"/>
-                  <circle cx="555" cy="180" r="64" fill="none" stroke="currentColor" stroke-width="2" stroke-dasharray="6 6"/>
-                  <text x="555" y="295" text-anchor="middle" font-size="18" font-weight="700" fill="currentColor">Tube cap</text>
-                  <text x="555" y="320" text-anchor="middle" font-size="15" fill="currentColor" opacity="0.7">cut larger than finished diameter</text>
-                  <rect x="650" y="95" width="130" height="130" fill="none" stroke="currentColor" stroke-opacity="0.25" stroke-width="2"/>
-                  <circle cx="715" cy="160" r="40" fill="none" stroke="currentColor" stroke-width="3"/>
-                  <circle cx="715" cy="160" r="64" fill="none" stroke="currentColor" stroke-width="2" stroke-dasharray="6 6" opacity="0.4"/>
-                  <text x="715" y="295" text-anchor="middle" font-size="18" font-weight="700" fill="currentColor">Insertion hole</text>
-                  <text x="715" y="320" text-anchor="middle" font-size="15" fill="currentColor" opacity="0.7">cut smaller than finished diameter</text>
-                  <text x="555" y="180" text-anchor="middle" font-size="16" fill="currentColor">finished seam line</text>
-                  <text x="715" y="160" text-anchor="middle" font-size="14" fill="currentColor">cut hole</text>
-                </svg>
-              </div>
-            </div>
-            <div class="alert alert-warning mb-3" role="note">
-              The cap and the insertion hole are cut to different sizes because the seam allowance is added in opposite directions.
-              The <strong>cap</strong> is cut larger than the finished diameter, while the <strong>hole</strong> is cut smaller.
-              What must match is the <strong>seam line</strong>, not the raw cut edge.
-            </div>
-            <p class="text-body-secondary mb-0" id="summary"></p>
-          </div>
-        </div>
-      </div>
     </div>
-  </div>
+</div>
 
-  <script>
-    (function () {
-      const diameterEl = document.getElementById('diameter');
-      const lengthEl = document.getElementById('length');
-      const seamEl = document.getElementById('seam');
-      const decimalsEl = document.getElementById('decimals');
-      const resetBtn = document.getElementById('resetBtn');
-      const copyBtn = document.getElementById('copyBtn');
-      const errorEl = document.getElementById('error');
+<script>
+    const inputs = ['tubeDiam', 'tubeHeight', 'capStyle1', 'sqSize1', 'capStyle2', 'sqSize2', 'seam'];
+    const canvas = document.getElementById('tubeCanvas');
+    const ctx = canvas.getContext('2d');
+    let currentData = {};
 
-      const bodyRectEl = document.getElementById('bodyRect');
-      const bodyRectDetailEl = document.getElementById('bodyRectDetail');
-      const capDiaEl = document.getElementById('capDia');
-      const capDetailEl = document.getElementById('capDetail');
-      const holeDiaEl = document.getElementById('holeDia');
-      const holeDetailEl = document.getElementById('holeDetail');
-      const rowBodyEl = document.getElementById('rowBody');
-      const rowCapEl = document.getElementById('rowCap');
-      const rowHoleEl = document.getElementById('rowHole');
-      const rowCircEl = document.getElementById('rowCirc');
-      const summaryEl = document.getElementById('summary');
+    function calculate() {
+        const D = parseFloat(document.getElementById('tubeDiam').value) || 0;
+        const H = parseFloat(document.getElementById('tubeHeight').value) || 0;
+        const capStyle1 = document.getElementById('capStyle1').value;
+        const sqSize1 = parseFloat(document.getElementById('sqSize1').value) || (D + 4);
+        const capStyle2 = document.getElementById('capStyle2').value;
+        const sqSize2 = parseFloat(document.getElementById('sqSize2').value) || (D + 4);
+        const seam = parseFloat(document.getElementById('seam').value) || 0;
 
-      function n(value) {
-        return Number(value);
-      }
+        // Pure Bootstrap 5 display toggles
+        document.getElementById('sqSizeContainer1').classList.toggle('d-none', capStyle1 !== 'hole');
+        document.getElementById('sqSizeContainer2').classList.toggle('d-none', capStyle2 !== 'hole');
 
-      function fmt(value, decimals) {
-        return Number(value).toFixed(decimals).replace(/\B(?=(\d{3})+(?!\d))/g, ',');
-      }
+        const circumference = Math.PI * D;
 
-      function update() {
-        const d = n(diameterEl.value);
-        const len = n(lengthEl.value);
-        const sa = n(seamEl.value);
-        const decimals = parseInt(decimalsEl.value, 10);
+        currentData = { D, H, capStyle1, sqSize1, capStyle2, sqSize2, seam, circumference };
 
-        errorEl.textContent = '';
-
-        if (![d, len, sa].every(Number.isFinite)) {
-          errorEl.textContent = 'Please enter valid numeric values.';
-          return;
-        }
-
-        if (d <= 0) {
-          errorEl.textContent = 'Finished tube diameter must be greater than 0.';
-          return;
-        }
-
-        if (len <= 0) {
-          errorEl.textContent = 'Finished tube length must be greater than 0.';
-          return;
-        }
-
-        if (sa < 0) {
-          errorEl.textContent = 'Seam allowance cannot be negative.';
-          return;
-        }
-
-        const circumference = Math.PI * d;
-        const bodyCutWidth = circumference + (2 * sa);
-        const bodyCutHeight = len + (2 * sa);
-        const capCutDiameter = d + (2 * sa);
-        const holeCutDiameter = d - (2 * sa);
-
-        if (holeCutDiameter <= 0) {
-          errorEl.textContent = 'The seam allowance is too large for this diameter. The insertion hole would be zero or negative.';
-        }
-
-        bodyRectEl.textContent = `${fmt(bodyCutWidth, decimals)} × ${fmt(bodyCutHeight, decimals)} in`;
-        bodyRectDetailEl.textContent = `Finished rectangle before seam allowance: ${fmt(circumference, decimals)} × ${fmt(len, decimals)} in`;
-
-        capDiaEl.textContent = `${fmt(capCutDiameter, decimals)} in`;
-        capDetailEl.textContent = `Finished sewn diameter: ${fmt(d, decimals)} in`;
-
-        holeDiaEl.textContent = holeCutDiameter > 0 ? `${fmt(holeCutDiameter, decimals)} in` : 'Invalid';
-        holeDetailEl.textContent = `Cut smaller so the sewn opening finishes at ${fmt(d, decimals)} in`;
-
-        rowBodyEl.textContent = `${fmt(bodyCutWidth, decimals)} in wide × ${fmt(bodyCutHeight, decimals)} in tall`;
-        rowCapEl.textContent = `${fmt(capCutDiameter, decimals)} in diameter circle`;
-        rowHoleEl.textContent = holeCutDiameter > 0 ? `${fmt(holeCutDiameter, decimals)} in diameter cut hole` : 'Invalid with current inputs';
-        rowCircEl.textContent = `${fmt(circumference, decimals)} in`;
-
-        summaryEl.innerHTML = `
-          For a finished tube diameter of <strong>${fmt(d, decimals)} in</strong> and a finished length of <strong>${fmt(len, decimals)} in</strong>,
-          cut the tube body as a <strong>${fmt(bodyCutWidth, decimals)} × ${fmt(bodyCutHeight, decimals)} in</strong> rectangle,
-          cut the cap as a <strong>${fmt(capCutDiameter, decimals)} in</strong> diameter circle,
-          and cut the insertion opening as a <strong>${holeCutDiameter > 0 ? fmt(holeCutDiameter, decimals) + ' in' : 'non-usable size'}</strong> diameter hole.
+        document.getElementById('output').innerHTML = `
+            <div>Stitch Circumference: <strong>${circumference.toFixed(2)}"</strong></div>
+            <div>Wall Cut Width: <strong>${(circumference + seam * 2).toFixed(2)}"</strong></div>
+            <div>Wall Cut Height: <strong>${(H + seam * 2).toFixed(2)}"</strong></div>
         `;
-      }
 
-      function resetExample() {
-        diameterEl.value = '8';
-        lengthEl.value = '12';
-        seamEl.value = '0.5';
-        decimalsEl.value = '2';
-        update();
-      }
+        drawCanvas();
+    }
 
-      async function copyResults() {
-        const text = [
-          'Tube Pattern Piece Calculator Results',
-          `Finished tube diameter: ${diameterEl.value} in`,
-          `Finished tube length: ${lengthEl.value} in`,
-          `Seam allowance: ${seamEl.value} in`,
-          '',
-          `Tube body cut rectangle: ${rowBodyEl.textContent}`,
-          `Tube cap cut size: ${rowCapEl.textContent}`,
-          `Insertion hole cut size: ${rowHoleEl.textContent}`,
-          `Finished circumference: ${rowCircEl.textContent}`
-        ].join('\n');
+    function drawTick(ctx, x, y, angle, depth, scale) {
+        ctx.beginPath();
+        ctx.moveTo(x - Math.cos(angle) * depth * scale, y - Math.sin(angle) * depth * scale);
+        ctx.lineTo(x + Math.cos(angle) * depth * scale, y + Math.sin(angle) * depth * scale);
+        ctx.stroke();
+    }
 
-        try {
-          await navigator.clipboard.writeText(text);
-          copyBtn.textContent = 'Copied';
-          setTimeout(() => { copyBtn.textContent = 'Copy Results'; }, 1400);
-        } catch (err) {
-          copyBtn.textContent = 'Copy failed';
-          setTimeout(() => { copyBtn.textContent = 'Copy Results'; }, 1400);
+    function drawCanvas() {
+        canvas.width = 800;
+        canvas.height = 600;
+        const { D, H, capStyle1, sqSize1, capStyle2, sqSize2, seam, circumference } = currentData;
+        
+        const maxEnd1 = capStyle1 === 'hole' ? sqSize1 : D + seam * 2;
+        const maxEnd2 = capStyle2 === 'hole' ? sqSize2 : D + seam * 2;
+        
+        const maxPatternWidth = Math.max(circumference + seam * 2, maxEnd1 + maxEnd2 + 60);
+        const maxPatternHeight = (H + seam * 2) + Math.max(maxEnd1, maxEnd2) + 60;
+        
+        const scale = Math.min((canvas.width - 40) / maxPatternWidth, (canvas.height - 40) / maxPatternHeight);
+        const cx = canvas.width / 2;
+        
+        const tickDepth = seam * 0.5;
+
+        ctx.clearRect(0,0, canvas.width, canvas.height);
+        
+        // --- 1. DRAW TUBE WALL PATTERN ---
+        const rectY = 40;
+        const rectW = circumference * scale;
+        const rectH = H * scale;
+        const cutW = (circumference + seam * 2) * scale;
+        const cutH = (H + seam * 2) * scale;
+        const rectX = cx - (cutW / 2);
+
+        // Cut Line
+        ctx.beginPath();
+        ctx.strokeStyle = '#198754'; // Bootstrap Success
+        ctx.lineWidth = 2;
+        ctx.rect(rectX, rectY, cutW, cutH);
+        ctx.fillStyle = 'rgba(25, 135, 84, 0.05)';
+        ctx.fill();
+        ctx.stroke();
+
+        // Stitch Line
+        ctx.beginPath();
+        ctx.setLineDash([5, 5]);
+        ctx.strokeStyle = '#146c43';
+        ctx.rect(rectX + seam * scale, rectY + seam * scale, rectW, rectH);
+        ctx.stroke();
+        ctx.setLineDash([]);
+
+        // Wall Quarter Marks
+        ctx.strokeStyle = '#198754';
+        for (let i = 0; i <= 4; i++) {
+            const xOffset = rectX + seam * scale + (rectW * (i / 4));
+            // Top ticks
+            drawTick(ctx, xOffset, rectY + seam * scale, Math.PI / 2, tickDepth, scale);
+            // Bottom ticks
+            drawTick(ctx, xOffset, rectY + cutH - seam * scale, Math.PI / 2, tickDepth, scale);
         }
-      }
 
-      [diameterEl, lengthEl, seamEl, decimalsEl].forEach(el => el.addEventListener('input', update));
-      resetBtn.addEventListener('click', resetExample);
-      copyBtn.addEventListener('click', copyResults);
+        // --- 2. DRAW END CAPS ---
+        const capCenterY = rectY + cutH + Math.max(maxEnd1, maxEnd2) * scale / 2 + 20;
+        const cap1X = cx - (maxEnd1 * scale / 2) - 15;
+        const cap2X = cx + (maxEnd2 * scale / 2) + 15;
 
-      update();
-    })();
-  </script>
+        const drawEndPiece = (style, sqSize, x, y, title) => {
+            ctx.strokeStyle = '#212529';
+            if (style === 'cap') {
+                ctx.beginPath();
+                ctx.arc(x, y, (D/2 + seam) * scale, 0, Math.PI * 2);
+                ctx.stroke();
+                
+                for(let i=0; i<4; i++) {
+                    const angle = i * Math.PI/2;
+                    drawTick(ctx, x + Math.cos(angle)*(D/2 + seam)*scale, y + Math.sin(angle)*(D/2 + seam)*scale, angle, tickDepth, scale);
+                }
+
+                ctx.beginPath();
+                ctx.setLineDash([5, 5]);
+                ctx.arc(x, y, (D/2) * scale, 0, Math.PI * 2);
+                ctx.stroke();
+            } else {
+                ctx.beginPath();
+                ctx.rect(x - (sqSize*scale/2), y - (sqSize*scale/2), sqSize*scale, sqSize*scale);
+                ctx.stroke();
+                
+                const holeRadius = Math.max(0.1, D/2 - seam);
+                ctx.beginPath();
+                ctx.arc(x, y, holeRadius * scale, 0, Math.PI * 2);
+                ctx.stroke();
+
+                for(let i=0; i<4; i++) {
+                    const angle = i * Math.PI/2;
+                    drawTick(ctx, x + Math.cos(angle)*holeRadius*scale, y + Math.sin(angle)*holeRadius*scale, angle, tickDepth, scale);
+                }
+                
+                ctx.beginPath();
+                ctx.setLineDash([5, 5]);
+                ctx.arc(x, y, (D/2) * scale, 0, Math.PI * 2);
+                ctx.stroke();
+            }
+            ctx.setLineDash([]);
+
+            // Labels
+            ctx.fillStyle = '#212529';
+            ctx.font = 'bold 12px sans-serif';
+            ctx.fillText(title, x, y - (style === 'hole' ? sqSize*scale/2 + 15 : D/2*scale + seam*scale + 15));
+            ctx.font = '12px sans-serif';
+            ctx.fillText(`Stitch: Ø${D}"`, x, y + (style === 'hole' ? 0 : 5));
+        };
+
+        drawEndPiece(capStyle1, sqSize1, cap1X, capCenterY, capStyle1 === 'cap' ? 'END CAP 1' : 'END RECEIVER 1');
+        drawEndPiece(capStyle2, sqSize2, cap2X, capCenterY, capStyle2 === 'cap' ? 'END CAP 2' : 'END RECEIVER 2');
+
+        // --- 3. WALL LABELS & SCALE ---
+        ctx.fillStyle = '#212529';
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.font = 'bold 14px sans-serif';
+        ctx.fillText('TUBE WALL', cx, rectY + cutH / 2 - 12);
+        ctx.font = '12px sans-serif';
+        ctx.fillText(`Includes ${seam}" Seam Allowance`, cx, rectY + cutH / 2 + 5);
+
+        const sSize = 1 * scale; 
+        ctx.strokeStyle = '#000';
+        ctx.strokeRect(20, 20, sSize, sSize);
+        ctx.textAlign = 'left';
+        ctx.fillText('1x1" SCALE', 20 + sSize + 10, 20 + sSize/2);
+    }
+
+    function getSvgTick(x, y, angle, depth) {
+        return `M ${x - Math.cos(angle) * depth} ${y - Math.sin(angle) * depth} L ${x + Math.cos(angle) * depth} ${y + Math.sin(angle) * depth} `;
+    }
+
+    function exportSVG() {
+        const { D, H, capStyle1, sqSize1, capStyle2, sqSize2, seam, circumference } = currentData;
+        
+        const maxEnd1 = capStyle1 === 'hole' ? sqSize1 : D + seam*2;
+        const maxEnd2 = capStyle2 === 'hole' ? sqSize2 : D + seam*2;
+
+        const widthIn = Math.max(circumference + seam*2, maxEnd1 + maxEnd2 + 1) + 2;
+        const heightIn = (H + seam*2) + Math.max(maxEnd1, maxEnd2) + 3;
+        const tickDepth = seam * 0.5;
+
+        let svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${widthIn}in" height="${heightIn}in" viewBox="0 0 ${widthIn} ${heightIn}">`;
+
+        // 1. TUBE WALL
+        const wallX = 1;
+        const wallY = 1;
+        const cutW = circumference + seam * 2;
+        const cutH = H + seam * 2;
+
+        svg += `<rect x="${wallX}" y="${wallY}" width="${cutW}" height="${cutH}" fill="none" stroke="green" stroke-width="0.02" />`;
+        svg += `<rect x="${wallX + seam}" y="${wallY + seam}" width="${circumference}" height="${H}" fill="none" stroke="green" stroke-dasharray="0.1, 0.1" stroke-width="0.01" />`;
+
+        let wallTicks = "";
+        for (let i = 0; i <= 4; i++) {
+            const xOffset = wallX + seam + (circumference * (i / 4));
+            wallTicks += getSvgTick(xOffset, wallY + seam, Math.PI / 2, tickDepth);
+            wallTicks += getSvgTick(xOffset, wallY + cutH - seam, Math.PI / 2, tickDepth);
+        }
+        svg += `<path d="${wallTicks}" fill="none" stroke="green" stroke-width="0.02" />`;
+
+        // 2. END CAPS
+        const capY = wallY + cutH + Math.max(maxEnd1, maxEnd2)/2 + 1;
+        const cap1X = wallX + maxEnd1/2;
+        const cap2X = wallX + maxEnd1 + maxEnd2/2 + 1;
+
+        const buildSvgEndPiece = (style, sqSize, x, y, title) => {
+            let out = "";
+            let ticks = "";
+            if (style === 'cap') {
+                out += `<circle cx="${x}" cy="${y}" r="${D/2 + seam}" fill="none" stroke="black" stroke-width="0.02" />`;
+                for(let i=0; i<4; i++) {
+                    const angle = i * Math.PI/2;
+                    ticks += getSvgTick(x + Math.cos(angle)*(D/2 + seam), y + Math.sin(angle)*(D/2 + seam), angle, tickDepth);
+                }
+                out += `<circle cx="${x}" cy="${y}" r="${D/2}" fill="none" stroke="black" stroke-dasharray="0.1, 0.1" stroke-width="0.01" />`;
+            } else {
+                out += `<rect x="${x - sqSize/2}" y="${y - sqSize/2}" width="${sqSize}" height="${sqSize}" fill="none" stroke="black" stroke-width="0.02" />`;
+                const holeRad = Math.max(0.01, D/2 - seam);
+                out += `<circle cx="${x}" cy="${y}" r="${holeRad}" fill="none" stroke="black" stroke-width="0.02" />`;
+                for(let i=0; i<4; i++) {
+                    const angle = i * Math.PI/2;
+                    ticks += getSvgTick(x + Math.cos(angle)*holeRad, y + Math.sin(angle)*holeRad, angle, tickDepth);
+                }
+                out += `<circle cx="${x}" cy="${y}" r="${D/2}" fill="none" stroke="black" stroke-dasharray="0.1, 0.1" stroke-width="0.01" />`;
+            }
+            out += `<path d="${ticks}" fill="none" stroke="black" stroke-width="0.02" />`;
+            
+            const textOffset = style === 'hole' ? sqSize/2 : D/2 + seam;
+            out += `<text x="${x}" y="${y - textOffset - 0.2}" font-family="sans-serif" font-size="0.15" font-weight="bold" fill="black" text-anchor="middle">${title}</text>`;
+            return out;
+        };
+
+        svg += buildSvgEndPiece(capStyle1, sqSize1, cap1X, capY, capStyle1 === 'cap' ? 'END CAP 1' : 'END RECEIVER 1');
+        svg += buildSvgEndPiece(capStyle2, sqSize2, cap2X, capY, capStyle2 === 'cap' ? 'END CAP 2' : 'END RECEIVER 2');
+
+        // 3. LABELS & TEXT
+        svg += `<text x="${wallX + cutW/2}" y="${wallY + cutH/2 - 0.1}" font-family="sans-serif" font-size="0.2" font-weight="bold" fill="black" text-anchor="middle">TUBE WALL</text>`;
+        svg += `<text x="${wallX + cutW/2}" y="${wallY + cutH/2 + 0.15}" font-family="sans-serif" font-size="0.15" fill="black" text-anchor="middle">Includes ${seam}" Seam Allowance</text>`;
+
+        // 4. SCALE CHECK
+        svg += `<rect x="${wallX}" y="${wallY - 0.8}" width="1" height="1" fill="none" stroke="black" stroke-width="0.01" />`;
+        svg += `<text x="${wallX + 1.2}" y="${wallY - 0.2}" font-family="sans-serif" font-size="0.18" font-weight="bold" fill="black">1x1" SCALE CHECK</text>`;
+
+        svg += `</svg>`;
+
+        const blob = new Blob([svg], {type: 'image/svg+xml'});
+        const link = document.createElement('a');
+        link.href = URL.createObjectURL(blob);
+        link.download = `fabric-tube-template.svg`;
+        link.click();
+    }
+
+    inputs.forEach(id => document.getElementById(id).addEventListener('input', calculate));
+    calculate();
+</script>

@@ -1,7 +1,7 @@
 ---
 title: 07.03 Sewing Cones to Receiving Holes
 date: 2026-03-16T09:00:00-04:00
-lastmod: 2026-03-16T07:58:51-04:00
+lastmod: 2026-03-16T08:12:27-04:00
 ---
 
 Sewing cones, or spikes, into receiving fabric holes requires calculation of the diameters and seam allowances.
@@ -9,7 +9,7 @@ Sewing cones, or spikes, into receiving fabric holes requires calculation of the
 <div class="container py-4">
     <div class="card shadow-sm">
         <div class="card-header bg-primary text-white">
-            <h1 class="h5 mb-0">Cone & Cap Template Generator</h1>
+            <h1 class="h5 mb-0">Fabric Cone & Pillow Template Generator</h1>
         </div>
         <div class="card-body">
             <div class="row g-4">
@@ -18,17 +18,44 @@ Sewing cones, or spikes, into receiving fabric holes requires calculation of the
                         <label class="form-label fw-bold small text-uppercase">Cone Style</label>
                         <select id="coneType" class="form-select">
                             <option value="pointy">Pointy (Full Cone)</option>
-                            <option value="truncated">Truncated (Frustum)</option>
+                            <option value="truncated">Truncated (Flat Top)</option>
                         </select>
                     </div>
+                    <hr class="my-3">
                     <div class="mb-3">
-                        <label class="form-label fw-bold small text-uppercase">Base Diameter (D)</label>
+                        <label class="form-label fw-bold small text-uppercase text-primary">Base Diameter (D)</label>
                         <input type="number" id="baseDiam" class="form-control" value="10" step="0.1">
                     </div>
-                    <div id="topDiamContainer" class="mb-3" style="display:none;">
-                        <label class="form-label fw-bold small text-uppercase">Top Diameter (d)</label>
-                        <input type="number" id="topDiam" class="form-control" value="4" step="0.1">
+                    <div class="mb-3">
+                        <label class="form-label fw-bold small text-uppercase">Base Piece Style</label>
+                        <select id="baseStyle" class="form-select">
+                            <option value="cap">Solid Cap (Cone Bottom)</option>
+                            <option value="hole">Receiver Hole in Square Panel</option>
+                        </select>
                     </div>
+                    <div class="mb-3" id="baseSqSizeContainer" style="display:none;">
+                        <label class="form-label fw-bold small text-uppercase">Base Square Size</label>
+                        <input type="number" id="baseSqSize" class="form-control" value="12" step="0.5">
+                    </div>
+                    <hr class="my-3" id="topDivider" style="display:none;">
+                    <div id="topDiamContainer" style="display:none;">
+                        <div class="mb-3">
+                            <label class="form-label fw-bold small text-uppercase text-primary">Top Diameter (d)</label>
+                            <input type="number" id="topDiam" class="form-control" value="4" step="0.1">
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label fw-bold small text-uppercase">Top Piece Style</label>
+                            <select id="topStyle" class="form-select">
+                                <option value="cap">Solid Cap (Cone Top)</option>
+                                <option value="hole">Receiver Hole in Square Panel</option>
+                            </select>
+                        </div>
+                        <div class="mb-3" id="topSqSizeContainer" style="display:none;">
+                            <label class="form-label fw-bold small text-uppercase">Top Square Size</label>
+                            <input type="number" id="topSqSize" class="form-control" value="6" step="0.5">
+                        </div>
+                    </div>
+                    <hr class="my-3">
                     <div class="mb-3">
                         <label class="form-label fw-bold small text-uppercase">Vertical Height (H)</label>
                         <input type="number" id="height" class="form-control" value="8" step="0.1">
@@ -37,8 +64,7 @@ Sewing cones, or spikes, into receiving fabric holes requires calculation of the
                         <label class="form-label fw-bold small text-uppercase">Seam Allowance (Inches)</label>
                         <input type="number" id="seam" class="form-control" value="0.5" step="0.0625">
                     </div>
-                    <div id="output" class="alert alert-secondary py-2 small font-monospace">
-                        </div>
+                    <div id="output" class="alert alert-secondary py-2 small font-monospace"></div>
                     <button class="btn btn-primary w-100 fw-bold shadow-sm" onclick="exportSVG()">
                         Download 1:1 SVG
                     </button>
@@ -49,17 +75,16 @@ Sewing cones, or spikes, into receiving fabric holes requires calculation of the
                         <canvas id="coneCanvas" style="max-width: 100%; height: auto;"></canvas>
                     </div>
                     <p class="text-muted small mt-2 text-center">
-                        Blue: Wall Pattern | Black: End Caps (1:1 Scale in SVG)
+                        Solid Blue/Black: Cut Lines | Dashed: Stitch Lines | Ticks: Quarter Marks
                     </p>
                 </div>
             </div>
         </div>
     </div>
-
 </div>
 
 <script>
-    const inputs = ['coneType', 'baseDiam', 'topDiam', 'height', 'seam'];
+    const inputs = ['coneType', 'baseDiam', 'baseStyle', 'baseSqSize', 'topDiam', 'topStyle', 'topSqSize', 'height', 'seam'];
     const canvas = document.getElementById('coneCanvas');
     const ctx = canvas.getContext('2d');
     let currentData = {};
@@ -67,216 +92,352 @@ Sewing cones, or spikes, into receiving fabric holes requires calculation of the
     function calculate() {
         const type = document.getElementById('coneType').value;
         const D = parseFloat(document.getElementById('baseDiam').value) || 0;
+        const baseStyle = document.getElementById('baseStyle').value;
+        const baseSqSize = parseFloat(document.getElementById('baseSqSize').value) || (D + 4);
+        
+        let d = type === 'pointy' ? 0 : parseFloat(document.getElementById('topDiam').value) || 0;
+        const topStyle = document.getElementById('topStyle').value;
+        const topSqSize = parseFloat(document.getElementById('topSqSize').value) || (d + 4);
+        
         const H = parseFloat(document.getElementById('height').value) || 0;
         const seam = parseFloat(document.getElementById('seam').value) || 0;
-        let d = type === 'pointy' ? 0 : parseFloat(document.getElementById('topDiam').value) || 0;
 
         if (d >= D) d = D * 0.99;
-        document.getElementById('topDiamContainer').style.display = type === 'truncated' ? 'block' : 'none';
+        
+        // UI Toggles
+        document.getElementById('baseSqSizeContainer').style.display = baseStyle === 'hole' ? 'block' : 'none';
+        
+        const isTruncated = type === 'truncated';
+        document.getElementById('topDiamContainer').style.display = isTruncated ? 'block' : 'none';
+        document.getElementById('topDivider').style.display = isTruncated ? 'block' : 'none';
+        document.getElementById('topSqSizeContainer').style.display = topStyle === 'hole' ? 'block' : 'none';
 
         const slant_seg = Math.sqrt(Math.pow((D/2) - (d/2), 2) + Math.pow(H, 2));
         const Ro = (D / 2) * (slant_seg / ((D - d) / 2));
         const Ri = (d / 2) * (slant_seg / ((D - d) / 2));
         const angle = (D / (2 * Ro)) * 360;
 
-        currentData = { D, d, H, seam, Ro, Ri, angle };
+        currentData = { type, baseStyle, baseSqSize, topStyle, topSqSize, D, d, H, seam, Ro, Ri, angle };
 
-        // Simple result update
         document.getElementById('output').innerHTML = `
-            <div>Outer Rad: <strong>${Ro.toFixed(2)}"</strong></div>
-            ${Ri > 0 ? `<div>Inner Rad: <strong>${Ri.toFixed(2)}"</strong></div>` : ''}
-            <div>Arc Angle: <strong>${angle.toFixed(1)}°</strong></div>
-            <div>Base Cap: <strong>Ø${D}"</strong></div>
+            <div>Outer Rad (Stitch): <strong>${Ro.toFixed(2)}"</strong></div>
+            ${Ri > 0 ? `<div>Inner Rad (Stitch): <strong>${Ri.toFixed(2)}"</strong></div>` : ''}
+            <div>Sweep Angle: <strong>${angle.toFixed(1)}°</strong></div>
         `;
 
         drawCanvas();
     }
 
-    function drawCanvas() {
-        canvas.width = 800;
-        canvas.height = 600;
-        const { Ro, Ri, angle, D, d, seam } = currentData;
-        
-        const scale = (canvas.width * 0.6) / Math.max(Ro * 2, D + d);
-        const cx = canvas.width / 2;
-        const cy = 100;
-
+    function getGeometry(data) {
+        const { Ro, Ri, angle, seam } = data;
         const sA = (90 - angle / 2) * (Math.PI / 180);
         const eA = (90 + angle / 2) * (Math.PI / 180);
 
+        const p1 = { x: Ro * Math.cos(sA), y: Ro * Math.sin(sA) };
+        const p2 = { x: Ro * Math.cos(eA), y: Ro * Math.sin(eA) };
+        const p3 = { x: Ri * Math.cos(eA), y: Ri * Math.sin(eA) };
+        const p4 = { x: Ri * Math.cos(sA), y: Ri * Math.sin(sA) };
+
+        const dx1 = seam * Math.cos(sA - Math.PI / 2);
+        const dy1 = seam * Math.sin(sA - Math.PI / 2);
+        const dx2 = seam * Math.cos(eA + Math.PI / 2);
+        const dy2 = seam * Math.sin(eA + Math.PI / 2);
+
+        const Ro_cut = Ro + seam;
+        const Ri_cut = Ri > seam ? Ri - seam : 0;
+
+        const c1 = { x: Ro_cut * Math.cos(sA) + dx1, y: Ro_cut * Math.sin(sA) + dy1 };
+        const c2 = { x: Ro_cut * Math.cos(eA) + dx2, y: Ro_cut * Math.sin(eA) + dy2 };
+        const c3 = { x: Ri_cut * Math.cos(eA) + dx2, y: Ri_cut * Math.sin(eA) + dy2 };
+        const c4 = { x: Ri_cut * Math.cos(sA) + dx1, y: Ri_cut * Math.sin(sA) + dy1 };
+
+        const radOuter = Math.hypot(c1.x, c1.y);
+        const sA_outer = Math.atan2(c1.y, c1.x);
+        const eA_outer = Math.atan2(c2.y, c2.x);
+
+        let radInner = 0, sA_inner = 0, eA_inner = 0;
+        if (Ri_cut > 0) {
+            radInner = Math.hypot(c4.x, c4.y);
+            sA_inner = Math.atan2(c4.y, c4.x);
+            eA_inner = Math.atan2(c3.y, c3.x);
+        }
+
+        return { sA, eA, p1, p2, p3, p4, c1, c2, c3, c4, radOuter, sA_outer, eA_outer, radInner, sA_inner, eA_inner };
+    }
+
+    // Canvas helper for notches
+    function drawTick(ctx, cx, cy, rad, angle, isInner, depth, scale) {
+        const r1 = rad * scale;
+        const r2 = (isInner ? rad + depth : rad - depth) * scale;
+        ctx.beginPath();
+        ctx.moveTo(cx + r1 * Math.cos(angle), cy + r1 * Math.sin(angle));
+        ctx.lineTo(cx + r2 * Math.cos(angle), cy + r2 * Math.sin(angle));
+        ctx.stroke();
+    }
+
+    function drawCanvas() {
+        canvas.width = 800;
+        canvas.height = 600;
+        const { type, baseStyle, baseSqSize, topStyle, topSqSize, D, d, seam, Ro, Ri, angle } = currentData;
+        const geo = getGeometry(currentData);
+        
+        const maxBase = baseStyle === 'hole' ? baseSqSize : D + seam*2;
+        const maxTop = d > 0 ? (topStyle === 'hole' ? topSqSize : d + seam*2) : 0;
+        
+        // Find maximum dimension to set scale properly
+        const maxPatternWidth = Math.max(geo.radOuter * 2, maxBase + maxTop + 60);
+        const maxPatternHeight = geo.radOuter + Math.max(maxBase, maxTop) + 60;
+        
+        const scale = Math.min((canvas.width - 40) / maxPatternWidth, (canvas.height - 40) / maxPatternHeight);
+        const cx = canvas.width / 2;
+        const cy = 100;
+        const sX = (val) => cx + val * scale;
+        const sY = (val) => cy + val * scale;
+        const tickDepth = seam * 0.5;
+
         ctx.clearRect(0,0, canvas.width, canvas.height);
         
-        // --- 1. CONE CORNERS ---
-        const p1x = cx + Ro * scale * Math.cos(sA);
-        const p1y = cy + Ro * scale * Math.sin(sA);
-        const p2x = cx + Ro * scale * Math.cos(eA);
-        const p2y = cy + Ro * scale * Math.sin(eA);
-        const p3x = cx + Ri * scale * Math.cos(eA);
-        const p3y = cy + Ri * scale * Math.sin(eA);
-        const p4x = cx + Ri * scale * Math.cos(sA);
-        const p4y = cy + Ri * scale * Math.sin(sA);
-
-        // --- 2. SEAM ALLOWANCE ---
-        const normalAngle = sA - (Math.PI / 2);
-        const scaledSeam = seam * scale;
-        const dx = scaledSeam * Math.cos(normalAngle);
-        const dy = scaledSeam * Math.sin(normalAngle);
-
-        const p1_seamX = p1x + dx, p1_seamY = p1y + dy;
-        const p4_seamX = p4x + dx, p4_seamY = p4y + dy;
-
-        // --- 3. DRAW MAIN SHAPE ---
+        // --- 1. DRAW WALL PATTERN ---
         ctx.beginPath();
         ctx.strokeStyle = '#0d6efd';
         ctx.lineWidth = 2;
-        ctx.moveTo(p1_seamX, p1_seamY);
-        ctx.lineTo(p1x, p1y);
-        ctx.arc(cx, cy, Ro * scale, sA, eA);
-        ctx.lineTo(p3x, p3y);
-        if (Ri > 0) ctx.arc(cx, cy, Ri * scale, eA, sA, true);
-        else ctx.lineTo(cx, cy);
-        ctx.lineTo(p4_seamX, p4_seamY);
+        ctx.arc(cx, cy, geo.radOuter * scale, geo.sA_outer, geo.eA_outer);
+        ctx.lineTo(sX(geo.c3.x), sY(geo.c3.y));
+        if (geo.radInner > 0) ctx.arc(cx, cy, geo.radInner * scale, geo.eA_inner, geo.sA_inner, true);
+        else ctx.lineTo(sX(geo.c4.x), sY(geo.c4.y));
         ctx.closePath();
         ctx.fillStyle = 'rgba(13, 110, 253, 0.05)';
         ctx.fill();
         ctx.stroke();
 
-        // Fold line
-        if (seam > 0) {
+        // Quarter Marks for Cone Wall
+        ctx.strokeStyle = '#0d6efd';
+        const span = geo.eA - geo.sA;
+        [0.25, 0.5, 0.75].forEach(pct => {
+            const ang = geo.sA + span * pct;
+            drawTick(ctx, cx, cy, geo.radOuter, ang, false, tickDepth, scale);
+            if (geo.radInner > 0) drawTick(ctx, cx, cy, geo.radInner, ang, true, tickDepth, scale);
+        });
+
+        // Stitch Lines
+        ctx.beginPath();
+        ctx.setLineDash([5, 5]);
+        ctx.strokeStyle = '#0a58ca';
+        ctx.arc(cx, cy, Ro * scale, geo.sA, geo.eA);
+        ctx.lineTo(sX(geo.p3.x), sY(geo.p3.y));
+        if (Ri > 0) ctx.arc(cx, cy, Ri * scale, geo.eA, geo.sA, true);
+        ctx.closePath();
+        ctx.stroke();
+        ctx.setLineDash([]);
+
+        // --- 2. DRAW BASE PIECE ---
+        const capY = cy + (geo.radOuter * scale) + Math.max(maxBase, maxTop)*scale/2 + 20;
+        const baseCapX = cx - (maxBase*scale/2) - 15;
+        
+        ctx.strokeStyle = '#212529';
+        if (baseStyle === 'cap') {
+            ctx.beginPath();
+            ctx.arc(baseCapX, capY, (D/2 + seam) * scale, 0, Math.PI * 2);
+            ctx.stroke();
+            
+            for(let i=0; i<4; i++) drawTick(ctx, baseCapX, capY, D/2 + seam, i * Math.PI/2, false, tickDepth, scale);
+
             ctx.beginPath();
             ctx.setLineDash([5, 5]);
-            ctx.moveTo(p1x, p1y);
-            ctx.lineTo(p4x, p4y);
+            ctx.arc(baseCapX, capY, (D/2) * scale, 0, Math.PI * 2);
             ctx.stroke();
-            ctx.setLineDash([]);
-        }
-
-        // --- 4. DRAW CAPS ---
-        ctx.setLineDash([5, 5]);
-        ctx.strokeStyle = '#6c757d';
-        
-        const baseCapX = cx - (D*scale/2) - 10;
-        const capY = cy + (Ro * scale) + 80;
-        
-        ctx.beginPath();
-        ctx.arc(baseCapX, capY, (D/2) * scale, 0, Math.PI * 2);
-        ctx.stroke();
-
-        let topCapX = 0;
-        if (d > 0) {
-            topCapX = cx + (d*scale/2) + 10;
+        } else {
             ctx.beginPath();
-            ctx.arc(topCapX, capY, (d/2) * scale, 0, Math.PI * 2);
+            ctx.rect(baseCapX - (baseSqSize*scale/2), capY - (baseSqSize*scale/2), baseSqSize*scale, baseSqSize*scale);
+            ctx.stroke();
+            
+            const holeRadius = Math.max(0.1, D/2 - seam);
+            ctx.beginPath();
+            ctx.arc(baseCapX, capY, holeRadius * scale, 0, Math.PI * 2);
+            ctx.stroke();
+
+            for(let i=0; i<4; i++) drawTick(ctx, baseCapX, capY, holeRadius, i * Math.PI/2, true, tickDepth, scale);
+            
+            ctx.beginPath();
+            ctx.setLineDash([5, 5]);
+            ctx.arc(baseCapX, capY, (D/2) * scale, 0, Math.PI * 2);
             ctx.stroke();
         }
         ctx.setLineDash([]);
 
-        // --- 5. DRAW LABELS & DIMENSIONS ---
-        ctx.fillStyle = '#212529'; // Bootstrap Dark
+        // --- 3. DRAW TOP PIECE ---
+        let topCapX = 0;
+        if (d > 0) {
+            topCapX = cx + (maxTop*scale/2) + 15;
+            
+            if (topStyle === 'cap') {
+                ctx.beginPath();
+                ctx.arc(topCapX, capY, (d/2 + seam) * scale, 0, Math.PI * 2);
+                ctx.stroke();
+                
+                for(let i=0; i<4; i++) drawTick(ctx, topCapX, capY, d/2 + seam, i * Math.PI/2, false, tickDepth, scale);
+
+                ctx.beginPath();
+                ctx.setLineDash([5, 5]);
+                ctx.arc(topCapX, capY, (d/2) * scale, 0, Math.PI * 2);
+                ctx.stroke();
+            } else {
+                ctx.beginPath();
+                ctx.rect(topCapX - (topSqSize*scale/2), capY - (topSqSize*scale/2), topSqSize*scale, topSqSize*scale);
+                ctx.stroke();
+                
+                const holeRadius = Math.max(0.1, d/2 - seam);
+                ctx.beginPath();
+                ctx.arc(topCapX, capY, holeRadius * scale, 0, Math.PI * 2);
+                ctx.stroke();
+
+                for(let i=0; i<4; i++) drawTick(ctx, topCapX, capY, holeRadius, i * Math.PI/2, true, tickDepth, scale);
+                
+                ctx.beginPath();
+                ctx.setLineDash([5, 5]);
+                ctx.arc(topCapX, capY, (d/2) * scale, 0, Math.PI * 2);
+                ctx.stroke();
+            }
+            ctx.setLineDash([]);
+        }
+
+        // --- 4. DRAW LABELS & SCALE ---
+        ctx.fillStyle = '#212529';
         ctx.textAlign = 'center';
         ctx.textBaseline = 'middle';
-        
-        // Wall Pattern Text (Centered in the arc)
-        const midR = Ri + (Ro - Ri) / 2;
-        const textY = cy + midR * scale;
+        const textY = cy + (Ri + (Ro - Ri) / 2) * scale;
         ctx.font = 'bold 14px sans-serif';
-        ctx.fillText('WALL PATTERN', cx, textY - 12);
+        ctx.fillText('CONE WALL', cx, textY - 12);
         ctx.font = '12px sans-serif';
-        ctx.fillText(`Ro: ${Ro.toFixed(2)}" | Ri: ${Ri.toFixed(2)}"`, cx, textY + 5);
-        ctx.fillText(`Angle: ${angle.toFixed(1)}° | Seam: ${seam}"`, cx, textY + 20);
+        ctx.fillText(`Includes ${seam}" Seam Allowance`, cx, textY + 5);
 
-        // Caps Text
         ctx.font = 'bold 12px sans-serif';
-        ctx.fillText('BASE CAP', baseCapX, capY - 8);
+        ctx.fillText(baseStyle === 'cap' ? 'BASE CAP' : 'BASE RECEIVER', baseCapX, capY - (baseStyle === 'hole' ? baseSqSize*scale/2 + 15 : D/2*scale + seam*scale + 15));
         ctx.font = '12px sans-serif';
-        ctx.fillText(`Ø ${D}"`, baseCapX, capY + 8);
+        ctx.fillText(`Stitch: Ø${D}"`, baseCapX, capY + (baseStyle === 'hole' ? 0 : 5));
 
         if (d > 0) {
             ctx.font = 'bold 12px sans-serif';
-            ctx.fillText('TOP CAP', topCapX, capY - 8);
+            ctx.fillText(topStyle === 'cap' ? 'TOP CAP' : 'TOP RECEIVER', topCapX, capY - (topStyle === 'hole' ? topSqSize*scale/2 + 15 : d/2*scale + seam*scale + 15));
             ctx.font = '12px sans-serif';
-            ctx.fillText(`Ø ${d}"`, topCapX, capY + 8);
+            ctx.fillText(`Stitch: Ø${d}"`, topCapX, capY + (topStyle === 'hole' ? 0 : 5));
         }
 
-        // --- 6. DRAW SCALE CHECK SQUARE ---
-        const sqSize = 1 * scale; // 1 inch scaled
+        const sSize = 1 * scale; 
         ctx.strokeStyle = '#000';
-        ctx.lineWidth = 1;
-        ctx.strokeRect(20, 20, sqSize, sqSize);
+        ctx.strokeRect(20, 20, sSize, sSize);
         ctx.textAlign = 'left';
-        ctx.font = 'bold 12px sans-serif';
-        ctx.fillText('1x1" SCALE CHECK', 20 + sqSize + 10, 20 + sqSize/2);
+        ctx.fillText('1x1" SCALE', 20 + sSize + 10, 20 + sSize/2);
     }
 
-function exportSVG() {
-        const { Ro, Ri, angle, seam, D, d } = currentData;
-        
-        const sA = (90 - angle / 2) * (Math.PI / 180);
-        const eA = (90 + angle / 2) * (Math.PI / 180);
-        
-        // 1. Calculate Y-offset and center points
-        const minYOffset = Math.min(0, Ro * Math.sin(sA), Ro * Math.sin(eA));
-        const cx = (Math.max(Ro * 2, D + d + 2) / 2) + seam; 
-        const cy = Math.abs(minYOffset) + seam + 1; 
-        
-        const widthIn = cx * 2;
-        const heightIn = cy + Ro + Math.max(D, d) + 2;
+    // SVG Helper for notches
+    function getSvgTick(cx, cy, rad, angle, isInner, depth) {
+        const r1 = rad;
+        const r2 = isInner ? rad + depth : rad - depth;
+        return `M ${cx + r1 * Math.cos(angle)} ${cy + r1 * Math.sin(angle)} L ${cx + r2 * Math.cos(angle)} ${cy + r2 * Math.sin(angle)} `;
+    }
 
-        // 2. Cone points and Seam math
-        const p1x = cx + Ro * Math.cos(sA), p1y = cy + Ro * Math.sin(sA);
-        const p2x = cx + Ro * Math.cos(eA), p2y = cy + Ro * Math.sin(eA);
-        const p3x = cx + Ri * Math.cos(eA), p3y = cy + Ri * Math.sin(eA);
-        const p4x = cx + Ri * Math.cos(sA), p4y = cy + Ri * Math.sin(sA);
+    function exportSVG() {
+        const { type, baseStyle, baseSqSize, topStyle, topSqSize, D, d, seam, Ro, Ri, angle } = currentData;
+        const geo = getGeometry(currentData);
+        
+        const maxBase = baseStyle === 'hole' ? baseSqSize : D + seam*2;
+        const maxTop = d > 0 ? (topStyle === 'hole' ? topSqSize : d + seam*2) : 0;
 
-        const normalAngle = sA - (Math.PI / 2);
-        const dx = seam * Math.cos(normalAngle);
-        const dy = seam * Math.sin(normalAngle);
-        const p1_seamX = p1x + dx, p1_seamY = p1y + dy;
-        const p4_seamX = p4x + dx, p4_seamY = p4y + dy;
-
-        const largeArc = angle > 180 ? 1 : 0;
+        const minYOffset = Math.min(0, geo.radOuter * Math.sin(geo.sA_outer), geo.radOuter * Math.sin(geo.eA_outer));
+        
+        // Calculate safe bounding boxes to prevent clipping
+        const cx = Math.max(geo.radOuter, maxBase) + maxTop/2 + 1; 
+        const cy = Math.abs(minYOffset) + 1; 
+        
+        const widthIn = cx * 2.5;
+        const heightIn = cy + geo.radOuter + Math.max(maxBase, maxTop) + seam*2 + 4;
+        const tickDepth = seam * 0.5;
 
         let svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${widthIn}in" height="${heightIn}in" viewBox="0 0 ${widthIn} ${heightIn}">`;
-        
-        // 3. Draw Shapes
-        svg += `<path d="M ${p1_seamX} ${p1_seamY} L ${p1x} ${p1y} A ${Ro} ${Ro} 0 ${largeArc} 1 ${p2x} ${p2y} L ${p3x} ${p3y} `;
-        if (Ri > 0) svg += `A ${Ri} ${Ri} 0 ${largeArc} 0 ${p4x} ${p4y} `;
-        else svg += `L ${cx} ${cy} `;
-        svg += `L ${p4_seamX} ${p4_seamY} Z" fill="none" stroke="blue" stroke-width="0.02" />`;
+        let sweepOuter = geo.eA_outer - geo.sA_outer;
+        if (sweepOuter < 0) sweepOuter += 2 * Math.PI; 
+        const largeArcOuter = sweepOuter > Math.PI ? 1 : 0;
 
-        if (seam > 0) {
-            svg += `<line x1="${p4x}" y1="${p4y}" x2="${p1x}" y2="${p1y}" stroke="blue" stroke-dasharray="0.1, 0.1" stroke-width="0.01" />`;
+        let sweepInner = geo.eA_inner - geo.sA_inner;
+        if (sweepInner < 0) sweepInner += 2 * Math.PI;
+        const largeArcInner = sweepInner > Math.PI ? 1 : 0;
+
+        // 1. CONE WALL CUT LINE
+        svg += `<path d="M ${cx + geo.c1.x} ${cy + geo.c1.y} A ${geo.radOuter} ${geo.radOuter} 0 ${largeArcOuter} 1 ${cx + geo.c2.x} ${cy + geo.c2.y} L ${cx + geo.c3.x} ${cy + geo.c3.y} `;
+        if (geo.radInner > 0) svg += `A ${geo.radInner} ${geo.radInner} 0 ${largeArcInner} 0 ${cx + geo.c4.x} ${cy + geo.c4.y} `;
+        else svg += `L ${cx + geo.c4.x} ${cy + geo.c4.y} `;
+        svg += `Z" fill="none" stroke="blue" stroke-width="0.02" />`;
+
+        // 1b. CONE WALL QUARTER MARKS
+        let coneTicks = "";
+        const span = geo.eA - geo.sA;
+        [0.25, 0.5, 0.75].forEach(pct => {
+            const ang = geo.sA + span * pct;
+            coneTicks += getSvgTick(cx, cy, geo.radOuter, ang, false, tickDepth);
+            if (geo.radInner > 0) coneTicks += getSvgTick(cx, cy, geo.radInner, ang, true, tickDepth);
+        });
+        svg += `<path d="${coneTicks}" fill="none" stroke="blue" stroke-width="0.02" />`;
+
+        // 2. CONE WALL STITCH LINE
+        svg += `<path d="M ${cx + geo.p1.x} ${cy + geo.p1.y} A ${Ro} ${Ro} 0 ${largeArcOuter} 1 ${cx + geo.p2.x} ${cy + geo.p2.y} L ${cx + geo.p3.x} ${cy + geo.p3.y} `;
+        if (Ri > 0) svg += `A ${Ri} ${Ri} 0 ${largeArcInner} 0 ${cx + geo.p4.x} ${cy + geo.p4.y} `;
+        svg += `Z" fill="none" stroke="blue" stroke-dasharray="0.1, 0.1" stroke-width="0.01" />`;
+
+        // 3. BASE PIECE
+        const capY = cy + geo.radOuter + Math.max(maxBase, maxTop)/2 + 1;
+        const baseCapX = cx - maxBase/2 - 0.5;
+        let baseTicks = "";
+
+        if (baseStyle === 'cap') {
+            svg += `<circle cx="${baseCapX}" cy="${capY}" r="${D/2 + seam}" fill="none" stroke="black" stroke-width="0.02" />`;
+            for(let i=0; i<4; i++) baseTicks += getSvgTick(baseCapX, capY, D/2 + seam, i * Math.PI/2, false, tickDepth);
+            svg += `<circle cx="${baseCapX}" cy="${capY}" r="${D/2}" fill="none" stroke="black" stroke-dasharray="0.1, 0.1" stroke-width="0.01" />`;
+        } else {
+            svg += `<rect x="${baseCapX - baseSqSize/2}" y="${capY - baseSqSize/2}" width="${baseSqSize}" height="${baseSqSize}" fill="none" stroke="black" stroke-width="0.02" />`;
+            const holeRad = Math.max(0.01, D/2 - seam);
+            svg += `<circle cx="${baseCapX}" cy="${capY}" r="${holeRad}" fill="none" stroke="black" stroke-width="0.02" />`;
+            for(let i=0; i<4; i++) baseTicks += getSvgTick(baseCapX, capY, holeRad, i * Math.PI/2, true, tickDepth);
+            svg += `<circle cx="${baseCapX}" cy="${capY}" r="${D/2}" fill="none" stroke="black" stroke-dasharray="0.1, 0.1" stroke-width="0.01" />`;
         }
-
-        const baseCy = cy + Ro + (D/2) + seam + 0.5;
-        const baseCapX = cx - (D/2) - 0.5;
-        svg += `<circle cx="${baseCapX}" cy="${baseCy}" r="${D/2}" fill="none" stroke="black" stroke-width="0.01" />`;
+        svg += `<path d="${baseTicks}" fill="none" stroke="black" stroke-width="0.02" />`;
         
+        // 4. TOP PIECE
         let topCapX = 0;
         if (d > 0) {
-            topCapX = cx + (d/2) + 0.5;
-            svg += `<circle cx="${topCapX}" cy="${baseCy}" r="${d/2}" fill="none" stroke="black" stroke-width="0.01" />`;
+            topCapX = cx + maxTop/2 + 0.5;
+            let topTicks = "";
+
+            if (topStyle === 'cap') {
+                svg += `<circle cx="${topCapX}" cy="${capY}" r="${d/2 + seam}" fill="none" stroke="black" stroke-width="0.02" />`;
+                for(let i=0; i<4; i++) topTicks += getSvgTick(topCapX, capY, d/2 + seam, i * Math.PI/2, false, tickDepth);
+                svg += `<circle cx="${topCapX}" cy="${capY}" r="${d/2}" fill="none" stroke="black" stroke-dasharray="0.1, 0.1" stroke-width="0.01" />`;
+            } else {
+                svg += `<rect x="${topCapX - topSqSize/2}" y="${capY - topSqSize/2}" width="${topSqSize}" height="${topSqSize}" fill="none" stroke="black" stroke-width="0.02" />`;
+                const holeRad = Math.max(0.01, d/2 - seam);
+                svg += `<circle cx="${topCapX}" cy="${capY}" r="${holeRad}" fill="none" stroke="black" stroke-width="0.02" />`;
+                for(let i=0; i<4; i++) topTicks += getSvgTick(topCapX, capY, holeRad, i * Math.PI/2, true, tickDepth);
+                svg += `<circle cx="${topCapX}" cy="${capY}" r="${d/2}" fill="none" stroke="black" stroke-dasharray="0.1, 0.1" stroke-width="0.01" />`;
+            }
+            svg += `<path d="${topTicks}" fill="none" stroke="black" stroke-width="0.02" />`;
         }
 
-        // 4. DRAW LABELS & DIMENSIONS (Scaled for inches)
-        const midR = Ri + (Ro - Ri) / 2;
-        const textY = cy + midR;
+        // 5. LABELS & TEXT
+        const textY = cy + Ri + (Ro - Ri) / 2;
+        svg += `<text x="${cx}" y="${textY}" font-family="sans-serif" font-size="0.2" font-weight="bold" fill="black" text-anchor="middle">CONE WALL</text>`;
+        svg += `<text x="${cx}" y="${textY + 0.25}" font-family="sans-serif" font-size="0.15" fill="black" text-anchor="middle">Includes ${seam}" Seam Allowance</text>`;
         
-        // Wall Pattern Text
-        svg += `<text x="${cx}" y="${textY - 0.2}" font-family="sans-serif" font-size="0.2" font-weight="bold" fill="black" text-anchor="middle">WALL PATTERN</text>`;
-        svg += `<text x="${cx}" y="${textY + 0.1}" font-family="sans-serif" font-size="0.15" fill="black" text-anchor="middle">Ro: ${Ro.toFixed(2)}" | Ri: ${Ri.toFixed(2)}"</text>`;
-        svg += `<text x="${cx}" y="${textY + 0.35}" font-family="sans-serif" font-size="0.15" fill="black" text-anchor="middle">Angle: ${angle.toFixed(1)}° | Seam: ${seam}"</text>`;
-
-        // Caps Text
-        svg += `<text x="${baseCapX}" y="${baseCy - 0.1}" font-family="sans-serif" font-size="0.15" font-weight="bold" fill="black" text-anchor="middle">BASE CAP</text>`;
-        svg += `<text x="${baseCapX}" y="${baseCy + 0.15}" font-family="sans-serif" font-size="0.15" fill="black" text-anchor="middle">Ø ${D}"</text>`;
-
+        const baseTitle = baseStyle === 'cap' ? 'BASE CAP' : 'BASE RECEIVER';
+        const baseOffset = baseStyle === 'hole' ? baseSqSize/2 : D/2 + seam;
+        svg += `<text x="${baseCapX}" y="${capY - baseOffset - 0.2}" font-family="sans-serif" font-size="0.15" font-weight="bold" fill="black" text-anchor="middle">${baseTitle}</text>`;
+        
         if (d > 0) {
-            svg += `<text x="${topCapX}" y="${baseCy - 0.1}" font-family="sans-serif" font-size="0.15" font-weight="bold" fill="black" text-anchor="middle">TOP CAP</text>`;
-            svg += `<text x="${topCapX}" y="${baseCy + 0.15}" font-family="sans-serif" font-size="0.15" fill="black" text-anchor="middle">Ø ${d}"</text>`;
+            const topTitle = topStyle === 'cap' ? 'TOP CAP' : 'TOP RECEIVER';
+            const topOffset = topStyle === 'hole' ? topSqSize/2 : d/2 + seam;
+            svg += `<text x="${topCapX}" y="${capY - topOffset - 0.2}" font-family="sans-serif" font-size="0.15" font-weight="bold" fill="black" text-anchor="middle">${topTitle}</text>`;
         }
 
-        // 5. DRAW SCALE CHECK SQUARE
+        // 6. SCALE CHECK
         svg += `<rect x="0.5" y="0.5" width="1" height="1" fill="none" stroke="black" stroke-width="0.01" />`;
         svg += `<text x="1.7" y="1.05" font-family="sans-serif" font-size="0.18" font-weight="bold" fill="black">1x1" SCALE CHECK</text>`;
 
@@ -285,7 +446,7 @@ function exportSVG() {
         const blob = new Blob([svg], {type: 'image/svg+xml'});
         const link = document.createElement('a');
         link.href = URL.createObjectURL(blob);
-        link.download = `cone-template.svg`;
+        link.download = `fabric-cone-template.svg`;
         link.click();
     }
 

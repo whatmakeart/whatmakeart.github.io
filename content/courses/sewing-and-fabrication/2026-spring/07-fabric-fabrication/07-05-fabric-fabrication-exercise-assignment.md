@@ -1,7 +1,7 @@
 ---
-title: 07.03 Fabric Fabrication Exercise Assignment
+title: 07.05 Fabric Fabrication Exercise Assignment
 date: 2026-03-16T09:00:00-04:00
-lastmod: 2026-03-16T06:26:36-04:00
+lastmod: 2026-03-16T08:15:18-04:00
 ---
 
 ## Assignment Deliverables
