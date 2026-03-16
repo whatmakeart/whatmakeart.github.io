@@ -1,7 +1,7 @@
 ---
 title: 07.05 Fabric Fabrication Exercise Assignment
 date: 2026-03-16T09:00:00-04:00
-lastmod: 2026-03-16T08:15:18-04:00
+lastmod: 2026-03-16T09:47:43-04:00
 ---
 
 ## Assignment Deliverables
@@ -34,12 +34,11 @@ This exercise builds pattern drafting skills, sewing accuracy, and understanding
 
 <div class="responsive-table-markdown">
 
-| Assessment                        | Weight    |
-| --------------------------------- | --------- |
-| Outseams Sewn                     | 20 points |
-| Inseams Sewn                      | 20 points |
-| Center Back Seam Sewn             | 20 points |
-| Center Front Seam Sewn            | 20 points |
-| Fabric Construction and Alignment | 20 points |
+| Assessment             | Weight    |
+| ---------------------- | --------- |
+| Cap Seam Sewn          | 25 points |
+| Tube Seam Sewn         | 25 points |
+| Hole Seam Sewn         | 25 points |
+| Lack of Seam Puckering | 25 points |
 
 </div>
