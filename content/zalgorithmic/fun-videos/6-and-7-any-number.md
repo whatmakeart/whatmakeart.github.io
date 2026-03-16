@@ -1,24 +1,41 @@
 ---
 title: 6 and 7 any number
 date: 2026-03-16T16:06:22-04:00
-lastmod: 2026-03-16T16:36:23-04:00
+lastmod: 2026-03-16T17:30:42-04:00
 ---
 
 <div class="container py-5 text-center" style="max-width: 900px;">
   <div class="mb-4">
     <h1 class="display-6 fw-bolder text-uppercase text-body-emphasis mb-1">The 6 & 7 Fever Dream</h1>
-    <p class="text-muted small">Generating random realities every 3 seconds...</p>
   </div>
-  <div id="memeContainer" class="card shadow-lg border-0 py-5 px-3 bg-primary text-white" style="transition: background-color 0.4s ease, transform 0.2s ease; min-height: 400px; display: flex; justify-content: center;">
+  <div id="memeContainer" class="card shadow-lg border-0 py-5 px-3 mb-4 position-relative" style="transition: background-color 0.4s ease, transform 0.2s ease; min-height: 400px; display: flex; justify-content: center;">
+    <div id="cornerDownloadBtn" class="position-absolute top-0 end-0 p-3 opacity-75 fw-bold small text-uppercase" style="cursor: pointer; transition: opacity 0.2s;" title="Click to download JPG" role="button" onmouseover="this.classList.replace('opacity-75', 'opacity-100')" onmouseout="this.classList.replace('opacity-100', 'opacity-75')">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download me-1" viewBox="0 0 16 16" style="margin-top:-3px;">
+        <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+        <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+      </svg>Click to save
+    </div>
     <div class="card-body d-flex flex-column justify-content-center align-items-center">
-      <div id="memeText" class="display-3 fw-bolder lh-sm text-break">
+      <div id="memeText" class="display-2 fw-bolder lh-sm text-break pointer-events-none">
         Initializing Math...
       </div>
     </div>
   </div>
-  <div class="mt-5">
-    <button id="toggleBtn" class="btn btn-dark btn-lg rounded-pill px-5 shadow-sm fw-bold text-uppercase">
-      Pause the Madness
+  <div class="d-flex flex-column flex-sm-row justify-content-center align-items-center gap-3 mt-4">
+    <button id="toggleBtn" class="btn btn-dark border border-3 border-secondary btn-lg rounded-pill px-4 shadow-sm fw-bold text-uppercase">
+      Pause Madness
+    </button>
+    <button id="copyBtn" class="btn btn-outline-primary btn-lg rounded-pill px-4 shadow-sm fw-bold">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clipboard me-2" viewBox="0 0 16 16" style="margin-top:-3px;">
+        <path d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1h1a1 1 0 0 1 1 1V14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3.5a1 1 0 0 1 1-1h1v-1z"/>
+        <path d="M9.5 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5h3zm-3-1A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0h-3z"/>
+      </svg>Copy Sentence
+    </button>
+    <button id="downloadBtn" class="btn btn-outline-success btn-lg rounded-pill px-4 shadow-sm fw-bold">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download me-2" viewBox="0 0 16 16" style="margin-top:-3px;">
+        <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+        <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+      </svg>Download JPG
     </button>
   </div>
 </div>
@@ -28,35 +45,39 @@ lastmod: 2026-03-16T16:36:23-04:00
     const memeText = document.getElementById('memeText');
     const memeContainer = document.getElementById('memeContainer');
     const toggleBtn = document.getElementById('toggleBtn');
+    const copyBtn = document.getElementById('copyBtn');
+    const downloadBtn = document.getElementById('downloadBtn');
+    const cornerDownloadBtn = document.getElementById('cornerDownloadBtn'); // Added specific reference
     
-    // Pure Bootstrap 5 color classes for the background cycle
-    const colors = [
-      'bg-primary text-white', 
-      'bg-danger text-white', 
-      'bg-success text-white', 
-      'bg-warning text-dark', 
-      'bg-info text-dark', 
-      'bg-dark text-white'
+    const themeData = [
+      { class: 'bg-primary text-white', bgHex: '#0d6efd', textHex: '#ffffff' },
+      { class: 'bg-danger text-white', bgHex: '#dc3545', textHex: '#ffffff' },
+      { class: 'bg-success text-white', bgHex: '#198754', textHex: '#ffffff' },
+      { class: 'bg-warning text-dark', bgHex: '#ffc107', textHex: '#212529' },
+      { class: 'bg-info text-dark', bgHex: '#0dcaf0', textHex: '#212529' },
+      { class: 'bg-dark text-white', bgHex: '#212529', textHex: '#ffffff' }
     ];
-    let colorIndex = 0;
+    
+    let themeIndex = 0;
     let intervalId = null;
     let isPlaying = true;
+    
+    let currentData = { b6: "0", b7: "0", base: "0", sentence: "" };
 
-    // Formatting to keep the numbers wild but readable on screen
     function formatNumber(value) {
       if (value === 0) return "0";
       const abs = Math.abs(value);
-      if (abs >= 1000000 || (abs > 0 && abs < 0.001)) {
-        return value.toExponential(4).replace(/\.?0+e/, 'e');
+      let formatted;
+      if (abs >= 100000 || (abs > 0 && abs < 0.001)) {
+        formatted = value.toExponential(3).replace(/\.?0+e/, 'e');
+      } else {
+        formatted = parseFloat(value.toFixed(4)).toString();
       }
-      return Number(value.toFixed(4)).toString();
+      return String(formatted).slice(0, 8); 
     }
 
     function generateMeme() {
-      // 1. Generate a wild random number (from 0.01 to 10,000)
       const randomBaseValue = Math.pow(10, (Math.random() * 6) - 2);
-      
-      // 2. Flip a coin: is this random number b^6 or b^7?
       const isB6 = Math.random() > 0.5;
       
       let b6, b7, base;
@@ -67,27 +88,29 @@ lastmod: 2026-03-16T16:36:23-04:00
         b7 = Math.pow(base, 7);
       } else {
         b7 = randomBaseValue;
-        // Handling negative/positive odd root just in case, though our random is positive
         base = Math.sign(b7) * Math.pow(Math.abs(b7), 1 / 7); 
         b6 = Math.pow(base, 6);
       }
 
-      // 3. Update the text with massive emphasis
+      currentData.b6 = formatNumber(b6);
+      currentData.b7 = formatNumber(b7);
+      currentData.base = formatNumber(base);
+      currentData.sentence = `${currentData.b6} and ${currentData.b7} are basically 6 and 7 in base ${currentData.base}`;
+
       memeText.innerHTML = `
-        <span class="text-decoration-underline">${formatNumber(b6)}</span><br>
-        <span class="fs-4 fw-normal text-uppercase opacity-75 my-2 d-block">and</span>
-        <span class="text-decoration-underline">${formatNumber(b7)}</span><br>
-        <div class="mt-4 fs-3 fw-bold opacity-75">are basically 6 and 7 in base</div>
-        <div class="display-1 fw-black mt-2">${formatNumber(base)}</div>
+        <div class="display-1 fw-black text-break mb-1">${currentData.b6}</div>
+        <div class="fs-4 fw-bold text-uppercase my-2 opacity-75">and</div>
+        <div class="display-1 fw-black text-break mt-1">${currentData.b7}</div>
+        <div class="fs-3 fw-bold mt-4 opacity-75">are basically 6 and 7 in base</div>
+        <div class="display-1 fw-black mt-2 font-monospace">${currentData.base}</div>
       `;
 
-      // 4. Cycle the background color
-      memeContainer.className = `card shadow-lg border-0 py-5 px-3 ${colors[colorIndex]}`;
-      // Add a tiny bump animation
+      // Update the class string without touching our position/relative setup
+      memeContainer.className = `card shadow-lg border-0 py-5 px-3 mb-4 position-relative ${themeData[themeIndex].class}`;
       memeContainer.style.transform = 'scale(1.02)';
       setTimeout(() => memeContainer.style.transform = 'scale(1)', 150);
 
-      colorIndex = (colorIndex + 1) % colors.length;
+      themeIndex = (themeIndex + 1) % themeData.length;
     }
 
     function toggleMadness() {
@@ -95,25 +118,102 @@ lastmod: 2026-03-16T16:36:23-04:00
         clearInterval(intervalId);
         toggleBtn.innerText = "Resume Reality";
         toggleBtn.classList.replace('btn-dark', 'btn-outline-dark');
-        isPlaying = false;
       } else {
-        generateMeme(); // Generate immediately on resume
+        generateMeme();
         intervalId = setInterval(generateMeme, 3000);
-        toggleBtn.innerText = "Pause the Madness";
+        toggleBtn.innerText = "Pause Madness";
         toggleBtn.classList.replace('btn-outline-dark', 'btn-dark');
-        isPlaying = true;
       }
+      isPlaying = !isPlaying;
     }
 
-    toggleBtn.addEventListener('click', toggleMadness);
+    function copySentence() {
+      const originalHTML = copyBtn.innerHTML;
+      navigator.clipboard.writeText(currentData.sentence).then(() => {
+        copyBtn.innerHTML = "Copied!";
+        copyBtn.classList.replace('btn-outline-primary', 'btn-primary');
+        copyBtn.classList.add('text-white');
+        setTimeout(() => {
+          copyBtn.innerHTML = originalHTML;
+          copyBtn.classList.replace('btn-primary', 'btn-outline-primary');
+          copyBtn.classList.remove('text-white');
+        }, 1500);
+      });
+    }
 
-    // Kick it off
+    function downloadJPG(e) {
+      if (e) e.stopPropagation(); // Stop event bubbling if needed
+      
+      const canvas = document.createElement('canvas');
+      canvas.width = 1080;
+      canvas.height = 1080;
+      const ctx = canvas.getContext('2d');
+      
+      const currentTheme = themeIndex === 0 ? themeData[themeData.length - 1] : themeData[themeIndex - 1];
+
+      // Solid background
+      ctx.fillStyle = currentTheme.bgHex;
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+      // Thick inner meme border
+      ctx.strokeStyle = currentTheme.textHex;
+      ctx.lineWidth = 15;
+      ctx.strokeRect(30, 30, 1020, 1020);
+
+      const centerX = canvas.width / 2;
+      ctx.textAlign = 'center';
+
+      // Draw the core meme content
+      ctx.font = '900 160px sans-serif';
+      ctx.fillStyle = currentTheme.textHex;
+      ctx.fillText(currentData.b6, centerX, 260);
+
+      ctx.font = 'bold 50px sans-serif';
+      ctx.fillStyle = currentTheme.textHex + 'E6'; 
+      ctx.fillText('AND', centerX, 410);
+
+      ctx.font = '900 160px sans-serif';
+      ctx.fillStyle = currentTheme.textHex;
+      ctx.fillText(currentData.b7, centerX, 590);
+
+      ctx.font = 'bold 55px sans-serif';
+      ctx.fillStyle = currentTheme.textHex + 'E6';
+      ctx.fillText('are basically 6 and 7 in base', centerX, 760);
+
+      ctx.font = '900 180px monospace';
+      ctx.fillStyle = currentTheme.textHex;
+      ctx.fillText(currentData.base, centerX, 960);
+
+      // Subdued but clear watermark
+      ctx.font = 'bold 26px sans-serif';
+      ctx.textAlign = 'right';
+      ctx.fillStyle = currentTheme.textHex + 'AA'; 
+      ctx.fillText('whatmakeart.com', 1010, 1010);
+
+      // Fire off the download
+      const safeFilename = `6-and-7-base-${currentData.base.replace(/[^a-zA-Z0-9-]/g, '-')}-whatmakeart.jpg`;
+      const link = document.createElement('a');
+      link.download = safeFilename;
+      link.href = canvas.toDataURL('image/jpeg', 0.95); 
+      link.click();
+    }
+
+    // Attach all event listeners
+    toggleBtn.addEventListener('click', toggleMadness);
+    copyBtn.addEventListener('click', copySentence);
+    downloadBtn.addEventListener('click', downloadJPG);
+    
+    // Wire up ONLY the corner badge to trigger the download
+    cornerDownloadBtn.addEventListener('click', downloadJPG);
+
     generateMeme();
     intervalId = setInterval(generateMeme, 3000);
   })();
 </script>
 
-Enter one number, choose whether it represents <strong>b⁶</strong> or <strong>b⁷</strong>, and the calculator solves the real-number base and shows both the 6th and 7th powers in that base.
+## 6 and 7 Calculator
+
+Enter one number, choose whether it represents <strong>b⁶</strong> or <strong>b⁷</strong>, and the calculator solves the real-number base and shows both the 6th and 7th powers in that base, or what 6 and 7 would be in that base.
 
 <div class="container py-4" style="max-width: 800px;">
   <div class="card shadow-sm mb-4 border-0 bg-body-tertiary">
