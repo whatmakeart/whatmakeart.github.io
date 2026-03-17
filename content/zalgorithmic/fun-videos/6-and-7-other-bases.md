@@ -1,7 +1,9 @@
 ---
 title: 6 and 7 Other Bases
 date: 2026-03-16T16:06:22-04:00
-lastmod: 2026-03-16T19:54:39-04:00
+lastmod: 2026-03-16T20:07:50-04:00
+aliases:
+  - /zalgorithmic/fun-videos/6-and-7-any-number/
 ---
 
 <div class="container py-5">
@@ -82,57 +84,44 @@ lastmod: 2026-03-16T19:54:39-04:00
     sentence: ''
   };
 
-  function formatMemeNumber(value) {
-    if (!Number.isFinite(value)) return 'NaN';
-    if (Object.is(value, -0)) return '0';
-    if (value === 0) return '0';
+  function generateMeme() {
+    // Locked to a maximum of base 7
+    const basePool = [2, 2, 3, 3, 4, 5, 5, 6, 6, 7];
 
-    const abs = Math.abs(value);
-
-    if (abs >= 100000 || abs < 0.001) {
-      return value.toExponential(3);
+    let availableBases = basePool;
+    if (lastBase !== null && basePool.length > 1) {
+      availableBases = basePool.filter(base => base !== lastBase);
     }
 
-    return Number(value.toFixed(4)).toString();
+    const base = availableBases[Math.floor(Math.random() * availableBases.length)];
+    lastBase = base;
+
+    const b6Str = (6).toString(base).toUpperCase();
+    const b7Str = (7).toString(base).toUpperCase();
+
+    currentData.b6 = b6Str;
+    currentData.b7 = b7Str;
+    currentData.base = base.toString();
+    currentData.sentence = `${currentData.b6} and ${currentData.b7} are 6 and 7 in base ${currentData.base}`;
+
+    memeText.innerHTML = `
+      <div class="display-1 fw-bolder text-break mb-1">${currentData.b6}</div>
+      <div class="fs-4 fw-bold text-uppercase my-2 opacity-75">and</div>
+      <div class="display-1 fw-bolder text-break mt-1">${currentData.b7}</div>
+      <div class="fs-3 fw-bold mt-4 opacity-75">are basically 6 and 7 in base</div>
+      <div class="display-1 fw-bolder mt-2 font-monospace text-break">${currentData.base}</div>
+    `;
+
+    const theme = themeData[themeIndex];
+    memeContainer.className = `card shadow-lg border-0 py-5 px-3 mb-4 position-relative ${theme.className}`;
+
+    memeContainer.style.transform = 'scale(1.02)';
+    window.setTimeout(() => {
+      memeContainer.style.transform = 'scale(1)';
+    }, 150);
+
+    themeIndex = (themeIndex + 1) % themeData.length;
   }
-
-  function generateMeme() {
-  const basePool = [2, 3, 4, 5, 6, 7];
-
-  let availableBases = basePool;
-  if (lastBase !== null && basePool.length > 1) {
-    availableBases = basePool.filter(base => base !== lastBase);
-  }
-
-  const base = availableBases[Math.floor(Math.random() * availableBases.length)];
-  lastBase = base;
-
-  const b6Str = (6).toString(base).toUpperCase();
-  const b7Str = (7).toString(base).toUpperCase();
-
-  currentData.b6 = b6Str;
-  currentData.b7 = b7Str;
-  currentData.base = base.toString();
-  currentData.sentence = `${currentData.b6} and ${currentData.b7} are basically 6 and 7 in base ${currentData.base}`;
-
-  memeText.innerHTML = `
-    <div class="display-1 fw-bolder text-break mb-1">${currentData.b6}</div>
-    <div class="fs-4 fw-bold text-uppercase my-2 opacity-75">and</div>
-    <div class="display-1 fw-bolder text-break mt-1">${currentData.b7}</div>
-    <div class="fs-3 fw-bold mt-4 opacity-75">are basically 6 and 7 in base</div>
-    <div class="display-1 fw-bolder mt-2 font-monospace text-break">${currentData.base}</div>
-  `;
-
-  const theme = themeData[themeIndex];
-  memeContainer.className = `card shadow-lg border-0 py-5 px-3 mb-4 position-relative ${theme.className}`;
-
-  memeContainer.style.transform = 'scale(1.02)';
-  window.setTimeout(() => {
-    memeContainer.style.transform = 'scale(1)';
-  }, 150);
-
-  themeIndex = (themeIndex + 1) % themeData.length;
-}
 
   function toggleMadness() {
     if (isPlaying) {
