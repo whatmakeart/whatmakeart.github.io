@@ -1,16 +1,13 @@
 ---
-title: 6 and 7 Other Bases
+title: 6 and 7 in Other Bases
 date: 2026-03-16T16:06:22-04:00
-lastmod: 2026-03-16T20:07:50-04:00
+lastmod: 2026-03-16T20:14:59-04:00
 aliases:
   - /zalgorithmic/fun-videos/6-and-7-any-number/
 ---
 
 <div class="container py-5">
-  <div class="mx-auto" style="max-width: 900px;">
-    <div class="text-center mb-4">
-      <h1 class="display-6 fw-bolder text-uppercase text-body-emphasis mb-1">The 6 &amp; 7 Fever Dream</h1>
-    </div>
+  <div class="mx-auto">
     <div
       id="memeContainer"
       class="card shadow-lg border-0 py-5 px-3 mb-4 position-relative"
@@ -127,7 +124,7 @@ aliases:
     if (isPlaying) {
       clearInterval(intervalId);
       intervalId = null;
-      toggleBtn.textContent = 'Resume Reality';
+      toggleBtn.textContent = 'Resume Madness';
       toggleBtn.classList.remove('btn-dark');
       toggleBtn.classList.add('btn-secondary');
     } else {
@@ -200,7 +197,7 @@ aliases:
 
     ctx.font = '700 55px sans-serif';
     ctx.globalAlpha = 0.9;
-    ctx.fillText('are basically 6 and 7 in base', centerX, 760);
+    ctx.fillText('are 6 and 7 in base', centerX, 760);
 
     ctx.globalAlpha = 1;
     ctx.font = '900 180px monospace';
