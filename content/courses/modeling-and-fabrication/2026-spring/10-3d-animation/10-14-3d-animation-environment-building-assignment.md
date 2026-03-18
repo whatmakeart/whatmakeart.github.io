@@ -1,7 +1,7 @@
 ---
 title: 09.14 3D Animation Project Environment Building Assignment
-date: 2026-03-18T09:00:00-04:00
-lastmod: 2026-03-18T05:06:03-04:00
+date: 2026-03-25T09:00:00-04:00
+lastmod: 2026-03-18T08:54:19-04:00
 ---
 
 ## Assignment Deliverables

@@ -1,7 +1,7 @@
 ---
 title: 09.07 Texturing and Rendering In Class Exercise
 date: 2026-03-18T09:00:00-04:00
-lastmod: 2026-03-18T07:12:50-04:00
+lastmod: 2026-03-18T08:54:19-04:00
 ---
 
 ## Assignment Deliverables
@@ -14,7 +14,22 @@ lastmod: 2026-03-18T07:12:50-04:00
 
 ## Assignment Overview
 
-3D models used in rendering are boring and nondescript without textures and colors. These can be enhanced with physical based materials. Use the image textures provided or create your own image textures. UV unwrap an object mesh. Apply the image texture and bump map texture jso it wraps around the object without stretching.
+3D models used in rendering are boring and nondescript without textures and colors. These can be enhanced with physical based materials.
+
+1. Create a 3D polygon model with more than 6 faces. _(You can use meshes from [3D scans](../../../../3d-modeling/3d-scanning.md) or from [photogrammetry scans](../../../../3d-modeling/photogrammetry.md) or exported models from Autodesk Fusion._)
+2. UV unwrap an object mesh.
+   - [UV Mapping - Maya](../../../../3d-modeling/maya/uv-mapping-maya.md)
+   - [UV Mapping - Blender](../../../../3d-modeling/blender/uv-mapping-blender.md)
+3. Use the image textures provided below, images textures from online sources, or create your own image textures.
+   - [Polyhaven.com](https://polyhaven.com/) is a great source for image textures, mesh objects, and HDRIs for rendering.
+   - [BlenderKit](../../../../3d-modeling/blender/install-blenderkit-blender.md) has many textures and 3D mesh objects available.
+   - [Substance]
+4. Apply the a diffuse / color image texture.
+5. Apply a bump map image texture or normal map image texture.
+6. Ensure the textures wrap around the object without stretching.
+7. Add additional mesh objects to the scene.
+8. Add a light source.
+9. Render 2 different camera views.
 
 ### Texture Images
 
