@@ -1,18 +1,22 @@
 ---
 title: UV Mapping - Maya
 date: 2023-06-15T05:48:39
-lastmod: 2025-09-30T17:53:45
+lastmod: 2026-03-18T06:50:20-04:00
 ---
 
-### UV Mapping in Maya
+## UV Mapping in Maya
 
-UV mapping in [Maya](maya.md) is the process of assigning 2D [UV coordinates](../uv-coordinates.md) to 3D objects. This is necessary so that textures can be applied to the objects in a way that is consistent and predictable.
+UV mapping in [Maya](maya.md) is the process of assigning 2D [UV coordinates](../uv-coordinates.md) to 3D objects. This allows texture images to be placed on the object in a way that is controlled, consistent, and predictable.
 
-The UV Editor in Maya is a powerful tool that can help you to UV map objects of any complexity. It is important to learn how to use the UV Editor effectively in order to produce high-quality UV maps. Use symmetry to your advantage. If your model is symmetrical, you can only UV map one half of it and then mirror the results to the other half. This can save you a lot of time.
+Because most 3D forms cannot be flattened without cutting, UV mapping usually involves splitting the surface into separate UV shells and then unfolding those shells into a 2D layout. A good UV unwrap helps textures appear at the correct scale and with as little stretching or distortion as possible.
+
+Maya's UV Editor is a powerful tool for creating, editing, unfolding, cutting, sewing, and arranging UVs. It can be used for both simple and complex models, from basic hard-surface forms to more detailed organic or scanned objects. Learning how to use the UV Editor effectively is an important step in creating high-quality textured models.
+
+Use symmetry to your advantage. If a model is symmetrical, symmetry can sometimes speed up the process. You may be able to unwrap one half of the model and then mirror the results. This can save time, but it is important to remember that overlapping mirrored UVs are only appropriate in some workflows. If each side of the model needs unique painted detail, the UVs should remain separate.
 
 When laying out your UVs, try to minimize distortion. This will help to ensure that the textures look good on the object.
 
-## Basic Maya UV Mapping Guide
+### Basic Maya UV Mapping Workflow
 
 Maya has a number of tools and features that make it easy to UV map your models. Here is a basic guide to UV mapping in Maya:
 
@@ -24,7 +28,7 @@ Maya has a number of tools and features that make it easy to UV map your models.
 6. **Export your UV map.** Once your UV map is complete, you need to export it. This will create a file that you can use in your game engine or other software.
 
 - [UV Map a Cube](https://youtu.be/BFf4L5vDR84)
-- [Maya UV Mapping Basics](https://youtu.be/X0KGwPadukE)
+- [Maya UV Planar Mapping Basics](https://youtu.be/X0KGwPadukE)
 - [UV Unwrap Fast Auto Seams](https://youtu.be/8-TMjuvzZEU)
 - [Maya 3D Cut and Sew](https://youtu.be/-KhoMBOqx0g)
 
@@ -41,7 +45,7 @@ Maya has a number of tools and features that make it easy to UV map your models.
 
 <div class="video-card">
 
-### Maya UV Mapping Basics
+### Maya UV Planar Mapping Basics
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/X0KGwPadukE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -67,3 +71,44 @@ Maya has a number of tools and features that make it easy to UV map your models.
 </div>
 
 </div>
+
+## Basic Maya UV Workflow
+
+A typical UV mapping workflow in Maya looks like this:
+
+1. Model or import the object
+2. Clean the mesh and check for symmetry if useful
+3. Open the **UV Editor**
+4. Create initial UV shells using automatic mapping or manual cuts
+5. Use **Unfold** to flatten the shells
+6. Use **Cut** and **Sew** to improve seam placement and shell structure
+7. Arrange and scale the UV shells in the UV Editor
+8. Check the result with a checker texture
+9. Refine the UVs to reduce stretching and make better use of texture space
+
+## Common Maya UV Tools
+
+Some of the most useful UV tools in Maya include:
+
+- **UV Editor** for viewing and editing the UV layout
+- **Unfold** for flattening shells with less distortion
+- **Cut** for adding seams
+- **Sew** for reconnecting UV shells
+- **Layout** for packing shells into UV space
+- **Symmetrize** or mirrored workflows for some symmetrical models
+
+These tools are often used together rather than separately.
+
+## Common Problems to Watch For
+
+When UV mapping in Maya, a few common problems can reduce texture quality:
+
+- stretched or compressed UV shells
+- inconsistent scale between shells
+- overlapping UVs when unique texture space is needed
+- too many unnecessary cuts from automatic mapping
+- visible seams in important areas
+- poor use of texture space
+- mirrored UVs when the model actually needs unique detail on both sides
+
+Applying a checker texture is one of the easiest ways to spot these problems before painting or baking textures.

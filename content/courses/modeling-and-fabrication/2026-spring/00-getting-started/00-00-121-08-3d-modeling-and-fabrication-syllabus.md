@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus 121.08 Wednesday
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-03-18T05:09:49-04:00
+lastmod: 2026-03-18T05:24:16-04:00
 ---
 
 ### Course Information
@@ -146,7 +146,7 @@ The following materials are not required for the course but may be useful to you
 | 12         | April 8     | CNC Design                                                                                                                                 |
 | 13         | April 15    | CNC Fabrication                                                                                                                            |
 | 14         | April 22    | [Virtual Production](../14-virtual-production/14-00-introduction.md)                                                                       |
-| 15         | April 29    | Final Crit                                                                                                                                 |
+| 15         | April 29    | [Final Crit](../15-final-critique/15-00-introduction.md)                                                                                   |
 | --         | May 5 - 9   | BFA Reviews and Exhibitions                                                                                                                |
 
 </div>

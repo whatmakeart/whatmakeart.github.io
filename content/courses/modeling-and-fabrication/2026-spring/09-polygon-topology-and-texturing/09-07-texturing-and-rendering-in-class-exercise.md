@@ -1,7 +1,7 @@
 ---
 title: 09.07 Texturing and Rendering In Class Exercise
-date: 2026-03-17T09:00:00-04:00
-lastmod: 2026-03-18T05:06:46-04:00
+date: 2026-03-18T09:00:00-04:00
+lastmod: 2026-03-18T07:12:50-04:00
 ---
 
 ## Assignment Deliverables
