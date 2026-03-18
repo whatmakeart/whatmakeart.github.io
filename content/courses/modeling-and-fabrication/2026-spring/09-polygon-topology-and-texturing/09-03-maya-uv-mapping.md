@@ -1,7 +1,7 @@
 ---
-title: 10.07 Maya UV Mapping
-date: 2026-03-25T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+title: 09.03 Maya UV Mapping
+date: 2026-03-17T09:00:00-04:00
+lastmod: 2026-03-17T20:17:59-04:00
 toc: true
 ---
 

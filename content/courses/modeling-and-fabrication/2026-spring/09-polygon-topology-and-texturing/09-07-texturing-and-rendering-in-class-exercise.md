@@ -1,7 +1,7 @@
 ---
-title: 10.09 Texturing and Rendering In Class Exercise
-date: 2026-03-25T09:00:00-04:00
-lastmod: 2026-03-03T20:28:50-04:00
+title: 09.07 Texturing and Rendering In Class Exercise
+date: 2026-03-17T09:00:00-04:00
+lastmod: 2026-03-17T20:17:59-04:00
 ---
 
 ## Assignment Deliverables
@@ -21,7 +21,7 @@ lastmod: 2026-03-03T20:28:50-04:00
 <div class="gallery-grid">
 <figure>
 
-[![Shell Texture](shell-texture.png)](shell-texture.png)
+[![Shell Texture](../../2024-spring/07-polygon-texturing-and-materials/shell-texture.png)](../../2024-spring/07-polygon-texturing-and-materials/shell-texture.png)
 
 <figcaption>
 
@@ -31,7 +31,7 @@ Texture Image
 </figure>
 <figure>
 
-[![Shell Texture Bump Map](shell-texture-bump-map.png)](shell-texture-bump-map.png)
+[![Shell Texture Bump Map](../../2024-spring/07-polygon-texturing-and-materials/shell-texture-bump-map.png)](../../2024-spring/07-polygon-texturing-and-materials/shell-texture-bump-map.png)
 
 <figcaption>
 
@@ -41,7 +41,7 @@ Bump Map
 </figure>
 <figure>
 
-[![Shell Texture Normal Map](shell-texture-normal-map.png)](shell-texture-normal-map.png)
+[![Shell Texture Normal Map](../../2024-spring/07-polygon-texturing-and-materials/shell-texture-normal-map.png)](../../2024-spring/07-polygon-texturing-and-materials/shell-texture-normal-map.png)
 
 <figcaption>
 

@@ -1,7 +1,7 @@
 ---
 title: Add Materials - Maya
 date: 2023-06-15T14:18:30-04:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-03-17T19:56:52-04:00
 ---
 
 [Maya](maya.md) objects have a default Lambert shader applied by default. The base color of the Lambert shader can be customized to create different colors on objects.
@@ -15,3 +15,8 @@ In the far right tab of the Attribute Editor there are settings for the shader a
 [![Maya aistandardsurface in Attribute Editor](attachments/2024-02-22-maya-ai-standard-surface-in-attribute-editor.png)](attachments/2024-02-22-maya-ai-standard-surface-in-attribute-editor.png)
 
 Maya has a number of presets for the [aiStandardSurface shader](aistandardsurface-maya.md). These presets will work for many basic materials and can form a good foundation for creating custom materials and textures.
+
+## Advanced Texturing and Materials
+
+- [Procedural Orange Texture](https://youtu.be/5OrQVV_8ag0)
+- [Export Substance Painter to Maya](https://youtu.be/sCKc_6nTRPM)
