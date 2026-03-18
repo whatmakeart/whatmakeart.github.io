@@ -1,7 +1,7 @@
 ---
 title: 09.14 3D Animation Project Environment Building Assignment
 date: 2026-03-18T09:00:00-04:00
-lastmod: 2026-03-03T20:02:40-04:00
+lastmod: 2026-03-18T05:06:03-04:00
 ---
 
 ## Assignment Deliverables
@@ -13,7 +13,7 @@ lastmod: 2026-03-03T20:02:40-04:00
 
 ## Process
 
-Spend 3 hours modeling 3D environments for your [line animation project](09-15-3d-line-animation-project-assignment.md). Use your story spines and storyboards as a guide. Make camera objects to see if your environment if matching what you want to show in your storyboards.
+Spend 3 hours modeling 3D environments. Use your story spines and storyboards as a guide. Make camera objects to see if your environment if matching what you want to show in your storyboards.
 
 ### 3D Model File Exporting
 
@@ -24,8 +24,8 @@ Spend 3 hours modeling 3D environments for your [line animation project](09-15-3
 
 ### Rendering
 
-- [Maya Rendering Basics](../08-polygon-3d-modeling/08-08-maya-rendering-basics.md)
-- [Blender Rendering Basics](../08-polygon-3d-modeling/08-07-blender-rendering-basics.md)
+- [Maya Rendering Basics](../../../../3d-modeling/maya/rendering-basics-maya.md)
+- [Blender Rendering Basics](../../../../3d-modeling/blender/rendering-basics-blender.md)
 
 ## Grading Rubric
 

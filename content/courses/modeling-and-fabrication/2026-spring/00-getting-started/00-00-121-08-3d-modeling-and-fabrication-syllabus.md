@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus 121.08 Wednesday
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-02-26T06:55:52-04:00
+lastmod: 2026-03-18T05:09:49-04:00
 ---
 
 ### Course Information
@@ -140,8 +140,8 @@ The following materials are not required for the course but may be useful to you
 | 7          | February 25 | [3D Capture](../07-3d-capture/07-00-introduction.md)                                                                                       |
 | 8          | March 4     | [Polygon Mesh 3D Modeling](../08-polygon-3d-modeling/08-00-introduction.md)                                                                |
 | --         | March 11    | **No Class Spring Break**                                                                                                                  |
-| 9          | March 18    | 3D Animation                                                                                                                               |
-| 10         | March 25    | Polygon Texturing                                                                                                                          |
+| 9          | March 18    | [Polygon Topology and Texturing](../09-polygon-topology-and-texturing/09-00-introduction.md)                                               |
+| 10         | March 25    | [3D Animation](../10-3d-animation/10-00-introduction.md)                                                                                   |
 | 11         | April 1     | [Motion Capture XR Studio](../11-motion-capture-xr-studio/11-00-introduction.md)                                                           |
 | 12         | April 8     | CNC Design                                                                                                                                 |
 | 13         | April 15    | CNC Fabrication                                                                                                                            |
