@@ -1,20 +1,31 @@
 ---
 title: 09.07 Texturing and Rendering In Class Exercise
 date: 2026-03-18T09:00:00-04:00
-lastmod: 2026-03-18T08:54:19-04:00
+lastmod: 2026-03-19T12:40:10-04:00
 ---
 
 ## Assignment Deliverables
 
-1. Minimum of 2 render images each of a a UV unwrapped and textured object in [Blender](../../../../3d-modeling/blender/blender.md) **or in** [Maya](../../../../3d-modeling/maya/maya.md)
-   - Minimum of 1 object mesh with more than 6 faces in scene
-   - Minimum of 1 use of each of the following (Texture Image, Bump)
-   - Minimum of 1 light source
-   - Render 2 different camera views of the scene at a minimum 1920x1080 or 3840x2160 (.png or .jpg)
+1.  Render Image 1
+    - Label file YYYY-MM-DD Lastname Firstname Render Image 1 (`.png`, `.jpg`)
+2.  Render Image 2
+    - Label file YYYY-MM-DD Lastname Firstname Render Image 2 (`.png`, `.jpg`)
+3.  Blender `.blend` file with packed resources **or** Upload Maya scene archive `.zip`
+    - Label file YYYY-MM-DD Lastname Firstname 3D Scene (`.blend`, `.zip`)
 
 ## Assignment Overview
 
 3D models used in rendering are boring and nondescript without textures and colors. These can be enhanced with physical based materials.
+
+### Requirements
+
+- Minimum of 2 render images each of a a UV unwrapped and textured object in [Blender](../../../../3d-modeling/blender/blender.md) **or in** [Maya](../../../../3d-modeling/maya/maya.md)
+- Minimum of 1 object mesh with more than 6 faces in scene
+- Minimum of 1 use of each of the following (Texture Image, Bump)
+- Minimum of 1 light source
+- Render 2 different camera views of the scene at a minimum 1920x1080 or 3840x2160 (.png or .jpg)
+
+### Process
 
 1. Create a 3D polygon model with more than 6 faces. _(You can use meshes from [3D scans](../../../../3d-modeling/3d-scanning.md) or from [photogrammetry scans](../../../../3d-modeling/photogrammetry.md) or exported models from Autodesk Fusion._)
 2. UV unwrap an object mesh.
