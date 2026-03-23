@@ -1,13 +1,13 @@
 ---
 title: 08.04 Inflatable Artist Research Assignment
 date: 2026-03-23T09:00:00-04:00
-lastmod: 2026-03-23T09:08:22-04:00
+lastmod: 2026-03-23T12:40:25-04:00
 ---
 
 ## Assignment Deliverables
 
 1. Upload a PDF of your review of the inflatable artist examples
-   - Label the file YYYY-MM-DD Lastname Firstname Inflatable Research (`.pdf)`
+   - Label the file YYYY-MM-DD Lastname Firstname Inflatable Research (`.pdf`,`pptx`)
 
 ## Overview
 
