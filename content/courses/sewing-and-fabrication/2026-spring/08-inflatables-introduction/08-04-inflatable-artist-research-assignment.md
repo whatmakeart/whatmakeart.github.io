@@ -1,7 +1,7 @@
 ---
 title: 08.04 Inflatable Artist Research Assignment
 date: 2026-03-23T09:00:00-04:00
-lastmod: 2026-03-15T16:22:38-04:00
+lastmod: 2026-03-23T08:56:29-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2026-03-15T16:22:38-04:00
 
 ## Overview
 
-Review the [Inflatable Artists](08-01-inflatable-artists.md)
+Review the [Inflatable Artists](08-03-inflatable-artists.md)
 
 - Take screenshots / collect images of ones you like
 - Add to pdf with brief written descriptions of what you liked and hated and why

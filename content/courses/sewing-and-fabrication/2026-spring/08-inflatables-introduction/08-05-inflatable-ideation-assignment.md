@@ -1,7 +1,7 @@
 ---
 title: 08.05 Inflatable Ideation Assignment
 date: 2026-03-23T09:00:00-04:00
-lastmod: 2026-03-15T16:22:38-04:00
+lastmod: 2026-03-23T08:56:29-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2026-03-15T16:22:38-04:00
 
 ## Overview
 
-After reviewing, researching, and gathering inspiration from [inflatable artists](08-01-inflatable-artists.md) develop ideation sketches for potential sewn pneumatic structures, sculptures, or wearables. Sketching, sketching, sketching – whether analog or digital you should begin with sketching.
+After reviewing, researching, and gathering inspiration from [inflatable artists](08-03-inflatable-artists.md) develop ideation sketches for potential sewn pneumatic structures, sculptures, or wearables. Sketching, sketching, sketching – whether analog or digital you should begin with sketching.
 
 ## Process
 

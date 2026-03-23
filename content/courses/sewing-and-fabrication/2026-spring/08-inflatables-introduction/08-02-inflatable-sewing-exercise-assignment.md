@@ -1,7 +1,7 @@
 ---
-title: 08.03 Inflatable Sewing Exercise Assignment
+title: 08.02 Inflatable Sewing Exercise Assignment
 date: 2026-03-23T09:00:00-04:00
-lastmod: 2026-03-15T16:22:20-04:00
+lastmod: 2026-03-23T08:56:29-04:00
 ---
 
 ## Assignment Deliverables

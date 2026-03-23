@@ -1,7 +1,7 @@
 ---
-title: 08.01 Inflatable Artists
+title: 08.03 Inflatable Artists
 date: 2026-03-23T09:00:00-04:00
-lastmod: 2026-03-15T16:22:38-04:00
+lastmod: 2026-03-23T08:56:29-04:00
 toc: true
 ---
 
