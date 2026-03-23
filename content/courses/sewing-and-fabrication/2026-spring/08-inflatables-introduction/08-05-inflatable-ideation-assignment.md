@@ -1,21 +1,23 @@
 ---
 title: 08.05 Inflatable Ideation Assignment
 date: 2026-03-23T09:00:00-04:00
-lastmod: 2026-03-23T08:56:29-04:00
+lastmod: 2026-03-23T09:09:55-04:00
 ---
 
 ## Assignment Deliverables
 
-1. Ideation Sketches uploaded as a pdf or sequentially labeled images (.pdf, .jpg, .png)
-   - Label files YYYYMMDD Lastname Firstname Inflatable Ideation
+1. Ideation Sketches uploaded as a pdf or sequentially labeled images
+   - Label files YYYY-MM-DD Lastname Firstname Inflatable Ideation (`.pdf`, `.jpg`, `.png`)
 
 ## Overview
 
-After reviewing, researching, and gathering inspiration from [inflatable artists](08-03-inflatable-artists.md) develop ideation sketches for potential sewn pneumatic structures, sculptures, or wearables. Sketching, sketching, sketching – whether analog or digital you should begin with sketching.
+After reviewing, researching, and gathering inspiration from [inflatable artists](08-03-inflatable-artists.md) develop [ideation sketches](../../../../drawing/ideation-sketches.md) for potential sewn pneumatic structures, sculptures, or wearables. Sketching, sketching, sketching – whether analog or digital you should begin with sketching.
 
 ## Process
 
 Sketches can be made with analog techniques, digital techniques, or a combination of both. You can use pencils, markers, paper photo collage, digital photo collage, 3D modeling, vector graphics, digital painting and any other means of ideation and iteration.
+
+Review [inflatable artists](./08-03-inflatable-artists.md) and [how to make inflatables](../../../../art-faq/how-to-make-inflatables.md).
 
 ### Variety and Depth
 
