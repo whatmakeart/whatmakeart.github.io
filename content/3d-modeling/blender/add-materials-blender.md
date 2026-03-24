@@ -1,7 +1,7 @@
 ---
 title: Add Materials - Blender
 date: 2023-06-14T13:48:44
-lastmod: 2026-03-05T06:49:50-04:00
+lastmod: 2026-03-23T20:38:10-04:00
 tags:
   - Blender
   - 3D-Modeling
