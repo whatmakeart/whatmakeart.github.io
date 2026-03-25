@@ -1,7 +1,7 @@
 ---
 title: 09.07 Texturing and Rendering In Class Exercise
 date: 2026-03-18T09:00:00-04:00
-lastmod: 2026-03-19T12:40:10-04:00
+lastmod: 2026-03-25T08:55:18-04:00
 ---
 
 ## Assignment Deliverables
@@ -34,7 +34,7 @@ lastmod: 2026-03-19T12:40:10-04:00
 3. Use the image textures provided below, images textures from online sources, or create your own image textures.
    - [Polyhaven.com](https://polyhaven.com/) is a great source for image textures, mesh objects, and HDRIs for rendering.
    - [BlenderKit](../../../../3d-modeling/blender/install-blenderkit-blender.md) has many textures and 3D mesh objects available.
-   - [Substance]
+   - Substance Painter
 4. Apply the a diffuse / color image texture.
 5. Apply a bump map image texture or normal map image texture.
 6. Ensure the textures wrap around the object without stretching.

@@ -1,7 +1,7 @@
 ---
-title: 09.02 Keyframes
+title: 10.03 Keyframes
 date: 2026-03-25T09:00:00-04:00
-lastmod: 2026-03-18T08:54:19-04:00
+lastmod: 2026-03-25T08:57:36-04:00
 toc: true
 ---
 
