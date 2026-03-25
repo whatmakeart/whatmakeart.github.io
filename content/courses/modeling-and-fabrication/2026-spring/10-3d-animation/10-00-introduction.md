@@ -1,7 +1,7 @@
 ---
 title: 09.00 Introduction
 date: 2026-03-25T09:00:00-04:00
-lastmod: 2026-03-18T08:54:19-04:00
+lastmod: 2026-03-25T07:45:04-04:00
 ---
 
 ## Overview
@@ -24,6 +24,4 @@ lastmod: 2026-03-18T08:54:19-04:00
 - [sound effect](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
 - [shot types](10-03-shot-types.md)
 - [storyboards](10-06-storyboards.md)
-- visual themes
-- [story spine](10-05-story-spines.md)
 - [narrative arc](10-04-narrative-arc.md)

@@ -1,13 +1,14 @@
 ---
 title: 3D Scan Clothing to Cloth Simulation Workflows Blender
 date: 2026-03-23T16:20:11-04:00
-lastmod: 2026-03-23T20:38:20-04:00
+lastmod: 2026-03-25T05:29:09-04:00
 ---
 
 ## Texture Baking in Blender
 
 - [Blender Texture Baking for 3D Scans: High Poly to Low Poly Shirt Workflow](https://youtu.be/qHg_U7Phlcg)
 - [Normal Map Texture Baking in Blender](https://youtu.be/IENVxynWQzI)
+- [Normal Map Artifact Fix in Photoshop](https://youtu.be/JTdj9duwnuo)
 
 ## Cloth Simulation for Clothing in Blender
 
@@ -17,15 +18,49 @@ lastmod: 2026-03-23T20:38:20-04:00
 - [Start Mixamo Animation from T-Pose in Blender](https://youtu.be/z1Zvr_1ui2o)
 - [Blender Cloth Simulation From Real Photos](https://youtu.be/euG50VeLp5s)
 
-## Rokoko Mocap Retargeting in Blender
+## Mixamo Auto Rig Characters
 
-- [Create Rokoko Account](https://youtu.be/J53gs9C_0bw)
-- [How to Install Rokoko Plugin in Blender](https://youtu.be/6iZXy66t3gg)
-- [Blender Retargeting: Apply MoCap to Any Armature with Rokoko)](https://youtu.be/fEwmjBCrJ88)
 - [Instant T-Pose Rig from Mixamo](https://youtu.be/48e2Gaq83x0)
 - [How to Copy Animation to Another Blender File (Rigged Characters Tutorial)](https://youtu.be/hNxU9Hx7qGI)
 - [How to Transfer Rigs Between Blender Files with Append](https://youtu.be/eNJaYPJ-TtQ)
 - [Auto Rig Character in Mixamo and Import into Blender](https://youtu.be/0-FWVd6oCXg)
+
+## Rokoko Mocap Retargeting in Blender
+
+- [Create Rokoko Account](https://youtu.be/J53gs9C_0bw)
+- [How to Install Rokoko Plugin in Blender](https://youtu.be/6iZXy66t3gg)
+- [Blender Retargeting: Apply MoCap to Any Armature with Rokoko](https://youtu.be/fEwmjBCrJ88)
+
+<div class="video-grid">
+
+<div class="video-card">
+
+### Create Rokoko Account
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/J53gs9C_0bw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### How to Install Rokoko Plugin in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/6iZXy66t3gg?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Blender Retargeting: Apply MoCap to Any Armature with Rokoko
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fEwmjBCrJ88?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+</div>
 
 ## 3D Scan Retopology
 

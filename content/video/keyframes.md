@@ -1,16 +1,20 @@
 ---
 title: Keyframes
 date: 2023-06-14T11:42:20
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-03-25T07:19:07-04:00
 ---
 
-Keyframes describe an attribute at a point in time. This could be position, scale, rotation, opacity or many other parameters. With only a single keyframe, nothing happens. If a second keyframe is set at a different point in time and has a different value for that same attribute as the first keyframe, then software can "tween" or animate the transition from one keyframe value to another keyframe value.
+Keyframes describe an attribute at a specific point in time. That attribute could be position, scale, rotation, opacity, color or many other parameters.
 
-How far apart the keyframes are on the timeline determines the speed of the change. This can also be changed by changing the type of the keyframe to influence its interpolation.
+A single keyframe by itself does not create visible motion or change, nothing happens. Change or animation happens if a second keyframe is set at a different point in time and has a different value for that same attribute as the first keyframe. , then software can "tween" or animate the transition from one keyframe value to another by interpolation between the keyframe values.
+
+How far apart the keyframes are on the timeline determines the speed of the change. If two keyframes are close together, the change happens quickly. If they are farther apart, the change happens more slowly. The way that motion progresses between keyframes is determined by the interpolation type.
 
 ## Keyframe Interpolation
 
-- Step
+Interpolation describes how animation moves from one keyframe to the next. Different interpolation types change the feeling of motion and can make an animation appear mechanical, smooth, abrupt, or more natural.
+
+- Step or Hold
 - Linear
 - Ease In
 - Ease Out
