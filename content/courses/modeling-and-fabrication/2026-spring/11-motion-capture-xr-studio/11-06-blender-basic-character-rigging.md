@@ -1,7 +1,7 @@
 ---
-title: 11.03Blender Basic Character Rigging
+title: 11.06 Blender Basic Character Rigging
 date: 2026-04-01T09:00:00-04:00
-lastmod: 2026-03-25T08:57:36-04:00
+lastmod: 2026-04-02T07:32:18-04:00
 toc: true
 ---
 

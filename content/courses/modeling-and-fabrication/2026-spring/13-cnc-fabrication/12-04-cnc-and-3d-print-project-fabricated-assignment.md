@@ -1,7 +1,7 @@
 ---
 title: 11.04 CNC and 3D Print Project Fabricated
 date: 2026-04-01T09:00:00-04:00
-lastmod: 2026-02-25T15:37:15-04:00
+lastmod: 2026-04-02T07:32:18-04:00
 ---
 
 ## Assignment Deliverables

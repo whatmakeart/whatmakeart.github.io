@@ -1,7 +1,7 @@
 ---
-title: 11.00 Introduction
+title: 11.02 Optitrack Calibration
 date: 2026-04-01T09:00:00-04:00
-lastmod: 2026-04-01T08:31:57-04:00
+lastmod: 2026-04-02T07:32:18-04:00
 ---
 
 ## Motive
