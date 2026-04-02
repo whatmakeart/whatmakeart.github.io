@@ -1,7 +1,7 @@
 ---
 title: 11.07 Create 3D Humanoid Character Assignment
 date: 2026-04-01T09:00:00-04:00
-lastmod: 2026-04-02T07:32:18-04:00
+lastmod: 2026-04-02T16:28:27-04:00
 ---
 
 ## Assignment Deliverables
@@ -27,3 +27,9 @@ In our next class, we will be retargeting the mocap data you recorded onto these
 </div>
 
 [Simple Geometry Character Blender](https://youtu.be/h-QnVcXeKJ0)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/cpR-j2gfZ6Q?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+[T-Pose from Mixamo](https://youtu.be/cpR-j2gfZ6Q)
