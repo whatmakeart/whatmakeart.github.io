@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2026-01-05T06:58:33-04:00
+lastmod: 2026-04-03T07:54:34-04:00
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -144,7 +144,7 @@ Review the list of sculpture skills and techniques below. Mark a check in the ap
 | [Garment Construction](../sewing/garment-construction-basics.md)                                       |       |             |             |             |             |
 | [3D Printing ](../digital-fabrication/3d-printing/3d-printing.md)                                      |       |             |             |             |             |
 | [Paper Maché](../making/paper-maché.md)                                                                |       |             |             |             |             |
-| [Motion Capture](../3d-modeling/motion-capture-basics.md)                                              |       |             |             |             |             |
+| [Motion Capture](../3d-modeling/motion-capture.md)                                                     |       |             |             |             |             |
 | [Plastic Bending](../making/plastic-bending-basics.md)                                                 |       |             |             |             |             |
 | [Projection Mapping](../video/projection-mapping/projection-mapping-basics.md)                         |       |             |             |             |             |
 | Isometric Sketching                                                                                    |       |             |             |             |             |

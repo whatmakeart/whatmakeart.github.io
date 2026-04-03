@@ -1,12 +1,14 @@
 ---
-title: Motion Capture Basics
+title: Motion Capture
 date: 2023-10-02T06:40:49-04:00
-lastmod: 2026-01-04T07:54:35-04:00
+lastmod: 2026-04-03T07:54:21-04:00
+aliases:
+  - /3d-modeling/motion-capture-basics/
 ---
 
-With the advent of computer vision and machine learning, dedicated motion capture suits are no longer required to get motion capture data for 3D character animation.
+## Video Motion Capture Tools
 
-## Motion Capture Tools
+With the advent of computer vision and machine learning, dedicated motion capture suits are no longer required to get motion capture data for 3D character animation.
 
 - [Free Motion Capture Project](https://freemocap.org/) - Motion capture creation from source video
 - [Rokoko Motion Capture](https://www.rokoko.com/products/vision) - Motion capture creation from source video
