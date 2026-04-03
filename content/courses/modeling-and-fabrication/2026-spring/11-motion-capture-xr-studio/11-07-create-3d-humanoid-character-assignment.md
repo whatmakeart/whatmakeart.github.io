@@ -1,18 +1,83 @@
 ---
 title: 11.07 Create 3D Humanoid Character Assignment
 date: 2026-04-01T09:00:00-04:00
-lastmod: 2026-04-02T16:28:27-04:00
+lastmod: 2026-04-03T06:11:50-04:00
 ---
 
 ## Assignment Deliverables
 
-1. Auto rigged and textured character in t-pose
+1. 3D modeled, textured, and rigged humanoid character in t-pose
+   - Label file YYYY-MM-DD Lastname Firstname T-pose (`.fbx`)
 
 ## Assignment Overview
 
-Now that we have successfully captured motion data in the XR studio, we need digital avatars to use the motion data. For this assignment, you will design, model, texture, and auto-rig a simple 3D humanoid character.
+Now that we have successfully captured motion data in the XR studio, we need digital avatars to use the motion data. For this assignment, you will design, model, texture, and auto-rig a simple 3D humanoid character. In our next class, we will be retargeting the mocap data you recorded onto these characters. The geometry can be simple or complex.
 
-In our next class, we will be retargeting the mocap data you recorded onto these characters. The geometry can be simple or complex.
+Your character can be very simple. It may be built from primitive forms such as cylinders, spheres, and cubes, or it can be box modeled, sculpted, remeshed, or generated with 3D tools from images or text prompts and then cleaned up. The goal is to create a readable humanoid form that can be successfully uploaded to Mixamo and returned as a rigged character in a T-pose.
+
+### Character Requirements
+
+- be a humanoid form by having a head, torso, two arms, and two legs
+- have a texture or painted material design
+- auto-rigged in Mixamo, Blender, or Maya
+- saved as an FBX in a T-Pose from Mixamo or other rigging method
+
+## Assignment Process
+
+### 1. Character Modeling
+
+Starting with ideation sketching and idea development is the best first step. You can then import a sketch into a 3D modeling program to use as reference as you model your character. It is usually easier to model from a reference sketch than a blank screen. Before modeling, decide on a clear character concept.
+
+- [How to Insert a Reference Image into Maya](../../../../3d-modeling/maya/how-to-insert-reference-image-maya-tutorial.md)
+- <!-- TODO Insert Reference Image Blender Video -->
+
+#### Modeling Workflows
+
+- Build the character from basic forms such as cubes, cylinders, and spheres.
+- Use Box Modeling to model a low-poly humanoid form using extrusions and simple topology.
+- Sculpt a character, then retopologize or remesh it into a cleaner form that Mixamo can process.
+- Use a model created from AI, image-based generation, or text-prompt generation, but you must still clean it up, texture it, and prepare it correctly for Mixamo.
+
+#### Character Modeling Tips
+
+### 2. Texture the Character
+
+Your character should have at least a basic painted surface treatment. The textures do not need to be complex, but the character should look intentionally designed rather than left as default gray material.
+
+#### Texture and Material Ideas
+
+- paint a shirt, pants, and shoes
+- paint robot panels and stripes
+- paint simple facial features
+- use color blocking to separate body parts
+- paint a stylized skin/clothing design
+
+### 3. Export as FBX
+
+#### Maya FBX Export
+
+<!-- TODO Maya FBX Export Video -->
+
+1. Select the character mesh.
+2. Go to File > Export Selection.
+3. Choose FBX.
+4. Make sure the export includes geometry and texture references if needed.
+5. Save the file with the required naming convention.
+
+#### Blender FBX Export
+
+<!-- TODO Blender FBX Export Video -->
+
+1. Select the character object or objects.
+2. Go to File > Export > FBX.
+3. Export only selected objects if needed.
+4. Apply transforms before export.
+5. Use the correct forward/up axis if necessary for clean transfer.
+6. Save the file with the required naming convention.
+
+### 4. Upload to Mixamo to Auto Rig
+
+Upload the character `fbx` file to Mixamo to auto rig. After rigging, download a rigged T-Pose. Upload the T-pose to the assignment page.
 
 ## Assignment Resources
 
@@ -33,3 +98,20 @@ In our next class, we will be retargeting the mocap data you recorded onto these
 </div>
 
 [T-Pose from Mixamo](https://youtu.be/cpR-j2gfZ6Q)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Head                         | 15 points |
+| Torso                        | 15 points |
+| Arms                         | 15 points |
+| Legs                         | 15 points |
+| Texture Applied              | 10 points |
+| Rigged with Armature         | 10 points |
+| T-Pose FBX file              | 10 points |
+| File Management and Labeling | 10 Points |
+
+</div>
