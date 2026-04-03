@@ -1,7 +1,7 @@
 ---
 title: 11.07 Create 3D Humanoid Character Assignment
 date: 2026-04-01T09:00:00-04:00
-lastmod: 2026-04-03T06:11:50-04:00
+lastmod: 2026-04-03T06:43:46-04:00
 ---
 
 ## Assignment Deliverables
@@ -43,6 +43,9 @@ Starting with ideation sketching and idea development is the best first step. Yo
 ### 2. Texture the Character
 
 Your character should have at least a basic painted surface treatment. The textures do not need to be complex, but the character should look intentionally designed rather than left as default gray material.
+
+- [Add Materials - Blender](../../../../3d-modeling/blender/add-materials-blender.md)
+- [Add Materials - Maya](../../../../3d-modeling/maya/add-materials-maya.md)
 
 #### Texture and Material Ideas
 

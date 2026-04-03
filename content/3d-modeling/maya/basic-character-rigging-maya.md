@@ -1,7 +1,7 @@
 ---
 title: Basic Character Rigging Maya
 date: 2025-04-03T09:58:29
-lastmod: 2025-09-30T17:53:45
+lastmod: 2026-04-03T06:38:59-04:00
 ---
 
 - [Quick Rig Step by Step Maya](https://youtu.be/8RqfDcoP0jI)
@@ -9,6 +9,7 @@ lastmod: 2025-09-30T17:53:45
 - [IK Leg Rig Maya](https://youtu.be/6W0i9isOiWk)
 - [Hide and Unhide Objects Maya](https://youtu.be/vcXI2F7wkxs)
 - [Change Line Thickness Maya](https://youtu.be/r1zq6Mf72Qo)
+- [T-Pose from Mixamo](https://youtu.be/cpR-j2gfZ6Q)
 
 <div class="video-grid">
 
@@ -56,5 +57,13 @@ lastmod: 2025-09-30T17:53:45
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/r1zq6Mf72Qo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
+
+<div class="video-card">
+
+### T-Pose From Mixamo
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/cpR-j2gfZ6Q?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></div>
 
 </div>
