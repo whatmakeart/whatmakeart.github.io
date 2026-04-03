@@ -1,7 +1,7 @@
 ---
 title: 11.07 Create 3D Humanoid Character Assignment
 date: 2026-04-01T09:00:00-04:00
-lastmod: 2026-04-03T06:43:46-04:00
+lastmod: 2026-04-03T14:53:19-04:00
 ---
 
 ## Assignment Deliverables
@@ -29,7 +29,7 @@ Your character can be very simple. It may be built from primitive forms such as 
 Starting with ideation sketching and idea development is the best first step. You can then import a sketch into a 3D modeling program to use as reference as you model your character. It is usually easier to model from a reference sketch than a blank screen. Before modeling, decide on a clear character concept.
 
 - [How to Insert a Reference Image into Maya](../../../../3d-modeling/maya/how-to-insert-reference-image-maya-tutorial.md)
-- <!-- TODO Insert Reference Image Blender Video -->
+- [How to Insert a Reference Image into Blender](../../../../3d-modeling/blender/reference-image-blender.md)
 
 #### Modeling Workflows
 
