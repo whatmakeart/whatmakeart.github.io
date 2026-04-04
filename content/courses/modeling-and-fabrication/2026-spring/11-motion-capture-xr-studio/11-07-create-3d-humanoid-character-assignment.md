@@ -1,7 +1,7 @@
 ---
 title: 11.07 Create 3D Humanoid Character Assignment
 date: 2026-04-01T09:00:00-04:00
-lastmod: 2026-04-03T20:36:45-04:00
+lastmod: 2026-04-04T06:12:19-04:00
 ---
 
 ## Assignment Deliverables
@@ -13,14 +13,14 @@ lastmod: 2026-04-03T20:36:45-04:00
 
 Now that we have successfully captured motion data in the XR studio, we need digital avatars to use the motion data. For this assignment, you will design, model, texture, and auto-rig a simple 3D humanoid character. In our next class, we will be retargeting the mocap data you recorded onto these characters. The geometry can be simple or complex.
 
-Your character can be very simple. It may be built from primitive forms such as cylinders, spheres, and cubes, or it can be box modeled, sculpted, remeshed, or generated with 3D tools from images or text prompts and then cleaned up. The goal is to create a readable humanoid form that can be successfully uploaded to Mixamo and returned as a rigged character in a T-pose.
+Your character can be very simple. It may be built from primitive forms such as cylinders, spheres, and cubes, or it can be box modeled, sculpted, remeshed, or generated with 3D tools from images or text prompts and then cleaned up. The goal is to create a readable humanoid form that can be successfully uploaded to [Mixamo](https://www.mixamo.com/#/) and returned as a rigged character in a [T-pose](https://youtu.be/cpR-j2gfZ6Q).
 
 ### Character Requirements
 
 - be a humanoid form by having a head, torso, two arms, and two legs
 - have a texture or painted material design
 - auto-rigged in Mixamo, Blender, or Maya
-- saved as an FBX in a T-Pose from Mixamo or other rigging method
+- saved as an FBX in a T-Pose from [Mixamo](https://www.mixamo.com/#/) or other rigging method
 
 ## Assignment Process
 
@@ -78,29 +78,48 @@ Your character should have at least a basic painted surface treatment. The textu
 5. Use the correct forward/up axis if necessary for clean transfer.
 6. Save the file.
 
-### 4. Upload to Mixamo to Auto Rig
+### 4. Upload to Mixamo to Auto Rig and Download T-Pose
 
-Upload the character `fbx` file to Mixamo to auto rig. After rigging, download a rigged T-Pose. Upload the T-pose to the assignment page.
+1. Upload the character `fbx` file to [Mixamo](https://www.mixamo.com/#/) to auto rig.
+2. After rigging, download a rigged T-Pose from Mixamo.
+3. Upload the T-pose to the assignment page.
 
 ## Assignment Resources
+
+- [Simple Geometry Character Maya](https://youtu.be/M0i1Srs39kE)
+- [Simple Geometry Character Blender](https://youtu.be/h-QnVcXeKJ0)
+- [T-Pose from Mixamo](https://youtu.be/cpR-j2gfZ6Q)
+
+<div class="video-grid">
+
+<div class="video-card">
+
+### Simple Geometry Character Maya
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/M0i1Srs39kE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+</div>
 
-[Simple Geometry Character Maya](https://youtu.be/M0i1Srs39kE)
+<div class="video-card">
+
+### Simple Geometry Character Blender
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/h-QnVcXeKJ0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+</div>
 
-[Simple Geometry Character Blender](https://youtu.be/h-QnVcXeKJ0)
+<div class="video-card">
+
+### T-pose from Mixamo
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/cpR-j2gfZ6Q?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+</div>
 
-[T-Pose from Mixamo](https://youtu.be/cpR-j2gfZ6Q)
+</div>
 
 ## Grading Rubric
 
