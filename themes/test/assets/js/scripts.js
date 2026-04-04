@@ -137,6 +137,7 @@ const sendIframeHeight = (() => {
       if (target) {
         // The '*' target origin is acceptable here as recommended by Canvas docs for this message.
         target.postMessage(message, "*");
+        target.postMessage(JSON.stringify(message), "*");
       }
     });
   };
