@@ -1,7 +1,7 @@
 ---
 title: 11.07 Create 3D Humanoid Character Assignment
 date: 2026-04-01T09:00:00-04:00
-lastmod: 2026-04-03T14:53:19-04:00
+lastmod: 2026-04-03T20:36:45-04:00
 ---
 
 ## Assignment Deliverables
@@ -59,24 +59,24 @@ Your character should have at least a basic painted surface treatment. The textu
 
 #### Maya FBX Export
 
-<!-- TODO Maya FBX Export Video -->
+[How to Export FBX with Embedded Textures from Maya](../../../../3d-modeling/maya/export-fbx-with-embeded-textures-maya.md)
 
 1. Select the character mesh.
 2. Go to File > Export Selection.
 3. Choose FBX.
-4. Make sure the export includes geometry and texture references if needed.
-5. Save the file with the required naming convention.
+4. Make sure to check Embed Media in the options.
+5. Save the file.
 
 #### Blender FBX Export
 
-<!-- TODO Blender FBX Export Video -->
+[How to Embed Textures in FBX Export - Blender](../../../../3d-modeling/blender/embed-textures-in-fbx-export-blender.md)
 
 1. Select the character object or objects.
 2. Go to File > Export > FBX.
 3. Export only selected objects if needed.
 4. Apply transforms before export.
 5. Use the correct forward/up axis if necessary for clean transfer.
-6. Save the file with the required naming convention.
+6. Save the file.
 
 ### 4. Upload to Mixamo to Auto Rig
 

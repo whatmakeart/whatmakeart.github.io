@@ -1,7 +1,7 @@
 ---
 title: Blender vs Maya
 date: 2024-01-26T05:22:49
-lastmod: 2026-03-04T06:31:57-04:00
+lastmod: 2026-04-03T20:16:00-04:00
 ---
 
 ## Blender vs Maya Basic Rendering
@@ -42,7 +42,7 @@ lastmod: 2026-03-04T06:31:57-04:00
 | [Maya 3D Paint Complex Object](https://youtu.be/0JY8UA75qjI)                     | [Blender Texture Paint Complex Object](https://youtu.be/Oz4fiddcazI)                           |
 | [Maya Multiple Renderable Cameras](https://youtu.be/g0btNU7YPUo)                 |                                                                                                |
 | [Maya Export to Premiere](https://youtu.be/Ds2QJryBf84)                          |                                                                                                |
-| [Maya Insert Reference Image](https://youtu.be/tXJFJa-nsAA)                      |                                                                                                |
+| [Maya Insert Reference Image](https://youtu.be/tXJFJa-nsAA)                      | [Blender Import Reference Image](blender/reference-image-blender.md)                           |
 | [Maya Change Size of Tool](https://youtu.be/66X6WzHkhq8)                         |                                                                                                |
 | [Maya Cube to Bear](https://youtu.be/2hq1F8gkn4A)                                |                                                                                                |
 | [Maya Soccer Ball](https://youtu.be/GcDalspwhlc)                                 |                                                                                                |
