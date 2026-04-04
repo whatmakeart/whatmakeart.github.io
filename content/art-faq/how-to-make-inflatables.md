@@ -1,7 +1,7 @@
 ---
 title: How to Make Inflatables
 date: 2021-04-05T13:10:48
-lastmod: 2025-10-06T10:17:29
+lastmod: 2026-04-04T07:18:03-04:00
 ---
 
 There are a number of techniques and materials that you can use to make inflatables ranging from the relatively inexpensive to quite costly.
@@ -56,7 +56,7 @@ I learned [3D modeling](../3d-modeling/3d-modeling.md) on [SketchUp](../3d-model
 
 Later I switched to [Blender](../3d-modeling/blender/blender.md) for mesh modeling. It works great and has UV mapping so you can add seams wear you want your sewing seems to be. Then you can UV unwrap it and have flat pieces. Sometimes if you are not careful there can be distortion but just use common sense and cut things up like clothes are. You can then arrange the flat pieces on virtual fabric in Blender if you want.
 
-There is also a stuffed animal plugin for Blender that works pretty well for visualization and for making sewing patterns. I use it with my students all the time. The [Seams to Sewing Pattern](https://thomaskole.nl/s2s/) Blender addon was written by [Thomas Kole](https://thomaskole.nl/).
+There is also a stuffed animal plugin for Blender that works pretty well for visualization and for making sewing patterns. I use it with my students all the time. The [Seams to Sewing Pattern](../3d-modeling/blender/install-seams-to-sewing-pattern-add-on-blender.md) Blender addon was written by [Thomas Kole](https://thomaskole.nl/).
 
 I just saw this online, looks interesting, but have not used it yet https://plushify.net/#/
 
@@ -76,9 +76,9 @@ Urethane coated Oxford Nylon or Polyester works well. This is a 210 Denier weigh
 
 #### Plenty of other suppliers than these:
 
-https://www.seattlefabrics.com/60-210-D-Coated-SALE-Oxford-599-linear-yard_p_41.html
-https://rockywoods.com/products/200-denier-packcloth-nylon-fabric
-https://www.aliexpress.us/item/3256805742171438.html - This was the first hit on AliExpress but they might have some new customer deals at various vendors
+- https://www.seattlefabrics.com/60-210-D-Coated-SALE-Oxford-599-linear-yard_p_41.html
+- https://rockywoods.com/products/200-denier-packcloth-nylon-fabric
+- https://www.aliexpress.us/item/3256805742171438.html - This was the first hit on AliExpress but they might have some new customer deals at various vendors
 
 ### Fans
 
