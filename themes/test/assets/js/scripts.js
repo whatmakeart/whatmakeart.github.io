@@ -45,6 +45,7 @@
 
 // A consistent reference to the browser's user agent string for environment detection.
 const UA = navigator.userAgent || "";
+const CANVAS_APP_EXTRA_BOTTOM = 3000; // add extra height to mobile app assignments
 
 /**
  * Checks if the window is currently embedded inside an iframe.
@@ -224,6 +225,7 @@ if (document.readyState === "loading") {
     () => {
       if (isEmbedded()) {
         removeNavigationEmbed();
+        addCanvasAppBottomSpacer();
         sendIframeHeight(); // Send initial height after DOM is ready.
       }
     },
@@ -233,6 +235,7 @@ if (document.readyState === "loading") {
   // If the script runs after the DOM is ready, execute immediately.
   if (isEmbedded()) {
     removeNavigationEmbed();
+    addCanvasAppBottomSpacer();
     sendIframeHeight();
   }
 }
@@ -244,6 +247,7 @@ window.addEventListener(
   () => {
     checkIfMobile();
     if (isEmbedded()) {
+      addCanvasAppBottomSpacer();
       sendIframeHeight();
     }
   },
@@ -275,6 +279,41 @@ if (document.body) {
  * SECTION 5: Miscellaneous Utility Functions
  * =============================================================================
  */
+
+function isLikelyCanvasMobileApp() {
+  const ua = navigator.userAgent || "";
+  const ref = document.referrer || "";
+
+  const isMobile = /iPhone|iPad|iPod|Android/i.test(ua);
+  const hasCanvasHint =
+    /canvas|instructure/i.test(ua) || /canvas|instructure/i.test(ref);
+
+  const isWebView =
+    /\bwv\b/i.test(ua) ||
+    (/Android/i.test(ua) && !/Chrome\/[\d.]+ Mobile/i.test(ua)) ||
+    (/iPhone|iPad|iPod/i.test(ua) && !/Safari/i.test(ua));
+
+  return isMobile && (hasCanvasHint || isWebView);
+}
+
+function addCanvasAppBottomSpacer(extra = CANVAS_APP_EXTRA_BOTTOM) {
+  if (!isLikelyCanvasMobileApp()) return;
+  if (!document.body) return;
+
+  let spacer = document.getElementById("canvas-app-bottom-spacer");
+
+  if (!spacer) {
+    spacer = document.createElement("div");
+    spacer.id = "canvas-app-bottom-spacer";
+    spacer.setAttribute("aria-hidden", "true");
+    spacer.style.width = "100%";
+    spacer.style.height = `${extra}px`;
+    spacer.style.pointerEvents = "none";
+    document.body.appendChild(spacer);
+  } else {
+    spacer.style.height = `${extra}px`;
+  }
+}
 
 /**
  * A simple check for mobile devices to apply specific styles if needed.
