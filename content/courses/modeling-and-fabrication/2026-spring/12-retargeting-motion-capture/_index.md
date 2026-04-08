@@ -1,5 +1,5 @@
 ---
-title: 12 CNC Design and Modeling
+title: 12 Retargeting Motion Capture
 date: 2026-04-08T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-04-07T09:07:05-04:00
 ---

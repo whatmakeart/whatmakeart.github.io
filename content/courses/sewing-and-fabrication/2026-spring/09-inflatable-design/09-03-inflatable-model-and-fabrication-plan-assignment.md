@@ -1,7 +1,7 @@
 ---
-title: 09.03 Inflatable Modeling and Fabrication Plan
+title: 09.03 Inflatable Model and Fabrication Plan
 date: 2026-04-06T09:00:00-04:00
-lastmod: 2026-04-04T07:44:37-04:00
+lastmod: 2026-04-06T08:10:56-04:00
 ---
 
 ## Assignment Deliverables
