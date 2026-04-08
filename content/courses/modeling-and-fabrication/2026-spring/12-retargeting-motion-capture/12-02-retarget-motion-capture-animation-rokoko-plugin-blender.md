@@ -1,7 +1,7 @@
 ---
 title: 12.01 Retarget Motion Capture Animation with Rokoko Plugin
 date: 2026-04-08T09:00:00-04:00
-lastmod: 2026-04-07T09:09:56-04:00
+lastmod: 2026-04-08T08:58:36-04:00
 ---
 
 ## Overview

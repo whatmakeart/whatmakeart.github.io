@@ -1,8 +1,14 @@
 ---
 title: 12.03 Retarget Mocap Animation Human Inverse Kinematics Maya
 date: 2026-04-08T09:00:00-04:00
-lastmod: 2026-04-08T07:31:50-04:00
+lastmod: 2026-04-08T08:55:51-04:00
 ---
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/QhZDSUkRIoM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+- [Retarget Mixamo Character to Mocap Data with HIK in Maya](https://youtu.be/QhZDSUkRIoM)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ua8H0KDLJ34?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
