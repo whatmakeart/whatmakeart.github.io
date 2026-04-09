@@ -1,7 +1,7 @@
 ---
 title: 12.06 Mocap Retarget Animation Exercise Assignment
 date: 2026-04-08T09:00:00-04:00
-lastmod: 2026-04-09T05:24:52-04:00
+lastmod: 2026-04-09T07:49:24-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,8 +11,8 @@ lastmod: 2026-04-09T05:24:52-04:00
 
 ## Assignment Overview
 
-Use Maya or Blender to retarget motion capture from Motive onto a character auto rigged in t-pose with Mixamo.
-In this exercise, you will connect raw motion capture data and final 3D character animation. Y
+Use [Maya](../../../../3d-modeling/maya/maya.md) or [Blender](../../../../3d-modeling/blender/blender.md) to retarget motion capture from Motive onto a character auto rigged in t-pose with Mixamo.
+In this exercise, you will connect raw motion capture data and final 3D character animation.
 
 This project will test your technical ability to transfer skeletal data, build a cohesive 3D scene, and apply basic cinematography and sound design.
 
@@ -41,6 +41,7 @@ This project will test your technical ability to transfer skeletal data, build a
 ### Combining Multiple Mocap Animations
 
 - [Combine and Blend Multiple Animations in Maya](https://youtu.be/4YFpcGyNQQQ)
+- [Combine and Blend Multiple Animations in Blender](https://youtu.be/0Yz4eFFeaeA)
 
 <div class="video-grid">
 
@@ -53,12 +54,21 @@ This project will test your technical ability to transfer skeletal data, build a
 </div>
 </div>
 
+<div class="video-card">
+
+#### Combine and Blend Multiple Animations in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/0Yz4eFFeaeA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
 </div>
 
 ### Mocap Retargeting
 
 - [Install Rokoko Plugin in Blender 5.0 / 5.1](https://youtu.be/APki_ztXyvA)
-- [Retarget Motion Capture Animation with Rokoko Plugin](https://youtu.be/fEwmjBCrJ88)
+- [Retarget Motion Capture Animation with Rokoko Plugin in Blender](https://youtu.be/fEwmjBCrJ88)
 - [Maya Human IK Setup Mixamo Preset without Fingers](https://youtu.be/ua8H0KDLJ34)
 - [Maya Human IK Setup Mixamo Preset with Fingers](https://youtu.be/GsEBv-WaEcw)
 - [Retarget Mixamo Character to Mocap Data with HIK in Maya](https://youtu.be/QhZDSUkRIoM)
@@ -76,7 +86,7 @@ This project will test your technical ability to transfer skeletal data, build a
 
 <div class="video-card">
 
-#### Retarget Motion Capture Animation with Rokoko Plugin
+#### Retarget Motion Capture Animation with Rokoko Plugin in Blender
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fEwmjBCrJ88?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
