@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus 121.07 Thursday
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-03-18T05:25:51-04:00
+lastmod: 2026-04-15T04:44:37-04:00
 ---
 
 ### Course Information
@@ -143,8 +143,8 @@ The following materials are not required for the course but may be useful to you
 | 9          | March 19    | [Polygon Topology and Texturing](../09-polygon-topology-and-texturing/09-00-introduction.md)                                               |
 | 10         | March 26    | [3D Animation](../10-3d-animation/10-00-introduction.md)                                                                                   |
 | 11         | April 2     | [XR Studio Motion Capture](../11-motion-capture-xr-studio/11-00-introduction.md)                                                           |
-| 12         | April 9     | CNC Design / Modeling                                                                                                                      |
-| 13         | April 16    | CNC Fabrication                                                                                                                            |
+| 12         | April 9     | [Retargeting Motion Capture](../12-retargeting-motion-capture/12-00-introduction.md)                                                       |
+| 13         | April 16    | [Virtual Environments](../13-virtual-environments/13-00-introduction.md)                                                                   |
 | 14         | April 23    | [Virtual Production](../14-virtual-production/14-00-introduction.md)                                                                       |
 | 15         | April 30    | [Final Crit](../15-final-critique/15-00-introduction.md)                                                                                   |
 | --         | May 5 - 9   | BFA Reviews and Exhibitions                                                                                                                |
