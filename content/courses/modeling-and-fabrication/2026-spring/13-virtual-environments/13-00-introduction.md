@@ -1,12 +1,12 @@
 ---
-title: 12.00 Introduction
+title: 13.00 Introduction
 date: 2026-04-15T09:00:00-04:00
-lastmod: 2026-04-15T07:09:17-04:00
+lastmod: 2026-04-16T08:26:18-04:00
 ---
 
 ## Overview
 
-Next week, we will be using the virtual production LED volume to bring your 3D creations to life. Your goal for this week is to design basic environments, like small rooms or little villages—and animated characters in Maya or Blender, and then successfully export these assets as USD and FBX files for later transfer into Unreal Engine. The focus is on properly scaling your models, keep materials beginner-friendly, and use a standard format called USD (Universal Scene Description) to easily drop your scenes directly into the virtual world without breaking them.
+Next week, we will be using the [virtual production](../../../../video/virtual-production/virtual-production.md) LED volume to bring your 3D creations to life. Your goal for this week is to design basic environments, like small rooms or little villages—and animated characters in [Maya](../../../../3d-modeling/maya/maya.md) or [Blender](../../../../3d-modeling/blender/blender.md), and then successfully export these assets as USD and FBX files for later transfer into Unreal Engine. The focus is on properly scaling your models, keep materials beginner-friendly, and use a standard format called USD (Universal Scene Description) to easily drop your scenes directly into the virtual world without breaking them.
 
 ## Learning Objectives
 
