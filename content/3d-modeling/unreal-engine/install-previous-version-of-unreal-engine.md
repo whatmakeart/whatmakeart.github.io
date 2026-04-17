@@ -1,7 +1,8 @@
 ---
 title: Install Previous Version of Unreal Engine
-date: 2025-09-30T13:54:18
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2025-09-30T13:54:18-04:00
+lastmod: 2026-04-17T07:04:17-04:00
+featured-image: /3d-modeling/unreal-engine/attachments/install-previous-version-of-unreal-engine.jpg
 ---
 
 <div class="video-grid">
@@ -13,5 +14,3 @@ lastmod: 2025-12-23T10:12:35-04:00
 </div>
 
 [Install Previous Version of Unreal Engine](https://youtu.be/OMrvhrPEYeg)
-
-[![Install Previous Version of Unreal Engine](attachments/install-previous-version-of-unreal-engine.jpg)](https://youtu.be/OMrvhrPEYeg)

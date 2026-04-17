@@ -1,7 +1,8 @@
 ---
 title: Create New Project in Unreal Engine
-date: 2025-09-30T13:56:54
-lastmod: 2025-12-23T10:12:35-04:00
+date: 2025-09-30T13:56:54-04:00
+lastmod: 2026-04-17T07:04:59-04:00
+featured-image: /3d-modeling/unreal-engine/attachments/create-new-project-unreal-engine.jpg
 ---
 
 <div class="video-grid">
@@ -13,5 +14,3 @@ lastmod: 2025-12-23T10:12:35-04:00
 </div>
 
 [Create New Project in Unreal Engine](https://youtu.be/N9ckBjor_t8)
-
-[![Create New Project in Unreal Engine](attachments/create-new-project-unreal-engine.jpg)](https://youtu.be/N9ckBjor_t8)

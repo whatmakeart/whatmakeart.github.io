@@ -1,7 +1,7 @@
 ---
 title: 13.03 3D Virtual Environment USD Export Assignment
 date: 2026-04-15T09:00:00-04:00
-lastmod: 2026-04-15T11:57:43-04:00
+lastmod: 2026-04-17T07:10:43-04:00
 ---
 
 ## Assignment Deliverables
@@ -61,5 +61,6 @@ You may create all assets yourself, or combine your own work with downloaded mod
 
 1. Gather all files together in a folder.
 2. Export a USD scene
+   - [How to Export USD from Maya](https://youtu.be/9Ta5ZyD59vY)
 3. Export 2 different render images
 4. Compress everything into a zip archive.
