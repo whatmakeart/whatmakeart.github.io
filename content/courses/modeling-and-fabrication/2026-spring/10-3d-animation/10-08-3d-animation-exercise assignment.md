@@ -1,7 +1,7 @@
 ---
 title: 10.08 3D Animation Exercies Assignment
 date: 2026-03-25T09:00:00-04:00
-lastmod: 2026-03-25T08:57:26-04:00
+lastmod: 2026-04-20T06:50:34-04:00
 ---
 
 ## Assignment Deliverables
@@ -75,11 +75,10 @@ Designing and applying textures to the 3D objects using UV mapping and texturing
 
 | Assessment                       | Weight    |
 | -------------------------------- | --------- |
-| Multiple Objects Animated        | 15 points |
-| Camera Animated                  | 15 points |
-| Multiple Objects Animated        | 15 points |
+| Multiple Objects Animated        | 20 points |
+| Camera Animated                  | 20 points |
 | Show 1 Basic Animation Principle | 15 points |
-| Include 1 Light                  | 10 points |
+| Include 1 Light                  | 15 points |
 | UV Textures Applied to Objects   | 10 points |
 | Include 1 Sound Effect           | 10 points |
 | File Management and Labeling     | 10 Points |
