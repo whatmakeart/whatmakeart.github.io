@@ -1,7 +1,7 @@
 ---
 title: 14.04 Virtual Production Assignment
-date: 2025-12-05T09:30:00-04:00
-lastmod: 2026-04-22T06:25:27-04:00
+date: 2026-04-22T09:00:00-04:00
+lastmod: 2026-04-22T06:36:54-04:00
 ---
 
 ## Assignment Deliverables
