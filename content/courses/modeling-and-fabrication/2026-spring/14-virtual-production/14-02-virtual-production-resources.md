@@ -1,7 +1,7 @@
 ---
-title: 11.03 Virtual Production Resources
-date: 2025-11-07T09:30:00-04:00
-lastmod: 2026-04-22T06:15:45-04:00
+title: 14.02 Virtual Production Resources
+date: 2025-12-05T09:30:00-04:00
+lastmod: 2026-04-22T06:16:22-04:00
 toc: true
 ---
 

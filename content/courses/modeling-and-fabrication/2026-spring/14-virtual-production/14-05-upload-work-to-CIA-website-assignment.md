@@ -1,13 +1,13 @@
 ---
 title: 14.05 Upload work to CIA Website Assignment
 date: 2026-04-22T09:00:00-04:00
-lastmod: 2025-12-23T14:56:48-04:00
+lastmod: 2026-04-22T06:02:09-04:00
 ---
 
 ## Assignment Deliverables
 
 1. Upload confirmation screenshot of submission of a work to the CIA website via the form below
-   - Label file YYYYMMDD Lastname Firstname CIA Website Work Submission
+   - Label file YYYY-MM-DD Lastname Firstname CIA Website Work Submission
 
 ## Instructions
 

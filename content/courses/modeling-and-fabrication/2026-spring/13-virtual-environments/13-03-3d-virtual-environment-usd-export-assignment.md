@@ -1,7 +1,7 @@
 ---
 title: 13.03 3D Virtual Environment USD Export Assignment
 date: 2026-04-15T09:00:00-04:00
-lastmod: 2026-04-17T12:17:48-04:00
+lastmod: 2026-04-22T06:01:37-04:00
 ---
 
 ## Assignment Deliverables
@@ -66,3 +66,18 @@ You may create all assets yourself, or combine your own work with downloaded mod
 3. Export 2 different render images
 4. Compress everything into a zip archive.
    - [How to compress `zip` archive on a Mac](https://youtu.be/bJa_i7X-fkc)
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Assessment                   | Weight    |
+| ---------------------------- | --------- |
+| Clear Environment or Setting | 30 points |
+| Minimum 8 - 12 Objects       | 20 points |
+| 3 Different Materials        | 15 points |
+| 2 Light Sources              | 15 points |
+| Textures                     | 10 points |
+| File Management and Labeling | 10 Points |
+
+</div>
