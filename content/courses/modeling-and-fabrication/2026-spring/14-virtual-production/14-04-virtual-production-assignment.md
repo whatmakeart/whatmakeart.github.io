@@ -1,13 +1,15 @@
 ---
 title: 14.04 Virtual Production Assignment
 date: 2026-04-22T09:00:00-04:00
-lastmod: 2026-04-22T06:36:54-04:00
+lastmod: 2026-04-23T07:10:16-04:00
 ---
 
 ## Assignment Deliverables
 
 1. Exported video made with Virtual Production
    - Label file YYYY-MM-DD Lastname Firstname virtual production project (`.mp4`, `.mov`)
+
+[Link to Assignment Online if Unable to Scroll in Canvas LMS](#)
 
 ## Assignment Overview
 
@@ -16,6 +18,7 @@ Each student still turns in the project. The final video may be from the same so
 ### Requirements
 
 - Combine a minimum of 2 shots from the XR studio into a single video
+  - _You may use any of the clips from the Virtual Production shoot. You do not need to used clips from your environment._
 - Color Correct the video with Lumetri Color
 - Add sound / music / audio
 - Optional but, consider rendering video of the 3D Environment from Blender, Maya, or Unreal Engine to create wider establishing shots and scene transitions
