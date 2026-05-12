@@ -1,52 +1,44 @@
 ---
-title: 00.00 Modeling and Expanded Making Syllabus
-date: 2025-08-29T09:30:00
-lastmod: 2026-05-07T08:59:21-04:00
+title: 00.00 Co/Lab Syllabus
+date: 2026-08-28T12:00:00-04:00
+lastmod: 2026-05-12T07:56:32-04:00
 ---
 
 ### Course Information
 
-Course Number: SEM 317.01
+Course Number: CORE 175
 
-Department: Sculpture + Expanded Media
+Department: CORE
 
-Room: 319A Cleveland Institute of Art
+Room: 206 Cleveland Institute of Art Interactive Media Lab
 
-Time: Fridays 9:30 am - 11:45 am & 2:00 pm - 4:15 pm
+Time: Wednesdays 12:00 pm - 2:00 pm & 2:30 pm - 5:00 pm
 
 Faculty: Jimmy Kuehnle - jkuehnle@cia.edu
 
 Office Hours: By appointment
 
-Semester: Fall 2025
+Semester: Fall 2026
 
-[Canvas Course Page](https://cia.instructure.com/courses/2096)
+[Canvas Course Page]()
 
-[Course Website](https://whatmakeart.com/courses/modeling-and-expanded-making/2025-fall/)
+[Course Website](https://whatmakeart.com/courses/co-lab/2026-fall/)
 
 ## Course Description
 
-Planning large-scale, site-specific installations, creating compelling proposals for public commissions, and making models to test ideas all require 3D Modeling. Students will have 3D modeling tools right next to their paper sketchbooks, scissors, table saws, CNCs, and 3D printers. Practice in types of 3D modeling software solidifies fundamental modeling and visualization concepts and techniques. Workshops in 3D design sketching, rendering, solid modeling, architectural site modeling, 3D printing, CNC machining, and laser cutting cultivate a fluid integration of 3D modeling and digital fabrication into a contemporary sculpture and expanded media studio practice. Open to all majors. The course reinforces the production of high-quality documentation of artwork for presentation at venues, portfolios, and proposals. Reviews file management, digital workflows, and digital literacy. Course structure consists of introductory concept lectures, technical instruction, lab time with guidance and group critique of finished assignments.
+Co/Lab is a collaborative, project-based course that introduces students to introductory professional contexts through partnerships with peers, faculty, and external collaborators. Students develop early professional creative context awareness while practicing collaboration, communication, and basic project management. The course builds foundational professionalism in the first year, preparing students for advanced collaborative work across the curriculum.
 
 ## Course Goals and Learning Objectives
 
-Upon completion of the course, students will have the opportunity to:
+By the end of this course, students will the opportunity to:
 
-- Demonstrate advantages and disadvantages of different 3D modeling tools
-- Determine the most appropriate 3D modeling tools for a particular project or task in the studio
-- Create new work using digital fabrication techniques including CNC machining, laser cutting, 3D printing, and water jet cutting
-- Produce compelling project proposal imagery with 3D modeling tools and renderers
-- Incorporate the Fabrication Studios and think\[box\] to create artwork
-- Organize files and digital resources for complex studio projects
-- Design site-specific installations with accurate dimensions using 3D modeling
-- Operate digital cameras to capture high quality, visual documentation of completed projects
-- Post-process visual documentation with software tools for presentation and display
+- Collaborate with peers, faculty, and external partners in guided, introductory projects that respond to real-world creative briefs;
+- Demonstrate emerging professionalism through effective communication, accountability, and teamwork within collaborative settings;
+- Apply foundational project management strategies such as scheduling, role definition, and progress tracking in team-based work;
+- Use creative problem-solving strategies to develop and present collaborative outcomes in response to shared goals;
+- Reflect on collaborative experiences to understand how professional contexts begin to shape their evolving creative identity and practice.
 
 ### Additional Topics
-
-- Real-World Scale 3D Scanning and Fitting
-- Preparing Submissions for Public Art RFPs
-- High-Quality Visual Documentation and Presentation
 
 ## Course Organization / Method of Instruction
 
@@ -59,25 +51,25 @@ Upon completion of the course, students will have the opportunity to:
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**         | **Topic**                                                                                                                    |
-| -------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 1        | August 29        | [Introduction to 3D Modeling Tools and Digital Fabrication](../01-introduction/01-00-introduction.md)                        |
-| 2        | September 5      | [3D Visualization, Rendering and Compositing](../02-3d-visualization-rendering-and-compositing/02-00-introduction.md)        |
-| 3        | September 12     | [Floor Plan to 3D Model](../03-floor-plan-to-3d-model/03-00-introduction.md)                                                 |
-| 4        | September 19     | [UV Mapping and 3D Texturing](../04-uv-mapping-and-3d-texturing/04-00-introduction.md)                                       |
-| 5        | September 26     | [3D Capture](../05-3d-capture/05-00-introduction.md)                                                                         |
-| 6        | October 3        | [Laser Cutting and 3D Printing](../06-laser-cutting-and-3d-printing/06-00-introduction.md)                                   |
-| 7        | October 10       | [Laser Cutting and 3D Printing Modeling](../07-laser-cutting-and-3d-printing-modeling/07-00-introduction.md)                 |
-| 8        | October 17       | [Laser Cutting and 3D Printing Design Iteration](../08-laser-cutting-and-3d-printing-design-iteration/08-01-introduction.md) |
-| 9        | October 24       | [Laser Cutting and 3D Printing Fabrication](../09-laser-cutting-and-3d-printing-fabrication/09-00-introduction.md)           |
-| 10       | October 31       | [Virtual Production Introduction](../10-virtual-production-introduction/10-00-introduction.md)                               |
-| 11       | November 7       | [Virtual Production Shooting ](../11-virtual-production-shooting/11-00-introduction.md)                                      |
-| 12       | November 14      | [Virtual Production Lighting and Sound](../12-virtual-production-lighting-and-sound/12-00-introduction.md)                   |
-| 13       | November 21      | [Virtual Production Action](../13-virtual-production-action/13-00-introduction.md)                                           |
-| 14       | November 28      | Thanksgiving Break. No Class.                                                                                                |
-| 15       | December 5       | [Virtual Production Post Production](../14-virtual-production-post-production/14-00-introduction.md)                         |
-| 16       | December 12      | [Final Critique](../15-final-critique/15-00-introduction.md)                                                                 |
-| 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                                     |
+| **Week** | **Date**         | **Topic**                                                                |
+| -------- | ---------------- | ------------------------------------------------------------------------ |
+| 1        | August 29        | 3D Capture                                                               |
+| 2        | September 5      |                                                                          |
+| 3        | September 12     |                                                                          |
+| 4        | September 19     |                                                                          |
+| 5        | September 26     |                                                                          |
+| 6        | October 3        |                                                                          |
+| 7        | October 10       |                                                                          |
+| 8        | October 17       |                                                                          |
+| 9        | October 24       |                                                                          |
+| 10       | October 31       |                                                                          |
+| 11       | November 7       |                                                                          |
+| 12       | November 14      |                                                                          |
+| 13       | November 21      |                                                                          |
+| 14       | November 28      | Thanksgiving Break. No Class.                                            |
+| 15       | December 5       |                                                                          |
+| 16       | December 12      |                                                                          |
+| 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads) |
 
 </div>
 
@@ -85,31 +77,12 @@ _\* Course schedule subject to change._
 
 ### Key Dates:
 
-- Aug 25 – First day of classes
-- Sep 1 - Labor Day. No Classes
-- Oct 17 – Mid Term Grades DUE
-- Oct 20 - 21 – Student Fall Break. No classes. Faculty In Service Days & Teaching Summit
-- Oct 31 – Last day for students to withdraw from a course without a grade penalty
-- Nov 26 - 28 - Thanksgiving Break. No classes.
-- Dec 5 – Final Day of Classes
-- Dec 19 – Final Grades DUE for all students AT 9AM
-
 ### Required Textbooks and Readings
 
 - No required textbook
-- Course resources are available on [Canvas](https://cia.instructure.com/courses/2096) or [online](https://whatmakeart.com/courses/modeling-and-expanded-making/2025-fall/)
+- Course resources are available on [Canvas]() or [online](https://whatmakeart.com/courses/co-lab/2026-fall/)
 
 ### Required Supplies
-
-- Laptop
-- Sketching materials
-- Materials for projects
-- Estimated cost of project materials is $0 - $100
-
-### Recommended Materials
-
-- external storage device for digital backups
-- 3 button mouse
 
 ## Course Policies and Expectations
 
@@ -117,8 +90,8 @@ _\* Course schedule subject to change._
 
 You’re required to contribute to all critiques, even if your own project is not complete. Successful crits depend on each student’s generosity in sharing their honest thoughts, opinions and suggestions.
 
-- [How to Critique Art](../../../../art-faq/how-to-critique-art.md)
-- [Art School Critique No, No's](../../../../art-faq/art-school-critique-no-nos.md)
+- [How to Critique Art](../../../../../art-faq/how-to-critique-art.md)
+- [Art School Critique No, No's](../../../../../art-faq/art-school-critique-no-nos.md)
 
 ### Late Work
 
@@ -131,10 +104,10 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 ### File Management
 
-- We will use [Canvas to turn in assignments](https://cia.instructure.com/courses/2096).
+- We will use [Canvas to turn in assignments]().
 - Use this format for naming all your class digital files:
   - YYYY-MM-DD Smith Lane Project 1
-  - 2025-08-29 Smith Lane First Day Project 1
+  - 2026-08-26 Smith Lane First Day Project 1
 
 ## Cleveland Institute of Art Required Policy Language
 

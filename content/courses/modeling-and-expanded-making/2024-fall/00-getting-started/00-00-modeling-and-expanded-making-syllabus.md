@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2024-08-21T09:00:00
-lastmod: 2025-09-04T21:14:57
+lastmod: 2026-05-07T08:59:29-04:00
 ---
 
 ## Modeling and Expanded Making Syllabus
@@ -32,7 +32,7 @@ Planning large-scale, site-specific installations, creating compelling proposals
 
 ## Course Goals and Learning Objectives
 
-Upon completion of the course, students will have to opportunity to:
+Upon completion of the course, students will have the opportunity to:
 
 - Demonstrate advantages and disadvantages of different 3D modeling tools
 - Determine the most appropriate 3D modeling tools for a particular project or task in the studio
