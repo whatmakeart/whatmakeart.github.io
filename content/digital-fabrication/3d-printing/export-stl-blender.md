@@ -1,8 +1,10 @@
 ---
 title: Export STL Blender
 date: 2023-06-16T05:41:56
-lastmod: 2026-01-13T14:48:49
+lastmod: 2026-08-13T06:10:29-04:00
 ---
+
+<!-- TODO make video export STL Blender -->
 
 [Blender](../../3d-modeling/blender/blender.md)'s default unit scale is 1:1 meter. The default cube in a new Blender file is 2 units large, so it is a 2 x 2 x 2 meter cube. Scale is important for 3D prints. You can either model in meters, then scale the object to the correct size before export, or you can change the unit scale in Blender and work in millimeters. Sometimes it is easier to work larger and scale down but you may prefer to work at the exact size of the final object.
 
