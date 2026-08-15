@@ -1,12 +1,12 @@
 ---
 title: 00.01 Course Resources
 date: 2026-08-28T12:00:00-04:00
-lastmod: 2026-05-09T09:52:36-04:00
+lastmod: 2026-08-15T06:01:39-04:00
 ---
 
 ## Sketching
 
-- [Ideation Sketches](../../../../../drawing/ideation-sketches.md)
+- [Ideation Sketches](../../../../drawing/ideation-sketches.md)
 
 ## Fabrication Fundamentals
 

@@ -1,7 +1,7 @@
 ---
 title: 00.00 Co/Lab Syllabus
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-14T20:51:04-04:00
+lastmod: 2026-08-15T07:11:34-04:00
 ---
 
 ### Course Information
@@ -10,7 +10,7 @@ Course Number: CORE 175
 
 Department: CORE
 
-Room: 206 Cleveland Institute of Art Interactive Media Lab
+Room: C206 Cleveland Institute of Art Interactive Media Lab
 
 Time: Wednesdays 12:00 pm - 2:00 pm & 2:30 pm - 5:00 pm
 
@@ -37,14 +37,13 @@ By the end of this course, students will the opportunity to:
 - Apply foundational project management strategies such as scheduling, role definition, and progress tracking in team-based work;
 - Use creative problem-solving strategies to develop and present collaborative outcomes in response to shared goals;
 - Reflect on collaborative experiences to understand how professional contexts begin to shape their evolving creative identity and practice.
-  svgfgfgf
 
 ## Course Organization / Method of Instruction
 
 - This course has 4.5 hours of regularly scheduled instructional time. In addition to the regularly scheduled instructional time, you’ll need to plan on 4.5 hours of preparation and homework time for each of your classes.
 - This course is a combination of studio work as well as lecture, group dialogue, critiques etc.
 - Projects will sometimes have in-progress reviews in addition to critiques when the projects are finished. The instructor as well as students participate in the critiques and is part of the studio learning experience and a big part of the course.
-- Students must avoid behavior that disrupts the learning process, or that otherwise may be offensive to classmates, or that is disrespectful to the instructor.
+- Students must avoid behavior that disrupts the learning process.
 
 ## Course Schedule & Requirements\*
 
@@ -53,7 +52,7 @@ By the end of this course, students will the opportunity to:
 | **Week** | **Date**         | **Topic**                                                                |
 | -------- | ---------------- | ------------------------------------------------------------------------ |
 | 1        | August 29        | 3D Capture                                                               |
-| 2        | September 5      |                                                                          |
+| 2        | September 5      | 3D Modeling                                                              |
 | 3        | September 12     |                                                                          |
 | 4        | September 19     | Virtual Production Intro                                                 |
 | 5        | September 26     |                                                                          |
@@ -114,7 +113,7 @@ Projects and assignments must be submitted before the start of class on the due 
 
 ### File Management
 
-- We will use [Canvas to turn in assignments]().
+- We will use [Canvas to turn in assignments](https://cia.instructure.com/courses/2636).
 - Use this format for naming all your class digital files:
   - YYYY-MM-DD Smith Lane Project 1
   - 2026-08-26 Smith Lane First Day Project 1
@@ -129,7 +128,7 @@ No Restrictions.
 
 CIA is committed to ensuring that students with documented disabilities have equal access to our educational programs and activities. If you have, or believe you may have, a disability that may interfere with your ability to participate in the activities, coursework, or assessments of this course, you may be eligible for accommodations.
 
-If you are a student with a disability and wish to request accommodations, please contact Wellness & Accessibility Services, located in Room 120, to arrange a confidential discussion about your need for accommodations. Wellness & Accessibility Services can be reached at [disabilityservices@cia.edu](mailto:disabilityservices@cia.edu). For more information, please visit [[my.cia.edu/ICS/Departments/Accessibility\_\_Disability_Services/](https://my.cia.edu/ICS/Campus_Services/Accessibility_Services/)](https://my.cia.edu/ICS/Campus_Services/Accessibility_Services/).
+If you are a student with a disability and wish to request accommodations, please contact Wellness & Accessibility Services, located in Room 120, to arrange a confidential discussion about your need for accommodations. Wellness & Accessibility Services can be reached at [disabilityservices@cia.edu](mailto:disabilityservices@cia.edu). For more information, please visit [my.cia.edu/ICS/Departments/Accessibility\_\_Disability_Services/](https://my.cia.edu/ICS/Campus_Services/Accessibility_Services/).
 
 ### Diversity & Inclusion Statement
 
