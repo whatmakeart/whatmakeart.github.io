@@ -1,7 +1,7 @@
 ---
 title: 00.00 Co/Lab Syllabus
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-15T07:11:34-04:00
+lastmod: 2026-08-15T16:10:56-04:00
 ---
 
 ### Course Information
@@ -51,23 +51,23 @@ By the end of this course, students will the opportunity to:
 
 | **Week** | **Date**         | **Topic**                                                                |
 | -------- | ---------------- | ------------------------------------------------------------------------ |
-| 1        | August 29        | 3D Capture                                                               |
-| 2        | September 5      | 3D Modeling                                                              |
-| 3        | September 12     |                                                                          |
-| 4        | September 19     | Virtual Production Intro                                                 |
-| 5        | September 26     |                                                                          |
-| 6        | October 3        |                                                                          |
-| 7        | October 10       |                                                                          |
-| 8        | October 17       |                                                                          |
-| 9        | October 24       |                                                                          |
-| 10       | October 31       |                                                                          |
-| 11       | November 7       |                                                                          |
-| 12       | November 14      | Virtual Production                                                       |
-| 13       | November 21      | Virtual Production                                                       |
-| 14       | November 28      | Thanksgiving Break. No Class.                                            |
-| 15       | December 5       | Virtual Production                                                       |
-| 16       | December 12      |                                                                          |
-| 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads) |
+| 1        | August 26        | 3D Capture                                                               |
+| 2        | September 2      | 3D Printing                                                              |
+| 3        | September 9      | 3D Modeling                                                              |
+| 4        | September 16     | Virtual Production Intro                                                 |
+| 5        | September 23     | Motion Capture                                                           |
+| 6        | September 30     | Asset Capture                                                            |
+| 7        | October 7        | Environment Building                                                     |
+| 8        | October 14       | Lighting                                                                 |
+| 9        | October 21       | Sound Capture and Editing                                                |
+| 10       | October 28       | Virtual Production                                                       |
+| 11       | November 4       | Virtual Production                                                       |
+| 12       | November 11      | Virtual Production                                                       |
+| 13       | November 18      | Virtual Production                                                       |
+| 14       | November 25      | _Thanksgiving Break. No Class. _                                         |
+| 15       | December 2       | Virtual Production                                                       |
+| 16       | December 9       | Final Critique                                                           |
+| 17       | December 14 - 17 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads) |
 
 </div>
 
@@ -91,7 +91,14 @@ Dec 18 – Final Grades DUE for all students AT 9AM
 
 ### Required Supplies
 
-- Estimated cost $0 - $100
+- Laptop
+- Sketching materials
+- Materials for projects
+  - Estimated cost of project materials is $0 - $100
+
+### Recommended Materials
+
+- External storage device for digital backups
 
 ## Course Policies and Expectations
 
@@ -109,7 +116,7 @@ Projects and assignments must be submitted before the start of class on the due 
 ### Documentation
 
 - Students should maintain regular, on-going and timely documentation of work in progress.
-- Images should be high resolution, well exposed, in focus, and well composed.
+- Images should be high resolution, well exposed, in focus, and well composed. [Basic Camera Settings](../../../../photography/basic-camera-settings.md)
 
 ### File Management
 

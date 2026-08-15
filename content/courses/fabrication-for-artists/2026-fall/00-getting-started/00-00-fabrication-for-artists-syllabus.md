@@ -1,7 +1,7 @@
 ---
 title: 00.00 Fabrication for Artists Syllabus
 date: 2026-08-28T12:00:00-04:00
-lastmod: 2026-08-15T07:02:50-04:00
+lastmod: 2026-08-15T16:11:08-04:00
 ---
 
 ### Course Information
@@ -53,23 +53,23 @@ By the end of this course, students will the opportunity to:
 
 | **Week** | **Date**         | **Topic**                                                                |
 | -------- | ---------------- | ------------------------------------------------------------------------ |
-| 1        | August 29        | Metal Fabrication Introduction                                           |
-| 2        | September 5      | Cutting and Welding                                                      |
-| 3        | September 12     | Tubular Fabrication                                                      |
+| 1        | August 28        | Metal Fabrication Introduction                                           |
+| 2        | September 4      | Cutting and Welding                                                      |
+| 3        | September 11     | Tubular Fabrication                                                      |
 | 4        | September 19     | Bicycle Sculpture Fabrication                                            |
-| 5        | September 26     | Bicycle Sculpture Fabrication                                            |
-| 6        | October 3        | Studio Work                                                              |
-| 7        | October 10       | Digital Fabrication Introduction                                         |
-| 8        | October 17       | Laser Cutting                                                            |
-| 9        | October 24       | 3D Printing                                                              |
-| 10       | October 31       | Wood Fabrication Introduction                                            |
-| 11       | November 7       | Wood Cutting and Joining                                                 |
-| 12       | November 14      | Adhesives and Fasteners                                                  |
-| 13       | November 21      | Cables and Rigging                                                       |
-| 14       | November 28      | Thanksgiving Break. No Class.                                            |
-| 15       | December 5       | Studio Work                                                              |
-| 16       | December 12      | Final Crits                                                              |
-| 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads) |
+| 5        | September 25     | Bicycle Sculpture Fabrication                                            |
+| 6        | October 2        | Studio Work                                                              |
+| 7        | October 9        | Digital Fabrication Introduction                                         |
+| 8        | October 16       | Laser Cutting                                                            |
+| 9        | October 23       | 3D Printing                                                              |
+| 10       | October 30       | Wood Fabrication Introduction                                            |
+| 11       | November 6       | Wood Cutting and Joining                                                 |
+| 12       | November 13      | Adhesives and Fasteners                                                  |
+| 13       | November 20      | Cables and Rigging                                                       |
+| 14       | November 27      | _Thanksgiving Break. No Class._                                          |
+| 15       | December 4       | Studio Work                                                              |
+| 16       | December 111     | Final Critique                                                           |
+| 17       | December 14 - 16 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads) |
 
 </div>
 
@@ -93,7 +93,14 @@ Dec 18 – Final Grades DUE for all students AT 9AM
 
 ### Required Supplies
 
-- Estimated cost $0 - $100
+- Laptop
+- Sketching materials
+- Materials for projects
+  - Estimated cost of project materials is $0 - $100
+
+### Recommended Materials
+
+- External storage device for digital backups
 
 ## Course Policies and Expectations
 
@@ -111,7 +118,7 @@ Projects and assignments must be submitted before the start of class on the due 
 ### Documentation
 
 - Students should maintain regular, on-going and timely documentation of work in progress.
-- Images should be high resolution, well exposed, in focus, and well composed.
+- Images should be high resolution, well exposed, in focus, and well composed. [Basic Camera Settings](../../../../photography/basic-camera-settings.md)
 
 ### File Management
 

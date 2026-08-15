@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-08-15T07:11:34-04:00
+lastmod: 2026-08-15T15:51:26-04:00
 ---
 
 ### Course Information
@@ -59,31 +59,40 @@ Upon completion of the course, students will have the opportunity to:
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**         | **Topic**                                                                                                                    |
-| -------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 1        | August 29        | [Introduction to 3D Modeling Tools and Digital Fabrication](../01-introduction/01-00-introduction.md)                        |
-| 2        | September 5      | [3D Visualization, Rendering and Compositing](../02-3d-visualization-rendering-and-compositing/02-00-introduction.md)        |
-| 3        | September 12     | [Floor Plan to 3D Model](../03-floor-plan-to-3d-model/03-00-introduction.md)                                                 |
-| 4        | September 19     | [UV Mapping and 3D Texturing](../04-uv-mapping-and-3d-texturing/04-00-introduction.md)                                       |
-| 5        | September 26     | [3D Capture](../05-3d-capture/05-00-introduction.md)                                                                         |
-| 6        | October 3        | [Laser Cutting and 3D Printing](../06-laser-cutting-and-3d-printing/06-00-introduction.md)                                   |
-| 7        | October 10       | [Laser Cutting and 3D Printing Modeling](../07-laser-cutting-and-3d-printing-modeling/07-00-introduction.md)                 |
-| 8        | October 17       | [Laser Cutting and 3D Printing Design Iteration](../08-laser-cutting-and-3d-printing-design-iteration/08-01-introduction.md) |
-| 9        | October 24       | [Laser Cutting and 3D Printing Fabrication](../09-laser-cutting-and-3d-printing-fabrication/09-00-introduction.md)           |
-| 10       | October 31       | [Virtual Production Introduction](../10-virtual-production-introduction/10-00-introduction.md)                               |
-| 11       | November 7       | [Virtual Production Shooting ](../11-virtual-production-shooting/11-00-introduction.md)                                      |
-| 12       | November 14      | [Virtual Production Lighting and Sound](../12-virtual-production-lighting-and-sound/12-00-introduction.md)                   |
-| 13       | November 21      | [Virtual Production Action](../13-virtual-production-action/13-00-introduction.md)                                           |
-| 14       | November 28      | Thanksgiving Break. No Class.                                                                                                |
-| 15       | December 5       | [Virtual Production Post Production](../14-virtual-production-post-production/14-00-introduction.md)                         |
-| 16       | December 12      | [Final Critique](../15-final-critique/15-00-introduction.md)                                                                 |
-| 17       | December 15 - 19 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                                     |
+| **Week** | **Date**         | **Topic**                                                                |
+| -------- | ---------------- | ------------------------------------------------------------------------ | --- |
+| 1        | August 27        | 3D Capture                                                               |
+| 2        | September 3      | Introduction to 3D Modeling Tools and Digital Fabrication                |
+| 3        | September 10     | Floor Plan to 3D Model                                                   |
+| 4        | September 17     | UV Mapping and 3D Texturing                                              |
+| 5        | September 24     | 3D Visualization, Rendering and Compositing                              |     |
+| 6        | October 1        | Laser Cutting and 3D Printing                                            |
+| 7        | October 8        | Laser Cutting and 3D Printing Modeling                                   |
+| 8        | October 15       | Laser Cutting and 3D Printing Design Iteration                           |
+| 9        | October 22       | Laser Cutting and 3D Printing Fabrication                                |
+| 10       | October 29       | Virtual Production Introduction                                          |
+| 11       | November 5       | Virtual Production Shooting                                              |
+| 12       | November 12      | Virtual Production Lighting and Sound                                    |
+| 13       | November 19      | Virtual Production Action                                                |
+| 14       | November 26      | _Thanksgiving Break. No Class._                                          |
+| 15       | December 3       | Virtual Production Post Production                                       |
+| 16       | December 10      | Final Critique                                                           |
+| 17       | December 14 - 16 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads) |
 
 </div>
 
 _\* Course schedule subject to change._
 
 ### Key Dates:
+
+Aug 24 – First Day of Classes
+Sept 7 – Labor Day. No Classes
+Oct 16 – Mid Term Grades DUE
+Oct 19-20 – Student Fall Break. No classes. Faculty In Service Days & Teaching Summit
+Nov 6 – Last day for students to withdraw from a course without a grade penalty
+Nov 25 – 27 – Thanksgiving Break. No classes.
+Dec 4 – Final Day of Classes
+Dec 18 – Final Grades DUE for all students AT 9AM
 
 ### Required Textbooks and Readings
 
@@ -95,11 +104,11 @@ _\* Course schedule subject to change._
 - Laptop
 - Sketching materials
 - Materials for projects
-- Estimated cost of project materials is $0 - $100
+  - Estimated cost of project materials is $0 - $100
 
 ### Recommended Materials
 
-- external storage device for digital backups
+- External storage device for digital backups
 - 3 button mouse
 
 ## Course Policies and Expectations
@@ -118,7 +127,7 @@ Projects and assignments must be submitted before the start of class on the due 
 ### Documentation
 
 - Students should maintain regular, on-going and timely documentation of work in progress.
-- Images should be high resolution, well exposed, in focus, and well composed.
+- Images should be high resolution, well exposed, in focus, and well composed. [Basic Camera Settings](../../../../photography/basic-camera-settings.md)
 
 ### File Management
 
