@@ -1,9 +1,7 @@
 ---
 title: Metal Fabrication
 date: 2024-11-10T16:01:02
-lastmod: 2025-12-23T10:12:35-04:00
-tags:
-  - stub
+lastmod: 2026-08-16T17:09:36-04:00
 ---
 
 # Metal Fabrication

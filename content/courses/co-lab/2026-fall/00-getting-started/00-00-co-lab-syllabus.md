@@ -1,7 +1,7 @@
 ---
 title: 00.00 Co/Lab Syllabus
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-15T16:10:56-04:00
+lastmod: 2026-08-17T16:21:09-04:00
 ---
 
 ### Course Information
@@ -44,6 +44,22 @@ By the end of this course, students will the opportunity to:
 - This course is a combination of studio work as well as lecture, group dialogue, critiques etc.
 - Projects will sometimes have in-progress reviews in addition to critiques when the projects are finished. The instructor as well as students participate in the critiques and is part of the studio learning experience and a big part of the course.
 - Students must avoid behavior that disrupts the learning process.
+
+### Course Outline
+
+The entire course then has a very simple progression:
+
+#### WEEKS 1–3
+
+Students can get something through a digital fabrication pipeline.
+
+#### WEEKS 4–9
+
+Students can get something through a virtual-production pipeline together.
+
+#### WEEKS 10–16
+
+Students can respond to somebody else's needs, manage a production, solve problems and deliver finished collaborative work.
 
 ## Course Schedule & Requirements\*
 
@@ -101,6 +117,10 @@ Dec 18 – Final Grades DUE for all students AT 9AM
 - External storage device for digital backups
 
 ## Course Policies and Expectations
+
+### Failure
+
+A failed experiment that is documented, understood and productively revised is evidence of learning. Hiding a failure is not. Can you diagnose, communicate, adapt and continue?
 
 ### Critiques
 

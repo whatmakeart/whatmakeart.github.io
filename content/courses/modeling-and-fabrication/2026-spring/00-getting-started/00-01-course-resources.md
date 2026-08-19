@@ -1,10 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2026-01-14T09:00:00-04:00
-lastmod: 2026-01-14T05:52:36-04:00
-tasks:
-  - TODO add Links
-  - TODO make video
+lastmod: 2026-08-18T06:34:24-04:00
 ---
 
 ## Course Introduction
