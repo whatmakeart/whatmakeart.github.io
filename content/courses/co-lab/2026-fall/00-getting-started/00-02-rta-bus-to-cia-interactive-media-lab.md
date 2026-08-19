@@ -1,12 +1,16 @@
 ---
 title: RTA Bus to CIA Interactive Media Lab
 date: 2026-08-19T16:00:03-04:00
-lastmod: 2026-08-19T19:13:33-04:00
+lastmod: 2026-08-19T19:32:07-04:00
 ---
 
 ## Getting to the IML
 
-Please review the following instructions to ensure you arrive at the IML on time and fully prepared for class each week.
+Please review the following instructions to ensure you arrive at the [IML](https://www.cia.edu/iml/) on time and fully prepared for class each week.
+
+Interactive Media Lab
+Warren E. Anderson MidTown Collaboration Center
+1974 E 66th St, Cleveland, OH 44103
 
 ### Arrival Time and Transportation
 
@@ -20,9 +24,9 @@ You may use a bicycle or a personal vehicle. If you commute to CIA, you can go d
 
 **First Day Guided Trip:** To help you get familiar with the route, I will be waiting at the Euclid Av & E 115th St Station at approximately 11:35 AM on our first day of class. If you would like a guide, please meet me there, and we will ride the RTA bus to the IML together.
 
-Enrollment at CIA includes an RTA pass for students. While you are not required to take the RTA bus, it is a highly recommended and convenient option. If you plan to ride the RTA, you must get the RTA bus pass sticker and place it on your student ID. You will need this sticker to ride the bus. Get the sticker from Student Life Office at CIA before the first day of class.
+Enrollment at CIA includes an RTA pass for students. While you are not required to take the RTA bus, it is a highly recommended and convenient option. If you plan to ride the RTA, you must get the RTA bus pass sticker and place it on your student ID. You will need this sticker to ride the bus. Get the sticker from [Student Affairs Office](https://www.cia.edu/departments/student-affairs/) at CIA before the first day of class.
 
-Get on the Westbound Healthline bus at the Euclid Av & E 115th St Station. This bus station is on the other side of the street from CIA Main Campus as indicated on the map. [Google Map Directions to the IML](https://maps.app.goo.gl/pp9burukWBBNKXyG7)
+Get on the Westbound Healthline bus at the [Euclid Av & E 115th St Station](https://www.google.com/maps?cid=7261449139271461869&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAFKgSoqNcy). This bus station is on the other side of the street from CIA Main Campus as indicated on the map. [Google Map Directions to the IML](https://maps.app.goo.gl/pp9burukWBBNKXyG7)
 
 - [RTA Healthline Online Schedule](https://www.riderta.com/routes/healthline/schedules/current)
 - [RTA Healthline PDF Schedule](https://www.riderta.com/sites/default/files/schedule-pdfs/HealthLine.pdf)
