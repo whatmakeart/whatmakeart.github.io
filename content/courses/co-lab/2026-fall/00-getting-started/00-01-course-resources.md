@@ -1,8 +1,17 @@
 ---
 title: 00.01 Course Resources
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-17T16:16:14-04:00
+lastmod: 2026-08-19T10:18:41-04:00
 ---
+
+## Troubleshooting
+
+Before telling your instructor, "It doesn't work.", students have to answer:
+
+1. What were you trying to do?
+2. What did you expect to happen?
+3. What actually happened?
+4. What have you already tried?
 
 ## Sketching
 
@@ -17,12 +26,3 @@ lastmod: 2026-08-17T16:16:14-04:00
 ## Cleveland Institute of Art Interactive Media Lab
 
 -[CIA IML](https://www.cia.edu/iml/)
-
-## Troubleshooting
-
-Before telling your instructor, "It doesn't work.", students have to answer:
-
-1. What were you trying to do?
-2. What did you expect to happen?
-3. What actually happened?
-4. What have you already tried?

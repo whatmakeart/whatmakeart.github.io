@@ -1,7 +1,7 @@
 ---
 title: 00.00 Co/Lab Syllabus
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-17T16:21:09-04:00
+lastmod: 2026-08-19T10:12:34-04:00
 ---
 
 ### Course Information
@@ -67,7 +67,7 @@ Students can respond to somebody else's needs, manage a production, solve proble
 
 | **Week** | **Date**         | **Topic**                                                                |
 | -------- | ---------------- | ------------------------------------------------------------------------ |
-| 1        | August 26        | 3D Capture                                                               |
+| 1        | August 26        | Reality to Data (3D Capture Studio)                                      |
 | 2        | September 2      | 3D Printing                                                              |
 | 3        | September 9      | 3D Modeling                                                              |
 | 4        | September 16     | Virtual Production Intro                                                 |
