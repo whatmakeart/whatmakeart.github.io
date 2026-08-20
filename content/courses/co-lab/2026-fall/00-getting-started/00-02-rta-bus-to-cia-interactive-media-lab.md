@@ -1,7 +1,7 @@
 ---
-title: RTA Bus to CIA Interactive Media Lab
+title: 00.02 RTA Bus to CIA Interactive Media Lab
 date: 2026-08-19T16:00:03-04:00
-lastmod: 2026-08-20T10:29:13-04:00
+lastmod: 2026-08-20T14:43:26-04:00
 ---
 
 Please review the following instructions to ensure you arrive at the [IML](https://www.cia.edu/iml/) on time and fully prepared for class each week. Our class begins promptly at noon. You must arrange to arrive at the IML by 12:00 PM.
