@@ -1,9 +1,7 @@
 ---
 title: Metal Nibbler
 date: 2023-12-13T06:08:53
-lastmod: 2025-09-30T17:53:45
-tags:
-  - stub
+lastmod: 2026-08-23T12:18:54-04:00
 ---
 
 <div class="video-grid">

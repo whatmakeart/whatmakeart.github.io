@@ -1,10 +1,9 @@
 ---
 title: How to Use a Hacksaw
 date: 2023-05-26T03:16:03
-lastmod: 2023-12-13T06:59:55
+lastmod: 2026-08-23T12:18:02-04:00
 tags:
   - Fabrication
-  - stub
 ---
 
 Using a hacksaw is relatively straightforward, but there are a few key steps and safety precautions you should follow:

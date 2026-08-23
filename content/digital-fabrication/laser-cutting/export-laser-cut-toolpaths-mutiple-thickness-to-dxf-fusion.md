@@ -1,10 +1,10 @@
 ---
 title: Export Laser Cut Toolpaths with Multiple Thickness to DXF in Fusion
 date: 2026-02-16T06:05:01-04:00
-lastmod: 2026-02-16T06:06:10-04:00
+lastmod: 2026-08-23T12:18:54-04:00
 tags:
   - Fusion-360
-  - laser-cutting
+  - Laser-Cutting
 ---
 
 <div class="video-grid">

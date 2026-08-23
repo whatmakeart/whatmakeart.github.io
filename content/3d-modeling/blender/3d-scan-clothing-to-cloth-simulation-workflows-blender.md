@@ -1,7 +1,9 @@
 ---
 title: 3D Scan Clothing to Cloth Simulation Workflows Blender
 date: 2026-03-23T16:20:11-04:00
-lastmod: 2026-03-25T05:29:09-04:00
+lastmod: 2026-08-23T12:18:54-04:00
+tags:
+  - Cloth
 ---
 
 ## Texture Baking in Blender

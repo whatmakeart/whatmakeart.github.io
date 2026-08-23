@@ -1,7 +1,9 @@
 ---
 title: UV Coordinates
 date: 2024-02-28T05:42:48-04:00
-lastmod: 2026-03-17T19:46:46-04:00
+lastmod: 2026-08-22T06:28:09-04:00
+tags:
+  - UV-Unwrapping
 ---
 
 [![UV Cube in Maya with Checker Texture](attachments/2024-02-28-uv-cube-checker-maya.jpg)](attachments/2024-02-28-uv-cube-checker-maya.jpg)

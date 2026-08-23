@@ -1,23 +1,7 @@
 ---
 title: How to Safety Inspect Welding Equipment Before Use
 date: 2024-11-10T16:01:02
-lastmod: 2024-12-06T05:35:12
+lastmod: 2026-08-23T12:18:23-04:00
 tags:
   - stub
 ---
-
-# How to Safety Inspect Welding Equipment Before Use
-
-This tutorial will
-
-## Prerequisites
-
-To complete this tutorial you should be familiar with
-
-## Instructions
-
-The first step
-
-## Further Reading
-
-### External Links
