@@ -1,7 +1,7 @@
 ---
 title: 01.00 Introduction
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-19T10:15:40-04:00
+lastmod: 2026-08-23T19:28:52-04:00
 ---
 
 ## Overview
@@ -15,6 +15,5 @@ Introduction to Co/Lab and the Cleveland Institute of Art's Interactive Media La
 
 ## Keywords
 
-- Structured Light Scanning
+- 3D Scanning
 - Photogrammetry
--

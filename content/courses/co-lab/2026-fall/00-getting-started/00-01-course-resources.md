@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-19T10:18:41-04:00
+lastmod: 2026-08-23T19:28:10-04:00
 ---
 
 ## Troubleshooting
@@ -25,4 +25,5 @@ Before telling your instructor, "It doesn't work.", students have to answer:
 
 ## Cleveland Institute of Art Interactive Media Lab
 
--[CIA IML](https://www.cia.edu/iml/)
+- [Bus Directions to the IML](./00-02-rta-bus-to-cia-interactive-media-lab.md)
+- [CIA IML](https://www.cia.edu/iml/)
