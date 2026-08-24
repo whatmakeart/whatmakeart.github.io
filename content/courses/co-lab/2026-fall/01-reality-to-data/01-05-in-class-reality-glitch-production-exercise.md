@@ -1,7 +1,7 @@
 ---
-title: 01.05 In Class Production Exercise
+title: 01.05 In Class Reality Glitch Production Exercise
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-22T07:11:23-04:00
+lastmod: 2026-08-24T06:26:57-04:00
 ---
 
 ## Assignment Deliverables
