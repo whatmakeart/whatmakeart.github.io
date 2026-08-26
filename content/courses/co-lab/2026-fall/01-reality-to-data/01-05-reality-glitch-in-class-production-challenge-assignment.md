@@ -1,7 +1,7 @@
 ---
 title: 01.05 Reality Glitch In Class Production Challenge Assignment
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-25T21:00:50-04:00
+lastmod: 2026-08-26T14:09:06-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2026-08-25T21:00:50-04:00
 
 ## Assignment Overview
 
-In teams, create a 10–20 second continuous video in which a photogrammetry scanned 3D mesh interacts with the physical world in a way that would otherwise be impossible.
+In teams, create a 10–20 second continuous video in which a photogrammetry scanned 3D mesh interacts with the physical world in a way that would otherwise be impossible. [Week 1 Team Groups Course Announcement Link](https://cia.instructure.com/courses/2636/discussion_topics/11671)
 
 First, make an original photogrammetry scan of an object or feature at CIA. Then use its digital double to create a 10–20 second impossible event in the real world. The goal is not simply to display a 3D scan. The scan must participate in an event or interaction that changes during the shot. Your team should create a short impossible event by coordinating the camera, a performer or physical action, and live manipulation of the digital object.
 
@@ -125,9 +125,10 @@ Have a performer mime holding, carrying, catching, or handing off the digital ob
 
 For this in class challenge exercise, time management is part of the learning.
 
-- By 1:30 p.m.: your team should have a scan processing or completed.
-- By 3:30 p.m.: your team must have at least one complete video attempt.
+- By 3:00 p.m. your team should have a scan processing or completed.
+- By 4:00 p.m. your team must have at least one complete video attempt.
 - Final 30 minutes: revise, record final attempts, label, and submit.
+- By 4:30 p.m. your team should submit something.
 
 ## Grading Rubric
 

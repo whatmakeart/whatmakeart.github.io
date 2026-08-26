@@ -1,7 +1,7 @@
 ---
 title: 01.06 Photogrammetry Capture Assignment
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-25T21:21:21-04:00
+lastmod: 2026-08-26T14:10:06-04:00
 ---
 
 ## Assignment Deliverables
@@ -12,6 +12,8 @@ lastmod: 2026-08-25T21:21:21-04:00
    - Label file YYYY-MM-DD Lastname Firstname Exterior Capture (`.zip`)
 3. Capture of a new rigid object using Object Masking + Flipping in RealityScan Mobile
    - Label file YYYY-MM-DD Lastname Firstname Object Mask Capture (`.zip`)
+4. Short Capture Notes
+   - Label file YYY-MM-DD Lastname Firstname Short Capture Notes (`.docx`,`pdf`)
 
 Each `ZIP` should include the exported 3D model and any required texture/material files, one reference photograph, two screenshots of the completed scan, and a brief capture note.
 
