@@ -1,12 +1,12 @@
 ---
 title: 01.05 In Class Reality Glitch Production Exercise
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-24T06:26:57-04:00
+lastmod: 2026-08-25T20:00:41-04:00
 ---
 
 ## Assignment Deliverables
 
-1. Exported 10 - 20 second H.264 encoded `MP4` video with sound
+1. Exported 10 - 20 second video with sound captured in a single take
    - Label file YYYY-MM-DD impossible co-lab video (`.mp4`)
 
 ## Assignment Overview
@@ -97,5 +97,43 @@ Camera operator + performer + digital-object puppeteer
 | Objective | Points |
 | --------- | ------ |
 |           | 100    |
+
+</div>
+
+## Assignment Resources
+
+### Reality Scan Mobile Photogrammetry Tutorials
+
+- [Object Masking Photogrammetry Capture - Reality Scan Tutorial](https://youtu.be/tBc4yoMWaSM)
+- [Indoor Photogrammetry Capture - Reality Scan Tutorial](https://youtu.be/bI_ix3ZDGWI)
+- [Outdoor Photogrammetry Capture - Reality Scan Tutorial](https://youtu.be/VmVBUGjP5CU)
+<div class="video-grid">
+
+<div class="video-card">
+
+#### Object Masking Photogrammetry Capture - Reality Scan Tutorial
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/tBc4yoMWaSM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Indoor Photogrammetry Capture - Reality Scan Tutorial
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/bI_ix3ZDGWI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Outdoor Photogrammetry Capture - Reality Scan Tutorial
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/VmVBUGjP5CU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 </div>

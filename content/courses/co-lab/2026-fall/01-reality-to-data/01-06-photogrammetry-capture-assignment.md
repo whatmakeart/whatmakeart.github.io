@@ -1,7 +1,7 @@
 ---
 title: 01.06 Photogrammetry Capture Assignment
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-24T09:01:55-04:00
+lastmod: 2026-08-25T19:58:10-04:00
 ---
 
 ## Assignment Deliverables
@@ -194,6 +194,8 @@ Check that the intended object is being recognized correctly before completing t
 
 ## Use Flip Mode
 
+[Reality Scan Object Capture Tutorial](https://youtu.be/tBc4yoMWaSM)
+
 Capture the object thoroughly in its first orientation.
 
 Do not flip it after only making one quick orbit.
@@ -306,5 +308,40 @@ The purpose is to begin diagnosing photogrammetry rather than simply labeling a 
 | Exterior Photogrammetry Capture              |     30 |
 | Object Masking + Flip Mode Capture           |     30 |
 | File Management, Documentation, and Labeling |     10 |
+
+</div>
+
+[Object Masking Photogrammetry Capture - Reality Scan Tutorial](https://youtu.be/tBc4yoMWaSM)
+[Indoor Photogrammetry Capture - Reality Scan Tutorial](https://youtu.be/bI_ix3ZDGWI)
+[Outdoor Photogrammetry Capture - Reality Scan Tutorial](https://youtu.be/VmVBUGjP5CU)
+
+<div class="video-grid">
+
+<div class="video-card">
+
+### Object Masking Photogrammetry Capture - Reality Scan Tutorial
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/tBc4yoMWaSM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Indoor Photogrammetry Capture - Reality Scan Tutorial
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/bI_ix3ZDGWI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Outdoor Photogrammetry Capture - Reality Scan Tutorial
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/VmVBUGjP5CU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 </div>

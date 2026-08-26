@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry
 date: 2024-09-25T05:06:07-04:00
-lastmod: 2026-08-23T16:20:44-04:00
+lastmod: 2026-08-25T19:50:25-04:00
 ---
 
 Photogrammetry is a useful tool for capturing 3D geometry and visual texture information from the real physical world. [Photogrammetry software](photogrammetry-software.md) identifies matching visual features in multiple 2D images taken from different but overlapping camera positions. The relative position of these features is used to calculate three-dimensional geometry and generate a textured 3D mesh.
@@ -214,6 +214,12 @@ Equipment built specifically for photogrammetry can automate capture, improve re
 ### Photogrammetry Software Guides
 
 - [Photogrammetry with Photocatch](../3d-modeling/photogrammetry-with-photocatch.md) - works with a video or a folder of images
+
+#### Reality Scan Mobile
+
+- [Object Masking Photogrammetry Capture - Reality Scan Tutorial](https://youtu.be/tBc4yoMWaSM)
+- [Indoor Photogrammetry Capture - Reality Scan Tutorial](https://youtu.be/bI_ix3ZDGWI)
+- [Outdoor Photogrammetry Capture - Reality Scan Tutorial](https://youtu.be/VmVBUGjP5CU)
 - [Epic Games Reality Scan - Convert GLB to OBJ in Blender](https://youtu.be/Lj1Z2XmpOM0)
 
 ### Exporting Frames from Video for Use in Photogrammetry
