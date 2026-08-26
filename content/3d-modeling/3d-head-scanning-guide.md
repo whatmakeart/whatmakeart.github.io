@@ -1,7 +1,7 @@
 ---
 title: Head Scan Quick Guide
 date: 2026-08-26T06:41:51-04:00
-lastmod: 2026-08-26T11:27:28-04:00
+lastmod: 2026-08-26T12:09:24-04:00
 ---
 
 ## Before 3D Head Scanning Checklist
@@ -16,16 +16,6 @@ The person being scanned should:
 - keep hair as smooth and still as practical
 
 The scanner operator should have enough room to move completely around the person's head. Move tripping hazards out of the way and if using a tethered scanner, ensure there is enough slack in the data and power cables to move around the subject.
-
-## Start a IR Scan
-
-1. Use IR Scan Mode with texture enabled
-2. Use Feature Alignment
-3. Begin at a short working distance for good facial detail
-4. Keep the scanner at the correct distance
-   - Blue = too far
-   - Green = good
-   - Red = too close
 
 ## Scanning Preparation
 
@@ -78,7 +68,7 @@ After scanning your partner:
 2. Show the next student how you operated the scanner.
 3. The student you just scanned becomes the next scanner operator.
 
-Floor texture helps with scan tracking when scanning feet and legs
+Floor texture helps with scan tracking when scanning feet and legs.
 
 ### 3D Body Scanning Tips
 
