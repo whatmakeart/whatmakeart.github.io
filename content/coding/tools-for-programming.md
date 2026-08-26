@@ -1,7 +1,7 @@
 ---
 title: Tools for Programming
 date: 2024-01-19T09:30:00Z
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-08-25T21:08:30-04:00
 ---
 
 What tools are needed to program or code?
@@ -26,7 +26,7 @@ Various text editors are listed below. Try out various editors to see which you 
 - [Sublime Text](https://www.sublimetext.com/) is a simple text editor that runs on Mac, Linux, and Windows with specific features design to help you code such as auto complete and syntax highlighting. It may not have all the features of more robust text editors but it works well for programming projects.
 - [Notepad++](https://notepad-plus-plus.org/) is a no frills but powerful text editor for Windows.
 - [Brackets](https://brackets.io/) is a text editor designed for web development.
-- [GNU Emacs](https://www.gnu.org/software/emacs/) - "An extensible, customizable, free/libre text editor — and more."
+- [GNU Emacs](https://www.gnu.org/software/emacs/) - "An extensible, customizable, free/libre text editor - and more."
 
 ## Web Browser and Internet Access
 

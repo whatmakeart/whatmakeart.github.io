@@ -1,7 +1,7 @@
 ---
 title: Fair Use
 date: 2023-05-23T21:59:41
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-08-25T21:08:30-04:00
 ---
 
 In the United States, fair use allows people to use copyright works under certain circumstances. It is generally best to only use your own content and [public domain](public-domain.md) content but it is important for to be familiar with fair use for creative projects or ideas that may require the use of copyrighted works made by others. In regards to fair use, someone might say, "5 under fives seconds of a song is ok to use." or "Less than 50% of a chapter is ok to use." but the law never mentions these often misquoted copyright myths. The only way to ultimately determine if using a copyrighted work is fair use is to find out in a court of law.  Courts use a four-part test to determine fair use. [^section-107]
@@ -15,7 +15,7 @@ Discussions of fair use quickly fallback to anecdotes and specific examples with
 
 > #### 107. Limitations on exclusive rights: Fair use[⁴¹](https://copyright.gov/title17/92chap1.html)
 >
-> Notwithstanding the provisions of sections [106](https://copyright.gov/title17/92chap1.html#106) and [106A](https://copyright.gov/title17/92chap1.html#106a), the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include—
+> Notwithstanding the provisions of sections [106](https://copyright.gov/title17/92chap1.html#106) and [106A](https://copyright.gov/title17/92chap1.html#106a), the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include-
 >
 > (1) the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;
 >

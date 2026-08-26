@@ -1,7 +1,7 @@
 ---
 title: 02.03 Use Large Language Models for Ideation (as of Fall 2023)
 date: 2023-09-11T12:00:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-08-25T21:08:30-04:00
 ---
 
 ## What are LLMs?
@@ -73,4 +73,4 @@ Remember that the LLM is not "thinking" the way humans do yet. It may give the i
 
 </div>
 
-[^1]: [“AI took my job, literally”—Gizmodo fires Spanish staff amid switch to AI translator - Ars Technica](https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/)
+[^1]: [“AI took my job, literally”-Gizmodo fires Spanish staff amid switch to AI translator - Ars Technica](https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/)

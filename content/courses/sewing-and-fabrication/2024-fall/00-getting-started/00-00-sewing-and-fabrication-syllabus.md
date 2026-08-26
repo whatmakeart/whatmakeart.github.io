@@ -1,7 +1,7 @@
 ---
 title: 00.00 Sewing and Fabrication Syllabus
 date: 2024-07-18T10:18:39
-lastmod: 2024-08-22T05:34:06
+lastmod: 2026-08-25T21:08:30-04:00
 ---
 
 ## Sewing and Fabrication Syllabus
@@ -40,7 +40,7 @@ Students will be introduced to:
 - Traditional and non-traditional materials, processes and forms related to sewing as a construction process.
 - Identifying and sequencing the operations needed to fabricate a complex form
 - Flat pattern drafting
-- Visualizing three dimensional forms—and the attendant skills to analyze the relationship between a volumetric form and its surface/ skin.
+- Visualizing three dimensional forms-and the attendant skills to analyze the relationship between a volumetric form and its surface/ skin.
 
 Students will explore:
 

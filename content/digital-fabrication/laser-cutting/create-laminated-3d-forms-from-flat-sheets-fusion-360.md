@@ -1,7 +1,7 @@
 ---
 title: Create Laminated 3D Forms from Flat Sheets in Fusion 360
 date: 2023-11-12T08:37:23
-lastmod: 2025-09-30T18:44:13
+lastmod: 2026-08-25T21:08:30-04:00
 tags:
   - Fusion-360
 ---
@@ -11,7 +11,7 @@ tags:
 </div>
 </div>
 
-Are you interested in creating 3D forms from flat sheets using a laser cutter? We'll go through a step-by-step Fusion 360 tutorial to turn an organic shape into a series of panels that can be used to construct a laminated three-dimensional object. Specifically, we'll tackle how to segment a sphere—a shape that challenges conventional split body techniques—using the trim function.
+Are you interested in creating 3D forms from flat sheets using a laser cutter? We'll go through a step-by-step Fusion 360 tutorial to turn an organic shape into a series of panels that can be used to construct a laminated three-dimensional object. Specifically, we'll tackle how to segment a sphere-a shape that challenges conventional split body techniques-using the trim function.
 
 ## Fusion 360 Instructions
 

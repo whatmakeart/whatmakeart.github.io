@@ -1,7 +1,7 @@
 ---
 title: 01.01 Computer and Algorithmic Art
 date: 2024-01-19T09:30:00Z
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-08-25T21:08:30-04:00
 ---
 
 ## Intro to Computer and Algorithmic Art
@@ -360,7 +360,7 @@ DOUGLAS TRUMBULL | Master Class | Higher Learning
 [^penrose-wiki]: [Penrose Tiling](https://en.wikipedia.org/wiki/Penrose_tiling) Wikipedia.
 [^whitney-106-comments]: [Comments Page](https://artport.whitney.org/commissions/software-structures-2016/_106/comments.html) from Software Structures 106 at the Whitney.
 [^whitney-3b]: [Structure 3B](https://artport.whitney.org/commissions/software-structures-2016/s3_2/) by Casey Reas in [Software Structures](https://artport.whitney.org/commissions/software-structures-2016/map.html) at the Whitney.
-[^garcia-cohen]: Garcia, Chris. [HAROLD COHEN AND AARON—A 40-YEAR COLLABORATION](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/) computerhistory.org - August 23, 2016.
+[^garcia-cohen]: Garcia, Chris. [HAROLD COHEN AND AARON-A 40-YEAR COLLABORATION](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/) computerhistory.org - August 23, 2016.
 [^wiki-nake]: [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake) Wikipedia.
 [^amerika]: [An Interview with Frieder Nake](https://www.rightclicksave.com/article/an-interview-with-frieder-nake)
 [^massmoca-lewitt]: [Wall Drawing 797](https://massmoca.org/event/walldrawing797/) MASS MoCA

@@ -1,7 +1,7 @@
 ---
 title: How to Make a Countdown Timer in Adobe Premiere
 date: 2023-11-16T09:40:31
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-08-25T21:08:30-04:00
 ---
 
 <div class="iframe-16-9-container">
@@ -22,7 +22,7 @@ Frame rate is key in ensuring your countdown timer syncs perfectly with your vid
 
 ### Building the Countdown Timer
 
-Next, we dive into the exciting part—building your timer! You'll learn how to create a 30-second timer (or any length you desire) by adjusting the playhead and utilizing the snapping feature for precision.
+Next, we dive into the exciting part-building your timer! You'll learn how to create a 30-second timer (or any length you desire) by adjusting the playhead and utilizing the snapping feature for precision.
 
 ### Customizing the Timecode
 

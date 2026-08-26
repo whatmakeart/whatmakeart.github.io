@@ -1,7 +1,7 @@
 ---
 title: 01.06 Photogrammetry Capture Assignment
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-25T19:58:10-04:00
+lastmod: 2026-08-25T21:21:21-04:00
 ---
 
 ## Assignment Deliverables
@@ -10,316 +10,108 @@ lastmod: 2026-08-25T19:58:10-04:00
    - Label file YYYY-MM-DD Lastname Firstname Interior Capture (`.zip`)
 2. Capture of an exterior wall or architectural section.
    - Label file YYYY-MM-DD Lastname Firstname Exterior Capture (`.zip`)
-3. Capture of a new rigid object using Object Masking in RealityScan Mobile.
-   - Label file YYYY-MM-DD Lastname Firstname Object MaskCapture (`.zip`)
+3. Capture of a new rigid object using Object Masking + Flipping in RealityScan Mobile
+   - Label file YYYY-MM-DD Lastname Firstname Object Mask Capture (`.zip`)
+
+Each `ZIP` should include the exported 3D model and any required texture/material files, one reference photograph, two screenshots of the completed scan, and a brief capture note.
 
 ## Assignment Overview
 
-Photogrammetry uses overlapping photographs taken from multiple viewpoints to reconstruct physical objects and spaces as three-dimensional digital models. In class, you experimented with photogrammetry by capturing an object and using the resulting 3D model in the Reality Glitch exercise. For this assignment, you will make three additional captures that explore different photogrammetry situations.
+In class, you used photogrammetry to turn a physical object into a digital 3D asset. For this assignment, make three additional scans that explore different capture situations including, interior architecture, exterior architecture, and a complete rigid object.
 
-1. an **interior space or wall**
-2. an **exterior wall**
-3. a **rigid object captured using Object Masking and Flip Mode**
+The goal is to practice choosing appropriate subjects, maintaining image overlap and coverage, and recognizing why parts of a reconstruction succeed or fail.
 
-The goal is not simply to produce three scans. Each type of subject requires a different capture strategy. You should begin learning how to recognize what makes a subject easy or difficult to reconstruct and how your movement, camera position, lighting, coverage, and subject choice affect the resulting model.
+Your interior and exterior scans may be used as environments during our upcoming virtual production demonstration.
 
-Your interior and exterior captures will be available for use during an upcoming **virtual production demonstration**, where selected student scans may become digital environments or backgrounds.
+RealityScan Mobile is recommended because it is the workflow demonstrated in class. You may use other photogrammetry software, but you are responsible for troubleshooting workflows that have not been demonstrated.
 
-RealityScan Mobile is the recommended software because it is the workflow demonstrated in class. You may experiment with other photogrammetry software such as PhotoCatch or RealityScan Desktop, but we have not yet covered those workflows in class and you are responsible for troubleshooting software-specific issues yourself.
+## 1. Interior Capture
 
-Your scan should demonstrate:
+Capture an interior wall or manageable section of a space.
 
-- substantial photographic overlap
-- reasonably complete coverage
-- sharp photographs
-- consistent exposure
-- useful viewing angles
-- recognizable architectural geometry
-- recognizable photographic texture
+A single wall, wall and corner, doorway, alcove, fireplace, stair area, or section of hallway is enough. Do not feel obligated to scan an entire room.
 
-For each capture, submit:
+RealityScan Mobile is limited to approximately 300 photographs, so a well captured wall or architectural section is preferable to an incomplete scan of an entire room.
 
-- the exported 3D model
-- one reference photograph showing the original subject
-- at least two screenshots showing the completed digital reconstruction from different viewpoints
-- a short capture note describing any significant successes, problems, or missing areas
+Unlike an object scan, move **across the architectural surface** rather than orbiting around it. Make overlapping passes at different heights and include some diagonal views to capture depth.
 
-A photogrammetry model does **not** need to be perfect to receive a strong grade.
+For virtual production, consider choosing a location where a person could plausibly appear in front of the captured environment.
 
-Photogrammetry frequently produces:
+## 2. Exterior Capture
 
-- holes
-- warped geometry
-- incomplete surfaces
-- texture errors
-- floating fragments
-- failed areas
+Capture an exterior wall or manageable architectural section.
 
-These problems become valuable when you can identify **why they happened and how you would change your capture strategy next time**.
+Brick, stone, doors, windows, entrances, stairs, trim, and other textured architectural features usually provide useful visual information.
 
-The goal of this assignment is to build enough independent capture experience that you can begin making deliberate decisions about when and how photogrammetry should be used as part of a larger creative production.
+Again, you do not need to capture an entire building. Stay close enough to record useful surface detail, maintain substantial overlap as you move across the surface, and include angled views where possible.
 
-## Process
+Pay attention to changing sunlight, reflections, moving people or vehicles, and vegetation, all of which can make reconstruction more difficult.
 
-### 1. Capture an Interior Space or Wall
+## 3. Object Masking + Flip Mode
 
-Create a photogrammetry model of an interior architectural subject.
+Choose a **new rigid object** that you did not scan during the in-class Reality Glitch exercise.
 
-- one wall
-- a wall and corner
-- a doorway
-- an alcove
-- shelving built into a wall
-- a fireplace
-- a stair area
-- a section of a hallway
-- another manageable architectural feature
+Use RealityScan Mobile's **Object Masking** workflow and Flip Mode to capture a more complete model.
 
-RealityScan Mobile has a 250 photograph limit, and attempting to capture an entire room can easily require more images than are available while also making it difficult to maintain sufficient image overlap. A single well-captured wall may produce a more useful model than an incomplete room.
+First photograph the object thoroughly in one orientation. Then flip or reposition it to reveal the surfaces that were previously hidden against the table or floor and continue the capture.
 
-Examples that may cause problems include:
+Choose something that maintains the same shape when moved. Avoid loose fabric, flexible bags, plants, people, or other subjects that deform between orientations.
 
-- large blank white walls
-- glossy painted surfaces
-- mirrors
-- large windows
-- highly reflective metal
-- repeating patterns without distinctive features
+[RealityScan Object Capture Tutorial](https://youtu.be/tBc4yoMWaSM)
 
-#### Interior Capture Strategy
+## Capture Quality
 
-Unlike scanning a small object, you usually cannot orbit completely around an architectural wall. Instead, move across the surface while maintaining substantial overlap between photographs. A useful strategy is to make several passes. Also capture some oblique viewpoints looking diagonally across the wall. These angled photographs provide important information about depth. If your subject includes a corner, doorway, shelf, or other three-dimensional feature, photograph it from multiple angles rather than only directly from the front.
+For all three scans, maintain substantial image overlap, move the camera through space, capture multiple heights and angles, keep images sharp, maintain reasonably consistent lighting, and choose subjects with enough visible detail for the software to track.
 
-Do not worry if portions outside your intended capture area reconstruct poorly.
+Photogrammetry often struggles with mirrors, transparent materials, polished metal, glossy surfaces, blank featureless areas, repetitive patterns, and moving subjects.
 
-### 2. Capture an Exterior Wall
+A scan does **not** need to be perfect. Holes, warped geometry, missing surfaces, texture errors, and floating fragments are useful if you can recognize why they occurred.
 
-Create a second photogrammetry model using an exterior architectural subject. Again, you may capture only one wall or a manageable section of a building.Do not attempt to scan an entire building unless you can maintain sufficient photographic coverage within the 250 image limit.
+Refer to the [Photogrammetry](../../../../3d-modeling/photogrammetry.md) guide for additional capture information.
 
-Possible subjects include:
+## Export and Submission
 
-- brick wall
-- stone wall
-- doorway
-- exterior stair
-- architectural ornament
-- loading dock area
-- garage wall
-- porch
-- building entrance
-- textured foundation
-- wall with windows or trim
+Export a practical, textured version of each model.
 
-#### Exterior Capture Strategy
+Depending on your device and software, this may include `.glb`, `.gltf`, `.obj`, `.mtl`, and texture image files.
 
-Exterior photogrammetry presents different problems than interior capture.
+If the model requires multiple files, keep them together inside the `ZIP`. An `OBJ` submitted without its MTL or textures may not display correctly.
 
-Overcast conditions are often useful because they create relatively even illumination. Strong sunlight can create hard shadows, rapidly changing contrast, bright highlights, and different-looking surfaces as you change position. You do not need to wait for perfect weather, but observe how the lighting affects your capture.
-
-Try to minimize capturing moving objects such as pedestrians repeatedly moving through the capture, moving vehicles, tree branches blowing across important surfaces, objects being moved while you photograph.
-
-Windows and shiny architectural materials may reconstruct poorly because their appearance changes depending on camera position.
-
-Stay close enough that the architectural surface occupies a substantial portion of each photograph. A wall photographed from very far away may contain insufficient detail for a useful reconstruction.
-
-Make overlapping horizontal passes and add angled views whenever possible.
-
-Capture additional photographs around:
-
-- corners
-- doorframes
-- windows
-- ledges
-- recesses
-- projecting architectural details
-
-These areas often require more photographs because surfaces become hidden from particular viewpoints.
-
-### Part 3 — Object Capture with Object Masking + Flip Mode
-
-Choose a new object that you did not use for the first-day in-class exercise. For this scan, experiment with Object Masking Mode in RealityScan Mobile.The purpose of this workflow is to capture portions of an object that would normally be hidden against a table, floor, or other supporting surface.Instead of walking around an object once and accepting a missing bottom surface, you will flip the object over to capture the hidden side.
-
-1. capture one orientation of the object
-2. turn or flip the object
-3. capture the newly exposed surfaces
-4. allow RealityScan to reconstruct those photographs into a more complete object
-
----
-
-## Choose an Appropriate Object
-
-Your subject must be **rigid**.
-
-Good examples include:
-
-- shoe
-- toy
-- small sculpture
-- container
-- tool
-- ceramic object
-- textured household object
-- carved object
-- backpack only if it maintains its shape
-- other solid objects with recognizable surface detail
-
-Avoid objects that significantly change shape when turned over.
-
-Poor Flip Mode subjects include:
-
-- loose fabric
-- clothing that collapses
-- flexible bags
-- plants
-- liquids
-- people
-- soft objects that noticeably deform
-- objects with moving parts that cannot remain fixed
-
-If the object's geometry changes between the first and second capture orientation, the software may be unable to reconcile the photographs.
-
----
-
-## Use Object Masking
-
-Use RealityScan Mobile's **Object Masking** workflow to reduce the influence of the surrounding environment.
-
-The purpose of masking is to help the reconstruction concentrate on the object rather than treating the table, floor, or background as part of the same subject.
-
-Pay particular attention to the object's silhouette.
-
-Check that the intended object is being recognized correctly before completing the capture.
-
----
-
-## Use Flip Mode
-
-[Reality Scan Object Capture Tutorial](https://youtu.be/tBc4yoMWaSM)
-
-Capture the object thoroughly in its first orientation.
-
-Do not flip it after only making one quick orbit.
-
-Before turning the object, make sure you have photographed:
-
-- all visible sides
-- upper surfaces
-- recessed areas
-- angled surfaces
-- details likely to disappear from another viewpoint
-
-Then carefully reposition the object to reveal previously hidden areas.
-
-Try not to change:
-
-- lighting
-- object shape
-- removable pieces
-- surface appearance
-
-Continue photographing the newly exposed surfaces while maintaining substantial overlap with areas captured in the first orientation.
-
-### General Photogrammetry Best Practices Refresher
-
-Refer to the [Photogrammetry](../../../../3d-modeling/photogrammetry.md) overview for more information but keep in mind these photogrammtery best practices.
-
-1. Fill the Camera Frame
-   - Get close enough that your intended subject uses a substantial portion of the available camera resolution. Do not photograph a small object from across the room.
-2. Maintain Overlap
-   - Photogrammetry depends on recognizing the same visual information across multiple photographs. Move gradually. Each image should contain substantial information also visible in neighboring images.
-3. Change Camera Position
-   - Do not simply stand in one location and rotate the phone. Photogrammetry needs photographs from **different physical viewpoints**. Move the camera through space.
-4. Capture Multiple Heights and Angles
-   - A single horizontal pass is rarely enough. Capture high views, middle views, low views, and oblique views when appropriate.
-5. Avoid Motion Blur or Blurry Images
-   - Move deliberately and pause to allow the camera to produce sharp photographs. Blurry photographs contain less useful information for reconstruction.
-6. Keep the Subject Still
-   - For object scans, the object should remain completely stationary until you intentionally flip it to scan the hidden side. For architecture, the building obviously remains stationary, but objects within the scene may not.
-7. Keep Lighting Consistent
-   - Avoid changing the lighting halfway through a scan whenever possible. For example, avoid turning the room lights on or off midway through capture, or moving a desk lamp around the object, or beginning in full sunlight and complete the scan after the subject falls into deep shadow.
-8. Avoid Difficult Surfaces
-   - Photogrammetry may struggle with, transparent materials, mirrors, polished metal, glossy plastic, featureless surfaces, extremely thin geometry, repetitive patterns, and moving surfaces.
-
-# Capture for Virtual Production
-
-The interior and exterior scans may be used in a virtual production demonstration during our next class.
-
-When choosing what to capture, consider:
-
-> Could a person plausibly appear in front of this location?
-
-> Is there enough visual information to understand the scale of the environment?
-
-> Would this wall or architectural section make an interesting background?
-
-> Is the camera able to move slightly within the reconstructed scene?
-
-A partial scan is acceptable, but try to capture enough surrounding geometry that the model can be viewed from slightly different angles rather than functioning only as a flat photograph.
-
-## Exporting Your Models
-
-Export the highest practical version that your phone and available storage can comfortably handle.
-
-You do not need to produce an unnecessarily enormous model for this assignment.
-
-The models need to be:
-
-- recognizable
-- textured
-- transferable
-- reasonably manageable for later use
-
-Depending on software and device, your export may include:
-
-- `.glb`
-- `.gltf`
-- `.obj`
-- `.mtl`
-- texture image files `.png`
-- other associated files
-
-### Important
-
-If your model uses multiple files, such as an OBJ + MTL + texture images, keep all associated files together. Do not submit only the `.obj` while leaving its textures elsewhere. You can submit a `.zip` archive of all your file, but make sure to include all files and label them properly
-
-# Short Capture Notes
+#### Short Capture Notes
 
 For each scan, include a brief note answering:
 
-### What did you capture?
+1. What did you capture?
+2. What worked well?
+3. What failed or reconstructed poorly?
+4. What would you change if you captured it again?
 
-### What worked particularly well?
-
-### Where did the reconstruction fail or become incomplete?
-
-### Why do you think that happened?
-
-Keep each response concise.
-
-The purpose is to begin diagnosing photogrammetry rather than simply labeling a scan as "good" or "bad."
+Keep each response concise. The purpose is to begin diagnosing photogrammetry rather than simply labeling a scan as "good" or "bad."
 
 ## Grading Rubric
 
 <div class="responsive-table-markdown">
 
-| Objective                                    | Points |
-| -------------------------------------------- | -----: |
-| Interior Photogrammetry Capture              |     30 |
-| Exterior Photogrammetry Capture              |     30 |
-| Object Masking + Flip Mode Capture           |     30 |
-| File Management, Documentation, and Labeling |     10 |
+| Objective                          | Points |
+| ---------------------------------- | -----: |
+| Interior Photogrammetry Capture    |     25 |
+| Exterior Photogrammetry Capture    |     25 |
+| Object Masking + Flip Mode Capture |     25 |
+| Written Capture Notes              |     15 |
+| File Management and Labeling       |     10 |
 
 </div>
 
-[Object Masking Photogrammetry Capture - Reality Scan Tutorial](https://youtu.be/tBc4yoMWaSM)
-[Indoor Photogrammetry Capture - Reality Scan Tutorial](https://youtu.be/bI_ix3ZDGWI)
-[Outdoor Photogrammetry Capture - Reality Scan Tutorial](https://youtu.be/VmVBUGjP5CU)
+- [Object Masking Photogrammetry Capture - RealityScan Tutorial](https://youtu.be/tBc4yoMWaSM)
+- [Indoor Photogrammetry Capture - RealityScan Tutorial](https://youtu.be/bI_ix3ZDGWI)
+- [Outdoor Photogrammetry Capture - RealityScan Tutorial](https://youtu.be/VmVBUGjP5CU)
+- [How to compress `zip` archive on a Mac](https://youtu.be/bJa_i7X-fkc)
 
 <div class="video-grid">
 
 <div class="video-card">
 
-### Object Masking Photogrammetry Capture - Reality Scan Tutorial
+### Object Masking Photogrammetry Capture - RealityScan Tutorial
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/tBc4yoMWaSM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -328,7 +120,7 @@ The purpose is to begin diagnosing photogrammetry rather than simply labeling a 
 
 <div class="video-card">
 
-### Indoor Photogrammetry Capture - Reality Scan Tutorial
+### Indoor Photogrammetry Capture - RealityScan Tutorial
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/bI_ix3ZDGWI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

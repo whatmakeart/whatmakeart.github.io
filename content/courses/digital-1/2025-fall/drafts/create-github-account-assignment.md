@@ -1,7 +1,7 @@
 ---
 title: Create GitHub Account & Register Domain Name Assignment
 date: 2025-10-02T05:36:50
-lastmod: 2025-10-02T05:44:37
+lastmod: 2026-08-25T21:08:30-04:00
 draft: true
 ---
 
@@ -23,5 +23,5 @@ Your assignment is complete when you have:
 Video Tutorial Link
 https://youtu.be/CczyuEzmEO0
 
-`git config —global user.email "you@cia.edu"`
+`git config -global user.email "you@cia.edu"`
 `git config --global user.name "yourname"`

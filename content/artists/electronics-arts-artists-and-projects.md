@@ -1,6 +1,6 @@
 ---
 title: Electronic Arts Artists and Projects
-lastmod: 2025-09-30T18:32:56
+lastmod: 2026-08-25T21:08:30-04:00
 date: 2024-11-10T16:01:02
 tags:
   - Electronics
@@ -76,7 +76,7 @@ There is an embedded video of an example of each artist's work. Each artist make
 
 <div class="video-card">
 
-### Flip-Disc Kinetic Art — Jumeirah Tide
+### Flip-Disc Kinetic Art - Jumeirah Tide
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NiFSnoJQU7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

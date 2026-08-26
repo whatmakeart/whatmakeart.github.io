@@ -1,7 +1,7 @@
 ---
 title: 08.02 Second Reading Assignment
 date: 2025-10-15T12:00:00
-lastmod: 2025-10-15T18:48:48
+lastmod: 2026-08-25T21:08:30-04:00
 ---
 
 ## Assignment Deliverables
@@ -22,7 +22,7 @@ lastmod: 2025-10-15T18:48:48
 
 ### Excavating AI - Reading #1
 
-In [Excavating AI](https://excavating.ai) Kate Crawford and Trevor Paglen argue that image-training datasets encode social and political assumptions through their taxonomies and labels—especially when classifying people—resulting in derogatory, biased, and harmful categories and argue for auditing and rethinking datasets and their classification schemes so they are not treated as neutral fact but as a constructed choice with ethical consequences.
+In [Excavating AI](https://excavating.ai) Kate Crawford and Trevor Paglen argue that image-training datasets encode social and political assumptions through their taxonomies and labels-especially when classifying people-resulting in derogatory, biased, and harmful categories and argue for auditing and rethinking datasets and their classification schemes so they are not treated as neutral fact but as a constructed choice with ethical consequences.
 
 Kate Crawford and Trevor Paglen, “Excavating AI: The Politics of Training Sets for Machine Learning (September 19, 2019) [https://excavating.ai](https://excavating.ai)
 

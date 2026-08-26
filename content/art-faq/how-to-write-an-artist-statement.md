@@ -1,7 +1,7 @@
 ---
 title: How to Write an Artist Statement
 date: 2023-08-29T05:15:31
-lastmod: 2023-09-07T20:37:39
+lastmod: 2026-08-25T21:08:30-04:00
 description: You do not need an artist statement. You can have a successful career as an artist without every writing an artist statement.
 ---
 
@@ -99,7 +99,7 @@ The more artist statements that you read, the more you will have an appreciation
 
 ### Historical Artist Statements
 
-> I was walking along the road with two friends — the sun was setting The sky suddenly turned bloody red I stopped, leaned against the fence, tired to death. Over the the blue-black fjord and city lay blood in tongues of fire My friends walked on and I stood there quaking with angst. And I felt as though a vast, endless scream passed through nature.
+> I was walking along the road with two friends - the sun was setting The sky suddenly turned bloody red I stopped, leaned against the fence, tired to death. Over the the blue-black fjord and city lay blood in tongues of fire My friends walked on and I stood there quaking with angst. And I felt as though a vast, endless scream passed through nature.
 >
 > Edvard Munch - Written in a diary and on the frame of the 1895 version of the _The Scream_ [^8]
 

@@ -1,7 +1,7 @@
 ---
 title: 02.03 Reading Assignment
 date: 2025-01-29T09:00:00
-lastmod: 2025-03-19T05:06:15
+lastmod: 2026-08-25T21:08:30-04:00
 ---
 
 ## Assignment Deliverables
@@ -36,11 +36,11 @@ Above all, remember that your ability to form, remember, and express creative an
 
 ## LLM Completed Examples
 
-Do your best to get good at things that machines are not. Focus on developing the skills that make you uniquely human—skills that machines can’t yet easily replicate. Tasks like summarizing a reading or generating straightforward responses have become easily completable by technology, like large language models (LLMs).
+Do your best to get good at things that machines are not. Focus on developing the skills that make you uniquely human-skills that machines can’t yet easily replicate. Tasks like summarizing a reading or generating straightforward responses have become easily completable by technology, like large language models (LLMs).
 
 Instead of aiming to perfect skills that are now routine for machines, strive to maximize your capacity for creative thinking and critical analysis. Look at texts, ideas, and problems from multiple perspectives and engaging with them deeply and thoughtfully. Use all the tools at your disposal, including LLMs, to analyze texts, uncover patterns, and generate insights. Question the conclusions you’ve drawn and test your ideas through dialogue, debate, and collaboration with others.
 
-The race to simply create text is over before you even start—it’s a challenge machines have already nearly mastered. What matters now is what you bring to the process: your ability to challenge assumptions, navigate complexity, and offer nuanced perspectives that machines cannot.
+The race to simply create text is over before you even start-it’s a challenge machines have already nearly mastered. What matters now is what you bring to the process: your ability to challenge assumptions, navigate complexity, and offer nuanced perspectives that machines cannot.
 
 <details>
 <summary>
