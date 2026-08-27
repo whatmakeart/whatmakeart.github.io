@@ -1,7 +1,7 @@
 ---
-title: 05.05 3D Capture and 3D Print Assignment
-date: 2025-09-26T09:30:00
-lastmod: 2026-08-26T19:57:45-04:00
+title: 01.05 3D Capture and 3D Print Assignment
+date: 2026-08-27T09:00:00-04:00
+lastmod: 2026-08-27T06:51:37-04:00
 ---
 
 ## Assignment Deliverables
@@ -16,7 +16,7 @@ lastmod: 2026-08-26T19:57:45-04:00
 
 ## Assignment Overview
 
-3D capture brings the physical world into the digital 3D model world. This project explores three different methods of 3D capture, [photogrammetry](05-02-photogrammetry.md), [3D scanning](05-01-3d-scanning.md), and [gaussian splatting](05-03-gaussian-splatting.md).
+3D capture brings the physical world into the digital 3D model world. This project explores three different methods of 3D capture, [photogrammetry](01-03-photogrammetry.md), [3D scanning](01-01-3d-scanning.md), and [gaussian splatting](01-04-gaussian-splatting.md).
 
 ### Process
 
@@ -47,7 +47,7 @@ lastmod: 2026-08-26T19:57:45-04:00
 
 #### Photogrammetry Tools
 
-- [Reality Scan](https://www.realityscan.com/en-US)
+- [RealityScan](https://www.realityscan.com/en-US)
 - [Photocatch](https://youtu.be/yMqH0GskhgY)
 - [Meshroom](https://alicevision.org/)
 
@@ -69,7 +69,7 @@ lastmod: 2026-08-26T19:57:45-04:00
 - [How to Export STL from Blender](../../../../digital-fabrication/3d-printing/export-stl-blender.md)
 - [3D Print Tools Add-On Blender](https://youtu.be/_E-b6CENHms)
 
-If using the Bambu X1 Carbon 3D printers, then use the [Bambu Studio Slicer](../01-introduction/01-04-bambu-studio-installation.md). If using Ultimaker Printers or Creality Ender Printers, then use the [Cura Slicer](../../../../digital-fabrication/3d-printing/cura-slicing-basics.md).
+If using the Bambu X1 Carbon 3D printers, then use the [Bambu Studio Installation](../../../../digital-fabrication/3d-printing/bambu-studio-installation.md) . If using Ultimaker Printers or Creality Ender Printers, then use the [Cura Slicer](../../../../digital-fabrication/3d-printing/cura-slicing-basics.md).
 
 ## Grading Rubric
 

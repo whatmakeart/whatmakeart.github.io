@@ -1,7 +1,7 @@
 ---
-title: 01.03 EinScan HD Head Scanning Guide
+title: 01.03 3D Head Scanning Guide
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-26T12:14:18-04:00
+lastmod: 2026-08-27T06:45:07-04:00
 toc: true
 ---
 

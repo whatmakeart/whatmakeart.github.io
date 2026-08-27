@@ -1,7 +1,7 @@
 ---
-title: Head Scan Quick Guide
+title: 3D Head Scanning Guide
 date: 2026-08-26T06:41:51-04:00
-lastmod: 2026-08-26T12:09:24-04:00
+lastmod: 2026-08-27T06:51:10-04:00
 ---
 
 ## Before 3D Head Scanning Checklist
@@ -104,7 +104,6 @@ Artec webinar for 3D body scanning includes many tips, some of which are summari
 - Capture each major body part separately
 - Scan Arms and legs in individual scans that can be aligned later
 - use supports as needed so the subject can keep their pose or hold heavy objects
-- When scanning subjects that will move with the Artec Leo, switching on `Record without registration` may help
 
 ## References
 

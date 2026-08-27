@@ -1,7 +1,7 @@
 ---
 title: 3D Scanning
 date: 2023-12-12T07:03:31-04:00
-lastmod: 2026-08-26T11:55:22-04:00
+lastmod: 2026-08-27T06:51:24-04:00
 ---
 
 3D scanning is able to capture more detail and more accurate geometry than [photogrammetry](photogrammetry.md), but requires more expensive 3D scanning equipment and software. Active 3D scanning methods include structured-light, laser triangulation, and laser/time-of-flight systems such as LiDAR.
@@ -27,3 +27,4 @@ Structured Light scanning projects a known pattern of light at a 3D object and o
 ## Artec Leo Scanning Guides
 
 - [Artec Leo Scanner at the think\[box\]](https://case.edu/thinkbox/equipment/other-equipment/structured-light-3d-scanner)
+- When scanning subjects that will move with the Artec Leo, switching on `Record without registration` may help

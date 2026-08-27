@@ -1,7 +1,7 @@
 ---
-title: 01.02 3D Scanning
-date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-27T06:44:53-04:00
+title: 01.01 3D Scanning
+date: 2026-08-27T09:00:00-04:00
+lastmod: 2026-08-27T06:46:51-04:00
 toc: true
 ---
 
