@@ -1,7 +1,7 @@
 ---
 title: 01.03 AI Mesh Generation Exercise
 date: 2024-08-21T09:00:00
-lastmod: 2026-01-14T07:36:34-04:00
+lastmod: 2026-08-27T07:25:49-04:00
 toc: true
 ---
 
@@ -32,6 +32,7 @@ Boxing Bunny image made with Google Gemini
 
 ## AI Mesh Generation Tools
 
+- [Trellis 2 by Microsoft](https://github.com/microsoft/trellis.2) - 4 Billion Parameter 2D to 3D generator
 - [VFusion3D Demo on Hugging Face](https://huggingface.co/spaces/facebook/VFusion3D) - Makes good videos but the meshes are blocky
 - [VFusion3D Demo on Google Colab](https://github.com/whatmakeart/VFusion3D-colab) - Requires access to Google Drive
 - [StableVision123 Demo on Hugging Face](https://huggingface.co/spaces/p4vv37/Stable-Zero123)

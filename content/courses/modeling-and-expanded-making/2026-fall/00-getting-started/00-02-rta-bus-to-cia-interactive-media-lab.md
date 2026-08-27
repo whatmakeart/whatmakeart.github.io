@@ -1,10 +1,10 @@
 ---
 title: 00.02 RTA Bus to CIA Interactive Media Lab
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-08-24T11:31:07-04:00
+lastmod: 2026-08-27T07:44:21-04:00
 ---
 
-Please review the following instructions to ensure you arrive at the [IML](https://www.cia.edu/iml/) on time and fully prepared for class each week. Our class begins promptly at noon. You must arrange to arrive at the IML by 9:00 PM.
+Please review the following instructions to ensure you arrive at the [IML](https://www.cia.edu/iml/) on time and fully prepared for class each week. Our class begins promptly at noon. You must arrange to arrive at the IML by 9:00 AM.
 
 Interactive Media Lab
 Warren E. Anderson MidTown Collaboration Center

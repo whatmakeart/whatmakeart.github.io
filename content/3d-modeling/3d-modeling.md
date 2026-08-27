@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling
 date: 2021-04-23T11:47:42
-lastmod: 2026-01-21T07:05:19-04:00
+lastmod: 2026-08-27T07:25:20-04:00
 tasks:
 ---
 
@@ -233,6 +233,10 @@ Neural Radiance Fields (NeRFs) use deep learning to create 3D models from multip
 This article, _[The Pathway to the Metaverse Begins With 3D Modeling](https://www.entrepreneur.com/article/425643)_, in _The Entrepreneur_ examines the upcoming metaverse and how 3D modeled assets will be essential for the metaverse to work. 3D modelers will need to create the 3D digital objects for now, but soon [AI-Artificial-Intelligence](../coding/ai-artificial-intelligence.md) will likely play a bigger role in the automatic creation of 3D digital objects. Currently AI is able to produce realistic 2D images and make crude 3D models from photographs. This capability will exponentially grow in the future.
 
 ### 3D Generative Model Progression
+
+#### 2025
+
+- [Trellis 2 by Microsoft](https://github.com/microsoft/trellis.2) - 4 Billion Parameter 2D to 3D generator
 
 #### 2022 - 2023
 

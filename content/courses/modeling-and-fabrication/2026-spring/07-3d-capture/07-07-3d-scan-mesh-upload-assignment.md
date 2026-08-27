@@ -1,7 +1,7 @@
 ---
 title: 07.07 3D Scan Mesh Upload Assignment
 date: 2026-02-25T09:00:00-04:00
-lastmod: 2026-02-25T08:50:32-04:00
+lastmod: 2026-08-27T07:05:22-04:00
 ---
 
 ## Assignment Deliverables
@@ -35,9 +35,9 @@ lastmod: 2026-02-25T08:50:32-04:00
 
 ### Einscan Scanner Resources
 
-- [Einscan H Series Scanner Quick Start Guide](https://support.einscan.com/en/support/solutions/articles/60000955990-einscan-h2-quick-start-guide)
-- [Einscan Scanning Tips](https://support.einscan.com/en/support/solutions/60000334498)
-- [Einscan H Series Guides](https://support.einscan.com/en/support/solutions/60000323052)
+- [EinScan H Series Scanner Quick Start Guide](https://support.einscan.com/en/support/solutions/articles/60000955990-einscan-h2-quick-start-guide)
+- [EinScan Scanning Tips](https://support.einscan.com/en/support/solutions/60000334498)
+- [EinScan H Series Guides](https://support.einscan.com/en/support/solutions/60000323052)
 -
 
 ### Artec LEO Scanner Resources

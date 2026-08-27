@@ -1,7 +1,7 @@
 ---
 title: 05.05 3D Capture and 3D Print Assignment
 date: 2025-09-26T09:30:00
-lastmod: 2026-08-26T19:57:45-04:00
+lastmod: 2026-08-27T07:05:22-04:00
 ---
 
 ## Assignment Deliverables
@@ -53,10 +53,10 @@ lastmod: 2026-08-26T19:57:45-04:00
 
 #### 3D Scan Tools
 
-- [Einscan H Series Scanner Quick Start Guide](https://support.einscan.com/en/support/solutions/articles/60000955990-einscan-h2-quick-start-guide)
-- [Einscan Scanning Tips](https://support.einscan.com/en/support/solutions/60000334498)
-- [Einscan H Series Guides](https://support.einscan.com/en/support/solutions/60000323052)
-- [Einscan H2 Scanner](https://www.einscan.com/handheld-3d-scanner/einscan-h/)
+- [EinScan H Series Scanner Quick Start Guide](https://support.einscan.com/en/support/solutions/articles/60000955990-einscan-h2-quick-start-guide)
+- [EinScan Scanning Tips](https://support.einscan.com/en/support/solutions/60000334498)
+- [EinScan H Series Guides](https://support.einscan.com/en/support/solutions/60000323052)
+- [EinScan H2 Scanner](https://www.einscan.com/handheld-3d-scanner/einscan-h/)
 
 ### 3D Mesh Clean Up
 

@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2024-08-21T09:00:00
-lastmod: 2026-03-13T06:59:02-04:00
+lastmod: 2026-08-27T07:25:49-04:00
 ---
 
 ## Sketching
@@ -44,6 +44,7 @@ lastmod: 2026-03-13T06:59:02-04:00
 
 ## AI Mesh Generation
 
+- [Trellis 2 by Microsoft](https://github.com/microsoft/trellis.2) - 4 Billion Parameter 2D to 3D generator
 - [VFusion3D Demo on Hugging Face](https://huggingface.co/spaces/facebook/VFusion3D) - Makes good videos but the meshes are blocky
 - [VFusion3D Demo on Google Colab](https://github.com/whatmakeart/VFusion3D-colab) - Requires access to Google Drive
 - [StableVision123 Demo on Hugging Face](https://huggingface.co/spaces/p4vv37/Stable-Zero123)
