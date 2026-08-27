@@ -1,7 +1,7 @@
 ---
 title: 01.05 3D Scan Reconstruction and Remix Assignment
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-08-27T14:13:41-04:00
+lastmod: 2026-08-27T14:16:07-04:00
 ---
 
 ## Assignment Deliverables
@@ -25,12 +25,11 @@ _Note: You can upload a single `.zip` archive of all your files labeled inside t
 
 3D capture brings information from the physical world into a digital 3D environment. This project explores different methods of 3D capture including [photogrammetry](01-03-photogrammetry.md), [3D scanning](01-01-3d-scanning.md).
 
-Rather than treating a 3D scan as a finished object, you will use captured human geometry as raw material for a new sculpture. Explore repetition, distortion, scale, proportion, combination, or other transformations rather than simply printing an unchanged scan.
+Rather than treating a 3D scan as a finished object, you will use captured human geometry and other scan data as raw material for a new sculpture. Explore repetition, distortion, scale, proportion, combination, or other transformations rather than simply printing an unchanged scan.
 
-After scanning a human head and potentially additional parts of the body, bring the scan into [Blender](../../../../3d-modeling/blender/blender.md) , briefly clean the geometry, and transform it into an original humanoid form. Stretch proportions, duplicate limbs, combine multiple body parts, enlarge or shrink features, remove sections, merge forms together, or sculpt directly into the scan.
+After scanning a human head and potentially additional parts of the body as well as objects and environments, bring the scans into [Blender](../../../../3d-modeling/blender/blender.md) , briefly clean the geometry, and transform it into an original remixed form. Stretch proportions, duplicate limbs, combine multiple body parts, enlarge or shrink features, remove sections, merge forms together, or sculpt directly into the scan.
 
-Your final sculpture should clearly move beyond simply reproducing the scanned person. Use the strange possibilities of digital modeling to make a body that would be difficult or impossible to construct in the physical world and then return that altered digital body to the physical world through [3D Printing](../../../../digital-fabrication/3d-printing/3d-printing.md).
-
+Your final sculpture should clearly move beyond simply reproducing the scanned data. Use the strange possibilities of digital modeling to make a remixed form that would be difficult or impossible to construct in the physical world.
 Possible approaches include:
 
 - Multiple arms, hands, heads, faces, or legs
@@ -59,18 +58,7 @@ The goal is not to create a perfectly realistic digital human. The goal is to le
 
 ## Process
 
-### Photogrammetry Capture
-
-1. Select an interior room, object, or physical environment to capture.
-2. Capture many overlapping views from different positions, heights, and angles. You may use photographs or an appropriate video capture workflow.
-3. Import the photographs or video into a photogrammetry application and process the capture into a 3D reconstruction.
-4. If needed, briefly clean up the captured mesh.
-   - [How to Clean Up Photogrammetry Mesh in Blender](https://youtu.be/asyItetJkbU)
-5. Export the completed mesh with textures.
-
-## Humanoid Sculpture in Blender
-
-### 1. Import and Inspect
+### Import and Inspect
 
 Import your human 3D scan into Blender.
 
@@ -85,7 +73,7 @@ Before making major changes:
 
 Do not spend excessive time attempting to make the scan perfect. Small scanning errors can become part of the sculpture.
 
-### 2. Remix the 3D Scan Data
+### Remix the 3D Scan Data
 
 Use the scan as raw material for a new sculpture. You may duplicate entire scans or separate parts of the mesh into different objects before modifying them.
 
@@ -113,7 +101,7 @@ You do not need to use every tool but your sculpture should use multiple intenti
 
 For example, you could duplicate both arms several times, stretch the torso vertically, enlarge the head, compress the legs, and sculpt the intersections between the parts into a continuous form.
 
-### 3. Consider the Sculpture From All Sides
+### Consider the Sculpture From All Sides
 
 This is a three-dimensional sculpture rather than a single rendered image.
 
