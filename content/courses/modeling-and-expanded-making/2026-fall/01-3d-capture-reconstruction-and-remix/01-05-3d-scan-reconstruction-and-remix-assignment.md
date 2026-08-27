@@ -1,7 +1,7 @@
 ---
 title: 01.05 3D Scan Reconstruction and Remix Assignment
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-08-27T13:49:12-04:00
+lastmod: 2026-08-27T14:13:41-04:00
 ---
 
 ## Assignment Deliverables
@@ -300,6 +300,39 @@ Avoid making modifications that are only noticeable from the front. A highly det
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/f7F8jNDWae0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+</div>
+
+### RealityScan Mobile Photogrammetry Guides
+
+<div class="video-grid">
+
+<div class="video-card">
+
+#### Object Masking Photogrammetry Capture - RealityScan Tutorial
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/tBc4yoMWaSM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Indoor Photogrammetry Capture - RealityScan Tutorial
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/bI_ix3ZDGWI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### Outdoor Photogrammetry Capture - Reality Scan Tutorial
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/VmVBUGjP5CU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
