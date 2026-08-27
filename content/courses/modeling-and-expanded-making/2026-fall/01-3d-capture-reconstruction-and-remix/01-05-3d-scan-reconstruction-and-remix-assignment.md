@@ -1,21 +1,25 @@
 ---
 title: 01.05 3D Scan Reconstruction and Remix Assignment
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-08-27T12:59:26-04:00
+lastmod: 2026-08-27T13:49:12-04:00
 ---
 
 ## Assignment Deliverables
 
 1. Raw Photogrammetry Capture
    - Exported 3D file of a photogrammetry capture of a room, object, or physical environment.
-   - Label file YYYY-MM-DD Lastname Firstname Photogrammetry Capture (`.usd`, `.obj`, `.blend`)
+   - Label file YYYY-MM-DD Lastname Firstname Photogrammetry Capture (`.usd`, `.obj`, `.blend`, `.zip`)
 2. Raw 3D Scan Capture
    - Exported 3D scan of a human head, human body
    - A partial-body or full-body scan may also be created and used.
-   - Label file YYYY-MM-DD Lastname Firstname 3D Scan Capture (`.usd`, `.obj`, `.blend`)
+   - Label file YYYY-MM-DD Lastname Firstname 3D Scan Capture (`.usd`, `.obj`, `.blend`, `.zip`)
 3. 3D Scan Remix Blender File
    - Clean, modify, distort, duplicate, combine, and/or sculpt human scan data into an original humanoid sculpture.
-   - Label file YYYY-MM-DD Lastname Firstname Humanoid Sculpture (`.blend`)
+   - Label file YYYY-MM-DD Lastname Firstname Remix Sculpture (`.blend`)
+4. Render image of remix
+   - - Label file YYYY-MM-DD Lastname Firstname Remix Render (`.blend`)
+
+_Note: You can upload a single `.zip` archive of all your files labeled inside the archive for easier submission to Canvas_
 
 ## Assignment Overview
 
