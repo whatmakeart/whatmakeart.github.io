@@ -1,7 +1,7 @@
 ---
 title: 01.05 3D Scan Reconstruction and Remix Assignment
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-08-27T11:44:01-04:00
+lastmod: 2026-08-27T12:54:48-04:00
 ---
 
 ## Assignment Deliverables
@@ -146,17 +146,12 @@ Avoid making modifications that are only noticeable from the front. A highly det
 - [EinScan H Series Guides](https://support.einscan.com/en/support/solutions/60000323052)
 - [EinScan H2 Scanner](https://www.einscan.com/handheld-3d-scanner/einscan-h/)
 
-#### Gaussian Splatting
-
-- [Gaussian Splatting](01-04-gaussian-splatting.md)
-- [How to Export Frames from Video in Premiere](https://youtu.be/JCawZdzQgFA)
-
 ### 3D Mesh Cleanup and Modeling
 
 - [Scale Photogrammetry Mesh in Blender](https://youtu.be/MUb7I4lBSZs)
 - [Clean Up Photogrammetry Mesh in Blender](https://youtu.be/asyItetJkbU)
 
-Useful Blender techniques for this assignment include:
+### Useful Blender techniques for this assignment include:
 
 - Object transforms
 - Edit Mode
@@ -180,5 +175,83 @@ Useful Blender techniques for this assignment include:
 | Humanoid Sculpture Transformation and Modeling |     35 |
 | Render Image                                   |     25 |
 | File Management and Labeling                   |     10 |
+
+</div>
+
+## Tutorials and Guides
+
+<div class="video-grid">
+
+<div class="video-card">
+
+### Import a 3D Head Scan into Blender (OBJ) and Fix Scale, Rotation, and Origin
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/xaECwQMOOAw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Fix Shiny 3D Scan Textures in Maya Using OpenPBR (Quick IOR Trick)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/IOt3nEgCeF4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### How to Convert Epic Games Reality Scan GLB to OBJ in Blender (Photogrammetry Export)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Lj1Z2XmpOM0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Blender Object Mode vs Edit Mode Explained (Move Objects vs Edit Mesh)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/w8DLBlx_jCE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Make Any 3D Model Manifold in Blender: 3D Print Toolbox Guide
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/beAfWDEdjCc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Blender 3D Printing: Reduce Triangles, Make Manifold, Export a Clean STL
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/xkMdZJDfE3o?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Blender 3D Printing: Reduce Triangles, Make Manifold, Export a Clean STL
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/xkMdZJDfE3o?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### Reconnect Textures to OBJ in Blender
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/t5ayHdRapCw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 </div>
