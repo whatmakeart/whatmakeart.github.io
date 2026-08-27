@@ -1,7 +1,7 @@
 ---
 title: 01.05 3D Capture and 3D Print Assignment
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-08-27T07:25:49-04:00
+lastmod: 2026-08-27T07:51:18-04:00
 ---
 
 ## Assignment Deliverables
@@ -23,7 +23,7 @@ lastmod: 2026-08-27T07:25:49-04:00
 
 3D capture brings information from the physical world into a digital 3D environment. This project explores three different methods of 3D capture: [photogrammetry](01-03-photogrammetry.md), [3D scanning](01-01-3d-scanning.md), and [gaussian splatting](01-04-gaussian-splatting.md).
 
-Rather than treating a 3D scan as a finished object, you will use captured human geometry as **raw material for a new sculpture**.
+Rather than treating a 3D scan as a finished object, you will use captured human geometry as **raw material for a new sculpture**. Explore repetition, distortion, scale, proportion, combination, or other transformations rather than simply printing an unchanged scan.
 
 After scanning a human head and potentially additional parts of the body, bring the scan into Blender, briefly clean the geometry, and transform it into an original humanoid form. Stretch proportions, duplicate limbs, combine multiple body parts, enlarge or shrink features, remove sections, merge forms together, or sculpt directly into the scan.
 
@@ -46,6 +46,14 @@ Possible approaches include:
 - Abstract forms that still retain evidence of the human body
 
 The goal is **not to create a perfectly realistic digital human**. The goal is to learn how captured geometry can be cleaned, manipulated, assembled, and fabricated as a new sculptural form.
+
+- Successfully demonstrate the required 3D capture workflows.
+- Preserve usable human scan geometry while removing unnecessary scanning artifacts.
+- Make substantial and intentional changes to the original scanned body.
+- Consider the sculpture as a three-dimensional form from multiple viewpoints.
+- Use Blender tools purposefully rather than applying effects randomly.
+- Produce geometry that is appropriate for physical 3D printing.
+- Submit clearly labeled and organized digital files.
 
 ## Process
 
@@ -157,19 +165,12 @@ Avoid making modifications that are only noticeable from the front.
 Before printing:
 
 1. Remove unnecessary internal geometry and disconnected fragments.
-
 2. Join or Boolean intersecting pieces when appropriate.
-
 3. Check that major parts of the sculpture are physically connected.
-
 4. Make thin elements thick enough to print.
-
 5. Check the mesh for obvious holes or non-manifold geometry.
-
 6. Orient and scale the sculpture appropriately for the printer.
-
 7. Use the Blender 3D Print Tools Add-On to identify potential problems.
-
 8. Export the finished model as an STL.
 
 A highly detailed texture is **not required** for the final 3D print. At this stage, the geometry of the sculpture is the primary concern.
@@ -241,16 +242,3 @@ If using Ultimaker or Creality Ender printers, use the [Cura Slicer](../../../..
 | File Management and Labeling                   |     10 |
 
 </div>
-
-### Grading Considerations
-
-The strongest projects will:
-
-- Successfully demonstrate the required 3D capture workflows.
-- Preserve usable human scan geometry while removing unnecessary scanning artifacts.
-- Make substantial and intentional changes to the original scanned body.
-- Explore repetition, distortion, scale, proportion, combination, or other transformations rather than simply printing an unchanged scan.
-- Consider the sculpture as a three-dimensional form from multiple viewpoints.
-- Use Blender tools purposefully rather than applying effects randomly.
-- Produce geometry that is appropriate for physical 3D printing.
-- Submit clearly labeled and organized digital files.
