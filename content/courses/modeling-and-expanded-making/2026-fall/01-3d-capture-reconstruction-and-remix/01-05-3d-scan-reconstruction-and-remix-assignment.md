@@ -1,23 +1,21 @@
 ---
-title: 01.05 3D Capture and 3D Print Assignment
+title: 01.05 3D Scan Reconstruction and Remix Assignment
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-08-27T07:51:18-04:00
+lastmod: 2026-08-27T11:17:54-04:00
 ---
 
 ## Assignment Deliverables
 
 1. Raw Photogrammetry Capture
    - Exported 3D file of a photogrammetry capture of a room, object, or physical environment.
-   - Label file `YYYY-MM-DD Lastname Firstname Photogrammetry Capture` (`.usd`, `.obj`, `.blend`)
+   - Label file YYYY-MM-DD Lastname Firstname Photogrammetry Capture (`.usd`, `.obj`, `.blend`)
 2. Raw 3D Scan Capture
-   - Exported 3D scan of a **human head**.
+   - Exported 3D scan of a human head, human body
    - A partial-body or full-body scan may also be created and used.
-   - Label file `YYYY-MM-DD Lastname Firstname 3D Scan Capture` (`.usd`, `.obj`, `.blend`)
-3. Humanoid Sculpture Blender File
+   - Label file YYYY-MM-DD Lastname Firstname 3D Scan Capture (`.usd`, `.obj`, `.blend`)
+3. 3D Scan Remix Blender File
    - Clean, modify, distort, duplicate, combine, and/or sculpt human scan data into an original humanoid sculpture.
-   - Label file `YYYY-MM-DD Lastname Firstname Humanoid Sculpture` (`.blend`)
-4. 3D Printed Humanoid Sculpture
-   -Prepare the modified humanoid sculpture for 3D printing and produce a physical 3D print.
+   - Label file YYYY-MM-DD Lastname Firstname Humanoid Sculpture (`.blend`)
 
 ## Assignment Overview
 
