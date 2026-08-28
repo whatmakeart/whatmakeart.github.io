@@ -1,10 +1,12 @@
 ---
 title: Tig Welding
 date: 2024-11-10T16:01:02
-lastmod: 2024-12-06T05:35:12
+lastmod: 2026-08-28T06:51:56-04:00
 ---
 
-Unlike Mig or Stick welding, Tig welding always moves in the forward or push direction, not in a reverse or pull direction. It also uses a torch as a heat source and a separate filler rod to complete the weld.
+_Always follow [Welding Safety](welding-safety.md) guidelines to prevent injury to yourself and others._
+
+Unlike [Mig welding](mig-welding.md) or [Arc welding](arc-welding.md), Tig welding always moves in the forward or push direction, not in a reverse or pull direction. It also uses a torch as a heat source and a separate filler rod to complete the weld.
 
 ## Parts of Tig Welding Torch
 
@@ -29,15 +31,12 @@ Unlike Mig or Stick welding, Tig welding always moves in the forward or push dir
 5. Attach the front cup or nozzle
 6. Position the electrode to stick out past the end of the cup no more than the diameter of the cup as a general rule
 
-Points
+### Points
 
-Never allow the tungsten to touch the base metal. If it dips into the weld puddle then stop welding. Let the electrode cool, the regrind it before continuing welding. It will not work correctly if it has base metal contaminating the tip.
-
-Don't have inconsistent travel speed. This will make beads that have different widths and will not make good welds.
-
-Keep the arc distance close to the material and consistent
-
-Don't melt the filler wire with the arc, it should melt when it is introduced to the molten weld pool
+- Never allow the tungsten to touch the base metal. If it dips into the weld puddle then stop welding. Let the electrode cool, the regrind it before continuing welding. It will not work correctly if it has base metal contaminating the tip.
+- Don't have inconsistent travel speed. This will make beads that have different widths and will not make good welds.
+- Keep the arc distance close to the material and consistent
+- Don't melt the filler wire with the arc, it should melt when it is introduced to the molten weld pool
 
 ### Tig Welding FAQs
 

@@ -1,0 +1,8 @@
+---
+title: 01.02 Welding Safety
+date: 2026-08-28T09:30:00-04:00
+lastmod: 2026-08-28T06:56:55-04:00
+toc: true
+---
+
+![Link to included file content](../../../../metalworking/welding-safety.md)

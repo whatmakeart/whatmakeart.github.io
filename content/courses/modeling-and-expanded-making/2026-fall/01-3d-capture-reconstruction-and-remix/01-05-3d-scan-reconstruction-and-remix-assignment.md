@@ -1,7 +1,7 @@
 ---
 title: 01.05 3D Scan Reconstruction and Remix Assignment
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-08-27T14:22:07-04:00
+lastmod: 2026-08-28T04:09:09-04:00
 ---
 
 ## Assignment Deliverables
@@ -10,7 +10,7 @@ lastmod: 2026-08-27T14:22:07-04:00
    - Clean, modify, distort, duplicate, combine, and/or sculpt human scan data into an original humanoid sculpture.
    - Label file YYYY-MM-DD Lastname Firstname Remix Sculpture (`.blend`)
 2. Render image of remix
-   - - Label file YYYY-MM-DD Lastname Firstname Remix Render (`.blend`)
+   - Label file YYYY-MM-DD Lastname Firstname Remix Render (`.png`, `.jpg`)
 
 _Note: You can upload a single `.zip` archive of all your files labeled inside the archive for easier submission to Canvas_
 
@@ -70,7 +70,7 @@ Do not spend excessive time attempting to make the scan perfect. Small scanning 
 
 Use the scan as raw material for a new sculpture. You may duplicate entire scans or separate parts of the mesh into different objects before modifying them.
 
-Experiment with basic Blender tools including:
+#### Useful Blender Techniques
 
 - Move
 - Rotate
@@ -89,6 +89,8 @@ Experiment with basic Blender tools including:
 - Boolean Difference
 - Remesh
 - Decimate
+- Joining and separating meshes
+- Sculpt Mode
 
 You do not need to use every tool but your sculpture should use multiple intentional transformations that substantially change the original scan.
 
@@ -124,7 +126,6 @@ Avoid making modifications that are only noticeable from the front. A highly det
 
 #### 3D Scanning
 
-- [3D Scanning](01-01-3d-scanning.md)
 - [3D Head Scanning Guide](01-02-3d-head-scanning-guide.md)
 - [EinScan H Series Scanner Quick Start Guide](https://support.einscan.com/en/support/solutions/articles/60000955990-einscan-h2-quick-start-guide)
 - [EinScan Scanning Tips](https://support.einscan.com/en/support/solutions/60000334498)
@@ -135,18 +136,6 @@ Avoid making modifications that are only noticeable from the front. A highly det
 
 - [Scale Photogrammetry Mesh in Blender](https://youtu.be/MUb7I4lBSZs)
 - [Clean Up Photogrammetry Mesh in Blender](https://youtu.be/asyItetJkbU)
-
-### Useful Blender techniques for this assignment include:
-
-- Object transforms
-- Edit Mode
-- Proportional Editing
-- Sculpt Mode
-- Remesh
-- Decimate
-- Mirror Modifier
-- Boolean Modifier
-- Joining and separating meshes
 
 ## Grading Rubric
 
