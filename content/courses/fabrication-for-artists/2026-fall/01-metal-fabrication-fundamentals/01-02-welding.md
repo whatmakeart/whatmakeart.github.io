@@ -1,7 +1,7 @@
 ---
-title: 01.01 Welding
+title: 01.02 Welding
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-28T06:56:31-04:00
+lastmod: 2026-08-28T09:25:39-04:00
 toc: true
 ---
 

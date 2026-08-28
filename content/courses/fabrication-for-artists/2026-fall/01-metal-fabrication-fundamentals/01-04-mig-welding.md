@@ -1,7 +1,7 @@
 ---
-title: 01.03 Mig Welding
+title: 01.04 Mig Welding
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-28T09:13:49-04:00
+lastmod: 2026-08-28T09:25:39-04:00
 toc: true
 ---
 
