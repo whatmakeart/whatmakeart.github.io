@@ -1,7 +1,7 @@
 ---
 title: 01.03 Bicycle Ideation Sketches Assignment
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-29T09:16:49-04:00
+lastmod: 2026-08-29T09:22:19-04:00
 ---
 
 ## Assignment Deliverables
@@ -129,12 +129,14 @@ More [Artists](../../../../artists/artists.md) to look at.
 
 <div class="responsive-table-markdown">
 
-| Objective                          | Points |
-| ---------------------------------- | ------ |
-| Interior Photogrammetry Capture    | 25     |
-| Exterior Photogrammetry Capture    | 25     |
-| Object Masking + Flip Mode Capture | 25     |
-| Written Capture Notes              | 15     |
-| File Management and Labeling       | 10     |
+| Objective                             | Points |
+| ------------------------------------- | ------ |
+| Evidence of 30 - 45 minutes sketching | 25     |
+| Variety of Concepts                   | 15     |
+| Depth of Concepts                     | 15     |
+| Documentation Image Quality           | 15     |
+| List Reference Artist Image           | 10     |
+| New Reference Artist Image            | 10     |
+| File Management and Labeling          | 10     |
 
 </div>
