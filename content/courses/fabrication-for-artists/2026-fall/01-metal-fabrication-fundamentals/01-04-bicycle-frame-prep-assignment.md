@@ -1,58 +1,19 @@
 ---
 title: 01.05 Bicycle Disassembly Assignment
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-29T08:36:19-04:00
+lastmod: 2026-08-29T08:43:23-04:00
 ---
 
 ## Assignment Deliverables
 
 1. Disassembled Bicycle Components
-
    - Preserve useful mechanical components including bearings, hubs, cranks, wheels, and other potential moving parts.
-
 2. Prepared Bicycle Frame / Tubing
+   - Seperated headtube from bottom bracket and seat tube
+   - Deburr sharp edges
+   - Remove coatings 3-4" from areas that will later be welded
 
-   - Make controlled cuts as needed for experimentation.
-   - Deburr sharp edges.
-   - Remove coatings from areas that will later be welded.
-   - Throughout the metal fabrication portion of the course, the bicycle will become a platform for learning cutting, welding, tube fitting, joining, mechanical assembly, and metal finishing.
-
-Your goal is not simply to repair, decorate, or customize a bicycle. Think of the bicycle as a collection of useful structures and mechanisms that can be cut apart, rearranged, extended, duplicated, and combined into something unexpected.
-
-The final sculpture does not have to be a vehicle or even remain rideable. It must, however, incorporate bicycle components and include kinetic elements—parts that actually move.
-
-A bicycle already contains many useful mechanisms for creating motion:
-
-- Wheels and hubs provide large rotating elements with built-in bearings.
-- The headset provides a strong bearing assembly that allows a fork or another structure to rotate.
-- The bottom bracket provides a durable rotating axle that can support cranks, pedals, wheels, arms, or other moving elements.
-- Cranks and pedals can turn continuous rotation into human-powered movement.
-- Chains and sprockets can transmit rotation between different locations.
-- Forks can hold wheels or become rotating structural elements.
-- Rims and tires can act as large pulleys or friction-drive surfaces.
-
-You are encouraged to misuse these mechanisms. A headset does not need to steer a bicycle. A bottom bracket does not need to drive a rear wheel. A wheel does not need to touch the ground. A bicycle rim can become a giant pulley. Belts, rubber, cord, or other flexible materials could transfer motion between wheels. One rotating wheel can also contact another rim or tire and move it through friction, eliminating the need for a conventional bicycle chain.
-
-Think about what happens when one movement causes another movement.
-
-## Possible Approaches
-
-- Stretch, shorten, widen, stack, or radically alter bicycle frames.
-- Combine pieces from multiple bicycles.
-- Use several wheels rotating at different speeds or directions.
-- Transfer motion from one wheel to another with chains, belts, or friction.
-- Use a crank to move an object that normally would not rotate.
-- Turn a wheel horizontally, vertically, diagonally, or overhead.
-- Use the headset as a pivot for an entire sculptural element.
-- Use the bottom bracket and cranks to activate another mechanism.
-- Use wheels, spokes, or cranks to strike, lift, drag, spin, shake, or oscillate another material.
-- Require a viewer to pedal, push, crank, pull, spin, or otherwise activate the work.
-- Become an unconventional human-powered vehicle.
-- Become a stationary kinetic sculpture that no longer resembles a bicycle.
-
-The bicycle is your starting material and mechanical vocabulary, not the required final form.
-
-## Bicycle Disassembly
+## Bicycle Disassembly Process
 
 Study the bicycle before cutting anything. Identify components that contain useful mechanical systems and try to preserve them whenever possible.
 
@@ -91,3 +52,16 @@ Remove paint, rust, grease, and other contaminants from areas that will eventual
 You generally do not need to strip the entire bicycle immediately. Concentrate on areas that will be cut, fitted, or welded.
 
 The bicycle you begin with is only the starting point. Over the next several weeks, it will become both raw material and a mechanical toolkit through which you learn the fundamentals of metal fabrication.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Objective                                  | Points |
+| ------------------------------------------ | ------ |
+| Components removed from bicycle frame      | 20     |
+| Frame cut in half with minimum two cuts    | 25     |
+| Ends of cuts deburred with files           | 25     |
+| Paint / Coating removed 3-4" from cut ends | 30     |
+
+</div>

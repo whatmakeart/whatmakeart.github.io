@@ -1,7 +1,7 @@
 ---
 title: 01.06 Photogrammetry Capture Assignment
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-26T14:10:06-04:00
+lastmod: 2026-08-29T08:41:07-04:00
 ---
 
 ## Assignment Deliverables
@@ -95,12 +95,12 @@ Keep each response concise. The purpose is to begin diagnosing photogrammetry ra
 <div class="responsive-table-markdown">
 
 | Objective                          | Points |
-| ---------------------------------- | -----: |
-| Interior Photogrammetry Capture    |     25 |
-| Exterior Photogrammetry Capture    |     25 |
-| Object Masking + Flip Mode Capture |     25 |
-| Written Capture Notes              |     15 |
-| File Management and Labeling       |     10 |
+| ---------------------------------- | ------ |
+| Interior Photogrammetry Capture    | 25     |
+| Exterior Photogrammetry Capture    | 25     |
+| Object Masking + Flip Mode Capture | 25     |
+| Written Capture Notes              | 15     |
+| File Management and Labeling       | 10     |
 
 </div>
 

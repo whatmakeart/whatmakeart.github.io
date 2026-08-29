@@ -1,7 +1,7 @@
 ---
 title: 01.05 3D Scan Reconstruction and Remix Assignment
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-08-28T04:09:09-04:00
+lastmod: 2026-08-29T08:58:03-04:00
 ---
 
 ## Assignment Deliverables
@@ -12,7 +12,7 @@ lastmod: 2026-08-28T04:09:09-04:00
 2. Render image of remix
    - Label file YYYY-MM-DD Lastname Firstname Remix Render (`.png`, `.jpg`)
 
-_Note: You can upload a single `.zip` archive of all your files labeled inside the archive for easier submission to Canvas_
+_Note: You can upload a single `.zip` archive of all your files labeled inside the archive for easier submission to Canvas._
 
 ## Assignment Overview
 
