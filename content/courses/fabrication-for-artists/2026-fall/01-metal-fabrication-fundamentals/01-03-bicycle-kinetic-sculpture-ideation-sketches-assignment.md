@@ -1,7 +1,7 @@
 ---
 title: 01.03 Bicycle Ideation Sketches Assignment
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-29T09:22:19-04:00
+lastmod: 2026-08-29T12:54:51-04:00
 ---
 
 ## Assignment Deliverables
@@ -96,32 +96,48 @@ When photographing sketches:
 
 A phone camera is sufficient when used carefully. Combine multiple pages into a clearly organized PDF or submit clean individual images.
 
-## Artist + Project References
+## Reference Gathering Process
+
+1. Select a minimum of 1 photo from the references below. Include the photo(s), the URL where found, and 2-3 sentences of observations about why you chose it.
+2. Repeat the process for a reference not included in the list below. The source is up to you but it should be somehow related to the project. Include the photo(s), the URL where found, and 2-3 sentences of observations about why you chose it.
+
+### Artist + Project References
 
 These references approach bicycles in very different ways. Some retain the bicycle as a human-powered machine, while others use bicycle wheels, bearings, chains, frames, or other components as raw material for kinetic sculpture.
 
 When looking at these references, do not concentrate only on what the finished sculpture looks like. Look at how motion is produced and transferred: wheels, axles, bearings, belts, chains, pulleys, cranks, friction, gravity, motors, and the body can all become sculptural materials.
 
-1. [Koichiro Azuma](https://koichiro-azuma.com/en/home/) - especially relevant for large interactive sculptures constructed from discarded bicycles and fabricated steel.
-2. [Jean Tinguely](https://www.tinguely.ch/en/tinguely-collection-conservation/tinguely-biographie.html)- kinetic machines built from wheels, belts, motors, scrap metal, and found mechanisms.
-3. [Marcel Duchamp](https://www.moma.org/collection/works/81631?art_term_slug=readymade&sov_referrer=art_term&utm_source=chatgpt.com) - _Bicycle Wheel_ demonstrates the bicycle wheel as both found object and freely rotating sculpture.
-4. [Ai Weiwei](https://hirshhorn.si.edu/explore/ai-weiwei-forever-bicycles/) - uses repeated bicycle forms to transform a familiar functional object into large-scale sculpture and installation.
-5. [Diane Landry](https://dianelandry.com/installations-en/knight-of-infinite-resignation-2/)- motorized installations incorporating bicycle wheels, pulleys, timing belts, bearings, light, and other materials.
-6. [Nemo Gould](https://nemogould.com/)- kinetic found-object machines useful for studying mechanisms, cranks, linkages, and imaginative reuse.
-7. [Mark Griev](https://www.srcity.org/773/Cyclisk-Public-Art-Project)e - co-creator of _Cyclisk_, a monumental sculpture made from hundreds of discarded bicycles.
-8. [Ilana Spector](https://www.srcity.org/773/Cyclisk-Public-Art-Project)- co-creator and fabricator of _Cyclisk_.
-9. [Cyclecide Bike Rodeo](https://www.cyclecide.com/beer/) - artist collective transforming junk bicycles into tall bikes, unusual vehicles, kinetic sculptures, and pedal-powered carnival rides.
-10. [Chris Cole Designs](https://www.chriscoledesigns.com/bend-magazine-feature) - kinetic sculptor who transforms salvaged bicycle and mechanical parts into moving creatures and machines.
-11. [Juan Martinez](https://sculpturemagazine.art/life-and-spirit-a-conversation-with-juan-martinez/) - articulated, rideable animal sculptures fabricated from bicycle components and metal.
-12. [Melissa Daubert](https://melissa-daubert.com/)- interactive kinetic sculpture incorporating bicycle parts, cranks, wheels, and audience activation.
-13. [Dr. ARod](https://drarods.art/portfolio)- kinetic sculptures using bicycle wheels and components as rotating systems.
-14. [Patricia Vader](https://cityartmankato.com/cityart/ra/) - kinetic and public sculptures incorporating bicycle wheels and hubs.
-15. [Jake Beckman](https://sculpturecenter.org/oosi/items/show/1631) a 34-foot sculpture fabricated from bicycle wheels.
-16. [Cindy Chinn](https://cindychinn.com/re-tired-artwork-from-recycled-bicycle-tires-cindy-chinn/) - sculptures made from recycled bicycle tires, wheels, pedals, and other components, including kinetic works activated by pedals.
-17. [Rachel Dorn](https://www.racheldorn.com/sram) - combines discarded bicycle components with ceramic and mixed-media sculpture.
-18. [Keith Bryant](https://www.knoxalliance.com/keith-bryant-the-machinations-of-sprockets-and-wood/)- combines bicycle components, sprockets, wood, glass, and found objects into mixed-media sculpture.
-19. [Daria Wendland](https://www.art-visuals.de/wendland/installation.html) - large installations constructed from salvaged bicycle wheels.
-20. [Norman Tuck](https://www.normantuck.com/lariatchain) - interactive kinetic sculpture using bicycle wheels, motors, chains, and deceptively simple mechanical systems.
+1. [Art Bike Relief at Burning Man Part 1](https://www.makery.info/en/2019/08/21/avec-art-bike-relief-a-burning-man/) - [Part 2](https://www.makery.info/en/2019/08/27/sur-la-playa-de-burning-man-avec-art-bike-relief-linstallation-23/) - [Part 3](https://www.makery.info/en/2019/09/09/avec-art-bike-relief-a-burning-man-le-festival-33/) - 3 part series by Cécile Ravaux about Art Bikes at Burning Man
+2. [Koichiro Azuma](https://koichiro-azuma.com/en/home/) - especially relevant for large interactive sculptures constructed from discarded bicycles and fabricated steel.
+3. [Rat Rod Bikes Forum](https://ratrodbikes.com/forums/built-from-scratch.48/) - makers sharing their knowledge of frames built from scratch.
+4. [Peter Hudson (Hudzo Design)](https://kantfish.com/es/portfolio/el-nuevo-mundo/) - heavily modified bicycles that drive the mechanical rotation and stroboscopic lighting of massive sculptures.
+5. [Jean Tinguely](https://www.tinguely.ch/en/tinguely-collection-conservation/tinguely-biographie.html)- kinetic machines built from wheels, belts, motors, scrap metal, and found mechanisms.
+6. [Paul Elkins](https://elkinsdiy.com/burningman-trike/) - Burning Man tricycles.
+7. [Krank-Boom-Clank](https://krankboomclank.blogspot.com/) - artist collective who built the _Hennepin Crawler_. [Making of Photos](https://www.cnet.com/pictures/making-of-the-hennepin-crawler-photos/)
+8. [Marcel Duchamp](https://www.moma.org/collection/works/81631?art_term_slug=readymade&sov_referrer=art_term&utm_source=chatgpt.com) - _Bicycle Wheel_ demonstrates the bicycle wheel as both found object and freely rotating sculpture.
+9. [Ai Weiwei](https://hirshhorn.si.edu/explore/ai-weiwei-forever-bicycles/) - uses repeated bicycle forms to transform a familiar functional object into large-scale sculpture and installation.
+10. [Diane Landry](https://dianelandry.com/installations-en/knight-of-infinite-resignation-2/) - motorized installations incorporating bicycle wheels, pulleys, timing belts, bearings, light, and other materials.
+11. [Nemo Gould](https://nemogould.com/)- kinetic found-object machines useful for studying mechanisms, cranks, linkages, and imaginative reuse.
+12. [Bike Kill 2023](https://www.flickr.com/photos/86681342@N00/albums/72157637012472425/) - underground, alternative bike festival and wild street party.
+13. [Mark Griev](https://www.srcity.org/773/Cyclisk-Public-Art-Project)e - co-creator of _Cyclisk_, a monumental sculpture made from hundreds of discarded bicycles.
+14. [Ilana Spector](https://www.srcity.org/773/Cyclisk-Public-Art-Project)- co-creator and fabricator of _Cyclisk_.
+15. [Cyclecide Bike Rodeo](https://www.cyclecide.com/beer/) - artist collective transforming junk bicycles into tall bikes, unusual vehicles, kinetic sculptures, and pedal-powered carnival rides.
+16. [Chris Cole Designs](https://www.chriscoledesigns.com/bend-magazine-feature) - kinetic sculptor who transforms salvaged bicycle and mechanical parts into moving creatures and machines.
+17. [Bicycle Chopper Gang Known as SCUL](https://scul.org/ships/construction) - bicycle construction guides
+18. [Juan Martinez](https://sculpturemagazine.art/life-and-spirit-a-conversation-with-juan-martinez/) - articulated, rideable animal sculptures fabricated from bicycle components and metal.
+19. [Melissa Daubert](https://melissa-daubert.com/)- interactive kinetic sculpture incorporating bicycle parts, cranks, wheels, and audience activation.
+20. [TallBikeTour](https://tallbiketour.wordpress.com/the-tallbike/) - blog chronicling a tour on a tall bike
+21. [Dr. ARod](https://drarods.art/portfolio)- kinetic sculptures using bicycle wheels and components as rotating systems.
+22. [Patricia Vader](https://cityartmankato.com/cityart/ra/) - kinetic and public sculptures incorporating bicycle wheels and hubs.
+23. [Jake Beckman](https://sculpturecenter.org/oosi/items/show/1631) a 34-foot sculpture fabricated from bicycle wheels.
+24. [Cindy Chinn](https://cindychinn.com/re-tired-artwork-from-recycled-bicycle-tires-cindy-chinn/) - sculptures made from recycled bicycle tires, wheels, pedals, and other components, including kinetic works activated by pedals.
+25. [OogieMustBoogie](https://www.instructables.com/Build-a-Kinetic-Sculpture/) - decorative tricycle fish.
+26. [Rachel Dorn](https://www.racheldorn.com/sram) - combines discarded bicycle components with ceramic and mixed-media sculpture.
+27. [David Julian](<https://davidjulian.com/Project-Photography/Burning-Man-(best-of)/thumbs>) - Photographer who occasionally documents bicycles at Burning Man.
+28. [Keith Bryant](https://www.knoxalliance.com/keith-bryant-the-machinations-of-sprockets-and-wood/)- combines bicycle components, sprockets, wood, glass, and found objects into mixed-media sculpture.
+29. [Daria Wendland](https://www.art-visuals.de/wendland/installation.html) - large installations constructed from salvaged bicycle wheels.
+30. [Norman Tuck](https://www.normantuck.com/lariatchain) - interactive kinetic sculpture using bicycle wheels, motors, chains, and deceptively simple mechanical systems.
+31. [Bikes of Burning Man](https://bikerumor.com/the-weird-and-wonderful-bikes-of-burning-man/) - article about bikes at Burning Man.
 
 More [Artists](../../../../artists/artists.md) to look at.
 
