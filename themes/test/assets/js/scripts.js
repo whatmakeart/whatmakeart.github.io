@@ -15,25 +15,52 @@
  * =============================================================================
  * SECTION 0: Dynamic Theme Change Listener
  * =============================================================================
- * This block listens for theme changes that happen *after* the page has loaded.
- * The initial theme is set by a tiny script in the <head> to prevent a "flash".
- * This listener ensures the iframe stays in sync if the user toggles the theme
- * in the Canvas Mobile App or their OS settings.
+ * Keeps the embedded page synchronized with the light/dark appearance exposed
+ * by the browser or Canvas mobile app WebView.
+ *
+ * Canvas mobile apps do not currently support the Canvas LTI postMessage API,
+ * so prefers-color-scheme is used instead of asking Canvas for its theme.
  */
 (() => {
-  // Function to apply the theme attribute to the root <html> element.
-  function applyTheme(isDarkMode) {
-    const theme = isDarkMode ? "dark" : "light";
-    document.documentElement.setAttribute("data-bs-theme", theme);
-  }
-
-  // Create a media query object that checks for the 'prefers-color-scheme'.
   const colorSchemeQuery = window.matchMedia("(prefers-color-scheme: dark)");
 
-  // Listen for changes to the system/app color scheme.
-  colorSchemeQuery.addEventListener("change", (event) => {
-    applyTheme(event.matches);
+  /**
+   * Applies the current light/dark preference to Bootstrap.
+   */
+  function applyTheme(isDarkMode) {
+    const theme = isDarkMode ? "dark" : "light";
+
+    document.documentElement.setAttribute("data-bs-theme", theme);
+
+    // Also expose the standard CSS color-scheme hint so native form controls,
+    // scrollbars, etc. can follow the selected appearance where supported.
+    document.documentElement.style.colorScheme = theme;
+  }
+
+  /**
+   * Reads and applies the current appearance.
+   */
+  function syncTheme() {
+    applyTheme(colorSchemeQuery.matches);
+  }
+
+  // Apply immediately.
+  syncTheme();
+
+  // Update if the WebView/browser reports a theme change while this page
+  // remains open.
+  colorSchemeQuery.addEventListener("change", syncTheme);
+
+  // Mobile apps may suspend the WebView while another screen is displayed.
+  // Re-check when the page becomes visible again.
+  document.addEventListener("visibilitychange", () => {
+    if (!document.hidden) {
+      syncTheme();
+    }
   });
+
+  // Also catch WebView navigation/cache restoration.
+  window.addEventListener("pageshow", syncTheme);
 })();
 
 /*

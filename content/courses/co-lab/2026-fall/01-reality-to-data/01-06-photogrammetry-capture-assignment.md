@@ -1,7 +1,8 @@
 ---
 title: 01.06 Photogrammetry Capture Assignment
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-29T08:41:07-04:00
+lastmod: 2026-08-30T08:19:41-04:00
+canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables
