@@ -1,9 +1,8 @@
 ---
 title: 01.05 Reality Glitch In Class Production Challenge Assignment
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-30T08:07:05-04:00
+lastmod: 2026-08-30T08:42:21-04:00
 canvas_mobile_fallback: true
-canvas_url: "https://cia.instructure.com/courses/2636/assignments/21411"
 ---
 
 ## Assignment Deliverables

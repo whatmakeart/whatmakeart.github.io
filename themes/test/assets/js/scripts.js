@@ -13,119 +13,302 @@
 
 /**
  * =============================================================================
- * SECTION 0: Dynamic Theme Change Listener
+ * SECTION 0: Dynamic Theme Selection
  * =============================================================================
- * Keeps the embedded page synchronized with the light/dark appearance exposed
- * by the browser or Canvas mobile app WebView.
  *
- * Canvas mobile apps do not currently support the Canvas LTI postMessage API,
- * so prefers-color-scheme is used instead of asking Canvas for its theme.
+ * Theme behavior:
+ *
+ * - Normal WhatMakeArt website:
+ *     Follow the browser/device prefers-color-scheme.
+ *
+ * - Embedded in Canvas Web on a desktop/laptop:
+ *     Force LIGHT mode so the embedded page matches the surrounding
+ *     Canvas interface.
+ *
+ * - Embedded on a mobile/tablet device:
+ *     Follow prefers-color-scheme. The Canvas mobile app WebView can expose
+ *     its current light/dark appearance through this media query.
+ *
+ * The theme is checked:
+ * - immediately
+ * - whenever prefers-color-scheme changes
+ * - when the page becomes visible again
+ * - when the page is restored from browser/WebView navigation
  */
 (() => {
   const colorSchemeQuery = window.matchMedia("(prefers-color-scheme: dark)");
 
   /**
-   * Applies the current light/dark preference to Bootstrap.
+   * Applies a Bootstrap light/dark theme.
+   *
+   * @param {boolean} isDarkMode
    */
   function applyTheme(isDarkMode) {
     const theme = isDarkMode ? "dark" : "light";
 
     document.documentElement.setAttribute("data-bs-theme", theme);
 
-    // Also expose the standard CSS color-scheme hint so native form controls,
-    // scrollbars, etc. can follow the selected appearance where supported.
+    // Also tells the browser/WebView which native color scheme to use
+    // for things such as form controls and scrollbars.
     document.documentElement.style.colorScheme = theme;
   }
 
   /**
-   * Reads and applies the current appearance.
+   * Determines which theme should currently be displayed.
    */
   function syncTheme() {
+    /*
+     * Canvas Web on desktop/laptop is normally light even when the operating
+     * system itself is using dark mode.
+     *
+     * Force the embedded page to light so we do not get a dark iframe
+     * surrounded by a light Canvas page.
+     */
+    if (isEmbedded() && !isLikelyMobileDevice()) {
+      applyTheme(false);
+      return;
+    }
+
+    /*
+     * Normal website viewing and mobile/tablet viewing follow the appearance
+     * reported by the browser or Canvas mobile WebView.
+     */
     applyTheme(colorSchemeQuery.matches);
   }
 
-  // Apply immediately.
+  // Apply the appropriate theme immediately.
   syncTheme();
 
-  // Update if the WebView/browser reports a theme change while this page
-  // remains open.
+  // Update when the browser/WebView appearance changes.
   colorSchemeQuery.addEventListener("change", syncTheme);
 
-  // Mobile apps may suspend the WebView while another screen is displayed.
-  // Re-check when the page becomes visible again.
+  // Mobile apps may suspend the WebView. Re-check when returning to it.
   document.addEventListener("visibilitychange", () => {
     if (!document.hidden) {
       syncTheme();
     }
   });
 
-  // Also catch WebView navigation/cache restoration.
+  // Re-check after browser/WebView navigation or cache restoration.
   window.addEventListener("pageshow", syncTheme);
 })();
 
-/*
+/**
  * =============================================================================
- * SECTION 1: Core Helpers & Configuration
+ * SECTION 1: Core Helpers & Canvas Mobile Detection
  * =============================================================================
  */
 
-// A consistent reference to the browser's user agent string for environment detection.
+// A consistent reference to the browser's user agent string.
 const UA = navigator.userAgent || "";
 
-// How long to wait for Canvas Web to respond before assuming that the
-// Canvas postMessage API is unavailable.
-//
-// Canvas mobile apps currently do not respond to these messages.
-// A late response will still hide the fallback if Canvas eventually replies.
+// How long to wait for Canvas Web to respond to our capability test.
 const CANVAS_POSTMESSAGE_RESPONSE_TIMEOUT = 2000;
 
-// Tracks the state of the Canvas postMessage capability test.
+// Canvas postMessage capability state.
 // null  = not yet determined
 // true  = Canvas responded
-// false = no response within the timeout
+// false = Canvas did not respond
 let canvasPostMessageSupported = null;
 
-// Prevent the capability test from being started multiple times.
+// Prevent the capability test from running multiple times.
 let canvasPostMessageProbeStarted = false;
 
-// Store the timeout so it can be cancelled if Canvas responds.
+// Store the timeout so it can be cancelled when Canvas responds.
 let canvasPostMessageTimeout = null;
 
 /**
- * Checks if the window is currently embedded inside an iframe.
- * This is the primary check to determine if the script should run its
- * Canvas/embed logic.
+ * Checks whether this page is inside an iframe.
  *
- * When a page is not embedded, window.parent points to the window itself.
- *
- * @returns {boolean} True if inside an iframe, false otherwise.
+ * @returns {boolean}
  */
 function isEmbedded() {
   return window.parent !== window;
 }
 
 /**
- * Gets the correct window object to send a postMessage to, per current
- * Canvas guidance.
+ * Checks whether the current device is reasonably likely to be
+ * a phone or tablet.
  *
- * Canvas now recommends sending iframe messages to the immediate parent
- * rather than window.top. If launched in a separate tab/window/popup,
- * window.opener can be used instead.
+ * IMPORTANT:
+ * This does NOT by itself mean we are inside the Canvas mobile app.
+ * It is combined with the failure of Canvas postMessage to respond.
  *
- * @returns {Window | null} The parent or opener window, or null if none.
+ * @returns {boolean}
+ */
+function isLikelyMobileDevice() {
+  const ua = navigator.userAgent || "";
+
+  // Standard iPhone/iPad/iPod identification.
+  const isiOS = /iPhone|iPad|iPod/i.test(ua);
+
+  /*
+   * Modern iPads can identify themselves as Macintosh when requesting
+   * desktop-style websites.
+   */
+  const isiPadDesktopUA =
+    navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1;
+
+  // Android phones and tablets.
+  const isAndroid = /Android/i.test(ua);
+
+  // Other browsers that explicitly identify as mobile.
+  const hasMobileUA = /Mobi|Mobile/i.test(ua);
+
+  /*
+   * Fallback for touch-oriented tablets whose user agent is ambiguous.
+   * Requiring a coarse pointer prevents ordinary laptops from matching.
+   */
+  const isTouchTablet =
+    navigator.maxTouchPoints > 0 &&
+    window.matchMedia("(pointer: coarse)").matches &&
+    Math.min(screen.width, screen.height) <= 1024;
+
+  return isiOS || isiPadDesktopUA || isAndroid || hasMobileUA || isTouchTablet;
+}
+
+/**
+ * Gets the correct window to receive Canvas postMessage calls.
+ *
+ * Current Canvas guidance:
+ * - iframe = window.parent
+ * - separate tab/window/popup = window.opener
+ *
+ * @returns {Window | null}
  */
 function getTargetWindow() {
-  // For standard iframe embeds, the target is the immediate parent window.
   if (isEmbedded()) {
     return window.parent;
   }
 
-  // If the tool was launched in a new tab or popup, use its opener.
   if (window.opener && !window.opener.closed) {
     return window.opener;
   }
 
   return null;
+}
+
+/**
+ * =============================================================================
+ * Canvas postMessage Response Detection
+ * =============================================================================
+ *
+ * Canvas Web can respond to:
+ *
+ *     lti.fetchWindowSize
+ *
+ * Canvas mobile apps currently do not return Canvas LTI postMessage
+ * responses.
+ *
+ * We therefore combine TWO tests:
+ *
+ *     mobile/tablet device
+ *              +
+ *     Canvas postMessage does not respond
+ *
+ * This avoids falsely identifying a desktop Canvas page as the mobile app
+ * simply because a particular Canvas embed does not answer the request.
+ */
+
+/**
+ * Handles Canvas postMessage responses.
+ */
+function handleCanvasPostMessage(event) {
+  if (!isEmbedded()) return;
+
+  // Only trust messages from the iframe's immediate parent.
+  if (event.source !== window.parent) return;
+
+  const data = event.data;
+
+  if (!data || typeof data !== "object") return;
+
+  if (data.subject === "lti.fetchWindowSize.response") {
+    canvasPostMessageSupported = true;
+
+    // Cancel the pending "mobile app" timeout.
+    if (canvasPostMessageTimeout !== null) {
+      clearTimeout(canvasPostMessageTimeout);
+      canvasPostMessageTimeout = null;
+    }
+
+    // Canvas responded, so this should not display the mobile-app warning.
+    hideCanvasMobileFallback();
+  }
+}
+
+// Install the listener before sending our test message.
+window.addEventListener("message", handleCanvasPostMessage);
+
+/**
+ * Tests whether the current embedded environment behaves like the
+ * Canvas mobile app.
+ *
+ * Warning is shown ONLY when:
+ *
+ * 1. The page is embedded.
+ * 2. The device appears to be a phone/tablet.
+ * 3. Canvas does not respond to lti.fetchWindowSize.
+ */
+function detectCanvasPostMessageSupport() {
+  if (!isEmbedded()) return;
+
+  /*
+   * Only run the test on pages where Hugo has actually rendered the
+   * optional mobile fallback warning.
+   */
+  if (!document.querySelector("[data-canvas-mobile-fallback]")) {
+    return;
+  }
+
+  // Only test once per page load.
+  if (canvasPostMessageProbeStarted) return;
+
+  canvasPostMessageProbeStarted = true;
+
+  /*
+   * If this is clearly not a mobile/tablet device, don't even perform
+   * mobile-app detection.
+   *
+   * This prevents desktop Canvas from ever showing the warning.
+   */
+  if (!isLikelyMobileDevice()) {
+    hideCanvasMobileFallback();
+    return;
+  }
+
+  const target = getTargetWindow();
+
+  if (!target) return;
+
+  /*
+   * Ask Canvas for the containing window size.
+   *
+   * Canvas Web supports this request.
+   * Canvas mobile apps currently do not respond to it.
+   */
+  target.postMessage(
+    {
+      subject: "lti.fetchWindowSize",
+    },
+    "*"
+  );
+
+  /*
+   * Wait briefly for Canvas Web to answer.
+   *
+   * No response + mobile/tablet + iframe =
+   * likely Canvas mobile app.
+   */
+  canvasPostMessageTimeout = window.setTimeout(() => {
+    if (canvasPostMessageSupported === true) {
+      return;
+    }
+
+    canvasPostMessageSupported = false;
+
+    showCanvasMobileFallback();
+  }, CANVAS_POSTMESSAGE_RESPONSE_TIMEOUT);
 }
 
 /*
@@ -372,10 +555,13 @@ function removeNavigationEmbed() {
   // Remove padding from common Bootstrap container classes to allow content to span the full iframe width.
   document
     .querySelectorAll(
-      ".container, .container-fluid, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm"
+      ".container, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm"
     )
     .forEach((el) => {
-      el.style.padding = "0";
+      el.style.paddingLeft = "0";
+      el.style.paddingRight = "0";
+      el.style.marginLeft = "0";
+      el.style.marginRight = "0";
     });
 
   // Adjust the main content areas to ensure they are full-width.
