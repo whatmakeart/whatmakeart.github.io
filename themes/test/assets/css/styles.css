@@ -652,6 +652,77 @@ path.MastodonM {
   }
 }
 
+/* ==========================================================
+   Canvas embedded layout
+   Use as much of the iframe width as possible
+   ========================================================== */
+
+html.canvas-embedded,
+body.canvas-embedded {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow-x: hidden;
+
+  /*
+   * Allows the Canvas app background to show through where supported,
+   * instead of creating a visibly different rectangle around the page.
+   */
+  background-color: transparent !important;
+}
+
+/* Remove Bootstrap / Bootstrap Docs gutters and centering */
+body.canvas-embedded .container,
+body.canvas-embedded .container-fluid,
+body.canvas-embedded .container-sm,
+body.canvas-embedded .container-md,
+body.canvas-embedded .container-lg,
+body.canvas-embedded .container-xl,
+body.canvas-embedded .container-xxl,
+body.canvas-embedded .bd-layout,
+body.canvas-embedded #course-main,
+body.canvas-embedded #wiki-main {
+  --bs-gutter-x: 0;
+
+  width: 100% !important;
+  max-width: none !important;
+
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/*
+ * Give the actual readable content only a tiny edge.
+ * 6px is enough to keep text from touching the iframe edge.
+ */
+body.canvas-embedded #course-content,
+body.canvas-embedded #wiki-content {
+  --bs-gutter-x: 0;
+
+  width: 100% !important;
+  max-width: none !important;
+
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+
+  padding-left: 6px !important;
+  padding-right: 6px !important;
+}
+
+/* Slightly reduce list indentation on narrow Canvas screens */
+@media (max-width: 699.98px) {
+  body.canvas-embedded #course-content ol,
+  body.canvas-embedded #course-content ul,
+  body.canvas-embedded #wiki-content ol,
+  body.canvas-embedded #wiki-content ul {
+    padding-left: 1.35rem;
+  }
+}
+
 /* Code Blocks */
 
 /* used in code blocks to indent and have space at bottom for readability */

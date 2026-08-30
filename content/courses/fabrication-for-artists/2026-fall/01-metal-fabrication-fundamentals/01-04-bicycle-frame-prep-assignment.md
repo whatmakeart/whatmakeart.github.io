@@ -1,7 +1,8 @@
 ---
 title: 01.05 Bicycle Disassembly Assignment
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-29T08:43:23-04:00
+lastmod: 2026-08-30T08:46:50-04:00
+canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables

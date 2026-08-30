@@ -215,6 +215,8 @@ function getTargetWindow() {
  */
 function handleCanvasPostMessage(event) {
   if (!isEmbedded()) return;
+  document.documentElement.classList.add("canvas-embedded");
+  document.body.classList.add("canvas-embedded");
 
   // Only trust messages from the iframe's immediate parent.
   if (event.source !== window.parent) return;

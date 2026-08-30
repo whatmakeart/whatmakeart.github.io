@@ -1,7 +1,8 @@
 ---
 title: 01.03 Bicycle Ideation Sketches Assignment
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-29T20:24:19-04:00
+lastmod: 2026-08-30T08:46:50-04:00
+canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables

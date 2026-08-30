@@ -1,7 +1,8 @@
 ---
 title: 01.05 3D Scan Reconstruction and Remix Assignment
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-08-29T08:58:03-04:00
+lastmod: 2026-08-30T08:46:50-04:00
+canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables
