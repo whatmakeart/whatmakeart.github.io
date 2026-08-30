@@ -1,5 +1,5 @@
 /**
- * Canvas LTI Iframe Integration Script orig
+ * Canvas LTI Iframe Integration Script
  *
  * This script handles the necessary adjustments for a webpage to be seamlessly
  * embedded as an LTI tool within the Canvas LMS. Its primary functions are:
@@ -30,7 +30,8 @@
   // Create a media query object that checks for the 'prefers-color-scheme'.
   const colorSchemeQuery = window.matchMedia("(prefers-color-scheme: dark)");
 
-  // Listen for changes to the system/app color scheme.
+  // Add a 'change' event listener. This is the crucial part.
+  // It will fire whenever the preferred color scheme changes.
   colorSchemeQuery.addEventListener("change", (event) => {
     applyTheme(event.matches);
   });
@@ -45,61 +46,43 @@
 // A consistent reference to the browser's user agent string for environment detection.
 const UA = navigator.userAgent || "";
 
-// How long to wait for Canvas Web to respond before assuming that the
-// Canvas postMessage API is unavailable.
-//
-// Canvas mobile apps currently do not respond to these messages.
-// A late response will still hide the fallback if Canvas eventually replies.
-const CANVAS_POSTMESSAGE_RESPONSE_TIMEOUT = 2000;
-
-// Tracks the state of the Canvas postMessage capability test.
-// null  = not yet determined
-// true  = Canvas responded
-// false = no response within the timeout
-let canvasPostMessageSupported = null;
-
-// Prevent the capability test from being started multiple times.
-let canvasPostMessageProbeStarted = false;
-
-// Store the timeout so it can be cancelled if Canvas responds.
-let canvasPostMessageTimeout = null;
-
 /**
  * Checks if the window is currently embedded inside an iframe.
- * This is the primary check to determine if the script should run its
- * Canvas/embed logic.
- *
- * When a page is not embedded, window.parent points to the window itself.
- *
+ * This is the primary check to determine if the script should run its logic.
  * @returns {boolean} True if inside an iframe, false otherwise.
  */
 function isEmbedded() {
-  return window.parent !== window;
+  try {
+    // The most reliable check is seeing if the parent window is different from the current window.
+    return window.parent && window.parent !== window;
+  } catch (e) {
+    // If the above check fails due to cross-origin security policies, it's a strong indicator
+    // that we are indeed in an iframe.
+    return true;
+  }
 }
 
 /**
- * Gets the correct window object to send a postMessage to, per current
- * Canvas guidance.
- *
- * Canvas now recommends sending iframe messages to the immediate parent
- * rather than window.top. If launched in a separate tab/window/popup,
- * window.opener can be used instead.
- *
- * @returns {Window | null} The parent or opener window, or null if none.
+ * Gets the correct window object to send a postMessage to, per Canvas guidance.
+ * @returns {Window | null} The target window (parent or opener) or null if none.
  */
 function getTargetWindow() {
-  // For standard iframe embeds, the target is the immediate parent window.
-  if (isEmbedded()) {
-    return window.parent;
-  }
-
-  // If the tool was launched in a new tab or popup, use its opener.
+  // If the tool was launched in a new tab or popup, it will have a window.opener.
   if (window.opener && !window.opener.closed) {
     return window.opener;
   }
-
+  // For standard iframe embeds, the target is the parent window.
+  if (window.parent && window.parent !== window) {
+    return window.parent;
+  }
   return null;
 }
+
+// Canvas can provide an optional security token in the launch URL. This code
+// safely retrieves it if it exists, to be included in postMessage calls.
+const POST_MESSAGE_TOKEN = new URLSearchParams(location.search).get(
+  "post_message_token"
+);
 
 /*
  * =============================================================================
@@ -124,17 +107,17 @@ const sendIframeHeight = (() => {
     if (rafPending) return;
     rafPending = true;
 
-    // Schedule the height calculation and message sending to run right before the next browser repaint.
+    // Schedule the height calculation and message sending to run right before the
+    // next browser repaint. This is the most efficient way to handle UI updates.
     requestAnimationFrame(() => {
       // Reset the flag so the next request can be scheduled.
       rafPending = false;
 
-      // Robustly calculate the document's full height. We check multiple
-      // properties across both the documentElement and body to get the most
-      // accurate value across different browsers and rendering modes.
+      // Robustly calculate the document's full height. We check multiple properties
+      // across both the documentElement and the body to get the most accurate
+      // value across different browsers and rendering modes.
       const de = document.documentElement;
       const b = document.body || {};
-
       const height = Math.max(
         de.scrollHeight,
         de.offsetHeight,
@@ -144,163 +127,26 @@ const sendIframeHeight = (() => {
         b.clientHeight || 0
       );
 
-      // Construct the message required by the Canvas postMessage API.
-      const message = {
-        subject: "lti.frameResize",
-        height,
-      };
+      // Construct the message object required by the Canvas postMessage API.
+      const message = { subject: "lti.frameResize", height };
+      // Include the security token if it was found in the URL.
+      if (POST_MESSAGE_TOKEN) message.token = POST_MESSAGE_TOKEN;
 
-      // Current Canvas guidance is to send iframe messages to the immediate
-      // parent window rather than window.top.
+      // Send the message to the parent Canvas window.
       const target = getTargetWindow();
-
       if (target) {
-        // Canvas documents "*" as the target origin for lti.frameResize.
+        // The '*' target origin is acceptable here as recommended by Canvas docs for this message.
         target.postMessage(message, "*");
       }
     });
   };
 })();
 
-/**
- * Handles responses from Canvas.
- *
- * We specifically listen for lti.fetchWindowSize.response because Canvas Web
- * supports this request while Canvas mobile apps currently do not return
- * postMessage responses.
- */
-function handleCanvasPostMessage(event) {
-  // This capability test only matters while embedded.
-  if (!isEmbedded()) return;
-
-  // Only accept the response from our immediate embedding parent.
-  if (event.source !== window.parent) return;
-
-  const data = event.data;
-
-  // Ignore messages that are not object-based Canvas messages.
-  if (!data || typeof data !== "object") return;
-
-  if (data.subject === "lti.fetchWindowSize.response") {
-    canvasPostMessageSupported = true;
-
-    // Canvas responded, so cancel the mobile/unsupported fallback timeout.
-    if (canvasPostMessageTimeout !== null) {
-      clearTimeout(canvasPostMessageTimeout);
-      canvasPostMessageTimeout = null;
-    }
-
-    // If the fallback was briefly displayed because Canvas responded late,
-    // hide it again.
-    hideCanvasMobileFallback();
-  }
-}
-
-// The listener must exist before the capability probe is sent.
-window.addEventListener("message", handleCanvasPostMessage);
-
-/**
- * Tests whether the embedding Canvas environment supports Canvas postMessage.
- *
- * Canvas Web should respond to lti.fetchWindowSize.
- * Canvas mobile apps currently do not return response messages.
- *
- * IMPORTANT:
- * A lack of response proves that Canvas postMessage is unavailable; it does
- * not absolutely prove that the page is inside a Canvas mobile app. Another
- * iframe host that does not implement the Canvas API would behave the same way.
- *
- * For pages that are normally embedded only by Canvas, this is a useful and
- * much more reliable proxy than user-agent detection.
- */
-function detectCanvasPostMessageSupport() {
-  if (!isEmbedded()) return;
-
-  // Do not run this test on pages that do not contain the optional fallback UI.
-  if (!document.querySelector("[data-canvas-mobile-fallback]")) return;
-
-  // Only start one capability test per page load.
-  if (canvasPostMessageProbeStarted) return;
-  canvasPostMessageProbeStarted = true;
-
-  const target = getTargetWindow();
-  if (!target) return;
-
-  // Ask Canvas for information that Canvas Web is documented to return.
-  target.postMessage(
-    {
-      subject: "lti.fetchWindowSize",
-    },
-    "*"
-  );
-
-  // If no response arrives, assume Canvas postMessage is unavailable.
-  canvasPostMessageTimeout = window.setTimeout(() => {
-    if (canvasPostMessageSupported === true) return;
-
-    canvasPostMessageSupported = false;
-
-    // This is the condition expected in the Canvas mobile apps.
-    showCanvasMobileFallback();
-  }, CANVAS_POSTMESSAGE_RESPONSE_TIMEOUT);
-}
-
 /*
  * =============================================================================
  * SECTION 3: DOM Manipulation for Seamless Embedding
  * =============================================================================
  */
-
-/**
- * Reveals the optional fallback message intended for Canvas mobile /
- * unsupported postMessage environments.
- *
- * Link destination priority:
- * 1. Explicit data-canvas-url generated from canvas_url frontmatter.
- * 2. A likely Canvas parent page found through document.referrer.
- * 3. The link's existing href, normally the Hugo .Permalink to this page.
- */
-function showCanvasMobileFallback() {
-  const canvasReferrerUrl = null;
-
-  document
-    .querySelectorAll("[data-canvas-mobile-fallback]")
-    .forEach((fallback) => {
-      const link = fallback.querySelector("[data-canvas-mobile-fallback-link]");
-
-      if (link) {
-        // If Hugo supplied canvas_url in frontmatter, it is the most reliable
-        // destination and should not be replaced.
-        const explicitCanvasUrl = link.dataset.canvasUrl;
-
-        if (explicitCanvasUrl) {
-          link.href = explicitCanvasUrl;
-        } else if (canvasReferrerUrl) {
-          // Otherwise use the Canvas parent/referrer when it looks useful.
-          link.href = canvasReferrerUrl;
-        }
-
-        // If neither is available, the original href remains intact.
-        // The Hugo template should set that href to the page's .Permalink.
-      }
-
-      fallback.hidden = false;
-    });
-}
-
-/**
- * Hides the Canvas mobile fallback.
- *
- * This normally remains hidden from initial page render, but this function
- * also handles the unlikely case where Canvas responds after the timeout.
- */
-function hideCanvasMobileFallback() {
-  document
-    .querySelectorAll("[data-canvas-mobile-fallback]")
-    .forEach((fallback) => {
-      fallback.hidden = true;
-    });
-}
 
 /**
  * Removes website navigation, headers, footers, and adjusts layout
@@ -311,9 +157,9 @@ function removeNavigationEmbed() {
   if (!isEmbedded()) return;
 
   // Add a <base target="_top"> tag to the document's <head>. This ensures that
-  // ordinary links clicked within the iframe open in the top-level browsing
-  // context rather than remaining trapped inside the small Canvas frame.
-
+  // any link clicked within the iframe will open in the main browser window,
+  // "breaking out" of the iframe and preventing the external site from being
+  // trapped inside the small Canvas frame.
   // This check makes the operation "idempotent" (safe to run multiple times).
   if (!document.querySelector('base[target="_top"]')) {
     const base = document.createElement("base");
@@ -339,7 +185,6 @@ function removeNavigationEmbed() {
     "breadcrumbs",
     "topTOC",
   ];
-
   idsToRemove.forEach((id) => document.getElementById(id)?.remove()); // The `?` safely handles cases where an ID doesn't exist.
 
   // Remove padding from common Bootstrap container classes to allow content to span the full iframe width.
@@ -356,11 +201,10 @@ function removeNavigationEmbed() {
     (id) => {
       const el = document.getElementById(id);
       if (!el) return;
-
       el.classList.add("container-fluid", "keep-wide-canvas-lms");
       el.classList.remove("bd-content", "ps-lg-2", "bd-main");
-      el.style.overflow = "auto";
-      el.style.overflowX = "hidden";
+      el.style.overflow = "auto"; // Helps manage content flow within the adjusted container.
+      el.style.overflowX = "hidden"; // Helps manage content flow within the adjusted container.
     }
   );
 }
@@ -371,22 +215,15 @@ function removeNavigationEmbed() {
  * =============================================================================
  */
 
-// The main initialization logic. We need to run cleanup, resizing, and the
-// Canvas postMessage capability test at the right moments.
+// The main initialization logic. We need to run cleanup and resizing at the right moments.
 if (document.readyState === "loading") {
-  // If the script runs before the DOM is ready, wait for DOMContentLoaded.
+  // If the script runs before the DOM is ready, wait for the DOMContentLoaded event.
   document.addEventListener(
     "DOMContentLoaded",
     () => {
       if (isEmbedded()) {
         removeNavigationEmbed();
-
-        // Send the initial height after the DOM is ready.
-        sendIframeHeight();
-
-        // Determine whether Canvas Web is responding to postMessage.
-        // The optional mobile fallback will only be shown if no response arrives.
-        detectCanvasPostMessageSupport();
+        sendIframeHeight(); // Send initial height after DOM is ready.
       }
     },
     { once: true }
@@ -395,22 +232,16 @@ if (document.readyState === "loading") {
   // If the script runs after the DOM is ready, execute immediately.
   if (isEmbedded()) {
     removeNavigationEmbed();
-    // Send the initial height after the DOM is ready.
     sendIframeHeight();
-    // Determine whether Canvas Web is responding to postMessage.
-    // The optional mobile fallback will only be shown if no response arrives.
-    detectCanvasPostMessageSupport();
   }
 }
 
-// The 'load' event fires after all assets (images, fonts, etc.) have finished
-// loading. A final resize call here catches layout shifts caused by these
-// late-loading assets.
+// The 'load' event fires after all assets (images, fonts, etc.) have finished loading.
+// A final resize call here catches any layout shifts caused by these late-loading assets.
 window.addEventListener(
   "load",
   () => {
     checkIfMobile();
-
     if (isEmbedded()) {
       sendIframeHeight();
     }
@@ -418,9 +249,8 @@ window.addEventListener(
   { once: true }
 );
 
-// A ResizeObserver is the most efficient way to detect changes to the size of
-// the document body, which can happen due to expanding accordions, dynamic
-// content, revealing the Canvas mobile fallback, etc.
+// A ResizeObserver is the most efficient way to detect changes to the size of the
+// document body, which can happen due to expanding accordions, dynamic content, etc.
 const ro = new ResizeObserver(() => {
   if (isEmbedded()) {
     sendIframeHeight();
@@ -431,7 +261,7 @@ const ro = new ResizeObserver(() => {
 if (document.body) {
   ro.observe(document.body);
 } else {
-  // If the body isn't ready yet, wait for DOMContentLoaded to attach observer.
+  // If the body isn't ready yet, wait for DOMContentLoaded to attach the observer.
   document.addEventListener(
     "DOMContentLoaded",
     () => ro.observe(document.body),
@@ -446,57 +276,43 @@ if (document.body) {
  */
 
 /**
- * A simple check for mobile browsers to apply specific styles if needed.
- *
- * NOTE:
- * This is general mobile-browser detection and is NOT used to determine
- * whether the page is running inside the Canvas mobile app.
+ * A simple check for mobile devices to apply specific styles if needed.
  */
 function checkIfMobile() {
   if (/Mobi|Android/i.test(UA)) {
-    // On mobile, ensure the body can scroll if its content overflows.
+    // Example: On mobile, ensure the body can scroll if its content overflows.
     document.body.style.overflow = "visible";
   }
 }
 
 /**
- * Replaces embedded YouTube/Vimeo videos with clickable thumbnails before
- * printing. This saves ink/paper and prevents blank spaces on the printed page.
+ * Replaces embedded YouTube/Vimeo videos with clickable thumbnails before printing.
+ * This saves ink/paper and prevents blank spaces on the printed page.
  * The original videos are restored after the print dialog is closed.
  */
 function replaceVideosWithThumbnails() {
   const iframes = document.querySelectorAll(
     'iframe[src*="youtube.com"], iframe[src*="vimeo.com"]'
   );
-
   const originalIframes = [];
 
   iframes.forEach((iframe) => {
-    originalIframes.push({
-      iframe,
-      parent: iframe.parentNode,
-    });
-
+    originalIframes.push({ iframe, parent: iframe.parentNode });
     const src = iframe.src;
     let thumbnailUrl, videoPageUrl;
 
     if (src.includes("youtube.com")) {
       const videoIdMatch = src.match(/(?:embed\/|v=)([\w-]{11})/);
-
       if (videoIdMatch) {
         const videoId = videoIdMatch[1];
-
         thumbnailUrl = `https://img.youtube.com/vi/${videoId}/0.jpg`;
         videoPageUrl = `https://www.youtube.com/watch?v=${videoId}`;
       }
     } else if (src.includes("vimeo.com")) {
       const videoIdMatch = src.match(/video\/(\d+)/);
-
       if (videoIdMatch) {
         const videoId = videoIdMatch[1];
-
-        // Note: Getting a Vimeo thumbnail requires an API call.
-        // This remains a placeholder from the original implementation.
+        // Note: Getting a Vimeo thumbnail requires an API call. This is a placeholder.
         thumbnailUrl = "path_to_vimeo_thumbnail_placeholder.jpg";
         videoPageUrl = `https://vimeo.com/${videoId}`;
       }
@@ -506,12 +322,10 @@ function replaceVideosWithThumbnails() {
       const anchor = document.createElement("a");
       anchor.href = videoPageUrl;
       anchor.target = "_blank";
-
       const img = document.createElement("img");
       img.src = thumbnailUrl;
       img.style.width = "100%";
       img.style.cursor = "pointer";
-
       anchor.appendChild(img);
       iframe.parentNode.replaceChild(anchor, iframe);
     }
@@ -522,7 +336,6 @@ function replaceVideosWithThumbnails() {
     originalIframes.forEach((item) => {
       // Find the anchor tag that replaced the iframe and swap it back.
       const currentElement = item.parent.querySelector("a");
-
       if (currentElement) {
         item.parent.replaceChild(item.iframe, currentElement);
       }

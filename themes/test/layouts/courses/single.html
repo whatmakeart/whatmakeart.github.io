@@ -61,6 +61,33 @@
           </div>
         {{ end }}
 
+{{/* Displays link to full assignment if iframe is in the Canvas Mobile app that does not allow post-messages */}}
+
+        {{ if .Params.canvas_mobile_fallback }}
+          <div
+            class="alert alert-warning mb-4"
+            data-canvas-mobile-fallback
+            hidden
+          >
+            <strong>Having trouble viewing this assignment in the Canvas Mobile app?</strong>
+            <span class="ms-1">
+              Open the complete assignment in your browser.
+            </span>
+
+            <a
+              class="btn btn-sm btn-primary ms-2"
+              href="{{ .Params.canvas_url | default .Permalink }}"
+              {{ with .Params.canvas_url }}data-canvas-url="{{ . }}"{{ end }}
+              data-canvas-mobile-fallback-link
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Open Assignment
+            </a>
+          </div>
+        {{ end }}
+
+
         {{ .Content }}
 
         <div>
