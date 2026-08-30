@@ -560,10 +560,10 @@ function removeNavigationEmbed() {
       ".container, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm"
     )
     .forEach((el) => {
-      el.style.paddingLeft = "0";
-      el.style.paddingRight = "0";
-      el.style.marginLeft = "0";
-      el.style.marginRight = "0";
+      //el.style.paddingLeft = "0";
+      //el.style.paddingRight = "0";
+      //el.style.marginLeft = "0";
+      //el.style.marginRight = "0";
     });
 
   // Adjust the main content areas to ensure they are full-width.
