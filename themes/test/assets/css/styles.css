@@ -591,10 +591,35 @@ path.MastodonM {
   }
 }
 
-/* Test for keeping wide main content from collapsing with container fluid on wide browsers */
+/* Keep Canvas iframe content wide */
 .keep-wide-canvas-lms {
   width: 100%;
+  max-width: none !important;
   min-width: 300px;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* On mobile, remove Bootstrap gutters from the outer main container
+   and give the actual content only a small 12px edge. */
+@media (max-width: 699.98px) {
+  #course-main.keep-wide-canvas-lms,
+  #wiki-main.keep-wide-canvas-lms {
+    --bs-gutter-x: 0;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  #course-content.keep-wide-canvas-lms,
+  #wiki-content.keep-wide-canvas-lms {
+    --bs-gutter-x: 0;
+    width: 100% !important;
+    max-width: none !important;
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
 }
 
 @media (min-width: 700px) {
