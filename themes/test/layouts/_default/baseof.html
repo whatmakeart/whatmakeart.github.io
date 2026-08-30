@@ -1,47 +1,76 @@
 <!doctype html>
-<html lang="en" data-bs-theme="light">
+<html lang="en">
   <head>
-   <!-- Dark mode detect -->
-  <script>
-    // This script runs instantly to set the correct theme and prevent flashing.
-    (function() {
-      // --- Helper constants for environment detection ---
-      const ua = navigator.userAgent || '';
-      // Are we in an iframe?
-      const isIframe = (() => {
-        try { return window.self !== window.top; } catch { return true; }
-      })();
-      // Does the User Agent indicate the native Canvas Mobile App?
-      const isCanvasMobileApp = /Canvas/i.test(ua) || (/(iPhone|iPad|Android)/i.test(ua) && /\b(wv|WebView)\b/i.test(ua));
 
-      // --- Determine the environment ---
-      // This is the key logic: if we are in an iframe BUT NOT in the mobile app,
-      // we can assume it's the Canvas Website.
-      const env = (isIframe && !isCanvasMobileApp) ? 'canvas-web' : 'other';
+    <!--
+      Set embedded state and theme BEFORE CSS loads.
+      This prevents the normal WhatMakeArt layout/theme from flashing
+      before the Canvas integration script runs.
+    -->
+    <script>
+      (() => {
+        const root = document.documentElement;
+        const embedded = window.parent !== window;
+        const ua = navigator.userAgent || "";
 
-      // --- Apply the theme based on the environment ---
-      let theme;
-      if (env === 'canvas-web') {
-        // **THE FIX:** If the environment is the Canvas website, ALWAYS use light theme.
-        theme = 'light';
-      } else {
-        // Otherwise (for the mobile app or standalone site), respect the user's preference.
-        const savedTheme = localStorage.getItem('theme');
-        if (savedTheme) {
-          theme = savedTheme;
-        } else {
-          theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        // Mark embedded pages immediately so Canvas-specific CSS can apply
+        // before the first paint.
+        if (embedded) {
+          root.classList.add("canvas-embedded");
         }
-      }
-      
-      document.documentElement.setAttribute('data-bs-theme', theme);
-    })();
-  </script>
-    <!-- Dark mode detect -->
+
+        // Mobile/tablet detection used only for initial theme selection.
+        const mobile =
+          /iPhone|iPad|iPod|Android|Mobi|Mobile/i.test(ua) ||
+          (navigator.platform === "MacIntel" &&
+            navigator.maxTouchPoints > 1);
+
+        let theme;
+
+        if (embedded && !mobile) {
+          // Canvas Web on desktop/laptop uses a light interface.
+          theme = "light";
+        } else if (embedded) {
+          // Canvas mobile app / mobile WebView:
+          // follow the appearance exposed by the WebView.
+          theme = window.matchMedia(
+            "(prefers-color-scheme: dark)"
+          ).matches
+            ? "dark"
+            : "light";
+        } else {
+          // Normal WhatMakeArt website:
+          // use saved site preference when available,
+          // otherwise follow the operating system.
+          let savedTheme = null;
+
+          try {
+            savedTheme = localStorage.getItem("theme");
+          } catch (e) {
+            // Storage may be unavailable in some browser contexts.
+          }
+
+          theme =
+            savedTheme === "dark" || savedTheme === "light"
+              ? savedTheme
+              : window.matchMedia(
+                  "(prefers-color-scheme: dark)"
+                ).matches
+                ? "dark"
+                : "light";
+        }
+
+        root.setAttribute("data-bs-theme", theme);
+        root.style.colorScheme = theme;
+      })();
+    </script>
+
     {{ partial "head/head" . }}
 
   </head>
-    {{ block "body_override" . }}<body>{{ end }}
+
+  {{ block "body_override" . }}<body>{{ end }}
+
     {{ partialCached "skippy" . }}
     {{ partialCached "icons" . }}
 
@@ -54,7 +83,7 @@
     {{ partialCached "scripts" . }}
 
     {{ block "footer" . }}
-    
     {{ end }}
+
   </body>
 </html>
