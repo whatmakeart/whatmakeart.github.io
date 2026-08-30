@@ -1,82 +1,99 @@
 ---
 title: 01.03 Bicycle Ideation Sketches Assignment
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-29T13:00:35-04:00
+lastmod: 2026-08-29T20:24:19-04:00
 ---
 
 ## Assignment Deliverables
 
-1. Uploaded images of 30-45 minutes of ideation sketches
-   - _(Individual image files or a combined PDF)_
+1. Ideation Sketches
+   - Evidence of 30-45 minutes of active ideation sketching
+   - Upload individual image files or a combined PDF
    - Label files YYYY-MM-DD Lastname Firstname Bicycle Ideation Sketches (`.jpg`,`.png`,`.pdf`)
-2. Reference Artist from List Research
-   - Minimum of 1 image and 2-3 sentences of comments / analysis
+2. Reference Artist Research from Provided List
+   - At least 1 image and 2-3 sentences of observations / analysis
    - Include URL of image source
    - Label file YYYY-MM-DD Lastname Firstname Reference Artist Research (`.pdf`, `.docx`)
-3. Reference Artist not on List Research
-   - Minimum of 1 image and 2-3 sentences of comments / analysis
+3. New Reference Artist Research
+   - At least of 1 image and 2-3 sentences of observations / analysis
    - Include URL of image source
    - Label file YYYY-MM-DD Lastname Firstname New Reference Artist Research (`.pdf`, `.docx`)
 
 _Note: Optionally you may upload a single `.zip` archive of all your files labeled inside the archive for easier submission to Canvas. If uploading a `.zip` then label the archive file YYYY-MM-DD Lastname Firstname Ideation Assignment `.zip`_
 
-## 30–45 Minute Ideation Sketching
+## Assignment Overview
 
-Spend 30–45 minutes generating ideas through [ideation sketching](../../../../drawing/ideation-sketches.md). Do not spend the entire time making one polished drawing. Make many quick sketches and allow one idea to lead to another.
+Develop possible directions for the Bicycle Sculpture Project through rapid ideation sketches and artist research.
 
-Begin by drawing at least ~10 quick possibilities. Then select several promising ideas and make more developed drawings showing how the sculpture might actually move. Consider drawing side views and top down views of the concepts. Write down words and short phrases describing what the sketches show. THis is helpful for others to understand as well as for your future self to remember what your sketches mean a week or two later.
+Your goal is not to design or customize a conventional bicycle. Instead, treat the bicycle as a collection of structures, bearings, pivots, wheels, cranks, and other mechanical components that can be cut apart, rearranged, extended, duplicated, and combined into something unexpected.
 
-Explore:
+The final sculpture does not have to be a vehicle or remain rideable, but it must incorporate bicycle components and include kinetic elements, parts that actually move. These sketches are starting points for experimentation. They do not need to resolve every fabrication or engineering problem.
 
-- What rotates?
-- What stays stationary?
-- What does the viewer touch?
-- Where does the movement begin?
-- How is movement transferred somewhere else?
-- Could one wheel turn several other wheels?
-- Could a wheel drive another wheel through friction?
-- Could a belt connect two distant rotating parts?
-- Could the headset become a pivot?
-- Could the bottom bracket rotate something other than a bicycle wheel?
-- What happens if bicycle components are duplicated or moved to unexpected locations?
-- What happens if the sculpture is extremely tall, long, wide, unstable-looking, awkward, humorous, repetitive, or absurd?
+### Bicycle Components as Mechanical Materials
 
-Your sketches do not need to solve every fabrication problem. At this stage, prioritize possibilities. We will use fabrication, testing, and prototyping to determine what actually works.
-
-Your goal is not simply to repair, decorate, or customize a bicycle. Think of the bicycle as a collection of useful structures and mechanisms that can be cut apart, rearranged, extended, duplicated, and combined into something unexpected.
-
-The final sculpture does not have to be a vehicle or even remain rideable. It must, however, incorporate bicycle components and include kinetic elements-parts that actually move.
-
-A bicycle already contains many useful mechanisms for creating motion:
+A bicycle already contains several useful systems for producing and transferring motion:
 
 - Wheels and hubs provide large rotating elements with built-in bearings.
-- The headset provides a strong bearing assembly that allows a fork or another structure to rotate.
-- The bottom bracket provides a durable rotating axle that can support cranks, pedals, wheels, arms, or other moving elements.
-- Cranks and pedals can turn continuous rotation into human-powered movement.
-- Chains and sprockets can transmit rotation between different locations.
-- Forks can hold wheels or become rotating structural elements.
-- Rims and tires can act as large pulleys or friction-drive surfaces.
+- The headset provides a strong pivot that can rotate a fork or another sculptural element.
+- The bottom bracket provides a durable rotating axle for cranks, pedals, arms, wheels, or other moving parts.
+- Cranks and pedals can generate human-powered rotational motion.
+- Chains and sprockets can transfer rotation from one location to another.
+- Rims and tires can function as large pulleys or friction-drive surfaces.
+- Forks and frame sections can become structural supports for moving components.
 
-You are encouraged to misuse these mechanisms. A headset does not need to steer a bicycle. A bottom bracket does not need to drive a rear wheel. A wheel does not need to touch the ground. A bicycle rim can become a giant pulley. Belts, rubber, cord, or other flexible materials could transfer motion between wheels. One rotating wheel can also contact another rim or tire and move it through friction, eliminating the need for a conventional bicycle chain.
+You are encouraged to misuse these mechanisms. A headset does not have to steer. A bottom bracket does not have to drive a rear wheel. A wheel does not have to touch the ground.
+
+### Ways to Transfer Motion
 
 Think about what happens when one movement causes another movement.
 
-### Possible Approaches
+- Chains and sprockets
+- Belts
+- Ropes or cords
+- Friction between wheels or rims
+- Cranks
+- Linkages
+- Gravity
+- Human interaction
+- Motors or other mechanical systems
 
-- Stretch, shorten, widen, stack, or radically alter bicycle frames.
-- Combine pieces from multiple bicycles.
-- Use several wheels rotating at different speeds or directions.
-- Transfer motion from one wheel to another with chains, belts, or friction.
-- Use a crank to move an object that normally would not rotate.
-- Turn a wheel horizontally, vertically, diagonally, or overhead.
-- Use the headset as a pivot for an entire sculptural element.
-- Use the bottom bracket and cranks to activate another mechanism.
-- Use wheels, spokes, or cranks to strike, lift, drag, spin, shake, or oscillate another material.
-- Require a viewer to pedal, push, crank, pull, spin, or otherwise activate the work.
-- Become an unconventional human-powered vehicle.
-- Become a stationary kinetic sculpture that no longer resembles a bicycle.
+## 30 - 45 Minute Ideation Sketching
 
-The bicycle is your starting material and mechanical vocabulary, not the required final form.
+Spend 30 - 45 minutes generating ideas through [ideation sketching](../../../../drawing/ideation-sketches.md).
+
+Do not spend the entire time making one polished drawing. Make many quick sketches and allow one idea to lead to another. Begin with approximately 10 or more quick possibilities. Then select several promising ideas and develop them further.
+
+Add short notes, labels, and arrows to explain how the sculpture might function. These notes will help other people understand your ideas and will help your future self remember what you intended when you return to the sketches later.
+
+- Side views
+- Front views
+- Top-down views
+- Detail views of mechanisms
+- Arrows showing movement
+- Connections between moving components
+
+### Explore
+
+Consider questions such as:
+
+- What rotates?
+- What remains stationary?
+- Where does the movement begin?
+- What does the viewer touch or activate?
+- How is motion transferred from one component to another?
+- Could one wheel turn several other wheels?
+- Could a wheel drive another wheel through friction?
+- Could a belt connect two distant rotating parts?
+- Could the headset become a pivot for an entire sculptural element?
+- Could the bottom bracket rotate something other than a bicycle wheel?
+- Could wheels rotate horizontally, vertically, diagonally, or overhead?
+- What happens if bicycle components are duplicated or moved into unexpected locations?
+- What happens if the frame is stretched, shortened, widened, stacked, or combined with another frame?
+- What happens if the sculpture becomes extremely tall, long, wide, awkward, repetitive, unstable-looking, humorous, or absurd?
+- Could the work become a stationary kinetic sculpture that barely resembles a bicycle?
+- Could the work require someone to pedal, push, pull, crank, spin, or otherwise activate it?
+
+Prioritize possibilities rather than solutions. Fabrication, testing, and prototyping will help determine what actually works. The bicycle is your starting material and mechanical vocabulary, not the required final form.
 
 ## Ideation Sketch Documentation
 
@@ -98,7 +115,7 @@ A phone camera is sufficient when used carefully. Combine multiple pages into a 
 
 ## Reference Gathering Process
 
-1. Select a minimum of 1 photo from the references below. Include the photo(s), the URL where found, and 2-3 sentences of observations about why you chose it.
+1. Select at least of 1 photo from the references below. Include the photo(s), the URL where found, and 2-3 sentences of observations about why you chose it.
 2. Repeat the process for a reference not included in the list below. The source is up to you but it should be somehow related to the project. Include the photo(s), the URL where found, and 2-3 sentences of observations about why you chose it.
 
 ### Artist + Project References
@@ -118,7 +135,7 @@ When looking at these references, do not concentrate only on what the finished s
 9. [Diane Landry](https://dianelandry.com/installations-en/knight-of-infinite-resignation-2/) - motorized installations incorporating bicycle wheels, pulleys, timing belts, bearings, light, and other materials.
 10. [Nemo Gould](https://nemogould.com/)- kinetic found-object machines useful for studying mechanisms, cranks, linkages, and imaginative reuse.
 11. [Bike Kill 2023](https://www.flickr.com/photos/86681342@N00/albums/72157637012472425/) - underground, alternative bike festival and wild street party.
-12. [Mark Griev](https://www.srcity.org/773/Cyclisk-Public-Art-Project)e - co-creator of _Cyclisk_, a monumental sculpture made from hundreds of discarded bicycles.
+12. [Mark Grieve](https://www.srcity.org/773/Cyclisk-Public-Art-Project) - co-creator of _Cyclisk_, a monumental sculpture made from hundreds of discarded bicycles.
 13. [Ilana Spector](https://www.srcity.org/773/Cyclisk-Public-Art-Project)- co-creator and fabricator of _Cyclisk_.
 14. [Cyclecide Bike Rodeo](https://www.cyclecide.com/beer/) - artist collective transforming junk bicycles into tall bikes, unusual vehicles, kinetic sculptures, and pedal-powered carnival rides.
 15. [Chris Cole Designs](https://www.chriscoledesigns.com/bend-magazine-feature) - kinetic sculptor who transforms salvaged bicycle and mechanical parts into moving creatures and machines.
