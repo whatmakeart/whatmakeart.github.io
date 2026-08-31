@@ -1,7 +1,7 @@
 ---
 title: 01.05 Bicycle Disassembly Assignment
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-30T08:46:50-04:00
+lastmod: 2026-08-30T21:01:44-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -37,6 +37,8 @@ Pay particular attention to:
 Remove reusable components before making destructive cuts. Consider keeping bearing assemblies intact. A functioning headset, bottom bracket, or wheel hub gives you a precise rotational mechanism that would be much more difficult to fabricate from scratch.
 
 ## Cutting the Bicycle
+
+![Bicycle Tube Cut Locations](./2026-08-30-bicycle-frame-tube-cuts-whatmakeart.svg)
 
 1. Decide which portions of the frame may be useful.
 2. Mark planned cuts before cutting.

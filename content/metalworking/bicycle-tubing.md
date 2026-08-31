@@ -1,8 +1,10 @@
 ---
 title: Bicycle Tubing
 date: 2024-11-10T16:01:02-04:00
-lastmod: 2026-08-21T20:48:11-04:00
+lastmod: 2026-08-30T20:51:31-04:00
 ---
+
+![Bicycle Frame Tube Names](./attachments/2026-08-30-bicycle-frame-tube-names-whatmakeart.svg)
 
 Chromoly Normalized CD 1.000" OD X 0.035" Wall ALLOY STEEL 4130 ROUND TUBE
 

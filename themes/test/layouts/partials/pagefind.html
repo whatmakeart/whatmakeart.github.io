@@ -1,7 +1,23 @@
 <script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
+
 <div id="search"></div>
+
 <script>
-  window.addEventListener("DOMContentLoaded", (event) => {
-    new PagefindUI({ element: "#search", showSubResults: true });
-  });
+  function initPagefind() {
+    const searchElement = document.querySelector("#search");
+    const embedded = window.parent !== window;
+
+    if (searchElement && !embedded) {
+      new PagefindUI({
+        element: "#search",
+        showSubResults: true,
+      });
+    }
+  }
+
+  if (document.readyState === "loading") {
+    window.addEventListener("DOMContentLoaded", initPagefind, { once: true });
+  } else {
+    initPagefind();
+  }
 </script>
