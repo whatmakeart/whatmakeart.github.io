@@ -827,6 +827,14 @@ html.canvas-embedded #wiki-content {
   }
 }
 
+[data-canvas-mobile-fallback] {
+  display: none !important;
+}
+
+html.canvas-mobile-fallback-active [data-canvas-mobile-fallback] {
+  display: block !important;
+}
+
 /************************************************************/
 /************* End Canvas LMS Embedded Pages ****************/
 /************************************************************/

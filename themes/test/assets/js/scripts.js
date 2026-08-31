@@ -127,44 +127,33 @@ function isEmbedded() {
 }
 
 /**
- * Checks whether the current device is reasonably likely to be
- * a phone or tablet.
+ * Positively identifies phones and tablets.
  *
- * IMPORTANT:
- * This does NOT by itself mean we are inside the Canvas mobile app.
- * It is combined with the failure of Canvas postMessage to respond.
- *
- * @returns {boolean}
+ * Generic touchscreen detection is intentionally avoided because
+ * touchscreen laptops must never be classified as Canvas mobile.
  */
 function isLikelyMobileDevice() {
   const ua = navigator.userAgent || "";
 
-  // Standard iPhone/iPad/iPod identification.
+  // Chromium provides this on supported browsers.
+  if (navigator.userAgentData && navigator.userAgentData.mobile === true) {
+    return true;
+  }
+
+  // iPhone / traditional iPad / iPod.
   const isiOS = /iPhone|iPad|iPod/i.test(ua);
 
-  /*
-   * Modern iPads can identify themselves as Macintosh when requesting
-   * desktop-style websites.
-   */
+  // Modern iPads can identify themselves as Macintosh.
   const isiPadDesktopUA =
     navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1;
 
   // Android phones and tablets.
   const isAndroid = /Android/i.test(ua);
 
-  // Other browsers that explicitly identify as mobile.
+  // Other explicitly mobile browsers.
   const hasMobileUA = /Mobi|Mobile/i.test(ua);
 
-  /*
-   * Fallback for touch-oriented tablets whose user agent is ambiguous.
-   * Requiring a coarse pointer prevents ordinary laptops from matching.
-   */
-  const isTouchTablet =
-    navigator.maxTouchPoints > 0 &&
-    window.matchMedia("(pointer: coarse)").matches &&
-    Math.min(screen.width, screen.height) <= 1024;
-
-  return isiOS || isiPadDesktopUA || isAndroid || hasMobileUA || isTouchTablet;
+  return isiOS || isiPadDesktopUA || isAndroid || hasMobileUA;
 }
 
 /**
@@ -215,8 +204,9 @@ function getTargetWindow() {
  */
 function handleCanvasPostMessage(event) {
   if (!isEmbedded()) return;
-  document.documentElement.classList.add("canvas-embedded");
-  document.body.classList.add("canvas-embedded");
+  // not needed if classes are added in the head
+  //document.documentElement.classList.add("canvas-embedded");
+  //document.body.classList.add("canvas-embedded");
 
   // Only trust messages from the iframe's immediate parent.
   if (event.source !== window.parent) return;
@@ -304,11 +294,17 @@ function detectCanvasPostMessageSupport() {
    */
   canvasPostMessageTimeout = window.setTimeout(() => {
     if (canvasPostMessageSupported === true) {
+      hideCanvasMobileFallback();
+      return;
+    }
+
+    // Check again immediately before showing anything.
+    if (!isEmbedded() || !isLikelyMobileDevice()) {
+      hideCanvasMobileFallback();
       return;
     }
 
     canvasPostMessageSupported = false;
-
     showCanvasMobileFallback();
   }, CANVAS_POSTMESSAGE_RESPONSE_TIMEOUT);
 }
@@ -381,49 +377,32 @@ const sendIframeHeight = (() => {
  */
 
 /**
- * Reveals the optional fallback message intended for Canvas mobile /
- * unsupported postMessage environments.
+ * Shows the Canvas mobile fallback.
  *
- * Link destination priority:
- * 1. Explicit data-canvas-url generated from canvas_url frontmatter.
- * 2. A likely Canvas parent page found through document.referrer.
- * 3. The link's existing href, normally the Hugo .Permalink to this page.
+ * Final safety check prevents this from ever being shown
+ * on a desktop/laptop even if this function is called accidentally.
  */
 function showCanvasMobileFallback() {
-  const canvasReferrerUrl = null;
+  if (!isEmbedded() || !isLikelyMobileDevice()) {
+    hideCanvasMobileFallback();
+    return;
+  }
+
+  document.documentElement.classList.add("canvas-mobile-fallback-active");
 
   document
     .querySelectorAll("[data-canvas-mobile-fallback]")
     .forEach((fallback) => {
-      const link = fallback.querySelector("[data-canvas-mobile-fallback-link]");
-
-      if (link) {
-        // If Hugo supplied canvas_url in frontmatter, it is the most reliable
-        // destination and should not be replaced.
-        const explicitCanvasUrl = link.dataset.canvasUrl;
-
-        if (explicitCanvasUrl) {
-          link.href = explicitCanvasUrl;
-        } else if (canvasReferrerUrl) {
-          // Otherwise use the Canvas parent/referrer when it looks useful.
-          link.href = canvasReferrerUrl;
-        }
-
-        // If neither is available, the original href remains intact.
-        // The Hugo template should set that href to the page's .Permalink.
-      }
-
       fallback.hidden = false;
     });
 }
 
 /**
  * Hides the Canvas mobile fallback.
- *
- * This normally remains hidden from initial page render, but this function
- * also handles the unlikely case where Canvas responds after the timeout.
  */
 function hideCanvasMobileFallback() {
+  document.documentElement.classList.remove("canvas-mobile-fallback-active");
+
   document
     .querySelectorAll("[data-canvas-mobile-fallback]")
     .forEach((fallback) => {
