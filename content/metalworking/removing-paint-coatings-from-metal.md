@@ -1,14 +1,14 @@
 ---
 title: Removing Paint Coatings from Metal
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-28T12:58:49-04:00
+lastmod: 2026-08-31T17:00:42-04:00
 ---
 
 Paint, powder coating, rust, grease, and other surface contaminants should be removed from areas that will be welded. Clean bare metal produces more reliable welds and reduces the chance of contaminants being heated or vaporized during welding.
 
 ### Sandblasting Cabinet
 
-A sandblasting cabinet uses compressed air and abrasive media to remove paint, rust, and other coatings from metal.
+A [Sandblasting Cabinet](sandblasting-cabinet.md) uses compressed air and abrasive media to remove paint, rust, and other coatings from metal.
 
 Sandblasting is especially useful for:
 
@@ -18,6 +18,10 @@ Sandblasting is especially useful for:
 - Areas that are difficult to reach with other tools
 
 Sandblasting can be relatively slow, so it is often best for smaller areas or detailed cleaning rather than stripping an entire large object.
+
+<div class="video-grid">
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/AdtvlSiGnSg?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div>
 
 ### Angle Grinder with Strip Disc
 

@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2026-04-03T07:54:34-04:00
+lastmod: 2026-08-31T17:01:09-04:00
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -27,7 +27,7 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | Hot Air Welder                                                                                     |       |             |             |             |             |
 | [Heat Gun ](../tools/how-to-use-a-heat-gun.md)                                                     |       |             |             |             |             |
 | [Serger](../sewing/serger.md)                                                                      |       |             |             |             |             |
-| Sandblaster                                                                                        |       |             |             |             |             |
+| [Sandblasting Cabinet](../metalworking/sandblasting-cabinet.md)                                    |       |             |             |             |             |
 | [Laser Cutter](../digital-fabrication/laser-cutting/laser-cutting.md)                              |       |             |             |             |             |
 | [Mig Welder](../metalworking/mig-welding.md)                                                       |       |             |             |             |             |
 | Barbed Needles                                                                                     |       |             |             |             |             |

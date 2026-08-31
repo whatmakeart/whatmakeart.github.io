@@ -1,7 +1,7 @@
 ---
 title: 01.05 Bicycle Disassembly Assignment
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-30T21:09:40-04:00
+lastmod: 2026-08-31T16:52:54-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -39,9 +39,11 @@ The goal is to separate the head tube and fork assembly from the bottom bracket 
 
 ## Preparing Metal for Fabrication
 
-Remove paint, rust, grease, and other contaminants from areas that may later be welded. Use the sandblaster, strip discs, or other demonstrated methods to expose clean steel.
+Remove paint, rust, grease, and other contaminants from areas that may later be welded. Use the [sandblaster](https://youtu.be/AdtvlSiGnSg), strip discs, or other demonstrated methods to expose clean steel.
 
 Remove coatings approximately 3-4" from the cut ends. You do not need to strip the entire bicycle frame at this stage. Concentrate on areas that are most likely to be cut, fitted, or welded during later fabrication.
+
+[Remove Paint with Sandblasting Cabinet](https://youtu.be/AdtvlSiGnSg)
 
 Avoid unnecessarily grinding into or thinning the bicycle tubing. The goal is to remove the coating and expose clean metal.
 
