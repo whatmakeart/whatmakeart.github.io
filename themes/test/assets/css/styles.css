@@ -595,9 +595,7 @@ path.MastodonM {
 /*************** Canvas LMS Embedded Pages ******************/
 /************************************************************/
 
-/*
- * General width rules added by the Canvas integration script.
- */
+/* Full-width classes added by Canvas integration JS */
 .keep-wide-canvas-lms {
   width: 100%;
   max-width: none !important;
@@ -606,52 +604,7 @@ path.MastodonM {
   margin-right: 0 !important;
 }
 
-/*
- * ----------------------------------------------------------
- * Mobile Canvas iframe
- * ----------------------------------------------------------
- *
- * Remove as much internal WhatMakeArt / Bootstrap padding as possible.
- * Canvas Student itself adds some space around the iframe that cannot
- * be removed from inside this page.
- */
-@media (max-width: 699.98px) {
-  #course-main.keep-wide-canvas-lms,
-  #wiki-main.keep-wide-canvas-lms {
-    --bs-gutter-x: 0;
-
-    width: 100% !important;
-    max-width: none !important;
-
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-
-  #course-content.keep-wide-canvas-lms,
-  #wiki-content.keep-wide-canvas-lms {
-    --bs-gutter-x: 0;
-
-    width: 100% !important;
-    max-width: none !important;
-
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-
-    /* Small readable edge inside Canvas Student */
-    padding-left: 6px !important;
-    padding-right: 6px !important;
-  }
-}
-
-/*
- * ----------------------------------------------------------
- * Existing wider Canvas iframe minimum widths
- * ----------------------------------------------------------
- */
-
+/* Preserve wider iframe minimums on desktop */
 @media (min-width: 700px) {
   .keep-wide-canvas-lms {
     min-width: 600px !important;
@@ -682,44 +635,18 @@ path.MastodonM {
   }
 }
 
-/*
- * ----------------------------------------------------------
- * Immediate embedded-page overrides
- * ----------------------------------------------------------
- *
- * The small script in <head> adds canvas-embedded to <html>
- * BEFORE the CSS loads. These rules therefore apply before
- * the normal WhatMakeArt page can flash on screen.
- */
-
-/* Remove browser/body spacing immediately. */
+/* Embedded page: remove outer spacing and allow Canvas background through */
 html.canvas-embedded,
 html.canvas-embedded body {
   width: 100% !important;
   max-width: none !important;
-
   margin: 0 !important;
   padding: 0 !important;
-
   overflow-x: hidden;
-}
-
-/*
- * Let the Canvas background show through where the WebView/browser
- * supports iframe transparency. This helps avoid a visibly different
- * dark rectangle around the WhatMakeArt content.
- */
-html.canvas-embedded,
-html.canvas-embedded body {
   background-color: transparent !important;
 }
 
-/*
- * Hide the normal WhatMakeArt interface immediately.
- *
- * The main JavaScript will later remove these elements from the DOM,
- * but hiding them here prevents them flashing before that script runs.
- */
+/* Hide normal WhatMakeArt navigation/UI before JS removes it */
 html.canvas-embedded #wiki-navbar,
 html.canvas-embedded #course-sidebar,
 html.canvas-embedded #wiki-sidebar,
@@ -738,11 +665,7 @@ html.canvas-embedded #topTOC {
   display: none !important;
 }
 
-/*
- * The outer course template uses Bootstrap's container-xxl plus
- * Bootstrap Docs layout/gutter classes. Flatten all of those while
- * embedded so they do not consume precious mobile width.
- */
+/* Flatten Bootstrap containers and embedded content */
 html.canvas-embedded .container,
 html.canvas-embedded .container-fluid,
 html.canvas-embedded .container-sm,
@@ -750,75 +673,59 @@ html.canvas-embedded .container-md,
 html.canvas-embedded .container-lg,
 html.canvas-embedded .container-xl,
 html.canvas-embedded .container-xxl,
-html.canvas-embedded .bd-gutter {
-  --bs-gutter-x: 0;
-
-  width: 100% !important;
-  max-width: none !important;
-
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-
-/*
- * Bootstrap Docs' bd-layout can retain space for the sidebar/TOC
- * even after those elements are hidden. Flatten it into one column.
- */
-html.canvas-embedded .bd-layout {
-  display: block !important;
-
-  width: 100% !important;
-  max-width: none !important;
-
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-
-/*
- * Outer main area gets zero horizontal padding.
- */
+html.canvas-embedded .bd-gutter,
 html.canvas-embedded #course-main,
-html.canvas-embedded #wiki-main {
-  --bs-gutter-x: 0;
-
-  width: 100% !important;
-  max-width: none !important;
-
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-
-/*
- * Actual page content gets only a tiny readable edge on phones.
- */
+html.canvas-embedded #wiki-main,
 html.canvas-embedded #course-content,
 html.canvas-embedded #wiki-content {
   --bs-gutter-x: 0;
-
   width: 100% !important;
   max-width: none !important;
-
   margin-left: 0 !important;
   margin-right: 0 !important;
-
-  padding-left: 0px !important;
-  padding-right: 0px !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
-/*
- * Reduce default list indentation on narrow Canvas screens.
- * This gives assignment deliverable lists noticeably more usable width.
- */
+/* Remove Bootstrap Docs sidebar/grid layout */
+html.canvas-embedded .bd-layout {
+  display: block !important;
+  width: 100% !important;
+  max-width: none !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Mobile-specific width and list indentation */
 @media (max-width: 699.98px) {
+  #course-main.keep-wide-canvas-lms,
+  #wiki-main.keep-wide-canvas-lms {
+    --bs-gutter-x: 0;
+    width: 100% !important;
+    max-width: none !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  /*
+   * Retains the original 6px fallback if .canvas-embedded is unavailable.
+   * When embedded normally, the more specific rules above reduce this to 0.
+   */
+  #course-content.keep-wide-canvas-lms,
+  #wiki-content.keep-wide-canvas-lms {
+    --bs-gutter-x: 0;
+    width: 100% !important;
+    max-width: none !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 6px !important;
+    padding-right: 6px !important;
+  }
+
   html.canvas-embedded #course-content ol,
   html.canvas-embedded #course-content ul,
   html.canvas-embedded #wiki-content ol,
@@ -827,6 +734,7 @@ html.canvas-embedded #wiki-content {
   }
 }
 
+/* Mobile Canvas fallback warning: hidden unless JS activates it */
 [data-canvas-mobile-fallback] {
   display: none !important;
 }

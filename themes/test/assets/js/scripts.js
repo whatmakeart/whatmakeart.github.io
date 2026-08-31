@@ -103,7 +103,7 @@
 const UA = navigator.userAgent || "";
 
 // How long to wait for Canvas Web to respond to our capability test.
-const CANVAS_POSTMESSAGE_RESPONSE_TIMEOUT = 3000;
+const CANVAS_POSTMESSAGE_RESPONSE_TIMEOUT = 1000;
 
 // Canvas postMessage capability state.
 // null  = not yet determined
