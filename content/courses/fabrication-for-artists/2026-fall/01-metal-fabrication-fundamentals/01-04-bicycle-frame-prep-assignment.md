@@ -1,60 +1,51 @@
 ---
 title: 01.05 Bicycle Disassembly Assignment
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-30T21:01:44-04:00
+lastmod: 2026-08-30T21:09:40-04:00
 canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables
 
 1. Disassembled Bicycle Components
-   - Preserve useful mechanical components including bearings, hubs, cranks, wheels, and other potential moving parts.
-2. Prepared Bicycle Frame / Tubing
-   - Seperated headtube from bottom bracket and seat tube
-   - Deburr sharp edges
-   - Remove coatings 3-4" from areas that will later be welded
-
-## Bicycle Disassembly Process
-
-Study the bicycle before cutting anything. Identify components that contain useful mechanical systems and try to preserve them whenever possible.
-
-Pay particular attention to:
-
-- Headset and head tube
-- Fork
-- Bottom bracket
-- Cranks and pedals
-- Chainrings
-- Chain
-- Rear sprockets or freewheel
-- Wheel hubs
-- Wheels and rims
-- Handlebars and stem
-- Seat and seat post
-- Brake components
-- Frame tubing
-
-Remove reusable components before making destructive cuts. Consider keeping bearing assemblies intact. A functioning headset, bottom bracket, or wheel hub gives you a precise rotational mechanism that would be much more difficult to fabricate from scratch.
+   - Remove components from the bicycle frame as demonstrated.
+   - Preserve useful mechanical components including headsets, bearings, hubs, cranks, bottom brackets, wheels, and other potential moving parts.
+2. Cut and Prepped Bicycle Frame
+   - Separate the head tube from the bottom bracket and seat tube section.
+   - Preserve as much usable frame tubing as possible.
+   - Deburr all sharp cut edges.
+   - Remove paint and coatings approximately 3–4" from cut ends that may later be welded.
 
 ## Cutting the Bicycle
 
 ![Bicycle Tube Cut Locations](./2026-08-30-bicycle-frame-tube-cuts-whatmakeart.svg)
 
-1. Decide which portions of the frame may be useful.
-2. Mark planned cuts before cutting.
-3. Secure the frame before using cutting tools.
-4. Make controlled cuts that preserve as much usable tubing as possible.
-5. Save useful offcuts and unusual components.
-6. Deburr sharp cut edges before handling the pieces.
+Remove reusable components before making destructive cuts.
 
-Do not immediately cut everything into small pieces. Larger sections can always be cut smaller later.
+Whenever possible, keep useful bearing assemblies intact. A functioning headset, bottom bracket, or wheel hub provides a precise rotational mechanism that would be much more difficult to fabricate from scratch.
+
+Do not immediately cut the bicycle into small pieces. Larger frame sections can always be cut smaller later.
+
+1. Identify the Top Tube and Down Tube.
+2. Mark your planned cuts before cutting.
+3. Cut the Top Tube at one of the indicated red cut locations.
+4. Cut the Down Tube at one of the indicated blue cut locations.
+5. Secure the bicycle frame before making each cut.
+6. Make controlled cuts that preserve as much usable tubing as possible.
+7. Save useful tubing offcuts and unusual components.
+8. Deburr all sharp cut edges with a metal file before handling or storing the pieces.
+
+The goal is to separate the head tube and fork assembly from the bottom bracket and seat tube section while preserving both as useful components for later fabrication.
 
 ## Preparing Metal for Fabrication
 
-Remove paint, rust, grease, and other contaminants from areas that will eventually be welded. Use the sandblaster, strip discs, or other demonstrated methods to expose clean steel.
-You generally do not need to strip the entire bicycle immediately. Concentrate on areas that will be cut, fitted, or welded.
+Remove paint, rust, grease, and other contaminants from areas that may later be welded. Use the sandblaster, strip discs, or other demonstrated methods to expose clean steel.
 
-The bicycle you begin with is only the starting point. Over the next several weeks, it will become both raw material and a mechanical toolkit through which you learn the fundamentals of metal fabrication.
+Remove coatings approximately 3-4" from the cut ends. You do not need to strip the entire bicycle frame at this stage. Concentrate on areas that are most likely to be cut, fitted, or welded during later fabrication.
+
+Avoid unnecessarily grinding into or thinning the bicycle tubing. The goal is to remove the coating and expose clean metal.
+
+The bicycle you begin with is only the starting point. Over the next several weeks, its frame and mechanical components will become both raw material and a mechanical toolkit for exploring the fundamentals of metal fabrication and kinetic sculpture.
 
 ## Grading Rubric
 
@@ -62,9 +53,9 @@ The bicycle you begin with is only the starting point. Over the next several wee
 
 | Objective                                  | Points |
 | ------------------------------------------ | ------ |
-| Components removed from bicycle frame      | 20     |
-| Frame cut in half with minimum two cuts    | 25     |
-| Ends of cuts deburred with files           | 25     |
+| Bicycle components removed and preserved   | 20     |
+| Frame separated with minimum required cuts | 25     |
+| All cut edges safely deburred              | 25     |
 | Paint / Coating removed 3-4" from cut ends | 30     |
 
 </div>
