@@ -96,22 +96,15 @@ Return to Canvas when you are ready to submit your work.
         <div>
             <div id="bottom-prev-next">
 
-{{/* Loops through the pages in the courses sub directory, sorts them and then based on the relative permalink 
-then the index is kept track of for forward and next buttons on the bottom of course pages. */}}
-{{ $currentFilePath := .File.Path }}
-{{ $grandparentFolderPath := path.Dir (path.Dir $currentFilePath) }}
-
-{{ $pagesInGrandparent := slice }}
-{{ range .Site.RegularPages }}
-    {{ if strings.HasPrefix .File.Path $grandparentFolderPath }}
-        {{ $pagesInGrandparent = $pagesInGrandparent | append . }}
-    {{ end }}
+{{/* Build prev/next links from the current course section only instead of scanning every page in the site. */}}
+{{ $coursePages := .CurrentSection.Pages }}
+{{ if not $coursePages }}
+  {{ $coursePages = .Parent.CurrentSection.Pages }}
 {{ end }}
-
-{{ $pagesInGrandparent = sort $pagesInGrandparent "RelPermalink" }}
+{{ $coursePages = sort $coursePages "RelPermalink" }}
 {{ $currentPage := . }}
 {{ $currentIndex := -1 }}
-{{ range $index, $element := $pagesInGrandparent }}
+{{ range $index, $element := $coursePages }}
     {{ if eq $element.RelPermalink $currentPage.RelPermalink }}
         {{ $currentIndex = $index }}
     {{ end }}
@@ -120,24 +113,19 @@ then the index is kept track of for forward and next buttons on the bottom of co
 {{ $nextIndex := add $currentIndex 1 }}
 
 {{ if ge $prevIndex 0 }}
-  {{ $prevPage := index $pagesInGrandparent $prevIndex }}
-    
+  {{ $prevPage := index $coursePages $prevIndex }}
                     <a class="back" href="{{ $prevPage.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ $prevPage.Title}}">&larr; {{ $prevPage.Title}} </a>
-                
 {{ else }}
    {{/* Start of Course */}}
 {{ end }}
 
-{{ if lt $nextIndex (len $pagesInGrandparent) }}
-  {{ $nextPage := index $pagesInGrandparent $nextIndex }}
-
+{{ if lt $nextIndex (len $coursePages) }}
+  {{ $nextPage := index $coursePages $nextIndex }}
                     <a class="next" href="{{ $nextPage.RelPermalink  }}" data-toggle="tooltip" data-placement="top" title="{{ $nextPage.Title}}"> {{ $nextPage.Title}} &rarr;</a>
-                
 {{ else }}
  {{/* End of Course */}}
-{{ end }}  
-{{/* End previous and next button code for courses */}}          
-
+{{ end }}
+{{/* End previous and next button code for courses */}}
 
             </div>
        {{/* backlinks partial is commented out for now since not used on courses */}} 
