@@ -1,7 +1,7 @@
 ---
 title: 02.00 Introduction
 date: 2026-09-02T12:00:00-04:00
-lastmod: 2026-09-01T14:22:53-04:00
+lastmod: 2026-09-01T14:55:59-04:00
 ---
 
 <!-- TODO: frame selected Blender Tutorial -->
@@ -10,9 +10,6 @@ lastmod: 2026-09-01T14:22:53-04:00
 <!-- TODO: Apply transforms Blender Tutorial -->
 <!-- TODO: seperate by loose parts Blender Tutorial -->
 <!-- TODO: select x ray mode to clean up scan Blender Tutorial -->
-<!-- TODO: look trhough cameeara Blender Tutorial -->
-<!-- TODO: position camera Blender Tutorial -->
-<!-- TODO: add lights Blender Tutorial -->
 <!-- TODO: change power of lights Blender Tutorial -->
 <!-- TODO: create a collection Blender Tutorial -->
 <!-- TODO: version control save incremental Blender Tutorial -->
