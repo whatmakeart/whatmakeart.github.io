@@ -1,15 +1,17 @@
 ---
 title: Blank Environment to disguise RenderStream Setup Unreal 5.5.4
 date: 2025-10-07T04:35:38
-lastmod: 2026-08-25T21:08:30-04:00
+lastmod: 2026-09-01T13:37:11-04:00
 ---
 
+<div class="video-grid">
 <div class="video-card">
 
 ### Blank Environment to disguise RenderStream Setup Unreal 5.5.4
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Vb0-OxnYzB0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 </div>
 </div>
 
@@ -67,9 +69,9 @@ Make one clean “camera root” that moves with tracking, and then parent three
    - _If the camera preview window is blocking your view, go to Edit → Editor Preferences, search for camera view, and uncheck Preview Selected Cameras._
 3. Select each of the cameras individually and zero their transforms under the Transform section (Location X/Y/Z = 0, Rotation = 0, Scale = 1). This ensures the Cine Camera Actors Unreal position is not added to the disguise tracking data.
 4. Relabel each of the cameras
-   - `RS_Main_Cam` - This is the main cam or inner frustum shows what the physical camera sees on the LED volume.
-   - `RS_OOF_Cam` - This is the outer frustum for everything on the LED that the physical camera does not see and is used for lighting and reflections.
-   - `RS_AR_Cam` - This is the augmented reality camera.
+   - `RS_Main_Cam` or `0_OuterFrustum_Cam` - This is the main cam or inner frustum shows what the physical camera sees on the LED volume.
+   - `RS_OOF_Cam` or `1_InnerFrustum_Cam` - This is the outer frustum for everything on the LED that the physical camera does not see and is used for lighting and reflections.
+   - `RS_AR_Cam` or `2_AR_Cam` - This is the augmented reality camera.
 5. Select each of the three cameras and add the RenderStream Channel Definition
    - Add Component → RenderStream Channel Definition. Do this for `RS_Main_Cam`, `RS_OOF_Cam`, and `RS_AR_Cam`.
 6. Open the `RS_AR_Cam` RenderStream Channel Definition.
