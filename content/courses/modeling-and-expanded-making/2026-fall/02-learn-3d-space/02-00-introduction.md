@@ -1,22 +1,22 @@
 ---
 title: 02.00 Introduction
 date: 2026-09-03T09:00:00-04:00
-lastmod: 2026-09-01T14:11:58-04:00
+lastmod: 2026-09-01T14:17:55-04:00
 ---
 
-## Overview
-
-Brief demo of on the LED Wall in the XR Studio at the Cleveland Institute of Art's Interactive Media Lab.
-
----
-
-title: 02.00 Introduction
-
-date: 2026-09-02T12:00:00-04:00
-
-lastmod: 2026-09-01T13:50:00-04:00
-
----
+<!-- TODO: frame selected Blender Tutorial -->
+<!-- TODO: frame add camera Blender Tutorial -->
+<!-- TODO: Set object Origin Blender Tutorial -->
+<!-- TODO: Apply transforms Blender Tutorial -->
+<!-- TODO: seperate by loose parts Blender Tutorial -->
+<!-- TODO: select x ray mode to clean up scan Blender Tutorial -->
+<!-- TODO: look trhough cameeara Blender Tutorial -->
+<!-- TODO: position camera Blender Tutorial -->
+<!-- TODO: add lights Blender Tutorial -->
+<!-- TODO: change power of lights Blender Tutorial -->
+<!-- TODO: create a collection Blender Tutorial -->
+<!-- TODO: version control save incremental Blender Tutorial -->
+<!-- TODO: make zip archive windows Tutorial -->
 
 ## Overview
 
