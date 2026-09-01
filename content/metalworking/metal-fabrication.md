@@ -1,7 +1,7 @@
 ---
 title: Metal Fabrication
 date: 2024-11-10T16:01:02
-lastmod: 2026-08-16T17:09:36-04:00
+lastmod: 2026-08-31T20:24:17-04:00
 ---
 
 # Metal Fabrication
@@ -23,7 +23,7 @@ Use cutting oil when necessary.
 
 ### Ways to Cut Steel
 
-- [How to Use a Hacksaw](how-to-use-a-hacksaw.md)hacksaw
+- [How to Use a Hacksaw](how-to-use-a-hacksaw.md)
 - angle grinder
 - Cut Off Saw
 - Metal Bandsaw
@@ -62,5 +62,7 @@ M5 bolt Head 8.5mm Dia x 5mm H M5 bolt lengths 10mm 12mm 14mm M5 nut 8mm W x 4mm
 ### How to clean metal and prep for painting
 
 You need to remove all oil and rust, then quickly add a metal primer. Metal primer can have multiple coats and be sanded smooth in between coats. Primer should be applied as soon as new clean metal is exposed. Clean metal should be allowed to touch the atmosphere for as short of time as possible.
+
+A [Sandblasting Cabinet](sandblasting-cabinet.md) uses abrasive material to clean metal in preparation for painting.
 
 ### How to Patina Steel

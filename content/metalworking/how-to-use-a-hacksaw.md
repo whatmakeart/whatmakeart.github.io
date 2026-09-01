@@ -1,10 +1,15 @@
 ---
 title: How to Use a Hacksaw
 date: 2023-05-26T03:16:03
-lastmod: 2026-08-23T12:18:02-04:00
+lastmod: 2026-08-31T20:23:03-04:00
 tags:
   - Fabrication
+  - Hacksaw
 ---
+
+<div class="video-grid">
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9rPAqmub4ag?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div>
 
 Using a hacksaw is relatively straightforward, but there are a few key steps and safety precautions you should follow:
 

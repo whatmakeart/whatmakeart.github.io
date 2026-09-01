@@ -1,7 +1,7 @@
 ---
 title: Cutting Metal Tubing
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-28T12:50:44-04:00
+lastmod: 2026-08-31T20:25:12-04:00
 ---
 
 ## Cutting Metal Tubing
@@ -10,11 +10,15 @@ Steel tubing can be cut with several different tools depending on the size of th
 
 ### Hacksaw
 
-A hand-powered hacksaw is a versatile tool for cutting thin walled steel tubing. Secure the tubing in a bench vise so it cannot move while cutting. This makes the cut cleaner and more accurate while keeping your hands away from the saw blade.
+A hand-powered [hacksaw](how-to-use-a-hacksaw.md) is a versatile tool for cutting thin walled steel tubing. Secure the tubing in a bench vise so it cannot move while cutting. This makes the cut cleaner and more accurate while keeping your hands away from the saw blade.
 
 Begin with light pressure to establish a groove, then use long, steady strokes through the material. Let the saw blade do the cutting rather than forcing it. Use the entire length of the blade.
 
 Many people use a hacksaw incorrectly by quickly moving the saw back and forth in short strokes with only the center of the saw cutting the material. THis quickly dulls that section of the bland and is much harder.
+
+<div class="video-grid">
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9rPAqmub4ag?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div>
 
 ### Portable Bandsaw
 

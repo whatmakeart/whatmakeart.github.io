@@ -1,7 +1,7 @@
 ---
 title: 01.05 Bicycle Disassembly Assignment
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-31T16:52:54-04:00
+lastmod: 2026-08-31T20:25:43-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -27,7 +27,7 @@ Whenever possible, keep useful bearing assemblies intact. A functioning headset,
 Do not immediately cut the bicycle into small pieces. Larger frame sections can always be cut smaller later.
 
 1. Identify the Top Tube and Down Tube.
-2. Mark your planned cuts before cutting.
+2. Mark your planned cuts before cutting with a [hacksaw](../../../../metalworking/how-to-use-a-hacksaw.md)
 3. Cut the Top Tube at one of the indicated red cut locations.
 4. Cut the Down Tube at one of the indicated blue cut locations.
 5. Secure the bicycle frame before making each cut.
@@ -39,7 +39,7 @@ The goal is to separate the head tube and fork assembly from the bottom bracket 
 
 ## Preparing Metal for Fabrication
 
-Remove paint, rust, grease, and other contaminants from areas that may later be welded. Use the [sandblaster](https://youtu.be/AdtvlSiGnSg), strip discs, or other demonstrated methods to expose clean steel.
+Remove paint, rust, grease, and other contaminants from areas that may later be welded. Use the [Sandblasting Cabinet](../../../../metalworking/sandblasting-cabinet.md), strip discs, or other demonstrated methods to expose clean steel.
 
 Remove coatings approximately 3-4" from the cut ends. You do not need to strip the entire bicycle frame at this stage. Concentrate on areas that are most likely to be cut, fitted, or welded during later fabrication.
 
@@ -60,4 +60,23 @@ The bicycle you begin with is only the starting point. Over the next several wee
 | All cut edges safely deburred              | 25     |
 | Paint / Coating removed 3-4" from cut ends | 30     |
 
+</div>
+
+## Assignment Resources
+
+<div class="video-grid">
+
+<div class="video-card">
+
+### Cut Metal with Hacksaw
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9rPAqmub4ag?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div>
+
+<div class="video-card">
+
+### Remove Paint with Sandblasting Cabinet
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/AdtvlSiGnSg?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: Sculpture + Expanded Media Technical Inventory
 date: 2023-09-25T12:00:00
-lastmod: 2026-08-31T17:01:09-04:00
+lastmod: 2026-08-31T20:27:15-04:00
 ---
 
 ## Sculpture Tools and Equipment Inventory
@@ -85,6 +85,7 @@ Review the list of sculpture tools and equipment below. Mark a check in the appr
 | [Metal Nibbler](../metalworking/metal-nibbler.md)                                                  |       |             |             |             |             |
 | Wood Lathe                                                                                         |       |             |             |             |             |
 | Tig Welder                                                                                         |       |             |             |             |             |
+| [Hacksaw](../metalworking/how-to-use-a-hacksaw.md)                                                 |       |             |             |             |             |
 | Grommet Punch                                                                                      |       |             |             |             |             |
 | Anvil and Swage Blocks                                                                             |       |             |             |             |             |
 | Wire Crimper                                                                                       |       |             |             |             |             |
