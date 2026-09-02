@@ -1,7 +1,7 @@
 ---
 title: 02.03 Assembled 3D Environment Assignment
 date: 2026-09-02T12:00:00-04:00
-lastmod: 2026-09-02T15:50:34-04:00
+lastmod: 2026-09-02T15:57:26-04:00
 ---
 
 ## Assignment Deliverables
@@ -43,9 +43,12 @@ Use the [Blender](../../../../3d-modeling/blender/3d-modeling-basics-blender.md)
    - [How to Move Objects in Blender](../../../../3d-modeling/blender/move-objects-blender.md)
    - [How to Scale Objects in Blender](../../../../3d-modeling/blender/scale-objects-blender.md)
    - [How to Rotate Objects in Blender](../../../../3d-modeling/blender/rotate-objects-blender.md)
-3. Correct the object origin if the model rotates around an unexpected point -[How to Change the Rotation Point in Blender - Set Object Origin](https://youtu.be/YqC7VpP98rU)
+3. Correct the object origin if the model rotates around an unexpected point
+   - [How to Change the Rotation Point in Blender - Set Object Origin](https://youtu.be/YqC7VpP98rU)
+   - [Set Object Origin Blender](https://youtu.be/vZ3wjjNaDUM)
 4. Remove obvious unwanted scan geometry only if necessary. Do not spend significant time cleaning or remodeling the scan. More extensive mesh editing and 3D modeling will be introduced later.
    - [Clean Scans with Boolean Intersect Blender](https://youtu.be/bnJud-sBrbA)
+   - [Clean Up 3D Scan Mesh](https://youtu.be/f7F8jNDWae0)
 5. Confirm that the photographic texture is visible
    - [How to Fix Missing Textures in Blender Photogrammetry Scans](https://youtu.be/SwGwjaSoNIw)
 
@@ -150,6 +153,24 @@ Your sound recordings for the accompanying Sound Capture Assignment should make 
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/SwGwjaSoNIw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### [Install BlenderKit](https://youtu.be/DM2eyg3dxP4)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/DM2eyg3dxP4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### [Set Object Origin Blender](https://youtu.be/vZ3wjjNaDUM)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/DM2eyg3dxP4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
