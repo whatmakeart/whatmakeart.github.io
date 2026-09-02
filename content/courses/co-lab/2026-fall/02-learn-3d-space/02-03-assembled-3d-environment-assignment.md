@@ -1,7 +1,7 @@
 ---
 title: 02.03 Assembled 3D Environment Assignment
 date: 2026-09-02T12:00:00-04:00
-lastmod: 2026-09-02T14:26:55-04:00
+lastmod: 2026-09-02T15:50:34-04:00
 ---
 
 ## Assignment Deliverables

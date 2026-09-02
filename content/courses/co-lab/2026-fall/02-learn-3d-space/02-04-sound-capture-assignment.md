@@ -1,7 +1,7 @@
 ---
 title: 02.04 Sound Capture Assignment
 date: 2026-09-02T12:00:00-04:00
-lastmod: 2026-09-02T14:27:07-04:00
+lastmod: 2026-09-02T15:50:19-04:00
 ---
 
 ## Assignment Deliverables
@@ -10,9 +10,9 @@ Record three types of original sound with your phone. Submit the original audio 
 
 1. Environmental / ambient sound
    - YYYY-MM-DD Lastname Firstname Ambient Sound
-2. Action / Foley sound
+2. Action / Foley sound effect
    - YYYY-MM-DD Lastname Firstname Foley Sound
-3. Off-screen event sound
+3. Off-screen event sound effect
    - YYYY-MM-DD Lastname Firstname Off Screen Sound
 
 _Note: You can upload a single `.zip` archive of all your files labeled inside the archive for easier submission to Canvas._
@@ -27,35 +27,54 @@ Next week, you will record video using your assembled 3D environment on the XR S
 
 ## 1. Environmental / Ambient Sound
 
-Record approximately **30–60 seconds** of continuous environmental sound.
+Record approximately 30–60 seconds of continuous environmental sound.
 
-This might include room tone, ventilation, traffic, wind, machinery, people in the distance, or another sound that establishes a location.
+This might include:
 
-Remain still while recording and avoid handling the phone unnecessarily.
+- room tone
+- ventilation
+- traffic
+- wind
+- machinery
+- people in the distance
 
 ## 2. Action / Foley Sound
 
 Record a physical action that could accompany something happening on screen.
 
-Examples include footsteps, clothing movement, a door, an object being placed on a surface, scraping, impacts, or another intentional physical sound.
+Examples include
 
-Make several attempts and submit your best recording.
+- character footsteps
+- clothing movement
+- a door
+- an object being placed on a surface
+- scraping
+- impacts
 
 ## 3. Off-Screen Event
 
 Record a sound that could make the viewer imagine something happening **outside the camera frame**.
 
-Examples include approaching footsteps, a distant impact, a voice, a closing door, a machine starting, or another unseen event.
+Examples include:
 
-Make several attempts and submit your best recording.
+- approaching footsteps
+- a distant impact
+- a voice
+- a closing door
+- a machine starting
+- microwave ding
 
 ### Recording Tips
 
 Get the phone close to the sound when practical and keep it still while recording. Record several seconds before and after the sound you want to capture.
 
+Remain still while recording and avoid handling or touching the phone.
+
 Listen to your recording before leaving the location. If the recording is distorted, too quiet, interrupted, or dominated by unwanted noise, record another take.
 
 Use the native recording application on your phone. Additional recording equipment is not required.
+
+Make several attempts and submit your best recording.
 
 ### Connect the Sound to Your Scene
 
@@ -74,11 +93,11 @@ _You do not need to create a complete story, but the visual environment and soun
 <div class="responsive-table-markdown">
 
 | Objective                                        | Points |
-| ------------------------------------------------ | -----: |
-| Environmental / Ambient Recording                |     25 |
-| Action / Foley Recording                         |     25 |
-| Off-Screen Event Recording                       |     25 |
-| Sounds Relate Clearly to the Virtual Environment |     15 |
-| File Management and Labeling                     |     10 |
+| ------------------------------------------------ | ------ |
+| Environmental / Ambient Recording                | 25     |
+| Action / Foley Recording                         | 25     |
+| Off-Screen Event Recording                       | 25     |
+| Sounds Relate Clearly to the Virtual Environment | 15     |
+| File Management and Labeling                     | 10     |
 
 </div>
