@@ -24,7 +24,7 @@ lastmod: 2025-12-23T10:12:35-04:00
 
 ## Adobe Audition Tutorials
 
-- [Create new audio file in Adobe Audition](create-new-audio-file-adobe-audition.md)
-- [Set audio hardware in Adobe Audition](set-audio-hardward-adobe-audition.md)
+- [Create new audio file in Adobe Audition](attachments/adobe-audition/create-new-audio-file-adobe-audition.md)
+- [Set audio hardware in Adobe Audition](attachments/adobe-audition/set-audio-hardward-adobe-audition.md)
 - [Record laser sound effect in Adobe Audition](record-laser-sound-effect-adobe-audition.md)
-- [Export mp3 from Adobe Audition](export-mp3-adobe-audition.md)
+- [Export mp3 from Adobe Audition](attachments/adobe-audition/export-mp3-adobe-audition.md)

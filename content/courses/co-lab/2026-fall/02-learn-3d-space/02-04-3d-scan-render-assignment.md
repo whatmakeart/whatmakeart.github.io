@@ -1,7 +1,7 @@
 ---
 title: 02.04 3D Scan Blender Render Assignment
 date: 2026-09-02T12:00:00-04:00
-lastmod: 2026-09-01T14:56:18-04:00
+lastmod: 2026-09-02T07:29:01-04:00
 ---
 
 ## Assignment Deliverables
@@ -27,7 +27,7 @@ Use the Blender navigation and transformation tools demonstrated in class to:
 - move it to a useful position [How to Move Objects in Blender](../../../../3d-modeling/blender/move-objects-blender.md)
 - correct its orientation if necessary
 - adjust its scale [How to Scale Objects in Blender](../../../../3d-modeling/blender/scale-objects-blender.md)
-- position a camera <!-- TODO: look trhough cameeara Blender Tutorial --> <!-- TODO: position camera Blender Tutorial -->
+- position a camera
 - add lights <!-- TODO: add lights Blender Tutorial -->
 - create a rendered image
 
@@ -54,3 +54,8 @@ Do not spend significant time cleaning or remodeling the scan. More extensive me
 ## Assignment Resources
 
 - [Blender](../../../../3d-modeling/blender/blender.md)
+- [Delete Faces X-Ray Mode Blender](https://youtu.be/sOYVLYZ_XQ4)
+- [How to Change the Rotation Point in Blender - Set Object Origin](https://youtu.be/YqC7VpP98rU)
+- [Can’t Find Your Model in Blender? Here’s the Quick Fix](https://youtu.be/bdErTcIZyZs)
+- [Blender Camera View Not Working? How to Fix It Fast](https://youtu.be/MIDwBLmeCec)
+- [How to Fix Missing Textures in Blender Photogrammetry Scans](https://youtu.be/SwGwjaSoNIw)

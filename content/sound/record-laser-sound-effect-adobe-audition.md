@@ -13,6 +13,6 @@ lastmod: 2025-12-23T10:12:35-04:00
 
 ## Additional Resources
 
-- [Set Audio Hardware Adobe Audition](set-audio-hardward-adobe-audition.md)
-- [Create New Audio File Adobe Audition](create-new-audio-file-adobe-audition.md)
-- [Export MP3 from Adobe Audition](export-mp3-adobe-audition.md)
+- [Set Audio Hardware Adobe Audition](attachments/adobe-audition/set-audio-hardward-adobe-audition.md)
+- [Create New Audio File Adobe Audition](attachments/adobe-audition/create-new-audio-file-adobe-audition.md)
+- [Export MP3 from Adobe Audition](attachments/adobe-audition/export-mp3-adobe-audition.md)
