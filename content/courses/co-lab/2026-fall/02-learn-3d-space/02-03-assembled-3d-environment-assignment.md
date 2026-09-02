@@ -1,27 +1,41 @@
 ---
-title: 02.04 3D Scan Blender Render Assignment
+title: 02.03 Assembled 3D Environment Assignment
 date: 2026-09-02T12:00:00-04:00
-lastmod: 2026-09-02T10:04:41-04:00
+lastmod: 2026-09-02T14:26:55-04:00
 ---
 
 ## Assignment Deliverables
 
-1. Blender file containing one imported photogrammetry scan
+1. Blender file containing multiple arranged imported photogrammetry scans in a simple environment
    - Label file YYYY-MM-DD Lastname Firstname 3D Scan (`.blend`)
-2. One rendered image made from the imported scan
+2. One rendered image made from the assembled environment
    - Label file YYYY-MM-DD Lastname Firstname 3D Scan Render (`.jpg`)
+
+_Note: You can upload a single `.zip` archive of all your files labeled inside the archive for easier submission to Canvas._
 
 ## Assignment Overview
 
-[Photogrammetry](../../../../3d-modeling/photogrammetry.md) software creates a 3D mesh, but the resulting model may import into other software at an unexpected scale, position, or orientation. For this assignment, import one of your photogrammetry scans into [Blender](../../../../3d-modeling/blender/blender.md) and create a rendered image from a new point of view.
+Next week, your Blender scene will be brought into Unreal Engine and displayed on the XR Stage through disguise. You will use the LED wall, tracked camera, and a live performer to record footage inside the virtual environment.
+
+For this assignment, combine multiple 3D assets into a simple environment that could function as a virtual production set.
+
+You may use:
+
+- your previous photogrammetry scans
+- new photogrammetry scans
+- your structured-light 3D scans
+- simple Blender modeling
+- assets from BlenderKit [Install BlenderKit](../../../../3d-modeling/blender/install-blenderkit-blender.md)
+
+The scene does not need to be large or complicated. It does not need to be realistic but should make sense spatially. Concentrate on creating an environment with a clear visual idea and enough space for a performer to appear within or in front of it.
 
 The goal is to become comfortable navigating a 3D scene and working with a captured 3D asset before beginning more extensive 3D modeling.
 
-## Process
+### Prepare Photogrammetry Scans and 3D Assets
 
-Import one of your photogrammetry captures into Blender.
+[Photogrammetry](../../../../3d-modeling/photogrammetry.md) software creates a 3D mesh, but the resulting model may import into other software at an unexpected scale, position, or orientation.
 
-Use the Blender navigation and transformation tools demonstrated in class to:
+Use the [Blender](../../../../3d-modeling/blender/3d-modeling-basics-blender.md) navigation and transformation tools demonstrated in class to:
 
 1. Locate the model if it appears off screen
    - [Can’t Find Your Model in Blender? Here’s the Quick Fix](https://youtu.be/bdErTcIZyZs)
@@ -30,17 +44,39 @@ Use the Blender navigation and transformation tools demonstrated in class to:
    - [How to Scale Objects in Blender](../../../../3d-modeling/blender/scale-objects-blender.md)
    - [How to Rotate Objects in Blender](../../../../3d-modeling/blender/rotate-objects-blender.md)
 3. Correct the object origin if the model rotates around an unexpected point -[How to Change the Rotation Point in Blender - Set Object Origin](https://youtu.be/YqC7VpP98rU)
-4. Remove obvious unwanted scan geometry only if necessary
+4. Remove obvious unwanted scan geometry only if necessary. Do not spend significant time cleaning or remodeling the scan. More extensive mesh editing and 3D modeling will be introduced later.
+   - [Clean Scans with Boolean Intersect Blender](https://youtu.be/bnJud-sBrbA)
 5. Confirm that the photographic texture is visible
    - [How to Fix Missing Textures in Blender Photogrammetry Scans](https://youtu.be/SwGwjaSoNIw)
-6. Add and position a camera
-   - [Add and Position Camera in Blender](https://youtu.be/MIDwBLmeCec)
-7. Add lighting and create a rendered image
-   - [Rendering Basics - Blender](../../../../3d-modeling/blender/rendering-basics-blender.md)
 
-Your render should show the scan from a viewpoint that would have been difficult or impossible to photograph in the original location. For example, position the virtual camera unusually high, low, close to the surface, behind the captured geometry, inside an opening, or somewhere that a physical camera could not easily have been placed.
+### Build a Scene
 
-Do not spend significant time cleaning or remodeling the scan. More extensive mesh editing and 3D modeling will be introduced later.
+After importing scans and 3d object, arrange multiple 3D assets in Blender to create a new environment. You may combine captured locations in unrealistic ways, repeat objects, change scale, add simple modeled geometry, or mix scanned assets with [BlenderKit](../../../../3d-modeling/blender/install-blenderkit-blender.md) assets. Consider how the scene might appear from the viewpoint of a physical camera on the XR Stage.
+
+Your environment should have:
+
+- an intentional foreground, middle ground, and background
+- a clear area where a performer could appear
+- enough surrounding geometry to support the intended camera view
+- a visual idea that could support a short action or event
+
+_A simple, well-composed environment is preferable to a very large unfinished scene._
+
+### Add a Camera and Export Render Image
+
+1. Add a camera and compose one view that represents how you imagine the scene might appear during virtual production.
+
+- [Add and Position Camera in Blender](https://youtu.be/MIDwBLmeCec)
+
+Add simple lighting as needed and create one rendered image showing the scene.
+
+## Plan for Virtual Production
+
+Before finishing, imagine a simple 5-10 second event that could happen in the scene.
+
+For example, a performer might walk through the environment, discover something, react to an oversized object, enter or leave the frame, interact with an implied event, or perform another simple action. Keep the idea achievable in a short continuous shot.
+
+Your sound recordings for the accompanying Sound Capture Assignment should make sense with this environment and possible action.
 
 ## Grading Rubric
 
