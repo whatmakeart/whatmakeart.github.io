@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling Basics - Blender
 date: 2023-06-14T13:46:52
-lastmod: 2026-09-02T20:39:32-04:00
+lastmod: 2026-09-02T21:06:33-04:00
 tags:
   - Blender
   - 3D-Modeling
@@ -66,6 +66,12 @@ Start here if you are new to Blender. These videos cover the essential interface
 - [Blender Apply All Transforms](https://docs.blender.org/manual/en/dev/scene_layout/object/editing/apply.html)
 
 <div class="video-grid">
+
+<!-- TODO: Add and Delete Objects Blender Tutorial Video -->
+<!-- TODO: Select Objects, Vertices, Edges, and Faces Blender Tutorial Video -->
+<!-- TODO: Extrude Blender Tutorial Blender Video -->
+<!-- TODO: Loop Cut and Inset Faces Blender Video -->
+<!-- TODO: Apply Scale and Transforms Blender Video -->
 
 <div class="video-card">
 
@@ -192,6 +198,15 @@ Mesh modeling changes the actual geometry of a 3D object. These videos introduce
 </div>
 </div>
 
+<div class="video-card">
+
+### [Must Know 90 Degree Bend Blender Tutorial](https://youtu.be/9SCNEIp2Wp8)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9SCNEIp2Wp8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
 </div>
 
 ## Modifiers and Faster Modeling
@@ -228,10 +243,10 @@ Blender modifiers can create repeated, symmetrical, or more complex geometry wit
 
 <div class="video-card">
 
-### [Insert Reference Image Blender](https://youtu.be/t2Q8dX6djKk)
+### [Only Move One Array Object BlenderTutorial](https://youtu.be/giJ822lv_dw)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/t2Q8dX6djKk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/giJ822lv_dw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -270,6 +285,65 @@ These tutorials cover additional Blender tools that are useful when preparing mo
 </div>
 </div>
 
+<div class="video-card">
+
+### [How to Scale a Floor Plan in Blender for Architectural Visualization](https://youtu.be/8iMWUsqeopQ)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/8iMWUsqeopQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+</div>
+
+</div>
+
+## Modeling From Reference
+
+<!-- TODO: Set Orthographic Views Blender Tutorial Video -->
+<!-- TODO: Model From Reference Image Blender Tutorial Video -->
+<div class="video-grid">
+
+<div class="video-card">
+
+### [Insert Reference Image Blender](https://youtu.be/t2Q8dX6djKk)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/t2Q8dX6djKk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+</div>
+
+## Working With Imported 3D Captured Models
+
+<!-- TODO:  Import GLB / GLTF / FBX / OBJ Blender Tutorial Video -->
+
+[Import 3D Head Scan Blender ](https://youtu.be/xaECwQMOOAw)
+[How to Convert Epic Games Reality Scan GLB to OBJ in Blender (Photogrammetry Export)](https://youtu.be/Lj1Z2XmpOM0)
+[How to Import a GLB into Blender](https://youtu.be/V1q5w6onuCE)
+[How to Import an OBJ File into Blender](https://youtu.be/JG1msAX7PFo)
+[Import 3D Scan Mesh into Blender - Artec LEO](https://youtu.be/-8Tvn8UFG0Y)
+
+<!-- TODO:  Locate Model in Blender Blender Tutorial Video -->
+
+<!-- TODO:  Show Missing / Imported Textures Blender Tutorial Video -->
+
+[How to Fix Missing Textures in Blender Photogrammetry Scans](https://youtu.be/SwGwjaSoNIw)
+
+<!-- TODO:  Set Object Origin / Origin to Geometry Blender Tutorial Video -->
+
+[How to Change the Rotation Point in Blender - Set Object Origin](https://youtu.be/YqC7VpP98rU)
+
+<!-- TODO:  Clean Up Photogrammetry Mesh Blender Tutorial Video -->
+
+<!-- TODO:  Boolean Crop Photogrammetry Mesh Blender Tutorial Video -->
+
+[Boolean Intersect Photogrammetry Scan Cleanup Blender](https://youtu.be/bnJud-sBrbA)
+
+<!-- TODO:  Reduce Polygon Count / Decimate Blender Tutorial Video -->
+
+[Blender 3D Printing: Reduce Triangles, Make Manifold, Export a Clean STL](https://youtu.be/xkMdZJDfE3o)
+[Blender Triangle Count Fast: Statistics Overlay + Shift D vs Alt D](https://youtu.be/hR83_OUozhY)
+
+<!-- TODO:  Separate or Join Meshes Blender Tutorial Video -->
 
 [^1]: [Blender.org - About](https://www.blender.org/about/) [(Web Archive)](https://web.archive.org/web/20230228210621/https://www.blender.org/about/)
