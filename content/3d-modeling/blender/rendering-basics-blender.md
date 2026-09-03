@@ -1,7 +1,7 @@
 ---
 title: Rendering Basics - Blender
 date: 2023-06-14T13:53:02
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-09-02T20:09:47-04:00
 ---
 
 ## Eevee and Cycles
@@ -28,19 +28,15 @@ The Point Light has adjustments for color, power, diffuse, specular, volume, and
 
 ### Area Light - Blender
 
-## Blender Rendering Tutorials
+- rectangular light to give flat illumination over a specific area
 
-- [Blender Basic Render](https://youtu.be/Qw8jl8mKEsY)
-- [Blender Tri Lighting Add On](https://youtu.be/SbMuowrbKe0)
-- [Blender Infinite Background for Render](https://youtu.be/lsEYDk00WFs)
-- [Add HDRI Background Blender](https://youtu.be/k-moDmBUrrI)
-- [Render Animation Sequence](https://youtu.be/KUF6M9pmjak)
+## Blender Rendering Tutorials
 
 <div class="video-grid">
 
 <div class="video-card">
 
-### Blender Basic Render
+#### [Blender Basic Render](https://youtu.be/Qw8jl8mKEsY)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/Qw8jl8mKEsY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -49,7 +45,16 @@ The Point Light has adjustments for color, power, diffuse, specular, volume, and
 
 <div class="video-card">
 
-### Blender Tri Lighting Add On
+#### [Blender Render Scene Example](https://youtu.be/XLAeTAi-2gI)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/XLAeTAi-2gI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### [Blender Tri Lighting Add On](https://youtu.be/SbMuowrbKe0)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/SbMuowrbKe0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -58,7 +63,7 @@ The Point Light has adjustments for color, power, diffuse, specular, volume, and
 
 <div class="video-card">
 
-### Blender Infinite Background
+#### [Blender Infinite Background for Render](https://youtu.be/lsEYDk00WFs)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe"  width="560" height="315" src="https://www.youtube.com/embed/lsEYDk00WFs?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -67,19 +72,19 @@ The Point Light has adjustments for color, power, diffuse, specular, volume, and
 
 <div class="video-card">
 
-### Render Animation Sequence
+#### [Add HDRI Background Blender](https://youtu.be/k-moDmBUrrI)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/KUF6M9pmjak?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/k-moDmBUrrI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="video-card">
 
-### Add HDRI Background Blender
+#### [Render Animation Sequence](https://youtu.be/KUF6M9pmjak)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/k-moDmBUrrI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/KUF6M9pmjak?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
