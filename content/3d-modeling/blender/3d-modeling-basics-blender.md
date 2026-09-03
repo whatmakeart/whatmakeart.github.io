@@ -1,7 +1,7 @@
 ---
 title: 3D Modeling Basics - Blender
 date: 2023-06-14T13:46:52
-lastmod: 2026-09-02T20:35:16-04:00
+lastmod: 2026-09-02T20:39:32-04:00
 tags:
   - Blender
   - 3D-Modeling
@@ -58,6 +58,8 @@ Blender Default Scene with cube
 </figure>
 
 ### Blender Basics
+
+Start here if you are new to Blender. These videos cover the essential interface, navigation, object and edit modes, and the basic tools for moving, rotating, scaling, and duplicating objects. You do not need to memorize every command. Focus on becoming comfortable navigating the 3D viewport and manipulating objects.
 
 - [Blender Polygon Modeling Tools](https://docs.blender.org/manual/en/latest/modeling/index.html)
 - [Blender Extrude](https://docs.blender.org/manual/en/dev/modeling/meshes/editing/mesh/extrude.html)
@@ -132,6 +134,8 @@ Blender Default Scene with cube
 
 ## Basic Mesh Modeling in Blender
 
+Mesh modeling changes the actual geometry of a 3D object. These videos introduce common techniques for editing vertices, edges, and faces; joining and cutting geometry; and improving the appearance of modeled forms. Use these tutorials as needed when building or modifying your own 3D models.
+
 <div class="video-grid">
 
 <div class="video-card">
@@ -192,6 +196,8 @@ Blender Default Scene with cube
 
 ## Modifiers and Faster Modeling
 
+Blender modifiers can create repeated, symmetrical, or more complex geometry without manually modeling every part. These videos demonstrate several tools that can speed up the modeling process as well as techniques for using reference images when constructing objects.
+
 <div class="video-grid">
 <div class="video-card">
 
@@ -232,6 +238,8 @@ Blender Default Scene with cube
 </div>
 
 ## Scene / Production Utilities Blender
+
+These tutorials cover additional Blender tools that are useful when preparing models for fabrication, rendering, or larger scenes. Learn how to work with real-world units, bring in existing assets with BlenderKit, and create editable 3D text.
 
 <div class="video-grid">
 
