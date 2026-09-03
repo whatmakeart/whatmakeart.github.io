@@ -1,7 +1,7 @@
 ---
 title: 02.04 HDRI Background Blender
 date: 2026-09-03T09:00:00-04:00
-lastmod: 2026-09-03T06:47:37-04:00
+lastmod: 2026-09-03T08:00:29-04:00
 toc: true
 ---
 

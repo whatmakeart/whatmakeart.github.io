@@ -1,7 +1,7 @@
 ---
 title: Reflections and Shadows for Compositing 3D Models into Camera Projected 2D Photos
 date: 2024-08-30T13:43:34
-lastmod: 2026-09-03T07:40:44-04:00
+lastmod: 2026-09-03T07:56:53-04:00
 ---
 
 <div class="video-grid">
@@ -16,7 +16,11 @@ Camera projection lets you use a perspective-matched photograph as part of a sim
 
 In this example, the original brick alley photograph has already been perspective matched with fSpy. Simple wall and ground geometry lines up with the photo when viewed through the imported fSpy camera.
 
-The goal is to project the photograph onto that geometry, use it for reflections, create a shadow catcher, and then composite the final 3D render back over the original image.
+The goal is to project the photograph onto that geometry, use it for reflections, create a shadow catcher, and then composite the final 3D render back over the original image. This workflow creates a simple pseudo-HDR environment from a single perspective-matched photograph.
+
+The camera-projected geometry provides reflections, the HDRI fills in missing environmental information, the shadow catcher creates contact with the ground, and Blender’s compositor places everything back over the original photograph.
+
+It is a fast way to create believable site-specific 3D mockups without modeling an entire environment.
 
 ### 1. Add the Photo to the Walls
 
@@ -83,94 +87,63 @@ It does not need to match perfectly. The projected photograph provides the nearb
 
 The wall material is emissive, so it will not work well for receiving shadows.
 
-Select the wall object and enter Edit Mode.
+1. Select the wall object and enter Edit Mode.
+2. Switch to Face Select mode and select the ground faces.
+3. Right-click and choose:
+4. Separate > Selection
+5. Return to Object Mode and rename the new object Ground.
 
-Switch to Face Select mode and select the ground faces.
-
-Right-click and choose:
-
-Separate > Selection
-
-Return to Object Mode and rename the new object Ground.
-
-9. Create a Ground Material
+### 9. Create a Ground Material
 
 The new Ground object still shares the wall material.
 
-Duplicate the material so changes to the ground do not affect the walls.
-
-Rename the duplicated material Ground.
-
-Delete the Emission shader and replace it with a Diffuse BSDF.
-
-Reconnect the projected image to the Diffuse shader.
+1. Duplicate the material so changes to the ground do not affect the walls.
+2. Rename the duplicated material Ground.
+3. Delete the Emission shader and replace it with a Diffuse BSDF.
+4. Reconnect the projected image to the Diffuse shader.
 
 The ground can now receive a shadow from your 3D object.
 
-10. Disable Shadows from the Walls
+### 10. Disable Shadows from the Walls
 
-Select the Walls object.
-
-In the Cycles visibility settings, disable Shadow visibility.
+1. Select the Walls object.
+2. In the Cycles visibility settings, disable Shadow visibility.
 
 This keeps the simple wall geometry from casting unwanted shadows onto the ground.
 
-11. Hide the Walls from the Camera
+### 11. Hide the Walls from the Camera
 
 With the Walls object selected, disable Camera visibility.
 
-The walls disappear from the rendered image but can still contribute reflections to your 3D object.
+The walls disappear from the rendered image but can still contribute reflections to your 3D object. This lets us use the original photograph as the final background instead of rendering the projected geometry directly.
 
-This lets us use the original photograph as the final background instead of rendering the projected geometry directly.
-
-12. Turn the Ground into a Shadow Catcher
+### 12. Turn the Ground into a Shadow Catcher
 
 Select the Ground object and enable Shadow Catcher.
 
-The ground becomes invisible while preserving the shadow cast by the 3D object.
+The ground becomes invisible while preserving the shadow cast by the 3D object. Now the render contains the object and its shadow without displaying the temporary projection geometry.
 
-Now the render contains the object and its shadow without displaying the temporary projection geometry.
+### 13. Make the Background Transparent
 
-13. Make the Background Transparent
-
-Go to the Render properties.
-
-Under Film, enable Transparent.
+1. Go to the Render properties.
+2. Under Film, enable Transparent.
 
 The HDRI will continue contributing lighting and reflections, but it will no longer appear directly behind the object.
 
-14. Composite the Original Photograph
+### 14. Composite the Original Photograph
 
-Open the Compositing workspace and enable Use Nodes.
+1. Open the Compositing workspace and enable Use Nodes.
+2. Add a Viewer node so you can preview the result.
+3. Connect the Render Layers image to the Viewer.
+4. Next, add an Image node and open the original photograph used for the fSpy perspective match.
 
-Add a Viewer node so you can preview the result.
+### 15. Add an Alpha Over Node
 
-Connect the Render Layers image to the Viewer.
-
-Next, add an Image node and open the original photograph used for the fSpy perspective match.
-
-15. Add an Alpha Over Node
-
-Add an Alpha Over node.
-
-Connect:
-
-1. The original photograph to the top image input.
-2. The Render Layers image to the bottom image input.
-
-Connect the Alpha Over output to the Viewer and Composite nodes.
+1. Connect the original photograph to the top image input.
+2. Connect the Render Layers image to the bottom image input.
+3. Connect the Alpha Over output to the Viewer and Composite nodes.
 
 The final image now uses the original high-quality photograph as the background while preserving the reflections and shadows generated by the 3D environment.
-
-Final Result
-
-This workflow creates a simple pseudo-HDR environment from a single perspective-matched photograph.
-
-The camera-projected geometry provides reflections, the HDRI fills in missing environmental information, the shadow catcher creates contact with the ground, and Blender’s compositor places everything back over the original photograph.
-
-It is a fast way to create believable site-specific 3D mockups without modeling an entire environment.
-
-Happy 3D modeling!
 
 <details><summary>
 
