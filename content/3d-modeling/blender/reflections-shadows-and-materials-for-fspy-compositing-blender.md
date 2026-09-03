@@ -1,7 +1,7 @@
 ---
 title: Reflections and Shadows for Compositing 3D Models into Camera Projected 2D Photos
 date: 2024-08-30T13:43:34
-lastmod: 2026-09-03T06:41:55-04:00
+lastmod: 2026-09-03T07:40:44-04:00
 ---
 
 <div class="video-grid">
@@ -9,6 +9,168 @@ lastmod: 2026-09-03T06:41:55-04:00
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/BSqLLKbcd24?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
+
+## Camera Projection in Blender for Reflections, Shadows, and Photo Compositing
+
+Camera projection lets you use a perspective-matched photograph as part of a simple 3D environment in Blender. This is useful when you want to place a 3D object into a specific photo and need believable reflections and shadows without rebuilding the entire location.
+
+In this example, the original brick alley photograph has already been perspective matched with fSpy. Simple wall and ground geometry lines up with the photo when viewed through the imported fSpy camera.
+
+The goal is to project the photograph onto that geometry, use it for reflections, create a shadow catcher, and then composite the final 3D render back over the original image.
+
+### 1. Add the Photo to the Walls
+
+1. Select the wall geometry and create a new material called Walls.
+2. Replace the Principled BSDF with an Emission shader.
+3. an Image Texture and open the same photograph used for the fSpy perspective match. Connect the image color to the Emission color.
+4. Switch to Material Preview. The texture will probably look distorted because the correct camera projection has not been set up yet.
+
+### 2 . Add a UV Project Modifier
+
+With the walls selected:
+
+1. Add a UV Project modifier.
+2. Select the default UV map.
+3. Set the projection object to the imported fSpy camera.
+
+The photograph is now projected from the perspective of the original camera.
+
+### 3. Add More Geometry
+
+The projection needs enough geometry to calculate correctly.
+
+1. Add a Subdivision Surface modifier and change the subdivision method from Catmull-Clark to Simple.
+2. Increase the subdivision level to about 6.
+3. Move the Subdivision Surface modifier above the UV Project modifier.
+4. The geometry is subdivided first, and then the camera projection is applied.
+
+### 4. Fix the Image Aspect Ratio
+
+The UV Project modifier may assume the photograph is square.
+
+1. Check the dimensions of your original image and enter the correct aspect ratio.
+2. The example photograph is:
+3. 4032 × 2268 pixels
+
+Once the correct dimensions are entered, the projection should line up with the photograph when viewed through the fSpy camera. The texture may look strange when you orbit away from the camera. That is normal for camera projection.
+
+### 5. Use Cycles for Reflections
+
+Switch to Rendered Preview and change the render engine to Cycles. Reflective objects should now begin picking up the projected brick walls. If the photograph repeats outside its boundaries, fix that in the wall material.
+
+### 6. Stop the Texture from Repeating
+
+1. Open the Shading workspace.
+2. Add:
+   - A Mix Shader
+   - A Transparent BSDF
+3. Connect the Transparent shader to the first Mix Shader input and the Emission shader to the second.
+4. Connect the Image Texture Alpha output to the Mix Shader factor.
+5. Connect the Mix Shader to the Material Output.
+6. On the Image Texture node, change the extension setting from Repeat to Clip.
+7. This prevents unwanted copies of the photograph from appearing outside the projected image.
+
+### 7. Add an HDRI for the Missing Environment
+
+The photograph only covers part of the environment, so areas such as the sky may be missing from reflections.
+
+1. Go to the World properties and add an Environment Texture.
+2. Open an HDRI with lighting similar to the original photograph. In this example, a cloudy HDRI from Poly Haven is used.
+
+It does not need to match perfectly. The projected photograph provides the nearby environment while the HDRI fills in the missing surroundings.
+
+### 8. Separate the Ground
+
+The wall material is emissive, so it will not work well for receiving shadows.
+
+Select the wall object and enter Edit Mode.
+
+Switch to Face Select mode and select the ground faces.
+
+Right-click and choose:
+
+Separate > Selection
+
+Return to Object Mode and rename the new object Ground.
+
+9. Create a Ground Material
+
+The new Ground object still shares the wall material.
+
+Duplicate the material so changes to the ground do not affect the walls.
+
+Rename the duplicated material Ground.
+
+Delete the Emission shader and replace it with a Diffuse BSDF.
+
+Reconnect the projected image to the Diffuse shader.
+
+The ground can now receive a shadow from your 3D object.
+
+10. Disable Shadows from the Walls
+
+Select the Walls object.
+
+In the Cycles visibility settings, disable Shadow visibility.
+
+This keeps the simple wall geometry from casting unwanted shadows onto the ground.
+
+11. Hide the Walls from the Camera
+
+With the Walls object selected, disable Camera visibility.
+
+The walls disappear from the rendered image but can still contribute reflections to your 3D object.
+
+This lets us use the original photograph as the final background instead of rendering the projected geometry directly.
+
+12. Turn the Ground into a Shadow Catcher
+
+Select the Ground object and enable Shadow Catcher.
+
+The ground becomes invisible while preserving the shadow cast by the 3D object.
+
+Now the render contains the object and its shadow without displaying the temporary projection geometry.
+
+13. Make the Background Transparent
+
+Go to the Render properties.
+
+Under Film, enable Transparent.
+
+The HDRI will continue contributing lighting and reflections, but it will no longer appear directly behind the object.
+
+14. Composite the Original Photograph
+
+Open the Compositing workspace and enable Use Nodes.
+
+Add a Viewer node so you can preview the result.
+
+Connect the Render Layers image to the Viewer.
+
+Next, add an Image node and open the original photograph used for the fSpy perspective match.
+
+15. Add an Alpha Over Node
+
+Add an Alpha Over node.
+
+Connect:
+
+1. The original photograph to the top image input.
+2. The Render Layers image to the bottom image input.
+
+Connect the Alpha Over output to the Viewer and Composite nodes.
+
+The final image now uses the original high-quality photograph as the background while preserving the reflections and shadows generated by the 3D environment.
+
+Final Result
+
+This workflow creates a simple pseudo-HDR environment from a single perspective-matched photograph.
+
+The camera-projected geometry provides reflections, the HDRI fills in missing environmental information, the shadow catcher creates contact with the ground, and Blender’s compositor places everything back over the original photograph.
+
+It is a fast way to create believable site-specific 3D mockups without modeling an entire environment.
+
+Happy 3D modeling!
 
 <details><summary>
 
