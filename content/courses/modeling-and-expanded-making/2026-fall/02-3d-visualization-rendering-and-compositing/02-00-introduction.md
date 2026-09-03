@@ -1,7 +1,7 @@
 ---
 title: 02.00 Introduction
 date: 2026-09-03T09:00:00-04:00
-lastmod: 2026-09-03T06:46:26-04:00
+lastmod: 2026-09-03T07:42:01-04:00
 ---
 
 ## Overview
@@ -12,7 +12,9 @@ Ideation sketches, mockups, prototypes, proposals, and preliminary designs can a
 
 ## Learning Objectives
 
-- Install [Simple Camera Reversal - Perspective Match Blender Addon](https://github.com/Witty-Ming/Simple-Camera-Reversal)Install fSpy photo matching software
+- Install [Simple Camera Reversal - Perspective Match Blender Addon](https://github.com/Witty-Ming/Simple-Camera-Reversal)
+- Install fSpy photo matching software
+- Install [Pin Solver](https://extensions.blender.org/add-ons/pin-solver/) Blender Addon
 - Use 1 point, 2 point, and 3 point perspective to match photo perspective
 - Use Blender or Maya to create a basic 3D model from a photo match
 - Project textures from photo onto a 3D model
