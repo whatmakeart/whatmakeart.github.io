@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2026-09-03T09:00:00-04:00
-lastmod: 2026-09-03T06:19:08-04:00
+lastmod: 2026-09-03T11:14:59-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -26,18 +26,32 @@ This assignment is designed to help you develop skills in using fSpy, [Blender](
    - A photo of an outdoor location where public art might be installed. This photo should be taken by you.
    - A photo of an indoor gallery or public indoor space (e.g., a museum lobby, a large hall, or a gallery space). This photo should be taken by you.
    - A screen shot from Google Street View to choose a location in a distant city or country for a potential public art installation.
-2. Use Photoshop tools and generative fill to remove unwanted elements from the photos and correct levels and [white balance](../../../../software/adobe-photoshop/white-balance-quick-photoshop-tutorial.md) as needed.
+2. Use Photoshop tools and generative fill to remove unwanted elements from the photos and correct levels and [white balance](../../../../software/adobe-photoshop/white-balance-quick-photoshop-tutorial.md) as needed. Do not change the resolution or crop the photo.
+3. Keep a copy of the original photo without any modifications for perspective matching
 
-### Photo Match with fSpy and Blender Render
+### Photo Perspective Match in Blender
 
-1. Import each image into fSpy to set up the correct camera perspective
-   - [Photo Matching with fSpy](../../../../3d-modeling/photo-perspective-matching-with-fspy.md)
-2. Import the fSpy file into Blender with the fSpy Blender Addon.
-   - [Place 3D Model in 2D Photo Blender](../../../../3d-modeling/blender/place-3d-model-in-2d-photo-blender-fspy.md)
-3. Append or insert the 3D models of your modular form arrangements from the previous assignment.
-   - [Import obj into Blender](https://youtu.be/JG1msAX7PFo)
-   - [Reconnect Textures in Blender](https://youtu.be/t5ayHdRapCw)
-4. Scale and position the 3D models within the Blender scene to simulate how they would look as large-scale sculptures in the real-world environment.
+Use One of the Following Methods to Perspective Match Photos and Composite 3D Models into the image.
+
+#### Simple Camera Reversal Perspective Match
+
+Simple Camera Reversal Addon allows for perspective matching of photos directly in Blender.
+
+1. Install the Simple Camera Reversal Perspective Match Addon [Github Repository](https://github.com/Witty-Ming/Simple-Camera-Reversal)
+2. Select the camera in Blender.
+3. Add a background image to the camera.
+4. Uses the Simple Camera Reversal Tool to Draw Perspective lines on the background image.
+
+#### Adobe Substance 3D Stager
+
+The assignment can be completed using Adobe Substance 3D Stager.
+
+- [Street View 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/e8iiHMe5mCQ)
+- [Interior Scene 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/3PGf4lv7i84)
+- [Exterior Scene 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/H1xpa2vYvx8)
+- [Set Scene Scale in Adobe Substance 3D Stager](https://youtu.be/XlGehCSkZ-o)
+- [Export Material, Object and Depth Masks from 3D Stager to Photoshop](https://youtu.be/V6QnXeIPQ28)
+- [Create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc)
 
 ### Texture and Lighting
 
@@ -62,17 +76,6 @@ This assignment is designed to help you develop skills in using fSpy, [Blender](
 - Blender units default to meters while Adobe Substance 3D Stager defaults to centimeters. For real world scale in Substance Stager [change the export scale in Blender](https://youtu.be/6bg3M0-8MvE) to 100 to export in centimeters.
 
 ### Guides
-
-#### Adobe Substance 3D Stager
-
-The assignment can be completed using Adobe Substance 3D Stager.
-
-- [Street View 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/e8iiHMe5mCQ)
-- [Interior Scene 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/3PGf4lv7i84)
-- [Exterior Scene 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/H1xpa2vYvx8)
-- [Set Scene Scale in Adobe Substance 3D Stager](https://youtu.be/XlGehCSkZ-o)
-- [Export Material, Object and Depth Masks from 3D Stager to Photoshop](https://youtu.be/V6QnXeIPQ28)
-- [Create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc)
 
 #### Blender and fSpy
 
