@@ -1,7 +1,7 @@
 ---
 title: 01.06 Photogrammetry Capture Assignment
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-30T08:19:41-04:00
+lastmod: 2026-09-03T05:38:46-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -18,6 +18,8 @@ canvas_mobile_fallback: true
 
 Each `ZIP` should include the exported 3D model and any required texture/material files, one reference photograph, two screenshots of the completed scan, and a brief capture note.
 
+_Note: You can upload a single `.zip` archive of all your files labeled inside the archive for easier submission to Canvas._
+
 ## Assignment Overview
 
 In class, you used photogrammetry to turn a physical object into a digital 3D asset. For this assignment, make three additional scans that explore different capture situations including, interior architecture, exterior architecture, and a complete rigid object.
@@ -28,7 +30,7 @@ Your interior and exterior scans may be used as environments during our upcoming
 
 RealityScan Mobile is recommended because it is the workflow demonstrated in class. You may use other photogrammetry software, but you are responsible for troubleshooting workflows that have not been demonstrated.
 
-## 1. Interior Capture
+### 1. Interior Capture
 
 Capture an interior wall or manageable section of a space.
 
@@ -40,7 +42,7 @@ Unlike an object scan, move **across the architectural surface** rather than orb
 
 For virtual production, consider choosing a location where a person could plausibly appear in front of the captured environment.
 
-## 2. Exterior Capture
+### 2. Exterior Capture
 
 Capture an exterior wall or manageable architectural section.
 
@@ -50,7 +52,7 @@ Again, you do not need to capture an entire building. Stay close enough to recor
 
 Pay attention to changing sunlight, reflections, moving people or vehicles, and vegetation, all of which can make reconstruction more difficult.
 
-## 3. Object Masking + Flip Mode
+### 3. Object Masking + Flip Mode
 
 Choose a **new rigid object** that you did not scan during the in-class Reality Glitch exercise.
 
@@ -62,7 +64,7 @@ Choose something that maintains the same shape when moved. Avoid loose fabric, f
 
 [RealityScan Object Capture Tutorial](https://youtu.be/tBc4yoMWaSM)
 
-## Capture Quality
+### Capture Quality
 
 For all three scans, maintain substantial image overlap, move the camera through space, capture multiple heights and angles, keep images sharp, maintain reasonably consistent lighting, and choose subjects with enough visible detail for the software to track.
 
@@ -72,7 +74,7 @@ A scan does **not** need to be perfect. Holes, warped geometry, missing surfaces
 
 Refer to the [Photogrammetry](../../../../3d-modeling/photogrammetry.md) guide for additional capture information.
 
-## Export and Submission
+### Export and Submission
 
 Export a practical, textured version of each model.
 

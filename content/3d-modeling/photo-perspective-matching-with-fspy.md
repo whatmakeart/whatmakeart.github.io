@@ -1,7 +1,7 @@
 ---
 title: Photo Matching with fSpy
 date: 2024-08-20T13:54:16-04:00
-lastmod: 2026-01-04T07:55:26-04:00
+lastmod: 2026-09-03T06:47:37-04:00
 aliaes:
   - /3d-modeling/photo-matching-with-fspy/
 ---
@@ -10,7 +10,6 @@ fSpy is a perspective and camera matching program. It is an open source program 
 
 - [Install fSpy](install-fspy.md)
 - [fSpy Blender Addon Link](https://github.com/stuffmatic/fSpy-Blender)
-- [How to Install fSpy Importer Blender Add-on](https://youtu.be/1HOqnb1Uji4)
 - [fSpy importer for Maya](https://github.com/Nathanieljla/fSpy-Maya)
 
 ## Video Guides
@@ -23,6 +22,15 @@ fSpy is a perspective and camera matching program. It is an open source program 
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7pgDrQzThH0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### [How to Install fSpy Importer Blender Add-on](https://youtu.be/1HOqnb1Uji4)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/1HOqnb1Uji4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -44,3 +52,5 @@ fSpy is a perspective and camera matching program. It is an open source program 
 </div>
 
 </div>
+
+![Link to included file contents](../../../../3d-modeling/blender/place-3d-model-in-2d-photo-blender-fspy.md)

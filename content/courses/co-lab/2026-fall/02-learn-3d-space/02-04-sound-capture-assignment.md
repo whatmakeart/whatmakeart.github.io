@@ -1,7 +1,8 @@
 ---
 title: 02.04 Sound Capture Assignment
 date: 2026-09-02T12:00:00-04:00
-lastmod: 2026-09-02T15:50:19-04:00
+lastmod: 2026-09-03T06:47:37-04:00
+canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables

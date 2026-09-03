@@ -1,7 +1,7 @@
 ---
 title: HDRI Background - Blender
 date: 2023-04-26T8:30:00-04:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-09-03T06:47:20-04:00
 description: How to add an HDRI background environment texture to your Blender 3D modeling scenes.
 featured_image: /3d-modeling/blender/attachments/blender-hdri-background.jpg
 tags:
@@ -25,7 +25,7 @@ tags:
 
 HDRIs are a great way to add a photorealistic look to your [Blender](blender.md) renders, and they can also be used to create interesting lighting effects. Start by creating a new scene and adding a cube to the scene. Then, add an HDRI to the background using the World settings.
 
-## Instructions
+### Instructions
 
 1. Open Blender.
 2. Create a new scene.
@@ -34,13 +34,13 @@ HDRIs are a great way to add a photorealistic look to your [Blender](blender.md)
 5. The HDRI will now be applied to the background of the scene.
 6. To change the direction of the lighting [rotate the HDRI](rotate-hdri-blender.md)
 
-## Tips
+### Tips
 
 - Use the lowest resolution HDRI image for the level of detail needed in the scene to keep render times low.
 - Experiment with different HDRI image files to create different looks for your scenes.
 - Use this technique to add realistic and interesting HDRI backgrounds to your renders.
 
-### HDRI Sources
+#### HDRI Sources
 
 - [Polyhaven](https://polyhaven.com/hdris) is the place for Creative Commons Zero HDRI images.
 - [BlenderKit](../blender/install-blenderkit-blender.md)
