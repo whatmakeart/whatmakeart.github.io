@@ -1,12 +1,16 @@
 ---
 title: 00.01 Course Resources
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-05-06T10:07:29-04:00
+lastmod: 2026-09-04T12:05:00-04:00
 ---
 
 ## Sketching
 
 - [Ideation Sketches](../../../../drawing/ideation-sketches.md)
+
+## Mechanical Motion References
+
+- [507 Mechanical Movements](https://507movements.com/mm_093.html)
 
 ## Modeling Guides
 

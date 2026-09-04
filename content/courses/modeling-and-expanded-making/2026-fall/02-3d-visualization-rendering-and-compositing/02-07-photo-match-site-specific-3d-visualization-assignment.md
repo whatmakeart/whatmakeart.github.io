@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2026-09-03T09:00:00-04:00
-lastmod: 2026-09-03T11:14:59-04:00
+lastmod: 2026-09-04T13:07:11-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -20,18 +20,18 @@ This assignment is designed to help you develop skills in using fSpy, [Blender](
 
 ## Instructions
 
-### Collect Photos
+### 1. Collect Site Photos
 
-1. Choose three different potential sites for public art installation:
+1. Choose three different potential sites for a public art installation:
    - A photo of an outdoor location where public art might be installed. This photo should be taken by you.
    - A photo of an indoor gallery or public indoor space (e.g., a museum lobby, a large hall, or a gallery space). This photo should be taken by you.
    - A screen shot from Google Street View to choose a location in a distant city or country for a potential public art installation.
 2. Use Photoshop tools and generative fill to remove unwanted elements from the photos and correct levels and [white balance](../../../../software/adobe-photoshop/white-balance-quick-photoshop-tutorial.md) as needed. Do not change the resolution or crop the photo.
 3. Keep a copy of the original photo without any modifications for perspective matching
 
-### Photo Perspective Match in Blender
+### 2. Photo Perspective Match
 
-Use One of the Following Methods to Perspective Match Photos and Composite 3D Models into the image.
+Use One of the following methods to Perspective Match Photos and Composite 3D Models into the image.
 
 #### Simple Camera Reversal Perspective Match
 
