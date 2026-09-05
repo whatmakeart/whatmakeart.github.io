@@ -1,13 +1,13 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2026-09-03T09:00:00-04:00
-lastmod: 2026-09-05T10:36:56-04:00
+lastmod: 2026-09-05T11:01:52-04:00
 canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables
 
-1. Rendered export of composite image of 3D model in outdoor or indoor location.
+1. Rendered export of composite image of 3D object in outdoor or indoor location.
    - Label file YYYY-MM-DD Lastname Firstname 3D Composite Render (`.jpg`, `.png`)
 2. Blender file with matched photo, 3d object, compositor nodes, with all resources packed
    - Label file YYYY-MM-DD Lastname Firstname 3D Composite (`.blend`)
@@ -16,17 +16,19 @@ _Note: You can upload a single `.zip` archive of all your files labeled inside t
 
 ## Overview
 
-This assignment is designed to help you develop skills using perspective matching in [Blender](../../../../3d-modeling/blender/blender.md) to create realistic visualizations of potential public art installations. You will learn how to photo match images for outdoor public spaces or indoor gallery environments using perspective matching tools and use your previous photogrammetry or 3D scanned 3D model as large-scale sculptures. The goal is to understand site context and how your sculptures interact with the potential environment. You may use any 3D model of your own creation as the sculpture representation.
+This assignment is designed to help you develop skills using perspective matching in [Blender](../../../../3d-modeling/blender/blender.md) to create realistic visualizations of potential public art installations. You will match an image of an outdoor public space, or indoor gallery environment using perspective matching tools. Then place a 3D sculpture into the photographed environment at a believable scale, recreate important scene geometry and lighting, and composite the rendered object into the original photograph. You may use any 3D model of your own creation as the sculpture representation.
+
+The final image should function as a convincing proposal for how a sculpture could exist at a specific location. Pay particular attention to perspective, scale, contact shadows, occlusion, lighting direction, color, contrast, and image sharpness.
 
 ## Instructions
 
-### 1. Collect Site Photos
+### 1. Collect Site Photo
 
-1. Choose potential sites for a public art installation:
+1. Choose one site for your final visualization:
    - A photo of an outdoor location where public art might be installed. This photo should be taken by you.
    - A photo of an indoor gallery or public indoor space (e.g., a museum lobby, a large hall, or a gallery space). This photo should be taken by you.
-   - A screen shot from Google Street View to choose a location in a distant city or country for a potential public art installation.
-2. Use Photoshop tools and generative fill to remove unwanted elements from the photos and correct levels and [white balance](../../../../software/adobe-photoshop/white-balance-quick-photoshop-tutorial.md) as needed. Do not change the resolution or crop the photo.
+   - A screenshot from Google Street View to choose a location in a distant city or country for a potential public art installation.
+2. Use Photoshop tools and generative fill as needed to remove unwanted elements from the photo and correct levels and [white balance](../../../../software/adobe-photoshop/white-balance-quick-photoshop-tutorial.md) as needed. Do not change the resolution or crop the photo.
 3. Keep a copy of the original photo without any modifications for perspective matching
 
 ### 2. Photo Perspective Match
@@ -51,9 +53,9 @@ Simple Camera Reversal Addon allows for perspective matching of photos directly 
 
 [Simple Camera Reversal - Perspective Match Blender Addon](https://github.com/Witty-Ming/Simple-Camera-Reversal)
 
-### Blender Modeling, Texturing and Lighting
+### 3. Blender Modeling, Texturing and Lighting
 
-1. [Build shadow-catching scene geometry](https://www.youtube.com/watch?v=q9U0xGSFKTI&t=412s)
+1. [Build simple scene geometry as needed for shadows, occlusion, or photo projection](https://www.youtube.com/watch?v=q9U0xGSFKTI&t=412s)
 2. [Project the photo onto 3D geometry](https://www.youtube.com/watch?v=q9U0xGSFKTI&t=519s)
 3. [Import and position a 3D object](https://www.youtube.com/watch?v=q9U0xGSFKTI&t=585s)
 4. [Set up Cycles render engine and shadow catchers](https://www.youtube.com/watch?v=q9U0xGSFKTI&t=643s)
@@ -65,14 +67,31 @@ Simple Camera Reversal Addon allows for perspective matching of photos directly 
 10. [Match exposure and color](https://www.youtube.com/watch?v=q9U0xGSFKTI&t=996s)
 11. [Add blur to match the photograph](https://www.youtube.com/watch?v=q9U0xGSFKTI&t=1030s)
 12. [Add sensor noise for realism](https://www.youtube.com/watch?v=q9U0xGSFKTI&t=1100s)
-13. [Render and export an image](https://www.youtube.com/watch?v=q9U0xGSFKTI&t=1134s) _Remember to change the output scale back to 100% in the output menu and in the Compositor in Blender_
+
+### 4. Evaluate the Final Composite
+
+Consider the following before accepting the final render.
+
+- Does the perspective match the photograph?
+- Is the sculpture a believable physical size?
+- Does it appear firmly connected to the ground?
+- Do shadows travel in the correct direction?
+- Do foreground objects correctly pass in front of the sculpture when necessary?
+- Does the sculpture have similar contrast, color, sharpness, and noise to the photograph?
+- Does the final image read as a plausible site-specific installation proposal?
+
+### 5. Render and Export
+
+1. Render the final composite at the original image resolution and export it as a `.jpg` or `.png`.
+2. [Render and export an image](https://www.youtube.com/watch?v=q9U0xGSFKTI&t=1134s) _Remember to return both the Output Properties resolution percentage and any compositor scaling used during test renders to 100% before creating the final image._
 
 ## Assignment Resources
 
 ### Notes
 
-- Pay close attention to scale when placing your 3D models in the scene.
-- Experiment with different lighting setups to see how they impact the interaction between your sculpture and its environment.
+- Scale is particularly important. Use architectural features, doors, furniture, people, paving units, or other recognizable objects in the photograph to estimate real-world dimensions.
+- You do not need to model the entire photographed environment. Only create geometry necessary for shadows, contact, occlusion, reflections, or other interactions with the sculpture.
+- A simple lighting setup that accurately matches the photograph is more successful than a complicated lighting setup that does not.
 
 ### Video Guides
 
@@ -138,12 +157,12 @@ Simple Camera Reversal Addon allows for perspective matching of photos directly 
 
 <div class="responsive-table-markdown">
 
-| Objective                             | Points |
-| ------------------------------------- | ------ |
-| Perspective Match of Photo in Blender | 25     |
-| 3D object Added to Blender Scene      | 20     |
-| Use of Compositor Nodes in Blender    | 25     |
-| Exported Render Image                 | 20     |
-| File Management and Labeling          | 10     |
+| Objective                                      | Points |
+| ---------------------------------------------- | ------ |
+| Perspective Match of Photo in Blender          | 25     |
+| 3D Object Placement, Scale, and Orientation    | 20     |
+| Lighting, Shadows, and Compositing Integration | 25     |
+| Quality of Final Render Image                  | 20     |
+| File Management and Labeling                   | 10     |
 
 </div>
