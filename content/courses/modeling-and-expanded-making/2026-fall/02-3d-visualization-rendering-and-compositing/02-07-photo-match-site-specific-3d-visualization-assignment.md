@@ -1,28 +1,28 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2026-09-03T09:00:00-04:00
-lastmod: 2026-09-04T13:07:11-04:00
+lastmod: 2026-09-05T10:07:13-04:00
 canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables
 
-1. Composite image of 3D model in outdoor location. (`.jpg`, `.png`)
-   - Label file YYYY-MM-DD Lastname Firstname 3D Composite outdoor
-2. Composite image of 3D model in indoor location. (`.jpg`, `.png`)
-   - Label file YYYY-MM-DD Lastname Firstname 3D Composite indoor
-3. Composite image of 3D model in location from Google Street View. (`.jpg`, `.png`)
-   - Label file YYYY-MM-DD Lastname Firstname 3D Composite street view
+1. Rendered export of composite image of 3D model in outdoor or indoor location.
+   - Label file YYYY-MM-DD Lastname Firstname 3D Composite Render (`.jpg`, `.png`)
+2. Blender file with matched photo, 3d object, compositor nodes, with all resources packed
+   - Label file YYYY-MM-DD Lastname Firstname 3D Composite (`.blend`)
+
+_Note: You can upload a single `.zip` archive of all your files labeled inside the archive for easier submission to Canvas._
 
 ## Overview
 
-This assignment is designed to help you develop skills in using fSpy, [Blender](../../../../3d-modeling/blender/blender.md), [Photoshop](../../../../software/adobe-photoshop/photoshop.md), Adobe Substance 3D Stager, and Google Street View to create realistic visualizations of potential public art installations. You will learn how to photo match images for outdoor public spaces or indoor gallery environments using fSpy and utilize your previous modular form 3d model arrangements as large-scale sculptures. The goal is to understand site context and how your sculptures interact with the potential environment.
+This assignment is designed to help you develop skills using perspective matching in [Blender](../../../../3d-modeling/blender/blender.md) to create realistic visualizations of potential public art installations. You will learn how to photo match images for outdoor public spaces or indoor gallery environments using perspective matching tools and use your previous photogrammetry or 3D scanned 3D model as large-scale sculptures. The goal is to understand site context and how your sculptures interact with the potential environment. You may use any 3D model of your own creation as the sculpture representation.
 
 ## Instructions
 
 ### 1. Collect Site Photos
 
-1. Choose three different potential sites for a public art installation:
+1. Choose potential sites for a public art installation:
    - A photo of an outdoor location where public art might be installed. This photo should be taken by you.
    - A photo of an indoor gallery or public indoor space (e.g., a museum lobby, a large hall, or a gallery space). This photo should be taken by you.
    - A screen shot from Google Street View to choose a location in a distant city or country for a potential public art installation.
@@ -30,8 +30,6 @@ This assignment is designed to help you develop skills in using fSpy, [Blender](
 3. Keep a copy of the original photo without any modifications for perspective matching
 
 ### 2. Photo Perspective Match
-
-Use One of the following methods to Perspective Match Photos and Composite 3D Models into the image.
 
 #### Simple Camera Reversal Perspective Match
 
@@ -42,23 +40,21 @@ Simple Camera Reversal Addon allows for perspective matching of photos directly 
 3. Add a background image to the camera.
 4. Uses the Simple Camera Reversal Tool to Draw Perspective lines on the background image.
 
-#### Adobe Substance 3D Stager
+<div class="video-grid">
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/q9U0xGSFKTI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
-The assignment can be completed using Adobe Substance 3D Stager.
-
-- [Street View 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/e8iiHMe5mCQ)
-- [Interior Scene 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/3PGf4lv7i84)
-- [Exterior Scene 3D Model Render Composite Adobe Substance 3D Stager](https://youtu.be/H1xpa2vYvx8)
-- [Set Scene Scale in Adobe Substance 3D Stager](https://youtu.be/XlGehCSkZ-o)
-- [Export Material, Object and Depth Masks from 3D Stager to Photoshop](https://youtu.be/V6QnXeIPQ28)
-- [Create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc)
+[Simple Camera Reversal - Perspective Match Blender Addon](https://github.com/Witty-Ming/Simple-Camera-Reversal)
 
 ### Texture and Lighting
 
 1. Apply the scene textures from your reference image onto simple 3D geometry that matches the scene (e.g., ground planes or building facades).
-2. Create an emissive texture using the image texture to simulate a pseudo HDRI lighting setup. This will allow your sculpture to reflect the colors and light from the environment.
-3. Adjust lighting and shadow settings to match the scene's natural light conditions (e.g., sunlight for outdoor, gallery lighting for indoor). Pay attention to the size, shape, height, and falloff of the lights so they match the existing lights in the background photo.
-4. Use HDRIs for the sky for outdoor images. You can [create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc) in Adobe Substance 3D Stager.
+2. Create an a material using the site photo as its base color. This will allow your sculpture to reflect the colors and light from the environment.
+3. Add a UV Project and simple Subdivision Surface Modifier to the place holder geometry.
+4. Use the compositor in Blender to adjust lighting and shadow settings to match the scene's natural light conditions (e.g., sunlight for outdoor, gallery lighting for indoor). Pay attention to the size, shape, height, and falloff of the lights so they match the existing lights in the background photo.
+5. Use HDRIs for the sky for outdoor images. You can [create an HDRI from a photo](https://youtu.be/Co9qokfI_Mc) in Adobe Substance 3D Stager.
 
 ### Rendering:
 
@@ -77,99 +73,47 @@ The assignment can be completed using Adobe Substance 3D Stager.
 
 ### Guides
 
-#### Blender and fSpy
-
-- [HDRI Background Blender](../../../../3d-modeling/blender/hdri-background-blender.md)
-- [Photo Matching with fSpy](../../../../3d-modeling/photo-perspective-matching-with-fspy.md)
-- [Place 3D Model in 2D Photo Blender](../../../../3d-modeling/blender/place-3d-model-in-2d-photo-blender-fspy.md)
-- [Reflections, Shadows, and Materials for fSpy Compositing](../../../../3d-modeling/blender/reflections-shadows-and-materials-for-fspy-compositing-blender.md)
-- [How to Rotate HDRI Environment Texture](../../../../3d-modeling/blender/rotate-hdri-blender.md)
-
 #### Blender OBJ Handling
 
 - [Import OBJ in Blender](https://youtu.be/JG1msAX7PFo)
 - [Fix Broken Texture Links in Blender](https://youtu.be/t5ayHdRapCw)
-- [Blender Export Unit Scale](https://youtu.be/6bg3M0-8MvE)
 
-### Video Guides for fSpy and Blender
+### Video Guides
 
 <div class="video-grid">
 
 <div class="video-card">
 
-#### Match Perspective with fSpy
+#### [Simple Camera Reversal Perspective Match Blender Addon](../../../../3d-modeling/blender/simple-camera-reversal-perspective-match-blender-addon.md)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/7pgDrQzThH0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/q9U0xGSFKTI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div class="video-card">
+
+#### [HDRI Background - Blender](../../../../3d-modeling/blender/hdri-background-blender.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/VaGfn4i5dKQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="video-card">
 
-#### How to Place 3D Models in 2D Photos
+#### [HDRI Background - Blender](../../../../3d-modeling/blender/hdri-background-blender.md)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/qBePDl2l2hI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/k-moDmBUrrI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="video-card">
 
-#### 3D Models in 2D Photos with Shadows and Reflection in Blender
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/BSqLLKbcd24?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-#### How to Rotate an HDRI Environment Texture in Blender
+#### [Rotate HDRI in Blender](../../../../3d-modeling/blender/rotate-hdri-blender.md)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/B013GO9Xy1o?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-</div>
-
-### Video Guides for Adobe Substance 3D Stager
-
-<div class="video-grid">
-
-<div class="video-card">
-
-#### Street View 3D Model Photo Composite Rendering in Adobe Substance 3D Stager
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/e8iiHMe5mCQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-#### Interior Scene 3D Model Render Composite Adobe Substance 3D Stager
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/3PGf4lv7i84?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-#### Exterior Scene 3D Model Render Composite Adobe Substance 3D Stager
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/H1xpa2vYvx8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
-<div class="video-card">
-
-#### Material, Object and Depth Masks from 3D Stager to Photoshop
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/V6QnXeIPQ28?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -179,17 +123,12 @@ The assignment can be completed using Adobe Substance 3D Stager.
 
 <div class="responsive-table-markdown">
 
-| Objective                                 | Points |
-| ----------------------------------------- | ------ |
-| Perspective match of outdoor photo        | 10     |
-| Reflections and shadows outdoor photo     | 10     |
-| 3D Model composite in outdoor photo       | 10     |
-| Perspective match of indoor photo         | 10     |
-| Reflections and shadows indoor photo      | 10     |
-| 3D Model composite in indoor photo        | 10     |
-| Perspective match of Street View photo    | 10     |
-| Reflections and shadows Street View photo | 10     |
-| 3D Model composite in Street View photo   | 10     |
-| File Management and Labeling              | 10     |
+| Objective                             | Points |
+| ------------------------------------- | ------ |
+| Perspective Match of Photo in Blender | 25     |
+| 3D object Added to Blender Scene      | 20     |
+| Use of Compositor Nodes in Blender    | 25     |
+| Exported Render Image                 | 20     |
+| File Management and Labeling          | 10     |
 
 </div>
