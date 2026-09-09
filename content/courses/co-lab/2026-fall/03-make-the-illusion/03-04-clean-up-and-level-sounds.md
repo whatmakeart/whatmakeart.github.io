@@ -1,8 +1,28 @@
 ---
 title: 03.04 Clean Up and Level Sounds
 date: 2026-09-09T12:00:00-04:00
-lastmod: 2026-09-09T07:39:22-04:00
+lastmod: 2026-09-09T11:41:28-04:00
 ---
+
+## Fix Clipped Audio
+
+<div class="video-grid">
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/p4JEaFdb9CY?rel=0" title="Photogrammetry with Adobe Substance 3D Sampler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+[Adobe Audition DeClipper](https://youtu.be/p4JEaFdb9CY)
+
+## Trim Ends of Audio to Silence
+
+<div class="video-grid">
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/D1hk6zSOsUQ?rel=0" title="Photogrammetry with Adobe Substance 3D Sampler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+[Trim Ends of Audio to Silence](https://youtu.be/D1hk6zSOsUQ)
 
 ## Single Band Compressor
 
