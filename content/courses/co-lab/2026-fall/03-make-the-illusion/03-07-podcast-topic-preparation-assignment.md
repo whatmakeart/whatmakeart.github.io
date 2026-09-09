@@ -1,7 +1,7 @@
 ---
 title: 03.07 Podcast Topic Preparation Assignment
 date: 2026-09-09T12:00:00-04:00
-lastmod: 2026-09-09T17:34:46-04:00
+lastmod: 2026-09-09T17:39:29-04:00
 ---
 
 ## Assignment Deliverables
@@ -57,3 +57,17 @@ For each topic you can a short bulleted script outline including:
 - how the conversation might conclude
 
 Do not to predict what will be said. Use the outline and description to provide enough structure to support a natural conversation.
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Objective                            | Points |
+| ------------------------------------ | ------ |
+| Topic 1 Complete                     | 25     |
+| Topic 2 Complete                     | 25     |
+| Topic 3 Complete                     | 25     |
+| Demonstrated Consideration of Topics | 15     |
+| File Management and Labeling         | 10     |
+
+</div>
