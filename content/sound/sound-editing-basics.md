@@ -1,7 +1,7 @@
 ---
 title: Sound Editing Basics
 date: 2023-10-04T05:51:44
-lastmod: 2026-09-09T20:10:56-04:00
+lastmod: 2026-09-10T05:23:49-04:00
 ---
 
 ## Make Backup and Archive Before Editing
@@ -11,7 +11,7 @@ It is important to save the original recordings as well as a lossless archive ve
 ## Basic Audio Editing Guide
 
 1. Prepare your audio. Import your audio files into a digital audio software such as Audacity or Adobe Audition and organize them into a project.
-2. Before you start editing, listen to the entire recording carefully to identify any areas that need improvement. This could include unwanted noise, mistakes, or awkward pauses.
+2. Before you start editing, [listen to the entire recording carefully](./listen-and-evealuate-sounds.md) to identify any areas that need improvement. This could include unwanted noise, mistakes, or awkward pauses.
 3. Edit your audio. Use the tools in your software to trim, split, and rearrange your audio clips. You can also apply effects and fades to create a more polished sound.
 4. When trimming audio, be as precise as possible to avoid creating clicks or pops. You can use tools like crossfades and fades to smooth out transitions.
 5. Make sure that all of the different audio elements in your recording are at a balanced volume. You can use a level meter to help you with this.
