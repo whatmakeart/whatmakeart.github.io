@@ -1,7 +1,7 @@
 ---
 title: 02.07 Photo Matching Site Specific 3D Visualization Assignment
 date: 2026-09-03T09:00:00-04:00
-lastmod: 2026-09-05T11:01:52-04:00
+lastmod: 2026-09-10T11:46:03-04:00
 canvas_mobile_fallback: true
 ---
 
