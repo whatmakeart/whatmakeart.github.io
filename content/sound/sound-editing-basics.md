@@ -1,8 +1,12 @@
 ---
 title: Sound Editing Basics
 date: 2023-10-04T05:51:44
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-09-09T20:10:56-04:00
 ---
+
+## Make Backup and Archive Before Editing
+
+It is important to save the original recordings as well as a lossless archive version of audio files before editing them. Editing a lossy audio file and saving it multiple times results in degradation of the audio. [Convert audio files to WAV](./adobe-audition/convert-to-wav-file-adobe-audtion.md) files for archiving and preserving sounds.
 
 ## Basic Audio Editing Guide
 
@@ -24,7 +28,8 @@ lastmod: 2025-12-23T10:12:35-04:00
 
 ## Adobe Audition Tutorials
 
-- [Create new audio file in Adobe Audition](attachments/adobe-audition/create-new-audio-file-adobe-audition.md)
-- [Set audio hardware in Adobe Audition](attachments/adobe-audition/set-audio-hardward-adobe-audition.md)
-- [Record laser sound effect in Adobe Audition](record-laser-sound-effect-adobe-audition.md)
-- [Export mp3 from Adobe Audition](attachments/adobe-audition/export-mp3-adobe-audition.md)
+- [Convert to WAV File Adobe Audition](./adobe-audition/convert-to-wav-file-adobe-audtion.md)
+- [Create new audio file in Adobe Audition](./adobe-audition/create-new-audio-file-adobe-audition.md)
+- [Set audio hardware in Adobe Audition](./adobe-audition/set-audio-hardward-adobe-audition.md)
+- [Record laser sound effect in Adobe Audition](./record-laser-sound-effect-adobe-audition.md)
+- [Export mp3 from Adobe Audition](./adobe-audition/export-mp3-adobe-audition.md)
