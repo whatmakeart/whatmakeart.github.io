@@ -1,7 +1,7 @@
 ---
 title: 03.06 Edit Virtual Production Footage and Add Sound Effects Assignment
 date: 2026-09-09T12:00:00-04:00
-lastmod: 2026-09-11T07:18:07-04:00
+lastmod: 2026-09-12T06:32:10-04:00
 ---
 
 ## Assignment Deliverables
@@ -28,7 +28,7 @@ Each student still turns in the project. The final video may be from the same so
 5. Create a video sequence and add video clips [Create a Sequence in Premiere](https://youtu.be/XuG9Ta6Ze1I)
 6. Trim and edit your clips on the timeline [Trim and Edit Clips in Timeline](https://youtu.be/UhFn-LHRD1g)
 7. Add sound effects <!-- TODO add sound effects Premiere -->
-8. Export a video file with H.264 encoding <!-- TODO export video Premiere -->
+8. Export a video file with H.264 encoding [How to Export Video from Premiere](https://youtu.be/O5KaEQGW0CQ)
 
 ### Assignment Resources
 
@@ -75,6 +75,15 @@ Each student still turns in the project. The final video may be from the same so
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/UhFn-LHRD1g?rel=0" title="Photogrammetry with Adobe Substance 3D Sampler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[How to Export Video from Premiere](https://youtu.be/O5KaEQGW0CQ)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/O5KaEQGW0CQ?rel=0" title="Photogrammetry with Adobe Substance 3D Sampler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
