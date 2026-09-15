@@ -1,7 +1,7 @@
 ---
 title: 00.00 Co/Lab Syllabus
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-23T19:44:57-04:00
+lastmod: 2026-09-15T07:27:44-04:00
 ---
 
 ### Course Information
@@ -65,25 +65,25 @@ Students can respond to somebody else's needs, manage a production, solve proble
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**         | **Topic**                                                                          |
-| -------- | ---------------- | ---------------------------------------------------------------------------------- |
-| 1        | August 26        | [Reality to Data](../01-reality-to-data/01-00-introduction.md) (3D Capture Studio) |
-| 2        | September 2      | 3D Worlds (XR Studio)                                                              |
-| 3        | September 9      | Virtual Production Introduction (XR Studio)                                        |
-| 4        | September 16     | Audio Capture (Recording Studio)                                                   |
-| 5        | September 23     | Motion Capture                                                                     |
-| 6        | September 30     | Asset Capture                                                                      |
-| 7        | October 7        | Environment Building                                                               |
-| 8        | October 14       | Lighting                                                                           |
-| 9        | October 21       | Sound Capture and Editing                                                          |
-| 10       | October 28       | Virtual Production                                                                 |
-| 11       | November 4       | Virtual Production                                                                 |
-| 12       | November 11      | Virtual Production (XR Studio)                                                     |
-| 13       | November 18      | Virtual Production (XR Studio)                                                     |
-| 14       | November 25      | _Thanksgiving Break. No Class. _                                                   |
-| 15       | December 2       | Virtual Production (XR Studio)                                                     |
-| 16       | December 9       | Final Critique                                                                     |
-| 17       | December 14 - 17 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)           |
+| **Week** | **Date**         | **IML Lab**                  | **Topic**                                                                    |
+| -------- | ---------------- | ---------------------------- | ---------------------------------------------------------------------------- |
+| 1        | August 26        | `3D Capture Studio`          | [Reality to Data](../01-reality-to-data/01-00-introduction.md)               |
+| 2        | September 2      | `XR Studio`                  | [Learn 3D Space](../02-learn-3d-space/02-00-introduction.md)                 |
+| 3        | September 9      | `XR Studio`                  | [Make the Illusion](../03-make-the-illusion/03-00-introduction.md)           |
+| 4        | September 16     | `Recording Studio`           | [Sound Studio Recording](../04-sound-studio-recording/04-00-introduction.md) |
+| 5        | September 23     |                              | Motion Capture                                                               |
+| 6        | September 30     |                              | Asset Capture                                                                |
+| 7        | October 7        |                              | Environment Building                                                         |
+| 8        | October 14       |                              | Lighting                                                                     |
+| 9        | October 21       |                              | Sound Capture and Editing                                                    |
+| 10       | October 28       |                              | Virtual Production                                                           |
+| 11       | November 4       |                              | Virtual Production                                                           |
+| 12       | November 11      | `XR Studio`                  | Virtual Production                                                           |
+| 13       | November 18      | `XR Studio`                  | Virtual Production                                                           |
+| 14       | November 25      |                              | _Thanksgiving Break. No Class. _                                             |
+| 15       | December 2       | `XR Studio`                  | Virtual Production                                                           |
+| 16       | December 9       | `Experience and Edit Studio` | Final Critique                                                               |
+| 17       | December 14 - 17 |                              | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)     |
 
 </div>
 

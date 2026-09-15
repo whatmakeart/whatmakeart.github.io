@@ -1,7 +1,7 @@
 ---
 title: Blender
 date: 2023-05-26T02:54:03
-lastmod: 2026-08-25T21:08:30-04:00
+lastmod: 2026-09-15T05:50:01-04:00
 tags:
   - Blender
   - 3D-Modeling
@@ -28,6 +28,14 @@ tags:
 - [Scale Objects](scale-objects-blender.md)
 - [Rotate Objects](rotate-objects-blender.md)
 
+## Blender Importing and Exporting
+
+- [Export USD Universal Scene Description Blender](export-usd-universal-scen-description-blender.md)
+- [Convert GLB to OBJ in Blender](convert-glb-to-obj.md)
+- [Import 3D Head Scan Blender](import-3d-head-scan-blender.md)
+- [Import Artec LEO Scan into Blender](import-artec-leo-scan-to-blender.md)
+- [Export STL Blender](../../digital-fabrication/3d-printing/export-stl-blender.md)
+
 ## Blender Modifiers
 
 - [Flat Bottom with Boolean Intersect Tool in Blender](flat-bottom-3d-scan-boolean-intersect-blender.md)
@@ -43,6 +51,7 @@ tags:
 - [Blender Cloth](cloth-quick-start-tutorial-blender.md)
 - [Blender Fluid Simulation Basics](fluid-simulation-basics-blender.md)
 - [Blender Rigid Body Physics Basics](rigid-body-physics-quick-start-tutorial-blender.md)
+- [3D Scan Clothing to Cloth Simulation Workflows Blender](3d-scan-clothing-to-cloth-simulation-workflows-blender.md)
 
 ## Blender Rendering
 

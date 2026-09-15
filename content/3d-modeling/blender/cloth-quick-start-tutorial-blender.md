@@ -1,6 +1,6 @@
 ---
 date: 2023-04-27T8:30:00-04:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-09-15T07:27:54-04:00
 description: In this Blender tutorial, I'll show you how to get started with cloth simulation. With just a few settings, you can create dynamic and interesting simulations of cloth interacting with other objects.
 featured_image: /3d-modeling/blender/attachments/blender-cloth-quick-start-title.jpg
 tags:
@@ -54,4 +54,4 @@ Here are a few tips for creating better cloth simulations:
 - Use a good lighting setup. A good lighting setup will make your simulation look more realistic.
 - Use a good camera setup. A good camera setup will allow you to capture the best possible view of your simulation.
 
-I hope this tutorial has helped you learn how to create dynamic cloth simulations in Blender.
+[3D Scan Clothing to Cloth Simulation Workflows Blender](3d-scan-clothing-to-cloth-simulation-workflows-blender.md)
