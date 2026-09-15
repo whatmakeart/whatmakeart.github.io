@@ -1,7 +1,7 @@
 ---
 title: 03.06 Sculpture and Expanded Media 212A Room Modeling Exercise Assignment
 date: 2025-09-12T09:30:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-09-15T05:28:36-04:00
 ---
 
 ## Assignment Deliverables
