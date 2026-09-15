@@ -1,13 +1,13 @@
 ---
 title: 03.06 Room Modeling Exercise Assignment
 date: 2026-09-10T09:00:00-04:00
-lastmod: 2026-09-15T05:37:19-04:00
+lastmod: 2026-09-15T17:06:15-04:00
 ---
 
 ## Assignment Deliverables
 
 1. 3D Model file of scale model of a room you can physically measure
-   - Label File YYYY-MM-DD Lastname Firstname room 212A model (`.blend`, `.mb`, `.ma`,)
+   - Label File YYYY-MM-DD Lastname Firstname room model (`.blend`, `.mb`, `.ma`,)
 2. Rendered image of room 1
    - Label Files YYYY-MM-DD Lastname Firstname room render 1 (`.png`, .`jpg`)
 3. Rendered image of room 2
@@ -17,7 +17,7 @@ _Note: You can upload a single `.zip` archive of all your files labeled inside t
 
 ## Overview
 
-Use measurements taken from the physical space, photos, perspective matching, and available floor plans to create and accurate 3D digital model of a room on campus or near campus. Add materials and textures to the elements in the room. [Blenderkit](../../../../3d-modeling/blender/install-blenderkit-blender.md) isa good source of materials, textures, doors, windows, and other 3d objects to use in your room model. If you apply a texture to an object, make sure to UV unwrap it. [Smart UV Project](../../../../3d-modeling/blender/smart-uv-project-blender.md) can quickly unwrap room wall and other meshes in Blender in order to apply textures to the objects.
+Use measurements taken from the physical space, photos, perspective matching, and available floor plans to create and accurate 3D digital model of a room on campus or near campus. Add materials and textures to the elements in the room. [BlenderKit](../../../../3d-modeling/blender/install-blenderkit-blender.md) isa good source of materials, textures, doors, windows, and other 3d objects to use in your room model. If you apply a texture to an object, make sure to UV unwrap it. [Smart UV Project](../../../../3d-modeling/blender/smart-uv-project-blender.md) can quickly unwrap room wall and other meshes in Blender in order to apply textures to the objects.
 
 ## Grading Rubric
 
@@ -26,13 +26,13 @@ Use measurements taken from the physical space, photos, perspective matching, an
 | Objective                     | Points |
 | ----------------------------- | ------ |
 | 3D Model File Uploaded        | 10     |
-| Door Openings Present         | 10     |
+| Door or Hall Openings Present | 10     |
 | Additional Structures Details | 10     |
 | Materials Added               | 15     |
 | Lighting Added to Scene       | 15     |
 | Sculpture or object added     | 10     |
-| Render of room 1              | 10     |
-| Render of room 2              | 10     |
-| File Management               | 10     |
+| Render of Room 1              | 10     |
+| Render of Room 2              | 10     |
+| File Management and Labeling  | 10     |
 
 </div>
