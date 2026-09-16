@@ -1,7 +1,7 @@
 ---
-title: 04.02 Podcast Recording Instructions
+title: 04.02 Podcast Post Production
 date: 2026-09-16T12:00:00-04:00
-lastmod: 2026-09-16T11:53:27-04:00
+lastmod: 2026-09-16T11:56:34-04:00
 ---
 
 Begin with the stereo mix unless you can identify a specific problem that requires the isolated microphone tracks. The stereo mix keeps every speaker synchronized and works well with Premiere Pro's transcription tools. The isolated tracks remain available when one voice needs separate repair or balancing.
