@@ -1,7 +1,7 @@
 ---
 title: 04.01 Podcast Recording Instructions
 date: 2026-09-16T12:00:00-04:00
-lastmod: 2026-09-16T06:22:21-04:00
+lastmod: 2026-09-16T11:51:11-04:00
 ---
 
 ## Before Entering the Booth
@@ -95,14 +95,13 @@ The producer should avoid adjusting the faders continuously. Make a small correc
 
 <div class="responsive-table-markdown">
 
-| Problem                                                      | Response                                                                                       |
-| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| Clipping or distortion                                       | Finish the current thought, lower the input level with the instructor, and repeat the answer.  |
-| A speaker is too quiet                                       | Move the microphone closer before adding a large amount of gain.                               |
-| Headphone echo or feedback                                   | Stop recording and ask for assistance.                                                         |
-| A cough, door noise, or dropped object interrupts a sentence | Pause, then repeat the complete sentence from the beginning.                                   |
-| Someone gives incorrect information                          | State the corrected sentence from the beginning and remove the earlier version during editing. |
-| The recording stops unexpectedly                             | Begin a new take with another spoken slate. Never overwrite the earlier file.                  |
+| Problem                                | Response                                                                   |
+| -------------------------------------- | -------------------------------------------------------------------------- |
+| Clipping or distortion                 | Finish the current thought, lower the input and repeat the answer          |
+| A speaker is too quiet                 | Move the microphone closer before adding a large amount of gain            |
+| Headphone echo or feedback             | Stop recording and ask for assistance                                      |
+| A cough, door noise, or dropped object | Pause, then repeat the complete sentence from the beginning                |
+| Someone gives incorrect information    | State the corrected sentence and remove the earlier version during editing |
 
 </div>
 
@@ -126,4 +125,4 @@ Place an untouched copy of everything from the RØDECaster in `01 Original RODEC
 
 Confirm that the recording has stopped and that the file appears in the recording list. Copy the complete recording folder, then open the stereo mix and listen to at least 20 seconds. Make sure every speaker can be heard and that the copied file plays correctly.
 
-Eject the storage device correctly and return the booth, microphones, headphones, and chairs to their original condition. Do not leave the studio until your group has verified the copied recording.
+Return the booth, microphones, headphones, and chairs to their original condition. Do not leave the studio until your group has verified the copied recording.
