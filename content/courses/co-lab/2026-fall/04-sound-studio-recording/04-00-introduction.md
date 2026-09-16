@@ -1,12 +1,12 @@
 ---
 title: 04.00 Introduction
 date: 2026-09-16T12:00:00-04:00
-lastmod: 2026-09-15T06:50:43-04:00
+lastmod: 2026-09-16T06:22:37-04:00
 ---
 
 ## Overview
 
-This module introduces podcast production through a short group conversation recorded in the IML podcast booth. Working in small groups, you will turn one of your prepared topics into a focused discussion with a clear beginning, middle, and end. Each group will rotate through the roles of host, guest, and producer while learning microphone technique, headphone monitoring, level control, and RØDECaster recording.
+This module introduces podcast production through a short group conversation recorded in the Interactive Media Lab's Recording Studio. Working in small groups, students turn prepared topics into a focused discussion with a clear beginning, middle, and end. Each group will rotate through the roles of host, guest, and producer while learning microphone technique, headphone monitoring, level control, and RØDECaster recording.
 
 The RØDECaster will capture a ready-to-use stereo mix as well as separate microphone tracks. You will use the stereo mix for a fast transcript-based edit in Adobe Premiere Pro. The separate tracks provide a backup and can be brought into Adobe Audition when individual voices need more control or repair.
 
