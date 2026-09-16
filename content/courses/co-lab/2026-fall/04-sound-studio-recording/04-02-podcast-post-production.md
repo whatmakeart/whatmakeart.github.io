@@ -1,7 +1,7 @@
 ---
 title: 04.02 Podcast Recording Instructions
 date: 2026-09-16T12:00:00-04:00
-lastmod: 2026-09-16T06:49:31-04:00
+lastmod: 2026-09-16T07:04:49-04:00
 ---
 
 Begin with the stereo mix unless you can identify a specific problem that requires the isolated microphone tracks. The stereo mix keeps every speaker synchronized and works well with Premiere Pro's transcription tools. The isolated tracks remain available when one voice needs separate repair or balancing.
@@ -20,7 +20,7 @@ Begin with the stereo mix unless you can identify a specific problem that requir
 
 </div>
 
-Decide whether the recording needs Audition before making structural edits in Premiere Pro. A repaired mixdown should remain exactly the same length as the original recording so that its transcript and timing remain synchronized.
+Decide whether the recording needs [Adobe Audition](../../../../sound/adobe-audition/adobe-audition.md) before making edits in [Adobe Premiere](../../../../video/adobe-premiere-pro/adobe-premiere.md). A repaired mixdown should remain exactly the same length as the original recording so that its transcript and timing remain synchronized.
 
 ## 1. Preserve and Organize the Recording
 
@@ -82,8 +82,6 @@ Music and sound effects are optional. Use only audio that you created or have pe
 
 Listen to the complete podcast without stopping, make notes, and then revise. Pay attention to changes in voice level, audible edits, clicks, cut-off words, distracting breaths or handling noise, accidental pauses, rushed pacing, and music that competes with speech. The opening and ending should feel intentional, and the master meter should never clip.
 
-For a stereo podcast, a useful delivery target is approximately **−16 LUFS integrated** with true peaks no higher than **−1 dBTP**. This is a final-program target, not a reason to compress every voice heavily. If loudness measurement is not part of the exercise, prioritize consistent dialogue and a master output that never reaches 0 dBFS.
-
 ## 7. Export and Verify
 
 Export an archival master and a smaller listening copy:
@@ -98,16 +96,6 @@ Export an archival master and a smaller listening copy:
 </div>
 
 Listen to the exported MP3 from beginning to end. Confirm that it starts and ends correctly, contains the complete edit, and plays outside Premiere Pro. A successful export message does not prove that the correct sequence or range was exported.
-
-## Optional Publication
-
-Publishing is optional and does not affect the grade. Permission to participate in a classroom recording is not automatically permission to publish someone's voice publicly. Every identifiable participant must agree separately before an episode is posted online. Music, images, and sound effects must also be cleared for public use.
-
-**Spotify for Creators** provides free podcast hosting and automatically makes a hosted show available on Spotify. It is appropriate for someone who intends to create an ongoing public podcast rather than upload one classroom exercise. Distribution to services beyond Spotify requires additional submission of the show's RSS feed.
-
-**YouTube** is convenient for a one-time share, but YouTube does not accept an MP3 as a podcast episode by itself. Create a video version using a still image, title card, waveform, or other appropriate visual and export an H.264 MP4. The video can be public or unlisted, although anyone with an unlisted link can still share it. YouTube can also receive podcasts through an RSS feed in supported locations.
-
-For private or limited sharing, upload the MP3 to the course system or an approved cloud-storage folder and share access only with the intended listeners. This makes the work accessible without presenting it as a public release.
 
 ## Additional References
 
