@@ -1,7 +1,7 @@
 ---
 title: 03.06 Room Modeling Exercise Assignment
 date: 2026-09-10T09:00:00-04:00
-lastmod: 2026-09-15T17:06:15-04:00
+lastmod: 2026-09-15T20:28:43-04:00
 ---
 
 ## Assignment Deliverables
@@ -15,9 +15,13 @@ lastmod: 2026-09-15T17:06:15-04:00
 
 _Note: You can upload a single `.zip` archive of all your files labeled inside the archive for easier submission to Canvas._
 
-## Overview
+## Assignment Overview
 
-Use measurements taken from the physical space, photos, perspective matching, and available floor plans to create and accurate 3D digital model of a room on campus or near campus. Add materials and textures to the elements in the room. [BlenderKit](../../../../3d-modeling/blender/install-blenderkit-blender.md) isa good source of materials, textures, doors, windows, and other 3d objects to use in your room model. If you apply a texture to an object, make sure to UV unwrap it. [Smart UV Project](../../../../3d-modeling/blender/smart-uv-project-blender.md) can quickly unwrap room wall and other meshes in Blender in order to apply textures to the objects.
+Use measurements taken from the physical space, photos, perspective matching, and available floor plans to create and accurate 3D digital model of a room on campus or near campus. Add materials and textures to the elements in the room. [BlenderKit](../../../../3d-modeling/blender/install-blenderkit-blender.md) is a good source of materials, textures, doors, windows, and other 3d objects to use in your room model. If you apply a texture to an object, make sure to UV unwrap it. [Smart UV Project](../../../../3d-modeling/blender/smart-uv-project-blender.md) can quickly unwrap room wall and other meshes in Blender in order to apply textures to the objects.
+
+### Resources
+
+[How to Measure Room Angles in Blender Using Wall Lengths and Diagonals](https://youtu.be/07S3RyNzdRQ)
 
 ## Grading Rubric
 
