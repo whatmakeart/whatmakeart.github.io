@@ -1,169 +1,119 @@
 ---
-title: 04.01 Podcast Recording Instructions
+title: 04.02 Podcast Recording Instructions
 date: 2026-09-16T12:00:00-04:00
-lastmod: 2026-09-15T07:21:20-04:00
+lastmod: 2026-09-16T06:49:31-04:00
 ---
+
+Begin with the stereo mix unless you can identify a specific problem that requires the isolated microphone tracks. The stereo mix keeps every speaker synchronized and works well with Premiere Pro's transcription tools. The isolated tracks remain available when one voice needs separate repair or balancing.
 
 ## Choose the Right Workflow
 
 <div class="responsive-table-markdown">
 
-| Recording condition                                    | Recommended workflow                                                                        |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| Voices are clear and reasonably balanced               | Edit the stereo mix in Premiere Pro                                                         |
-| One voice is consistently too loud or quiet            | Balance the isolated tracks in Audition, export a new stereo mix, then edit in Premiere Pro |
-| One microphone has noise, clipping, or rumble          | Repair that isolated track in Audition before making the Premiere Pro edit                  |
-| The conversation needs extensive restructuring         | Use Premiere Pro Text-Based Editing with the stereo mix                                     |
-| The project requires detailed control over every voice | Complete the edit and mix manually with the isolated tracks in Audition                     |
+| Recording condition                                    | Recommended workflow                                                                                                |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| Voices are clear and reasonably balanced               | Edit the stereo mix in Premiere Pro.                                                                                |
+| One voice is consistently too loud or quiet            | Balance the isolated tracks in Audition, export a new full-length stereo mix, and then begin the Premiere Pro edit. |
+| One microphone has noise, clipping, or rumble          | Repair that isolated track conservatively in Audition before beginning the Premiere Pro edit.                       |
+| The conversation needs extensive restructuring         | Use Premiere Pro Text-Based Editing with the stereo mix.                                                            |
+| The project requires detailed control over every voice | Complete a manual multitrack edit and mix in Audition instead of relying on the introductory workflow.              |
 
 </div>
 
-For this exercise, begin with the stereo mix unless you can identify a specific problem that requires the isolated tracks.
+Decide whether the recording needs Audition before making structural edits in Premiere Pro. A repaired mixdown should remain exactly the same length as the original recording so that its transcript and timing remain synchronized.
 
 ## 1. Preserve and Organize the Recording
 
-1. Copy the complete RØDECaster recording folder.
-2. Place the untouched copy in `01 Original RODECaster Recording`.
-3. Listen to the stereo mix from beginning to end.
-4. Confirm that all voices are present and synchronized.
-5. Identify the isolated microphone tracks, but do not delete unused tracks.
-6. Create a Premiere Pro project inside `02 Premiere Project`.
+Copy the complete RØDECaster recording folder and place the untouched copy inside `01 Original RODECaster Recording`. Do not rename, process, or delete anything in that folder. Spot-listen to the stereo mix at the beginning, middle, and end, confirming that all speakers are present and the recording plays correctly.
+
+Identify the isolated microphone tracks and note which speaker belongs to each channel. Depending on how the RØDECaster recording was transferred, the isolated channels may appear as separate WAV files or as channels inside one multichannel file. Export or separate those channels only if you need to work with them in Audition. Create the Premiere Pro project inside `02 Premiere Project`.
 
 ## 2. Build a Transcript-Based Rough Cut in Premiere Pro
 
-1. Import the stereo mix.
-2. Create a sequence from the stereo mix.
-3. Open **Window > Text** and select **Transcript**.
-4. Transcribe the source or active sequence.
-5. Select the correct language and enable speaker labeling when available.
-6. Correct important names and obvious transcription errors.
-7. Save a duplicate sequence named `Podcast Full Recording`.
-8. Duplicate it again and name the copy `Podcast Rough Cut`.
+Text-Based Editing is most useful for finding, removing, and rearranging ideas. It creates a rough cut by applying transcript edits to the timeline, but it does not replace careful listening or precise audio editing.
 
-Edit only the rough-cut sequence. The full-recording sequence is your reference.
+1. Import the stereo mix into Premiere Pro.
+2. Open **Window > Text**, select **Transcript**, and double-click the stereo mix in the Project panel so that it is the active source.
+3. Select **Transcribe**. Choose the correct spoken language and enable speaker labeling when it is available.
+4. Correct important names and obvious transcription errors. Correcting transcript text improves navigation but does not change the recorded words.
+5. Create a new sequence and place the stereo mix on audio track A1 at the beginning of the timeline. If Premiere asks for video settings, a standard 1920 × 1080 sequence preset is sufficient for this audio-focused project and also leaves the option of making a YouTube version later.
+6. Select the Timeline panel to display the sequence transcript.
+7. Duplicate the sequence and name the untouched version `Podcast Full Recording`.
+8. Name the working duplicate `Podcast Rough Cut` and make all editorial changes in that sequence.
+
+When the sequence transcript is active, selecting and deleting transcript text removes the corresponding portion of the recording and applies a ripple edit to close the gap. Text can also be cut, copied, and pasted to rearrange sections. Before deleting anything, confirm that you are viewing the sequence transcript rather than only editing the spelling in a source transcript.
 
 ### Edit for Meaning
 
-Use the transcript to locate and remove:
+Use the transcript to locate false starts that are immediately repeated, long technical interruptions, duplicated explanations, unrelated tangents, and sections that do not support the driving question. Shorten pauses when they weaken the pacing, but do not automatically remove every pause, breath, “um,” or repeated word. Premiere can detect pauses and filler words, but a bulk deletion can make a speaker sound rushed, unnatural, or misrepresented.
 
-- false starts that are immediately repeated
-- long technical interruptions
-- duplicated explanations
-- unrelated tangents
-- sections that do not support the driving question
-- excessive pauses that weaken the pacing
+After every text edit, listen across the cut. Confirm that the intended meaning has not changed and that the speaker does not sound interrupted. If a word, breath, laugh, or section of room tone ends unnaturally, refine the edit directly in the timeline. A shorter edit is not automatically a clearer or more engaging edit.
 
-Do not automatically remove every pause, breath, “um,” or repeated word. Natural speech needs rhythm. An edit that is shorter is not necessarily clearer or more engaging.
+## 3. Refine Dialogue with Audio Time Units
 
-After every text edit:
+Premiere normally displays and edits time in video frames. A frame is often too large for a precise dialogue edit. Open the Timeline panel menu and enable **Show Audio Time Units**. Premiere can then display audio in samples or milliseconds, allowing audio clips and edit points to be adjusted more precisely than one video frame.
 
-1. listen across the cut
-2. check that the meaning has not changed
-3. confirm that the speaker does not sound interrupted
-4. adjust the audio edit point if a word, breath, laugh, or room sound is cut unnaturally
+Zoom into the waveform and trim dialogue at natural boundaries between words, breaths, and phrases. Preserve a small amount of room tone when silence would create an obvious hole. Avoid cutting through consonants or removing the beginning of a breath while leaving its ending.
 
-Text-Based Editing creates a rough cut; your ears must finish it.
+If a cut clicks or the room tone changes abruptly, add a very short **Constant Power** audio transition and adjust it by ear. A crossfade will not repair a poorly chosen edit point, and long crossfades may cause two words or breaths to overlap. Listen to the finished edit once through headphones and again through speakers.
 
-## 3. Smooth the Dialogue Edits
+## 4. Use Audition When the Mix Needs More Control
 
-- Trim cuts at natural breaks between phrases.
-- Preserve a short amount of room tone between speakers.
-- Avoid cutting in the middle of breaths or consonants.
-- Add a very short **Constant Power** audio transition only when a cut clicks or changes room tone abruptly.
-- Do not cover every edit with music.
-- Listen once with headphones and once through speakers.
+If the stereo mix is already clear and balanced, continue in Premiere Pro. Use Audition when an individual microphone must be adjusted separately. Complete this repair before restructuring the conversation in Premiere.
 
-## 4. Use Audition Only When the Mix Needs More Control
+1. Create an Audition multitrack session at **48,000 Hz**.
+2. Import the isolated microphone WAV files and place every file at exactly the same starting time.
+3. Label each track with the speaker's name and preserve the original files.
+4. Use clip gain to bring the voices into a similar range before applying effects.
+5. Repair clipping, hum, rumble, or steady noise conservatively. Silence or reduce another speaker's microphone only when bleed is distracting.
+6. Apply EQ and compression lightly, then use track-volume automation for words or sections that remain uneven.
+7. Export a full-length stereo WAV mixdown at **48 kHz, 24-bit**.
+8. Import the corrected mixdown into Premiere Pro and use it in place of the original stereo mix before beginning the transcript-based edit.
 
-If the stereo mix is already clear, continue in Premiere Pro. If one voice needs separate repair or balancing:
+Avoid heavy noise reduction. Metallic or watery processing artifacts are often more distracting than quiet, consistent room noise. De-clipping may soften distortion, but it cannot reconstruct audio that was never recorded.
 
-1. Create a new Audition multitrack session at **48,000 Hz**.
-2. Import the isolated microphone WAV files.
-3. Place every file at exactly the same starting time.
-4. Label each track with the speaker's name.
-5. Keep the original files unchanged.
-6. Adjust **clip gain** so voices are similar before adding effects.
-7. Remove or silence sections of a microphone when that person is not speaking only if bleed is distracting.
-8. Repair clipping, hum, rumble, or steady noise conservatively.
-9. Apply EQ and compression lightly and consistently.
-10. Use track volume automation for individual words or sections that remain uneven.
-11. Export a stereo WAV mixdown at **48 kHz, 24-bit**.
-12. Import the corrected mixdown into Premiere Pro and use it in place of the original stereo mix.
+## 5. Shape the Finished Episode
 
-Avoid heavy noise reduction. Metallic or watery processing artifacts are often more distracting than quiet room noise.
+The finished podcast should have an intentional opening, development, and ending. Begin by identifying the topic and establishing the driving question. Arrange the strongest parts of the conversation so that ideas develop rather than merely repeat. Conclude with a final thought, discovery, disagreement, or return to the original question.
 
-## 5. Add an Introduction, Ending, and Optional Music
+Music and sound effects are optional. Use only audio that you created or have permission to use, include required credits, and keep music well below the dialogue. Fade music in and out rather than allowing it to begin or end abruptly. Music should support the structure, not cover an unclear edit.
 
-A short podcast should include:
+## 6. Balance and Review the Final Mix
 
-- an opening that identifies the topic
-- the driving question
-- the main conversation
-- a conclusion or final thought
+Listen to the complete podcast without stopping, make notes, and then revise. Pay attention to changes in voice level, audible edits, clicks, cut-off words, distracting breaths or handling noise, accidental pauses, rushed pacing, and music that competes with speech. The opening and ending should feel intentional, and the master meter should never clip.
 
-Music and sound effects are optional. If used:
+For a stereo podcast, a useful delivery target is approximately **−16 LUFS integrated** with true peaks no higher than **−1 dBTP**. This is a final-program target, not a reason to compress every voice heavily. If loudness measurement is not part of the exercise, prioritize consistent dialogue and a master output that never reaches 0 dBFS.
 
-- use only audio you created or have permission to use
-- keep music well below the dialogue
-- fade music in and out
-- do not use music to hide unclear editing
-- include required credit information
+## 7. Export and Verify
 
-## 6. Balance and Check the Final Mix
+Export an archival master and a smaller listening copy:
 
-Listen to the complete podcast without stopping. Take notes, then revise.
+<div class="responsive-table-markdown">
 
-Check for:
+| Version         | Format | Settings                   | Filename                                           |
+| --------------- | ------ | -------------------------- | -------------------------------------------------- |
+| Archival master | WAV    | 48 kHz, 24-bit, stereo     | `YYYY-MM-DD Lastname Firstname Podcast Master.wav` |
+| Listening copy  | MP3    | 192 kbps or higher, stereo | `YYYY-MM-DD Lastname Firstname Podcast.mp3`        |
 
-- consistent voice levels
-- audible edits or clicks
-- words cut off at edit points
-- distracting breaths, mouth noise, or handling noise
-- long pauses that feel accidental
-- pacing that is too rushed
-- music that competes with speech
-- clipping on the master meter
-- an opening and ending that feel intentional
+</div>
 
-For a stereo podcast master, use a course target of approximately **-16 LUFS integrated** with a maximum true peak of **-1 dBTP**. Treat this as a final delivery target, not a reason to crush the dynamics of every voice.
+Listen to the exported MP3 from beginning to end. Confirm that it starts and ends correctly, contains the complete edit, and plays outside Premiere Pro. A successful export message does not prove that the correct sequence or range was exported.
 
-## 7. Export
+## Optional Publication
 
-Export both:
+Publishing is optional and does not affect the grade. Permission to participate in a classroom recording is not automatically permission to publish someone's voice publicly. Every identifiable participant must agree separately before an episode is posted online. Music, images, and sound effects must also be cleared for public use.
 
-1. **Archival master**
+**Spotify for Creators** provides free podcast hosting and automatically makes a hosted show available on Spotify. It is appropriate for someone who intends to create an ongoing public podcast rather than upload one classroom exercise. Distribution to services beyond Spotify requires additional submission of the show's RSS feed.
 
-   - WAV
-   - 48 kHz
-   - 24-bit
-   - stereo
+**YouTube** is convenient for a one-time share, but YouTube does not accept an MP3 as a podcast episode by itself. Create a video version using a still image, title card, waveform, or other appropriate visual and export an H.264 MP4. The video can be public or unlisted, although anyone with an unlisted link can still share it. YouTube can also receive podcasts through an RSS feed in supported locations.
 
-2. **Listening copy**
-   - MP3
-   - 192 kbps or higher
-   - stereo
-
-Use these filenames:
-
-- `YYYY-MM-DD Groupname Podcast Master.wav`
-- `YYYY-MM-DD Groupname Podcast.mp3`
-
-Listen to the exported MP3 from beginning to end. Do not assume that a successful export window means the file is complete or correct.
-
-## Final Checklist
-
-- The original RØDECaster folder remains untouched.
-- The full recording and rough-cut sequences are both preserved.
-- The conversation has a clear driving question.
-- The edit preserves each speaker's intended meaning.
-- All voices are intelligible and reasonably balanced.
-- Music and sound effects do not cover speech.
-- The master does not clip.
-- Both the WAV master and MP3 listening copy open and play correctly.
-- Names, titles, and credits are accurate.
+For private or limited sharing, upload the MP3 to the course system or an approved cloud-storage folder and share access only with the intended listeners. This makes the work accessible without presenting it as a public release.
 
 ## Additional References
 
-- [Edit sequences using Text-Based Editing in Premiere Pro](https://helpx.adobe.com/premiere-pro/using/text-based-editing.html)
-- [Automatically transcribe video using Speech to Text](https://helpx.adobe.com/premiere/desktop/add-text-images/insert-captions/auto-transcribe-video-using-speech-to-text.html)
+- [Edit sequences using Text-Based Editing in Premiere Pro](https://helpx.adobe.com/ie/premiere/desktop/edit-projects/edit-video-using-text-based-editing/edit-sequences-using-text-based-editing.html)
+- [Change the timecode display format and show audio time units](https://helpx.adobe.com/premiere/desktop/organize-media/apply-labeling/change-timecode-display-format.html)
+- [Automatically transcribe using Speech to Text](https://helpx.adobe.com/premiere/desktop/add-text-images/insert-captions/auto-transcribe-video-using-speech-to-text.html)
 - [RØDECaster Duo: Recording and Exporting Audio](https://rode.com/en-us/user-guides/rodecaster-duo/recording-and-exporting-audio)
+- [Spotify for Creators podcast hosting and distribution](https://support.spotify.com/us/creators/article/distributing-your-show-to-other-platforms/)
+- [Create a podcast in YouTube Studio](https://support.google.com/youtube/answer/12751636)

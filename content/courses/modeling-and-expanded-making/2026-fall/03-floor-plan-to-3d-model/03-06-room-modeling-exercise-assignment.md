@@ -1,7 +1,8 @@
 ---
 title: 03.06 Room Modeling Exercise Assignment
 date: 2026-09-10T09:00:00-04:00
-lastmod: 2026-09-15T20:28:43-04:00
+lastmod: 2026-09-16T06:46:44-04:00
+canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables
