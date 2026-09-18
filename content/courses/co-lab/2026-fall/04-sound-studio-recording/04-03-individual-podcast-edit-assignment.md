@@ -1,7 +1,7 @@
 ---
 title: 04.03 Individual Podcast Edit Assignment
 date: 2026-09-16T12:00:00-04:00
-lastmod: 2026-09-18T06:48:59-04:00
+lastmod: 2026-09-18T07:13:42-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -55,12 +55,12 @@ If everyone agrees, you may upload a video version to YouTube as public or unlis
 
 <div class="responsive-table-markdown">
 
-| Objective                                              | Points |
-| ------------------------------------------------------ | ------ |
-| Editorial choices                                      | 30     |
-| Episode has a clear beginning, development, and ending | 20     |
-| Dialogue cuts, pacing, and transitions sound natural   | 20     |
-| Free from distracting technical problems               | 15     |
-| File management and labeling                           | 10     |
+| Objective                                      | Points |
+| ---------------------------------------------- | ------ |
+| Editorial choices develop the driving question | 30     |
+| Clear beginning, development, and ending       | 20     |
+| Dialogue cuts, pacing, and transitions         | 20     |
+| Free from distracting technical problems       | 20     |
+| File management and labeling                   | 10     |
 
 </div>
