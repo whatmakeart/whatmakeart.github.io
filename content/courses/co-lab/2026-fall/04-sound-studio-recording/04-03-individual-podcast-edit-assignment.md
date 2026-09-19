@@ -1,7 +1,7 @@
 ---
 title: 04.03 Individual Podcast Edit Assignment
 date: 2026-09-16T12:00:00-04:00
-lastmod: 2026-09-18T07:13:42-04:00
+lastmod: 2026-09-19T14:02:05-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -28,7 +28,7 @@ Use Premiere Pro's transcript to make the rough cut, then refine the audio direc
 Balance the voices so every speaker is intelligible. Music and sound effects are optional and should be used only when they contribute to the structure. Any outside media must be licensed for your use and credited.
 
 - [Adobe Podcast Studio](https://podcast.adobe.com/en/studio)
-- [Adobe Premiere Pro](../../../../video/adobe-premiere-pro/adobe-premiere.md)
+- [Adobe Premiere Pro - Text Based Editing](../../../../video/adobe-premiere-pro/text-based-editing-adobe-premiere-pro.md)
 
 ### Workflow
 
@@ -39,7 +39,9 @@ Balance the voices so every speaker is intelligible. Music and sound effects are
 5. Edit the conversation for meaning, structure, and pacing.
 6. Refine the audio
    - In Premiere, use the rolling edit tool and the Constant Power audio effect for smoothing cuts and transitions.
-   - In Adobe Podcast, use Enhance Audio after your edits to smooth out cuts and transitions.
+     - [How to use text based editing in Premiere](https://youtu.be/1KfoEMymk-I)
+   - In [Adobe Podcast](https://youtu.be/8w9Yjace1X8), use Enhance Audio after your edits to smooth out cuts and transitions.
+     - [How to use Adobe Podcast](https://youtu.be/8w9Yjace1X8)
 7. Balance the dialogue and add optional music or sound when appropriate.
 8. Export and listen to the complete MP3 outside or Premiere Pro or Adobe Podcast Studio.
    - It is important to listen to the audio file in another program, ideally on another device to confirm the edit and audio quality.
@@ -62,5 +64,28 @@ If everyone agrees, you may upload a video version to YouTube as public or unlis
 | Dialogue cuts, pacing, and transitions         | 20     |
 | Free from distracting technical problems       | 20     |
 | File management and labeling                   | 10     |
+
+</div>
+
+## Assignment Resources
+
+<div class="video-grid">
+<div class="video-card">
+
+#### [Adobe Podcast Studio - Text Based Editing](../../../../sound/adobe-podcast-studio-text-based-editing.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/8w9Yjace1X8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### [Adobe Premiere Pro - Text Based Editing](../../../../video/adobe-premiere-pro/text-based-editing-adobe-premiere-pro.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/1KfoEMymk-I?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 </div>
