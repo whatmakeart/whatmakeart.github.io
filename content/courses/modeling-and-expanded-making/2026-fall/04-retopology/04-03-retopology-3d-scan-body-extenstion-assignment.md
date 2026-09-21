@@ -1,7 +1,7 @@
 ---
 title: 04.03 Retopology 3D Scan Body Extension Assignment
 date: 2026-09-17T09:00:00-04:00
-lastmod: 2026-09-21T11:04:55-04:00
+lastmod: 2026-09-21T15:39:42-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -85,28 +85,6 @@ Once the base shell fits the body correctly make a duplicate and save it as as a
 #### 4. Create the Body Extension
 
 Use the second copy of the shell to develop your sculpture. You may stretch the original shell directly or attach completely new geometry to it. The connection between the fitted body surface and the new extension should feel intentional. Avoid simply placing an unrelated object on top of the scan.
-
-You may use:
-
-- PolyQuilt
-- Extrude
-- Inset
-- Proportional Editing
-- Loop Cuts
-- Bridge Edge Loops
-- Sculpt Mode
-- Grab
-- Inflate
-- Smooth
-- Snake Hook
-- Remesh
-- Mirror Modifier
-- Array Modifier
-- Additional primitive meshes
-- Curves converted to meshes
-- Boolean Union
-- Boolean Difference
-- Boolean Intersection
 
 #### 5. Export for 3D Printing
 
