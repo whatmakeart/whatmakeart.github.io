@@ -1,7 +1,8 @@
 ---
 title: 04.03 Retopology 3D Scan Body Extension Assignment
 date: 2026-09-17T09:00:00-04:00
-lastmod: 2026-09-21T11:04:02-04:00
+lastmod: 2026-09-21T11:04:55-04:00
+canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables
@@ -177,18 +178,5 @@ Invent a prosthetic for a function the human body does not actually need. It mig
 | Blender File Uploaded                          | 10     |
 | Render File Uploaded                           | 10     |
 | File Management and Labeling                   | 10     |
-
-</div>
-
-<div class="video-grid">
-
-<div class="video-card">
-
-### [Make Any 3D Model Manifold in Blender - 3D Print Toolbox Guide](../../../../digital-fabrication/3d-printing/make-any-model-manifold-3d-print-toolbox-blender.md)
-
-<div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/beAfWDEdjCc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
 
 </div>
