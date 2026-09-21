@@ -1,7 +1,7 @@
 ---
 title: 00.00 Co/Lab Syllabus
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-09-15T07:27:44-04:00
+lastmod: 2026-09-21T05:47:32-04:00
 ---
 
 ### Course Information
@@ -82,7 +82,7 @@ Students can respond to somebody else's needs, manage a production, solve proble
 | 13       | November 18      | `XR Studio`                  | Virtual Production                                                           |
 | 14       | November 25      |                              | _Thanksgiving Break. No Class. _                                             |
 | 15       | December 2       | `XR Studio`                  | Virtual Production                                                           |
-| 16       | December 9       | `Experience and Edit Studio` | Final Critique                                                               |
+| 16       | December 9       | `Experience and Edit Studio` | [Final Critique](../15-final-critique/15-00-introduction.md)                 |
 | 17       | December 14 - 17 |                              | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)     |
 
 </div>

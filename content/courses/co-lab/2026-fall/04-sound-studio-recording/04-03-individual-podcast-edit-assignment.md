@@ -1,7 +1,7 @@
 ---
 title: 04.03 Individual Podcast Edit Assignment
 date: 2026-09-16T12:00:00-04:00
-lastmod: 2026-09-19T14:02:05-04:00
+lastmod: 2026-09-21T05:45:59-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -85,6 +85,15 @@ If everyone agrees, you may upload a video version to YouTube as public or unlis
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/1KfoEMymk-I?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### [Export mp3 from Adobe Audition](../../../../sound/adobe-audition/export-mp3-adobe-audition.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/UwqosXZv2jE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

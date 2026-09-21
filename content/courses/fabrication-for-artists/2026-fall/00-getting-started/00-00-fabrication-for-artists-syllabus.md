@@ -1,7 +1,7 @@
 ---
 title: 00.00 Fabrication for Artists Syllabus
 date: 2026-08-28T12:00:00-04:00
-lastmod: 2026-09-15T05:29:58-04:00
+lastmod: 2026-09-21T05:53:32-04:00
 ---
 
 ### Course Information
@@ -51,25 +51,25 @@ By the end of this course, students will the opportunity to:
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**         | **Topic**                                                                                    |
-| -------- | ---------------- | -------------------------------------------------------------------------------------------- |
-| 1        | August 28        | [Metal Fabrication Fundamentals](../01-metal-fabrication-fundamentals/01-00-introduction.md) |
-| 2        | September 4      | [Welding Introduction](../02-welding-introduction/02-00-introduction.md)                     |
-| 3        | September 11     | [Tubular Fabrication](../03-tubular-fabrication/03-00-introduction.md)                       |
-| 4        | September 18     | [Cutting and Welding](../04-cutting-and-welding/04-00-introduction.md)                       |
-| 5        | September 25     | Bicycle Sculpture Fabrication                                                                |
-| 6        | October 2        | Studio Work                                                                                  |
-| 7        | October 9        | Digital Fabrication Introduction                                                             |
-| 8        | October 16       | Laser Cutting                                                                                |
-| 9        | October 23       | 3D Printing                                                                                  |
-| 10       | October 30       | Wood Fabrication Introduction                                                                |
-| 11       | November 6       | Wood Cutting and Joining                                                                     |
-| 12       | November 13      | Adhesives and Fasteners                                                                      |
-| 13       | November 20      | Cables and Rigging                                                                           |
-| 14       | November 27      | _Thanksgiving Break. No Class._                                                              |
-| 15       | December 4       | Studio Work                                                                                  |
-| 16       | December 11      | Final Critique                                                                               |
-| 17       | December 14 - 16 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                     |
+| **Week** | **Date**         | **Topic**                                                                                        |
+| -------- | ---------------- | ------------------------------------------------------------------------------------------------ |
+| 1        | August 28        | [Metal Fabrication Fundamentals](../01-metal-fabrication-fundamentals/01-00-introduction.md)     |
+| 2        | September 4      | [Welding Introduction](../02-welding-introduction/02-00-introduction.md)                         |
+| 3        | September 11     | [Tubular Fabrication](../03-tubular-fabrication/03-00-introduction.md)                           |
+| 4        | September 18     | [Cutting and Welding](../04-cutting-and-welding/04-00-introduction.md)                           |
+| 5        | September 25     | [Bicycle Sculpture Project Studio Work](../05-bicycle-project-studio-work/05-00-introduction.md) |
+| 6        | October 2        | [Bicycle Project Presentation](../06-bicycle-project-presentation/06-00-introduction.md)         |
+| 7        | October 9        | Digital Fabrication Introduction                                                                 |
+| 8        | October 16       | Laser Cutting                                                                                    |
+| 9        | October 23       | 3D Printing                                                                                      |
+| 10       | October 30       | Wood Fabrication Introduction                                                                    |
+| 11       | November 6       | Wood Cutting and Joining                                                                         |
+| 12       | November 13      | Adhesives and Fasteners                                                                          |
+| 13       | November 20      | Cables and Rigging and Cleats                                                                    |
+| 14       | November 27      | _Thanksgiving Break. No Class._                                                                  |
+| 15       | December 4       | Studio Work                                                                                      |
+| 16       | December 11      | Final Critique                                                                                   |
+| 17       | December 14 - 16 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                         |
 
 </div>
 
