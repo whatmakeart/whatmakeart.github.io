@@ -1,7 +1,7 @@
 ---
 title: 04.03 Retopology 3D Scan Body Extension Assignment
 date: 2026-09-17T09:00:00-04:00
-lastmod: 2026-09-21T10:59:18-04:00
+lastmod: 2026-09-21T11:04:02-04:00
 ---
 
 ## Assignment Deliverables
@@ -169,14 +169,14 @@ Invent a prosthetic for a function the human body does not actually need. It mig
 <div class="responsive-table-markdown">
 
 | Objective                                      | Points |
-| ---------------------------------------------- | -----: |
-| PolyQuilt Retopology and Base Shell            |     15 |
-| Shrinkwrap, Subdivision, and Solidify Workflow |     10 |
-| Design and Development of Body Extension       |     20 |
-| Modeling, Sculpting, and/or Boolean Operations |     15 |
-| Physical 3D Print                              |     15 |
-| Render and Blender Files Uploaded              |     10 |
-| File Management and Archived Base Mesh         |     10 |
+| ---------------------------------------------- | ------ |
+| PolyQuilt Retopology and Base Shell            | 15     |
+| Shrinkwrap, Subdivision, and Solidify Workflow | 10     |
+| Design and Development of Body Extension       | 20     |
+| Physical 3D Print                              | 25     |
+| Blender File Uploaded                          | 10     |
+| Render File Uploaded                           | 10     |
+| File Management and Labeling                   | 10     |
 
 </div>
 
