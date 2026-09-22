@@ -1,7 +1,7 @@
 ---
 title: 02.04 Sound Capture Assignment
 date: 2026-09-02T12:00:00-04:00
-lastmod: 2026-09-03T06:47:37-04:00
+lastmod: 2026-09-22T05:33:30-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -93,12 +93,11 @@ _You do not need to create a complete story, but the visual environment and soun
 
 <div class="responsive-table-markdown">
 
-| Objective                                        | Points |
-| ------------------------------------------------ | ------ |
-| Environmental / Ambient Recording                | 25     |
-| Action / Foley Recording                         | 25     |
-| Off-Screen Event Recording                       | 25     |
-| Sounds Relate Clearly to the Virtual Environment | 15     |
-| File Management and Labeling                     | 10     |
+| Objective                         | Points |
+| --------------------------------- | ------ |
+| Environmental / Ambient Recording | 30     |
+| Action / Foley Recording          | 30     |
+| Off-Screen Event Recording        | 30     |
+| File Management and Labeling      | 10     |
 
 </div>
