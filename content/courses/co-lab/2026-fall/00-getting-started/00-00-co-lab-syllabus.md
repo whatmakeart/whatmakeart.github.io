@@ -1,7 +1,7 @@
 ---
 title: 00.00 Co/Lab Syllabus
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-09-21T05:47:32-04:00
+lastmod: 2026-09-23T05:28:13-04:00
 ---
 
 ### Course Information
@@ -71,8 +71,8 @@ Students can respond to somebody else's needs, manage a production, solve proble
 | 2        | September 2      | `XR Studio`                  | [Learn 3D Space](../02-learn-3d-space/02-00-introduction.md)                 |
 | 3        | September 9      | `XR Studio`                  | [Make the Illusion](../03-make-the-illusion/03-00-introduction.md)           |
 | 4        | September 16     | `Recording Studio`           | [Sound Studio Recording](../04-sound-studio-recording/04-00-introduction.md) |
-| 5        | September 23     |                              | Motion Capture                                                               |
-| 6        | September 30     |                              | Asset Capture                                                                |
+| 5        | September 23     | `3D Capture Studio`          | Character Creation                                                           |
+| 6        | September 30     | `XR Studio`                  | Motion Capture                                                               |
 | 7        | October 7        |                              | Environment Building                                                         |
 | 8        | October 14       |                              | Lighting                                                                     |
 | 9        | October 21       |                              | Sound Capture and Editing                                                    |
