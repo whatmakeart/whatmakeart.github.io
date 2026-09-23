@@ -1,7 +1,7 @@
 ---
 title: 05.04 3D Model Generators
 date: 2026-09-23T12:00:00-04:00
-lastmod: 2026-09-23T13:00:40-04:00
+lastmod: 2026-09-23T14:32:24-04:00
 toc: true
 ---
 
@@ -23,9 +23,13 @@ toc: true
 - [Hunyuan3d Demo on Hugging Face](https://huggingface.co/spaces/tencent/Hunyuan3D-2.1)
 - [Hunyuan3d Demo on Tencent Site](https://3d.hunyuan.tencent.com/login?redirect_url=https%3A%2F%2F3d.hunyuan.tencent.com%2F) 20 free credits with login. High fidelity 3d mesh and texturing from multiple images or from text prompts.
 
+#### Autodesk FLow Studio
+
+- [Autodesk FLow Studio](https://www.autodesk.com/products/flow-studio/) - Students can sign up for an Autodesk Education Account and receive Flow Studio Credits
+
 #### Meshi.ai
 
-- [Meshy AI](https://www.meshy.ai/) - Requires sign in
+- [Meshy AI](https://www.meshy.ai/) - Requires sign in but allows some generations
 
 ## Older Mesh Generation Tools
 
