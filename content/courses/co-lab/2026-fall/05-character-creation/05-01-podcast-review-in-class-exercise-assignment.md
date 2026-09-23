@@ -1,20 +1,20 @@
 ---
 title: 05.01 Podcast Review In Class Exercise Assignment
 date: 2026-09-23T12:00:00-04:00
-lastmod: 2026-09-23T05:35:09-04:00
+lastmod: 2026-09-23T11:44:55-04:00
 ---
 
 ## Assignment Overview
 
-Listen to the completed podcast edits individually or in small groups. The goal is to identify what is working, notice anything that distracts from listening, and determine whether any final revisions would improve the podcast.
+Listen to the completed podcast edits in small groups. The goal is to identify what is working, notice anything that distracts from listening, and determine whether any final revisions would improve the podcast.
 
-Listen to the podcast once from beginning to end without stopping. Take brief notes while listening, but concentrate primarily on the experience of hearing the complete piece.
+Take brief notes while listening, but concentrate primarily on the experience of hearing the complete piece.
 
-After the first listen, discuss the questions below. Return to specific sections of the podcast when necessary.
-
-You are not expected to critique every second of the podcast. Listen for enough of the beginning, middle, and ending to evaluate structure, pacing, editing, and audio quality. The podcast creator should choose the middle section where feedback would be most useful.
+You are not expected to critique every second of the podcast. Listen for enough of the beginning, middle, and ending to evaluate structure, pacing, editing, and audio quality. Listen, discuss the questions below. Return to specific sections of the podcast when necessary.
 
 ## Podcast Review Questions
+
+You do not need to answer all of the questions. These are provided as a guide for your review and discussions.
 
 ### Content and Structure
 
@@ -51,13 +51,11 @@ You are not expected to critique every second of the podcast. Listen for enough 
 
 ## Final Review
 
-At the end of the review, identify:
+At the end of the review, identify the following and add as a reply to the discussion board on Canvas.
 
 1. One strength of the podcast.
 2. One content or pacing revision, if needed.
-
 3. One audio or technical revision, if needed.
-
 4. The most important change to make before the final export.
 
 Feedback should be specific and useful. Instead of saying something is simply "good" or "bad," identify what you heard and explain how it affected your experience as a listener.
