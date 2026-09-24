@@ -1,7 +1,8 @@
 ---
-title: 05.03 CHaracter Creation Assignment
+title: 05.03 Character Creation Assignment
 date: 2026-09-23T12:00:00-04:00
-lastmod: 2026-09-24T06:33:39-04:00
+lastmod: 2026-09-24T06:49:06-04:00
+canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables
@@ -42,6 +43,93 @@ To avoid losing texture images and other external data, make sure to [pack exter
 Go to File → External Data → Pack Resources [How to Pack External Resources in Blender](../../../../3d-modeling/blender/pack-external-resources-blender.md)
 
 Save the file again after packing.
+
+## Assignment Resources
+
+- [Insert Reference Image in Blender](https://youtu.be/t2Q8dX6djKk)
+- [Add Textures with BlenderKit](https://youtu.be/wQZ9idS_9ro)
+- [Make Realistic Edges in Blender: Bevel + Subdivision + Shade Smooth](https://youtu.be/qyMhNzq-HiY)
+- [Blender Smart UV Project Quick Start Guide - UV Unwrap](https://youtu.be/MkT4xIhoaLM)
+- [Blender Texture Paint Quick Start Guide](https://youtu.be/A0a-YndPpOM)
+- [Blender Texture Paint Complex Objects](https://youtu.be/Oz4fiddcazI)
+- [How to Render a Scene with Lights in Blender](https://youtu.be//Qw8jl8mKEsY)
+- [Fix Blender Camera View](https://youtu.be/MIDwBLmeCec)
+
+<div class="video-grid">
+
+<div class="video-card">
+
+[Insert Reference Image in Blender](https://youtu.be/t2Q8dX6djKk)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/t2Q8dX6djKk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Add Textures with BlenderKit](https://youtu.be/wQZ9idS_9ro)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/wQZ9idS_9ro?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Make Realistic Edges in Blender: Bevel + Subdivision + Shade Smooth](https://youtu.be/qyMhNzq-HiY)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/qyMhNzq-HiY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Blender Smart UV Project Quick Start Guide - UV Unwrap](https://youtu.be/MkT4xIhoaLM)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/MkT4xIhoaLM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Blender Texture Paint Quick Start Guide](https://youtu.be/A0a-YndPpOM)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/A0a-YndPpOM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Blender Texture Paint Complex Objects](https://youtu.be/Oz4fiddcazI)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Oz4fiddcazI?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[How to Render a Scene with Lights in Blender](https://youtu.be//Qw8jl8mKEsY)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Qw8jl8mKEsY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+[Fix Blender Camera View](https://youtu.be/MIDwBLmeCec)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/MIDwBLmeCec?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+</div>
 
 ## Grading Rubric
 
