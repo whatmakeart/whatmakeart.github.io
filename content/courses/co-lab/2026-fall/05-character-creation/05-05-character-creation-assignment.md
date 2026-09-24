@@ -1,7 +1,7 @@
 ---
 title: 05.03 CHaracter Creation Assignment
 date: 2026-09-23T12:00:00-04:00
-lastmod: 2026-09-23T06:01:44-04:00
+lastmod: 2026-09-24T06:04:37-04:00
 ---
 
 ## Assignment Deliverables
@@ -82,15 +82,17 @@ Preserve a copy of the original detailed character before reducing or modifying 
 
 Create a working version with a manageable amount of geometry when necessary. We will continue discussing retopology, UVs, texture baking, and optimization as the characters are prepared for animation.
 
-## Organize the Blender File
+### Blender File Organization
 
-Create an `ARCHIVE` collection containing untouched copies of important source meshes.
+Create an `Archive` collection containing untouched copies of important source meshes and objects as backups.
 
-Create a `CHARACTER` collection containing the version you intend to prepare for animation.
+Create a `Character` or `Working` collection containing the version you intend to prepare for animation.
 
-Before submitting:
+#### Avoid Losing Textures
 
-**File → External Data → Pack Resources**
+To avoid losing texture images and other external data, make sure to [pack external resources](https://youtu.be/x6H6HFBLRlU) in your Blender file.
+
+Go to File → External Data → Pack Resources [How to Pack External Resources in Blender](../../../../3d-modeling/blender/pack-external-resources-blender.md)
 
 Save the file again after packing.
 
