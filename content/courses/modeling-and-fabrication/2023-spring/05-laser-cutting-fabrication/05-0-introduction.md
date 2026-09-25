@@ -1,12 +1,12 @@
 ---
 title: "05.0 Introduction"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2026-09-25T08:10:39-04:00
 ---
 
 ## Overview
 
-This module covers the fabrication process of a laser cut assembly modeled in Fusion 360. It shows how to make revisions to a digital model in Fusion 360 and the importance of keeping each piece of a model to be fabricated as an individual component. This is necessary to be able to [lay the parts out flat](https://youtu.be/jeQPJHHwVN4) in Fusion 360 to produce and [export a DXF cut file](https://youtu.be/6JFHMV7A9TU) for use on the laser cutter. You will need to [make a laser cutter tool](https://youtu.be/-B6DXF9aE5s) in Fusion 360 and [install a DXF post processor](https://youtu.be/CBu6vl6Bqos). to produce a DXF file of your tool paths. This is the file you will use to cut out your laser cut design.
+This module covers the fabrication process of a laser cut assembly modeled in Fusion 360. It shows how to make revisions to a digital model in Fusion 360 and the importance of keeping each piece of a model to be fabricated as an individual component. This is necessary to be able to [lay the parts out flat](https://youtu.be/jeQPJHHwVN4) in Fusion 360 to produce and [export a DXF cut file](https://youtu.be/6JFHMV7A9TU) for use on the laser cutter. You will need to [make a laser cutter tool](https://youtu.be/-B6DXF9aE5s) in Fusion 360 and [install a DXF post processor](../../../../3d-modeling/fusion-360/install-dxf-post-processor-fusion-360.md). to produce a DXF file of your tool paths. This is the file you will use to cut out your laser cut design.
 
 ## Learning Objectives
 

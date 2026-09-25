@@ -1,7 +1,7 @@
 ---
 title: 10.04 3D Modeling for Laser Cutting with Fusion 360
 date: 2023-11-07T09:00:00
-lastmod: 2025-09-30T18:44:13
+lastmod: 2026-09-25T08:06:37-04:00
 ---
 
 ## Fusion 360 Quick Start
@@ -76,9 +76,9 @@ lastmod: 2025-09-30T18:44:13
 
 <div class="video-card">
 
-### Export Toolpaths
+### [Fusion Install DXF Post Processor](../../../../3d-modeling/fusion-360/install-dxf-post-processor-fusion-360.md)
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/CBu6vl6Bqos?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/P833NlDhbIs?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

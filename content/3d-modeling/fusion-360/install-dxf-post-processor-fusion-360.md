@@ -1,7 +1,7 @@
 ---
 title: Fusion 360 Install DXF Post Processor
 date: 2023-06-14T12:54:31
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-09-25T08:05:41-04:00
 tags:
   - CNC
   - Fusion-360
@@ -15,15 +15,24 @@ You can install it locally in Windows or Mac. [Local install instructions.](http
 
 You can install it in the cloud as well, then you can use it anywhere. Make sure to enable cloud libraries first. [Cloud install instructions.](https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-install-a-cloud-post-in-Fusion-360.html)
 
-There are video instructions below showing [how to install the DXF post processor](https://youtu.be/CBu6vl6Bqos).
+There are video instructions below showing [how to install the DXF post processor](https://youtu.be/P833NlDhbIs).
 
 <div class="video-grid">
 
 <div class="video-card">
 
-## Download and Install DXF Post Process for Fusion 360
+### [Download and Install DXF Post Process for Fusion - Updated Method](https://youtu.be/P833NlDhbIs)
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/CBu6vl6Bqos?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/CBu6vl6Bqos?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+### [Download and Install DXF Post Process for Fusion 360 - Previous Method](https://youtu.be/CBu6vl6Bqos)
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/CBu6vl6Bqos?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 </div>
 
 </div>

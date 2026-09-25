@@ -1,7 +1,7 @@
 ---
 title: 05.12 Laser Cut, 3D Print and Assemble Project Version 1 Assignment
 date: 2025-02-14T12:00:00Z
-lastmod: 2025-09-30T18:44:13
+lastmod: 2026-09-25T08:08:49-04:00
 ---
 
 ## Assignment Deliverables
@@ -87,7 +87,7 @@ The laser cutters can cut acrylic plastic. Make sure you leave the protective pa
 
 <div class="video-card">
 
-## Create Laser Cutter Tool with Specific Kerf
+### Create Laser Cutter Tool with Specific Kerf
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/-B6DXF9aE5s?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -95,9 +95,9 @@ The laser cutters can cut acrylic plastic. Make sure you leave the protective pa
 
 <div class="video-card">
 
-## Download and Install DXF Post Process for Fusion 360
+## #[Download and Install DXF Post Processor for Fusion](../../../../3d-modeling/fusion-360/install-dxf-post-processor-fusion-360.md)
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/CBu6vl6Bqos?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/P833NlDhbIs?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
