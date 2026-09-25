@@ -1,7 +1,7 @@
 ---
 title: 3D Model Generators
 date: 2026-09-23T12:00:00-04:00
-lastmod: 2026-09-24T06:32:02-04:00
+lastmod: 2026-09-24T20:39:23-04:00
 toc: true
 ---
 
@@ -34,6 +34,11 @@ Hunyuan3D 2.1 is an open source 3D generator and texture generator by Tencent. I
 #### SAM 3D
 
 - [SAM 3D by Meta](https://ai.meta.com/research/sam3d/)
+
+#### StableGen
+
+- [Stable3DGen Demo on Hugging Face](https://huggingface.co/spaces/Stable-X/Hi3DGen)
+- [Stable3DGen on GitHub](https://github.com/Stable-X/Stable3DGen)
 
 ### Paid 3D Generation Tools
 
