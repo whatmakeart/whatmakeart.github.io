@@ -1,7 +1,7 @@
 ---
-title: 04.03 Retopology 3D Scan Body Extension Assignment
+title: 04.04 Retopology 3D Scan Body Extension Assignment
 date: 2026-09-17T09:00:00-04:00
-lastmod: 2026-09-21T15:39:42-04:00
+lastmod: 2026-09-26T09:15:14-04:00
 canvas_mobile_fallback: true
 ---
 

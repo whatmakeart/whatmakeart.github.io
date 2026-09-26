@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-09-15T05:42:35-04:00
+lastmod: 2026-09-26T09:43:40-04:00
 ---
 
 ### Course Information
@@ -59,25 +59,25 @@ Upon completion of the course, students will have the opportunity to:
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**         | **Topic**                                                                                                          | **IML Location**             |
-| -------- | ---------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
-| 1        | August 27        | [3D Capture, Reconstruction and Remix](../01-3d-capture-reconstruction-and-remix/01-00-introduction.md)            | `3D Capture Studio`          |
-| 2        | September 3      | [Visualization, Rendering and Compositing](../02-3d-visualization-rendering-and-compositing/02-00-introduction.md) |                              |
-| 3        | September 10     | [Floor Plan to 3D Model](../03-floor-plan-to-3d-model/03-00-introduction.md)                                       | `XR Studio`                  |
-| 4        | September 17     | UV Mapping and 3D Texturing                                                                                        |                              |
-| 5        | September 24     | 3D Visualization, Rendering and Compositing                                                                        |                              |
-| 6        | October 1        | Laser Cutting and 3D Printing                                                                                      |                              |
-| 7        | October 8        | Laser Cutting and 3D Printing Modeling                                                                             |                              |
-| 8        | October 15       | Laser Cutting and 3D Printing Design Iteration                                                                     |                              |
-| 9        | October 22       | Laser Cutting and 3D Printing Fabrication                                                                          | `XR Studio`                  |
-| 10       | October 29       | Virtual Production Introduction                                                                                    |                              |
-| 11       | November 5       | Virtual Production Shooting                                                                                        |                              |
-| 12       | November 12      | Virtual Production Lighting and Sound                                                                              | `XR Studio`                  |
-| 13       | November 19      | Virtual Production Action                                                                                          | `XR Studio`                  |
-| 14       | November 26      | _Thanksgiving Break. No Class._                                                                                    |                              |
-| 15       | December 3       | Virtual Production Post Production                                                                                 | `XR Studio`                  |
-| 16       | December 10      | Final Critique                                                                                                     | `Edit and Experience Center` |
-| 17       | December 14 - 16 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                           |                              |
+| **Week** | **Date**         | **IML Location**           | **Topic**                                                                                                          |
+| -------- | ---------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 1        | August 27        | `3D Capture Studio`        | [3D Capture, Reconstruction and Remix](../01-3d-capture-reconstruction-and-remix/01-00-introduction.md)            |
+| 2        | September 3      |                            | [Visualization, Rendering and Compositing](../02-3d-visualization-rendering-and-compositing/02-00-introduction.md) |
+| 3        | September 10     | `XR Studio`                | [Floor Plan to 3D Model](../03-floor-plan-to-3d-model/03-00-introduction.md)                                       |
+| 4        | September 17     | `3D Capture Studio`        | [Retopology](../04-retopology-to-3d-print/04-00-introduction.md)                                                   |
+| 5        | September 24     | `Rapid Prototyping Lab`    | [Laser Cutting](../05-laser-cutting/05-00-introduction.md)                                                         |
+| 6        | October 1        | `Rapid Prototyping Lab`    | [Iterative Digital Fabrication](../06-iterative-digital-fabrication/06-00-introduction.md)                         |
+| 7        | October 8        | `Rapid Prototyping Lab`    | Laser Cutting and 3D Printing Production                                                                           |
+| 8        | October 15       | `Recording Studio`         | [Sound Recording](../08-sound-recording/08-00-introduction.md)                                                     |
+| 9        | October 22       | `XR Studio`                | Virtual Production Introduction                                                                                    |
+| 10       | October 29       | `Experience + Edit Center` | Virtual Production Planning                                                                                        |
+| 11       | November 5       | `XR Studio`                | Virtual Production Shooting                                                                                        |
+| 12       | November 12      | `XR Studio`                | Virtual Production Lighting and Sound                                                                              |
+| 13       | November 19      | `XR Studio`                | Virtual Production Action                                                                                          |
+| 14       | November 26      |                            | _Thanksgiving Break. No Class._                                                                                    |
+| 15       | December 3       | `XR Studio`                | [Virtual Production Post Production](../14-virtual-production-post-production/14-00-introduction.md)               |
+| 16       | December 10      | `Experience + Edit Center` | Final Critique                                                                                                     |
+| 17       | December 14 - 16 |                            | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                           |
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 title: 05.10 Lamp Prototype Parts Assignment
 date: 2026-02-11T09:00:00-04:00
-lastmod: 2026-02-16T06:58:44-04:00
+lastmod: 2026-09-26T09:03:42-04:00
 ---
 
 ## Assignment Deliverables
@@ -65,7 +65,7 @@ If you are not sure where to start with the laser cut portion of your project, y
 
 1. [Laser Cut Lamp Stand Example Project Demo](https://youtu.be/Uw43fyI6Y1s)
 2. [Lay Laser Cut Part Flat](https://youtu.be/6rVW04byXi4)
-3. [Export DXF for Laser Cutting](https://youtu.be/qD1ih2MjHAQ)
+3. [Export DXF for Laser Cutting](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-fusion-360.md)
 
 ### 3D Modeling and Design Points to Consider
 

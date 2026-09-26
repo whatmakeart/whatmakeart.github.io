@@ -1,7 +1,7 @@
 ---
 title: Export Laser Cut Toolpaths to DXF in Fusion 360
 date: 2023-06-14T12:58:56
-lastmod: 2026-08-23T12:18:54-04:00
+lastmod: 2026-09-26T09:02:38-04:00
 tags:
   - Fusion-360
   - Laser-Cutting
@@ -27,13 +27,21 @@ After you modified the ply thickness, re-generate and re-export your tool paths 
 
 If you have a complicated model with etching or interior contour cuts, you can make these as different profile cuts in the Fusion manufacture workspace. Then you can check the box to export each operation as a different layer. This can be helpful to select the paths in Illustrator and make them different colors. You can order the cuts on the laser cutter by dragging and dropping in the Epilog print menu. It is a good idea to do all etching and interior cutting before cutting the outside contours so you pieces do not move.
 
-[Export Laser Cut Toolpaths with Multiple Thickness to DXF in Fusion](export-laser-cut-toolpaths-mutiple-thickness-to-dxf-fusion.md)
+If your laser cut assembly uses different thickness material in its design, you can also[export Laser Cut Toolpaths with Multiple Thickness to DXF in Fusion](export-laser-cut-toolpaths-mutiple-thickness-to-dxf-fusion.md).
 
 <div class="video-grid">
 
 <div class="video-card">
 
-### Export DXF for Multiple Thickness Parts
+### Export DXF Toolpath for Laser Cutting from Fusion
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/o5QOq5gu24w?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+</div>
+
+<div class="video-card">
+
+### [Export DXF for Multiple Thickness Parts](./export-laser-cut-toolpaths-mutiple-thickness-to-dxf-fusion.md)
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/qD1ih2MjHAQ?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
