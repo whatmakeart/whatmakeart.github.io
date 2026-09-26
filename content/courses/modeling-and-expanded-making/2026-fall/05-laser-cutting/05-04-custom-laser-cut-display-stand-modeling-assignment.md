@@ -1,8 +1,8 @@
 ---
 title: 05.04 Custom Laser Cut Display Stand Modeling Assignment
 date: 2026-09-24T09:00:00-04:00
-lastmod: 2026-09-26T09:41:35-04:00
-toc: true
+lastmod: 2026-09-26T11:01:36-04:00
+canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables

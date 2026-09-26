@@ -1,8 +1,8 @@
 ---
 title: 05.03 Redesigned Body Extension 3D Print Assignment
 date: 2026-09-24T09:00:00-04:00
-lastmod: 2026-09-26T10:58:51-04:00
-toc: true
+lastmod: 2026-09-26T11:01:46-04:00
+canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables
