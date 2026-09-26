@@ -1,7 +1,7 @@
 ---
 title: 04.04 Retopology 3D Scan Body Extension Assignment
 date: 2026-09-17T09:00:00-04:00
-lastmod: 2026-09-26T09:15:14-04:00
+lastmod: 2026-09-26T10:59:11-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -16,9 +16,7 @@ canvas_mobile_fallback: true
 
 ## Assignment Overview
 
-Using a mesh created with [3D Scanning](../../../../3d-modeling/3d-scanning.md) and the [Polyquilt Retopology Tool Blender Addon](../../../../3d-modeling/blender/install-polyquilt-retopology-tool-blender-addon.md), create a base surface that conforms to the 3D scanned mesh. Then create sculptural extensions to the mesh. Export the new extension as an `stl` file and 3D print it.
-
-Using a mesh created with [3D Scanning](../../../../3d-modeling/3d-scanning.md) and the [PolyQuilt Retopology Tool Blender Addon](../../../../3d-modeling/blender/install-polyquilt-retopology-tool-blender-addon.md), create a clean low-poly surface that conforms to part of the scanned body.
+Using a mesh created with [3D Scanning](../../../../3d-modeling/3d-scanning.md) and the [Polyquilt Retopology Tool Blender Addon](../../../../3d-modeling/blender/install-polyquilt-retopology-tool-blender-addon.md), create a base surface that conforms to the 3D scanned mesh. Then create sculptural extensions to the mesh. Export the new extension as an `stl` file and [3D print](../../../../digital-fabrication/3d-printing/3d-printing.md) it.
 
 This first surface functions as a digital mask, shell, or fitted skin. Once the shell fits the scanned body mesh, duplicate and preserve the original version of the shell. Then use Blender modeling tools, Sculpt Mode, modifiers, additional geometry, and Boolean operations to transform the duplicate shell into a sculptural body extension.
 
@@ -88,16 +86,18 @@ Use the second copy of the shell to develop your sculpture. You may stretch the 
 
 #### 5. Export for 3D Printing
 
-2. Make sure all mesh components are physically connected in 3D space.
-3. Apply modifiers when appropriate to confirm a manifold mesh. You can export a STL file from Blender by choosing selection only and applying the modifies on export also.
-4. Remove unwanted internal geometry.
-5. Use Boolean Union or other modeling techniques to combine intersecting forms when necessary.
-6. Check for non-manifold geometry with the 3D Print Toolbox add on in Blender
+1. Make sure all mesh components are physically connected in 3D space.
+   - Review the [3D Print Design Guidelines](../../../../digital-fabrication/3d-printing/3d-print-design-guidelines.md)
+2. Apply modifiers when appropriate to confirm a manifold mesh. You can export a STL file from Blender by choosing selection only and applying the modifies on export also.
+3. Remove unwanted internal geometry.
+4. Use Boolean Union or other modeling techniques to combine intersecting forms when necessary.
+5. Check for non-manifold geometry with the 3D Print Toolbox add on in Blender
    - [3D Print Toolbox Addon in Blender](../../../../3d-modeling/blender/3d-print-toolbox-addon-blender.md)
    - [Make Any 3D Model Manifold in Blender - 3D Print Toolbox Guide](../../../../digital-fabrication/3d-printing/make-any-model-manifold-3d-print-toolbox-blender.md)
-7. Export the completed extension as an `STL` file. _Make sure to have the mesh selected in Blender and to check the selection only box in the export dialogue._
+6. Export the completed extension as an `STL` file. _Make sure to have the mesh selected in Blender and to check the selection only box in the export dialogue._
    - [Export STL Blender](../../../../digital-fabrication/3d-printing/export-stl-blender.md)
-8. Slice and 3D print the model.
+7. Slice and 3D print the model.
+   - [Slice Model in Bambu Studio](../../../../digital-fabrication/3d-printing/slice-model-in-bambu-studio.md)
 
 ### Body Extension Ideas
 
