@@ -1,20 +1,20 @@
 ---
 title: 10.04 3D Modeling for Laser Cutting with Fusion 360
 date: 2023-11-07T09:00:00
-lastmod: 2026-09-25T08:06:37-04:00
+lastmod: 2026-09-26T14:12:45-04:00
 ---
 
-## Fusion 360 Quick Start
+## Fusion Quick Start
 
 - [Fusion 360 User Interface](../../../../3d-modeling/fusion-360/user-interface-fusion-360.md)
 - [Fusion 360 FAQ](../../../../3d-modeling/fusion-360/fusion-360-faq.md)
 - [Fusion 360 Basic Rendering](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
 
-## Fusion 360 Laser Cutting
+## Fusion Laser Cutting
 
 - [Install DXF Post Processor](../../../../3d-modeling/fusion-360/install-dxf-post-processor-fusion-360.md)
 - [Lay Parts Flat for Laser Cutting](../../../../digital-fabrication/laser-cutting/lay-parts-flat-for-laser-cutting-fusion-360.md)
-- [Export Laser Cut Toolpaths to DXF](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-fusion-360.md)
+- [Export Laser Cut Toolpaths to DXF](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-in-autodesk-fusion.md)
 
 <div class="video-grid">
 
@@ -44,17 +44,17 @@ lastmod: 2026-09-25T08:06:37-04:00
 
 <div class="video-card">
 
-### Lay Parts Flat with Arrange
+### [Lay Parts Flat for Laser Cutting in Fusion](../../../../digital-fabrication/laser-cutting/lay-parts-flat-for-laser-cutting-fusion-360.md)
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/jeQPJHHwVN4?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/ix77FYfocHg?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
 <div class="video-card">
 
-### Create Laser Cutting Tool
+### [Fusion Create Laser Cutting Tool](../../../../digital-fabrication/laser-cutting/fusion-360-create-laser-cutting-tool.md)
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/-B6DXF9aE5s?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/qEuV48SeFSQ?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

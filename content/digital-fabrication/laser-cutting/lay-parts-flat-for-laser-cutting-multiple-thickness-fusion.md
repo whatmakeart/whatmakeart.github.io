@@ -1,7 +1,7 @@
 ---
 title: Lay Parts Flat with Arrange for Laser Cutting Multiple Thickness Fusion
 date: 2026-02-16T05:09:05-04:00
-lastmod: 2026-02-16T05:10:28-04:00
+lastmod: 2026-09-26T12:33:19-04:00
 tags:
   - Fusion-360
   - Laser-Cutting
@@ -18,6 +18,6 @@ tags:
 
 </div>
 
-## Alternative Method without the Arrange Tool
+## Alternative Method to Lay Parts Flat without the Arrange Tool
 
 [Lay Parts Flat without Arrange Tool for Laser Cutting](lay-parts-flat-without-arrange-tool-fusion-360.md)

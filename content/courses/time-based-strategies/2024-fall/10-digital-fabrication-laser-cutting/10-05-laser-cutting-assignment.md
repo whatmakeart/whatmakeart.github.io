@@ -1,7 +1,7 @@
 ---
 title: 10.05 Laser Cutting Assignment
 date: 2024-11-05T12:00:00
-lastmod: 2025-02-14T05:56:26
+lastmod: 2026-09-26T12:26:26-04:00
 ---
 
 ## Assignment Deliverables
@@ -16,8 +16,8 @@ lastmod: 2025-02-14T05:56:26
 
 1. [Model the parts in Fusion 360](../../../../digital-fabrication/laser-cutting/3d-modeling-for-laser-cutting-fusion-360.md) paying attention to joints and how thick the material is.
 2. [Lay the parts flat](../../../../digital-fabrication/laser-cutting/lay-parts-flat-for-laser-cutting-fusion-360.md)
-3. [Prepare a tool path](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-fusion-360.md) that takes into account the width or kerf of the laser
-4. [Export a DXF file](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-fusion-360.md) for cutting
+3. [Prepare a tool path](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-in-autodesk-fusion.md) that takes into account the width or kerf of the laser
+4. [Export a DXF file](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-in-autodesk-fusion.md) for cutting
 5. [Prepare the DXF file](../../../../digital-fabrication/laser-cutting/prepare-dxf-file-for-laser-cutting.md) according to the instructions.
 6. Cut out the parts at the think\[box\]
 7. Assemble the project and bring to class

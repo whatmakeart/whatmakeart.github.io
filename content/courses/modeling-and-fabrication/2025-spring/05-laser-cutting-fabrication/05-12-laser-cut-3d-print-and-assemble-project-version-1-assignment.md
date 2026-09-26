@@ -1,7 +1,7 @@
 ---
 title: 05.12 Laser Cut, 3D Print and Assemble Project Version 1 Assignment
 date: 2025-02-14T12:00:00Z
-lastmod: 2026-09-25T08:08:49-04:00
+lastmod: 2026-09-26T14:12:18-04:00
 ---
 
 ## Assignment Deliverables
@@ -87,9 +87,9 @@ The laser cutters can cut acrylic plastic. Make sure you leave the protective pa
 
 <div class="video-card">
 
-### Create Laser Cutter Tool with Specific Kerf
+### [Create Laser Cutter Tool with Specific Kerf](../../../../digital-fabrication/laser-cutting/fusion-360-create-laser-cutting-tool.md)
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/-B6DXF9aE5s?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/qEuV48SeFSQ?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -103,9 +103,9 @@ The laser cutters can cut acrylic plastic. Make sure you leave the protective pa
 
 <div class="video-card">
 
-### Lay Parts Flat with Arrange for Laser Cutting
+### [Lay Parts Flat for Laser Cutting in Fusion](../../../../digital-fabrication/laser-cutting/lay-parts-flat-for-laser-cutting-fusion-360.md)
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/jeQPJHHwVN4?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/ix77FYfocHg?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

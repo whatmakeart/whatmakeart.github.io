@@ -1,7 +1,7 @@
 ---
 title: 05.10 Lamp Prototype Parts Assignment
 date: 2026-02-11T09:00:00-04:00
-lastmod: 2026-09-26T09:03:42-04:00
+lastmod: 2026-09-26T12:26:26-04:00
 ---
 
 ## Assignment Deliverables
@@ -47,7 +47,7 @@ How your spend your time on the assignment is up to you but the recommendations 
 - ~ 2 hours revising and updating your digital 3D model file
 - ~ 1 hour for for laser cutting
   - Laying parts flat [Lay Parts Flat for Laser Cutting in Fusion](../../../../digital-fabrication/laser-cutting/lay-parts-flat-for-laser-cutting-fusion-360.md)
-  - Exporting DXF [Export Laser Cut Toolpaths to DXF in Fusion 360](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-fusion-360.md)
+  - Exporting DXF [Export Laser Cut Toolpaths to DXF in Autodesk Fusion](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-in-autodesk-fusion.md)
   - Cutting part in Fab Studios [Fab Studios Laser Cutter Instructions](05-08-fab-studios-laser-cutter-instructions.md)
 - ~ 1 hour for 3D Printing
   - Export STL or 3mf file [Export 3mf File From Fusion](../../../../digital-fabrication/3d-printing/export-3mf-for-3d-printing-fusion-360.md)
@@ -65,7 +65,7 @@ If you are not sure where to start with the laser cut portion of your project, y
 
 1. [Laser Cut Lamp Stand Example Project Demo](https://youtu.be/Uw43fyI6Y1s)
 2. [Lay Laser Cut Part Flat](https://youtu.be/6rVW04byXi4)
-3. [Export DXF for Laser Cutting](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-fusion-360.md)
+3. [Export DXF for Laser Cutting](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-in-autodesk-fusion.md)
 
 ### 3D Modeling and Design Points to Consider
 

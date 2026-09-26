@@ -1,7 +1,9 @@
 ---
-title: Export Laser Cut Toolpaths to DXF in Fusion 360
+title: Export Laser Cut Toolpaths to DXF in Autodesk Fusion
 date: 2023-06-14T12:58:56
-lastmod: 2026-09-26T09:02:38-04:00
+lastmod: 2026-09-26T12:26:26-04:00
+aliases:
+  - /digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-fusion-360/
 tags:
   - Fusion-360
   - Laser-Cutting

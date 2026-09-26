@@ -1,7 +1,7 @@
 ---
 title: 07.03 Laser Cut and 3D Print Modeling Assignment
 date: 2025-10-10T09:30:00
-lastmod: 2025-10-13T06:53:59
+lastmod: 2026-09-26T12:26:26-04:00
 ---
 
 ## Assignment Deliverables
@@ -19,7 +19,7 @@ lastmod: 2025-10-13T06:53:59
 - [Create a Laser Cutting Tool in Fusion](../../../../digital-fabrication/laser-cutting/fusion-360-create-laser-cutting-tool.md)
 - [Install DXF Post Processor](../../../../3d-modeling/fusion-360/install-dxf-post-processor-fusion-360.md)
 - [Lay Parts Flat for Laser Cutting](../../../../digital-fabrication/laser-cutting/lay-parts-flat-for-laser-cutting-fusion-360.md)
-- [Export Laser Cut Toolpaths to DXF](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-fusion-360.md)
+- [Export Laser Cut Toolpaths to DXF](../../../../digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-in-autodesk-fusion.md)
 
 ## Grading Rubric
 

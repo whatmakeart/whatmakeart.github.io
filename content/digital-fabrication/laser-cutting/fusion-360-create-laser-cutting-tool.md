@@ -1,7 +1,7 @@
 ---
 title: Fusion Create Laser Cutting Tool
 date: 2024-11-10T16:01:01
-lastmod: 2026-09-26T09:08:16-04:00
+lastmod: 2026-09-26T14:09:30-04:00
 ---
 
 In order to create toolpaths in [Fusion](../../3d-modeling/fusion-360/fusion-360.md) we need to tell Fusion what tool we will use to cut out our pieces so the computer can do the proper calculations. The main dimension needed for a laser cutting tool is the width of the laser so Fusion can calculate the kerf offset. All cutting tools leave a gap where they pass through the material. If this gap is not accounted for then pieces will not be the expected size.
@@ -15,9 +15,17 @@ In the Manufacture Workspace there is a tool library. Here you can create and im
 Follow the instructions in the video below to create a laser cut tool in Fusion. Make sure you enter a kerf of .127 mm since that is the kerf of the Epilog laser cutters at the think\[box\]. If your pieces do not fit correctly you can then adjust this tool in Fusion to correct the kerf for your desired fit.
 
 <div class="video-grid">
+
 <div class="video-card">
 
-## Create Laser Cutter Tool with Specific Kerf
+## Create Laser Cutter Tool with Specific Kerf - Updated Version
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/qEuV48SeFSQ?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div>
+
+<div class="video-card">
+
+## Create Laser Cutter Tool with Specific Kerf - Previous Version
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/-B6DXF9aE5s?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div>

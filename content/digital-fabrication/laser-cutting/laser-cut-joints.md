@@ -1,7 +1,7 @@
 ---
 title: Laser Cut Joints
 date: 2024-11-10T16:01:01
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-09-26T12:41:57-04:00
 ---
 
 There are many ways to join a laser cut project together ranging from gravity to glue to bolts to snap pieces. You can use a variety of ways to connect. Here are some example images of different methods of joining pieces together. There are many more ways. Search the internet for other methods of making laser cut joints.
@@ -14,12 +14,14 @@ There are many ways to join a laser cut project together ranging from gravity to
 
 ### Planar Butt Joint
 
+[Laser Cut Planar Butt Joints](laser-cut-planar-butt-joints.md) are a simple way to connect parts together in a flat plane.
+
 <div class="gallery-grid">
 
 ![Planar Butt Joint](attachments/2024-02-07-planar-butt-joint.jpg)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/id2I8982n_g?si=Lq7cuOC8s78Ly2S9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/id2I8982n_g?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
