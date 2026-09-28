@@ -1,7 +1,7 @@
 ---
 title: Export Laser Cut Toolpaths to DXF in Autodesk Fusion
 date: 2023-06-14T12:58:56
-lastmod: 2026-09-26T12:26:26-04:00
+lastmod: 2026-09-28T06:08:04-04:00
 aliases:
   - /digital-fabrication/laser-cutting/export-laser-cut-toolpaths-to-dxf-fusion-360/
 tags:
@@ -35,7 +35,7 @@ If your laser cut assembly uses different thickness material in its design, you 
 
 <div class="video-card">
 
-### Export DXF Toolpath for Laser Cutting from Fusion
+### Export DXF Toolpath for Laser Cutting from Fusion - Updated Version
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/o5QOq5gu24w?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
@@ -51,7 +51,7 @@ If your laser cut assembly uses different thickness material in its design, you 
 
 <div class="video-card">
 
-### Export DXF Toolpath with Kerf Compensation
+### Export DXF Toolpath with Kerf Compensation from Fusion - Previous Version
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/6JFHMV7A9TU?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
