@@ -1,7 +1,7 @@
 ---
 title: 05.04 Custom Laser Cut Display Stand Modeling Assignment
 date: 2026-09-24T09:00:00-04:00
-lastmod: 2026-09-28T06:44:53-04:00
+lastmod: 2026-09-28T07:36:25-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -32,7 +32,10 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 12. Use interlocking [Laser Cut Joints](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md) and or fasteners to hold the stand together. You can all design 3d printed connectors to join the planar laser cut parts together.
 13. Apply appearances to the components in the model.
 14. Make a render of the the design. (Set the render aspect ratio to anything but _viewport_. 1:1, 3:2, 2:3, 16:9, 9:16)
-15. Export a `.f3d` Fusion file
+    - [Set Render Aspect Ratio Fusion](../../../../3d-modeling/fusion-360/render-aspect-ratio-fusion.md)
+    - [Fusion Basic Rendering](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
+15. Export a `.f3d` Fusion file.
+    - [Export .f3d File from Fusion](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
 16. Upload to Canvas.
 
 ## Assignment Resources
@@ -41,11 +44,6 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 
 - [3D Modeling for Laser Cutting in Fusion](../../../../digital-fabrication/laser-cutting/3d-modeling-for-laser-cutting-fusion-360.md)
 - [Laser Cut 3D Model Revisions Autodesk Fusion](../../../../digital-fabrication/laser-cutting/laser-cut-3d-model-revisions-autodesk-fusion.md)
-
-### Rendering in Fusion
-
-- [Fusion Basic Rendering](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
-- [Render Aspect Ratio Fusion](../../../../3d-modeling/fusion-360/render-aspect-ratio-fusion.md)
 
 ### Laser Cutting File Preparation in Fusion
 
