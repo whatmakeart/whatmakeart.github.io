@@ -1,7 +1,7 @@
 ---
 title: 05.04 Custom Laser Cut Display Stand Modeling Assignment
 date: 2026-09-24T09:00:00-04:00
-lastmod: 2026-09-28T06:10:50-04:00
+lastmod: 2026-09-28T06:44:53-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -15,6 +15,25 @@ canvas_mobile_fallback: true
 _Note: You do not need to laser cut the new design. We will cut the new designs in class._
 
 ## Assignment Overview
+
+### Process
+
+1. Create Body Extension 3D Print model in [Blender](../../../../3d-modeling/blender/blender.md) or in Fusion or both.
+2. Create an all quad version of the 3D model in Blender using Quadiflow Remesh or Instant Meshes Add-on.
+3. Export an all quad `obj` of the mesh from Blender.
+4. Import the all quad `obj` Body Extension Mesh into Fusion. Set the imported mesh units as Meters if importing from Blender or Centimeters if importing from [Maya](../../../../3d-modeling/maya/maya.md)
+5. Center the mesh near the origin in Fusion and rotate it upright and facing front.
+6. Create a new component at the top level.
+7. Create a construction plane in the center of the body extension.
+8. Create a sketch on the construction plane.
+9. Use the intersect project feature to mark where the mesh touches the sketch.
+10. Use these intersection points to begin to form the flat laser cut parts at the correct size for the display of your 3D print.
+11. Create a new component for each part of the laser cut stand.
+12. Use interlocking [Laser Cut Joints](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md) and or fasteners to hold the stand together. You can all design 3d printed connectors to join the planar laser cut parts together.
+13. Apply appearances to the components in the model.
+14. Make a render of the the design. (Set the render aspect ratio to anything but _viewport_. 1:1, 3:2, 2:3, 16:9, 9:16)
+15. Export a `.f3d` Fusion file
+16. Upload to Canvas.
 
 ## Assignment Resources
 
@@ -36,7 +55,7 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 
 #### [Install DXF Post Processor in Fusion](../../../../3d-modeling/fusion-360/install-dxf-post-processor-fusion-360.md)
 
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/CBu6vl6Bqos?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/P833NlDhbIs?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
