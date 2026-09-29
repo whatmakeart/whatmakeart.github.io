@@ -1,7 +1,7 @@
 ---
 title: 05.04 Custom Laser Cut Display Stand Modeling Assignment
 date: 2026-09-24T09:00:00-04:00
-lastmod: 2026-09-29T07:30:33-04:00
+lastmod: 2026-09-29T16:17:59-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -19,26 +19,24 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 ### Process
 
 1. Create Body Extension 3D Print model in [Blender](../../../../3d-modeling/blender/blender.md) or in Fusion or both.
-2. Create an all quad version of the 3D model in Blender using Quadiflow Remesh or Instant Meshes Add-on.
-3. Export an all quad `obj` of the mesh from Blender.
-4. Import the all quad `obj` Body Extension Mesh into Fusion. Set the imported mesh units as Meters if importing from Blender or Centimeters if importing from [Maya](../../../../3d-modeling/maya/maya.md)
-5. Center the mesh near the origin in Fusion and rotate it upright and facing front.
-6. Create a new component at the top level.
-   - [[[compon]]
-7. Create a construction plane in the center of the body extension.
-8. Create a sketch on the construction plane.
-9. Use the intersect project feature to mark where the mesh touches the sketch.
-10. Use these intersection points to begin to form the flat laser cut parts at the correct size for the display of your 3D print.
-11. Create a new component for each part of the laser cut stand.
-12. Use interlocking [Laser Cut Joints](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md) and or fasteners to hold the stand together. You can all design 3d printed connectors to join the planar laser cut parts together.
-13. Apply appearances to the components in the model.
+2. Export an `obj` of the mesh from Blender.
+3. Import the `obj` Body Extension Mesh into Fusion. Set the imported mesh units as Meters if importing from Blender or Centimeters if importing from [Maya](../../../../3d-modeling/maya/maya.md)
+4. Center the mesh near the origin in Fusion and rotate it upright and facing front.
+5. Create a new component at the top level.
+6. Create a construction plane in the center of the body extension.
+7. Create a sketch on the construction plane.
+8. Use the intersect project feature or the mesh section sketch feature to mark where the mesh touches the sketch.
+9. Use these intersection points to begin to form the flat laser cut parts at the correct size for the display of your 3D print.
+10. Create a new component for each part of the laser cut stand.
+11. Use interlocking [Laser Cut Joints](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md) and or fasteners to hold the stand together. You can all design 3d printed connectors to join the planar laser cut parts together.
+12. Apply appearances to the components in the model.
     - [Change Appearances Fusion](../../../../3d-modeling/fusion-360/change-appearances-fusion.md)
-14. Make a render of the the design. (Set the render aspect ratio to anything but _viewport_. 1:1, 3:2, 2:3, 16:9, 9:16)
+13. Make a render of the the design. (Set the render aspect ratio to anything but _viewport_. 1:1, 3:2, 2:3, 16:9, 9:16)
     - [Set Render Aspect Ratio Fusion](../../../../3d-modeling/fusion-360/render-aspect-ratio-fusion.md)
     - [Fusion Basic Rendering](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
-15. Export a `.f3d` Fusion file.
+14. Export a `.f3d` Fusion file.
     - [Export .f3d File from Fusion](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
-16. Upload to Canvas.
+15. Upload to Canvas.
 
 ## Assignment Resources
 
