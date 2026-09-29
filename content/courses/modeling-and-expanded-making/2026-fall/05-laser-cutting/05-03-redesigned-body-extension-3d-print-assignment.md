@@ -1,7 +1,7 @@
 ---
 title: 05.03 Redesigned Body Extension 3D Print Assignment
 date: 2026-09-24T09:00:00-04:00
-lastmod: 2026-09-26T11:01:46-04:00
+lastmod: 2026-09-29T05:35:57-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -18,7 +18,7 @@ canvas_mobile_fallback: true
 
 Consider your first Body Extension 3D print as a prototype. Use the physical print to evaluate what worked, what did not work, and what could become more interesting before producing a second version.
 
-Examine the first print from multiple angles and compare it to the original Blender model. Look for areas that are too thin, fragile, awkwardly connected, difficult to print, visually unresolved, or less dramatic than they appeared on screen.
+Examine the first print from multiple angles and compare it to the original Blender model. Look for areas that are too thin, fragile, awkwardly connected, difficult to print, visually unresolved, or less dramatic than they appeared on screen. Review your model through the lens of [3D Print Design Guidelines](../../../../digital-fabrication/3d-printing/3d-print-design-guidelines.md).
 
 Return to your Blender file and make meaningful revisions to both the design and the printability of the body extension. Your second version should not simply be a reprint of the first model. _If you printed a second version in class, then continue the revision process and bring a third version to next class._
 
@@ -76,6 +76,17 @@ _There are a number of Tanslucent PLA Filament colors for you to use as well as 
    - [Export STL Blender](../../../../digital-fabrication/3d-printing/export-stl-blender.md)
 7. Slice and 3D print the model.
    - [Slice Model in Bambu Studio](../../../../digital-fabrication/3d-printing/slice-model-in-bambu-studio.md)
+
+### Assignment Resources
+
+<div class="video-card">
+
+#### [Retopology with PolyQuilt in Blender](../../../../3d-modeling/blender/retopology-with-polyquilt-blender.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/8NPwwBtwdj8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 ## Grading Rubric
 

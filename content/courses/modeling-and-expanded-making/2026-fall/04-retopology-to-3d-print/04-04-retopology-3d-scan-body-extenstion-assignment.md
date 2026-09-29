@@ -1,7 +1,7 @@
 ---
 title: 04.04 Retopology 3D Scan Body Extension Assignment
 date: 2026-09-17T09:00:00-04:00
-lastmod: 2026-09-26T10:59:11-04:00
+lastmod: 2026-09-29T05:33:38-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -43,6 +43,7 @@ The completed extension will be prepared as a printable mesh, exported as an `.s
 9. Remember to enable automatic snapping by clicking the magnet 🧲 at the top of the viewport and to switch the snapping mode to Face ⬜.
 10. Create a small planar mesh close to the surface of the 3D scan.
 11. Use PolyQuilt to draw and extend connected polygons across the area of the body where your extension will be located.
+    - [Retopology with PolyQuilt in Blender](../../../../3d-modeling/blender/retopology-with-polyquilt-blender.md)
 12. Build the mesh gradually around important anatomical details and changes in surface direction rather than attempting to cover the entire area with a few large polygons.
 13. Keep the topology relatively simple. The goal is to create a clean editable shell that follows the body rather than reproduce every detail of the scan.
 14. Regularly rotate around the scan and inspect the mesh from multiple angles.
@@ -142,6 +143,22 @@ Use sculpting and remeshing to create a branching, swollen, folded, or cellular 
 #### Impossible Prosthetic
 
 Invent a prosthetic for a function the human body does not actually need. It might amplify balance, hearing, reach, storage, display, movement, communication, or some imaginary ability.
+
+### Assignment Resources
+
+<div class="video-grid">
+
+<div class="video-card">
+
+#### [Retopology with PolyQuilt in Blender](../../../../3d-modeling/blender/retopology-with-polyquilt-blender.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/8NPwwBtwdj8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+
+[Retopology with Polyquilt in Blender](https://youtu.be/8NPwwBtwdj8)
 
 ## Grading Rubric
 
