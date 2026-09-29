@@ -1,7 +1,7 @@
 ---
 title: 04.04 Retopology 3D Scan Body Extension Assignment
 date: 2026-09-17T09:00:00-04:00
-lastmod: 2026-09-29T05:33:38-04:00
+lastmod: 2026-09-29T07:39:10-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -156,6 +156,16 @@ Invent a prosthetic for a function the human body does not actually need. It mig
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/8NPwwBtwdj8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
+
+<div class="video-card">
+
+#### [Mask Shell for 3D Printing in Blender](../../../../3d-modeling/blender/mask-shell-for-3d-printing-blender.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/WMBYaFODoiU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
 </div>
 
 [Retopology with Polyquilt in Blender](https://youtu.be/8NPwwBtwdj8)
