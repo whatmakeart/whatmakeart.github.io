@@ -1,5 +1,11 @@
 ---
 title: 04.02 Retopology with Polyquilt in Blender
 date: 2026-09-17T09:00:00-04:00
-lastmod: 2026-09-21T05:56:08-04:00
+lastmod: 2026-09-28T22:00:37-04:00
 ---
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/8NPwwBtwdj8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+[Retopology with Polyquilt in Blender](https://youtu.be/8NPwwBtwdj8)

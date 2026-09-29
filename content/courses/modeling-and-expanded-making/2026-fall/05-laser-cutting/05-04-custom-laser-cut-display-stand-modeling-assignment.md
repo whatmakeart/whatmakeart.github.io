@@ -1,7 +1,7 @@
 ---
 title: 05.04 Custom Laser Cut Display Stand Modeling Assignment
 date: 2026-09-24T09:00:00-04:00
-lastmod: 2026-09-28T07:36:25-04:00
+lastmod: 2026-09-28T22:00:45-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -24,6 +24,7 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 4. Import the all quad `obj` Body Extension Mesh into Fusion. Set the imported mesh units as Meters if importing from Blender or Centimeters if importing from [Maya](../../../../3d-modeling/maya/maya.md)
 5. Center the mesh near the origin in Fusion and rotate it upright and facing front.
 6. Create a new component at the top level.
+   - [[[compon]]
 7. Create a construction plane in the center of the body extension.
 8. Create a sketch on the construction plane.
 9. Use the intersect project feature to mark where the mesh touches the sketch.

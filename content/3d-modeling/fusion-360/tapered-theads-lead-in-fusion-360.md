@@ -1,7 +1,7 @@
 ---
 title: Tapered Threads Lead In Fusion 360
 date: 2025-01-22T16:54:11
-lastmod: 2025-12-24T11:37:55-04:00
+lastmod: 2026-09-28T22:00:22-04:00
 tags:
   - 3D-Modeling
   - Fusion-360
