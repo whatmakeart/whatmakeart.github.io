@@ -1,7 +1,7 @@
 ---
 title: 00.00 Co/Lab Syllabus
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-09-24T06:20:11-04:00
+lastmod: 2026-09-29T06:05:13-04:00
 ---
 
 ### Course Information
@@ -73,7 +73,7 @@ Students can respond to somebody else's needs, manage a production, solve proble
 | 4        | September 16     | `Recording Studio`           | [Sound Studio Recording](../04-sound-studio-recording/04-00-introduction.md) |
 | 5        | September 23     | `3D Capture Studio`          | [Character Creation](../05-character-creation/05-00-introduction.md)         |
 | 6        | September 30     | `XR Studio`                  | [Motion Capture](../06-motion-capture/06-00-introduction.md)                 |
-| 7        | October 7        |                              | Environment Building                                                         |
+| 7        | October 7        | `XR Studio`                  | Environment Building                                                         |
 | 8        | October 14       |                              | Lighting                                                                     |
 | 9        | October 21       |                              | Sound Capture and Editing                                                    |
 | 10       | October 28       |                              | Virtual Production                                                           |

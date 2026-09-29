@@ -1,7 +1,7 @@
 ---
 title: 05.04 Custom Laser Cut Display Stand Modeling Assignment
 date: 2026-09-24T09:00:00-04:00
-lastmod: 2026-09-28T22:00:45-04:00
+lastmod: 2026-09-29T07:30:33-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -32,6 +32,7 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 11. Create a new component for each part of the laser cut stand.
 12. Use interlocking [Laser Cut Joints](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md) and or fasteners to hold the stand together. You can all design 3d printed connectors to join the planar laser cut parts together.
 13. Apply appearances to the components in the model.
+    - [Change Appearances Fusion](../../../../3d-modeling/fusion-360/change-appearances-fusion.md)
 14. Make a render of the the design. (Set the render aspect ratio to anything but _viewport_. 1:1, 3:2, 2:3, 16:9, 9:16)
     - [Set Render Aspect Ratio Fusion](../../../../3d-modeling/fusion-360/render-aspect-ratio-fusion.md)
     - [Fusion Basic Rendering](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
@@ -49,6 +50,14 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 ### Laser Cutting File Preparation in Fusion
 
 <div class="video-grid">
+
+<div class="video-card">
+
+#### [Export .f3d File from Fusion](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/8JkuSyMHgZY?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="video-card">
 

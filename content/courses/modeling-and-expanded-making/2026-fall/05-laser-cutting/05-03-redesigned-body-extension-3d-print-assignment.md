@@ -1,7 +1,7 @@
 ---
 title: 05.03 Redesigned Body Extension 3D Print Assignment
 date: 2026-09-24T09:00:00-04:00
-lastmod: 2026-09-29T05:35:57-04:00
+lastmod: 2026-09-29T07:30:24-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -11,6 +11,7 @@ canvas_mobile_fallback: true
    - _bring updated physical 3D print to class_
 2. Revised Blender File
    - Label file YYYY-MM-DD Lastname Firstname Revised Body Extension Model (`.blend`)
+   - _Remember to [Pack External Resources in Blender](../../../../3d-modeling/blender/pack-external-resources-blender.md)_
 3. Updated Render image of Body Extension 3D Print Redesign
    - Label file YYYY-MM-DD Lastname Firstname Revised Body Extension Render (`.png`, `.jpg`)
 
@@ -79,6 +80,8 @@ _There are a number of Tanslucent PLA Filament colors for you to use as well as 
 
 ### Assignment Resources
 
+<div class="video-grid">
+
 <div class="video-card">
 
 #### [Retopology with PolyQuilt in Blender](../../../../3d-modeling/blender/retopology-with-polyquilt-blender.md)
@@ -86,6 +89,17 @@ _There are a number of Tanslucent PLA Filament colors for you to use as well as 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/8NPwwBtwdj8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+</div>
+
+<div class="video-card">
+
+#### [Mask Shell for 3D Printing in Blender](../../../../3d-modeling/blender/mask-shell-for-3d-printing-blender.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/WMBYaFODoiU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
 </div>
 
 ## Grading Rubric

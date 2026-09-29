@@ -1,7 +1,7 @@
 ---
 title: Change Appearances Fusion
 date: 2026-01-14T11:18:45
-lastmod: 2026-01-14T11:51:25
+lastmod: 2026-09-29T07:30:33-04:00
 ---
 
 <div class="video-grid">
@@ -11,4 +11,4 @@ lastmod: 2026-01-14T11:51:25
 
 </div>
 
-[Change Appearences Fusion](https://youtu.be/B0uOtduBZgI)
+[Change Appearances Fusion](https://youtu.be/B0uOtduBZgI)
