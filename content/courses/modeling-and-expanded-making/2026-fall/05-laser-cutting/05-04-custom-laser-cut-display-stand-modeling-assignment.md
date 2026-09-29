@@ -1,7 +1,7 @@
 ---
 title: 05.04 Custom Laser Cut Display Stand Modeling Assignment
 date: 2026-09-24T09:00:00-04:00
-lastmod: 2026-09-29T16:17:59-04:00
+lastmod: 2026-09-29T19:03:31-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -20,14 +20,16 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 
 1. Create Body Extension 3D Print model in [Blender](../../../../3d-modeling/blender/blender.md) or in Fusion or both.
 2. Export an `obj` of the mesh from Blender.
-3. Import the `obj` Body Extension Mesh into Fusion. Set the imported mesh units as Meters if importing from Blender or Centimeters if importing from [Maya](../../../../3d-modeling/maya/maya.md)
+3. Import the `obj` Body Extension Mesh into [Fusion](../../../../3d-modeling/fusion-360/fusion-360.md). Set the imported mesh units as Meters if importing from [Blender](../../../../3d-modeling/blender/blender.md) or Centimeters if importing from [Maya](../../../../3d-modeling/maya/maya.md)
 4. Center the mesh near the origin in Fusion and rotate it upright and facing front.
 5. Create a new component at the top level.
+   - [How to Create New Component in Fusion](../../../../3d-modeling/fusion-360/create-new-component-fusion.md)
 6. Create a construction plane in the center of the body extension.
 7. Create a sketch on the construction plane.
 8. Use the intersect project feature or the mesh section sketch feature to mark where the mesh touches the sketch.
 9. Use these intersection points to begin to form the flat laser cut parts at the correct size for the display of your 3D print.
 10. Create a new component for each part of the laser cut stand.
+    - [How to Create New Component in Fusion](../../../../3d-modeling/fusion-360/create-new-component-fusion.md)
 11. Use interlocking [Laser Cut Joints](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md) and or fasteners to hold the stand together. You can all design 3d printed connectors to join the planar laser cut parts together.
 12. Apply appearances to the components in the model.
     - [Change Appearances Fusion](../../../../3d-modeling/fusion-360/change-appearances-fusion.md)
