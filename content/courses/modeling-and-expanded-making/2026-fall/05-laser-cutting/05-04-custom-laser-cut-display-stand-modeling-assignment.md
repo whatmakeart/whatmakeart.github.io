@@ -1,7 +1,7 @@
 ---
 title: 05.04 Custom Laser Cut Display Stand Modeling Assignment
 date: 2026-09-24T09:00:00-04:00
-lastmod: 2026-09-29T20:20:02-04:00
+lastmod: 2026-09-30T06:05:39-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -21,6 +21,7 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 1. Create Body Extension 3D Print model in [Blender](../../../../3d-modeling/blender/blender.md) or in Fusion or both.
 2. Export an `obj` of the mesh from Blender.
 3. Import the `obj` Body Extension Mesh into [Fusion](../../../../3d-modeling/fusion-360/fusion-360.md). Set the imported mesh units as Meters if importing from Blender or Centimeters if importing from [Maya](../../../../3d-modeling/maya/maya.md)
+   - [Insert Polygon Mesh into Fusion](../../../../3d-modeling/fusion-360/insert-polygon-mesh-into-fusion.md)
 4. Center the mesh near the origin in Fusion and rotate it upright and facing front.
 5. Create a new component at the top level.
    - [How to Create New Component in Fusion](../../../../3d-modeling/fusion-360/create-new-component-fusion.md)
@@ -30,10 +31,11 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 8. Use these intersection points to begin to form the flat laser cut parts at the correct size for the display of your 3D print.
 9. Create a new component for each part of the laser cut stand.
    - [How to Create New Component in Fusion](../../../../3d-modeling/fusion-360/create-new-component-fusion.md)
-10. Use interlocking [Laser Cut Joints](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md) and or fasteners to hold the stand together. You can all design 3d printed connectors to join the planar laser cut parts together.
+10. Use interlocking [Laser Cut Joints](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md) and or fasteners to hold the stand together. You can also design 3d printed connectors to join the planar laser cut parts together.
+    - [3D Modeling for Laser Cutting in Fusion](../../../../digital-fabrication/laser-cutting/3d-modeling-for-laser-cutting-fusion-360.md)
 11. Apply appearances to the components in the model.
     - [Change Appearances Fusion](../../../../3d-modeling/fusion-360/change-appearances-fusion.md)
-12. Make a render of the the design. (Set the render aspect ratio to anything but _viewport_. 1:1, 3:2, 2:3, 16:9, 9:16)
+12. Make a render of the the design. (Set the render aspect ratio to anything but the default _viewport ratio_. 1:1, 3:2, 2:3, 16:9, 9:16 are all acceptable render aspect ratios.)
     - [Set Render Aspect Ratio Fusion](../../../../3d-modeling/fusion-360/render-aspect-ratio-fusion.md)
     - [Fusion Basic Rendering](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
 13. Export a `.f3d` Fusion file.
@@ -44,12 +46,19 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 
 ### Modeling for Laser Cutting in Fusion
 
-- [3D Modeling for Laser Cutting in Fusion](../../../../digital-fabrication/laser-cutting/3d-modeling-for-laser-cutting-fusion-360.md)
 - [Laser Cut 3D Model Revisions Autodesk Fusion](../../../../digital-fabrication/laser-cutting/laser-cut-3d-model-revisions-autodesk-fusion.md)
 
 ### Laser Cutting File Preparation in Fusion
 
 <div class="video-grid">
+
+<div class="video-card">
+
+#### [Insert Polygon Mesh into Fusion](../../../../3d-modeling/fusion-360/insert-polygon-mesh-into-fusion.md)
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/We1fL0uUUT4?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="video-card">
 
