@@ -1,7 +1,7 @@
 ---
 title: 05.04 Custom Laser Cut Display Stand Modeling Assignment
 date: 2026-09-24T09:00:00-04:00
-lastmod: 2026-09-29T19:03:31-04:00
+lastmod: 2026-09-29T20:20:02-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -20,25 +20,25 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 
 1. Create Body Extension 3D Print model in [Blender](../../../../3d-modeling/blender/blender.md) or in Fusion or both.
 2. Export an `obj` of the mesh from Blender.
-3. Import the `obj` Body Extension Mesh into [Fusion](../../../../3d-modeling/fusion-360/fusion-360.md). Set the imported mesh units as Meters if importing from [Blender](../../../../3d-modeling/blender/blender.md) or Centimeters if importing from [Maya](../../../../3d-modeling/maya/maya.md)
+3. Import the `obj` Body Extension Mesh into [Fusion](../../../../3d-modeling/fusion-360/fusion-360.md). Set the imported mesh units as Meters if importing from Blender or Centimeters if importing from [Maya](../../../../3d-modeling/maya/maya.md)
 4. Center the mesh near the origin in Fusion and rotate it upright and facing front.
 5. Create a new component at the top level.
    - [How to Create New Component in Fusion](../../../../3d-modeling/fusion-360/create-new-component-fusion.md)
 6. Create a construction plane in the center of the body extension.
-7. Create a sketch on the construction plane.
-8. Use the intersect project feature or the mesh section sketch feature to mark where the mesh touches the sketch.
-9. Use these intersection points to begin to form the flat laser cut parts at the correct size for the display of your 3D print.
-10. Create a new component for each part of the laser cut stand.
-    - [How to Create New Component in Fusion](../../../../3d-modeling/fusion-360/create-new-component-fusion.md)
-11. Use interlocking [Laser Cut Joints](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md) and or fasteners to hold the stand together. You can all design 3d printed connectors to join the planar laser cut parts together.
-12. Apply appearances to the components in the model.
+7. Use the intersect project feature in a sketch or the mesh section sketch feature to mark where the mesh touches the sketch.
+   - [Mesh Section Sketch Fusion](../../../../3d-modeling/fusion-360/mesh-section-sketch-fusion.md)
+8. Use these intersection points to begin to form the flat laser cut parts at the correct size for the display of your 3D print.
+9. Create a new component for each part of the laser cut stand.
+   - [How to Create New Component in Fusion](../../../../3d-modeling/fusion-360/create-new-component-fusion.md)
+10. Use interlocking [Laser Cut Joints](../../../../digital-fabrication/laser-cutting/laser-cut-joints.md) and or fasteners to hold the stand together. You can all design 3d printed connectors to join the planar laser cut parts together.
+11. Apply appearances to the components in the model.
     - [Change Appearances Fusion](../../../../3d-modeling/fusion-360/change-appearances-fusion.md)
-13. Make a render of the the design. (Set the render aspect ratio to anything but _viewport_. 1:1, 3:2, 2:3, 16:9, 9:16)
+12. Make a render of the the design. (Set the render aspect ratio to anything but _viewport_. 1:1, 3:2, 2:3, 16:9, 9:16)
     - [Set Render Aspect Ratio Fusion](../../../../3d-modeling/fusion-360/render-aspect-ratio-fusion.md)
     - [Fusion Basic Rendering](../../../../3d-modeling/fusion-360/basic-rendering-fusion-360.md)
-14. Export a `.f3d` Fusion file.
+13. Export a `.f3d` Fusion file.
     - [Export .f3d File from Fusion](../../../../3d-modeling/fusion-360/export-f3d-file-fusion-360.md)
-15. Upload to Canvas.
+14. Upload to Canvas.
 
 ## Assignment Resources
 
@@ -50,6 +50,14 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 ### Laser Cutting File Preparation in Fusion
 
 <div class="video-grid">
+
+<div class="video-card">
+
+#### [Mesh Section Sketch Fusion](../../../../3d-modeling/fusion-360/mesh-section-sketch-fusion.md)
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" title="YouTube video player" src="https://www.youtube.com/embed/oJXvHp0Zq6w?rel=0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
 
 <div class="video-card">
 
