@@ -1,7 +1,7 @@
 ---
 title: 12.06 Mocap Retarget Animation Exercise Assignment
 date: 2026-04-08T09:00:00-04:00
-lastmod: 2026-04-09T07:49:24-04:00
+lastmod: 2026-09-30T20:03:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -77,7 +77,7 @@ This project will test your technical ability to transfer skeletal data, build a
 
 <div class="video-card">
 
-#### Install Rokoko Plugin in Blender 5.0 / 5.1
+#### [How to Install the Rokoko Plugin for Blender](../../../../3d-modeling/blender/install-rokoko-plugin-for-blender.md)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/APki_ztXyvA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -86,7 +86,7 @@ This project will test your technical ability to transfer skeletal data, build a
 
 <div class="video-card">
 
-#### Retarget Motion Capture Animation with Rokoko Plugin in Blender
+#### [Retarget Motion Capture Animation with Rokoko Plugin](../../../../3d-modeling/blender/retarget-motion-capture-animation-with-rokoko-plugin.md)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fEwmjBCrJ88?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -95,7 +95,7 @@ This project will test your technical ability to transfer skeletal data, build a
 
 <div class="video-card">
 
-#### Maya Human IK Setup Mixamo Preset without Fingers
+#### [Maya Human IK Setup Mixamo Preset without Fingers](../../../../3d-modeling/maya/human-ik-setup-mixamo-preset-without-fingers.md)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/ua8H0KDLJ34?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -104,7 +104,7 @@ This project will test your technical ability to transfer skeletal data, build a
 
 <div class="video-card">
 
-#### Maya Human IK Setup Mixamo Preset with Fingers
+#### [Maya Human IK Setup Mixamo Preset with Fingers](../../../../3d-modeling/maya/human-ik-setup-mixamo-preset-with-fingers.md)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/GsEBv-WaEcw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -113,7 +113,7 @@ This project will test your technical ability to transfer skeletal data, build a
 
 <div class="video-card">
 
-#### Retarget Mixamo Character to Mocap Data with HIK in Maya
+#### [Retarget Mixamo Character to Mocap Data with HIK in Maya](../../../../3d-modeling/maya/retarget-mixamo-character-to-mocap-data-with-hik-in-maya.md)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/QhZDSUkRIoM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

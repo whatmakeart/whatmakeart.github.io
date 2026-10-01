@@ -1,7 +1,7 @@
 ---
-title: 11.02 Optitrack Calibration
-date: 2026-04-01T09:00:00-04:00
-lastmod: 2026-09-30T19:43:47-04:00
+title: 06.02 Optitrack Calibration
+date: 2026-09-30T12:00:00-04:00
+lastmod: 2026-09-30T20:07:39-04:00
 toc: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 3D Scan Clothing to Cloth Simulation Workflows Blender
 date: 2026-03-23T16:20:11-04:00
-lastmod: 2026-08-23T12:18:54-04:00
+lastmod: 2026-09-30T19:58:02-04:00
 tags:
   - Cloth
 ---
@@ -31,7 +31,7 @@ tags:
 
 - [Create Rokoko Account](https://youtu.be/J53gs9C_0bw)
 - [How to Install Rokoko Plugin in Blender](https://youtu.be/6iZXy66t3gg)
-- [Blender Retargeting: Apply MoCap to Any Armature with Rokoko](https://youtu.be/fEwmjBCrJ88)
+- [Retarget Motion Capture Animation with Rokoko Plugin](./retarget-motion-capture-animation-with-rokoko-plugin.md)
 
 <div class="video-grid">
 
@@ -55,7 +55,7 @@ tags:
 
 <div class="video-card">
 
-### Blender Retargeting: Apply MoCap to Any Armature with Rokoko
+### [Retarget Motion Capture Animation with Rokoko Plugin](./retarget-motion-capture-animation-with-rokoko-plugin.md)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fEwmjBCrJ88?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
