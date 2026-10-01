@@ -1,7 +1,7 @@
 ---
 title: 06.06 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-09-30T20:34:11-04:00
+lastmod: 2026-10-01T06:02:17-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2026-09-30T20:34:11-04:00
 
 ## Assignment Overview
 
-Use [Blender](../../../../3d-modeling/blender/blender.md) to retarget motion capture from Motive onto a character auto rigged in t-pose with Mixamo. In this assignment, you will connect raw motion capture data and final 3D character animation.
+Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion capture](../../../../3d-modeling/motion-capture-retargeting.md) from Motive onto a character auto rigged in t-pose with Mixamo. In this assignment, you will connect raw motion capture data and final 3D character animation.
 
 ### Requirements
 
@@ -23,25 +23,43 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to retarget motion cap
 
 ### Process
 
+#### 1. Export as `FBX` for Auto Rigging with Mixamo
+
 1. Prepare character for export from Blender.
    1. Create a duplicate Blender file and apply all modifiers.
    2. Join mesh objects into a single mesh.
    3. UV Unwrap and bake textures if needed.
-2. Export an `fbx` version of your character from Blender. Open your Mixamo-rigged character in Blender and confirm that it is in a T-pose with its textures connected.
+2. Export an `fbx` version of your character from Blender. Open your Mixamo-rigged character in Blender and confirm that it is in a T-pose or A-pose with its textures connected.
    - [FBX Embed Textures Blender](https://youtu.be/cA2NO3riP8I)
-3. Auto Rig character with Mixamo.
+
+#### 2. Auto Rig character with Mixamo.
+
+1. Log in to Mixamo with your Adobe credentials.
+2. Upload your exported `fbx` character to Mixamo.
+3. Use Mixamo to auto rig your character. Choose the no fingers skeleton if your character does not have fingers.
 4. Download rigged T-pose of character from Mixamo.
    - [How to Download T-Pose from Mixamo](https://youtu.be/cpR-j2gfZ6Q)
-5. Import the `FBX` motion-capture file exported from Motive. Confirm that the animation plays and that Blender’s frame rate matches the captured motion.
-6. Install and enable the Rokoko plugin. Select the Motive armature as the source and the Mixamo character armature as the target.
+
+#### 3. Retarget Motion Capture with Rokoko Plugin in Blender
+
+1. Create a free Rokoko account
+   - [Create a free Rokoko Account](https://youtu.be/J53gs9C_0bw)
+2. Install and enable the Rokoko plugin. Select the Motive armature as the source and the Mixamo character armature as the target.
    - [Install Rokoko Plugin in Blender 5.0 / 5.1](https://youtu.be/APki_ztXyvA)
-7. Build and review the bone mapping, then retarget the motion onto the character.
+3. Build and review the bone mapping, then retarget the motion onto the character.
    - [Retarget Motion Capture Animation with Rokoko Plugin](../../../../3d-modeling/blender/retarget-motion-capture-animation-with-rokoko-plugin.md)
-8. Trim the timeline to the strongest section.
-9. Add at least one light and two additional mesh objects to establish a simple environment.
-10. Create at least two camera angles. Switch cameras with timeline markers or render separate shots and combine them during editing.
-11. Render the finished animation as an MP4 with sound. Watch the exported file before submitting it to confirm that the animation, camera changes, lighting, and audio rendered correctly.
-12. Add at least one original sound effect and synchronize it with the movement. Add in Blender prior to export or add in Adobe Premiere.
+4. Import the `FBX` motion-capture file exported from Motive. Confirm that the animation plays.
+5. Extend the length of the Blender animation beyond the default 250 frames so you can see the entire mo-cap animation.
+
+#### 4. Render and Export Animation from Blender
+
+1. Trim the timeline to the strongest section.
+2. Add at least one light and two additional mesh objects, such as a ground plane and a cube, to establish a simple 3D environment.
+3. Create at least two cameras. Switch camera angles with timeline markers. To bind a camera on the timeling, position the playhead on the desired frame, hover your mouse in the timeline, press Control + B or Command + B and that camera will be set on the timeline. Move the playhead to a new frame, select the second camera and press Control + B or Command + B. <!-- TODO: Make bind camera to marker tutorial video -->
+4. Render the finished animation as an `MP4` with sound. Watch the exported file before submitting it to confirm that the animation, camera changes, lighting, and audio rendered correctly.
+   - [Render Animation Sequence Blender](../../../../3d-modeling/blender/render-animation-sequence-blender.md)
+5. Add at least one original sound effect and synchronize it with the movement. Add in Blender prior to export or add in Adobe Premiere.
+   - [Adobe Premiere Add Music and Sound](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
 
 ## Assignment Resources
 
