@@ -1,17 +1,13 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-01T06:47:17-04:00
+lastmod: 2026-10-01T07:16:12-04:00
 ---
 
 ## Assignment Deliverables
 
 1. Rendered video of original 3D character retargeted to Motion Capture Animation with sound
    - Label file YYYY-MM-DD Lastname Firstname Motion Capture Animation (`.mp4`)
-
-## Assignment Overview
-
-Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion capture](../../../../3d-modeling/motion-capture-retargeting.md) from Motive onto a character auto rigged in t-pose with Mixamo. In this assignment, you will connect raw motion capture data and final 3D character animation.
 
 ### Requirements
 
@@ -20,6 +16,10 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 - Minimum 2 additional 3D mesh objects in the scene _(For example: a plane and a cube)_
 - Minimum 2 different camera angles
 - Minimum 1 original sound effect created by you
+
+## Assignment Overview
+
+Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion capture](../../../../3d-modeling/motion-capture-retargeting.md) from Motive onto a character auto rigged in t-pose with Mixamo. In this assignment, you will connect raw motion capture data and final 3D character animation.
 
 ### Process
 
@@ -35,7 +35,7 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 
 #### 2. Auto Rig character with Mixamo.
 
-1. Log in to Mixamo with your Adobe credentials.
+1. Log in to [Mixamo](https://www.mixamo.com/) with your Adobe credentials.
 2. Upload your exported `fbx` character to Mixamo.
 3. Use Mixamo to auto rig your character. Choose the no fingers skeleton if your character does not have fingers.
 4. Download rigged T-pose of character from Mixamo.
@@ -56,9 +56,9 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 
 #### 4. Render and Export Animation from Blender
 
-1. Trim the timeline to the strongest section.
+1. Trim the timeline to the strongest section by setting the beginning and end frames.
 2. Add at least one light and two additional mesh objects, such as a ground plane and a cube, to establish a simple 3D environment.
-3. Create at least two cameras. Switch camera angles with timeline markers. To bind a camera on the timeling, position the playhead on the desired frame, hover your mouse in the timeline, press Control + B or Command + B and that camera will be set on the timeline. Move the playhead to a new frame, select the second camera and press Control + B or Command + B. <!-- TODO: Make bind camera to marker tutorial video -->
+3. Create at least two cameras. Switch camera angles with timeline markers. To bind a camera on the timeline, position the playhead on the desired frame, hover your mouse in the timeline, press Control + B or Command + B and that camera will be set on the timeline. Move the playhead to a new frame, select the second camera and press Control + B or Command + B. <!-- TODO: Make bind camera to marker tutorial video -->
 4. Render the finished animation as an `MP4` with sound. Watch the exported file before submitting it to confirm that the animation, camera changes, lighting, and audio rendered correctly.
    - [Render Animation Sequence Blender](../../../../3d-modeling/blender/render-animation-sequence-blender.md)
 5. Add at least one original sound effect and synchronize it with the movement. Add in Blender prior to export or add in Adobe Premiere.
@@ -66,24 +66,18 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 
 ## Assignment Resources
 
-### Character Modeling
+### Mocap Retargeting
 
 <div class="video-grid">
 
 <div class="video-card">
 
-#### Combine and Blend Multiple Animations in Blender
+#### [T-Pose Armature From Mixamo](../../../../3d-modeling/blender/t-pose-armature-from-mixamo.md)
 
 <div class="iframe-16-9-container">
-<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/0Yz4eFFeaeA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/cpR-j2gfZ6Q?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
-
-</div>
-
-### Mocap Retargeting
-
-<div class="video-grid">
 
 <div class="video-card">
 
@@ -100,6 +94,33 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/fEwmjBCrJ88?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### [How to import mocap armature with Aligned Bones](../../../../3d-modeling/blender/fix-broken-armature-when-importing-motive-mocap.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/a4kJnGC2__0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### [Render Animation Sequence Blender](../../../../3d-modeling/blender/render-animation-sequence-blender.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/KUF6M9pmjak?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### [Adobe Premiere Add Music and Sound](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Ds2QJryBf84?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 

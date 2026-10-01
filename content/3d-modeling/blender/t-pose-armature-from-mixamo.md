@@ -1,7 +1,7 @@
 ---
 title: T-Pose Armature From Mixamo
 date: 2025-11-16T04:40:23
-lastmod: 2026-10-01T06:46:32-04:00
+lastmod: 2026-10-01T07:11:12-04:00
 tags:
   - Blender
   - Motion-Capture
@@ -30,7 +30,7 @@ tags:
 
 </div>
 
-This guide shows how to upload a character mesh to [Mixamo](https://mixamo.com), place a few markers so Mixamo understands where the joints are, let it auto-rig and weight-paint, [download a T-pose](https://youtu.be/cpR-j2gfZ6Q) as an `FBX` with the armature and skin, and import that straight into [Blender](blender.md). It’s one of the quickest way to go from an “unrigged mesh” to a “mocap-ready armature” without setting up an entire rig by hand.
+This guide shows how to upload a character mesh to [Mixamo](https://www.mixamo.com), place a few markers so Mixamo understands where the joints are, let it auto-rig and weight-paint, [download a T-pose](https://youtu.be/cpR-j2gfZ6Q) as an `FBX` with the armature and skin, and import that straight into [Blender](blender.md). It’s one of the quickest way to go from an “unrigged mesh” to a “mocap-ready armature” without setting up an entire rig by hand.
 
 1. In Blender, make sure your mesh is one object and has a neutral pose.
 2. Apply transforms so Mixamo sees clean values:
