@@ -1,7 +1,7 @@
 ---
-title: 06.06 Mocap Retarget Animation Exercise Assignment
+title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-01T06:02:17-04:00
+lastmod: 2026-10-01T06:47:17-04:00
 ---
 
 ## Assignment Deliverables
@@ -28,6 +28,7 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 1. Prepare character for export from Blender.
    1. Create a duplicate Blender file and apply all modifiers.
    2. Join mesh objects into a single mesh.
+      - [Blender Cylinder Character Single Mesh](https://youtu.be/h-QnVcXeKJ0)
    3. UV Unwrap and bake textures if needed.
 2. Export an `fbx` version of your character from Blender. Open your Mixamo-rigged character in Blender and confirm that it is in a T-pose or A-pose with its textures connected.
    - [FBX Embed Textures Blender](https://youtu.be/cA2NO3riP8I)
@@ -38,7 +39,7 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 2. Upload your exported `fbx` character to Mixamo.
 3. Use Mixamo to auto rig your character. Choose the no fingers skeleton if your character does not have fingers.
 4. Download rigged T-pose of character from Mixamo.
-   - [How to Download T-Pose from Mixamo](https://youtu.be/cpR-j2gfZ6Q)
+   - [T-Pose Armature From Mixamo](../../../../3d-modeling/blender/t-pose-armature-from-mixamo.md)
 
 #### 3. Retarget Motion Capture with Rokoko Plugin in Blender
 
@@ -48,8 +49,10 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
    - [Install Rokoko Plugin in Blender 5.0 / 5.1](https://youtu.be/APki_ztXyvA)
 3. Build and review the bone mapping, then retarget the motion onto the character.
    - [Retarget Motion Capture Animation with Rokoko Plugin](../../../../3d-modeling/blender/retarget-motion-capture-animation-with-rokoko-plugin.md)
-4. Import the `FBX` motion-capture file exported from Motive. Confirm that the animation plays.
-5. Extend the length of the Blender animation beyond the default 250 frames so you can see the entire mo-cap animation.
+4. Import the `FBX` motion-capture file exported from Motive.
+   - [How to import mocap armature with Aligned Bones](../../../../3d-modeling/blender/fix-broken-armature-when-importing-motive-mocap.md)
+5. Confirm that the animation plays.
+6. Extend the length of the Blender animation beyond the default 250 frames so you can see the entire mo-cap animation.
 
 #### 4. Render and Export Animation from Blender
 
@@ -64,14 +67,6 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 ## Assignment Resources
 
 ### Character Modeling
-
-- [Blender to Mixamo Cylinder Character](https://youtu.be/h-QnVcXeKJ0)
-
-### Character Rigging
-
-### Combining Multiple Mocap Animations
-
-- [Combine and Blend Multiple Animations in Blender](https://youtu.be/0Yz4eFFeaeA)
 
 <div class="video-grid">
 

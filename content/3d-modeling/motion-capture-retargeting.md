@@ -1,7 +1,7 @@
 ---
 title: Motion Capture Retargeting
 date: 2026-04-08T09:00:00-04:00
-lastmod: 2026-09-30T20:01:37-04:00
+lastmod: 2026-10-01T06:16:52-04:00
 ---
 
 ### Mocap Retargeting

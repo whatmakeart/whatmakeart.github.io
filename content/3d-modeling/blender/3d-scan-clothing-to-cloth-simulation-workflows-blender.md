@@ -1,7 +1,7 @@
 ---
 title: 3D Scan Clothing to Cloth Simulation Workflows Blender
 date: 2026-03-23T16:20:11-04:00
-lastmod: 2026-09-30T19:58:02-04:00
+lastmod: 2026-10-01T06:47:17-04:00
 tags:
   - Cloth
 ---

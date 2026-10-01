@@ -1,7 +1,7 @@
 ---
-title: 06.05 Retarget Motion Capture Animation with Rokoko Plugin
+title: 06.03 Retarget Motion Capture Animation with Rokoko Plugin
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-09-30T20:07:16-04:00
+lastmod: 2026-10-01T06:47:17-04:00
 toc: true
 ---
 

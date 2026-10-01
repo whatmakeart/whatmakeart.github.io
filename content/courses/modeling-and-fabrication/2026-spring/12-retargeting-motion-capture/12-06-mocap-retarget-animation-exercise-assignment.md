@@ -1,7 +1,7 @@
 ---
 title: 12.06 Mocap Retarget Animation Exercise Assignment
 date: 2026-04-08T09:00:00-04:00
-lastmod: 2026-09-30T20:03:35-04:00
+lastmod: 2026-10-01T06:18:00-04:00
 ---
 
 ## Assignment Deliverables
