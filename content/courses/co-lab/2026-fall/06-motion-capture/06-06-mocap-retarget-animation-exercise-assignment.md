@@ -1,7 +1,7 @@
 ---
 title: 06.06 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-09-30T20:28:11-04:00
+lastmod: 2026-09-30T20:34:11-04:00
 ---
 
 ## Assignment Deliverables
@@ -23,26 +23,33 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to retarget motion cap
 
 ### Process
 
-1. Open your Mixamo-rigged character in Blender and confirm that it is in a T-pose with its textures connected.
-2. Import the FBX motion-capture file exported from Motive. Confirm that the animation plays and that Blender’s frame rate matches the captured motion.
-3. Install and enable the Rokoko plugin. Select the Motive armature as the source and the Mixamo character armature as the target.
-4. Build and review the bone mapping, then retarget the motion onto the character.
-5. Play the animation and correct problems with scale, orientation, timing, floating, or feet passing through the ground. Trim the timeline to the strongest section.
-6. Add at least one light and two additional mesh objects to establish a simple environment.
-7. Create at least two camera angles. Switch cameras with timeline markers or render separate shots and combine them during editing.
-8. Add at least one original sound effect and synchronize it with the movement.
-9. Render the finished animation as an MP4 with sound. Watch the exported file before submitting it to confirm that the animation, camera changes, lighting, and audio rendered correctly.
+1. Prepare character for export from Blender.
+   1. Create a duplicate Blender file and apply all modifiers.
+   2. Join mesh objects into a single mesh.
+   3. UV Unwrap and bake textures if needed.
+2. Export an `fbx` version of your character from Blender. Open your Mixamo-rigged character in Blender and confirm that it is in a T-pose with its textures connected.
+   - [FBX Embed Textures Blender](https://youtu.be/cA2NO3riP8I)
+3. Auto Rig character with Mixamo.
+4. Download rigged T-pose of character from Mixamo.
+   - [How to Download T-Pose from Mixamo](https://youtu.be/cpR-j2gfZ6Q)
+5. Import the `FBX` motion-capture file exported from Motive. Confirm that the animation plays and that Blender’s frame rate matches the captured motion.
+6. Install and enable the Rokoko plugin. Select the Motive armature as the source and the Mixamo character armature as the target.
+   - [Install Rokoko Plugin in Blender 5.0 / 5.1](https://youtu.be/APki_ztXyvA)
+7. Build and review the bone mapping, then retarget the motion onto the character.
+   - [Retarget Motion Capture Animation with Rokoko Plugin](../../../../3d-modeling/blender/retarget-motion-capture-animation-with-rokoko-plugin.md)
+8. Trim the timeline to the strongest section.
+9. Add at least one light and two additional mesh objects to establish a simple environment.
+10. Create at least two camera angles. Switch cameras with timeline markers or render separate shots and combine them during editing.
+11. Render the finished animation as an MP4 with sound. Watch the exported file before submitting it to confirm that the animation, camera changes, lighting, and audio rendered correctly.
+12. Add at least one original sound effect and synchronize it with the movement. Add in Blender prior to export or add in Adobe Premiere.
 
 ## Assignment Resources
 
 ### Character Modeling
 
 - [Blender to Mixamo Cylinder Character](https://youtu.be/h-QnVcXeKJ0)
-- [FBX Embed Textures Blender](https://youtu.be/cA2NO3riP8I)
 
 ### Character Rigging
-
-- [Download T-Pose from Mixamo](https://youtu.be/cpR-j2gfZ6Q)
 
 ### Combining Multiple Mocap Animations
 
@@ -60,11 +67,6 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to retarget motion cap
 </div>
 
 </div>
-
-### Mocap Retargeting
-
-- [Install Rokoko Plugin in Blender 5.0 / 5.1](https://youtu.be/APki_ztXyvA)
-- [Retarget Motion Capture Animation with Rokoko Plugin in Blender](https://youtu.be/fEwmjBCrJ88)
 
 ### Mocap Retargeting
 
