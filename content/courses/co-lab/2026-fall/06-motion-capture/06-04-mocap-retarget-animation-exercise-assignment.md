@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-02T05:50:30-04:00
+lastmod: 2026-10-02T06:37:43-04:00
 ---
 
 ## Assignment Deliverables
@@ -12,7 +12,7 @@ lastmod: 2026-10-02T05:50:30-04:00
 ### Requirements
 
 - Minimum 1 retargeted Mocap Animation onto an original humanoid character
-- Minimum 1 light in the scene
+- Minimum 2 lights in the scene
 - Minimum 2 additional 3D mesh objects in the scene _(For example: a plane and a cube)_
 - Minimum 2 different camera angles
 - Minimum 1 original sound effect created by you
@@ -53,12 +53,13 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
    - [How to import mocap armature with Aligned Bones](../../../../3d-modeling/blender/fix-broken-armature-when-importing-motive-mocap.md)
 5. Confirm that the animation plays.
 6. Extend the length of the Blender animation beyond the default 250 frames so you can see the entire mo-cap animation.
+   - [How to Extend the Blender Timeline](../../../../3d-modeling/blender/extend-frames-on-timeline-blender.md)
 
 #### 4. Render and Export Animation from Blender
 
 1. Trim the timeline to the strongest section by setting the beginning and end frames.
    - [How to Set Start and End Frames in Blender](../../../../3d-modeling/blender/set-start-and-end-frames-blender.md)
-2. Add at least one light and two additional mesh objects, such as a ground plane and a cube, to establish a simple 3D environment.
+2. Add at least two lights and two additional mesh objects, such as a ground plane and a cube, to establish a simple 3D environment.
 3. Create at least two cameras. Switch camera angles with timeline markers. To bind a camera on the timeline, position the playhead on the desired frame, hover your mouse in the timeline, press Control + B or Command + B and that camera will be set on the timeline. Move the playhead to a new frame, select the second camera and press Control + B or Command + B. <!-- TODO: Make bind camera to marker tutorial video -->
 4. Render the finished animation as an `MP4` with sound. Watch the exported file before submitting it to confirm that the animation, camera changes, lighting, and audio rendered correctly.
    - [Render Animation Sequence Blender](../../../../3d-modeling/blender/render-animation-sequence-blender.md)
@@ -109,6 +110,24 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 
 <div class="video-card">
 
+#### [How to Extend the Blender Timeline ](https://youtu.be/u53X88pXGuw)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/u53X88pXGuw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### [How to Set Start and End Frames in Blender](../../../../3d-modeling/blender/set-start-and-end-frames-blender.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/zp4Jc3BGg3k?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
 #### [Render Animation Sequence Blender](../../../../3d-modeling/blender/render-animation-sequence-blender.md)
 
 <div class="iframe-16-9-container">
@@ -134,7 +153,7 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 | Assessment                                    | Weight    |
 | --------------------------------------------- | --------- |
 | 3D Character Retargeted to Mocap Animation    | 30 points |
-| Minimum 1 Light in Scene                      | 15 points |
+| Minimum 2 Lights in Scene                     | 15 points |
 | Minimum 2 Additional 3D Mesh Objects in Scene | 15 points |
 | Mocap Character in Frame                      | 15 points |
 | Sound Effect Added                            | 15 points |

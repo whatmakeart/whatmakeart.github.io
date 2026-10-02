@@ -1,7 +1,7 @@
 ---
 title: Boolean Intersect Photogrammetry Scan in Blender
 date: 2026-09-01T17:53:52-04:00
-lastmod: 2026-09-21T10:37:06-04:00
+lastmod: 2026-10-02T06:35:46-04:00
 ---
 
 <div class="iframe-16-9-container">
