@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-02T06:37:43-04:00
+lastmod: 2026-10-02T08:34:42-04:00
 ---
 
 ## Assignment Deliverables
@@ -60,7 +60,8 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 1. Trim the timeline to the strongest section by setting the beginning and end frames.
    - [How to Set Start and End Frames in Blender](../../../../3d-modeling/blender/set-start-and-end-frames-blender.md)
 2. Add at least two lights and two additional mesh objects, such as a ground plane and a cube, to establish a simple 3D environment.
-3. Create at least two cameras. Switch camera angles with timeline markers. To bind a camera on the timeline, position the playhead on the desired frame, hover your mouse in the timeline, press Control + B or Command + B and that camera will be set on the timeline. Move the playhead to a new frame, select the second camera and press Control + B or Command + B. <!-- TODO: Make bind camera to marker tutorial video -->
+3. Create at least two cameras. Switch camera angles with timeline markers. To bind a camera on the timeline, position the playhead on the desired frame, hover your mouse in the timeline, press Control + B or Command + B and that camera will be set on the timeline. Move the playhead to a new frame, select the second camera and press Control + B or Command + B.
+   - [How to Use Multiple Cameras in Blender Animation](../../../../3d-modeling/blender/multiple-camera-angles-animation-blender.md)
 4. Render the finished animation as an `MP4` with sound. Watch the exported file before submitting it to confirm that the animation, camera changes, lighting, and audio rendered correctly.
    - [Render Animation Sequence Blender](../../../../3d-modeling/blender/render-animation-sequence-blender.md)
 5. Add at least one original sound effect and synchronize it with the movement. Add in Blender prior to export or add in Adobe Premiere.
@@ -123,6 +124,15 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/zp4Jc3BGg3k?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### [How to Use Multiple Cameras in Blender Animation](../../../../3d-modeling/blender/multiple-camera-angles-animation-blender.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/zQ6yNGFbZqM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
