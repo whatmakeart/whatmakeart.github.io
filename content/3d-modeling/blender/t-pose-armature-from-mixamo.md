@@ -1,14 +1,14 @@
 ---
 title: T-Pose Armature From Mixamo
 date: 2025-11-16T04:40:23
-lastmod: 2026-10-01T07:11:12-04:00
+lastmod: 2026-10-02T05:45:54-04:00
 tags:
   - Blender
   - Motion-Capture
   - Mixamo
 ---
 
-<div class="video-grid">   - [How to Download T-Pose from Mixamo](https://youtu.be/cpR-j2gfZ6Q)
+<div class="video-grid">
 
 <div class ="video-card">
 

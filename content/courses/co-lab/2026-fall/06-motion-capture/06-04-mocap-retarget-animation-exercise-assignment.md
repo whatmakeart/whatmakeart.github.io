@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-01T07:16:12-04:00
+lastmod: 2026-10-02T05:50:30-04:00
 ---
 
 ## Assignment Deliverables
@@ -57,6 +57,7 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 #### 4. Render and Export Animation from Blender
 
 1. Trim the timeline to the strongest section by setting the beginning and end frames.
+   - [How to Set Start and End Frames in Blender](../../../../3d-modeling/blender/set-start-and-end-frames-blender.md)
 2. Add at least one light and two additional mesh objects, such as a ground plane and a cube, to establish a simple 3D environment.
 3. Create at least two cameras. Switch camera angles with timeline markers. To bind a camera on the timeline, position the playhead on the desired frame, hover your mouse in the timeline, press Control + B or Command + B and that camera will be set on the timeline. Move the playhead to a new frame, select the second camera and press Control + B or Command + B. <!-- TODO: Make bind camera to marker tutorial video -->
 4. Render the finished animation as an `MP4` with sound. Watch the exported file before submitting it to confirm that the animation, camera changes, lighting, and audio rendered correctly.
@@ -130,13 +131,13 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 
 <div class="responsive-table-markdown">
 
-| Assessment                           | Weight    |
-| ------------------------------------ | --------- |
-| Retargeted Mocap Character           | 30 points |
-| Minimum 1 Light                      | 15 points |
-| Minimum 2 Additional 3D Mesh Objects | 15 points |
-| 2 Camera Angles                      | 15 points |
-| Original Sound Effect                | 15 points |
-| File Management and Labeling         | 10 Points |
+| Assessment                                    | Weight    |
+| --------------------------------------------- | --------- |
+| 3D Character Retargeted to Mocap Animation    | 30 points |
+| Minimum 1 Light in Scene                      | 15 points |
+| Minimum 2 Additional 3D Mesh Objects in Scene | 15 points |
+| Mocap Character in Frame                      | 15 points |
+| Sound Effect Added                            | 15 points |
+| File Management and Labeling                  | 10 Points |
 
 </div>
