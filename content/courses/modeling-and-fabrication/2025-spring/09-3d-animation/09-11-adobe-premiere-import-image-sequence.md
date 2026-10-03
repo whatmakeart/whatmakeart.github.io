@@ -1,8 +1,8 @@
 ---
 title: 09.11 Adobe Premiere Import Image Sequence
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-04-03T10:00:12
+lastmod: 2026-10-03T10:52:12-04:00
 toc: true
 ---
 
-![Link to included file content](../../../../video/adobe-premiere-pro/adobe-premiere-import-image-sequence.md)
+![Link to included file content](../../../../video/adobe-premiere-pro/import-image-sequence-adobe-premiere.md)
