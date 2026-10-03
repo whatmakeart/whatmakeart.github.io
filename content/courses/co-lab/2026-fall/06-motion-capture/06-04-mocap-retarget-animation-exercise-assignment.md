@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-03T12:42:28-04:00
+lastmod: 2026-10-03T13:32:36-04:00
 ---
 
 ## Assignment Deliverables
@@ -53,7 +53,7 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
    - [How to import mocap armature with Aligned Bones](../../../../3d-modeling/blender/fix-broken-armature-when-importing-motive-mocap.md)
 6. Build and review the bone mapping, then retarget the motion onto the character.
    - [Retarget Motion Capture Animation with Rokoko Plugin](../../../../3d-modeling/blender/retarget-motion-capture-animation-with-rokoko-plugin.md)
-   - [Auto Bone Rename Addon](https://github.com/whatmakeart/motive-mixamo-bone-normalizer/archive/refs/tags/v1.1.0.zip) - Optional Addon that automatically renames the bones before retargeting.
+   - [Auto Bone Rename Addon](https://github.com/whatmakeart/motive_mixamo_bone_normalizer/releases/download/v.1.1.1/motive_mixamo_bone_normalizer_1.1.1.zip) - Optional Addon that automatically renames the bones before retargeting.
 7. Fix `AttributeError: 'Action' object has no attribute 'fcurves'`. If you get this error when clicking build bone list, then you need to install the Beta version of the Rokoko Plugin and restart Blender.
    - [How to Fix _AttributeError 'Action' object has no attribute 'fcurves'_](../../../../3d-modeling/blender/fix-attributeerror-action-object-has-no-attribute-fcurves.md)
 8. Confirm that the animation plays.
