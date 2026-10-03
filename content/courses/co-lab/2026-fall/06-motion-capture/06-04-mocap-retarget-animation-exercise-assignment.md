@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-03T10:56:40-04:00
+lastmod: 2026-10-03T12:03:30-04:00
 ---
 
 ## Assignment Deliverables
@@ -38,23 +38,26 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 1. Log in to [Mixamo](https://www.mixamo.com/) with your Adobe credentials.
 2. Upload your exported `fbx` character to Mixamo.
 3. Use Mixamo to auto rig your character. Choose the no fingers skeleton if your character does not have fingers.
-4. Download rigged T-pose of character from Mixamo.
+4. Download auto-rigged T-pose `FBX` of your character from Mixamo.
    - [T-Pose Armature From Mixamo](../../../../3d-modeling/blender/t-pose-armature-from-mixamo.md)
 
 #### 3. Retarget Motion Capture with Rokoko Plugin in Blender
 
 1. Create a free Rokoko account
    - [Create a free Rokoko Account](https://youtu.be/J53gs9C_0bw)
-2. Install and enable the Rokoko plugin. Select the Motive armature as the source and the Mixamo character armature as the target.
+2. Open Blender.
+3. Install and enable the Rokoko plugin. Select the Motive armature as the source and the Mixamo character armature as the target.
    - [Install Rokoko Plugin in Blender 5.0 / 5.1](https://youtu.be/APki_ztXyvA)
-3. Build and review the bone mapping, then retarget the motion onto the character.
-   - [Retarget Motion Capture Animation with Rokoko Plugin](../../../../3d-modeling/blender/retarget-motion-capture-animation-with-rokoko-plugin.md)
-4. Fix `AttributeError: 'Action' object has no attribute 'fcurves'`. If you get this error when clicking build bone list, then you need to install the Beta version of the Rokoko Plugin and restart Blender.
-   - [How to Fix _AttributeError 'Action' object has no attribute 'fcurves'_](../../../../3d-modeling/blender/fix-attributeerror-action-object-has-no-attribute-fcurves.md)
-5. Import the `FBX` motion-capture file exported from Motive.
+4. Import the T-Pose Auto-rigged FBX character downloaded from Mixamo.
+5. Import the `FBX` motion-capture file exported from Motive with the **FBX (.fbx) (Legacy)** import option. You need to use the _Legacy_ version so you can automatically align the bones of the mocap armature on import.
    - [How to import mocap armature with Aligned Bones](../../../../3d-modeling/blender/fix-broken-armature-when-importing-motive-mocap.md)
-6. Confirm that the animation plays.
-7. Extend the length of the Blender animation beyond the default 250 frames so you can see the entire mo-cap animation.
+6. Build and review the bone mapping, then retarget the motion onto the character.
+   - [Retarget Motion Capture Animation with Rokoko Plugin](../../../../3d-modeling/blender/retarget-motion-capture-animation-with-rokoko-plugin.md)
+   - [Auto Bone Rename Addon](https://github.com/whatmakeart/motive-mixamo-bone-normalizer/archive/refs/tags/v1.0.zip) - Optional Addon that automatically renames the bones before retargeting.
+7. Fix `AttributeError: 'Action' object has no attribute 'fcurves'`. If you get this error when clicking build bone list, then you need to install the Beta version of the Rokoko Plugin and restart Blender.
+   - [How to Fix _AttributeError 'Action' object has no attribute 'fcurves'_](../../../../3d-modeling/blender/fix-attributeerror-action-object-has-no-attribute-fcurves.md)
+8. Confirm that the animation plays.
+9. Extend the length of the Blender animation beyond the default 250 frames so you can see the entire mo-cap animation.
    - [How to Extend the Blender Timeline](../../../../3d-modeling/blender/extend-frames-on-timeline-blender.md)
 
 #### 4. Render and Export Animation from Blender
