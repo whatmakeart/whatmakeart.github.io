@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-02T08:34:42-04:00
+lastmod: 2026-10-03T10:43:04-04:00
 ---
 
 ## Assignment Deliverables
@@ -49,10 +49,12 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
    - [Install Rokoko Plugin in Blender 5.0 / 5.1](https://youtu.be/APki_ztXyvA)
 3. Build and review the bone mapping, then retarget the motion onto the character.
    - [Retarget Motion Capture Animation with Rokoko Plugin](../../../../3d-modeling/blender/retarget-motion-capture-animation-with-rokoko-plugin.md)
-4. Import the `FBX` motion-capture file exported from Motive.
+4. Fix `AttributeError: 'Action' object has no attribute 'fcurves'`. If you get this error when clicking build bone list, then you need to install the Beta version of the Rokoko Plugin and restart Blender.
+   - [How to Fix _AttributeError 'Action' object has no attribute 'fcurves'_](../../../../3d-modeling/blender/fix-attributeerror-action-object-has-no-attribute-fcurves.md)
+5. Import the `FBX` motion-capture file exported from Motive.
    - [How to import mocap armature with Aligned Bones](../../../../3d-modeling/blender/fix-broken-armature-when-importing-motive-mocap.md)
-5. Confirm that the animation plays.
-6. Extend the length of the Blender animation beyond the default 250 frames so you can see the entire mo-cap animation.
+6. Confirm that the animation plays.
+7. Extend the length of the Blender animation beyond the default 250 frames so you can see the entire mo-cap animation.
    - [How to Extend the Blender Timeline](../../../../3d-modeling/blender/extend-frames-on-timeline-blender.md)
 
 #### 4. Render and Export Animation from Blender
@@ -106,6 +108,15 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/a4kJnGC2__0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### [Fix AttributeError 'Action' object has no attribute 'fcurves'](../../../../3d-modeling/blender/fix-attributeerror-action-object-has-no-attribute-fcurves.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/kKSy7bpu7xk?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
