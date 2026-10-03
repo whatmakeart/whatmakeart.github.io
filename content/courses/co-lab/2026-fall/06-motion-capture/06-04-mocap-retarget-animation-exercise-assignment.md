@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-03T13:32:36-04:00
+lastmod: 2026-10-03T14:08:47-04:00
 ---
 
 ## Assignment Deliverables
@@ -51,14 +51,21 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 4. Import the T-Pose Auto-rigged FBX character downloaded from Mixamo.
 5. Import the `FBX` motion-capture file exported from Motive with the **FBX (.fbx) (Legacy)** import option. You need to use the _Legacy_ version so you can automatically align the bones of the mocap armature on import.
    - [How to import mocap armature with Aligned Bones](../../../../3d-modeling/blender/fix-broken-armature-when-importing-motive-mocap.md)
-6. Build and review the bone mapping, then retarget the motion onto the character.
+6. Optionally install [Auto Bone Rename Blender Addon](https://github.com/whatmakeart/motive_mixamo_bone_normalizer/releases/download/v.1.1.1/motive_mixamo_bone_normalizer_1.1.1.zip) This optional Addon automatically renames the bones before building the bone list with the Rokoko plugin. This makes bone list automatically match the bone pairs in the source mocap with the bones in the target mocap.
+   - Download addon [zip file](https://github.com/whatmakeart/motive_mixamo_bone_normalizer/releases/download/v.1.1.1/motive_mixamo_bone_normalizer_1.1.1.zip).
+   - Blender → Edit → Preferences → Add Ons → Install from disk ... then select the `zip` file to install the addon.
+   - Select all of the armatures in the scene. Press "N" to open the side panel. Select the Retarget tab. Then click the Normalize Bones button.
+   - Now all the bone names will match in each armature.
+7. In the Rokoko tab, select your character for the target armature and one of the mocap armatures for the source.
+8. Build and review the bone mapping. If you did not install the bone rename addon, then manually match the bone names from the source armature to the target armature.
    - [Retarget Motion Capture Animation with Rokoko Plugin](../../../../3d-modeling/blender/retarget-motion-capture-animation-with-rokoko-plugin.md)
-   - [Auto Bone Rename Addon](https://github.com/whatmakeart/motive_mixamo_bone_normalizer/releases/download/v.1.1.1/motive_mixamo_bone_normalizer_1.1.1.zip) - Optional Addon that automatically renames the bones before retargeting.
-7. Fix `AttributeError: 'Action' object has no attribute 'fcurves'`. If you get this error when clicking build bone list, then you need to install the Beta version of the Rokoko Plugin and restart Blender.
+9. Fix `AttributeError: 'Action' object has no attribute 'fcurves'`. If you get this error when clicking build bone list, then you need to install the Beta version of the Rokoko Plugin and restart Blender.
    - [How to Fix _AttributeError 'Action' object has no attribute 'fcurves'_](../../../../3d-modeling/blender/fix-attributeerror-action-object-has-no-attribute-fcurves.md)
-8. Confirm that the animation plays.
-9. Extend the length of the Blender animation beyond the default 250 frames so you can see the entire mo-cap animation.
-   - [How to Extend the Blender Timeline](../../../../3d-modeling/blender/extend-frames-on-timeline-blender.md)
+10. After matching the bones, then click retarget.
+11. Confirm that the animation plays.
+12. Extend the length of the Blender animation beyond the default 250 frames so you can see the entire mo-cap animation.
+
+- [How to Extend the Blender Timeline](../../../../3d-modeling/blender/extend-frames-on-timeline-blender.md)
 
 #### 4. Render and Export Animation from Blender
 
