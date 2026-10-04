@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-04T07:46:49-04:00
+lastmod: 2026-10-04T09:37:50-04:00
 ---
 
 ## Assignment Deliverables
@@ -23,7 +23,7 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 
 #### 1. Prepare 3D Character for Export as `FBX` for Auto Rigging with Mixamo
 
-1. Prepare character for export from Blender.
+1. Prepare 3D character for export from Blender.
    1. Create a duplicate Blender file of your character and save teh original version as a backup.
    2. In the duplicate Blender copy, apply all modifiers to your 3D character.
    3. Confirm your character is in a T-pose or A-pose with its textures connected.
@@ -31,7 +31,7 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
       - [Blender Cylinder Character Single Mesh](https://youtu.be/h-QnVcXeKJ0)
    5. UV Unwrap and adjust and bake textures if needed. <!-- TODO: Quick Remesh and bake Texture video -->
 2. Export an `FBX` version of your character from Blender. Make sure only your character is selected and you check the box to only export the selection.
-   - [FBX Embed Textures Blender](https://youtu.be/cA2NO3riP8I)
+   - [Embed FBX Textures Blender](https://youtu.be/cA2NO3riP8I)
 
 #### 2. Auto Rig character with Mixamo.
 
@@ -53,10 +53,10 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 6. Import the `FBX` motion-capture file exported from Motive with the **FBX (.fbx) (Legacy)** import option. You need to use the _Legacy_ version so you can automatically align the bones of the mocap armature on import.
    - [How to import mocap armature with Aligned Bones](../../../../3d-modeling/blender/fix-broken-armature-when-importing-motive-mocap.md)
 7. Optionally install [Auto Bone Rename Blender Addon](https://github.com/whatmakeart/motive_mixamo_bone_normalizer/releases/download/v.1.1.1/motive_mixamo_bone_normalizer_1.1.1.zip) This optional Addon automatically renames the bones before building the bone list with the Rokoko plugin. This makes bone list automatically match the bone pairs in the source mocap with the bones in the target mocap.
-   - Download the rename addon [zip file](https://github.com/whatmakeart/motive_mixamo_bone_normalizer/releases/download/v.1.1.1/motive_mixamo_bone_normalizer_1.1.1.zip).
+   - Download the rename addon [zip file](https://github.com/whatmakeart/motive_mixamo_bone_normalizer/releases/download/v.1.1.1/motive_mixamo_bone_normalizer_1.1.1.zip). <!-- TODO: Install Rename Addon video -->
    - Blender → Edit → Preferences → Add Ons → Install from disk ... then select the `zip` file to install the addon.
    - Select all of the armatures in the scene.
-   - Press "N" to open the side panel. Select the Retarget tab in the side panel.
+   - Press "N" to open the side panel. Select the Retarget tab in the side panel. <!-- TODO: How to use rename addon video -->
    - Then click the Normalize Bones button to automatically rename all the bones of the selected armatures..
    - Now all the bone names will match in each armature.
 8. In the Rokoko tab, select your character T-Pose for the target armature and one of the Motive mocap armatures for the source.
