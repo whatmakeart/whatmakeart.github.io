@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-06T05:26:29-04:00
+lastmod: 2026-10-06T06:19:43-04:00
 ---
 
 ## Assignment Deliverables
@@ -74,6 +74,7 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 2. Add at least two additional mesh objects, such as a ground plane and a cube, to establish a simple 3D environment.
    - [How to Model Simple Scenery Blender](../../../../3d-modeling/blender/model-simple-scenery-blender.md)
 3. Add at least two lights to the scene. Lighting is essential for rendering.
+   - [How to Add Basic Lights to Scene in Blender](../../../../3d-modeling/blender/add-basic-lights-to-scene-blender.md)
 4. Create at least two cameras. Switch camera angles with timeline markers. To bind a camera on the timeline, position the playhead on the desired frame, hover your mouse in the timeline, press Control + B or Command + B and that camera will be set on the timeline. Move the playhead to a new frame, select the second camera and press Control + B or Command + B.
    - [How to Use Multiple Cameras in Blender Animation](../../../../3d-modeling/blender/multiple-camera-angles-animation-blender.md)
 5. Render the finished animation as an `MP4` with sound. Watch the exported file before submitting it to confirm that the animation, camera changes, lighting, and audio rendered correctly.
@@ -161,6 +162,15 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/dO4K5PZucxE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### [Add Basic Lights to Scene in Blender](../../../../3d-modeling/blender/add-basic-lights-to-scene-blender.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/LdsLNUSaAyo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
