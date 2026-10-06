@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-06T06:19:43-04:00
+lastmod: 2026-10-06T14:40:51-04:00
 ---
 
 ## Assignment Deliverables
@@ -77,8 +77,9 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
    - [How to Add Basic Lights to Scene in Blender](../../../../3d-modeling/blender/add-basic-lights-to-scene-blender.md)
 4. Create at least two cameras. Switch camera angles with timeline markers. To bind a camera on the timeline, position the playhead on the desired frame, hover your mouse in the timeline, press Control + B or Command + B and that camera will be set on the timeline. Move the playhead to a new frame, select the second camera and press Control + B or Command + B.
    - [How to Use Multiple Cameras in Blender Animation](../../../../3d-modeling/blender/multiple-camera-angles-animation-blender.md)
-5. Render the finished animation as an `MP4` with sound. Watch the exported file before submitting it to confirm that the animation, camera changes, lighting, and audio rendered correctly.
-   - [Render Animation Sequence Blender](../../../../3d-modeling/blender/render-animation-sequence-blender.md)
+5. Render the finished animation as a series of PNG images or as a video file.
+   - [How to Render Animation as a Video from Blender](../../../../3d-modeling/blender/render-animation-as-video-from-blender.md)
+   - [How to Render Animation PNG Sequence Blender](../../../../3d-modeling/blender/render-animation-sequence-blender.md)
 6. Import the exported animation frames into [Adobe Premiere](../../../../video/adobe-premiere-pro/adobe-premiere.md) as an Image Sequence. You need to import as an image sequence so it plays like an animation in Premiere.
    - [How to Import Image Sequence into Premiere](../../../../video/adobe-premiere-pro/import-image-sequence-adobe-premiere.md)
    - [How to Change Frame Rate Adobe Premiere](../../../../video/adobe-premiere-pro/change-frame-rate-adobe-premiere.md) to match Blender animation if needed to speed up or slow down animation in Premiere.
@@ -181,6 +182,14 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/NTm0HJ7B8EE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+</div>
+
+<div class="video-card">
+
+#### [Render Animation as Video from Blender](../../../../3d-modeling/blender/render-animation-as-video-from-blender.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/QK_kvmtHyXU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="video-card">
