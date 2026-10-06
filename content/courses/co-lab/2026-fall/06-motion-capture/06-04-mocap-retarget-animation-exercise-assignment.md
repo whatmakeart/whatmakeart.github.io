@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-05T21:09:47-04:00
+lastmod: 2026-10-06T05:26:29-04:00
 ---
 
 ## Assignment Deliverables
@@ -71,17 +71,19 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 
 1. Trim the timeline to the strongest section by setting the beginning and end frames.
    - [How to Set Start and End Frames in Blender](../../../../3d-modeling/blender/set-start-and-end-frames-blender.md)
-2. Add at least two lights and two additional mesh objects, such as a ground plane and a cube, to establish a simple 3D environment.
-3. Create at least two cameras. Switch camera angles with timeline markers. To bind a camera on the timeline, position the playhead on the desired frame, hover your mouse in the timeline, press Control + B or Command + B and that camera will be set on the timeline. Move the playhead to a new frame, select the second camera and press Control + B or Command + B.
+2. Add at least two additional mesh objects, such as a ground plane and a cube, to establish a simple 3D environment.
+   - [How to Model Simple Scenery Blender](../../../../3d-modeling/blender/model-simple-scenery-blender.md)
+3. Add at least two lights to the scene. Lighting is essential for rendering.
+4. Create at least two cameras. Switch camera angles with timeline markers. To bind a camera on the timeline, position the playhead on the desired frame, hover your mouse in the timeline, press Control + B or Command + B and that camera will be set on the timeline. Move the playhead to a new frame, select the second camera and press Control + B or Command + B.
    - [How to Use Multiple Cameras in Blender Animation](../../../../3d-modeling/blender/multiple-camera-angles-animation-blender.md)
-4. Render the finished animation as an `MP4` with sound. Watch the exported file before submitting it to confirm that the animation, camera changes, lighting, and audio rendered correctly.
+5. Render the finished animation as an `MP4` with sound. Watch the exported file before submitting it to confirm that the animation, camera changes, lighting, and audio rendered correctly.
    - [Render Animation Sequence Blender](../../../../3d-modeling/blender/render-animation-sequence-blender.md)
-5. Import the exported animation frames into [Adobe Premiere](../../../../video/adobe-premiere-pro/adobe-premiere.md) as an Image Sequence. You need to import as an image sequence so it plays like an animation in Premiere.
+6. Import the exported animation frames into [Adobe Premiere](../../../../video/adobe-premiere-pro/adobe-premiere.md) as an Image Sequence. You need to import as an image sequence so it plays like an animation in Premiere.
    - [How to Import Image Sequence into Premiere](../../../../video/adobe-premiere-pro/import-image-sequence-adobe-premiere.md)
    - [How to Change Frame Rate Adobe Premiere](../../../../video/adobe-premiere-pro/change-frame-rate-adobe-premiere.md) to match Blender animation if needed to speed up or slow down animation in Premiere.
-6. Add at least one original sound effect and synchronize it with the movement.
+7. Add at least one original sound effect and synchronize it with the movement.
    - [How to Add Music and Sound in Adobe Premiere](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
-7. Export `.mp4` with Sound Effects from Adobe Premiere.
+8. Export `.mp4` with Sound Effects from Adobe Premiere.
    - [How to Export Video from Adobe Premiere](../../../../video/adobe-premiere-pro/export-video-adobe-premiere.md)
 
 ## Assignment Resources
@@ -150,6 +152,15 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/zp4Jc3BGg3k?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="video-card">
+
+#### [Model Simple Scenery Blender](../../../../3d-modeling/blender/model-simple-scenery-blender.md)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/dO4K5PZucxE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
