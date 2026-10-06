@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-05T20:44:10-04:00
+lastmod: 2026-10-05T21:09:47-04:00
 ---
 
 ## Assignment Deliverables
@@ -54,17 +54,15 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
    - [How to import mocap armature with Aligned Bones](../../../../3d-modeling/blender/fix-broken-armature-when-importing-motive-mocap.md)
 7. Optionally install [Auto Bone Rename Blender Addon](../../../../3d-modeling/blender/install-bone-normalizer-remame-addon-blender.md) This optional Add-on automatically renames the bones before building the bone list with the Rokoko plugin. This makes bone list automatically match the bone pairs in the source mocap with the bones in the target mocap.
    - [How to Install Bone Normalizer Rename Add On Blender](../../../../3d-modeling/blender/install-bone-normalizer-remame-addon-blender.md)
-   - Press "N" to open the side panel. Select the Retarget tab in the side panel.
-   - Then click the Normalize Bones button to automatically rename all the bones of the selected armatures..
-   - Now all the bone names will match in each armature.
+   - [How to Use the Auto Bone Rename Addon in Blender](../../../../3d-modeling/blender/auto-bone-rename-addon-blender.md)
 8. In the Rokoko tab, select your character T-Pose for the target armature and one of the Motive mocap armatures for the source.
    - Click `Build Bone List`
    - Review the bone mapping.
    - If you did not install the bone rename addon, then [manually match the bone names](https://youtu.be/fEwmjBCrJ88?t=112) from the source armature to the target armature.
-   - [Retarget Motion Capture Animation with Rokoko Plugin](../../../../3d-modeling/blender/retarget-motion-capture-animation-with-rokoko-plugin.md)
+   - [How to Retarget Motion Capture Animation with Rokoko Plugin](../../../../3d-modeling/blender/retarget-motion-capture-animation-with-rokoko-plugin.md)
 9. Fix `AttributeError: 'Action' object has no attribute 'fcurves'`. If you get this error when clicking build bone list, then you need to install the Beta version of the Rokoko Plugin and restart Blender.
    - [How to Fix _AttributeError 'Action' object has no attribute 'fcurves'_](../../../../3d-modeling/blender/fix-attributeerror-action-object-has-no-attribute-fcurves.md)
-10. After matching the bones, then click retarget.
+10. After matching the bones, then click `Retarget`.
 11. Confirm that the animation plays.
 12. Extend the length of the Blender animation beyond the default 250 frames so you can see the entire mo-cap animation.
     - [How to Extend the Blender Timeline](../../../../3d-modeling/blender/extend-frames-on-timeline-blender.md)
@@ -79,12 +77,12 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 4. Render the finished animation as an `MP4` with sound. Watch the exported file before submitting it to confirm that the animation, camera changes, lighting, and audio rendered correctly.
    - [Render Animation Sequence Blender](../../../../3d-modeling/blender/render-animation-sequence-blender.md)
 5. Import the exported animation frames into [Adobe Premiere](../../../../video/adobe-premiere-pro/adobe-premiere.md) as an Image Sequence. You need to import as an image sequence so it plays like an animation in Premiere.
-   - [Adobe Premiere Import Image Sequence](../../../../video/adobe-premiere-pro/import-image-sequence-adobe-premiere.md)
-   - [Change Frame Rate Adobe Premiere](../../../../video/adobe-premiere-pro/change-frame-rate-adobe-premiere.md) to match Blender animation if needed to speed up or slow down animation in Premiere.
+   - [How to Import Image Sequence into Premiere](../../../../video/adobe-premiere-pro/import-image-sequence-adobe-premiere.md)
+   - [How to Change Frame Rate Adobe Premiere](../../../../video/adobe-premiere-pro/change-frame-rate-adobe-premiere.md) to match Blender animation if needed to speed up or slow down animation in Premiere.
 6. Add at least one original sound effect and synchronize it with the movement.
-   - [Adobe Premiere Add Music and Sound](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
+   - [How to Add Music and Sound in Adobe Premiere](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
 7. Export `.mp4` with Sound Effects from Adobe Premiere.
-   - [Export Video from Adobe Premiere](../../../../video/adobe-premiere-pro/export-video-adobe-premiere.md)
+   - [How to Export Video from Adobe Premiere](../../../../video/adobe-premiere-pro/export-video-adobe-premiere.md)
 
 ## Assignment Resources
 
