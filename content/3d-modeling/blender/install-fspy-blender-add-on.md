@@ -1,9 +1,10 @@
 ---
 title: Install fSpy Blender Add-on
 date: 2024-08-28T09:00:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-05T20:36:49-04:00
 ---
 
+<div class="video-grid">
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/1HOqnb1Uji4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -11,7 +12,7 @@ lastmod: 2025-12-23T10:12:35-04:00
 
 This [Blender](blender.md) tutorial shows how to install the fSpy importer add-on, which allows you to import your fSpy project files into Blender.
 
-### fSpy Blender Addo-on Installation Steps
+### fSpy Blender Add-on Installation Steps
 
 1. [Download](https://github.com/stuffmatic/fSpy-Blender/releases/latest) the fSpy importer add-on from the [add-on's GitHub repository](https://github.com/stuffmatic/fSpy-Blender/).
 2. Open Blender and go to Edit - Preferences.

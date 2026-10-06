@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-05T16:16:12-04:00
+lastmod: 2026-10-05T20:44:10-04:00
 ---
 
 ## Assignment Deliverables
@@ -52,21 +52,21 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 5. Import the T-Pose Auto-rigged FBX character downloaded from Mixamo.
 6. Import the `FBX` motion-capture file exported from Motive with the **FBX (.fbx) (Legacy)** import option. You need to use the _Legacy_ version so you can automatically align the bones of the mocap armature on import.
    - [How to import mocap armature with Aligned Bones](../../../../3d-modeling/blender/fix-broken-armature-when-importing-motive-mocap.md)
-7. Optionally install [Auto Bone Rename Blender Addon](https://github.com/whatmakeart/motive_mixamo_bone_normalizer/releases/download/v.1.1.1/motive_mixamo_bone_normalizer_1.1.1.zip) This optional Addon automatically renames the bones before building the bone list with the Rokoko plugin. This makes bone list automatically match the bone pairs in the source mocap with the bones in the target mocap.
-   - Download the rename addon [zip file](https://github.com/whatmakeart/motive_mixamo_bone_normalizer/releases/download/v.1.1.1/motive_mixamo_bone_normalizer_1.1.1.zip). <!-- TODO: Install Rename Addon video -->
-   - Blender → Edit → Preferences → Add Ons → Install from disk ... then select the `zip` file to install the addon.
-   - Select all of the armatures in the scene.
-   - Press "N" to open the side panel. Select the Retarget tab in the side panel. <!-- TODO: How to use rename addon video -->
+7. Optionally install [Auto Bone Rename Blender Addon](../../../../3d-modeling/blender/install-bone-normalizer-remame-addon-blender.md) This optional Add-on automatically renames the bones before building the bone list with the Rokoko plugin. This makes bone list automatically match the bone pairs in the source mocap with the bones in the target mocap.
+   - [How to Install Bone Normalizer Rename Add On Blender](../../../../3d-modeling/blender/install-bone-normalizer-remame-addon-blender.md)
+   - Press "N" to open the side panel. Select the Retarget tab in the side panel.
    - Then click the Normalize Bones button to automatically rename all the bones of the selected armatures..
    - Now all the bone names will match in each armature.
 8. In the Rokoko tab, select your character T-Pose for the target armature and one of the Motive mocap armatures for the source.
-9. Build and review the bone mapping. If you did not install the bone rename addon, then manually match the bone names from the source armature to the target armature.
+   - Click `Build Bone List`
+   - Review the bone mapping.
+   - If you did not install the bone rename addon, then [manually match the bone names](https://youtu.be/fEwmjBCrJ88?t=112) from the source armature to the target armature.
    - [Retarget Motion Capture Animation with Rokoko Plugin](../../../../3d-modeling/blender/retarget-motion-capture-animation-with-rokoko-plugin.md)
-10. Fix `AttributeError: 'Action' object has no attribute 'fcurves'`. If you get this error when clicking build bone list, then you need to install the Beta version of the Rokoko Plugin and restart Blender.
-    - [How to Fix _AttributeError 'Action' object has no attribute 'fcurves'_](../../../../3d-modeling/blender/fix-attributeerror-action-object-has-no-attribute-fcurves.md)
-11. After matching the bones, then click retarget.
-12. Confirm that the animation plays.
-13. Extend the length of the Blender animation beyond the default 250 frames so you can see the entire mo-cap animation.
+9. Fix `AttributeError: 'Action' object has no attribute 'fcurves'`. If you get this error when clicking build bone list, then you need to install the Beta version of the Rokoko Plugin and restart Blender.
+   - [How to Fix _AttributeError 'Action' object has no attribute 'fcurves'_](../../../../3d-modeling/blender/fix-attributeerror-action-object-has-no-attribute-fcurves.md)
+10. After matching the bones, then click retarget.
+11. Confirm that the animation plays.
+12. Extend the length of the Blender animation beyond the default 250 frames so you can see the entire mo-cap animation.
     - [How to Extend the Blender Timeline](../../../../3d-modeling/blender/extend-frames-on-timeline-blender.md)
 
 #### 4. Render and Export Animation from Blender
