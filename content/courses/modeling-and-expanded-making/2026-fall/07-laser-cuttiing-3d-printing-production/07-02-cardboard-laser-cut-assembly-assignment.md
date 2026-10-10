@@ -1,7 +1,7 @@
 ---
 title: 07.02 Cardboard Laser Cut Assembly Assignment
 date: 2026-10-08T09:00:00-04:00
-lastmod: 2026-10-10T09:20:33-04:00
+lastmod: 2026-10-10T09:59:07-04:00
 ---
 
 ## Assignment Deliverables
@@ -38,3 +38,16 @@ lastmod: 2026-10-10T09:20:33-04:00
 5. Adjust parameters up and down as need for your cardboard thickness
 
 <!-- TODO: Add an Epilog Power settings change video -->
+
+## Grading Rubric
+
+<div class="responsive-table-markdown">
+
+| Objective                     | Points |
+| ----------------------------- | ------ |
+| Parts cut out on laser cutter | 40     |
+| Parts assembled into 3D form  | 30     |
+| Assembly video uploaded       | 20     |
+| File Management and Labeling  | 10     |
+
+</div>
