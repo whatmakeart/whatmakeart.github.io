@@ -1,20 +1,19 @@
 ---
 title: 07.03 Podcast Topic Preparation Assignment
 date: 2026-09-09T12:00:00-04:00
-lastmod: 2026-10-09T06:12:41-04:00
+lastmod: 2026-10-10T09:23:03-04:00
 ---
 
 ## Assignment Deliverables
 
-1. Bring a prepared list of 2-3 possible podcast discussion topics to class.
-2. For each topic, describing what you could discuss, question, debate, explain, or tell a story about. Include a driving question for each topic
+1. Prepared list of 2-3 podcast discussion topics
    - Label file YYYY-MM-DD Lastname Firstname Podcast Topic List (`.docx`, `.pdf`)
 
 ## Assignment Overview
 
 Next week, we will work in the recording studio to practice recording voices and producing a short podcast style conversation.
 
-Develop 2-3 possible topics you could comfortable discuss for several minutes. Topics should give your group something interesting to talk about. Although the topics do not need to be highly researched, it is best practice to spend a bit looking up the topic and jotting down some talking points and references.
+Develop 2-3 possible topics you could comfortable discuss for several minutes. Topics should give participants and guests something interesting to talk about. Although the topics do not need to be highly researched, it is best practice to spend a bit looking up the topic and jotting down some talking points and references.
 
 Choose topics broad enough for other people to participate but also interesting enough that you can have an engaging conversation. Avoid topics that depend completely on specialized knowledge or personal experiences that only one person can discuss.
 
