@@ -1,13 +1,13 @@
 ---
 title: 06.05 Three Related Shots with Descriptions Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-01T06:15:35-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Assignment Deliverables
 
 1. Submit a list of 3 related but different camera shots for virtual production shooting
-   - Write a 1–2 sentence description of each camera shot
+   - Write a 1-2 sentence description of each camera shot
    - Label the file YYYY-MM-DD Lastname Firstname Camera Shot List (`.docx`, `.pdf`)
 
 ## Assignment Overview

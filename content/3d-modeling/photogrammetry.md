@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry
 date: 2024-09-25T05:06:07-04:00
-lastmod: 2026-08-25T19:50:25-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 Photogrammetry is a useful tool for capturing 3D geometry and visual texture information from the real physical world. [Photogrammetry software](photogrammetry-software.md) identifies matching visual features in multiple 2D images taken from different but overlapping camera positions. The relative position of these features is used to calculate three-dimensional geometry and generate a textured 3D mesh.
@@ -26,7 +26,7 @@ The subject should remain stationary throughout capture. Moving people, animals,
 
 Fill as much of the camera frame with the subject as practical. This uses more of the available image resolution to describe the object rather than the surrounding environment.
 
-Aim for approximately 70%–80% overlap between neighboring photographs. Complex objects, interiors, and surfaces with limited visual texture may benefit from even greater overlap. Every surface that needs to be reconstructed should appear clearly in several photographs taken from different camera positions.
+Aim for approximately 70%-80% overlap between neighboring photographs. Complex objects, interiors, and surfaces with limited visual texture may benefit from even greater overlap. Every surface that needs to be reconstructed should appear clearly in several photographs taken from different camera positions.
 
 Move gradually through the capture sequence. Large jumps in position or viewpoint may make it harder for the software to determine how photographs relate to one another.
 
@@ -40,7 +40,7 @@ For dimensional work, include known scale references in the captured scene so th
 
 Sharp, consistent photographs provide the best information for photogrammetry.
 
-Use an aperture that provides enough depth of field to keep important portions of the subject sharp. On many interchangeable-lens cameras, approximately f/8–f/16 is a useful starting range. Avoid using an unnecessarily small aperture because diffraction can soften fine image detail even though depth of field increases.
+Use an aperture that provides enough depth of field to keep important portions of the subject sharp. On many interchangeable-lens cameras, approximately f/8-f/16 is a useful starting range. Avoid using an unnecessarily small aperture because diffraction can soften fine image detail even though depth of field increases.
 
 Use a shutter speed fast enough to prevent motion blur. A sharp photograph with slightly more image noise is generally more useful for feature matching than a blurred photograph.
 

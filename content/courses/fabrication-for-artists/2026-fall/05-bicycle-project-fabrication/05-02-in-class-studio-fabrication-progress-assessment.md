@@ -1,7 +1,7 @@
 ---
 title: 05.02 In Class Studio Fabrication Progress Assessment
 date: 2026-09-25T09:30:00-04:00
-lastmod: 2026-09-25T15:14:36-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## End of Class Goal Reflection
@@ -16,7 +16,7 @@ For each goal, indicate whether it was:
 
 Briefly explain what you accomplished, any problems or unexpected discoveries you encountered, and what you need to work on next.
 
-Conclude your reflection by identifying 1–3 specific next steps for your project. Remember, it is best to write each new step or goal as a description of what it will look like when the goal is completed.
+Conclude your reflection by identifying 1-3 specific next steps for your project. Remember, it is best to write each new step or goal as a description of what it will look like when the goal is completed.
 
 For example:
 

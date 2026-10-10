@@ -1,7 +1,7 @@
 ---
 title: "00.01 Syllabus"
 date: 2024-01-18T09:00:00Z
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Digital II: Modeling and Fabrication Syllabus
@@ -116,14 +116,14 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 ### Key Dates:
 
-- Jan 15 – MLK Day. No Classes
-- Jan 16 – First day of classes
-- March 8 – Mid Term Grades DUE
-- March 11 – 15 – Spring Break. No classes.
-- March 29 – Last day for students to withdraw from a course without a grade penalty
-- April 26 – Final Day of Classes
-- May 13 – Final Grades DUE for all students
-- May 19 (Sunday) – Commencement
+- Jan 15 - MLK Day. No Classes
+- Jan 16 - First day of classes
+- March 8 - Mid Term Grades DUE
+- March 11 - 15 - Spring Break. No classes.
+- March 29 - Last day for students to withdraw from a course without a grade penalty
+- April 26 - Final Day of Classes
+- May 13 - Final Grades DUE for all students
+- May 19 (Sunday) - Commencement
 
 ## Credit Hour Definition
 
@@ -153,7 +153,7 @@ The following materials are not required for the course but may be useful to you
 - T-Square
 - Straight edge for drawing lines 45 deg triangle 30 / 60 deg triangle
 - Compass for drawing circles
-- 3 Button Mouse – Attached to Lab computers but recommended for working on your laptop
+- 3 Button Mouse - Attached to Lab computers but recommended for working on your laptop
 - Low tack tape to hold drawing paper to board
 - Digital Calipers - May purchase your own or use the [digital calipers](../../../../making/how-to-use-digital-calipers.md) in the Fab Studios
 - Isometric Graph Paper (Has triangles instead of squares)

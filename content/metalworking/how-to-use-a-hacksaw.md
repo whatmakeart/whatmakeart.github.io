@@ -1,7 +1,7 @@
 ---
 title: How to Use a Hacksaw
 date: 2023-05-26T03:16:03
-lastmod: 2026-08-31T20:23:03-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 tags:
   - Fabrication
   - Hacksaw
@@ -25,7 +25,7 @@ Using a hacksaw is relatively straightforward, but there are a few key steps and
 
 6. **Proper Positioning**: Hold the hacksaw with both hands. Your dominant hand should grip the handle, while your other hand holds the other end of the frame. Keep your wrists firm and your arms relaxed.
 
-7. **Cutting Technique**: Start the cut with a few slow, gentle strokes. Once you have a groove, you can increase your speed and pressure. Always cut at a right angle to the material and let the saw do the work – there's no need to apply excessive force.
+7. **Cutting Technique**: Start the cut with a few slow, gentle strokes. Once you have a groove, you can increase your speed and pressure. Always cut at a right angle to the material and let the saw do the work - there's no need to apply excessive force.
 
 8. **Finish the Cut**: Slow down as you near the end of the cut to maintain control and prevent the material from breaking or splintering.
 

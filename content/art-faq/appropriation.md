@@ -1,7 +1,7 @@
 ---
 title: Appropriation
 date: 2024-12-10T05:43:16
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 To appropriate means to take something for your own and as often synonymous with theft, stealing, taking, or poaching.[^cambridge-appropriation] It can also mean a specific amount of money set aside for a specific use such as Appropriations or Budget Bills in Congress.[^cbo] In both cases appropriation has connotations of acquiring and or use of a thing, sometimes with permission and sometimes without.
@@ -98,6 +98,6 @@ Juliet says, "A <del>rose</del> _tub of buttery goodness_ by any other name woul
 [^deja-vu]: (https://www.psu.edu/news/research/story/probing-question-what-causes-deja-vu)
 [^palomino-columns]: The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Art & Architecture Collection, The New York Public Library. "Lam. 8. [Diagram of column orders.]" [The New York Public Library Digital Collections](https://digitalcollections.nypl.org/items/340eeea0-c6df-012f-6558-58d385a7bc34). 1715 - 1724.
 [^parthenon]: The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Picture Collection, The New York Public Library. "The Parthenon from the southeast" [The New York Public Library Digital Collections](https://digitalcollections.nypl.org/items/d5ad3560-c5bf-012f-d5ec-58d385a7bc34). 1897.
-[^maize-corn]: Fussel, Betty. “Translating Maize into Corn: The Transformation of America’s Native Grain.” Social Research, vol. 66, no. 1, 1999, pp. 41–65. (page 42) JSTOR, [http://www.jstor.org/stable/40971301](http://www.jstor.org/stable/40971301).
+[^maize-corn]: Fussel, Betty. “Translating Maize into Corn: The Transformation of America’s Native Grain.” Social Research, vol. 66, no. 1, 1999, pp. 41-65. (page 42) JSTOR, [http://www.jstor.org/stable/40971301](http://www.jstor.org/stable/40971301).
 [^corn-america]: Espinoza, Mauricio. [‘All Corn Is the Same,’ and Other Foolishness about America’s King of Crops](https://cfaes.osu.edu/news/articles/%E2%80%98all-corn-is-the-same%E2%80%99-and-other-foolishness-about-america%E2%80%99s-king-crops). College of Food, Agricultural, and Environmental Sciences. OSU. April 1, 2015.
 [^columbian-exchange]: [Columbian Exchange](https://en.wikipedia.org/wiki/Columbian_exchange) Wikipedia.

@@ -1,7 +1,7 @@
 ---
 title: 00.01 Programming for Artists Syllabus
 date: 2024-01-19T09:30:00Z
-lastmod: 2024-01-04T16:28:39
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Programming for Artists Syllabus
@@ -121,14 +121,14 @@ Students may work together but each student should have their own unique code.
 
 ### Key Dates:
 
-- Jan 15 – MLK Day. No Classes
-- Jan 16 – First day of classes
-- March 8 – Mid Term Grades DUE
-- March 11 – 15 – Spring Break. No classes.
-- March 29 – Last day for students to withdraw from a course without a grade penalty
-- April 26 – Final Day of Classes
-- May 13 – Final Grades DUE for all students
-- May 19 (Sunday) – Commencement
+- Jan 15 - MLK Day. No Classes
+- Jan 16 - First day of classes
+- March 8 - Mid Term Grades DUE
+- March 11 - 15 - Spring Break. No classes.
+- March 29 - Last day for students to withdraw from a course without a grade penalty
+- April 26 - Final Day of Classes
+- May 13 - Final Grades DUE for all students
+- May 19 (Sunday) - Commencement
 
 ## Credit Hour Definition
 

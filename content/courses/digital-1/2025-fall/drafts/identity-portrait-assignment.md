@@ -1,7 +1,7 @@
 ---
 title: Identity Portrait Assignment
 date: 2025-10-02T05:42:03
-lastmod: 2025-10-03T05:30:37
+lastmod: 2026-10-10T13:13:55-04:00
 draft: true
 ---
 
@@ -9,18 +9,18 @@ Using skills and techniques learned in the first two projects, present a new com
 
 Today’s self portrait might be different that tomorrow’s depending on their mood, shift the time if you want, doesn’t have to be today, could be past present and future selves
 
-### Step 1 – My Identity? Your Identity? According to Who?
+### Step 1 - My Identity? Your Identity? According to Who?
 
 Who are you? How do you see yourself? How do others see you? How do you think others see you? Do you show your true self or do you keep parts of your identity under wraps?
-Identity is a complex concept made up of various components both internal and external. Portraying this multifaceted combination of what makes you – you is a challenging visual task.
+Identity is a complex concept made up of various components both internal and external. Portraying this multifaceted combination of what makes you - you is a challenging visual task.
 In addition to making a visual composition, you will also write a 250 word artist statement explaining your concept and what you intend for the viewer to understand by viewing your piece. This is not a “What you did” it is a “Why and how you did” description.
 
-### Step 2 – Make a List / Outline
+### Step 2 - Make a List / Outline
 
 Start writing down things about you. You can start with easy superficial things like you favorite food or movie. Move on to more complex things such as your hobbies or activities you like to do. Continue probing by listing your origin, background, gender, political philosophies, interests,  
 Look at this list of traits and characteristics. Circle ones that ring true as part of the core of your identity, your true self. Are there characteristics that don’t fit? Why not? Are there parts of your identity that you feel that are not represented on the list? What are they?
 
-### Step 3 – Ideation Sketches:
+### Step 3 - Ideation Sketches:
 
 Dump many ideas down onto the page. Get your ideas out quickly and don’t censor yourself. You need to sketch 8 unique compositions. Each of these sketch compositions should be a way of portraying yourself and have conceptual content.
 Select 3 of these initial sketches and develop them further. Redraw these three sketches a second time. Seek ways to convey your message in more visually compelling ways.
@@ -28,7 +28,7 @@ Select 3 of these initial sketches and develop them further. Redraw these three 
 Do not limit your ideas to traditional or conventional ideas of portraiture. A portrait does not have to be a literal representation of the subject. It does not need to show the subject at all. It does not even need to be representational; it could be abstract or somewhere in between. It does have to be well intentioned and thought out.
 Every color, object, shape, compositional decision needs to be intentional. Nothing should be in the image just because you found it that way.
 
-### Step 4 –Take Photographs with DSLR
+### Step 4 -Take Photographs with DSLR
 
 Using your own camera or a camera from CIA checkout, take photographs to use in your project. In addition to focusing on the content of the photographs, begin to experiment with the features of a camera.
 Link to CIA Checkout: https://cia.webcheckout.net/sso/patron#!/
@@ -36,14 +36,14 @@ Cameras are very similar to our eyes and have many of the same functions. The ap
 By manipulating and combining different variations of these 3 main camera settings you can get different creative results with your photography.  
 Since the content of this project is up to you there is no required number of photos that you need to take. You need to take “enough” to create your image. I recommend taking more photos in different ways than you think you will need.
 
-### Step 4 – Composing in Photoshop:
+### Step 4 - Composing in Photoshop:
 
 Create a PSD document sized: 11” x 14” (or 14” x 11”) at 360 dpi.
 Label your file YYYYMMDD Lastname Firstname Identity Portrait Project.psd
 Use any style or method of creation as long as the main content is photo based and taken by you.
 If you are incorporating digital painting into your portrait, a Wacom tablet can be very useful. Tablets are available for checkout from the equipment checkout on the 3rd floor. Checkout items are first come, first serve so make your reservations early.
 Link to CIA Checkout: https://cia.webcheckout.net/sso/patron#!/
-Step 5 – Turn in Assignment
+Step 5 - Turn in Assignment
 Photoshop Document
 
 1. Save your PSD document with all the layers intact. Do not flatten the image.
@@ -65,7 +65,7 @@ Photoshop Document
 
 ## Grading Rubric:
 
-    • Photographic techniques – 40%
-    • Craftsmanship and composition – 30%
-    • Unique and creative concept – 20%
-    • Instructions – 10% (including naming your project file correctly)
+    • Photographic techniques - 40%
+    • Craftsmanship and composition - 30%
+    • Unique and creative concept - 20%
+    • Instructions - 10% (including naming your project file correctly)

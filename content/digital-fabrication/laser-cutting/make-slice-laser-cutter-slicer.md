@@ -1,7 +1,7 @@
 ---
 title: MakeSlice Laser Cutter Slicer
 date: 2026-10-10T09:14:39-04:00
-lastmod: 2026-10-10T10:02:14-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 [MakeSlice](https://whatmakeart.com/make-slice/)
@@ -92,7 +92,7 @@ Converts models into hollow shells, enclosures, or contoured sculptural structur
 Configure up to three different material thicknesses or types in a single project (e.g., cardboard frame with acrylic accents or plywood reinforcement):
 
 - **Thickness:** Measure your material with digital calipers (e.g., 3.8 mm cardboard, 3.1 mm acrylic). Do not rely on nominal dimensions.
-- **Kerf:** Enter the width of material vaporized by your laser beam (typically 0.15 mm – 0.25 mm). MakeSlice expands outer contours and shrinks slots so joints press-fit snugly.
+- **Kerf:** Enter the width of material vaporized by your laser beam (typically 0.15 mm - 0.25 mm). MakeSlice expands outer contours and shrinks slots so joints press-fit snugly.
 - **Hinge Calibration:** Set the effective neutral bend axis ($K$-factor) and custom lattice slit lengths for flexible living hinge strips.
 
 ### Scrap Inventory & Polygon Nesting

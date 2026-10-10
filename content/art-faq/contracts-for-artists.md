@@ -1,7 +1,7 @@
 ---
 title: Contracts for Artists
 date: 2023-05-23T21:59:41
-lastmod: 2024-12-01T06:19:27
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 [Mike Monteiro: F\*ck You, Pay Me - from CreativeMornings](https://youtube.com/watch?v=jVkLVRt6c1U)
@@ -69,13 +69,13 @@ Attachments
 - Budget
 - Progress Report Schedule
 - Installation Terms
-- Approval and Acceptance – so important to spell out
+- Approval and Acceptance - so important to spell out
 - Taxes
-- Duration of the agreement – is it forever?
+- Duration of the agreement - is it forever?
 - Insurance
-- Ownership rights – Copyright
+- Ownership rights - Copyright
 - Reproduction Rights
-- Artist rights – VARA
+- Artist rights - VARA
 - Death or Incapacity
 - Independent Contractor?
 - Amendments to contract? How?
@@ -200,7 +200,7 @@ Can seem like a lot but matter when needed. Make sure to read and understand all
 
 #### Force Majeure
 
-- Floods, terrorism, tornadoes, hurricanes, sink holes, Covid-19 – what happens with these events – unlikely but should be in there. If it is a specific list of situation it may offer less protection then more broad and vague terms.
+- Floods, terrorism, tornadoes, hurricanes, sink holes, Covid-19 - what happens with these events - unlikely but should be in there. If it is a specific list of situation it may offer less protection then more broad and vague terms.
 
 #### Assignment
 

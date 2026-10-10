@@ -1,7 +1,7 @@
 ---
 title: 07.01 Self Assessment and Peer Critique Prediction
 date: 2026-10-09T09:30:00-04:00
-lastmod: 2026-10-09T09:23:25-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Assignment Overview
@@ -22,7 +22,7 @@ Write a brief but honest assessment of your project. Address each of the followi
 
 #### 2. What You Like
 
-- Identify 2 – 3 specific aspects of the project that you think are successful.
+- Identify 2 - 3 specific aspects of the project that you think are successful.
 - Explain why you think they are working.
 
 #### 3. What You Learned
@@ -32,12 +32,12 @@ Write a brief but honest assessment of your project. Address each of the followi
 
 #### 4. What You Would Do Differently?
 
-- Identify 2 – 3 specific changes you would make if you were beginning the project again.
+- Identify 2 - 3 specific changes you would make if you were beginning the project again.
 - Be specific about what you would change and why.
 
 ### Part 2: Peer Critique Prediction
 
-Before hearing comments from anyone else, predict what your classmates are likely to say during critique. Write 3 – 5 specific critique comments or questions that you think your peers might make about your project. Try to predict actual statements rather than broad categories.
+Before hearing comments from anyone else, predict what your classmates are likely to say during critique. Write 3 - 5 specific critique comments or questions that you think your peers might make about your project. Try to predict actual statements rather than broad categories.
 
 For example:
 

@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital 1 Syllabus
 date: 2025-08-28T09:00:00Z
-lastmod: 2025-11-24T13:04:48
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ### Course Information
@@ -91,14 +91,14 @@ _\* Course schedule subject to change._
 
 ### Key Dates:
 
-- Aug 25 – First day of classes
+- Aug 25 - First day of classes
 - Sep 1 - Labor Day. No Classes
-- Oct 17 – Mid Term Grades DUE
-- Oct 20 - 21 – Student Fall Break. No classes. Faculty In Service Days & Teaching Summit
-- Oct 31 – Last day for students to withdraw from a course without a grade penalty
+- Oct 17 - Mid Term Grades DUE
+- Oct 20 - 21 - Student Fall Break. No classes. Faculty In Service Days & Teaching Summit
+- Oct 31 - Last day for students to withdraw from a course without a grade penalty
 - Nov 26 - 28 - Thanksgiving Break. No classes.
-- Dec 5 – Final Day of Classes
-- Dec 19 – Final Grades DUE for all students AT 9AM
+- Dec 5 - Final Day of Classes
+- Dec 19 - Final Grades DUE for all students AT 9AM
 
 ### Required Textbooks and Readings
 

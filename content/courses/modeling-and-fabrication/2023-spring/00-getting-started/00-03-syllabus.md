@@ -1,7 +1,7 @@
 ---
 title: "00.03 Syllabus"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:07:31
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Learning Goals and Objectives
@@ -69,7 +69,7 @@ The following materials are not required for the course but may be useful to you
 - T-Square
 - Straight edge for drawing lines 45 deg triangle 30 / 60 deg triangle
 - Compass for drawing circles
-- 3 Button Mouse – Attached to Lab computers but recommended for working on your laptop
+- 3 Button Mouse - Attached to Lab computers but recommended for working on your laptop
 - Low tack tape to hold drawing paper to board
 - Digital Calipers - May purchase your own or use the [digital calipers](../../../../making/how-to-use-digital-calipers.md) in the Fab Studios
 - Isometric Graph Paper (Has triangles instead of squares)

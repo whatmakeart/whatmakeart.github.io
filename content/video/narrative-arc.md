@@ -1,18 +1,18 @@
 ---
 title: Narrative Arc
 date: 2023-05-23T21:59:41
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## What is a Narrative Arc?
 
 A traditional story arc contains an introduction of the story, plot, characters and setting. This is called the Exposition. This leads into the Rising Action when the character is faced with a problem. The character then confronts obstacles along the way toward the Climax of the story, a moment of crisis that directs the rest of the plot. This is followed by Falling Action as the plot moves from climax to the ending. Finally a Resolution occurs and stability returns to the story.
 
-- **Exposition** – intro of plot, characters and setting
-- **Rising Action** – multiple incidents occur providing suspense and tension
-- **Climax** – moment of crisis that directs the rest of the plot
-- **Falling Action** – plot moves from climax to ending
-- **Resolution** – final results of plot - stability returns
+- **Exposition** - intro of plot, characters and setting
+- **Rising Action** - multiple incidents occur providing suspense and tension
+- **Climax** - moment of crisis that directs the rest of the plot
+- **Falling Action** - plot moves from climax to ending
+- **Resolution** - final results of plot - stability returns
 
 ## How to Make a Narrative Arc?
 
@@ -42,7 +42,7 @@ Writing a Story Spine and Storyboards will give you an outline and direction to 
 
 A story spine is a concept created by Kenn Adams in the book "The Art of Spontaneous Theater.” [^1] It is a simple outline with prompts that assist a storyteller develop a structure for their narrative.
 
-#### **Act 1 – The first 3 parts of the story spine**
+#### **Act 1 - The first 3 parts of the story spine**
 
 This act sets the scene, introduces characters, shows how the world works. The act leads up to having have the rising action of "But, one day..."
 

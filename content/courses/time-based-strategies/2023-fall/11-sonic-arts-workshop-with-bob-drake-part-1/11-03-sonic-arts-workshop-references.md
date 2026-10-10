@@ -1,7 +1,7 @@
 ---
 title: 11.03 Sonic Arts Workshop References
 date: 2023-11-14T09:00:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 This page includes resources and links from [Bob Drake's](11-02-bob-drake.md) Sonic Arts Workshop [^1] in the fall 2023 [Time Based Strategies course](../00-getting-started/00-02-time-based-strategies-syllabus.md) in the [Sculpture + Expanded Media Department](https://www.cia.edu/academics/sculpture-expanded-media) at the [Cleveland Institute of Art](https://www.cia.edu/).
@@ -49,7 +49,7 @@ This page includes resources and links from [Bob Drake's](11-02-bob-drake.md) So
 - quelques lentes patentes: https://vimeo.com/294635305 (sculpture sketches)
 - Audiograft 2016: https://vimeo.com/175714054 (performance)
 - Les Transformables v.103 - https://vimeo.com/178374566 (installation/performance)
-- Mechanical Music – VNM Festival 2016: https://vimeo.com/200082976 (performance)
+- Mechanical Music - VNM Festival 2016: https://vimeo.com/200082976 (performance)
 
 <div class="video-grid">
 
@@ -122,7 +122,7 @@ This page includes resources and links from [Bob Drake's](11-02-bob-drake.md) So
   - Softer (cardboard) or irregular (sandpaper, rough rock) surfaces on object
 - Tonal
   - Striking, percussive, or vibration activation
-  - Harder materials – metal, ceramic, hardwood
+  - Harder materials - metal, ceramic, hardwood
   - Suspend objects to allow for freer vibration (foam, rubber, string).
 
 ### Resonant Objects/Chambers

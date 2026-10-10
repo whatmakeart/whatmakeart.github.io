@@ -1,7 +1,7 @@
 ---
 title: 00.00 Sewing and Fabrication Syllabus
 date: 2024-07-18T10:18:39
-lastmod: 2026-08-25T21:08:30-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Sewing and Fabrication Syllabus
@@ -107,7 +107,7 @@ Students can expect to spend between $50 - $200 for materials in the course depe
 #### Required Supplies Provided by SEM
 
 - SEM Sewing Kit that includes a Seam Ripper, Pins, Needles, bobbins in addition to other needed sewing supplies.
-- Thread – SEM supplies black and white thread as well as a variety of heavy-duty thread. Specialty thread not in SEM needs to be provided by the student.
+- Thread - SEM supplies black and white thread as well as a variety of heavy-duty thread. Specialty thread not in SEM needs to be provided by the student.
 - SEM has some fabric available to students at no cost. SEM also has some fabric available at highly reduced cost. Some fabric is sold at cost to students but is conveniently already in the studios.
 
 #### SEM Sewing Kits
@@ -154,15 +154,15 @@ The Sewing Room has a prox lock. The door should never be propped open. Students
 
 ### Key Dates:
 
-- Aug 21 – First Day of Classes
-- Sept 2 – Labor Day. No Classes
-- Oct 18 – Mid Term Grades DUE
-- Oct 21-22 – Student Fall Break. No classes. Faculty In Service Days
-- Oct 22 – Faculty Teaching & Learning Summit
-- Oct 25 – Last day for students to withdraw from a course without a grade penalty
-- Nov 28 – 29 – Thanksgiving Break. No classes.
-- Dec 3 – Final Day of Classes
-- Dec 16 – Final Grades DUE for all students
+- Aug 21 - First Day of Classes
+- Sept 2 - Labor Day. No Classes
+- Oct 18 - Mid Term Grades DUE
+- Oct 21-22 - Student Fall Break. No classes. Faculty In Service Days
+- Oct 22 - Faculty Teaching & Learning Summit
+- Oct 25 - Last day for students to withdraw from a course without a grade penalty
+- Nov 28 - 29 - Thanksgiving Break. No classes.
+- Dec 3 - Final Day of Classes
+- Dec 16 - Final Grades DUE for all students
 
 ## Cleveland Institute of Art Recommended Policies
 

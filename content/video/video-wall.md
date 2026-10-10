@@ -1,7 +1,7 @@
 ---
 title: Video Wall
 date: 2023-05-23T21:59:40
-lastmod: 2024-10-21T14:22:07
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 Video walls and synced video to multiple monitors or projectors is a common task for video and multimedia [art-installations](../sculpture/art-installations.md). More powerful computers and single board computers like the [Raspberry-Pi](../raspberry-pi/raspberry-pi.md) make this process much easier but it is still complex.
@@ -40,4 +40,4 @@ You can also use VLC player on a laptop or computer with both projectors connect
 
 ### Other Options
 
-[HowTo Sync – MP4MUSEUM](https://mp4museum.org/howto-sync/)
+[HowTo Sync - MP4MUSEUM](https://mp4museum.org/howto-sync/)

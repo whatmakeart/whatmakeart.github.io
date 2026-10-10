@@ -1,7 +1,7 @@
 ---
 title: Copyright for Artists
 date: 2023-05-23T21:59:41
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Public Domain Cases
@@ -79,11 +79,11 @@ Plagiarism is not just something that you learn not to do in school, it really h
 ### Music Copyright Articles
 
 - [Jury finds Ed Sheeran did not infringe on the copyright of 'Let's Get It On' - CNN](https://www.cnn.com/2023/05/04/media/ed-sheeran-verdict/index.html)
-- [French Montana Backed Out of Sample Deal But Released Song Anyway: Suit – Billboard](https://www.billboard.com/business/legal/french-montana-copyright-lawsuit-over-blue-chills-sample-1235395263/)
+- [French Montana Backed Out of Sample Deal But Released Song Anyway: Suit - Billboard](https://www.billboard.com/business/legal/french-montana-copyright-lawsuit-over-blue-chills-sample-1235395263/)
 - [Satirist Tom Lehrer has put his songs into the public domain - Marketplace](https://www.marketplace.org/2020/10/21/satirist-tom-lehrer-put-his-songs-into-public-domain/)
 - [Peloton sued for $150 million over its use of songs in workout videos](https://www.cnn.com/2019/03/20/tech/peloton-lawsuit-music-licensing-infringement/index.html)
 - [Musicians Algorithmically Generate Every Possible Melody, Release Them to Public Domain](https://www.vice.com/en_us/article/wxepzw/musicians-algorithmically-generate-every-possible-melody-release-them-to-public-domain)
-- [Nirvana Face Copyright Suit Over Use of Dante’s ‘Inferno’ Illustration – Rolling Stone](https://www.rollingstone.com/music/music-news/nirvana-copyright-lawsuit-dante-inferno-1164820/)
+- [Nirvana Face Copyright Suit Over Use of Dante’s ‘Inferno’ Illustration - Rolling Stone](https://www.rollingstone.com/music/music-news/nirvana-copyright-lawsuit-dante-inferno-1164820/)
 - [Twisted Sister awarded $1.2m from Clive Palmer over copyright claim - BBC News](https://www.bbc.com/news/business-56938865)
 - [Lizzo Sued Back by Songwriters Over ‘Truth Hurts’ ](https://nyti.ms/39bTn67)
 - [‘This Land Is Your Land’ Is Still Private Property, Court Rules](https://nyti.ms/2Pwmz00)
@@ -129,7 +129,7 @@ Plagiarism is not just something that you learn not to do in school, it really h
 - [MrBeast’s lost at sea video hit with copyright claim over unlicensed animation - Dexerto](https://www.dexerto.com/entertainment/mrbeasts-lost-at-sea-video-hit-with-copyright-claim-over-unlicensed-animation-2254667/)
 - [Disney's Pixar sued by artist over alleged stolen art in 'Onward' movie - Business Insider](https://www.businessinsider.com/disney-pixar-onward-movie-san-francisco-art-unicorn-van-2020-2)
 - [Elon Musk Takes a Stand in Controversial Disney Copyright Case | TheStreet](https://www.thestreet.com/technology/elon-musk-takes-a-stand-in-controversial-disney-copyright-case)
-- [Miffy with a beak, Eric Cartman from South Park in Balenciaga – artists deny plagiarism and say they have appropriated cartoon characters | South China Morning Post](https://amp.scmp.com/lifestyle/arts-culture/article/3119142/miffy-beak-eric-cartman-south-park-balenciaga-artists-deny)
+- [Miffy with a beak, Eric Cartman from South Park in Balenciaga - artists deny plagiarism and say they have appropriated cartoon characters | South China Morning Post](https://amp.scmp.com/lifestyle/arts-culture/article/3119142/miffy-beak-eric-cartman-south-park-balenciaga-artists-deny)
 - [KLF assert justified and ancient copyright claim to block documentary | The KLF | The Guardian](https://www.theguardian.com/music/2021/oct/19/klf-assert-justified-and-ancient-copyright-claim-to-block-documentary)
 - [CodeAndTheory(Official) @GeorgeGallegos Jaws, Bruce from Finding Nemo, Don Lino from Shark Tale, Sharpedo the Pokemon, Sharknado, Jabberjaw](http://www.engadget.com/2015/02/06/katy-perrys-lawyers-hate-fun-things/)
 - [Disney Takes on Deadmau5 in Legal Battle Over Mouse Trademark](http://mashable.com/2014/09/04/disney-deadmau5-trademark-battle/)
@@ -150,7 +150,7 @@ Plagiarism is not just something that you learn not to do in school, it really h
 - [Peter Doig Awarded $2.5 Million in Dispute Over Painting He Denied](https://www.nytimes.com/2023/01/17/arts/design/peter-doig-painter-lawsuit.html)
 - [Lakewood art installation draws community ire | king5.com](https://www.king5.com/article/news/local/lakewood-art-installation-community-ire/281-0e0134ef-731b-4d6f-96fd-5beff6650fa2)
 - [GitHub is Sued, and We May Learn Something About Creative Commons Licensing - The Scholarly Kitchen](https://scholarlykitchen.sspnet.org/2023/01/05/github-is-sued-and-we-may-learn-something-about-creative-commons-licensing/)
-- [YouTube Fraud Led to $23 Million in Royalties for 2 Men, IRS Says – Billboard](https://www.billboard.com/pro/youtube-fraud-royalties-scam-irs-latin-chenel-yenddi-mediamuv-adrev/)
+- [YouTube Fraud Led to $23 Million in Royalties for 2 Men, IRS Says - Billboard](https://www.billboard.com/pro/youtube-fraud-royalties-scam-irs-latin-chenel-yenddi-mediamuv-adrev/)
 - [White Artist Slammed Online for Copying the Work of a Black Photographer](https://hyperallergic.com/746899/white-artist-slammed-online-for-copying-the-work-of-a-black-photographer/)
 - [Court Overturns Prior Ruling that Photos of Picasso's Art Was Fair Use | PetaPixel](https://petapixel.com/2022/07/22/court-overturns-prior-ruling-that-photos-of-picassos-art-was-fair-use/)
 - [Photographer Says Artist Copied Her Iconic Photo | PetaPixel](https://petapixel.com/2023/02/14/photographer-says-artist-copied-her-iconic-photo/)

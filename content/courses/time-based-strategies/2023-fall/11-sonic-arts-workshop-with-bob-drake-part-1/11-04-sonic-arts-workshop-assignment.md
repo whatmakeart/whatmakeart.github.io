@@ -1,7 +1,7 @@
 ---
 title: 11.04 Sonic Arts Workshop Assignment
 date: 2023-11-14T09:00:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Assignment Deliverables
@@ -26,10 +26,10 @@ You are welcome to use 3D printing to produce parts of your sculpture. This coul
   - Take advantage of irregularities in the sound-producing surfaces or actuators (rock, paper), particularly to produce sounds via abrasion or friction.
   - Offset cams can be used to change circular motion to linear.
   - Levers can be used change direction or range of linear motion:
-  - Eccentricity – placing weights on one side of a motor shaft to introduce “wobble”
-  - Flexible or loose coupling – either in the joints (oversized holes etc.) or in the connecting linkages (string, plastic, not-quite-strong-enough wire)
+  - Eccentricity - placing weights on one side of a motor shaft to introduce “wobble”
+  - Flexible or loose coupling - either in the joints (oversized holes etc.) or in the connecting linkages (string, plastic, not-quite-strong-enough wire)
   - Multiple axes of motion to produce complexity
-  - Weak or unstable material that changes/degrades over time – cardboard, tape
+  - Weak or unstable material that changes/degrades over time - cardboard, tape
   - Performative intervention (particularly see Jacques’s work)
 
 **Assignment is Due 11/21, start of class.** We will be using these sculptures in our explorations of sound art installation, and as subjects for recording , so it is critical that we have your initial pieces to build on.

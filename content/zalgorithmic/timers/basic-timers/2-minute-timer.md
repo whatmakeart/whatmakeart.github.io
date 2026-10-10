@@ -1,7 +1,7 @@
 ---
 title: 2 Minute Timer
 date: 2022-01-01T07:32:16
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 description: Discover the versatility of a 2 Minute Timer in enhancing productivity for cooking, studying, workouts, and more.
 featured_image: /zalgorithmic/timers/basic-timers/attachments/2-minute-timer-2.jpg
 tags:
@@ -20,7 +20,7 @@ In today's fast-paced world, time management is key to productivity and well-bei
 
 ## Customizable and User-Friendly
 
-One of the standout features of the 2 Minute Timer is its ease of use and customization. Users can select from a range of sounds – from a gentle bell to a more assertive buzzer or even a rhythmic metronome. This personalization caters to different preferences and environments, ensuring that the timer is not just functional but also harmonious with your setting.
+One of the standout features of the 2 Minute Timer is its ease of use and customization. Users can select from a range of sounds - from a gentle bell to a more assertive buzzer or even a rhythmic metronome. This personalization caters to different preferences and environments, ensuring that the timer is not just functional but also harmonious with your setting.
 
 ## Versatile Use Cases
 

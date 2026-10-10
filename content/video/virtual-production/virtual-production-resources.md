@@ -1,7 +1,7 @@
 ---
 title: Virtual Production Resources
 date: 2025-11-07T09:30:00
-lastmod: 2026-04-22T06:15:05-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Virtual Production Videos
@@ -102,7 +102,7 @@ Often LED volume virtual production is use to attempt to recreate "reality" but 
 
 ### Virtual Production Workflows and Behind the Scenes Examples
 
-Selection of examples and walkthroughs of virtual production setups and examples. The [Into The Volume – A Deep Dive into Virtual Production](https://youtu.be/aKRcGoc_osQ) by [Media Division](https://www.youtube.com/@MediaDivision/videos) gives a nice overview of the process and how the addition of physical items can help sell the scene.
+Selection of examples and walkthroughs of virtual production setups and examples. The [Into The Volume - A Deep Dive into Virtual Production](https://youtu.be/aKRcGoc_osQ) by [Media Division](https://www.youtube.com/@MediaDivision/videos) gives a nice overview of the process and how the addition of physical items can help sell the scene.
 
 The videos showing the use of Unreal Engine on large productions have techniques and equipment that is out of reach of students and small production crews but nevertheless have helpful tips and workflows that can inform your own projects.
 
@@ -114,7 +114,7 @@ When you see the behind the scenes shots of the stage adn set in the videos, oft
 
 <div class="video-card">
 
-#### Into The Volume – A Deep Dive into Virtual Production
+#### Into The Volume - A Deep Dive into Virtual Production
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/aKRcGoc_osQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

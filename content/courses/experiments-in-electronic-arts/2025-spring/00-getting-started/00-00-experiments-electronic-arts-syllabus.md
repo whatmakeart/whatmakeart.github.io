@@ -1,7 +1,7 @@
 ---
 title: 00.00 Experiments in Electronic Arts Syllabus
 date: 2025-01-13T12:00:00Z
-lastmod: 2025-04-07T05:22:42
+lastmod: 2026-10-10T13:14:18-04:00
 ---
 
 ### Course Information
@@ -33,7 +33,7 @@ This is a seminar class that guides students in the development and realization 
 Upon completion of the course, students will have to opportunity to:
 
 - Gain perspective on historic/current applications of electronics technology in an arts context
-- Gain basic hands-on proficiency in practical electronics – including both analog and digital circuits
+- Gain basic hands-on proficiency in practical electronics - including both analog and digital circuits
 - Learn the basics of physical computing using microprocessors (both programming, and interfacing to the physical world)
 - Explore basic concepts of generative art, networking art, and machine learning
 - Participate collaboratively in group workshops and labs applying these technologies
@@ -120,14 +120,14 @@ _\* Course schedule subject to change._
 
 ### Key Dates:
 
-- Jan 13 – First day of classes
-- Jan 20 – MLK Day. No Classes
-- March 7 – Mid Term Grades DUE
-- March 10 – 14 – Spring Break. No classes.
-- March 28 – Last day for students to withdraw from a course without a grade penalty
-- April 25 – Final Day of Classes
-- May 10 (Saturday) – Commencement
-- May 12 – Final Grades DUE for all students
+- Jan 13 - First day of classes
+- Jan 20 - MLK Day. No Classes
+- March 7 - Mid Term Grades DUE
+- March 10 - 14 - Spring Break. No classes.
+- March 28 - Last day for students to withdraw from a course without a grade penalty
+- April 25 - Final Day of Classes
+- May 10 (Saturday) - Commencement
+- May 12 - Final Grades DUE for all students
 
 ## Cleveland Institute of Art Required Policy Language
 

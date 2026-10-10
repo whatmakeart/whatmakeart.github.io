@@ -1,14 +1,14 @@
 ---
 title: 05.06 Motion Capture Movement Preparation Assignment
 date: 2026-09-23T12:00:00-04:00
-lastmod: 2026-09-24T06:49:06-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 canvas_mobile_fallback: true
 ---
 
 ## Assignment Deliverables
 
 1. Submit a list of three possible motion capture movements or actions
-   - Write a 1–2 sentence description of each movement.
+   - Write a 1-2 sentence description of each movement.
    - Label the file YYYY-MM-DD Lastname Firstname Motion Capture Movement List (`.docx`, `.pdf`)
 
 ## Assignment Overview
@@ -21,7 +21,7 @@ The XR Studio record as many as five performers wearing motion-capture suits at 
 
 ### Movement Descriptions
 
-Write 1–2 sentences for each of your three ideas. Each description should identify the number of performers, explain the main action, and indicate how the movement begins and ends. Also consider whether the action could loop, repeat, or become part of a longer animation.
+Write 1-2 sentences for each of your three ideas. Each description should identify the number of performers, explain the main action, and indicate how the movement begins and ends. Also consider whether the action could loop, repeat, or become part of a longer animation.
 
 The description does not need to specify every gesture. It should provide enough information for the class to understand the movement.
 

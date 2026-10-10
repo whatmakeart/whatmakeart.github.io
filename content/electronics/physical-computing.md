@@ -1,7 +1,7 @@
 ---
 title: Physical Computing
 date: 2023-05-23T21:59:41
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 tags:
   - Electronics
 ---
@@ -131,5 +131,5 @@ else: # if column odd
     out[ (y * h) + (h -1 -x) ] = color ( *[int( round( c * plasmaBright ) ) for c in hsv ] )
 ```
 
-- [LEDs with added trigonometry – sandyjmacdonald](http://sandyjmacdonald.github.io/2015/01/20/leds-with-added-trigonometry/)
+- [LEDs with added trigonometry - sandyjmacdonald](http://sandyjmacdonald.github.io/2015/01/20/leds-with-added-trigonometry/)
 - [Taking the Leap Off Board: An Introduction to I2C Over Long Wires | Hackaday](https://hackaday.com/2017/02/08/taking-the-leap-off-board-an-introduction-to-i2c-over-long-wires/)

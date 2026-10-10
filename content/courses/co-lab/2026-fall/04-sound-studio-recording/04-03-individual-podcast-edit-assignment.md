@@ -1,7 +1,7 @@
 ---
 title: 04.03 Individual Podcast Edit Assignment
 date: 2026-09-16T12:00:00-04:00
-lastmod: 2026-09-21T05:45:59-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -21,7 +21,7 @@ Editing is an interpretive process. Your edit should remain truthful to what eac
 
 ### Editing Requirements
 
-Create a focused podcast approximately **3–8 minutes long**. The finished episode should introduce the topic and driving question, develop the conversation through purposeful selections, and reach an intentional ending. Remove material that is repetitive, technically interrupted, or unrelated, but preserve enough pauses, breaths, reactions, and room tone for the conversation to sound human.
+Create a focused podcast approximately **3-8 minutes long**. The finished episode should introduce the topic and driving question, develop the conversation through purposeful selections, and reach an intentional ending. Remove material that is repetitive, technically interrupted, or unrelated, but preserve enough pauses, breaths, reactions, and room tone for the conversation to sound human.
 
 Use Premiere Pro's transcript to make the rough cut, then refine the audio directly in the timeline. Enable **Show Audio Time Units** when you need to trim between video frames at the sample or millisecond level. Listen across every edit and correct clipped words or unnatural overlaps.
 

@@ -1,7 +1,7 @@
 ---
 title: 00.00 Sewing and Fabrication Syllabus
 date: 2026-01-12T09:00:00
-lastmod: 2026-03-15T20:40:49-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ### Course Information
@@ -100,13 +100,13 @@ This is a sewing and patternmaking class. The class will emphasize skills in mac
 
 ### Key Dates:
 
-- January 19 – MLK Day. No Classes
-- March 6 – Mid Term Grades DUE
-- March 9 – 13 – Spring Break. No classes.
-- March 27 – Last day for students to withdraw from a course without a grade penalty
-- April 24 – Final Day of Classes
-- May 9 (Saturday) – Commencement
-- May 11 – Final Grades DUE for all students
+- January 19 - MLK Day. No Classes
+- March 6 - Mid Term Grades DUE
+- March 9 - 13 - Spring Break. No classes.
+- March 27 - Last day for students to withdraw from a course without a grade penalty
+- April 24 - Final Day of Classes
+- May 9 (Saturday) - Commencement
+- May 11 - Final Grades DUE for all students
 
 ### Required Textbooks and Readings
 
@@ -133,7 +133,7 @@ Students can expect to spend between $0 - $150 for materials in the course depen
 #### Required Supplies Provided by SEM
 
 - SEM Sewing Kit that includes a Seam Ripper, Pins, Needles, bobbins in addition to other needed sewing supplies.
-- Thread – SEM supplies black and white thread as well as a variety of heavy-duty thread. Specialty thread not in SEM needs to be provided by the student.
+- Thread - SEM supplies black and white thread as well as a variety of heavy-duty thread. Specialty thread not in SEM needs to be provided by the student.
 - SEM has some fabric available to students at no cost. SEM also has some fabric available at highly reduced cost. Some fabric is sold at cost to students but is conveniently already in the studios.
 
 #### SEM Sewing Kits

@@ -1,7 +1,7 @@
 ---
 title: 00.00 Reproducibility Syllabus
 date: 2025-01-15T09:00:00
-lastmod: 2025-08-16T11:31:35
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ### Course Information
@@ -99,14 +99,14 @@ _\* Course schedule subject to change._
 
 ### Key Dates:
 
-- Jan 13 – First day of classes
-- Jan 20 – MLK Day. No Classes
-- March 7 – Mid Term Grades DUE
-- March 10 – 14 – Spring Break. No classes.
-- March 28 – Last day for students to withdraw from a course without a grade penalty
-- April 25 – Final Day of Classes
-- May 10 (Saturday) – Commencement
-- May 12 – Final Grades DUE for all students
+- Jan 13 - First day of classes
+- Jan 20 - MLK Day. No Classes
+- March 7 - Mid Term Grades DUE
+- March 10 - 14 - Spring Break. No classes.
+- March 28 - Last day for students to withdraw from a course without a grade penalty
+- April 25 - Final Day of Classes
+- May 10 (Saturday) - Commencement
+- May 12 - Final Grades DUE for all students
 
 ## Cleveland Institute of Art Required Policy Language
 

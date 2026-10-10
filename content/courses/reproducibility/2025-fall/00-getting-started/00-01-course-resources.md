@@ -1,7 +1,7 @@
 ---
 title: 00.01 Course Resources
 date: 2025-08-27T12:00:00
-lastmod: 2025-12-23T10:14:07-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Technical and Reference Resources
@@ -44,7 +44,7 @@ lastmod: 2025-12-23T10:14:07-04:00
 - [Understanding Information Disorder](https://firstdraftnews.org/long-form-article/understanding-information-disorder/) [Council of Europe Link](https://edoc.coe.int/en/media/7495-information-disorder-toward-an-interdisciplinary-framework-for-research-and-policy-making.html)
 - Shifman, Limor. [An anatomy of a YouTube meme.](https://bpb-us-e2.wpmucdn.com/sites.middlebury.edu/dist/2/3208/files/2014/07/YouTubeMeme2.pdf) New Media & Society 14 (2012): 187 - 203.
 - Bishop, Claire. [DIGITAL DIVIDE: CONTEMPORARY ART AND NEW MEDIA](https://www.artforum.com/features/digital-divide-contemporary-art-and-new-media-200814/) Artforum. VOL. 51, NO. 1. September 2012.
-- Davis, Douglas. “The Work of Art in the Age of Digital Reproduction (An Evolving Thesis: 1991-1995).” Leonardo 28, no. 5 (1995): 381–86. [https://doi.org/10.2307/1576221](https://doi.org/10.2307/1576221).
+- Davis, Douglas. “The Work of Art in the Age of Digital Reproduction (An Evolving Thesis: 1991-1995).” Leonardo 28, no. 5 (1995): 381-86. [https://doi.org/10.2307/1576221](https://doi.org/10.2307/1576221).
 
 ## Online
 

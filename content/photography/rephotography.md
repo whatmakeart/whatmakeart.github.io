@@ -1,7 +1,7 @@
 ---
 title: Rephotography
 date: 2024-11-29T10:17:20-04:00
-lastmod: 2025-12-28T07:07:28-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 Rephotography can refer to the photographing of the same object or location at different times.
@@ -114,5 +114,5 @@ Rephotography has become ubiquitous with the increase of photography powered by 
 [^prince-without-license]: Prince, Richard. [Practicing Without A License 1977](http://www.richardprince.com/writings/practicing-without-a-license-1977/) [(Web Archive)](https://web.archive.org/web/20111007135329/http://www.richardprince.com/writings/practicing-without-a-license-1977/)
 [^prince-photospheres]: Prince, Richard. [Photospheres](http://www.richardprince.com/writings/photospheres/) [(Web Archive)](https://web.archive.org/web/20111007135708/http://www.richardprince.com/writings/photospheres/)
 [^clasen-mb]: [Norm Clasen: Titled (Cowboy)](https://www.mbphoto.com/exhibitions/124/overview/) exhibition at [M+B Photo](https://www.mbphoto.com/) March 2 to April 21, 2018. [(Web Archive)](https://web.archive.org/web/20240623071217/https://www.mbphoto.com/exhibitions/124/overview/)
-[^appel-prince-interview]: Appel, Brian. [Money, Paint and Jokes – An Interview with Richard Prince (2007)](http://americansuburbx.com/2013/03/interview-richard-prince-2007.html) AMERICAN SUBURB X / ASX. 2007 [(Web Archive)](https://web.archive.org/web/20130503172119/http://www.americansuburbx.com/2013/03/interview-richard-prince-2007.html)
+[^appel-prince-interview]: Appel, Brian. [Money, Paint and Jokes - An Interview with Richard Prince (2007)](http://americansuburbx.com/2013/03/interview-richard-prince-2007.html) AMERICAN SUBURB X / ASX. 2007 [(Web Archive)](https://web.archive.org/web/20130503172119/http://www.americansuburbx.com/2013/03/interview-richard-prince-2007.html)
 [^time-video]: Time Video

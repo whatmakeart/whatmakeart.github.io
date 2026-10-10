@@ -1,7 +1,7 @@
 ---
 title: Story Spine
 date: 2023-05-23T21:59:41
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## What is a Story Spine?
@@ -14,7 +14,7 @@ A story spine is a concept created by Kenn Adams in the book "How to Improvise a
 
 You will use the story spine as the foundation for your 3 act narrative structure.
 
-**Act 1 – The first 3 parts of the story spine**
+**Act 1 - The first 3 parts of the story spine**
 
 This act sets the scene, introduces characters, shows how the world works. The act leads up to having have the rising action of "But, one day..."
 

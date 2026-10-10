@@ -1,7 +1,7 @@
 ---
 title: 08.02 Vector Dual Seeds Iteration Assignment
 date: 2025-10-16T09:00:00
-lastmod: 2025-11-20T06:22:01
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Assignment Deliverables
@@ -50,7 +50,7 @@ Practice rapid visual iteration from two distinct starting designs. with at leas
 9. Select your top 3 from each set and copy to a new artboard.
 10. Arrange the selected designs in a pleasing grid composition.
 
-### Personal Assessment ~250–350 words
+### Personal Assessment ~250-350 words
 
 - What criteria guided decisions for A versus B?
 - Which three A iterations are strongest and why?

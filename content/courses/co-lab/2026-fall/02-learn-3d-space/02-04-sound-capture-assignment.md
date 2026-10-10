@@ -1,7 +1,7 @@
 ---
 title: 02.04 Sound Capture Assignment
 date: 2026-09-02T12:00:00-04:00
-lastmod: 2026-09-22T05:33:30-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -28,7 +28,7 @@ Next week, you will record video using your assembled 3D environment on the XR S
 
 ## 1. Environmental / Ambient Sound
 
-Record approximately 30–60 seconds of continuous environmental sound.
+Record approximately 30-60 seconds of continuous environmental sound.
 
 This might include:
 

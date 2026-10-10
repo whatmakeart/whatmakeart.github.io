@@ -1,7 +1,7 @@
 ---
 title: 01.01 Computer and Algorithmic Art
 date: 2024-01-19T09:30:00Z
-lastmod: 2026-08-25T21:08:30-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Intro to Computer and Algorithmic Art
@@ -152,7 +152,7 @@ Jean Hans Arp used chance operations to create collage compositions. The uniform
 <div class="gallery-grid">
 <figure>
 
-[![Jean Hans Arp - Squares Arranged by Chance - 1916-1917](1916-Jean-Hans-Arp-Untitled-Collage-with-Squares-Arranged-according-to-the-Law-of-Chance-1916–17.jpg)](1916-Jean-Hans-Arp-Untitled-Collage-with-Squares-Arranged-according-to-the-Law-of-Chance-1916–17.jpg)
+[![Jean Hans Arp - Squares Arranged by Chance - 1916-1917](1916-Jean-Hans-Arp-Untitled-Collage-with-Squares-Arranged-according-to-the-Law-of-Chance-1916-17.jpg)](1916-Jean-Hans-Arp-Untitled-Collage-with-Squares-Arranged-according-to-the-Law-of-Chance-1916-17.jpg)
 
 <figcaption>
 
@@ -185,7 +185,7 @@ Tristan Tzara describes cut up poetry in his "Dada Manifesto" by giving instruct
 > Next take out each cutting one after the other.
 > Copy conscientiously in the order in which they left the bag.
 > Them poem will resemble you.
-> And there you are – an infinitely original author of charming sensibility, even though unappreciated by the vulgar herd
+> And there you are - an infinitely original author of charming sensibility, even though unappreciated by the vulgar herd
 >
 > From _Dada Manifesto On Feeble Love And Bitter Love_ by Tristan Tzara [^tzara]
 
@@ -355,7 +355,7 @@ DOUGLAS TRUMBULL | Master Class | Higher Learning
 [^1]: [Paragraphs on Conceptual Art - Artforum Summer 1967 Vol. 5, No 10](https://www.artforum.com/features/paragraphs-on-conceptual-art-211354/)
 [^2]: [Algorithmic Art by Roman Verostko](https://www.verostko.com/algorithm.html)
 [^lillian]: [Lillian Schwartz Biography](http://lillian.com/biography/) [Web Archive](https://web.archive.org/web/20230604211831/http://lillian.com/biography/)
-[^beckett]: Beckett, Samuel. “Quad.” Play. In Collected Shorter Plays, 289–94. New York: Grove Press, 1984.
+[^beckett]: Beckett, Samuel. “Quad.” Play. In Collected Shorter Plays, 289-94. New York: Grove Press, 1984.
 [^lu-steinhardt]: Peter J. Lu, Paul J. Steinhardt, Decagonal and Quasi-Crystalline Tilings in Medieval Islamic Architecture. Science **315**,1106-1110(2007). DOI: [10.1126/science.1135491](https://doi.org/10.1126/science.1135491)
 [^penrose-wiki]: [Penrose Tiling](https://en.wikipedia.org/wiki/Penrose_tiling) Wikipedia.
 [^whitney-106-comments]: [Comments Page](https://artport.whitney.org/commissions/software-structures-2016/_106/comments.html) from Software Structures 106 at the Whitney.

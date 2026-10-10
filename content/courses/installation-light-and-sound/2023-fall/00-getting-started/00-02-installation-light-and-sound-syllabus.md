@@ -1,7 +1,7 @@
 ---
 title: Installation Light and Sound Syllabus
 date: 2023-08-23T09:30:00Z
-lastmod: 2023-09-14T13:20:09
+lastmod: 2026-10-10T13:13:55-04:00
 description: Syllabus for a special topics art and design course exploring installation art through the lenses of light and sound
 ---
 
@@ -121,15 +121,15 @@ There are no required textbooks for this course.
 
 ### Key Dates:
 
-- Aug 23 – First Day of Classes
-- Sept 4 – Labor Day. No Classes
-- Oct 18 – Mid Term Grades DUE by 9am
-- Oct 24 - 25 – Student Fall Break. No classes. Faculty In Service Days
-- Oct 25 – Faculty Teaching & Learning Summit
-- Oct 27 – Last day for students to withdraw from a course without a grade penalty
-- Nov 22 – 24 – Thanksgiving Break. No classes.
-- Dec 5 – Final Day of Classes
-- Dec 18 – Final Grades DUE for all students by 9am
+- Aug 23 - First Day of Classes
+- Sept 4 - Labor Day. No Classes
+- Oct 18 - Mid Term Grades DUE by 9am
+- Oct 24 - 25 - Student Fall Break. No classes. Faculty In Service Days
+- Oct 25 - Faculty Teaching & Learning Summit
+- Oct 27 - Last day for students to withdraw from a course without a grade penalty
+- Nov 22 - 24 - Thanksgiving Break. No classes.
+- Dec 5 - Final Day of Classes
+- Dec 18 - Final Grades DUE for all students by 9am
 
 ## Cleveland Institute of Art Required Policy Language
 

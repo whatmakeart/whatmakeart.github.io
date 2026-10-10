@@ -1,7 +1,7 @@
 ---
 title: 00.02 Time Based Practices Syllabus
 date: 2023-08-29T09:00:00Z
-lastmod: 2025-04-28T05:32:39
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Time Based Strategies
@@ -118,15 +118,15 @@ There are no required textbooks for this course.
 
 ### Key Dates:
 
-- Aug 23 – First Day of Classes
-- Sept 4 – Labor Day. No Classes
-- Oct 18 – Mid Term Grades DUE by 9am
-- Oct 24 - 25 – Student Fall Break. No classes. Faculty In Service Days
-- Oct 25 – Faculty Teaching & Learning Summit
-- Oct 27 – Last day for students to withdraw from a course without a grade penalty
-- Nov 22 – 24 – Thanksgiving Break. No classes.
-- Dec 5 – Final Day of Classes
-- Dec 18 – Final Grades DUE for all students by 9am
+- Aug 23 - First Day of Classes
+- Sept 4 - Labor Day. No Classes
+- Oct 18 - Mid Term Grades DUE by 9am
+- Oct 24 - 25 - Student Fall Break. No classes. Faculty In Service Days
+- Oct 25 - Faculty Teaching & Learning Summit
+- Oct 27 - Last day for students to withdraw from a course without a grade penalty
+- Nov 22 - 24 - Thanksgiving Break. No classes.
+- Dec 5 - Final Day of Classes
+- Dec 18 - Final Grades DUE for all students by 9am
 
 ## Cleveland Institute of Art Required Policy Language
 

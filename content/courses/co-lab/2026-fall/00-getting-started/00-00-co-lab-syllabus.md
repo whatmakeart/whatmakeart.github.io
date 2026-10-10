@@ -1,7 +1,7 @@
 ---
 title: 00.00 Co/Lab Syllabus
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-10-05T16:50:32-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ### Course Information
@@ -49,15 +49,15 @@ By the end of this course, students will the opportunity to:
 
 The entire course then has a very simple progression:
 
-#### WEEKS 1–3
+#### WEEKS 1-3
 
 Students can get something through a digital fabrication pipeline.
 
-#### WEEKS 4–9
+#### WEEKS 4-9
 
 Students can get something through a virtual-production pipeline together.
 
-#### WEEKS 10–16
+#### WEEKS 10-16
 
 Students can respond to somebody else's needs, manage a production, solve problems and deliver finished collaborative work.
 
@@ -91,14 +91,14 @@ _\* Course schedule subject to change._
 
 ### Key Dates:
 
-Aug 24 – First Day of Classes
-Sept 7 – Labor Day. No Classes
-Oct 16 – Mid Term Grades DUE
-Oct 19-20 – Student Fall Break. No classes. Faculty In Service Days & Teaching Summit
-Nov 6 – Last day for students to withdraw from a course without a grade penalty
-Nov 25 – 27 – Thanksgiving Break. No classes.
-Dec 4 – Final Day of Classes
-Dec 18 – Final Grades DUE for all students AT 9AM
+Aug 24 - First Day of Classes
+Sept 7 - Labor Day. No Classes
+Oct 16 - Mid Term Grades DUE
+Oct 19-20 - Student Fall Break. No classes. Faculty In Service Days & Teaching Summit
+Nov 6 - Last day for students to withdraw from a course without a grade penalty
+Nov 25 - 27 - Thanksgiving Break. No classes.
+Dec 4 - Final Day of Classes
+Dec 18 - Final Grades DUE for all students AT 9AM
 
 ### Required Textbooks and Readings
 

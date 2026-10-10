@@ -1,7 +1,7 @@
 ---
 title: 01.05 Bicycle Disassembly Assignment
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-31T20:25:43-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -14,7 +14,7 @@ canvas_mobile_fallback: true
    - Separate the head tube from the bottom bracket and seat tube section.
    - Preserve as much usable frame tubing as possible.
    - Deburr all sharp cut edges.
-   - Remove paint and coatings approximately 3–4" from cut ends that may later be welded.
+   - Remove paint and coatings approximately 3-4" from cut ends that may later be welded.
 
 ## Cutting the Bicycle
 

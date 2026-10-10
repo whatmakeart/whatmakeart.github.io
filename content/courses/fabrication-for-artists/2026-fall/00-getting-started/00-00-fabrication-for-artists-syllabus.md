@@ -1,7 +1,7 @@
 ---
 title: 00.00 Fabrication for Artists Syllabus
 date: 2026-08-28T12:00:00-04:00
-lastmod: 2026-09-24T20:45:43-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ### Course Information
@@ -77,14 +77,14 @@ _\* Course schedule subject to change._
 
 ### Key Dates:
 
-Aug 24 – First Day of Classes
-Sept 7 – Labor Day. No Classes
-Oct 16 – Mid Term Grades DUE
-Oct 19-20 – Student Fall Break. No classes. Faculty In Service Days & Teaching Summit
-Nov 6 – Last day for students to withdraw from a course without a grade penalty
-Nov 25 – 27 – Thanksgiving Break. No classes.
-Dec 4 – Final Day of Classes
-Dec 18 – Final Grades DUE for all students AT 9AM
+Aug 24 - First Day of Classes
+Sept 7 - Labor Day. No Classes
+Oct 16 - Mid Term Grades DUE
+Oct 19-20 - Student Fall Break. No classes. Faculty In Service Days & Teaching Summit
+Nov 6 - Last day for students to withdraw from a course without a grade penalty
+Nov 25 - 27 - Thanksgiving Break. No classes.
+Dec 4 - Final Day of Classes
+Dec 18 - Final Grades DUE for all students AT 9AM
 
 ### Required Textbooks and Readings
 

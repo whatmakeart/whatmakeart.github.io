@@ -1,7 +1,7 @@
 ---
 title: 05.04 Custom Laser Cut Display Stand Modeling Assignment
 date: 2026-09-24T09:00:00-04:00
-lastmod: 2026-09-30T06:05:39-04:00
+lastmod: 2026-10-10T11:53:08-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -117,8 +117,8 @@ _Note: You do not need to laser cut the new design. We will cut the new designs 
 | --------------------------------------------- | ------ |
 | Mesh Inserted into Fusion                     | 20     |
 | Intersect Project Sketch Used                 | 20     |
-| Revisions to prototype stand modeled in class | 30     |
-| Render Image Uploaded                         | 20     |
+| Revisions to prototype stand modeled in class | 20     |
+| Render Image Uploaded                         | 00     |
 | Render Image Aspect Ration 1:1 or 2:3 or 16:9 | 10     |
 | Fusion `.f3d` file uploaded                   | 10     |
 | File Management and Labeling                  | 10     |

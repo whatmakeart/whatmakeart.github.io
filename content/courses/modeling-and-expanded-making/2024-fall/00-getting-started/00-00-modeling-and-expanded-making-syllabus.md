@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2024-08-21T09:00:00
-lastmod: 2026-05-07T08:59:29-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Modeling and Expanded Making Syllabus
@@ -106,15 +106,15 @@ Projects must be turned in on time. On time is before the beginning of class on 
 
 ### Key Dates:
 
-- Aug 21 – First Day of Classes
-- Sept 2 – Labor Day. No Classes
-- Oct 18 – Mid Term Grades DUE
-- Oct 21-22 – Student Fall Break. No classes. Faculty In Service Days
-- Oct 22 – Faculty Teaching & Learning Summit
-- Oct 25 – Last day for students to withdraw from a course without a grade penalty
-- Nov 28 – 29 – Thanksgiving Break. No classes.
-- Dec 3 – Final Day of Classes
-- Dec 16 – Final Grades DUE for all students
+- Aug 21 - First Day of Classes
+- Sept 2 - Labor Day. No Classes
+- Oct 18 - Mid Term Grades DUE
+- Oct 21-22 - Student Fall Break. No classes. Faculty In Service Days
+- Oct 22 - Faculty Teaching & Learning Summit
+- Oct 25 - Last day for students to withdraw from a course without a grade penalty
+- Nov 28 - 29 - Thanksgiving Break. No classes.
+- Dec 3 - Final Day of Classes
+- Dec 16 - Final Grades DUE for all students
 
 ### Required Textbooks and Readings
 

@@ -1,7 +1,7 @@
 ---
 title: How to Copy a Pants Pattern
 date: 2023-05-23T21:59:40-04:00
-lastmod: 2026-01-05T06:57:30-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 This tutorial will show you how to copy a pants pattern from an existing pair of pants without destroying the pants or taking the pants apart.
@@ -41,7 +41,7 @@ To complete this tutorial you should be familiar with [How to Duplicate a T-Shir
 ### Back Pants Piece
 
 1. Lay pants face down
-2. Smooth out – stretch and smooth the crotch to lay flat – working on the side that has the fly may help to make pants lay flat
+2. Smooth out - stretch and smooth the crotch to lay flat - working on the side that has the fly may help to make pants lay flat
 3. Poke pin the waist band
 4. If pants have a back yoke, skip it since it needs to be isolated on its own
 5. Poke pin the crotch J

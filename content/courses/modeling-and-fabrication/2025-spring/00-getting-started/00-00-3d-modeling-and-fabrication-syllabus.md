@@ -1,7 +1,7 @@
 ---
 title: 00.00 Digital II Modeling and Fabrication Syllabus
 date: 2025-01-16T12:00:00Z
-lastmod: 2025-12-08T15:08:11
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ### Course Information
@@ -107,7 +107,7 @@ The following materials are not required for the course but may be useful to you
 - T-Square
 - Straight edge for drawing lines 45 deg triangle 30 / 60 deg triangle
 - Compass for drawing circles
-- 3 Button Mouse – Attached to Lab computers but recommended for working on your laptop
+- 3 Button Mouse - Attached to Lab computers but recommended for working on your laptop
 - Low tack tape to hold drawing paper to board
 - Digital Calipers - May purchase your own or use the [digital calipers](../../../../making/how-to-use-digital-calipers.md) in the Fab Studios
 - Isometric Graph Paper (Has triangles instead of squares)
@@ -157,14 +157,14 @@ _\* Course schedule subject to change._
 
 ### Key Dates:
 
-- Jan 13 – First day of classes
-- Jan 20 – MLK Day. No Classes
-- March 7 – Mid Term Grades DUE
-- March 10 – 14 – Spring Break. No classes.
-- March 28 – Last day for students to withdraw from a course without a grade penalty
-- April 25 – Final Day of Classes
-- May 10 (Saturday) – Commencement
-- May 12 – Final Grades DUE for all students
+- Jan 13 - First day of classes
+- Jan 20 - MLK Day. No Classes
+- March 7 - Mid Term Grades DUE
+- March 10 - 14 - Spring Break. No classes.
+- March 28 - Last day for students to withdraw from a course without a grade penalty
+- April 25 - Final Day of Classes
+- May 10 (Saturday) - Commencement
+- May 12 - Final Grades DUE for all students
 
 ## Cleveland Institute of Art Required Policy Language
 

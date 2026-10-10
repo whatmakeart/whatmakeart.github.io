@@ -1,7 +1,7 @@
 ---
 title: Reproducibility in Art
 date: 2024-12-07T07:12:43
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 What is reproducibility? Does the original matter? Is a "reproduced" reproduction just as valuable? Is a copy of a book still the book?
@@ -90,11 +90,11 @@ Black-Vega _Crucifixion of St Andrew_, identified as a copy after Caravaggio. Ca
 </figure>
 <figure>
 
-[![Crucifixion of Saint Andrew by Caravaggio](attachments/1606–7_The-Crucifixion-of-Saint-Andrew_Caravaggio.jpg)](attachments/1606–7_The-Crucifixion-of-Saint-Andrew_Caravaggio.jpg)
+[![Crucifixion of Saint Andrew by Caravaggio](attachments/1606-7_The-Crucifixion-of-Saint-Andrew_Caravaggio.jpg)](attachments/1606-7_The-Crucifixion-of-Saint-Andrew_Caravaggio.jpg)
 
 <figcaption>
 
-_The Crucifixion of Saint Andrew_, 1606–7. Caravaggio (Italian, 1571–1610). Oil on canvas; framed: 233.5 x 184 x 12 cm (91 15/16 x 72 7/16 x 4 3/4 in.); unframed: 202.5 x 152.7 cm (79 3/4 x 60 1/8 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund 1976.2
+_The Crucifixion of Saint Andrew_, 1606-7. Caravaggio (Italian, 1571-1610). Oil on canvas; framed: 233.5 x 184 x 12 cm (91 15/16 x 72 7/16 x 4 3/4 in.); unframed: 202.5 x 152.7 cm (79 3/4 x 60 1/8 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund 1976.2
 
 </figcaption>
 </figure>

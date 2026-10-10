@@ -1,7 +1,7 @@
 ---
 title: 00.01 Syllabus
 date: 2023-01-20T09:30:00Z
-lastmod: 2024-12-04T05:33:04
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Course Description
@@ -15,7 +15,7 @@ Class sessions will be a combination of lecture/discussion, hands-on lab exercis
 Upon completion of the course, students will have to opportunity to:
 
 - Gain perspective on historic/current applications of electronics technology in an arts context
-- Gain basic hands-on proficiency in practical electronics – including both analog and digital circuits
+- Gain basic hands-on proficiency in practical electronics - including both analog and digital circuits
 - Learn the basics of physical computing using microprocessors (both programming, and interfacing to the physical world)
 - Explore basic concepts of generative art, networking art, and machine learning
 - Participate collaboratively in group workshops and labs applying these technologies

@@ -1,7 +1,7 @@
 ---
 title: 03.07 Jumpsuit Ideation Sketches Assignment
 date: 2026-02-09T09:00:00-04:00
-lastmod: 2026-02-09T07:00:38-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2026-02-09T07:00:38-04:00
 
 ## Assignment Overview
 
-Sketching, sketching, sketching – whether analog or digital you should begin with sketching.
+Sketching, sketching, sketching - whether analog or digital you should begin with sketching.
 
 Sketches can be made with analog techniques, digital techniques, or a combination of both. You can use pencils, markers, paper photo collage, digital photo collage, 3D modeling, vector graphics, digital painting and any other means of ideation and iteration.
 

@@ -1,7 +1,7 @@
 ---
 title: 11-Minute Timer
 date: 2023-05-14T8:30:00-04:00
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 description: 11 Minute Timer counts down silently until it reaches 0:00 and then makes a sound to show time is up
 featured_image: /zalgorithmic/timers/basic-timers/attachments/11-minute-timer.jpg
 tags:
@@ -20,7 +20,7 @@ This is a 11 minute timer that you can use for a variety of purposes, such as co
 
 ## Introduction:
 
-Have you ever needed a simple, no-fuss timer for your daily tasks? Whether it's for whipping up a quick recipe, diving into a focused study session, or managing work tasks efficiently, timing can be everything. That's where this incredible [11-minute timer YouTube video](https://youtu.be/K-ZCt6lVRAQ) comes in – a versatile tool that promises to keep you on track, whatever your task may be.
+Have you ever needed a simple, no-fuss timer for your daily tasks? Whether it's for whipping up a quick recipe, diving into a focused study session, or managing work tasks efficiently, timing can be everything. That's where this incredible [11-minute timer YouTube video](https://youtu.be/K-ZCt6lVRAQ) comes in - a versatile tool that promises to keep you on track, whatever your task may be.
 
 ## Features of the Timer:
 
@@ -41,4 +41,4 @@ To see this timer in action, [11-minute timer YouTube video](https://youtu.be/K-
 
 We invite you to watch the video and try out the timer for yourself. How did it enhance your productivity or daily routine? Share your experiences in the comments on the video page.
 
-In a world where time is precious, this 11-minute timer is more than just a counting tool – it's a productivity partner. So, next time you need a reliable timer, remember this handy YouTube find and make every minute count!
+In a world where time is precious, this 11-minute timer is more than just a counting tool - it's a productivity partner. So, next time you need a reliable timer, remember this handy YouTube find and make every minute count!

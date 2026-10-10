@@ -1,7 +1,7 @@
 ---
 title: 01.05 Reality Glitch In Class Production Challenge Assignment
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-08-30T08:42:21-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 canvas_mobile_fallback: true
 ---
 
@@ -12,9 +12,9 @@ canvas_mobile_fallback: true
 
 ## Assignment Overview
 
-In teams, create a 10–20 second continuous video in which a photogrammetry scanned 3D mesh interacts with the physical world in a way that would otherwise be impossible. [Week 1 Team Groups Course Announcement Link](https://cia.instructure.com/courses/2636/discussion_topics/11671)
+In teams, create a 10-20 second continuous video in which a photogrammetry scanned 3D mesh interacts with the physical world in a way that would otherwise be impossible. [Week 1 Team Groups Course Announcement Link](https://cia.instructure.com/courses/2636/discussion_topics/11671)
 
-First, make an original photogrammetry scan of an object or feature at CIA. Then use its digital double to create a 10–20 second impossible event in the real world. The goal is not simply to display a 3D scan. The scan must participate in an event or interaction that changes during the shot. Your team should create a short impossible event by coordinating the camera, a performer or physical action, and live manipulation of the digital object.
+First, make an original photogrammetry scan of an object or feature at CIA. Then use its digital double to create a 10-20 second impossible event in the real world. The goal is not simply to display a 3D scan. The scan must participate in an event or interaction that changes during the shot. Your team should create a short impossible event by coordinating the camera, a performer or physical action, and live manipulation of the digital object.
 
 You can use any practical, physical, or in camera effects but everything must happen live in one continuous recording. No editing. You may hide the display, crop it out, or deliberately make it part of the piece. You can optionally use the [Reality Glitch Camera](https://whatmakeart.com/reality-glitch-camera/) to place and manipulate that digital scan within a live camera view.
 

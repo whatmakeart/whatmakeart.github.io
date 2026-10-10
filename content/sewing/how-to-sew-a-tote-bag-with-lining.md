@@ -1,7 +1,7 @@
 ---
 title: How to Sew a Tote Bag with Lining
 date: 2023-11-28T05:54:38-04:00
-lastmod: 2026-01-05T06:52:10-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 <div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/826t3yvck6c?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
@@ -25,7 +25,7 @@ To complete this tutorial you should know:
 3. Cut 2 Pieces 20″ x 20″ for Bag Lining
 4. Cut 2 Pieces 4″ x 22″ for Bag Handle
 5. 1 Piece of 9″ x 10″ Plastic Canvas (Optional)
-6. Cut 1 Piece 13″ x 15″ for (Optional) Interior Pocket – The size will depend on what will be in the pocket. Mine is over sized to hold a thermos, but 8″ x 15″ would work too
+6. Cut 1 Piece 13″ x 15″ for (Optional) Interior Pocket - The size will depend on what will be in the pocket. Mine is over sized to hold a thermos, but 8″ x 15″ would work too
 
 ## Result
 

@@ -1,7 +1,7 @@
 ---
 title: How to Duplicate a T-Shirt Pattern
 date: 2023-05-23T21:59:40-04:00
-lastmod: 2026-01-05T06:57:30-04:00
+lastmod: 2026-10-10T13:13:55-04:00
 ---
 
 This tutorial will show you how to make a copy of a t-shirt pattern from an existing t-shirt.
@@ -32,7 +32,7 @@ To complete this tutorial you should be familiar with basic pattern drafting too
 14. Remove pins
 15. Lightly sketch and connect dots with a pencil
 16. Use triangle or t square to draw 90 angles from the center at the front and back neck curves
-17. Check if there is a drop or rise on the lower hem – hem usually comes up for a fitted T
+17. Check if there is a drop or rise on the lower hem - hem usually comes up for a fitted T
 18. Lower lines should start at 90
 19. Straighten the shoulder seam with a ruler
 20. Top of armhole seam is 90 degrees with top of shoulder
@@ -64,7 +64,7 @@ To complete this tutorial you should be familiar with basic pattern drafting too
 8. Draw grainline perpendicular to the top
 9. Cut out the sleeve
 10. Measure the height of the rib collar
-11. Draw square rectangle double the length of front neck and void piece square off the ends – should be 15-20% smaller than the neck
+11. Draw square rectangle double the length of front neck and void piece square off the ends - should be 15-20% smaller than the neck
 
 ### Drafting Full Pattern Pieces
 
