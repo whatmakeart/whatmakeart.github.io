@@ -1,7 +1,7 @@
 ---
 title: 08.03 Recreate Professional Camera Framing and Editing Exercise Assignment
 date: 2026-10-14T12:00:00-04:00
-lastmod: 2026-10-14T10:37:59-04:00
+lastmod: 2026-10-14T11:58:46-04:00
 ---
 
 ## Assignment Deliverables
@@ -77,7 +77,7 @@ Prioritize matching the cinematography and action over recreating the exact prod
 3. Place your recorded footage on a separate video track above the reference.
 4. Arrange your shots in the same order as the original.
 5. Trim each shot so that the camera cuts occur at approximately the same times as those in the original.
-6. Compare the original and re-created sequences, adjusting framing and timing where possible.
+6. Compare the original and recreated sequences, adjusting framing and timing where possible.
 7. Hide or remove the original reference footage before exporting your version.
 8. Export your edited video as an H.264 MP4.
 
