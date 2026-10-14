@@ -1,15 +1,17 @@
 ---
 title: 08.03 Recreate Professional Camera Framing and Editing Exercise Assignment
 date: 2026-10-14T12:00:00-04:00
-lastmod: 2026-10-14T11:58:46-04:00
+lastmod: 2026-10-14T12:01:53-04:00
 ---
 
 ## Assignment Deliverables
 
 1. 20–45 second edited video re-creating the framing, shot sequence, and timing of a professionally produced video.
-   - Label file YYYY-MM-DD Group Name Shot Recreation (`.mp4`)
-2. Shot reference and timing list with screenshots from the original sequence, shot durations, and source information.
-   - Label file YYYY-MM-DD Group Name Shot References (`.pdf`), (`.docx`)
+   - Label file YYYY-MM-DD Lastname Firstname Shot Recreation (`.mp4`)
+2. Original source clip recording
+   - Label file YYYY-MM-DD Lastname Firstname Original Clip Recording (`.mp4`)
+3. Shot reference and timing list with screenshots from the original sequence, shot durations, and source information.
+   - Label file YYYY-MM-DD Lastname Firstname Shot References (`.pdf`), (`.docx`)
 
 ## Assignment Overview
 
@@ -97,11 +99,12 @@ Watch your completed recreation alongside the original.
 
 <div class="responsive-table-markdown">
 
-| Assessment                                     | Weight    |
-| ---------------------------------------------- | --------- |
-| Matching original framing and composition      | 35 points |
-| Matching camera cuts and timing                | 35 points |
-| Recording, continuity, and editing quality     | 20 points |
-| Shot references, analysis, and file management | 10 points |
+| Assessment                                 | Weight    |
+| ------------------------------------------ | --------- |
+| Matching original framing and composition  | 30 points |
+| Matching camera cuts and timing            | 30 points |
+| Recording, continuity, and editing quality | 15 points |
+| Shot references, analysis,                 | 15 points |
+| Labeling and File Management               | 10 points |
 
 </div>
