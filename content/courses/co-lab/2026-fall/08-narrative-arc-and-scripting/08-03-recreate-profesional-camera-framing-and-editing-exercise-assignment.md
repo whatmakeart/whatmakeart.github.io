@@ -1,14 +1,14 @@
 ---
 title: 08.03 Recreate Professional Camera Framing and Editing Exercise Assignment
 date: 2026-10-14T12:00:00-04:00
-lastmod: 2026-10-14T12:01:53-04:00
+lastmod: 2026-10-14T15:34:59-04:00
 ---
 
 ## Assignment Deliverables
 
 1. 20–45 second edited video re-creating the framing, shot sequence, and timing of a professionally produced video.
    - Label file YYYY-MM-DD Lastname Firstname Shot Recreation (`.mp4`)
-2. Original source clip recording
+2. Original source clip recording video file
    - Label file YYYY-MM-DD Lastname Firstname Original Clip Recording (`.mp4`)
 3. Shot reference and timing list with screenshots from the original sequence, shot durations, and source information.
    - Label file YYYY-MM-DD Lastname Firstname Shot References (`.pdf`), (`.docx`)

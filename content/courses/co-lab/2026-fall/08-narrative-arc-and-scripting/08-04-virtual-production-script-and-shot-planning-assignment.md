@@ -1,7 +1,7 @@
 ---
 title: 08.04 Virtual Production Story, Script, and Shot Planning Assignment
 date: 2026-10-14T12:00:00-04:00
-lastmod: 2026-10-14T15:30:40-04:00
+lastmod: 2026-10-14T15:34:45-04:00
 ---
 
 ## Assignment Deliverables
