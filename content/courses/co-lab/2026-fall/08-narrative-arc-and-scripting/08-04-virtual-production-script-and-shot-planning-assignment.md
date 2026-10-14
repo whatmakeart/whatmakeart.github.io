@@ -1,7 +1,7 @@
 ---
 title: 08.04 Virtual Production Story, Script, and Shot Planning Assignment
 date: 2026-10-14T12:00:00-04:00
-lastmod: 2026-10-14T15:34:45-04:00
+lastmod: 2026-10-14T15:36:52-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2026-10-14T15:34:45-04:00
 3. Preliminary set and prop list describing the virtual environment, physical objects, and other production requirements.
 4. Minimum 3 rough storyboard sketches or visual references showing important compositions.
    - Combine your materials into one document.
-   - Label file `YYYY-MM-DD Lastname Firstname Virtual Production Plan` (`.pdf`, `.docx`)
+   - Label file YYYY-MM-DD Lastname Firstname Virtual Production Plan (`.pdf`, `.docx`)
 
 ## Assignment Overview
 
@@ -122,9 +122,9 @@ Focus on:
 
 | Assessment                                           | Weight    |
 | ---------------------------------------------------- | --------- |
-| Story concept and narrative arc                      | 25 points |
+| Story concept and narrative arc                      | 20 points |
 | Script and clarity of action                         | 20 points |
-| Shot list and camera planning                        | 25 points |
+| Shot list and camera planning                        | 20 points |
 | Virtual environment, physical set, and prop planning | 20 points |
 | Storyboard and / or visual references                | 10 points |
 | File Management and Labeling                         | 10 points |
