@@ -1,7 +1,7 @@
 ---
 title: Forget the Rule of Thirds
 date: 2026-10-14T06:09:38-04:00
-lastmod: 2026-10-14T07:34:23-04:00
+lastmod: 2026-10-14T11:56:07-04:00
 ---
 
 <div class="gallery-grid">
@@ -53,7 +53,7 @@ In an interview with Roger Deakins by Phil Mistry for PetaPixel, Deakins is docu
 
 In an interview by John Witmer for _American Cinemetographer_, David Lowery talks about needing to throw out the rule of thirds when shooting _A Ghost Story_ because the "sheet ghost" character would dominate the visual frame and required innovative compositional thinking beyond the rule of thirds. [^lowery-asc]
 
-In a _British Cinemetographer_ article, writer
+In a _British Cinemetographer_ article, Paul Fremes writes, "Although the rule of thirds is seductive in its simplicity and, how a super-imposed grid over an image ‘appears’ to be logical – this idea creates new problems and has the great potential of being destructive when composers attempt to align objects with grid intersections – for its own sake. Imagine how homogeneous all of art would look if this rule were used?"
 
 ## References
 
