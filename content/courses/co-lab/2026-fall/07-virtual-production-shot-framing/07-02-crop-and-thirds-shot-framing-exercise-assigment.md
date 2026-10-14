@@ -1,7 +1,7 @@
 ---
 title: 07.02 Crop and Thirds Shot Framing Exercise Assignment
 date: 2026-10-07T12:00:00-04:00
-lastmod: 2026-10-10T13:14:18-04:00
+lastmod: 2026-10-11T06:28:00-04:00
 ---
 
 ## Assignment Deliverables
@@ -21,7 +21,7 @@ This exercise will help prepare you to plan shots, storyboards, and camera movem
 
 1. Choose a film, television program, animation, trailer, or video game cutscene.
 2. Find a continuous 20-45 second sequence containing at least 4 camera shots. Look for different [shot types](../../../../video/shot-types.md), such as wide shots, medium shots, close-ups, or reaction shots.
-3. Watch the sequence and capture at least 4 screenshots, preferably from consecutive shots.
+3. Watch the sequence and capture at least 4 screenshots, preferably from consecutive shots. [How to Take a Screenshot](../../../../software/how-to-take-a-screenshot.md)
    - Mac
      - `Shift + Command + 3` Captures entires screen and autosaves a `PNG`
      - `Shift + Command + 4` Captures selected portion of the screen and autosaves a `PNG`
