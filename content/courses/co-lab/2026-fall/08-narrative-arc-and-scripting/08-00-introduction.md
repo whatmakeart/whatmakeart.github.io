@@ -1,7 +1,7 @@
 ---
 title: 08.00 Introduction
 date: 2026-10-14T12:00:00-04:00
-lastmod: 2026-10-14T13:28:19-04:00
+lastmod: 2026-10-14T13:32:44-04:00
 ---
 
 ## Overview
@@ -26,11 +26,7 @@ Students turn their observations about framing and editing into a short virtual 
 
 - Narrative Arc
 - Story Spine
-- Beat
-- Action Outline
 - Script
 - Storyboard
 - Shot List
 - Previsualization
-- Production Brief
-- Project Scope
