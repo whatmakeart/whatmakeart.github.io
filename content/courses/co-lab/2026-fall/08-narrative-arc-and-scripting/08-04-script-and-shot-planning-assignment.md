@@ -1,7 +1,7 @@
 ---
 title: 08.04 Virtual Production Story, Script, and Shot Planning Assignment
 date: 2026-10-14T12:00:00-04:00
-lastmod: 2026-10-14T14:03:32-04:00
+lastmod: 2026-10-14T15:30:40-04:00
 ---
 
 ## Assignment Deliverables
@@ -72,11 +72,13 @@ For example:
 
 #### 4. Plan Sets, Environments, and Props
 
-[Virtual Production](../../../../video/virtual-production/virtual-production.md) combines digital environments with physical objects and performers.
-
-Begin planning what your scene will require.
+[Virtual Production](../../../../video/virtual-production/virtual-production.md) combines digital environments with physical objects and performers.Begin planning what your scene will require. Create a short list of the virtual assets, physical props, and people needed for your proposed scene. You do not need to build or acquire anything yet.
 
 ##### Virtual Environment / Set
+
+You do not need to 3D model anything but you may. There are many pre-made environments available on the [FAB marketplace](https://www.fab.com/category/3d-model/environments?lang=en&is_free=1). There are also many [asset packs](https://www.fab.com/category/3d-model/buildings-architecture?is_free=1) that can me used to assemble new environments from pre-built blocks.
+
+We will go over how to select and / or assemble 3D environments for virtual production in the coming weeks. For now begin to think about what setting(s) you want to have for your production.
 
 - Where does the scene take place?
 - What 3D environment or background will appear on the XR Stage?
@@ -85,6 +87,8 @@ Begin planning what your scene will require.
 
 ##### Physical Set and Props
 
+Physical props and object on set really help sell in camera virtual effects. Having a few tree branches or pieces of grass in between the camera and the character can make a shot much more believable.
+
 - What objects must physically exist in front of the LED wall?
 - Will actors need to touch, hold, sit on, or interact with anything?
 - Are furniture, costumes, or small physical set pieces needed?
@@ -92,12 +96,12 @@ Begin planning what your scene will require.
 
 ##### Practical Production Considerations
 
+Co/Lab is a collaborative learning environment. Think about what assistance and coordination you will need from your classmates.
+
 - How many performers are needed?
 - Where will the camera and performers be positioned?
 - Will any actions require special camera movement or tracking?
 - Can the scene realistically be recorded in the XR Studio with the available time and equipment?
-
-Create a short list of the virtual assets, physical props, and people needed for your proposed scene. You do not need to build or acquire anything yet.
 
 #### 5. Create Rough Storyboards or Visual References
 
