@@ -1,7 +1,7 @@
 ---
 title: 03.00 Introduction
 date: 2026-09-09T12:00:00-04:00
-lastmod: 2026-09-09T06:23:02-04:00
+lastmod: 2026-10-15T04:46:36-04:00
 ---
 
 ## Overview
@@ -23,3 +23,16 @@ By the end of this module, you should be able to:
 - Collaborate with peers to record video footage using a virtual environment, tracked camera, and live performance
 - Edit Virtual Production footage
 - Combine recorded sound effects with edited footage
+
+## Key Terms
+
+- Virtual Production
+- Tracked Camera
+- LED Wall
+- Clipping
+- Noise Reduction
+- Equalization (EQ)
+- Compression
+- Normalization
+- WAV
+- Sound Design

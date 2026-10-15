@@ -1,7 +1,7 @@
 ---
 title: 04.00 Introduction
 date: 2026-09-16T12:00:00-04:00
-lastmod: 2026-09-16T11:53:35-04:00
+lastmod: 2026-10-15T04:46:55-04:00
 ---
 
 ## Overview
@@ -23,3 +23,16 @@ In post-production, students will edit with an emphasis on meaning rather than m
 - Use Adobe Audition when individual microphone tracks require repair or balancing
 - Edit speech while preserving clarity, pacing, and the speakers' intended meaning
 - Export an archival WAV master and a compressed listening copy
+
+## Key Terms
+
+- Driving Question
+- Host
+- Producer
+- Microphone Technique
+- Headphone Monitoring
+- Recording Level
+- Stereo Mix
+- Isolated Track
+- Text-Based Editing
+- Rough Cut

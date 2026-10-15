@@ -1,7 +1,7 @@
 ---
 title: 00.00 Co/Lab Syllabus
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-10-14T16:01:54-04:00
+lastmod: 2026-10-15T04:41:21-04:00
 ---
 
 ### Course Information
@@ -77,9 +77,9 @@ Students can respond to somebody else's needs, manage a production, solve proble
 | 8        | October 14       | `Design Studio`                                        | [Narrative Arc and Scripting](../08-narrative-arc-and-scripting/08-00-introduction.md)              |
 | 9        | October 21       | `Experience and Edit Studio` + `Rapid Prototyping Lab` | [Props and Costumes](../09-props-and-costumes/09-00-introduction.md) Production                     |
 | 10       | October 28       | `Rapid Prototyping Lab`                                | [3D Environment Creation](../10-3d-environment-creation/10-00-introduction.md)                      |
-| 11       | November 4       | `XR Studio`                                            | Virtual Production on Set                                                                           |
-| 12       | November 11      | `XR Studio`                                            | Virtual Production Shooting                                                                         |
-| 13       | November 18      | `XR Studio`                                            | Virtual Production Reshoots                                                                         |
+| 11       | November 4       | `XR Studio`                                            | [Virtual Production on Set](../11-virtual-production-on-set/11-00-introduction.md)                  |
+| 12       | November 11      | `XR Studio`                                            | [Virtual Production Shooting](../12-virtual-production-shooting/12-00-introduction.md)              |
+| 13       | November 18      | `XR Studio`                                            | [Virtual Production Reshoots](../13-virtual-production-reshoots/13-00-introduction.md)              |
 | 14       | November 25      |                                                        | _Thanksgiving Break. No Class. _                                                                    |
 | 15       | December 2       | `XR Studio`                                            | [Virtual Production Final Shooting ](../15-virtual-production-final-shooting/15-00-introduction.md) |
 | 16       | December 9       | `Experience and Edit Studio`                           | [Final Critique](../16-final-critique/16-00-introduction.md)                                        |
