@@ -1,7 +1,7 @@
 ---
 title: 08.03 Tool Holder Ideation and Sketches Assignment
 date: 2026-10-16T09:30:00-04:00
-lastmod: 2026-10-17T09:46:46-04:00
+lastmod: 2026-10-17T13:39:58-04:00
 ---
 
 ## Assignment Deliverables

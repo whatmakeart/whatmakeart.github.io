@@ -1,7 +1,7 @@
 ---
 title: 8.01 Measuring, Layout, and Cut Lists
 date: 2026-10-16T09:30:00-04:00
-lastmod: 2026-10-17T09:46:59-04:00
+lastmod: 2026-10-17T13:39:58-04:00
 ---
 
 ## Measure the Material You Have
