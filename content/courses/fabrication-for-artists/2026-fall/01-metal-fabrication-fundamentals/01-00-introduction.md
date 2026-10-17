@@ -1,7 +1,7 @@
 ---
 title: 01.00 Introduction
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-28T09:23:07-04:00
+lastmod: 2026-10-17T09:36:30-04:00
 ---
 
 ## Overview
@@ -20,3 +20,12 @@ The bicycle will serve as the starting structure for exploring these processes. 
 - Prepare painted or coated steel surfaces for welding and fabrication.
 - Generate multiple sketches that explore structural and kinetic transformations of an existing bicycle.
 - Consider how structure, movement, material, and evidence of fabrication can contribute to the meaning and experience of an artwork.
+
+## Key Terms
+
+- Stock: Material supplied in a standard shape or size before fabrication.
+- Layout: Transferring measurements and cut locations onto material.
+- Kerf: The width of material removed by a cutting tool.
+- Burr: A sharp raised edge left after cutting or drilling.
+- Surface preparation: Cleaning and preparing a surface for a later operation.
+- Kinetic sculpture: An artwork in which actual movement is part of the work.
