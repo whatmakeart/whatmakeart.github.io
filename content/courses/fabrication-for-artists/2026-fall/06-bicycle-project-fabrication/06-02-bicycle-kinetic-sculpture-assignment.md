@@ -1,7 +1,7 @@
 ---
 title: 06.02 Bicycle Kinetic Sculpture Assignment
 date: 2026-10-02T09:30:00-04:00
-lastmod: 2026-10-16T06:15:09-04:00
+lastmod: 2026-10-16T06:32:12-04:00
 ---
 
 ## Assignment Deliverables
@@ -35,8 +35,7 @@ If part of the sculpture remains unresolved, still attend critique. Present its 
 | Objective                                                      | Points |
 | -------------------------------------------------------------- | ------ |
 | Intentional transformation, form, and relationship to movement | 30     |
-| Functioning kinetic element and testing-informed resolution    | 30     |
+| Functioning kinetic element and testing-informed resolution    | 40     |
 | Fabrication, connections, support, and completion              | 30     |
-| File management and labeling                                   | 10     |
 
 </div>

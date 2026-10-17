@@ -1,7 +1,7 @@
 ---
 title: Podcast Recording Instructions
 date: 2026-09-16T12:00:00-04:00
-lastmod: 2026-10-10T09:26:11-04:00
+lastmod: 2026-10-17T07:00:18-04:00
 ---
 
 ## Before Entering the Booth
@@ -68,7 +68,7 @@ Begin with microphone placement. If someone is consistently too quiet, move the 
 
 1. Complete a sound check and a test record to confirm everything is working.
 2. Double check levels and that everyone can hear in their headphones.
-3. Press **Record** and verify that the timer is moving.
+3. Press `Record` and verify that the timer is moving.
 4. Remain silent for five seconds.
 5. Record a spoken record of:
    - date
