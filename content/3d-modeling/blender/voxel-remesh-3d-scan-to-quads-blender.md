@@ -1,7 +1,7 @@
 ---
 title: Voxel Remesh 3D Scan to Quads in Blender
 date: 2024-10-14T21:20:30
-lastmod: 2026-02-25T06:59:48-04:00
+lastmod: 2026-10-19T06:43:59-04:00
 tags:
   - Blender
   - 3D-Modeling
@@ -13,7 +13,7 @@ tags:
 </div>
 </div>
 
-Before you start, make sure your scan is already cleaned up. The workflow here assumes you’ve already done your earlier cleanup steps to remove junk, fix holes, and make the mesh manifold. Then make a backup copy of the mesh.
+Before you start, make sure your [scan is already cleaned up](./clean-up-3d-scan-imported-mesh-blender.md). The workflow here assumes you’ve already done your earlier cleanup steps to remove junk, fix holes, and make the mesh manifold. Then make a backup copy of the mesh.
 
 ### Duplicate and prep your mesh
 

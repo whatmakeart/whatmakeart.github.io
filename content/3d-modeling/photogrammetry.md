@@ -1,7 +1,7 @@
 ---
 title: Photogrammetry
 date: 2024-09-25T05:06:07-04:00
-lastmod: 2026-10-10T13:13:55-04:00
+lastmod: 2026-10-19T06:14:23-04:00
 ---
 
 Photogrammetry is a useful tool for capturing 3D geometry and visual texture information from the real physical world. [Photogrammetry software](photogrammetry-software.md) identifies matching visual features in multiple 2D images taken from different but overlapping camera positions. The relative position of these features is used to calculate three-dimensional geometry and generate a textured 3D mesh.
@@ -34,7 +34,7 @@ Keep the object stationary and move the camera whenever possible. Turntable capt
 
 Preserve the original photographs. Avoid individually cropping, resizing, warping, perspective-correcting, or applying substantially different edits to images before reconstruction.
 
-For dimensional work, include known scale references in the captured scene so the finished model can be calibrated to real-world measurements.
+For dimensional work, include known scale references in the captured scene so the finished model can be [calibrate the scan to real-world size](blender/calibrate-photogrammetry-scanned-object-scale-blender.md).
 
 ## Camera Settings
 
@@ -239,7 +239,7 @@ Video can produce hundreds or thousands of nearly identical frames, and it is us
 
 ### Working with Photogrammetry Created 3D Meshes
 
-Photogrammetry software commonly produces meshes with irregular orientation, arbitrary scale, excessive polygons, disconnected geometry, holes, and unnecessary portions of the surrounding environment. The reconstructed model may therefore require cleanup before it is useful for modeling, fabrication, animation, or visualization.
+Photogrammetry software commonly produces meshes with irregular orientation, arbitrary scale, excessive polygons, disconnected geometry, holes, and unnecessary portions of the surrounding environment. The reconstructed model may therefore require cleanup before it is useful for modeling, fabrication, animation, or visualization. [How to clean up a scanned mesh in Blender](blender/clean-up-3d-scan-imported-mesh-blender.md)
 
 Photogrammetry models may also import extremely small or large, rotated onto an unexpected axis, or positioned far from the world origin.
 
