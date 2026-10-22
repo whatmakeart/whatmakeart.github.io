@@ -1,7 +1,7 @@
 ---
-title: 09.01 Animate Scene Origin in disguise
+title: 09.02 Animate Scene Origin in disguise
 date: 2026-10-21T12:00:00-04:00
-lastmod: 2026-10-21T21:02:55-04:00
+lastmod: 2026-10-22T05:08:26-04:00
 toc: true
 ---
 
