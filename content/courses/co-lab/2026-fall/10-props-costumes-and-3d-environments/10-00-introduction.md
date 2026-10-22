@@ -1,34 +1,35 @@
 ---
 title: 10.00 Introduction
 date: 2026-10-28T12:00:00-04:00
-lastmod: 2026-10-15T04:43:37-04:00
+lastmod: 2026-10-22T04:35:38-04:00
 ---
 
 ## Overview
 
-Each student builds a digital environment tailored to the shots they planned with their group. Creators reuse their captured or modeled assets where appropriate, while also modeling or adapting additional geometry to establish the scene's location, mood, and spatial relationships. Throughout this phase, students concentrate on what the camera will see and how the background supports the performer and physical props.
+Each student develops both the digital environment and the physical assets required for their virtual production project, aligning with the shots planned with their group. Creators use their scripts, storyboards, and shot lists to determine which elements require physical fabrication—such as props, costumes, and small set pieces that performers handle on stage—and which elements remain virtual.
 
-Students use Blender to prepare their assets, and they follow the lab's Unreal Engine and disguise workflow to assemble the virtual set. Artists check scale, orientation, origins, materials, and texture file paths before moving assets between applications. In addition, creators run simple camera previews and test a small section of the environment before investing time in fine details. Finally, each student archives the source files and maintains a clearly labeled project build ready for the XR Studio.
+On the digital side, students model or adapt assets in Blender, verify scale, origins, materials, and texture paths, and assemble the scene using the Unreal Engine and [disguise](../../../../video/virtual-production/disguise.md) workflow. On the physical side, creators build rapid prototypes to test scale, mobility, silhouette, and camera framing before final fabrication. Throughout this phase, creators run camera tests to ensure physical and digital worlds align seamlessly, establish stage blocking and reset procedures, and archive organized project builds ready for the XR Studio.
 
 ## Learning Objectives
 
-- Translate storyboards and a shot list into spatial requirements for a virtual environment
-- Arrange foreground, middle-ground, and background elements to support the composition
-- Create or adapt assets that fit the project's visual direction
-- Check asset scale, orientation, origins, and textures before export
-- Identify material or appearance changes when an asset moves between applications
-- Prepare and test the environment using the lab's approved project workflow
-- Organize source files, exported assets, texture files, and project versions for handoff
+- Distinguish objects that performers must physically interact with from elements that can remain virtual
+- Translate storyboards and shot lists into spatial, compositional, and physical staging requirements
+- Design, model, or fabricate assets that support the project’s narrative, scale, and visual direction
+- Use sketches and rapid prototypes to evaluate silhouette, color, and performance action before final fabrication
+- Verify asset scale, orientation, origins, materials, and texture file paths across software pipelines (Blender to Unreal Engine)
+- Run camera previews to evaluate spatial alignment, composition, and surface reads between physical props and virtual backgrounds
+- Establish stage blocking, floor marks, and continuity reset instructions for studio crew
+- Organize and archive source files, builds, textures, and physical assets for a clean XR Studio handoff
 
 ## Key Terms
 
-- Virtual Environment
-- Asset
-- Scale
-- World Origin
-- Object Origin
-- Material
-- Texture
-- Real-Time Rendering
-- Unreal Engine
-- Asset Handoff
+- Virtual Environment / Virtual Set
+- Physical Set
+- Asset & Asset Handoff
+- Prop & Costume
+- Prototype & Silhouette
+- Scale & World/Object Origin
+- Material, Texture & Surface Finish
+- Real-Time Rendering & Unreal Engine
+- Blocking & Continuity
+- Reset
