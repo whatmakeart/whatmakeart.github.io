@@ -1,7 +1,7 @@
 ---
 title: "16.03 Magical Powers Video"
 date: 2020-01-26T23:11:13Z
-lastmod: 2026-10-10T13:13:55-04:00
+lastmod: 2026-10-23T07:03:15-04:00
 ---
 
 # Lights! Camera! You Have Magical Powers
@@ -500,11 +500,9 @@ After you are done editing your footage, make sure to use Lumetri Color to color
 
 <div class="half-box" style="flex: 1 1 400px; margin-top: 0; margin-bottom: 0;">
 
-In addition to rich visuals, adding music and sound to your video will make it come alive. This video shows [how to add sound effects](https://youtu.be/Ds2QJryBf84) to your video. We will your Creative Commons Licensed music and sound effects to make the magical objects and magical super powers seem more real. We will also create our own sound effects. All CC licensed music and sounds must have proper written attribution in the credits at the end.
+In addition to rich visuals, adding music and sound to your video will make it come alive. This video shows [how to add Music and Sound](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md) to your video. We will your Creative Commons Licensed music and sound effects to make the magical objects and magical super powers seem more real. We will also create our own sound effects. All CC licensed music and sounds must have proper written attribution in the credits at the end.
 
-- Adobe Sound Effects: [https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html](https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html)
-- FTP of Adobe Music Loops and Beds (Must use FTP to download) - [ftp://ftp.adobe.com/pub/adobe/audition/Loops/](ftp://ftp.adobe.com/pub/adobe/audition/Loops/)
-- Kevin McLeod's Music: [https://incompetech.com/music/royalty-free/music.html](https://incompetech.com/music/royalty-free/music.html) Remember to [credit](https://incompetech.com/music/royalty-free/faq.html) Kevin's music exactly as he requests.
+[Royalty Free Sound Effects and Music](../../../../sound/royalty-free-sound-effects-and-music.md)
 
 </div>
 
@@ -520,7 +518,9 @@ In addition to rich visuals, adding music and sound to your video will make it c
 
 After you complete all of your edits, go to File > Export > Media ... (If nothing happens, make sure that the timeline was selected and the blue box was around it before clicking on File.) Also, make sure you do not have any in or out points set on your timeline. This can make it so not all of your video will export.
 
-Chose H.264 as the format and match the source with a high bitrate. Click on the blue file name to label your video and to choose where to save it. After it exports, make sure you watch it all the way through to make sure you exported the whole video, your sound effects work, and there is not a long black sectio nat the end of the video causeed by a stray clip on the time line. Then upload your video to the Google Drive Folder.
+Chose H.264 as the format and match the source with a high bitrate. Click on the blue file name to label your video and to choose where to save it. After it exports, make sure you watch it all the way through to make sure you exported the whole video, your sound effects work, and there is not a long black section at the end of the video caused by a stray clip on the time line. Then upload your video to the Google Drive Folder.
+
+[Export Video from Adobe Premiere](../../../../video/adobe-premiere-pro/export-video-adobe-premiere.md)
 
 # Video Tutorials
 

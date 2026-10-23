@@ -1,7 +1,7 @@
 ---
 title: 09.03 Animatic and Storyboard Reference Assignment
 date: 2026-10-21T12:00:00-04:00
-lastmod: 2026-10-23T06:53:57-04:00
+lastmod: 2026-10-23T07:06:44-04:00
 ---
 
 ## Assignment Deliverables
@@ -61,6 +61,8 @@ Build on your shot recreation [exercises](../08-narrative-arc-and-scripting/08-0
 2. Stories without dialogue still need sound.
 3. Place important sound effects and ambience where they occur. [Adobe Premiere Add Music and Sound](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
 4. Use music when it supports the scene while keeping dialogue and important sounds clear. \_All music and sounds must be originally created by you, in the [Public Domain](../../../../copyright/public-domain.md), or royalty free such as [Kevin McLeod's Music](https://incompetech.com/_music/royalty-free/music.html).
+
+[[sound effect]]
 
 #### 5. Review and Tweak Your Animatic
 
