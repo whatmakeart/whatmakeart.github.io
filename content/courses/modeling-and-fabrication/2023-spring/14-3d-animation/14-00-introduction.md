@@ -1,7 +1,7 @@
 ---
 title: "14.00 Introduction"
 date: 2020-01-26T23:11:13Z
-lastmod: 2024-01-04T13:15:02
+lastmod: 2026-10-23T07:31:42-04:00
 ---
 
 ## Overview
@@ -22,5 +22,5 @@ lastmod: 2024-01-04T13:15:02
 - [keyframes](../../../../video/keyframes.md)
 - interpolation
 - graph editor
-- [sound effect](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
+- [sound effect](../../../../video/adobe-premiere-pro/add-music-and-sound-adobe-premiere.md)
 - [shot types](../../../../video/shot-types.md)

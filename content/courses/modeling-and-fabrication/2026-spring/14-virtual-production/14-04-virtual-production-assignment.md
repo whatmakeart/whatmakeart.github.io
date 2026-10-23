@@ -1,7 +1,7 @@
 ---
 title: 14.04 Virtual Production Assignment
 date: 2026-04-22T09:00:00-04:00
-lastmod: 2026-04-23T07:10:16-04:00
+lastmod: 2026-10-23T07:31:42-04:00
 ---
 
 ## Assignment Deliverables
@@ -27,7 +27,7 @@ Each student still turns in the project. The final video may be from the same so
 
 - [Premiere Pro](../../../../video/adobe-premiere-pro/adobe-premiere.md)
 - [Shot Types](../../../../video/shot-types.md)
-- [Adobe Premiere Add Music and Sound](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
+- [Adobe Premiere Add Music and Sound](../../../../video/adobe-premiere-pro/add-music-and-sound-adobe-premiere.md)
 - [Adobe Color Workflows](https://helpx.adobe.com/ca/premiere-pro/using/color-workflows.html)
 - [Adobe Basic Color Correcting Options](https://helpx.adobe.com/premiere/desktop/correct-color/color-correction-fundamentals/basic-color-correction-options.html)
 

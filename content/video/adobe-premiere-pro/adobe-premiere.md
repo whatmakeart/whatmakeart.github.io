@@ -1,7 +1,7 @@
 ---
 title: Adobe Premiere
 date: 2023-05-26T03:29:06
-lastmod: 2026-10-03T10:52:12-04:00
+lastmod: 2026-10-23T07:31:42-04:00
 ---
 
 ## Adobe Premiere Pro Basics
@@ -41,7 +41,7 @@ Once you are finished editing your video, you can export it to a variety of form
 
 ## Adobe Premiere Pro Video Tutorials
 
-- [Adobe Premiere Add Music and Sound](adobe-premiere-add-music-and-sound.md)
+- [Adobe Premiere Add Music and Sound](add-music-and-sound-adobe-premiere.md)
 - [Adobe Premiere Import Image Sequence](import-image-sequence-adobe-premiere.md)
 
 ## Adobe Premiere Green Screen Tutorials

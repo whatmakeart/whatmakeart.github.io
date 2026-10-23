@@ -1,7 +1,7 @@
 ---
 title: 06.04 Mocap Retarget Animation Exercise Assignment
 date: 2026-09-30T12:00:00-04:00
-lastmod: 2026-10-06T14:40:51-04:00
+lastmod: 2026-10-23T07:31:42-04:00
 ---
 
 ## Assignment Deliverables
@@ -84,7 +84,7 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
    - [How to Import Image Sequence into Premiere](../../../../video/adobe-premiere-pro/import-image-sequence-adobe-premiere.md)
    - [How to Change Frame Rate Adobe Premiere](../../../../video/adobe-premiere-pro/change-frame-rate-adobe-premiere.md) to match Blender animation if needed to speed up or slow down animation in Premiere.
 7. Add at least one original sound effect and synchronize it with the movement.
-   - [How to Add Music and Sound in Adobe Premiere](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
+   - [How to Add Music and Sound in Adobe Premiere](../../../../video/adobe-premiere-pro/add-music-and-sound-adobe-premiere.md)
 8. Export `.mp4` with Sound Effects from Adobe Premiere.
    - [How to Export Video from Adobe Premiere](../../../../video/adobe-premiere-pro/export-video-adobe-premiere.md)
 
@@ -212,7 +212,7 @@ Use [Blender](../../../../3d-modeling/blender/blender.md) to [retarget motion ca
 
 <div class="video-card">
 
-#### [Adobe Premiere Add Music and Sound](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
+#### [Adobe Premiere Add Music and Sound](../../../../video/adobe-premiere-pro/add-music-and-sound-adobe-premiere.md)
 
 <div class="iframe-16-9-container">
 <iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/Ds2QJryBf84?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

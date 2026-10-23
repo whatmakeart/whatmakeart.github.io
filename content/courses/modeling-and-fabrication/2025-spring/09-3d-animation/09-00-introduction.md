@@ -1,7 +1,7 @@
 ---
 title: 09.00 Introduction
 date: 2025-03-20T12:00:00Z
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-23T07:31:42-04:00
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ lastmod: 2025-12-23T10:12:35-04:00
 - [keyframes](09-02-keyframes.md)
 - interpolation
 - graph editor
-- [sound effect](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
+- [sound effect](../../../../video/adobe-premiere-pro/add-music-and-sound-adobe-premiere.md)
 - [shot types](09-03-shot-types.md)
 - [storyboards](09-06-storyboards.md)
 - visual themes

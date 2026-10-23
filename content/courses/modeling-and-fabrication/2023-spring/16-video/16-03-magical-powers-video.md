@@ -1,7 +1,7 @@
 ---
 title: "16.03 Magical Powers Video"
 date: 2020-01-26T23:11:13Z
-lastmod: 2026-10-23T07:03:15-04:00
+lastmod: 2026-10-23T07:31:42-04:00
 ---
 
 # Lights! Camera! You Have Magical Powers
@@ -500,7 +500,7 @@ After you are done editing your footage, make sure to use Lumetri Color to color
 
 <div class="half-box" style="flex: 1 1 400px; margin-top: 0; margin-bottom: 0;">
 
-In addition to rich visuals, adding music and sound to your video will make it come alive. This video shows [how to add Music and Sound](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md) to your video. We will your Creative Commons Licensed music and sound effects to make the magical objects and magical super powers seem more real. We will also create our own sound effects. All CC licensed music and sounds must have proper written attribution in the credits at the end.
+In addition to rich visuals, adding music and sound to your video will make it come alive. This video shows [how to add Music and Sound](../../../../video/adobe-premiere-pro/add-music-and-sound-adobe-premiere.md) to your video. We will your Creative Commons Licensed music and sound effects to make the magical objects and magical super powers seem more real. We will also create our own sound effects. All CC licensed music and sounds must have proper written attribution in the credits at the end.
 
 [Royalty Free Sound Effects and Music](../../../../sound/royalty-free-sound-effects-and-music.md)
 

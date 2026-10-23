@@ -1,7 +1,9 @@
 ---
-title: Adobe Premiere Add Music and Sound
+title: Add Music and Sound in Adobe Premiere
 date: 2023-06-14T11:35:09
-lastmod: 2026-10-23T07:06:35-04:00
+lastmod: 2026-10-23T07:30:45-04:00
+aliases:
+  - /video/adobe-premiere-pro/adobe-premiere-add-music-and-sound/
 ---
 
 In addition to rich visuals, adding music and sound to an animation or video will make it come alive. This video shows [how to add sound effects](https://youtu.be/Ds2QJryBf84) to a video project in Adobe Premiere.

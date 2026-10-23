@@ -1,7 +1,7 @@
 ---
 title: 10.00 Introduction
 date: 2026-03-25T09:00:00-04:00
-lastmod: 2026-03-25T09:07:46-04:00
+lastmod: 2026-10-23T07:31:42-04:00
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ lastmod: 2026-03-25T09:07:46-04:00
 - [keyframes](10-03-keyframes.md)
 - interpolation <!-- TODO Keyframe Interpolation Basics Video -->
 - graph editor <!-- TODO Maya graph editor Basics Video --> <!-- TODO Blender graph editor Basics Video -->
-- [sound effect](../../../../video/adobe-premiere-pro/adobe-premiere-add-music-and-sound.md)
+- [sound effect](../../../../video/adobe-premiere-pro/add-music-and-sound-adobe-premiere.md)
 - [shot types](../../../../video/shot-types.md)
 - [storyboards](../../../../video/storyboards.md)
 - [narrative arc](../../../../video/narrative-arc.md)
