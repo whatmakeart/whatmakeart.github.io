@@ -1,7 +1,7 @@
 ---
 title: 00.00 Fabrication for Artists Syllabus
 date: 2026-08-28T12:00:00-04:00
-lastmod: 2026-10-10T13:13:55-04:00
+lastmod: 2026-10-26T07:19:13-04:00
 ---
 
 ### Course Information
@@ -60,15 +60,15 @@ By the end of this course, students will the opportunity to:
 | 5        | September 25     | [Bicycle Project Fabrication](../05-bicycle-project-fabrication/05-00-introduction.md)       |
 | 6        | October 2        | [Bicycle Project Fabrication](../06-bicycle-project-fabrication/06-00-introduction.md)       |
 | 7        | October 9        | [Bicycle Project Presentation](../07-bicycle-project-presentation/07-00-introduction.md)     |
-| 8        | October 16       | Laser Cutting                                                                                |
-| 9        | October 23       | 3D Printing                                                                                  |
-| 10       | October 30       | Wood Fabrication Introduction                                                                |
+| 8        | October 16       | [Wood Fabrication Introduction](../08-wood-fabrication-introduction/08-00-introduction.md)   |
+| 9        | October 23       | [Wood Joinery and Fasteners](../09-wood-joinery-and-fasteners/09-00-introduction.md)         |
+| 10       | October 30       | Custom Tool Holders                                                                          |
 | 11       | November 6       | Wood Cutting and Joining                                                                     |
 | 12       | November 13      | Adhesives and Fasteners                                                                      |
 | 13       | November 20      | Cables and Rigging and Cleats                                                                |
 | 14       | November 27      | _Thanksgiving Break. No Class._                                                              |
-| 15       | December 4       | Studio Work                                                                                  |
-| 16       | December 11      | Final Critique                                                                               |
+| 15       | December 4       | [Studio Work](../14-studio-work/14-00-introduction.md)                                       |
+| 16       | December 11      | [Final Critique](../15-final-critique/15-00-introduction.md)                                 |
 | 17       | December 14 - 16 | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                     |
 
 </div>

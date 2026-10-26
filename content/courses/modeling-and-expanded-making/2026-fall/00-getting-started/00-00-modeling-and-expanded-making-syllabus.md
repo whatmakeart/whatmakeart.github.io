@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-10-10T13:13:55-04:00
+lastmod: 2026-10-26T07:20:00-04:00
 ---
 
 ### Course Information
@@ -75,7 +75,7 @@ Upon completion of the course, students will have the opportunity to:
 | 12       | November 19      | `XR Studio`                      | [Virtual Production Shooting](../12-virtual-production-shooting/12-00-introduction.md)                             |
 | 13       | November 26      |                                  | _Thanksgiving Break. No Class._                                                                                    |
 | 14       | December 3       | `XR Studio`                      | [Virtual Production Post Production](../14-virtual-production-post-production/14-00-introduction.md)               |
-| 15       | December 10      | `Experience + Edit Center`       | Final Critique                                                                                                     |
+| 15       | December 10      | `Experience + Edit Center`       | [Final Critique](../15-final-critique/15-00-introduction.md)                                                       |
 | 16       | December 14 - 16 |                                  | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                           |
 
 </div>
