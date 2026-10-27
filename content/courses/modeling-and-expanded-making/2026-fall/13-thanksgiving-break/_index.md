@@ -1,5 +1,5 @@
 ---
-title: 12 Virtual Production Shooting
-date: 2026-11-19T09:00:00-04:00
-lastmod: 2026-10-09T07:08:39-04:00
+title: 13 Thanksgiving Break
+date: 2026-11-26T09:00:00-04:00
+lastmod: 2026-10-26T09:51:24-04:00
 ---
