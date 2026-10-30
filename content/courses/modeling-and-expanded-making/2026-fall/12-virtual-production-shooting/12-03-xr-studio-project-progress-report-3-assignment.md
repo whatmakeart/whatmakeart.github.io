@@ -1,7 +1,7 @@
 ---
 title: 12.03 XR Studio Project Report 3 Assignment
 date: 2026-11-12T09:00:00-04:00
-lastmod: 2026-10-30T06:56:17-04:00
+lastmod: 2026-10-30T07:13:39-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2026-10-30T06:56:17-04:00
 
 ## Assignment Overview
 
-Spend approximately **four hours outside class bringing your project closer to completion**. Prioritize essential content, resolve important technical questions, and prepare for your **fourth and final XR Studio work session**.
+Spend approximately four hours outside class bringing your project closer to completion. Prioritize essential content, resolve important technical questions, and prepare for your fourth and final XR Studio work session.
 
 Review your current project and make practical decisions about what you can complete. Adjust the scope when needed to produce a coherent final experience.
 
