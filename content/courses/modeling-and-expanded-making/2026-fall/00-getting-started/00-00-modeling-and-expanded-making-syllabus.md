@@ -1,7 +1,7 @@
 ---
 title: 00.00 Modeling and Expanded Making Syllabus
 date: 2026-08-27T09:00:00-04:00
-lastmod: 2026-10-26T07:20:00-04:00
+lastmod: 2026-10-30T05:56:16-04:00
 ---
 
 ### Course Information
@@ -71,12 +71,13 @@ Upon completion of the course, students will have the opportunity to:
 | 8        | October 15       | `Recording Studio` + `XR Studio` | [Sound Recording](../08-sound-recording/08-00-introduction.md)                                                     |
 | 9        | October 22       | `XR Studio`                      | [Virtual Production Shot Framing](../09-virtual-production-shot-framing/09-00-introduction.md)                     |
 | 10       | October 29       | `Experience + Edit Center`       | [Editing and Color Correction](../10-editing-and-color-correction/10-00-introduction.md)                           |
-| 11       | November 12      | `XR Studio`                      | [Interactive XR Studio Experiences](../11-interactive-xr-studio-experiences/11-00-introduction.md)                 |
-| 12       | November 19      | `XR Studio`                      | [Virtual Production Shooting](../12-virtual-production-shooting/12-00-introduction.md)                             |
-| 13       | November 26      |                                  | _Thanksgiving Break. No Class._                                                                                    |
-| 14       | December 3       | `XR Studio`                      | [Virtual Production Post Production](../14-virtual-production-post-production/14-00-introduction.md)               |
-| 15       | December 10      | `Experience + Edit Center`       | [Final Critique](../15-final-critique/15-00-introduction.md)                                                       |
-| 16       | December 14 - 16 |                                  | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                           |
+| 11       | November 5       | `XR Studio`                      | [Interactive XR Studio Experiences](../11-interactive-xr-studio-experiences/11-00-introduction.md)                 |
+| 12       | November 12      | `XR Studio`                      | [Virtual Production Shooting](../12-virtual-production-shooting/12-00-introduction.md)                             |
+| 13       | November 19      | `XR Studio`                      | [XR Studio Projects](../12-virtual-production-shooting/12-00-introduction.md)                                      |
+| 14       | November 26      |                                  | _Thanksgiving Break. No Class._                                                                                    |
+| 15       | December 3       | `XR Studio`                      | [Virtual Production Post Production](../15-xr-studio-post-production/15-00-introduction.md)                        |
+| 16       | December 10      | `Experience + Edit Center`       | [Final Critique](../16-final-critique/16-00-introduction.md)                                                       |
+| 17       | December 14 - 16 |                                  | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                                           |
 
 </div>
 
