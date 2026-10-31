@@ -1,7 +1,7 @@
 ---
 title: 11.01 First In Class Shoot
 date: 2026-11-04T12:00:00-04:00
-lastmod: 2026-10-31T10:54:36-04:00
+lastmod: 2026-10-31T11:39:45-04:00
 ---
 
 Record an initial shot from your planned [Virtual Production](../../../../video/virtual-production/virtual-production.md) during this class. Choose something achievable with the environment, props, and people available now. Work toward a take that could become part of the final video. If that is not possible, then a test that reveals a useful change also gives you something to develop and document. You may use relevant footage, setup photos, or notes in your individual progress report.

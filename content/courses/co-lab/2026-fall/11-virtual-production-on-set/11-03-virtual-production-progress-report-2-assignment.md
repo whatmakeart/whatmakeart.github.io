@@ -1,7 +1,7 @@
 ---
 title: 11.03 Virtual Production Project Report 2 Assignment
-date: 2026-11-11T12:00:00-05:00
-lastmod: 2026-10-31T10:38:36-04:00
+date: 2026-11-04T12:00:00-04:00
+lastmod: 2026-10-31T11:37:20-04:00
 ---
 
 ## Assignment Deliverables
