@@ -1,7 +1,7 @@
 ---
 title: Cardboard Construction
 date: 2023-06-14T05:51:08
-lastmod: 2025-12-23T10:12:35-04:00
+lastmod: 2026-10-31T09:00:10-04:00
 ---
 
 Cardboard is a great material for making prototypes and models. As a [material for making](materials-for-making.md), it is relatively cheap, easy to find, strong and lightweight. During [fabrication](../making/fabrication.md) it can be cut, sanded, bent, fastened and glued. Multiple layers of cardboard can be built up to make a panel a desired thickness or to build a [scale cardboard to plywood](scale-cardboard-to-plywood.md).
@@ -14,11 +14,21 @@ With a small amount of practice you can make detailed an intricate test pieces w
 
 ## Cutting Techniques
 
-- Laser Cutter - cuts cardboard very well. You can make shapes in graphics program like [Adobe Illustrator](../software/adobe-illustrator/illustrator.md) or 3D modeling programs such as [Fusion 360](../3d-modeling/fusion-360/fusion-360.md).
-- Box Cutter - Always use a new blade and a cutting mat
-- Metal Straight Edge - useful for cutting clean edges
-- Remember that often you need to run the box cutter multiple times to cut all of the cardboard
-- Serrated cutters - good for cutting curves
+### Laser Cutter
+
+[Laser Cutting](../digital-fabrication/laser-cutting/laser-cutting.md) cuts cardboard very well. You can make shapes in graphics program like [Adobe Illustrator](../software/adobe-illustrator/illustrator.md) or 3D modeling programs such as [Fusion](../3d-modeling/fusion-360/fusion-360.md).
+
+- [MakeSlice Cardboard Slider for Laser Cutting](../digital-fabrication/laser-cutting/make-slice-laser-cutter-slicer.md) automatically cuts up a 3D model into planar forms that can be cut on a laser cutter.
+
+### Box Cutter
+
+Box cutters can cut crisp, sharp lines in cardboard but are best used for straight lines only. Always use a new blade and a cutting mat with a box cutter and be aware of where your body is to avoid injury. A Metal Straight Edge is useful for cutting clean edges in cardboard with a box cutter.
+
+- Remember you often need to run the box cutter multiple times to cut all of the cardboard
+
+### Serrated Cutters
+
+Serrated cutters such as the canary cutter are good for cutting curves in cardboard
 
 ## Assembly Techniques
 

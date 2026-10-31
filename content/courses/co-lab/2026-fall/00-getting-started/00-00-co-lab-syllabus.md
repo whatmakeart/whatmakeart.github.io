@@ -1,7 +1,7 @@
 ---
 title: 00.00 Co/Lab Syllabus
 date: 2026-08-26T12:00:00-04:00
-lastmod: 2026-10-21T20:01:21-04:00
+lastmod: 2026-10-31T10:10:18-04:00
 ---
 
 ### Course Information
@@ -65,25 +65,25 @@ Students can respond to somebody else's needs, manage a production, solve proble
 
 <div class="responsive-table-markdown">
 
-| **Week** | **Date**         | **IML Lab**                                | **Topic**                                                                                            |
-| -------- | ---------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| 1        | August 26        | `3D Capture Studio`                        | [Reality to Data](../01-reality-to-data/01-00-introduction.md)                                       |
-| 2        | September 2      | `XR Studio`                                | [Learn 3D Space](../02-learn-3d-space/02-00-introduction.md)                                         |
-| 3        | September 9      | `XR Studio`                                | [Make the Illusion](../03-make-the-illusion/03-00-introduction.md)                                   |
-| 4        | September 16     | `Recording Studio`                         | [Sound Studio Recording](../04-sound-studio-recording/04-00-introduction.md)                         |
-| 5        | September 23     | `3D Capture Studio`                        | [Character Creation](../05-character-creation/05-00-introduction.md)                                 |
-| 6        | September 30     | `XR Studio`                                | [Motion Capture](../06-motion-capture/06-00-introduction.md)                                         |
-| 7        | October 7        | `XR Studio`                                | [Virtual Production Shot Framing](../07-virtual-production-shot-framing/07-00-introduction.md)       |
-| 8        | October 14       | `Design Studio`                            | [Narrative Arc and Scripting](../08-narrative-arc-and-scripting/08-00-introduction.md)               |
-| 9        | October 21       | `XR Studio` + `Experience and Edit Studio` | [Props and Costumes](../09-camera-and-lighting-cues/09-00-introduction.md) Production                |
-| 10       | October 28       | `Rapid Prototyping Lab`                    | [3D Environment Creation](../10-props-costumes-and-3d-environments/10-00-introduction.mdoduction.md) |
-| 11       | November 4       | `XR Studio`                                | [Virtual Production on Set](../11-virtual-production-on-set/11-00-introduction.md)                   |
-| 12       | November 11      | `XR Studio`                                | [Virtual Production Shooting](../12-virtual-production-shooting/12-00-introduction.md)               |
-| 13       | November 18      | `XR Studio`                                | [Virtual Production Reshoots](../13-virtual-production-reshoots/13-00-introduction.md)               |
-| 14       | November 25      |                                            | _Thanksgiving Break. No Class. _                                                                     |
-| 15       | December 2       | `XR Studio`                                | [Virtual Production Final Shooting ](../15-virtual-production-final-shooting/15-00-introduction.md)  |
-| 16       | December 9       | `Experience and Edit Studio`               | [Final Critique](../16-final-critique/16-00-introduction.md)                                         |
-| 17       | December 14 - 17 |                                            | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                             |
+| **Week** | **Date**         | **IML Lab**                                | **Topic**                                                                                           |
+| -------- | ---------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| 1        | August 26        | `3D Capture Studio`                        | [Reality to Data](../01-reality-to-data/01-00-introduction.md)                                      |
+| 2        | September 2      | `XR Studio`                                | [Learn 3D Space](../02-learn-3d-space/02-00-introduction.md)                                        |
+| 3        | September 9      | `XR Studio`                                | [Make the Illusion](../03-make-the-illusion/03-00-introduction.md)                                  |
+| 4        | September 16     | `Recording Studio`                         | [Sound Studio Recording](../04-sound-studio-recording/04-00-introduction.md)                        |
+| 5        | September 23     | `3D Capture Studio`                        | [Character Creation](../05-character-creation/05-00-introduction.md)                                |
+| 6        | September 30     | `XR Studio`                                | [Motion Capture](../06-motion-capture/06-00-introduction.md)                                        |
+| 7        | October 7        | `XR Studio`                                | [Virtual Production Shot Framing](../07-virtual-production-shot-framing/07-00-introduction.md)      |
+| 8        | October 14       | `Design Studio`                            | [Narrative Arc and Scripting](../08-narrative-arc-and-scripting/08-00-introduction.md)              |
+| 9        | October 21       | `XR Studio` + `Experience and Edit Studio` | [Props and Costumes](../09-camera-and-lighting-cues/09-00-introduction.md) Production               |
+| 10       | October 28       | `Rapid Prototyping Lab`                    | [3D Environment Creation](../10-props-costumes-and-3d-environments/10-00-introduction.md)           |
+| 11       | November 4       | `XR Studio`                                | [Virtual Production on Set](../11-virtual-production-on-set/11-00-introduction.md)                  |
+| 12       | November 11      | `XR Studio`                                | [Virtual Production Shooting](../12-virtual-production-shooting/12-00-introduction.md)              |
+| 13       | November 18      | `XR Studio`                                | [Virtual Production Reshoots](../13-virtual-production-reshoots/13-00-introduction.md)              |
+| 14       | November 25      |                                            | _Thanksgiving Break. No Class. _                                                                    |
+| 15       | December 2       | `XR Studio`                                | [Virtual Production Final Shooting ](../15-virtual-production-final-shooting/15-00-introduction.md) |
+| 16       | December 9       | `Experience and Edit Studio`               | [Final Critique](../16-final-critique/16-00-introduction.md)                                        |
+| 17       | December 14 - 17 |                                            | Mid-Year BFA crits (May grads) and BFA Reviews + Exhibitions (Dec grads)                            |
 
 </div>
 
@@ -131,7 +131,7 @@ You’re required to contribute to all critiques, even if your own project is no
 
 ### Late Work
 
-Projects and assignments must be submitted before the start of class on the due date. Late assignments will automatically incur a deduction of 1% per calendar day, up to a maximum penalty of 40%. No assignments will be accepted after the final day of class.
+Projects and assignments must be submitted before the start of class on the due date. Late assignments will automatically incur a deduction of 1% per calendar day, up to a maximum penalty of 40%. Final project submissions are due at the start of the scheduled final critique. All other assignments must be submitted by the final day of regular classes.
 
 ### Documentation
 
