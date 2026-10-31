@@ -1,7 +1,7 @@
 ---
 title: 12.02 Build Your First Rough Cut
-date: 2026-11-11T12:00:00-05:00
-lastmod: 2026-10-31T11:10:38-04:00
+date: 2026-11-11T12:00:00-04:00
+lastmod: 2026-10-31T11:46:24-04:00
 ---
 
 A rough cut helps you discover what your video needs while you still have access to the XR Studio. Use the [Adobe Premiere](../../../../video/adobe-premiere-pro/adobe-premiere.md) editing skills from the [earlier footage and sound exercise](../03-make-the-illusion/03-06-edit-virtual-production-footage-and-add-sound-effects-assignment.md). Keep the edit simple enough to revise quickly. Keep the existing target of approximately 30–60 seconds in mind. Use the strongest material rather than stretching every take.

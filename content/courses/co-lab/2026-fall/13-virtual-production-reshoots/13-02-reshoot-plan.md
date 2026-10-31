@@ -1,7 +1,7 @@
 ---
 title: 13.02 Reshoot Plan
-date: 2026-10-31T11:16:51-04:00
-lastmod: 2026-10-31T11:19:20-04:00
+date: 2026-11-18T12:00:00-04:00
+lastmod: 2026-10-31T11:45:15-04:00
 ---
 
 ## Record the Most Useful Changes

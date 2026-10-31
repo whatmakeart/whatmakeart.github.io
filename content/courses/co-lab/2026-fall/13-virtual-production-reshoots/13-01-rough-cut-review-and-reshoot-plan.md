@@ -1,7 +1,7 @@
 ---
 title: 13.01 Rough-Cut Review and Reshoot Plan
-date: 2026-11-18T12:00:00-05:00
-lastmod: 2026-10-31T11:16:32-04:00
+date: 2026-11-18T12:00:00-04:00
+lastmod: 2026-10-31T11:46:24-04:00
 ---
 
 Watch the rough cut once without an explanation of the story.
