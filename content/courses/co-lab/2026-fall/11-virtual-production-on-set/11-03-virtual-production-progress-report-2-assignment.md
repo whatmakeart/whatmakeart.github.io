@@ -1,7 +1,7 @@
 ---
 title: 11.03 Virtual Production Project Report 2 Assignment
 date: 2026-11-11T12:00:00-05:00
-lastmod: 2026-10-31T10:15:38-04:00
+lastmod: 2026-10-31T10:38:36-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2026-10-31T10:15:38-04:00
 
 ## Assignment Overview
 
-Spend approximately four hours outside class advancing your virtual production and preparing for the third XR Studio session. Use footage and tests to decide what to revise, record, or simplify. Keep reporting brief so most of your time goes into production.
+Spend approximately 3.5 - 4 hours outside class advancing your virtual production and preparing for the third XR Studio session. Use footage and tests to decide what to revise, record, or simplify. Keep reporting brief so most of your time goes into production.
 
 Continue collaborating on production and sharing media. Write your own report and begin your own edit. Credit shared work and identify your personal contribution.
 
@@ -27,11 +27,11 @@ Include relevant clips, sketches, references, prop progress, environment tests, 
 
 <div class="responsive-table-markdown">
 
-| Objective                                                                                    | Points |
-| -------------------------------------------------------------------------------------------- | ------ |
-| Evidence of approximately four hours of outside-class project work and personal contribution | 40     |
-| Documentation and explanation of learning                                                    | 25     |
-| Specific, achievable next steps                                                              | 25     |
-| Organization, source credits, and file labeling                                              | 10     |
+| Objective                                                                         | Points |
+| --------------------------------------------------------------------------------- | ------ |
+| Evidence of 3.5 - 4 hours of outside-class project work and personal contribution | 40     |
+| Documentation and explanation                                                     | 25     |
+| Specific, achievable next steps                                                   | 25     |
+| Organization, source credits, and file labeling                                   | 10     |
 
 </div>

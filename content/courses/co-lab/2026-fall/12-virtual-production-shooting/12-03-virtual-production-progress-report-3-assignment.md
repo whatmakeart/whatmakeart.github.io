@@ -1,7 +1,7 @@
 ---
 title: 12.03 Virtual Production Project Report 3 Assignment
 date: 2026-11-11T12:00:00-04:00
-lastmod: 2026-10-31T09:44:19-04:00
+lastmod: 2026-10-31T10:38:53-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2026-10-31T09:44:19-04:00
 
 ## Assignment Overview
 
-Spend approximately four hours outside class bringing your virtual production closer to completion. Prioritize essential content and prepare for the fourth and final XR Studio sessions on November 18 and December 2. _There is no homework over thanksgiving break._
+Spend approximately 3.5 - 4 hours outside class bringing your virtual production closer to completion. Prioritize essential content and prepare for the fourth and final XR Studio sessions on November 18 and December 2. _There is no homework over thanksgiving break._
 
 Collaborate on production, share footage, and exchange feedback. Write your own report and develop your own edit. The reports and final individual edit provide evidence of each student's work and learning.
 
@@ -29,11 +29,11 @@ There is no fourth progress report. After the final studio session, focus on com
 
 <div class="responsive-table-markdown">
 
-| Objective                                                                                    | Points |
-| -------------------------------------------------------------------------------------------- | ------ |
-| Evidence of approximately four hours of outside-class project work and personal contribution | 40     |
-| Documentation and explanation of learning                                                    | 25     |
-| Specific, achievable next steps                                                              | 25     |
-| Organization, source credits, and file labeling                                              | 10     |
+| Objective                                                                         | Points |
+| --------------------------------------------------------------------------------- | ------ |
+| Evidence of 3.5 - 4 hours of outside-class project work and personal contribution | 40     |
+| Documentation and explanation                                                     | 25     |
+| Specific, achievable next steps                                                   | 25     |
+| Organization, source credits, and file labeling                                   | 10     |
 
 </div>

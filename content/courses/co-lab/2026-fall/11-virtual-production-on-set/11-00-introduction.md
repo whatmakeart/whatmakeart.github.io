@@ -1,29 +1,29 @@
 ---
 title: 11.00 Introduction
 date: 2026-11-04T12:00:00-04:00
-lastmod: 2026-10-31T09:31:25-04:00
+lastmod: 2026-10-31T10:37:38-04:00
 ---
 
 ## Overview
 
-Students bring their script or action outline, storyboards or animatic, shot list, props, and digital assets into the XR Studio. Over the four remaining studio sessions, students turn these plans into a finished [virtual production](../../../../video/virtual-production/virtual-production.md). They build on prior work with scanning, 3D environments, sound, motion capture, framing, and editing, selecting the specific tools that best serve each project's concept.
+Continue shooting from the initial footage recorded in week 10. Bring your script or action outline, storyboard or animatic, shot list, props, and available digital assets. Use the first recordings to decide which setup changes will help and which shots you can complete today.
 
-Students begin to test loading the 3D environment, arranging the camera and physical elements, rehearsing an action, recording a clip, and playing it back. They check framing, perspective, lighting, focus, and sound across varied tools such as Unreal Engine, disguise, or camera tracking systems. Students resolve the most critical uncertainties first and capture usable footage whenever a setup is ready.
+Four XR Studio sessions remain, including today. Use them to build and refine environments, make physical props, record footage, and improve your individual edits. On set, check the camera image, lighting, background, and sound. Record the main actions that are ready and review each take before changing the setup.
 
-Working collaboratively, students coordinate planning, fabrication, environments, performance, shooting, and shared media. Each student must write three individual progress reports and create an individual final edit. These deliverables assess each student's independent contributions and technical progress.
+Share production roles and footage. While another group uses the stage, develop props, prepare sound, assist a classmate, or begin your own edit. Each student writes their own three progress reports and creates their own final edit.
 
 ## Learning Objectives
 
-- Translate a production plan into a practical studio setup.
-- Combine physical and digital elements through intentional framing.
-- Coordinate crew roles and share studio time.
-- Record, review, and back up a complete test take.
-- Identify personal contributions and prioritize revisions.
+- Use the first recordings to improve a scene.
+- Coordinate useful production tasks with classmates.
+- Record clear actions and views that support the idea.
+- Review takes, share media, and maintain a backup.
+- Begin making individual decisions about shot selection and timing.
 
 ## Key Terms
 
-- **Blocking:** Planned positions and movement of performers, props, and cameras.
 - **Take:** One recorded attempt at a shot.
-- **Camera tracking:** Position and orientation data used to coordinate physical and virtual cameras.
-- **Shot log:** Notes identifying recordings, useful takes, and problems.
-- **Media backup:** An additional copy of recordings stored separately from the working copy.
+- **Coverage:** Additional views or details that provide editing choices.
+- **Continuity:** Keeping important details consistent between shots.
+- **Shot log:** A brief note identifying a recording and useful takes.
+- **Rough cut:** An unfinished edit used to see how the shots work together.

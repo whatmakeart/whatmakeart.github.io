@@ -1,34 +1,29 @@
 ---
-title: 14.00 Introduction
+title: 15.00 Introduction
 date: 2026-12-02T12:00:00-04:00
-lastmod: 2026-10-15T04:37:53-04:00
+lastmod: 2026-10-31T11:23:16-04:00
 ---
 
 ## Overview
 
-Students use feedback on the rough cut to guide the final virtual production shoot. They prioritize missing or unclear shots, matching actions, stronger performances, and any sound elements the edit still requires. Team members bring the current cut and pickup list directly to set so the entire crew understands the purpose of each new take.
+Bring your individual rough cut and the pickup plan made before break. This is our final XR Studio session. Coordinate with collaborators to record the remaining shots and sounds your edits need. Prioritize essential material and keep any new setup achievable within the available time.
 
-After wrapping production, operators verify and back up the new recordings before editors assemble the final cut. The post-production team refines overall pacing, matches the visual appearance of adjacent shots, balances audio levels, and incorporates titles or credits where appropriate. Students export a viewing copy and review the complete file outside the editing software prior to the final critique. Finally, team members archive the project files and raw source media so they can revise the project later if needed.
+Check and back up the recordings, then use the rest of the session to work on your individual final edit. Refine the order and timing of shots, balance sound, and make basic brightness and color adjustments when shots look inconsistent. Advanced color grading, tracking, and visual effects are optional tools for projects that need them.
+
+Prepare your completed video and brief contribution note for the [final project submission](15.03-virtual-produciton-final-project-assignment.md) at the start of the December 9 critique. There is no fourth progress report.
 
 ## Learning Objectives
 
-- Convert rough-cut feedback into an achievable final shooting plan
-- Reproduce earlier settings and physical arrangements for matching pickup shots
-- Record and verify the remaining footage and sound needed by the edit
-- Refine transitions, pacing, and continuity in the final sequence
-- Match exposure and color between shots and balance the final audio
-- Export and check a complete video file with sound and appropriate credits
-- Preserve the editing project, original media, and final export in an organized archive
+- Prioritize and record the final material your edit needs.
+- Coordinate shared studio time and check new recordings.
+- Refine an individual edit into a complete short video.
+- Make sound and images clear and consistent enough to support the idea.
+- Export, check, and preserve the finished work.
 
 ## Key Terms
 
-- Pickup Shot
-- Reshoot
-- Continuity
-- Picture Edit
-- Color Correction
-- Shot Matching
-- Audio Mix
-- Credits
-- Export
-- Archive
+- **Pickup shot:** An extra recording needed to complete the edit.
+- **Color correction:** Adjusting brightness or color so shots work together.
+- **Audio mix:** The balance between dialogue, effects, ambience, and music.
+- **Credits:** Acknowledgments of collaborators and outside material used.
+- **Export:** A standalone video file created from your editing project.

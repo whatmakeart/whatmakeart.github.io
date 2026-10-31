@@ -1,7 +1,7 @@
 ---
 title: 10.04 Virtual Production Project Report 1 Assignment
 date: 2026-10-28T12:00:00-04:00
-lastmod: 2026-10-31T10:11:22-04:00
+lastmod: 2026-10-31T10:30:35-04:00
 ---
 
 ## Assignment Deliverables
@@ -11,7 +11,7 @@ lastmod: 2026-10-31T10:11:22-04:00
 
 ## Assignment Overview
 
-Spend approximately four hours outside class developing your [virtual production](../../../../video/virtual-production/virtual-production.md) and preparing for the second of four XR Studio sessions. Put your time into the project; keep the report brief.
+Spend approximately 3.5 - 4 hours outside class developing your [virtual production](../../../../video/virtual-production/virtual-production.md) and preparing for the second of four XR Studio sessions. Put your time into the project; keep the report brief.
 
 Collaborate on scripts, props, environments, performances, shooting, and other production work. Write and submit your own report.Identify your contribution to shared work. Each student will also create their own final edit from the available footage.
 
@@ -27,11 +27,11 @@ Documentation may include recorded clips, references, sketches, prop constructio
 
 <div class="responsive-table-markdown">
 
-| Objective                                                                                    | Points |
-| -------------------------------------------------------------------------------------------- | ------ |
-| Evidence of approximately four hours of outside-class project work and personal contribution | 40     |
-| Documentation and explanation of learning                                                    | 25     |
-| Specific, achievable next steps                                                              | 25     |
-| Organization, source credits, and file labeling                                              | 10     |
+| Objective                                                                         | Points |
+| --------------------------------------------------------------------------------- | ------ |
+| Evidence of 3.5 - 4 hours of outside-class project work and personal contribution | 40     |
+| Documentation and explanation                                                     | 25     |
+| Specific, achievable next steps                                                   | 25     |
+| Organization, source credits, and file labeling                                   | 10     |
 
 </div>
