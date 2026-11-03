@@ -1,7 +1,7 @@
 ---
 title: 3D Animation - Blender
 date: 2023-06-14T11:45:49
-lastmod: 2026-03-25T07:22:59-04:00
+lastmod: 2026-11-03T05:58:25-04:00
 tags:
   - Blender
   - 3D-Animation
@@ -10,8 +10,8 @@ tags:
 
 [Blender](blender.md) can be used to create 3D animations. To set a keyframe in Blender press the I key.
 
-- [How to Set Keyframes in Blender](https://youtu.be/pNtni7oPrLU)
-- [Render Animation Sequence Blender](https://youtu.be/KUF6M9pmjak)
+- [How to Set Keyframes in Blender](set-keyframes-blender.md)
+- [Render Animation Sequence Blender](render-animation-sequence-blender.md)
 - [Ball Rigging Tutorial Blender](https://youtu.be/VsBTUaRESr0)
 - [Blender Cloth Simulation](https://youtu.be/IYdfMqRIfMA)
 - [Blender Rigid Body Physics](https://youtu.be/q88mMWW2yNs)
