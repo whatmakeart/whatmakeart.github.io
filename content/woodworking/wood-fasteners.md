@@ -1,12 +1,12 @@
 ---
 title: Wood Fasteners
 date: 2023-05-23T21:59:40
-lastmod: 2024-09-19T15:04:02
+lastmod: 2026-11-07T09:19:02-04:00
 tags:
   - Fabrication
 ---
 
-# Screws
+## Screws
 
 Screws are a great way to assemble wood but there are many types and shapes. Screws are made of different materials and coatings that are designed for specific uses.
 
