@@ -1,7 +1,7 @@
 ---
-title: Laser Cut Finger Joint Box Fusion 360
+title: Laser Cut Finger Joint Box Fusion
 date: 2025-02-14T05:02:09
-lastmod: 2025-09-30T17:53:45
+lastmod: 2026-11-07T08:58:34-04:00
 tags:
   - Fusion-360
   - Laser-Cutting

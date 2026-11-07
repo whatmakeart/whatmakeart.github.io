@@ -1,7 +1,7 @@
 ---
 title: Create Laminated 3D Forms from Flat Sheets in Fusion 360
 date: 2023-11-12T08:37:23
-lastmod: 2026-08-25T21:08:30-04:00
+lastmod: 2026-11-07T08:53:11-04:00
 tags:
   - Fusion-360
 ---
@@ -11,9 +11,9 @@ tags:
 </div>
 </div>
 
-Are you interested in creating 3D forms from flat sheets using a laser cutter? We'll go through a step-by-step Fusion 360 tutorial to turn an organic shape into a series of panels that can be used to construct a laminated three-dimensional object. Specifically, we'll tackle how to segment a sphere-a shape that challenges conventional split body techniques-using the trim function.
+Are you interested in creating 3D forms from flat sheets using a [laser cutter](laser-cutting.md)? We'll go through a step-by-step Fusion 360 tutorial to turn an organic shape into a series of panels that can be used to construct a laminated three-dimensional object. Specifically, we'll tackle how to segment a sphere-a shape that challenges conventional split body techniques-using the trim function.
 
-## Fusion 360 Instructions
+## Fusion Instructions
 
 ### Step 1: Create Your Organic Form
 
@@ -64,7 +64,12 @@ With these steps, you should be able to design and prepare panels from any spher
 
 Remember, this is just the beginning of what you can do with Fusion 360's powerful tools. With practice, you can adapt these techniques to even more intricate designs and turn your virtual models into tangible creations. Happy designing!
 
+<details>
+<summary>
+
 ## Fusion 360 Slice Body into Thickened Patches for Laser Cutting Video Transcript
+
+</summary>
 
 In this Fusion 360 tutorial I'm going to show you how to take an organic form and slice it into panels that can be laser cut to make a laminated three-dimensional form that is made out of flat sheets cut on a laser cutter.
 To get started we need a form for this example I'm going to show you how to cut up a sphere this example is good because it doesn't allow you to use the split body function and you must use the trim function. For many different forms you can simply use split body and it'll work fine but for some things where there's no face like a sphere or a torus, then you need to use trim.
@@ -79,3 +84,5 @@ Now that I have my patches I need to split them. If I go to modify split body an
 What I need to use is trim, so I'm going to select the sphere as my trim tool. Now this tool is a little confusing because normally in Fusion 360 there's another dialogue box, but all we have to do is then select these objects at the top. Unfortunately there's no more marquee select so we have to select them individually. If I press okay, suddenly those are trimmed away I can select this body and then delete it because it's not needed. Over in my outliner under bodies if I hide the first body you can see that we now have these planes that are in the original shape of our object. I'm also going to hide the sketches.
 
 Next we need to thicken these so that they have a nice crisp edge that we can use on the laser cutter. So I go to create, thicken and ask which faces. I'll just select all these faces and I'll select them in a symmetric. It defaults to one side but I want to go symmetric and since I'm using three millimeter plywood I'll use 1.5 mm, If I press okay you can see now I have thick pieces that have a right angle edge. This is the important part. So if I look from the bottom you can tell that these are actual pieces that could be cut from a laser cutter. So hopefully this allows you to do this on a more complex form.
+
+</summary>

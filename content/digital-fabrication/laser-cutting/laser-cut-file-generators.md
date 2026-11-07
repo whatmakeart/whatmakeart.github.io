@@ -1,10 +1,12 @@
 ---
 title: Laser Cut File Generators
 date: 2024-02-01T12:00:00Z
-lastmod: 2025-09-30T17:53:45
+lastmod: 2026-11-07T08:45:54-04:00
 ---
 
-think\[box\] laser cutter kerf is ~0.127 millimeters.
+## Laser Cut Slicer
+
+- [MakeSlice Laser Cutter Slicer](make-slice-laser-cutter-slicer.md)
 
 ## Laser Cut Box Generators
 
