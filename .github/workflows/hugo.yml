@@ -1,1 +1,119 @@
-.github/workflows/hugo-pages.yml
+name: Deploy Hugo site to Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  # Let an active deployment finish before starting another.
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
+
+env:
+  # Retained from the supplied workflow.
+  DART_SASS_VERSION: "1.80.6"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "latest"
+          extended: true
+
+      - name: Install Dart Sass
+        run: |
+          set -euo pipefail
+
+          sass_install_dir="$RUNNER_TEMP/sass-install"
+          sass_archive="$RUNNER_TEMP/dart-sass-${DART_SASS_VERSION}.tar.gz"
+          mkdir -p "$sass_install_dir"
+
+          curl --fail --silent --show-error --location \
+            --retry 5 --retry-all-errors \
+            --connect-timeout 20 --max-time 180 \
+            --output "$sass_archive" \
+            "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+
+          # Keep the launcher and its src directory together.
+          tar -xzf "$sass_archive" -C "$sass_install_dir"
+
+          # GITHUB_PATH applies to subsequent steps.
+          echo "$sass_install_dir/dart-sass" >> "$GITHUB_PATH"
+          "$sass_install_dir/dart-sass/sass" --version
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Get Hugo version
+        id: hugo-version
+        run: |
+          hugo version
+          echo "version=$(hugo version | cut -d ' ' -f 2)" >> "$GITHUB_OUTPUT"
+
+      - name: Cache Hugo resources
+        uses: actions/cache@v6
+        with:
+          # Default location of Hugo's generated assets and processed images.
+          path: resources/_gen
+          # A new commit can save an updated cache after a successful build.
+          key: ${{ runner.os }}-${{ runner.arch }}-hugo-res-v2-${{ steps.hugo-version.outputs.version }}-sass-${{ env.DART_SASS_VERSION }}-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-${{ runner.arch }}-hugo-res-v2-${{ steps.hugo-version.outputs.version }}-sass-${{ env.DART_SASS_VERSION }}-
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v6
+
+      - name: Build with Hugo
+        env:
+          HUGO_ENVIRONMENT: production
+          PAGES_BASE_URL: ${{ steps.pages.outputs.base_url }}
+        run: |
+          hugo \
+            --gc \
+            --minify \
+            --baseURL "${PAGES_BASE_URL%/}/"
+
+      - name: Run Pagefind
+        run: npx pagefind --site "public"
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
