@@ -20,8 +20,8 @@ defaults:
     shell: bash
 
 env:
-  # Retained from the supplied workflow.
-  DART_SASS_VERSION: "1.80.6"
+  # Downgraded until Bootstrap 6 upgrade SASS
+  DART_SASS_VERSION: "1.76.0"
 
 jobs:
   build:

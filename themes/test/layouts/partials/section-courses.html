@@ -1,12 +1,13 @@
 <nav class="bd-links w-100" id="bd-docs-nav" aria-label="Wiki navigation">
   <ul class="bd-links-nav list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
     {{ range .Pages.ByTitle }}
-      {{ if .IsNode }}
+      {{ if not .IsPage }}
         <li class="mb-1">
           <a
             class="d-inline-flex align-items-center rounded"
             href="{{ .RelPermalink }}"
-            ><button
+          >
+            <button
               class="btn d-inline-flex align-items-center rounded collapsed"
               type="button"
               data-bs-toggle="collapse"
@@ -15,8 +16,8 @@
               aria-controls="{{ .Title | urlize }}"
             >
               {{ .Title }}
-            </button></a
-          >
+            </button>
+          </a>
 
           <div class="collapse" id="{{ .Title | urlize }}">
             {{ partial "section-courses-walk.html" . }}
@@ -29,8 +30,9 @@
           <a
             class="d-inline-flex align-items-center rounded"
             href="{{ .RelPermalink }}"
-            >{{ .Title }}</a
           >
+            {{ .Title }}
+          </a>
         </li>
       {{ end }}
     {{ end }}

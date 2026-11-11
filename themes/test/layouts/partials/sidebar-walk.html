@@ -1,26 +1,38 @@
 <ul class="list-unstyled fw-normal pb-1">
-    {{ range .Pages.ByTitle }}
+  {{ range .Pages.ByTitle }}
 
-    {{ if .IsNode }}
-    <li class="mb-1">
-        <button class="btn d-inline-flex align-items-center rounded collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{ .Title | urlize  }}" aria-expanded="false" aria-controls="{{ .Title | urlize  }}">
-            {{ .Title }}
+    {{ if not .IsPage }}
+      <li class="mb-1">
+        <button
+          class="btn d-inline-flex align-items-center rounded collapsed"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#{{ .Title | urlize }}"
+          aria-expanded="false"
+          aria-controls="{{ .Title | urlize }}"
+        >
+          {{ .Title }}
         </button>
 
-        <div class="collapse" id="{{ .Title | urlize  }}">
-            {{ if .Pages }}
+        <div class="collapse" id="{{ .Title | urlize }}">
+          {{ if .Pages }}
             {{ partial "sidebar-walk.html" . }}
-            {{ end }}
+          {{ end }}
         </div>
-    </li>
+      </li>
     {{ end }}
 
     {{ if .IsPage }}
-    <li>
-        <a class="d-inline-flex align-items-center rounded" href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </li>
+      <li>
+        <a
+          class="d-inline-flex align-items-center rounded"
+          href="{{ .RelPermalink }}"
+        >
+          {{ .Title }}
+        </a>
+      </li>
     {{ end }}
 
-    {{ end }}
+  {{ end }}
 
 </ul>

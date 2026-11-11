@@ -5,14 +5,14 @@
   aria-label="Making Wiki Navigation"
 >
   <h2 style="font-size:22px;padding-bottom:1rem;margin-block-start:0;">
-    <a style="margin-left:0;padding-left:0;" href="/"> What Make Art</a>
+    <a style="margin-left:0;padding-left:0;" href="/">What Make Art</a>
   </h2>
   <ul class="bd-links-nav list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
     <li>{{ .Parent.CurrentSection.Title }}</li>
 
     {{ $sectionPages := where .Site.Pages "Section" .Section }}
     {{ range .Parent.CurrentSection.Pages }}
-      {{ if .IsNode }}
+      {{ if not .IsPage }}
         <li class="mb-1">
           <button
             class="btn d-inline-flex align-items-center rounded collapsed"
@@ -36,8 +36,9 @@
           <a
             class="d-inline-flex align-items-center rounded"
             href="{{ .RelPermalink }}"
-            >{{ .Title }}</a
           >
+            {{ .Title }}
+          </a>
         </li>
       {{ end }}
 

@@ -6,7 +6,7 @@
     {{ range ($pages) }}
       <!-- add ($pages.ByTitle) to sort all together in order-->
 
-      {{ if .IsNode }}
+      {{ if not .IsPage }}
         <li class="mb-1">
           <button
             class="btn d-inline-flex align-items-center rounded collapsed"
@@ -30,8 +30,9 @@
           <a
             class="d-inline-flex align-items-center rounded"
             href="{{ .RelPermalink }}"
-            >{{ .Title }}</a
           >
+            {{ .Title }}
+          </a>
         </li>
       {{ end }}
     {{ end }}
