@@ -1,5 +1,8 @@
 {{/* Load Bootstrap SCSS. */}}
-{{ $options := dict "enableSourceMap" true }}
+{{ $options := dict "enableSourceMap" true
+  "transpiler" "dartsass"
+  "targetPath" "css/style.css"
+}}
 {{ if hugo.IsProduction }}
   {{ $options := dict "enableSourceMap" false "outputStyle" "compressed" }}
 {{ end }}
