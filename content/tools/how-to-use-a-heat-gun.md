@@ -1,8 +1,14 @@
 ---
 title: How to Use a Heat Gun
 date: 2023-09-27T16:32:03
-lastmod: 2023-09-27T16:42:09
+lastmod: 2026-11-11T05:57:55-04:00
 ---
+
+[
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/x-PONk-2yxE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 A heat gun is a versatile tool that can be used for a variety of tasks, including removing paint, shrinking tubing, bending plastic, and soldering. It is important to use a heat gun safely and correctly to avoid injury or damage to your workspace.
 
@@ -27,10 +33,10 @@ A heat gun is a versatile tool that can be used for a variety of tasks, includin
 
 ## Common Heat Gun Uses
 
-- **Removing paint:** Use a heat gun to soften old paint, making it easier to scrape off. Be careful not to burn or char the paint.
-- **Shrinking tubing:** [Heat shrink tubing](../electronics/heat-shrink-tubing.md) is a type of plastic tubing that shrinks when heated. This can be used to insulate electrical wires or to create a watertight seal.
-- **Bending plastic:** Heat can be used to soften plastic, making it easier to bend. This can be useful for creating custom parts or for repairing damaged plastic items. Compressed air inside can be used to [bend pvc pipe](../making/bend-pvc-pipe.md) without the bends deforming or collapsing.
-- **Drying wet surfaces**: Heat guns can be used to dry wet surfaces quickly and efficiently.
+- Use a heat gun to soften old paint, making it easier to scrape off. Be careful not to burn or char the paint.
+- [Heat shrink tubing](../electronics/heat-shrink-tubing.md) is a type of plastic tubing that shrinks when heated. This can be used to insulate electrical wires or to create a watertight seal.
+- Heat can be used to soften plastic, making it easier to bend. This can be useful for creating custom parts or for repairing damaged plastic items. Compressed air inside can be used to [bend pvc pipe](../making/bend-pvc-pipe.md) without the bends deforming or collapsing.
+- Heat guns can be used to dry wet surfaces quickly and efficiently.
 
 ### Tips
 
@@ -41,3 +47,15 @@ A heat gun is a versatile tool that can be used for a variety of tasks, includin
 - If you are using the heat gun to remove paint, be sure to work in a well-ventilated area and wear an appropriate respirator.
 
 If you are unsure about how to use a heat gun for a particular task, consult the manufacturer's instructions.
+
+<details>
+
+<summary>
+
+### Heat Gun Basics Video Transcript
+
+</summary>
+
+Here we have a heat gun. This is really great for bending plastic. We can just unwrap the cord here. And it's got a nice pad for keeping this not hot on the bottom so we can put that down like that. And this is adjustable. So we can change this here to change how we have this set. can adjust it all the way up like this as well. If I set it like this it's really good for putting plastic on like this. So we can go ahead and plug into the outlet here. We have a cold setting as well as a hot setting, and we can also adjust the temperature just like this. When you're done, always make sure that you unplug the heat gun be aware that this could be hot. So we don't want this to be touching anything. don't wrap the cord up until it's all the way cooled down.
+
+</details>

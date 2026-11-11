@@ -1,7 +1,7 @@
 ---
 title: 08.03 Tool Holder Ideation and Sketches Assignment
 date: 2026-10-16T09:30:00-04:00
-lastmod: 2026-10-17T13:39:58-04:00
+lastmod: 2026-11-11T05:50:25-04:00
 ---
 
 ## Assignment Deliverables
@@ -31,16 +31,16 @@ Your proposed holder must:
      - steel
      - acrylic
      - wood
-     - plywood
+     - [Plywood](../../../../woodworking/plywood.md)
      - other(s)
    - Techniques might include:
-     - welding
-     - CNC machining
-     - laser cutting
-     - 3D printing
+     - [Welding](../../../../metalworking/welding.md)
+     - [CNC](../../../../digital-fabrication/cnc/cnc-basics.md) machining
+     - [Laser Cutting](../../../../digital-fabrication/laser-cutting/laser-cutting.md)
+     - [3D Printing](../../../../digital-fabrication/3d-printing/3d-printing.md)
      - wood fabrication
-     - acrylic heat bending
-     - mechanical fastening
+     - [Plastic Bending](../../../../making/plastic-bending-basics.md)
+     - mechanical fastening [Wood Fasteners](../../../../woodworking/wood-fasteners.md)
      - adhesive bonding
      - other(s)
 2. Allow easy tool retrieval and return, with enough hand clearance and minimal interference from neighboring tools.
