@@ -1,10 +1,23 @@
 ---
 title: Stripping Wire
-lastmod: 2024-12-05T20:09:06
+lastmod: 2026-11-14T13:06:40-04:00
 date: 2024-11-10T16:01:02
 tags:
   - Electronics
 ---
+
+<div class="video-grid">
+
+<div class="video-card">
+
+### [Which Wire Stripper?](https://youtu.be/z6ly85acQHQ)
+
+<div class="iframe-16-9-container">
+<iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/z6ly85acQHQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+</div>
 
 Stripping wire removes the insulation from the conductors at the end of the wire. So the metal conductors can be inserted into a device or a crimp connector. It is important to use proper tools to strip wire so the conductors are not damaged. This is especially true with stranded wire because slight damage can completely sever one of the strands and therefore change the size of the wire and increase its resistance.
 
