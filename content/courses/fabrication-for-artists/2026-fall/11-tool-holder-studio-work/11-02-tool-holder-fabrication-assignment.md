@@ -1,7 +1,7 @@
 ---
 title: 11.02 Tool Holder Fabrication Assignment
 date: 2026-11-06T09:30:00-04:00
-lastmod: 2026-11-14T14:08:50-04:00
+lastmod: 2026-11-14T14:15:28-04:00
 ---
 
 ## Assignment Deliverables
@@ -22,11 +22,10 @@ Review the [tool holder requirements from the ideation assignment](../08-wood-fa
 
 <div class="responsive-table-markdown">
 
-| Objective                    | Points |
-| ---------------------------- | ------ |
-| Multiple Materials           | 30     |
-| Multiple Fabrication Methods | 30     |
-| Physically Assembled         | 30     |
-| Overall Project Completion   | 10     |
+| Objective                      | Points |
+| ------------------------------ | ------ |
+| Multiple Materials and Methods | 50     |
+| Physically Assembled           | 40     |
+| Overall Project Completion     | 10     |
 
 </div>
