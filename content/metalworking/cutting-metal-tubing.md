@@ -1,7 +1,7 @@
 ---
 title: Cutting Metal Tubing
 date: 2026-08-28T09:30:00-04:00
-lastmod: 2026-08-31T20:25:12-04:00
+lastmod: 2026-11-16T06:09:27-04:00
 ---
 
 ## Cutting Metal Tubing
@@ -17,7 +17,14 @@ Begin with light pressure to establish a groove, then use long, steady strokes t
 Many people use a hacksaw incorrectly by quickly moving the saw back and forth in short strokes with only the center of the saw cutting the material. THis quickly dulls that section of the bland and is much harder.
 
 <div class="video-grid">
-<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9rPAqmub4ag?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<div class="video-card">
+
+### [How to Use a Hacksaw](./how-to-use-a-hacksaw.md)
+
+<div class="iframe-16-9-container"><iframe class="youTubeIframe" width="560" height="315" src="https://www.youtube.com/embed/9RM2ibdMkVo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div>
+
 </div>
 
 ### Portable Bandsaw
